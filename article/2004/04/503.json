@@ -1,0 +1,455 @@
+{
+	"_id":    "UFM.05.04.503",
+	"year":   2004,
+	"volume": 5,
+	"issue":  4,
+	"pages":  [503,534],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["30.12.2003", "12.10.2004"],
+	"PACS":   "61.18.Fs, 61.72.Bb, 61.72.Ji, 61.72.Yx, 62.20.Dc, 65.40.Gr",
+	"title":   {
+		"ua": "Деформаційне й «електрохемічні» взаємодії розчинених атомів у твердих розчинах системи ГЦК-(Fe,Ni)–C й ізоморфних їй",
+		"en": "Strain-Induced and 'Electrochemical' Interactions of Solute Atoms in Solid Solutions of the F.C.C.-(Fe,Ni)–C System and Isomorphous Ones",
+		"ru": "Деформационное и «электрохимические» взаимодействия растворённых атомов в твёрдых растворах системы ГЦК-(Fe,Ni)–C и изоморфных ей"
+	},
+	"abstract": {
+		"ua": "Наведено результати розрахунків (в межах методів статики ґратки й статичних флуктуаційних хвиль) та аналізу енергій деформаційної взаємодії в пáрах домішкових атомів втілення—втілення (i—i), втілення—заміщення (i—s) і заміщення—заміщення (s—s) для твердих розчинів ГЦК-(Fe,Ni)—C й ізоморфних до них з урахуванням дискретної атомної будови кристалічної ґратки. Для розрахунку використано числові значення параметру ґратки, модулів пружності та/або параметрів (Борна—Кармана) квазипружньої сили для кристалічної ґратки розчинника, а також концентраційні коефіцієнти розширення ґратки твердого розчину через введення відповідних домішкових атомів. Встановлено, що енергія деформаційної взаємодії є немонотонно спадаючою («квазиосцилюючою») і анізотропною функцією дискретного міжатомового радіуса-вектора, а сама така взаємодія є сильною і далекосяжною. В усіх твердих розчинах на основі ГЦК-(Fe,Ni) можливе деформаційне притягання в деяких координаційних сферах. Деформаційна взаємодія домішкових атомів у $\\gamma$-Fe є більш слабкою, ніж у $\\alpha$-Ni, але в деяких твердих розчинах її енергії можуть мати такий самий порядок. Перевірка придатності моделі міждомішкової деформаційної взаємодії для Fe—C-аустеніту за допомогою обчислення термодинамічної активності C і характеристик близького порядку в розподілі атомів C, що визначаються за допомогою мессбауерівської спектроскопії, показала, що вона повинна бути доповненою додатковим короткодіючим «електрохімічним» відштовхуванням у першій координаційній сфері. У будь-якому разі деформаційна взаємодія повинна бути прийнята до уваги для аналізу структури і властивостей твердих розчинів втілення (заміщення) на основі ГЦК-(Fe,Ni).",
+		"en": "Within the framework of the lattice-statics method and of the method of static fluctuation waves, the energies of strain-induced interaction of interstitial—interstitial (i—i), interstitial—substitutional (i—s), and substitutional—substitutional (s—s) impurity-atoms’ pairs are calculated and analysed for f.c.c.-(Fe,Ni)—C-isomorphous solid solutions with account of discrete atomic structure of the host-crystal lattice. The lattice spacing, elasticity moduli and/or quasi-elastic force (Born—von Karman) parameters of the host-crystal lattice, and concentration coefficients of the dilatation of the solid-solution lattice due to the corresponding solute atoms are the input numerical experimental data used. Energy of this interaction prove to be nonmonotonically decreasing (‘quasi-oscillating’) and anisotropic function of the discrete interatomic radius-vector, and itself interaction is strong and long-range. In all f.c.c.-(Fe,Ni)-base solid solutions, there is strain-induced attraction in some co-ordination shells. Generally, the strain-induced interaction between impurity atoms in $\\gamma$-Fe is weaker than in $\\alpha$-Ni, but in some solid solutions, it may be of the same order. The verification of applicability of the model of strain-induced interaction between impurities for Fe—C austenite by means of calculation of thermodynamical C activity and the ‘short-range order’ parameters of C-atoms’ distribution revealed by the Mössbauer spectroscopy showed that it must be supplemented by the additional short-range ‘electrochemical’ repulsion inside the first co-ordination shell. In any case, the strain-induced interaction of impurity atoms must be taken into account for analysis of structure and properties of f.c.c.-(Fe,Ni)-base interstitial (substitutional) solid solutions.",
+		"ru": "Приведены результаты расчётов (в рамках методов статики решётки и статических флуктуационных волн) и анализа энергий деформационного взаимодействия в пáрах примесных атомов внедрения—внедрения (i—i), внедрения—замещения (i—s) и замещения—замещения (s—s) для твёрдых растворов ГЦК-(Fe,Ni)—C (а также изоморфных им) с учётом дискретного атомного строения кристаллической решётки. Для расчёта использованы численные значения параметра решётки, модулей упругости и/или параметров (Борна—Кармана) квазиупругой силы для кристаллической решётки растворителя, а также концентрационные коэффициенты расширения решётки твёрдого раствора из-за введения соответствующих примесных атомов. Установлено, что энергия деформационного взаимодействия является немонотонно убывающей («квазиосциллирующей») и анизотропной функцией дискретного межатомного радиуса-вектора, а само такое взаимодействие является сильным и дальнодействующим. Во всех твёрдых растворах на основе ГЦК-(Fe,Ni) в некоторых координационных сферах возможно деформационное притяжение. Деформационное взаимодействие примесных атомов в $\\gamma$-Fe является более слабым, чем в $\\alpha$-Ni, но в некоторых твёрдых растворах его энергии могут иметь тот же самый порядок. Проверка применимости модели межпримесного деформационного взаимодействия для Fe—C-аустенита посредством вычисления термодинамической активности C и характеристик ближнего порядка в распределении атомов C, определяемых с помощью мёссбауэровской спектроскопии, показала, что оно должно быть дополнено добавочным короткодействующим «электрохимическим» отталкиванием внутри первой координационной сферы. В любом случае деформационное взаимодействие должно быть принято во внимание для анализа строения и свойств твёрдых растворов внедрения (замещения) на основе ГЦК-(Fe,Ni)."
+	},
+	"keywords": {
+		"ua": "$\\gamma$-Fe, $\\alpha$-Ni, C-аустеніт, деформаційна взаємодія, «електрохімічна» взаємодія, термодинамічна активність, мессбауерівська спектроскопія",
+		"en": "$\\gamma$-Fe, $\\alpha$-Ni, C-austetnite, deformation interaction, ‘electrochemical’ interaction, thermodynamical activity, Mössbauer spectroscopy",
+		"ru": "$\\gamma$-Fe, $\\alpha$-Ni, C-аустенит, деформационное взаимодействие, «электрохимическое» взаимодействие, термодинамическя активность, мессбауеровская спектроскопия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. А. Татаренко", "en": "V. A. Tatarenko", "ru": "В. А. Татаренко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Надутов", "en": "V. M. Nadutov", "ru": "В. М. Надутов"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.11.04.413",
+				"cit": "S. M. Bokoch and V. A. Tatarenko, <a href=\"https://doi.org/10.15407/ufm.11.04.413\">Usp. Fiz. Met. <b>11</b>, 413 (2010)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 81,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "A. G. Khachaturyan, Theory of Structural Transformations in Solids (New York: John Wiley & Sons: 1983).",
+				"tr":  "A. G. Khachaturyan, Theory of Structural Transformations in Solids (New York: John Wiley & Sons: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Хачатурян, Теория фазовых превращений и структура твердых растворов (Москва: Наука: 1974).",
+				"tr":  "A. G. Khachaturyan, Teoriya fazovykh prevrashcheniy i struktura tverdykh rastvorov (Moskva: Nauka: 1974)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Бугаев, В. А. Татаренко, Взаимодействие и распределение атомов в сплавах внедрения на основе плотноупакованных металлов (Киев: Наукова думка: 1989).",
+				"tr":  "V. N. Bugaev, V. A. Tatarenko, Vzaimodeystvie i raspredelenie atomov v splavakh vnedreniya na osnove plotnoupakovannykh metallov (Kiev: Naukova dumka: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Гаврилюк, Распределение углерода в стали (Киев: Наукова думка: 1987).",
+				"tr":  "V. G. Gavrilyuk, Raspredelenie ugleroda v stali (Kiev: Naukova dumka: 1987)."
+			},
+			{
+				"doi": "10.1016/0001-6160(87)90044-7",
+				"or":  "R. B. McLellan and C. Ko, Acta Metall., 35: 2151 (1987).",
+				"tr":  "R. B. McLellan and C. Ko, Acta Metall., 35: 2151 (1987)."
+			},
+			{
+				"doi": "10.1016/0001-6160(71)90167-2",
+				"or":  "K. Alex and R. B. McLellan, Acta Metall., 19: 439 (1971).",
+				"tr":  "K. Alex and R. B. McLellan, Acta Metall., 19: 439 (1971)."
+			},
+			{
+				"doi": "10.1016/0001-6160(79)90097-X",
+				"or":  "G. E. Murch and R. J. Thorn, Acta Metall., 27, No. 2: 201 (1979)..",
+				"tr":  "G. E. Murch and R. J. Thorn, Acta Metall., 27, No. 2: 201 (1979)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(96)00138-3",
+				"or":  "A. L. Sozinov, A. G. Balanyuk, and V. G. Gavriljuk, Acta Mater., 45, No. 1: 225 (1997).",
+				"tr":  "A. L. Sozinov, A. G. Balanyuk, and V. G. Gavriljuk, Acta Mater., 45, No. 1: 225 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Balanyuk, A. L. Sozinov, and V. G. Gavriljuk, Металлофиз. новейшие технол., 20, № 7: 11 (1998); idem, Met. Phys. Adv. Tech., 18, No. 7: 733 (2000).",
+				"tr":  "G. Balanyuk, A. L. Sozinov, and V. G. Gavriljuk, Metallofiz. noveyshie tekhnol., 20, No. 7: 11 (1998); idem, Met. Phys. Adv. Tech., 18, No. 7: 733 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Ban-ya, J. F. Elliott, and J. Chipman, Trans. Met. Soc. AIME, 245, No. 6: 1199 (1969).",
+				"tr":  "S. Ban-ya, J. F. Elliott, and J. Chipman, Trans. Met. Soc. AIME, 245, No. 6: 1199 (1969)."
+			},
+			{
+				"doi": "10.1007/BF02900248",
+				"or":  "S. Ban-ya, J. F. Elliott, and J. Chipman, Metall. Trans., 1, No. 5: 1313 (1970).",
+				"tr":  "S. Ban-ya, J. F. Elliott, and J. Chipman, Metall. Trans., 1, No. 5: 1313 (1970)."
+			},
+			{
+				"doi": "10.1007/BF02658821",
+				"or":  "J. A. Lobo and G. H. Geiger, Metall. Trans. A, 7, No. 9: 1359 (1976).",
+				"tr":  "J. A. Lobo and G. H. Geiger, Metall. Trans. A, 7, No. 9: 1359 (1976)."
+			},
+			{
+				"doi": "10.1002/srin.196401700",
+				"or":  "K. Bungardt, H. Preisendanz, and G. Lehnert, Arch. Eisenhüttenw., 35, No. 10: 999 (1964).",
+				"tr":  "K. Bungardt, H. Preisendanz, and G. Lehnert, Arch. Eisenhuttenw., 35, No. 10: 999 (1964)."
+			},
+			{
+				"doi": "10.1002/srin.196103213",
+				"or":  "E. Scheil, T. Schmidt, and J. Wunning, Arch. Eisenhüttenw., 32, No. 4: 251 (1961).",
+				"tr":  "E. Scheil, T. Schmidt, and J. Wunning, Arch. Eisenhuttenw., 32, No. 4: 251 (1961)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Schenk and H. Keiser, Arch. Eisenhüttenw., 31, No. 4: 227 (1960).",
+				"tr":  "H. Schenk and H. Keiser, Arch. Eisenhüttenw., 31, No. 4: 227 (1960)."
+			},
+			{
+				"doi": "10.1021/ja01211a010",
+				"or":  "R. P. Smith, J. Amer. Chem. Soc., 68, No. 6: 1163 (1946).",
+				"tr":  "R. P. Smith, J. Amer. Chem. Soc., 68, No. 6: 1163 (1946)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Bodsworth, I. M. Davidson, and D. Atkinson, Trans. AIME, 242: 1135 (1968).",
+				"tr":  "C. Bodsworth, I. M. Davidson, and D. Atkinson, Trans. AIME, 242: 1135 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Horner and H. Wagner, J. Phys. C, 7, No. 18: 3305 (1974).",
+				"tr":  "H. Horner and H. Wagner, J. Phys. C, 7, No. 18: 3305 (1974)."
+			},
+			{
+				"doi": "10.1080/00018737400101401",
+				"or":  "H. Wagner and H. Horner, Adv. Phys., 23, No. 4: 587 (1974).",
+				"tr":  "H. Wagner and H. Horner, Adv. Phys., 23, No. 4: 587 (1974)."
+			},
+			{
+				"doi": "10.1007/BF02649784",
+				"or":  "M. S. Blanter and A. G. Khachaturyan, Metall. Trans. A, 9, No. 6: 753 (1978).",
+				"tr":  "M. S. Blanter and A. G. Khachaturyan, Metall. Trans. A, 9, No. 6: 753 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Вакс, Н. Е. Рейн, В. И. Зиненко, В. Г. Орлов, Ж. эксп. теор. физ., 87, № 6(12): 2030 (1984).",
+				"tr":  "V. G. Vaks, N. E. Reyn, V. I. Zinenko, V. G. Orlov, Zh. eksp. teor. fiz., 87, No. 6(12): 2030 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "М. С. Блантер, В. В. Гладилин, Известия АН СССР: Металлы, № 6: 124 (1985).",
+				"tr":  "M. S. Blanter, V. V. Gladilin, Izvestiya AN SSSR: Metally, No. 6: 124 (1985)."
+			},
+			{
+				"doi": "10.1016/0001-6160(83)90193-1",
+				"or":  "A. I. Shirley, C. K. Hall, and N. J. Prince, Acta Metall., 31, No. 7: 985 (1983).",
+				"tr":  "A. I. Shirley, C. K. Hall, and N. J. Prince, Acta Metall., 31, No. 7: 985 (1983)."
+			},
+			{
+				"doi": "10.1016/0375-9601(92)90410-N",
+				"or":  "S. V. Beiden and V. G. Vaks, Phys. Lett. A, 163, No. 3: 209 (1992).",
+				"tr":  "S. V. Beiden and V. G. Vaks, Phys. Lett. A, 163, No. 3: 209 (1992)."
+			},
+			{
+				"doi": "10.1002/pssb.2221810213",
+				"or":  "M. S. Blanter, Phys. Stat. Solidi B, 181, No. 2: 377 (1994).",
+				"tr":  "M. S. Blanter, Phys. Stat. Solidi B, 181, No. 2: 377 (1994)."
+			},
+			{
+				"doi": "10.1002/1521-3951(199704)200:2<423::AID-PSSB423>3.0.CO;2-9",
+				"or":  "M. S. Blanter, Phys. Stat. Solidi B, 200, No. 2: 423 (1997).",
+				"tr":  "M. S. Blanter, Phys. Stat. Solidi B, 200, No. 2: 423 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "М. С. Блантер, Физ. мет. металловед., 51, № 3: 609 (1981).",
+				"tr":  "M. S. Blanter, Fiz. met. metalloved., 51, No. 3: 609 (1981)."
+			},
+			{
+				"doi": "10.1016/0001-6160(84)90201-3",
+				"or":  "A. I. Schirley and C. K. Hall, Acta Metall., 32, No. 1: 49 (1984).",
+				"tr":  "A. I. Schirley and C. K. Hall, Acta Metall., 32, No. 1: 49 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Nadutov, V. A. Tatarenko, C. L. Tsynman, and K. Ullakko, Металлофиз. новейшие технол., 16, № 8: 34 (1994); idem, Phys. Metals, 14, No. 8: 870 (1995).",
+				"tr":  "V. M. Nadutov, V. A. Tatarenko, C. L. Tsynman, and K. Ullakko, Metallofiz. Noveishie Tekhnol., 16, No. 8: 34 (1994); idem, Phys. Metals, 14, No. 8: 870 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Татаренко, К. Л. Цинман, Металлофиз. новейшие технол., 18, № 10: 32 (1996); idem, Met. Phys. Adv. Tech., 16, No. 10: 1131 (1997).",
+				"tr":  "V. A. Tatarenko, K. L. Tsinman, Metallofiz. Noveishie Tekhnol., 18, No. 10: 32 (1996); idem, Met. Phys. Adv. Tech., 16, No. 10: 1131 (1997)."
+			},
+			{
+				"doi": "10.1007/BF01320212",
+				"or":  "S. Dietrich and H. Wagner, Z. Phys. B, 36, No. 2: 121 (1979).",
+				"tr":  "S. Dietrich and H. Wagner, Z. Phys. B, 36, No. 2: 121 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Татаренко, К. Л. Цинман, Металлофизика, 14, № 10: 14 (1992); idem., Phys. Metals, 12, No. 10: 1043 (1993).",
+				"tr":  "V. A. Tatarenko, K. L. Tsinman, Metallofizika, 14, No. 10: 14 (1992); idem., Phys. Metals, 12, No. 10: 1043 (1993)."
+			},
+			{
+				"doi": "10.1080/01418610108214305",
+				"or":  "R. V. Chepulskii and V. A. Tatarenko, Phil. Mag. A, 81, No. 2: 311 (2001).",
+				"tr":  "R. V. Chepulskii and V. A. Tatarenko, Phil. Mag. A, 81, No. 2: 311 (2001)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(98)00720-8",
+				"or":  "M. S. Blanter, J. Alloys&Comp., 282, No. 1: 137 (1999).",
+				"tr":  "M. S. Blanter, J. Alloys&Comp., 282, No. 1: 137 (1999)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(99)00255-8",
+				"or":  "M. S. Blanter, J. Alloys&Comp., 291, No. 1: 167 (1999).",
+				"tr":  "M. S. Blanter, J. Alloys&Comp., 291, No. 1: 167 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "М. С. Блантер, Металловед. термич. обработка мет., № 8: 41 (1999).",
+				"tr":  "M. S. Blanter, Metalloved. termich. obrabotka met., No. 8: 41 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.50.3603",
+				"or":  "M. S. Blanter, Phys. Rev. B, 50, No. 6: 3603 (1994).",
+				"tr":  "M. S. Blanter, Phys. Rev. B, 50, No. 6: 3603 (1994)."
+			},
+			{
+				"doi": "10.1002/1521-396X(199703)160:1<49::AID-PSSA49>3.0.CO;2-P",
+				"or":  "I. S. Golovin, M. S. Blanter, and R. Schaller, Phys. Stat. Solidi A, 160, No. 1: 49 (1997).",
+				"tr":  "I. S. Golovin, M. S. Blanter, and R. Schaller, Phys. Stat. Solidi A, 160, No. 1: 49 (1997)."
+			},
+			{
+				"doi": "10.1002/(SICI)1521-396X(199808)168:2<403::AID-PSSA403>3.0.CO;2-2",
+				"or":  "I. S. Golovin, M. S. Blanter, T. V. Pozdova, K. Tanaka, and L. B. Magalaz, Phys. Stat. Solidi A, 168: 403 (1998).",
+				"tr":  "I. S. Golovin, M. S. Blanter, T. V. Pozdova, K. Tanaka, and L. B. Magalaz, Phys. Stat. Solidi A, 168: 403 (1998)."
+			},
+			{
+				"doi": "10.1016/0956-7151(92)90138-5",
+				"or":  "M. S. Blanter and M. Ya. Fradkov, Acta Metall. Mater., 40, No. 9: 2201 (1992).",
+				"tr":  "M. S. Blanter and M. Ya. Fradkov, Acta Metall. Mater., 40, No. 9: 2201 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Nadutov, V. A. Tatarenko, and C. L. Tsynman, Proc. of the 3rd International Conference ‘High Nitrogen Steels—HNS 93’ (Kiev, Sept. 14–16, 1993) (Eds. V. G. Gavriljuk and V. M. Nadutov) (Kiev: Inst. for Metal Physics, A.S. of Ukraine: 1993), part 1, p. 106.",
+				"tr":  "V. M. Nadutov, V. A. Tatarenko, and C. L. Tsynman, Proc. of the 3rd International Conference 'High Nitrogen Steels—HNS 93' (Kiev, Sept. 14–16, 1993) (Eds. V. G. Gavriljuk and V. M. Nadutov) (Kiev: Inst. for Metal Physics, A.S. of Ukraine: 1993), part 1, p. 106."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Надутов, В. А. Татаренко, К. Л. Цинман, Металлофизика, 14, № 11: 42 (1992); idem., Phys. Metals, 12, No. 11: 1170 (1993).",
+				"tr":  "V. M. Nadutov, V. A. Tatarenko, K. L. Tsinman, Metallofizika, 14, No. 11: 42 (1992); idem., Phys. Metals, 12, No. 11: 1170 (1993)."
+			},
+			{
+				"doi": "10.1016/S0167-2738(97)00376-7",
+				"or":  "V. A. Tatarenko and C. L. Tsynman, Solid State Ionics, 101–103: 1061 (1997).",
+				"tr":  "V. A. Tatarenko and C. L. Tsynman, Solid State Ionics, 101–103: 1061 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Татаренко, Металлофизика, 21, № 11: 60 (1999); idem., Met. Phys. Adv. Tech., 19, No. 11: 1479 (2001).",
+				"tr":  "V. A. Tatarenko, Metallofizika, 21, No. 11: 60 (1999); idem., Met. Phys. Adv. Tech., 19, No. 11: 1479 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "M. S. Blanter and A. V. Vasiljev, Stability of Materials (Eds. A. Gonis, P. E. A. Turchi, and J. Kudrnovský), NATO ASI Series, Series B: Physics (New York: Plenum Press: 1996), vol. 355, p. 211.",
+				"tr":  "M. S. Blanter and A. V. Vasiljev, Stability of Materials (Eds. A. Gonis, P. E. A. Turchi, and J. Kudrnovský), NATO ASI Series, Series B: Physics (New York: Plenum Press: 1996), vol. 355, p. 211."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Somenkov and S. S. Schilschtein, Prog. Mater. Sci., 24, No. 3/4: 267 (1979).",
+				"tr":  "V. A. Somenkov and S. S. Schilschtein, Prog. Mater. Sci., 24, No. 3/4: 267 (1979)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.35.4500",
+				"or":  "J. Zarestky and C. Stassis, Phys. Rev. B, 35, No. 9: 4500 (1987).",
+				"tr":  "J. Zarestky and C. Stassis, Phys. Rev. B, 35, No. 9: 4500 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Schober and P. H. Dederichs, Metals: Phonon States, Electron States and Fermi Surfaces (Eds. K.-H. Hellwege and J. L. Olsen), Landolt-Börnstein Series, Numerical Data and Functional Relationships in Science and Technology, Group III: Crystal and Solid State Physics (Berlin–Heidelberg–New York: Springer-Verlag: 1981), vol. 13, subvol. a, p. 1.",
+				"tr":  "H. Schober and P. H. Dederichs, Metals: Phonon States, Electron States and Fermi Surfaces (Eds. K.-H. Hellwege and J. L. Olsen), Landolt-Börnstein Series, Numerical Data and Functional Relationships in Science and Technology, Group III: Crystal and Solid State Physics (Berlin–Heidelberg–New York: Springer-Verlag: 1981), vol. 13, subvol. a, p. 1."
+			},
+			{
+				"doi": "10.1139/p72-385",
+				"or":  "D. H. Dutton, B. N. Brockhouse, and A. P. Miller, Canad. J. Phys., 50: 2915 (1972).",
+				"tr":  "D. H. Dutton, B. N. Brockhouse, and A. P. Miller, Canad. J. Phys., 50: 2915 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "R. J. Birgeneau, J. Cordes, G. Dolling, and A. D. B. Woods, Phys. Rev., 136, part A: 1359 (1964).",
+				"tr":  "R. J. Birgeneau, J. Cordes, G. Dolling, and A. D. B. Woods, Phys. Rev., 136, part A: 1359 (1964)."
+			},
+			{
+				"doi": "",
+				"or":  "G. L. Squires, Ark. Fys. (Sweden), 25: 21 (1963).",
+				"tr":  "G. L. Squires, Ark. Fys. (Sweden), 25: 21 (1963)."
+			},
+			{
+				"doi": "10.1002/pssb.2220870129",
+				"or":  "M. S. Kushwaha and S. S. Kushwaha, Phys. Status sol. (b), 87: 247 (1978).",
+				"tr":  "M. S. Kushwaha and S. S. Kushwaha, Phys. Status Solidi B, 87: 247 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Simmons, J. Grad. Res. Cent., 34: 1 (1965).",
+				"tr":  "G. Simmons, J. Grad. Res. Cent., 34: 1 (1965)."
+			},
+			{
+				"doi": "10.1063/1.1701684",
+				"or":  "D. E. Williams, J. Chem. Phys., 47, No. 11: 4680 (1967).",
+				"tr":  "D. E. Williams, J. Chem. Phys., 47, No. 11: 4680 (1967)."
+			},
+			{
+				"doi": "10.1002/pssb.2220620131",
+				"or":  "K. V. Mirskaya, I. E. Kozlova, and V. F. Bereznitskaya, Phys. status solidi B, 62, No. 1: 291 (1974).",
+				"tr":  "K. V. Mirskaya, I. E. Kozlova, and V. F. Bereznitskaya, Phys. Status Solidi B, 62, No. 1: 291 (1974)."
+			},
+			{
+				"doi": "10.1103/PhysRev.178.76",
+				"or":  "A. A. Abrahamson, Phys. Rev., 178, No. 1: 76 (1969).",
+				"tr":  "A. A. Abrahamson, Phys. Rev., 178, No. 1: 76 (1969)."
+			},
+			{
+				"doi": "10.1063/1.1673432",
+				"or":  "T.-S. Kuan, A. Warshel, and O. Schnepp, J. Chem. Phys., 52, No. 6: 3012 (1970).",
+				"tr":  "T.-S. Kuan, A. Warshel, and O. Schnepp, J. Chem. Phys., 52, No. 6: 3012 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "J. R. Sweet and W. A. Steele, J. Chem. Phys., 47, No. 8, Part 2: 3029 (1967).",
+				"tr":  "J. R. Sweet and W. A. Steele, J. Chem. Phys., 47, No. 8, Part 2: 3029 (1967)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.28.1835",
+				"or":  "J. H. Rose, J. R. Smith, and J. Ferrante, Phys. Rev. B, 28, No. 4: 1835 (1983).",
+				"tr":  "J. H. Rose, J. R. Smith, and J. Ferrante, Phys. Rev. B, 28, No. 4: 1835 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Огородников, К. В. Малишевский, Металлофиз. новейшие технол., 23, № 8: 1029 (2001).",
+				"tr":  "V. V. Ogorodnikov, K. V. Malishevskiy, Metallofiz. Noveishie Tekhnol., 23, No. 8: 1029 (2001)."
+			},
+			{
+				"doi": "10.1002/pssa.2210780226",
+				"or":  "Shu Zhen and G. J. Davies, Phys. Status Solidi, 78, No. 2: 595 (1983).",
+				"tr":  "Shu Zhen and G. J. Davies, Phys. Status Solidi, 78, No. 2: 595 (1983)."
+			},
+			{
+				"doi": "10.1098/rspa.1944.0023",
+				"or":  "P. R. Furth, Proc. R. Soc. A, 183: 87 (1944).",
+				"tr":  "P. R. Furth, Proc. R. Soc. A, 183: 87 (1944)."
+			},
+			{
+				"doi": "10.1088/0953-8984/13/22/328",
+				"or":  "M. Sanati, R. C. Albers, and F. J. Pinski, J. Phys.: Condens. Matter, 13, No. 22: 5387 (2001).",
+				"tr":  "M. Sanati, R. C. Albers, and F. J. Pinski, J. Phys.: Condens. Matter, 13, No. 22: 5387 (2001)."
+			},
+			{
+				"doi": "10.1179/msc.1970.4.1.219",
+				"or":  "N. Ridley and H. Stuart, Met. Sci. J., 4, No. 11: 219 (1970).",
+				"tr":  "N. Ridley and H. Stuart, Met. Sci. J., 4, No. 11: 219 (1970)."
+			},
+			{
+				"doi": "10.1016/0956-716X(90)90192-J",
+				"or":  "L. Cheng, A. Böttger, Th. H. de Keijser, and E. J. Mittemeijer, Scr. Metall., 24, No. 3: 509 (1990).",
+				"tr":  "L. Cheng, A. Böttger, Th. H. de Keijser, and E. J. Mittemeijer, Scr. Metall., 24, No. 3: 509 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "A. P. Miodownik, Physics and Applications of Invar Alloys (Eds. H. Saito et al.), Honda Memorial Series on Materials Science (Tokyo: Maruzen Company, Ltd.: 1978), No. 3, chap. 12, p. 288.",
+				"tr":  "A. P. Miodownik, Physics and Applications of Invar Alloys (Eds. H. Saito et al.), Honda Memorial Series on Materials Science (Tokyo: Maruzen Company, Ltd.: 1978), No. 3, chap. 12, p. 288."
+			},
+			{
+				"doi": "",
+				"or":  "W. B. Pearson, Handbook of Lattice Spacings and Structures of Metals and Alloys (New York: Pergamon Press: 1967), vol. 2.",
+				"tr":  "W. B. Pearson, Handbook of Lattice Spacings and Structures of Metals and Alloys (New York: Pergamon Press: 1967), vol. 2."
+			},
+			{
+				"doi": "10.1143/JPSJ.30.1614",
+				"or":  "Y. Endoh and Y. Ishikawa, J. Phys. Soc. Japan, 30: 1614 (1971).",
+				"tr":  "Y. Endoh and Y. Ishikawa, J. Phys. Soc. Japan, 30: 1614 (1971)."
+			},
+			{
+				"doi": "10.1143/JPSJ.50.469",
+				"or":  "Y. Endoh, Y. Noda, and M. Iizumi, J. Phys. Soc. Japan, 50: 469 (1981).",
+				"tr":  "Y. Endoh, Y. Noda, and M. Iizumi, J. Phys. Soc. Japan, 50: 469 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Kohlhaas, Ph. Dunner, und N. Schmitz-Pranghe, Zeitschr. Angew. Phys., 23, No. 4: 245 (1967).",
+				"tr":  "R. Kohlhaas, Ph. Dunner, und N. Schmitz-Pranghe, Zeitschr. Angew. Phys., 23, No. 4: 245 (1967)."
+			},
+			{
+				"doi": "10.1088/0953-8984/6/3/008",
+				"or":  "K. Oda, H. Fujimura, and H. Ino, J. Phys. Condens. Matter., 6, No. 3: 679 (1994).",
+				"tr":  "K. Oda, H. Fujimura, and H. Ino, J. Phys. Condens. Matter., 6, No. 3: 679 (1994)."
+			},
+			{
+				"doi": "10.1002/(SICI)1521-3951(199805)207:1<3::AID-PSSB3>3.0.CO;2-P",
+				"or":  "A. G. Balanyuk, V. N. Bugaev, V. M. Nadutov, and A. L. Sozinov, Phys. Stat. Solidi B, 207: 3 (1998).",
+				"tr":  "A. G. Balanyuk, V. N. Bugaev, V. M. Nadutov, and A. L. Sozinov, Phys. Stat. Solidi B, 207: 3 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Жуков, Р. Л. Снежной, В. А. Татаренко, Металлофиз. новейшие технол., 19, № 12: 41 (1997); idem., Met. Phys. Adv. Tech., 17, No. 12: 1399 (1999).",
+				"tr":  "A. A. Zhukov, R. L. Snezhnoy, V. A. Tatarenko, Metallofiz. Noveishie Tekhnol., 19, No. 12: 41 (1997); idem., Met. Phys. Adv. Tech., 17, No. 12: 1399 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Надутов, В. А. Татаренко, С. А. Панкратьєв, Металлофиз. новейшие технол., 25, № 12, 1633 (2003).",
+				"tr":  "V. M. Nadutov, V. A. Tatarenko, S. A. Pankrat'єv, Metallofiz. Noveishie Tekhnol., 25, No. 12, 1633 (2003)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(98)00663-7",
+				"or":  "V. M. Nadutov, Mater. Sci. Eng., A254: 234 (1998).",
+				"tr":  "V. M. Nadutov, Mater. Sci. Eng., A254: 234 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Гаврилюк, В. М. Надутов, Физ. мет. металловед., 55: 520 (1983).",
+				"tr":  "V. G. Gavrilyuk, V. M. Nadutov, Fiz. met. metalloved., 55: 520 (1983)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.66.134201",
+				"or":  "K. F. Laneri, J. Desimoni, G. J. Zarragoicoechea, and A. Fernández-Guillermet, Phys. Rev. B, 66: 134201 (2002).",
+				"tr":  "K. F. Laneri, J. Desimoni, G. J. Zarragoicoechea, and A. Fernández-Guillermet, Phys. Rev. B, 66: 134201 (2002)."
+			},
+			{
+				"doi": "10.1007/BF02400451",
+				"or":  "Ph. Bauer, O. N. C. Uwakweh, and J. M. R. Génin, Hyperfine Interact., 41, 555 (1988).",
+				"tr":  "Ph. Bauer, O. N. C. Uwakweh, and J. M. R. Genin, Hyperfine Interact., 41, 555 (1988)."
+			},
+			{
+				"doi": "10.1007/BF02671931",
+				"or":  "O. N. C. Uwakweh, J. P. Bauer, and J. M. Génin, Metall. Trans. A, 21: 589 (1990).",
+				"tr":  "O. N. C. Uwakweh, J. P. Bauer, and J. M. Genin, Metall. Trans. A, 21: 589 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Баланюк, В. М. Надутов, Физ. мет. металловед., № 3, 28 (1997).",
+				"tr":  "A. G. Balanyuk, V. M. Nadutov, Fiz. met. metalloved., No. 3, 28 (1997)."
+			},
+			{
+				"doi": "10.1016/S1359-6462(00)00450-4",
+				"or":  "M. S. Blanter and L. B. Magalas, Scripta Materialia, 43, Iss. 5: 435 (2000).",
+				"tr":  "M. S. Blanter and L. B. Magalas, Scripta Materialia, 43, Iss. 5: 435 (2000)."
+			}
+		]
+	}
+}

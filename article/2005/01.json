@@ -1,0 +1,35 @@
+{
+	"year":   2005,
+	"volume": 6,
+	"issue":  1,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [1,54],
+			"title": {
+				"ua": "Самоорганізація конденсованого середовища у флуктуаційному оточенні",
+				"en": "Self-Organization of Condensed Matter in Fluctuating Environment",
+				"ru": "Самоорганизация конденсированной среды во флуктуационном окружении"
+			},
+			"autors": {
+				"ua": "Д. О. Харченко",
+				"en": "D. O. Kharchenko",
+				"ru": "Д. О. Харченко"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [55,103],
+			"title": {
+				"ua": "Мідно-титанові тверді розчини — нове покоління високоміцних старіючих стопів",
+				"en": "Copper–Titanium Solid Solutions are a New Generation of High-Strength Age-Hardening Alloys",
+				"ru": "Медно-титановые твердые растворы — новое поколение высокопрочных стареющих сплавов"
+			},
+			"autors": {
+				"ua": "К. В. Чуістов",
+				"en": "K. V. Chuistov",
+				"ru": "К. В. Чуистов"
+			}
+		}
+	]
+}

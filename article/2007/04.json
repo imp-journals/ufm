@@ -1,0 +1,35 @@
+{
+	"year":   2007,
+	"volume": 8,
+	"issue":  4,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [247,278],
+			"title": {
+				"ua": "Структурно-фазовий стан, стабільність інтерфейсів і електрофізичні властивості двошарових плівкових систем",
+				"en": "Structural-Phase State, Stability of Interfaces and Electrophysical Properties of Two-Layer Film Systems",
+				"ru": "Структурно-фазовое состояние, стабильность интерфейсов и электрофизические свойства двухслойных пленочных систем"
+			},
+			"autors": {
+				"ua": "С. І. Проценко, І. В. Чешко, Д. В. Великодний, І. В. Пазуха, Л. В. Однодворець, І. Ю. Проценко, О. В. Синашенко",
+				"en": "S. I. Protsenko, I. V. Cheshko, D. V. Velykodnyj, I. V. Pazukha, L. V. Odnodvorets’, I. Yu. Protsenko, and O. V. Synashenko",
+				"ru": "С. И. Проценко, И. В. Чешко, Д. В. Великодный, И. В. Пазуха, Л. В. Однодворец, И. Ю. Проценко, О. В. Синашенко"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [279,294],
+			"title": {
+				"ua": "Магнетомеханічні ефекти в аморфних стрічках, одержаних швидкою закалкою із розтопу",
+				"en": "Magnetomechanical Effects in the Amorphous Bands Fabricated by Rapid Quenching from a Smelt",
+				"ru": "Магнитомеханические эффекты в аморфных лентах, полученных быстрой закалкой из расплава"
+			},
+			"autors": {
+				"ua": "М. О. Васильєв, Г. Г. Галстян",
+				"en": "M. O. Vasylyev and G. G. Galstyan",
+				"ru": "М. А. Васильев, Г. Г. Галстян"
+			}
+		}
+	]
+}

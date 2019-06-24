@@ -1,0 +1,63 @@
+{
+	"year":   2012,
+	"volume": 13,
+	"issue":  3,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [225,240],
+			"title": {
+				"ua": "Динаміка доменної межі зі складною внутрішньою структурою циліндричної магнетної домени у зовнішніх магнетних полях",
+				"en": "Dynamics of Domain Boundary with the Complex Internal Structure of the Cylindrical Magnetic Domain in External Magnetic Fields",
+				"ru": "Динамика доменной границы со сложной внутренней структурой цилиндрического магнитного домена во внешних магнитных полях"
+			},
+			"autors": {
+				"ua": "А. Б. Шевченко",
+				"en": "A. B. Shevchenko",
+				"ru": "А. Б. Шевченко"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [241,267],
+			"title": {
+				"ua": "Структурно-фазовий стан, електрофізичні та магнеторезистивні властивості твердих розчинів у плівкових системах на основі Co і Cu або Ag та Fe і Cr або Cu",
+				"en": "Structure–Phase State, Electrophysical and Magnetoresistance Properties of Solid Solutions in Film Systems Based on Co and Cu or Ag, and Fe and Cr or Cu",
+				"ru": "Структурно-фазовое состояние, электрофизические и магниторезистивные свойства твёрдых растворов в плёночных системах на основе Co и Cu или Ag, а также Fe и Cr или Cu"
+			},
+			"autors": {
+				"ua": "Д. М. Кондрахова, Ю. М. Шабельник, О. В. Синашенко, І. Ю. Проценко",
+				"en": "D. M. Kondrakhova, Yu. M. Shabel’nyk, O. V. Synashenko, and I. Yu. Protsenko",
+				"ru": "Д. Н. Кондрахова, Ю. М. Шабельник, О. В. Сынашенко, И. Е. Проценко"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [269,302],
+			"title": {
+				"ua": "Статистична термодинаміка близького атомового порядку заміщення та кінематика дифузного розсіяння випромінення у (пара)магнетних стопах ГЦК-Ni–Fe",
+				"en": "Statistical Thermodynamics of the Substitutional Short-Range Atomic Order and Kinematics of the Diffuse Scattering of Radiations in (Para)Magnetic F.C.C.-Ni–Fe Alloys",
+				"ru": "Статистическая термодинамика ближнего атомного порядка замещения и кинематика диффузного рассеяния излучения в (пара)магнитных сплавах ГЦК-Ni-Fe"
+			},
+			"autors": {
+				"ua": "С. М. Бокоч, В. А. Татаренко, І. В. Вернигора",
+				"en": "S. M. Bokoch, V. A. Tatarenko, and I. V. Vernyhora",
+				"ru": "С. М. Бокоч, В. А. Татаренко, И. В. Вернигора"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [303,343],
+			"title": {
+				"ua": "Мікроструктура та механічні властивості металів і стопів, деформованих у рідкому азоті (огляд)",
+				"en": "Microstructure and Mechanical Properties of Metals and Alloys Deformed in Liquid Nitrogen: Review",
+				"ru": "Микроструктура и механические свойства металлов и сплавов, деформированных в жидком азоте (обзор)"
+			},
+			"autors": {
+				"ua": "М. О. Васильєв, С. М. Волошко, Л. Ф. Яценко",
+				"en": "M. O. Vasiliev, S. M. Voloshko, and L. F. Yatsenko",
+				"ru": "М. А. Васильев, С. М. Волошко, Л. Ф. Яценко"
+			}
+		}
+	]
+}

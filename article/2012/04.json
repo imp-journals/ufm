@@ -1,0 +1,63 @@
+{
+	"year":   2012,
+	"volume": 13,
+	"issue":  4,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [345,381],
+			"title": {
+				"ua": "Квантово-статистичний модель електронно-йонної системи стопів Fe",
+				"en": "Quantum-Statistical Model of Electron–Ion System of Fe Alloys",
+				"ru": "Квантово-статистическая модель электронно-ионной системы сплавов Fe"
+			},
+			"autors": {
+				"ua": "О. І. Міцек",
+				"en": "O. I. Mitsek",
+				"ru": "А. И. Мицек"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [383,395],
+			"title": {
+				"ua": "Термодинаміка утворення гідрогенізованого пермалою за високого тиску на основі підходу із перших принципів",
+				"en": "Thermodynamics of Formation of the Hydrogenated Permalloy under High Pressure on the Basis of the Approach from the First Principles",
+				"ru": "Термодинамика образования гидрогенизированного премаллоя при высоком давлении на основе подхода из первых принципов"
+			},
+			"autors": {
+				"ua": "О. Є. Красовський",
+				"en": "O. E. Krasovskii",
+				"ru": "А. Е. Красовский"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [397,416],
+			"title": {
+				"ua": "Вивчення властивостей контактів кремнію з бар’єром Шотткі, виготовлених на основі аморфних і полікристалічних різних металевих стопів",
+				"en": "Studying of Properties of Silicon Junctions with the Schottky Barrier Fabricated on the Base of Amorphous and Polycrystalline Various Metal Alloys",
+				"ru": "Изучение свойств контактов кремния с барьером Шоттки, изготовленных на основе аморфных и поликристаллических различных металлических сплавов"
+			},
+			"autors": {
+				"ua": "І. Г. Пашаєв",
+				"en": "I. G. Pashayev",
+				"ru": "И. Г. Пашаев"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [417,452],
+			"title": {
+				"ua": "Фізична кінетика перерозподілу точкових дефектів у опромінюваних кристалах",
+				"en": "Physical Kinetics of Redistribution of Point Defects in Irradiated Crystals",
+				"ru": "Физическая кинетика перераспределения точечных дефектов в облучаемых кристаллах"
+			},
+			"autors": {
+				"ua": "О. В. Олійник, В. А. Татаренко",
+				"en": "O. V. Oliinyk and V. A. Tatarenko",
+				"ru": "Е. В. Олейник, В. А. Татаренко"
+			}
+		}
+	]
+}

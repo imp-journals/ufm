@@ -1,0 +1,294 @@
+{
+	"_id":    "UFM.12.02.157",
+	"year":   2011,
+	"volume": 12,
+	"issue":  2,
+	"pages":  [157,181],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["22.02.2011"],
+	"PACS":   "73.23.-b, 73.40.Gk, 73.40.Rw, 74.50.+r, 74.78.Na, 75.47.Lx, 85.25.Am",
+	"title":   {
+		"ua": "Універсальний характер тунельної провідности гетероструктур метал–ізолятор–метал з нанорозмірними оксидними прошарками",
+		"en": "Universal Character of Tunnelling Conductance of Metal–Insulator–Metal Heterostructures with Nanosize Oxide Interlayers",
+		"ru": "Универсальный характер туннельной проводимости гетероструктур металл-изолятор-металл с наноразмерными оксидными прослойками"
+	},
+	"abstract": {
+		"ua": "Обговорено два універсальних ефекти в тунельних характеристиках шаруватих структур метал—ізолятор—метал, у яких діелектричний бар’єр сформований нанорозмірною розупорядкованою плівкою оксиду: (1) універсальний розподіл прозоростей такого шару, що не залежить від конкретних мікроскопічних характеристик, і (2) зміна диференційної провідности таких гетероструктур з напругою за степеневим законом з показником степеня, близьким до 1,33. Наведено експериментальні результати для надпровідних три- і чотирошарових структур з неоднорідними тунельними бар’єрами, що підтверджують існування універсального розподілу їх прозоростей, а також його просту теоретичну інтерпретацію, засновану на гіпотезі про рівнорозподіл добутку висоти бар’єру на шлях, який електрон проходить всередині нього. Показано, що з ростом товщини дефектного шару ізолятора домінантним механізмом провідности стає непружнє тунелювання з емісією бозонних збуджень, в результаті чого залежність диференційної провідности від напруги набуває степеневого характеру з показником степеня, який характеризує число локалізованих всередині бар’єру станів, залучених до процесу переносу заряду крізь нього. Показано, що для матеріялів з фононною густиною станів, що слабко залежить від енергії, показник степеня 1,33 відповідає стрибковій тунельній провідності з участю двох дефектних станів. Детально обговорено відповідні експериментальні дані для розупорядкованих діелектричних шарів на поверхні манганітів.",
+		"en": "Two universal effects in tunnel characteristics of layered metal—insulator—metal structures, where the dielectric barrier is formed by a nanoscale disordered oxide film, are discussed, namely: (1) a universal distribution of the layer transparencies, which does not depend on specific microscopic characteristics, and (2) the power-law change of the differential conductance of such heterostructures with an exponent value close to 1.33. Experimental results for superconducting three- and four-layered structures with inhomogeneous tunnel barriers are given and confirm the existence of a universal distribution of transparencies. Their simple theoretical interpretation based on the equipartition hypothesis of a product of the barrier height on the path, which is passed by an electron within the barrier, is given too. As shown, with increasing thickness of the defect-insulating layer, boson-assisted inelastic tunnelling becomes a dominant conduction mechanism resulting in the power-law differential conductance dependence on voltage with an exponent value, which characterizes the number of states localized inside the barrier and involved in the charge transfer through it. As shown for materials with a phonon density of states, which weakly depends on energy, the exponent value about 1.33 corresponds to hopping tunnelling conductance involving two defect states. Relevant experimental data for near-surface disordered dielectric layers in manganites are discussed in details.",
+		"ru": "Обсуждаются два универсальных эффекта в туннельных характеристиках слоистых структур металл—изолятор—металл, в которых диэлектрический барьер сформирован наноразмерной разупорядоченной плёнкой оксида: (1) универсальное распределение прозрачностей такого слоя, независящее от конкретных микроскопических характеристик, и (2) изменение дифференциальноий проводимости таких гетероструктур с напряжением по степенному закону с показателем степени, близким к 1,33. Приводятся экспериментальные результаты для сверхпроводящих трёх- и четырёхслойных структур с неоднородными туннельными барьерами, подтверждающие существование универсального распределения их прозрачностей, и его простая теоретическая интерпретация, основанная на гипотезе о равнораспределении произведения высоты барьера на путь, который электрон проходит внутри него. Показано, что с ростом толщины дефектного слоя изолятора доминирующим механизмом проводимости становится неупругое туннелирование с испусканием бозонных возбуждений, в результате чего зависимость дифференциальной проводимости от напряжения приобретает степенной характер с показателем степени, который характеризует число локализованных внутри барьера состояний, вовлечённых в процесс переноса заряда сквозь него. Показано, что для материалов с фононной плотностью состояний, которая слабо зависит от энергии, показатель степени 1,33 соответствует прыжковой туннельной проводимости с участием двух дефектных состояний. Детально обсуждаются соответствующие экспериментальные данные для разупорядоченных диэлектрических слоёв на поверхности манганитов."
+	},
+	"keywords": {
+		"ua": "тунельна провідність, шаруваті системи метал—ізолятор—метал, нанорозмірні діелектричні шари, дефектна структура, універсальність",
+		"en": "tunneling conductance, layered metal–dielectric–metal systems, nanoscale dielectric layers, defects structure, universality",
+		"ru": "туннельная проводимость, слоистые системы металл—изолятор—металл, наноразмерные диэлектрические слои, дефектная структура, универсальность"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. А. Бєлоголовський", "en": "M. A. Belogolovskii", "ru": "М. А. Белоголовский"},
+			"OID": [8]
+		},
+		{
+			"AID": {"ua": "І. В. Бойло", "en": "I. V. Boilo", "ru": "И. В. Бойло"},
+			"OID": [8]
+		},
+		{
+			"AID": {"ua": "В. Є. Шатерник", "en": "V. E. Shaternik", "ru": "В. Е. Шатерник"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.3103/S1063457614030058",
+				"cit": "A. V. Shaternik, A. P. Shapovalov and T. O. Prikhna, <a href=\"https://doi.org/10.3103/S1063457614030058\">J. Superhard Mater. <b>36</b>, 180 (2014)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 48,
+		"list":  [
+			{
+				"doi": "10.1080/14786437008238472",
+				"or":  "R. Landauer, IBM J. Res. Develop., 1: 223 (1957); R. Landauer, Philos. Mag., 21: 863 (1970).",
+				"tr":  "R. Landauer, Philos. Mag., 21: 863 (1970)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.31.6207",
+				"or":  "M. Büttiker, Y. Imry, R. Landauer et al., Phys. Rev. B, 31: 6207 (1985).",
+				"tr":  "M. Büttiker, Y. Imry, R. Landauer et al., Phys. Rev. B, 31: 6207 (1985)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.65.2901",
+				"or":  "M. Büttiker, Phys. Rev. Lett., 65: 2901 (1990).",
+				"tr":  "M. Büttiker, Phys. Rev. Lett., 65: 2901 (1990)."
+			},
+			{
+				"doi": "10.1017/CBO9780511805776",
+				"or":  "S. Dutta, Electronic Transport in Mesoscopic Systems (Cambridge: Cambridge University Press: 1995).",
+				"tr":  "S. Dutta, Electronic Transport in Mesoscopic Systems (Cambridge: Cambridge University Press: 1995)."
+			},
+			{
+				"doi": "10.3367/UFNr.0145.198502d.0285",
+				"or":  "Ш. М. Коган, УФН, 145: 285 (1985).",
+				"tr":  "Sh. M. Kogan, UFN, 145: 285 (1985)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.60.537",
+				"or":  "M. B. Weissman, Rev. Mod. Phys., 60: 537 (1988).",
+				"tr":  "M. B. Weissman, Rev. Mod. Phys., 60: 537 (1988)."
+			},
+			{
+				"doi": "10.3367/UFNr.0167.199706c.0623",
+				"or":  "Г. П. Жигальский, УФН, 167: 623 (1997).",
+				"tr":  "G. P. Zhigal'skiy, UFN, 167: 623 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Gokse, E. R. Nowak, S. H. Yang et al., J. Appl. Phys., 99: 08A906 (2006).",
+				"tr":  "A. Gokse, E. R. Nowak, S. H. Yang et al., J. Appl. Phys., 99: 08A906 (2006)."
+			},
+			{
+				"doi": "10.1142/S0217984908017394",
+				"or":  "V. M. Svistunov, V. N. Leonova, M. A. Belogolovskii et al., Mod. Phys. Lett. B, 22: 2811 (2008).",
+				"tr":  "V. M. Svistunov, V. N. Leonova, M. A. Belogolovskii et al., Mod. Phys. Lett. B, 22: 2811 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "B. K. Nikolić and P. B. Allen, Phys. Rev. B, 63: R020201 (2001).",
+				"tr":  "B. K. Nikolić and P. B. Allen, Phys. Rev. B, 63: R020201 (2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.78.3015",
+				"or":  "K. M. Schep and G. E. W. Bauer, Phys. Rev. Lett., 78: 3015 (1997).",
+				"tr":  "K. M. Schep and G. E. W. Bauer, Phys. Rev. Lett., 78: 3015 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Н. Дорохов, Письма в ЖЭТФ, 36: 259 (1982).",
+				"tr":  "O. N. Dorokhov, Pis'ma v ZhETF, 36: 259 (1982)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.73.134",
+				"or":  "Yu. V. Nazarov, Phys. Rev. Lett., 73: 134 (1994).",
+				"tr":  "Yu. V. Nazarov, Phys. Rev. Lett., 73: 134 (1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.76.3806",
+				"or":  "A. H. Steinbach, J. M. Martinis, and M. H. Devoret, Phys. Rev. Lett., 76: 3806 (1996).",
+				"tr":  "A. H. Steinbach, J. M. Martinis, and M. H. Devoret, Phys. Rev. Lett., 76: 3806 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.78.3370",
+				"or":  "R. J. Schoelkopf, P. J. Burke, A. Kozhevnikov et al., Phys. Rev. Lett., 78: 3370 (1997).",
+				"tr":  "R. J. Schoelkopf, P. J. Burke, A. Kozhevnikov et al., Phys. Rev. Lett., 78: 3370 (1997)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.25.4515",
+				"or":  "G. Blonder, M. Tinkham, and T. Klapwijk, Phys. Rev. B, 25: 4515 (1982).",
+				"tr":  "G. Blonder, M. Tinkham, and T. Klapwijk, Phys. Rev. B, 25: 4515 (1982)."
+			},
+			{
+				"doi": "10.1142/S0217979290000127",
+				"or":  "J. R. Kirtley, Int. J. Mod. Phys. B, 4: 201 (1990).",
+				"tr":  "J. R. Kirtley, Int. J. Mod. Phys. B, 4: 201 (1990)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.75.1831",
+				"or":  "D. Averin and A. Bardas, Phys. Rev. Lett., 75: 1831 (1995).",
+				"tr":  "D. Averin and A. Bardas, Phys. Rev. Lett., 75: 1831 (1995)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.56.R8518",
+				"or":  "A. Bardas and D. V. Averin, Phys. Rev. B, 56, No. 14: R8518 (1997).",
+				"tr":  "A. Bardas and D. V. Averin, Phys. Rev. B, 56, No. 14: R8518 (1997)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.85.5404",
+				"or":  "Y. Naveh, V. Patel, D. V. Averin et al., Phys. Rev. Lett., 85: 5404 (2000).",
+				"tr":  "Y. Naveh, V. Patel, D. V. Averin et al., Phys. Rev. Lett., 85: 5404 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "K. K. Likharev, Dynamics of Josephson Junctions and Circuits (Amsterdam: Gordon and Breach: 1991).",
+				"tr":  "K. K. Likharev, Dynamics of Josephson Junctions and Circuits (Amsterdam: Gordon and Breach: 1991)."
+			},
+			{
+				"doi": "",
+				"or":  "E. L. Wolf, Principles of Electron Tunneling Spectroscopy (Oxford: Oxford University Press: 1985).",
+				"tr":  "E. L. Wolf, Principles of Electron Tunneling Spectroscopy (Oxford: Oxford University Press: 1985)."
+			},
+			{
+				"doi": "10.1063/1.3503298",
+				"or":  "V. Lacquaniti, N. De Leo, M. Fretto et al., J. Appl. Phys., 108: 093701 (2010).",
+				"tr":  "V. Lacquaniti, N. De Leo, M. Fretto et al., J. Appl. Phys., 108: 093701 (2010)."
+			},
+			{
+				"doi": "10.1063/1.93974",
+				"or":  "M. Gurvitch, M. Washington, and H. Huggins, Appl. Phys. Lett., 42: 472 (1983).",
+				"tr":  "M. Gurvitch, M. Washington, and H. Huggins, Appl. Phys. Lett., 42: 472 (1983)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.51.1073",
+				"or":  "A. A. Golubov, E. P. Houwman, J. G. Gijsbertsen et al., Phys. Rev. B, 51: 1073 (1995).",
+				"tr":  "A. A. Golubov, E. P. Houwman, J. G. Gijsbertsen et al., Phys. Rev. B, 51: 1073 (1995)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.25.4515",
+				"or":  "G. Blonder, M. Tinkham, and T. Klapwijk, Phys. Rev. B, 25: 4515 (1982).",
+				"tr":  "G. Blonder, M. Tinkham, and T. Klapwijk, Phys. Rev. B, 25: 4515 (1982)."
+			},
+			{
+				"doi": "10.1016/0921-4526(94)90062-0",
+				"or":  "J. A. Melsen and C. W. J. Beenakker, Physica B, 203: 219 (1994).",
+				"tr":  "J. A. Melsen and C. W. J. Beenakker, Physica B, 203: 219 (1994)."
+			},
+			{
+				"doi": "10.1063/1.3531652",
+				"or":  "D. J. Kim, W. S. Choi, F. Schleicher et al., Appl. Phys. Lett., 97: 263502 (2010).",
+				"tr":  "D. J. Kim, W. S. Choi, F. Schleicher et al., Appl. Phys. Lett., 97: 263502 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Gokse, E. R. Nowak, S. H. Yang et al., J. Appl. Phys., 99: 08A906 (2006).",
+				"tr":  "A. Gokse, E. R. Nowak, S. H. Yang et al., J. Appl. Phys., 99: 08A906 (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.52.2843",
+				"or":  "Y. Xu, D. Ephron, and M. R. Beasley, Phys. Rev. B, 52: 2843 (1995).",
+				"tr":  "Y. Xu, D. Ephron, and M. R. Beasley, Phys. Rev. B, 52: 2843 (1995)."
+			},
+			{
+				"doi": "10.1063/1.3500823",
+				"or":  "J. K. Julin, P. J. Koppinen, and I. J. Maasilta, Appl. Phys. Lett., 97: 152501 (2010).",
+				"tr":  "J. K. Julin, P. J. Koppinen, and I. J. Maasilta, Appl. Phys. Lett., 97: 152501 (2010)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.53.1272",
+				"or":  "C. T. Rogers and R. A. Buhrman, Phys. Rev. Lett., 53: 1272 (1984).",
+				"tr":  "C. T. Rogers and R. A. Buhrman, Phys. Rev. Lett., 53: 1272 (1984)."
+			},
+			{
+				"doi": "10.1088/1742-6596/97/1/012243",
+				"or":  "V, Shaternik , S. Larkin , V. Noskov et al., J. Phys.: Conf. Ser., 97: 012243 (2008).",
+				"tr":  "V, Shaternik, S. Larkin, V. Noskov et al., J. Phys.: Conf. Ser., 97: 012243 (2008)."
+			},
+			{
+				"doi": "10.1142/S0217979209062906",
+				"or":  "V. Shaternik, S. Larkin, and M. Belogolovskii, Int. J. Mod. Phys. B, 23: 3520 (2009).",
+				"tr":  "V. Shaternik, S. Larkin, and M. Belogolovskii, Int. J. Mod. Phys. B, 23: 3520 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "V. E. Shaternik, S. Yu. Larkin, M. A. Belogolovskii et al., Металлофиз. новейшие технол., 31, № 2: 271 (2009).",
+				"tr":  "V. E. Shaternik, S. Yu. Larkin, M. A. Belogolovskii et al., Metallofiz. Noveishie Tekhnol., 31, No. 2: 271 (2009)."
+			},
+			{
+				"doi": "10.1088/1742-6596/234/4/042032",
+				"or":  "V. E. Shaternik, S. Yu. Larkin, V. L. Noskov et al., J. Phys.: Conf. Ser., 234: 042032 (2010).",
+				"tr":  "V. E. Shaternik, S. Yu. Larkin, V. L. Noskov et al., J. Phys.: Conf. Ser., 234: 042032 (2010)."
+			},
+			{
+				"doi": "10.1016/j.physc.2006.01.042",
+				"or":  "V. E. Shaternik, S. Yu. Larkin, and T. A. Khachaturova, Physica C, 435: 96 (2006).",
+				"tr":  "V. E. Shaternik, S. Yu. Larkin, and T. A. Khachaturova, Physica C, 435: 96 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "N. F. Mott and E. A. Davis, Electronic Processes in Non-Crystalline Materials (New York: Oxford University Press: 1979).",
+				"tr":  "N. F. Mott and E. A. Davis, Electronic Processes in Non-Crystalline Materials (New York: Oxford University Press: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Свистунов, М. А. Белоголовский, Туннельная спектроскопия квазичастичных возбуждений в металлах (Киев: Наукова думка: 1986).",
+				"tr":  "V. M. Svistunov, M. A. Belogolovskiy, Tunnel'naya spektroskopiya kvazichastichnykh vozbuzhdeniy v metallakh (Kiev: Naukova dumka: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Глазман, К. А. Матвеев, ЖЭТФ, 94: 332 (1988).",
+				"tr":  "L. I. Glazman, K. A. Matveev, ZhETF, 94: 332 (1988)."
+			},
+			{
+				"doi": "10.2478/s11534-009-0012-1",
+				"or":  "M. A. Belogolovskii, Cent. Eur. J. Phys., 7: 304 (2009).",
+				"tr":  "M. A. Belogolovskii, Cent. Eur. J. Phys., 7: 304 (2009)."
+			},
+			{
+				"doi": "10.1063/1.1702682",
+				"or":  "J. G. Simmons, J. Appl. Phys., 34: 1793 (1963).",
+				"tr":  "J. G. Simmons, J. Appl. Phys., 34: 1793 (1963)."
+			},
+			{
+				"doi": "10.1063/1.1312845",
+				"or":  "T. Kiyomura, Y. Maruo, and M. Gomi, J. Appl. Phys., 88: 4768 (2000).",
+				"tr":  "T. Kiyomura, Y. Maruo, and M. Gomi, J. Appl. Phys., 88: 4768 (2000)."
+			},
+			{
+				"doi": "10.1063/1.1557338",
+				"or":  "S. Mitani, T. Moriyama, and K. Takanashi, J. Appl. Phys., 93: 8041 (2003).",
+				"tr":  "S. Mitani, T. Moriyama, and K. Takanashi, J. Appl. Phys., 93: 8041 (2003)."
+			},
+			{
+				"doi": "10.1038/nmat1257",
+				"or":  "S. Yuasa, T. Nagahama, A. Fukushima et al., Nat. Mater., 3: 868 (2004).",
+				"tr":  "S. Yuasa, T. Nagahama, A. Fukushima et al., Nat. Mater., 3: 868 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Локтев, Ю. Г. Погорелов, Физ. низк. температур, 26: 231 (2000).",
+				"tr":  "V. M. Loktev, Yu. G. Pogorelov, Fiz. nizk. temperatur, 26: 231 (2000)."
+			},
+			{
+				"doi": "10.1007/978-3-662-05244-0",
+				"or":  "E. Dagotto, Nanoscale Phase Separation and Colossal Magnetoresistance (Berlin: Springer-Verlag: 2002).",
+				"tr":  "E. Dagotto, Nanoscale Phase Separation and Colossal Magnetoresistance (Berlin: Springer-Verlag: 2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.70.134414",
+				"or":  "C. P. Adams, J. W. Lynn, V. N. Smolyaninova et al., Phys. Rev. B, 70: 134414 (2004).",
+				"tr":  "C. P. Adams, J. W. Lynn, V. N. Smolyaninova et al., Phys. Rev. B, 70: 134414 (2004)."
+			}
+		]
+	}
+}

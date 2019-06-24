@@ -1,0 +1,21 @@
+{
+	"year":   2008,
+	"volume": 9,
+	"issue":  1,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [1,170],
+			"title": {
+				"ua": "Стопи Fe–Ni за високих тисків і температур: статистична термодинаміка та кінетика атомового порядку типу $L1_{2}$ або $D0_{19}$",
+				"en": "Fe–Ni Alloys at High Pressures and Temperatures: Statistical Thermodynamics and Kinetics of the $L1_{2}$ or $D0_{19}$ Atomic Order",
+				"ru": "Сплавы Fe–Ni при высоких давлениях и температурах: статистическая термодинамика и кинетика атомного порядка типа $L1_{2}$ или $D0_{19}$"
+			},
+			"autors": {
+				"ua": "Т. М. Радченко, В. А. Татаренко",
+				"en": "T. M. Radchenko and V. A. Tatarenko",
+				"ru": "Т. М. Радченко, В. А. Татаренко"
+			}
+		}
+	]
+}

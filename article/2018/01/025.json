@@ -1,0 +1,470 @@
+{
+	"_id":    "UFM.19.01.025",
+	"year":   2018,
+	"volume": 19,
+	"issue":  1,
+	"pages":  [25,48],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["28.11.2017", "26.03.2018"],
+	"PACS":   "62.20.Qp, 62.25.-g, 68.55.-a, 68.65.Ac, 81.65.Kn",
+	"title":   {
+		"ua": "Особливості досліджень багатошарових нітридних покриттів на основі Cr і Zr",
+		"en": "Features of Investigations of Multilayer Nitride Coatings Based on Cr and Zr",
+		"ru": "Особенности исследований многослойных нитридных покрытий на основе Cr и Zr"
+	},
+	"abstract": {
+		"ua": "У короткому огляді літературних даних узагальнено результати досліджень структури та властивостей наномасштабних багатошарових покриттів тяжкотопких металів на основі Zr та Cr, одержаних методами вакуумно-дугового осадження катоди. Проведено порівняльну аналізу мікроструктури та властивостей композиційних покриттів ZrN/CrN, залежно від умов осадження (постійного неґативного потенціялу підложжя, імпульсного високовольтного потенціялу зміщення, парціяльного тиску, швидкости потоку робочого газу) та періоду модуляції багатошарової структури. Виявлено загальні закономірності, що полягають у наявності стовпчастої структури та текстури росту. Показано, що для досліджуваних покриттів має місце переважна орієнтація (111). Визначено умови одержання поліпшених фізико-механічних і трибологічних властивостей покриттів.",
+		"en": "The studies of the structure and properties of nanoscale multilayer coatings of Zr- and Cr-based refractory metals obtained by the vacuum arc cathode deposition are summarized in a brief review of the literature data. A comparative analysis of the microstructure and properties of ZrN/CrN composite coatings depending on the deposition conditions (constant negative potential of the substrate, pulsed high-voltage bias potential, partial pressure, reaction gas velocity) and modulation period for multilayered structure is carried out. General regularities consisting in the presence of the columnar structure and the growth texture are revealed. They show that there is a prevailing (111) orientation for investigated coatings. Conditions for obtaining improved physical, mechanical, and tribological properties of the coatings are determined.",
+		"ru": "В кратком обзоре литературных данных обобщены результаты исследований структуры и свойств наномасштабных многослойных покрытий нитридов тугоплавких металлов на основе Zr и Cr, полученных методами вакуумно-дугового осаждения катода. Проведён сравнительный анализ микроструктуры и свойств композиционных покрытий ZrN/CrN в зависимости от условий осаждения (постоянного или импульсного отрицательного потенциала подложки, импульсного высоковольтного потенциала смещения, парциального давления, скорости потока рабочего газа) и периода модуляции многослойной структуры. Выявлены общие закономерности, состоящие в наличии столбчатой структуры и текстуры роста. Показано, что для исследуемых покрытий имеет место преимущественная ориентация (111). Установлены условия получения улучшенных физико-механических и трибологических характеристик покрытий."
+	},
+	"keywords": {
+		"ua": "багатошарові покриття, структура, твердість, корозійна стійкість, зношування",
+		"en": "multilayer coatings, structure, hardness, corrosion resistance, wear",
+		"ru": "многослойные покрытия, структура, твердость, коррозионная стойкость, износ"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. В. Максакова", "en": "O. V. Maksakova", "ru": "О. В. Максакова"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "О. Д. Погребняк", "en": "O. D. Pogrebnjak", "ru": "А. Д. Погребняк"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "В. М. Береснєв", "en": "V. M. Beresnev", "ru": "В. М. Береснев"},
+			"OID": [206]
+		}
+	],
+	"references": {
+		"count": 85,
+		"list":  [
+			{
+				"doi": "10.1179/1743294414Y.0000000344",
+				"or":  "R. K. Upadhyay and L. A. Kumaraswamidhas, Surf. Eng., 31, No. 2: 123 (2015).",
+				"tr":  "R. K. Upadhyay and L. A. Kumaraswamidhas, Surf. Eng., 31, No. 2: 123 (2015)."
+			},
+			{
+				"doi": "10.1016/s0040-6090(00)01004-x",
+				"or":  "J. N. Ding, Y. G. Meng, and S. Z. Wen, Thin Solid Films, 371, No. 1–2: 178 (2000).",
+				"tr":  "J. N. Ding, Y. G. Meng, and S. Z. Wen, Thin Solid Films, 371, Nos. 1–2: 178 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Musil, Ceram. Eng. Sci. Proc., 34, No. 3: 55 (2014).",
+				"tr":  "J. Musil, Ceram. Eng. Sci. Proc., 34, No. 3: 55 (2014)."
+			},
+			{
+				"doi": "10.1134/S1063785016050205",
+				"or":  "V. M. Beresnev, O. V. Sobol’, A. D. Pogrebnjak, S. S. Grankin, V. A. Stolbovoi, P. V. Turbin, A. A. Meilekhov, and M. Y. Arseenko, Tech. Phys. Lett., 42, No. 5: 532 (2016).",
+				"tr":  "V. M. Beresnev, O. V. Sobol’, A. D. Pogrebnjak, S. S. Grankin, V. A. Stolbovoi, P. V. Turbin, A. A. Meilekhov, and M. Y. Arseenko, Tech. Phys. Lett., 42, No. 5: 532 (2016)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2016.06.099",
+				"or":  "G. Abadias, V. V. Uglov, I. A. Saladukhin, S. V. Zlotski, G. Tolmachova, S. N. Dub, and A. J. van Vuuren, Surf. Coatings Technol., 308: 158 (2016).",
+				"tr":  "G. Abadias, V. V. Uglov, I. A. Saladukhin, S. V. Zlotski, G. Tolmachova, S. N. Dub, and A. J. van Vuuren, Surf. Coatings Technol., 308: 158 (2016)."
+			},
+			{
+				"doi": "10.1016/j.matchar.2017.10.016",
+				"or":  "A. Pogrebnjak, V. Ivashchenko, O. Bondar, V. Beresnev, O. Sobol, K. Załęski, E. Coy, S. Jurga, P. Konarski, and B. Postolnyi, Mater. Charact., 134: 55 (2017).",
+				"tr":  "A. Pogrebnjak, V. Ivashchenko, O. Bondar, V. Beresnev, O. Sobol, K. Załęski, E. Coy, S. Jurga, P. Konarski, and B. Postolnyi, Mater. Charact., 134: 55 (2017)."
+			},
+			{
+				"doi": "10.3103/S1063457617030042",
+				"or":  "V. M. Beresnev, S. A. Klimenko, O. V. Sobol’, S. V. Litovchenko, A. D. Pogrebnjak, P. A. Srebnyuk, D. A. Kolesnikov, A. A. Meilekhov, A. A. Postel’nik, and U. S. Nemchenko, J. Superhard Mater., 39: 172 (2017).",
+				"tr":  "V. M. Beresnev, S. A. Klimenko, O. V. Sobol’, S. V. Litovchenko, A. D. Pogrebnjak, P. A. Srebnyuk, D. A. Kolesnikov, A. A. Meilekhov, A. A. Postel’nik, and U. S. Nemchenko, J. Superhard Mater., 39: 172 (2017)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2017.07.010",
+				"or":  "B. O. Postolnyi, V. M. Beresnev, G. Abadias, O. V. Bondar, L. Rebouta, J. P. Araujo, and A. D. Pogrebnjak, J. Alloys and Compounds, 725: 1188 (2017).",
+				"tr":  "B. O. Postolnyi, V. M. Beresnev, G. Abadias, O. V. Bondar, L. Rebouta, J. P. Araujo, and A. D. Pogrebnjak, J. Alloys and Compounds, 725: 1188 (2017)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2004.09.008",
+				"or":  "B. A. Latella, B. K. Gan, K. E. Davies, D. R. McKenzie, and D. G. McCulloch, Surf. Coatings Technol., 200: 3605 (2006).",
+				"tr":  "B. A. Latella, B. K. Gan, K. E. Davies, D. R. McKenzie, and D. G. McCulloch, Surf. Coatings Technol., 200: 3605 (2006)."
+			},
+			{
+				"doi": "10.1007/BF02707797",
+				"or":  "H. C. Barshilia and K. S. Rajam, Bull. Mater. Sci., 26: 233 (2003).",
+				"tr":  "H. C. Barshilia and K. S. Rajam, Bull. Mater. Sci., 26: 233 (2003)."
+			},
+			{
+				"doi": "10.1016/j.ijrmhm.2014.07.043",
+				"or":  "A. D. Pogrebnjak, D. Eyidi, G. Abadias, O. V. Bondar, V. M. Beresnev, and O. V. Sobol, Int. J. Refract. Met. Hard Mater., 48: 222 (2015).",
+				"tr":  "A. D. Pogrebnjak, D. Eyidi, G. Abadias, O. V. Bondar, V. M. Beresnev, and O. V. Sobol, Int. J. Refract. Met. Hard Mater., 48: 222 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "A. L. Kameneva, N. I. Sushenshcov, and A. Klochkov, Tekhnologiya Metallov, No. 11: 38 (2010) (in Russian).",
+				"tr":  "A. L. Kameneva, N. I. Sushenshcov, and A. Klochkov, Tekhnologiya Metallov, No. 11: 38 (2010) (in Russian)."
+			},
+			{
+				"doi": "10.1166/jnn.2012.6777",
+				"or":  "A. D. Pogrebnjak, A. P. Shpak, V. M. Beresnev, D. A. Kolesnikov, Y. A. Kunitskii, O. V. Sobol, V. V. Uglov, F. F. Komarov, A. P. Shypylenko, N. A. Makhmudov, A. A. Demyanenko, V. S. Baidak, and V. V. Grudnitskii, J. Nanosci. Nanotechnol., 12, No. 12: 9213 (2012).",
+				"tr":  "A. D. Pogrebnjak, A. P. Shpak, V. M. Beresnev, D. A. Kolesnikov, Y. A. Kunitskii, O. V. Sobol, V. V. Uglov, F. F. Komarov, A. P. Shypylenko, N. A. Makhmudov, A. A. Demyanenko, V. S. Baidak, and V. V. Grudnitskii, J. Nanosci. Nanotechnol., 12, No. 12: 9213 (2012)."
+			},
+			{
+				"doi": "10.1016/j.matlet.2015.10.091",
+				"or":  "Z. T. Wu, Z. B. Qi, D. F. Zhang, and Z. C. Wang, Mater. Lett., 164: 120 (2016).",
+				"tr":  "Z. T. Wu, Z. B. Qi, D. F. Zhang, and Z. C. Wang, Mater. Lett., 164: 120 (2016)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(98)00584-2",
+				"or":  "K. A. Gruss, T. Zheleva, R. F. Davis, and T. R. Watkins, Surf. Coatings Technol., 107, No. 2–3: 115 (1998).",
+				"tr":  "K. A. Gruss, T. Zheleva, R. F. Davis, and T. R. Watkins, Surf. Coatings Technol., 107, Nos. 2–3: 115 (1998)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/KEM.280-283.1459",
+				"or":  "E. Atar, H. Cimenoglu, and E. S. Kayali, Key Eng. Mater., 280–283: 1459 (2005).",
+				"tr":  "E. Atar, H. Cimenoglu, and E. S. Kayali, Key Eng. Mater., 280–283: 1459 (2005)."
+			},
+			{
+				"doi": "10.1016/j.vacuum.2016.05.020",
+				"or":  "J. Musil, S. Zenkin, Kos, R. Čerstvý, and S. Haviar, Vacuum, 131: 34 (2016).",
+				"tr":  "J. Musil, S. Zenkin, Kos, R. Čerstvý, and S. Haviar, Vacuum, 131: 34 (2016)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(01)01476-1",
+				"or":  "A. Lousa, J. Romero, E. Martínez, J. Esteve, F. Montala, and L. Carreras, Surf. Coatings Technol., 146–147: 268 (2001).",
+				"tr":  "A. Lousa, J. Romero, E. Martínez, J. Esteve, F. Montala, and L. Carreras, Surf. Coatings Technol., 146–147: 268 (2001)."
+			},
+			{
+				"doi": "10.1016/j.vacuum.2007.08.009",
+				"or":  "Z. G. Zhang, O. Rapaud, N. Bonasso, D. Mercs, C. Dong, and C. Coddet, Vacuum, 82: 501 (2008).",
+				"tr":  "Z. G. Zhang, O. Rapaud, N. Bonasso, D. Mercs, C. Dong, and C. Coddet, Vacuum, 82: 501 (2008)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/SSP.237.47",
+				"or":  "P. Wiecinski, J. Smolik, H. Garbacz, and K. J. Kurzydłowski, Solid State Phenom., 237: 47 (2015).",
+				"tr":  "P. Wiecinski, J. Smolik, H. Garbacz, and K. J. Kurzydłowski, Solid State Phenom., 237: 47 (2015)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2006.02.005",
+				"or":  "A. Dasgupta, P. A. Premkumar, F. Lawrence, L. Houben, P. Kuppusami, M. Luysberg, K. S. Nagaraja, and V. S. Raghunathan, Surf. Coatings Technol., 201, No. 3–4: 1401 (2006).",
+				"tr":  "A. Dasgupta, P. A. Premkumar, F. Lawrence, L. Houben, P. Kuppusami, M. Luysberg, K. S. Nagaraja, and V. S. Raghunathan, Surf. Coatings Technol., 201, Nos. 3–4: 1401 (2006)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(01)01238-5",
+				"or":  "D. B. Lee, M. H. Kim, Y. C. Lee, and S. C. Kwon, Surf. Coatings Technol., 141, No. 2–3: 227 (2001).",
+				"tr":  "D. B. Lee, M. H. Kim, Y. C. Lee, and S. C. Kwon, Surf. Coatings Technol., 141, Nos. 2–3: 227 (2001)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2009.04.040",
+				"or":  "J. L. Mo and M. H. Zhu, Appl. Surf. Sci., 255, No. 17: 7627 (2009).",
+				"tr":  "J. L. Mo and M. H. Zhu, Appl. Surf. Sci., 255, No. 17: 7627 (2009)."
+			},
+			{
+				"doi": "10.1299/jsmea.49.123",
+				"or":  "R.-I. Murakami, Y.-H. Kim, K. Kimura, D. Yonekura, and D.-H. Shin, JSME Int. Journal, Ser. A: Solid Mech. Mater. Eng., 49, No. 1: 123 (2006).",
+				"tr":  "R.-I. Murakami, Y.-H. Kim, K. Kimura, D. Yonekura, and D.-H. Shin, JSME Int. Journal, Ser. A: Solid Mech. Mater. Eng., 49, No. 1: 123 (2006)."
+			},
+			{
+				"doi": "10.1016/S0169-4332(99)00350-5",
+				"or":  "J. Jagielski, A. S. Khanna, J. Kucinski, D. S. Mishra, P. Racolta, P. Sioshansi, E. Tobin, J. Thereska, V. Uglov, T. Vilaithong, J. Viviente, S. Z. Yang, and A. Zalar, Appl. Surf. Sci., 156, No. 1: 47 (2000).",
+				"tr":  "J. Jagielski, A. S. Khanna, J. Kucinski, D. S. Mishra, P. Racolta, P. Sioshansi, E. Tobin, J. Thereska, V. Uglov, T. Vilaithong, J. Viviente, S. Z. Yang, and A. Zalar, Appl. Surf. Sci., 156, No. 1: 47 (2000)."
+			},
+			{
+				"doi": "10.5796/electrochemistry.82.658",
+				"or":  "J. Park, P. Kusumah, Y. Kim, K. Kim, K. Kwon, and C. K. Lee, Electrochemistry, 82, No. 8: 658 (2014).",
+				"tr":  "J. Park, P. Kusumah, Y. Kim, K. Kim, K. Kwon, and C. K. Lee, Electrochemistry, 82, No. 8: 658 (2014)."
+			},
+			{
+				"doi": "10.1016/S0040-6090(97)00069-2",
+				"or":  "I. Milošev, H.-H. Strehblow, and B. Navinšek, Thin Solid Films, 303, No. 1–2: 246 (1997).",
+				"tr":  "I. Milošev, H.-H. Strehblow, and B. Navinšek, Thin Solid Films, 303, Nos. 1–2: 246 (1997)."
+			},
+			{
+				"doi": "10.1016/j.vacuum.2008.04.054",
+				"or":  "Z. G. Zhang, O. Rapaud, N. Bonasso, D. Mercs, C. Dong, and C. Coddet, Vacuum, 82, No. 11: 1332 (2008).",
+				"tr":  "Z. G. Zhang, O. Rapaud, N. Bonasso, D. Mercs, C. Dong, and C. Coddet, Vacuum, 82, No. 11: 1332 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "O. V. Sobol, A. A. Andreev, V. F. Gorban, V. A. Stolbovoy, A. A. Meylekhov, A. A. Postelnyk, and A. V. Dolomanov, Problems of Atomic Science and Technology (PAST), 101, No. 1: 134 (2016).",
+				"tr":  "O. V. Sobol, A. A. Andreev, V. F. Gorban, V. A. Stolbovoy, A. A. Meylekhov, A. A. Postelnyk, and A. V. Dolomanov, Problems of Atomic Science and Technology (PAST), 101, No. 1: 134 (2016)."
+			},
+			{
+				"doi": "10.21272/jnep.8(1).01042",
+				"or":  "O. V. Sobol, A. A. Andreev, V. F. Gorban, A. A. Meylekhov, H. O. Postelnyk, and V.A. Stolbovoy, J. Nano- Electron. Phys., 8, No. 1: 01042 (2016).",
+				"tr":  "O. V. Sobol, A. A. Andreev, V. F. Gorban, A. A. Meylekhov, H. O. Postelnyk, and V.A. Stolbovoy, J. Nano- Electron. Phys., 8, No. 1: 01042 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "O. V. Sobol’, A. A. Andreev, V. F. Gorban’, V. A. Stolbovoy, A. A. Meylekhov, and A. A. Postel’nik, Zhurnal Tekhnicheskoy Fiziki, 86, No. 7: 100 (2016) (in Russian).",
+				"tr":  "O. V. Sobol’, A. A. Andreev, V. F. Gorban’, V. A. Stolbovoy, A. A. Meylekhov, and A. A. Postel’nik, Zhurnal Tekhnicheskoy Fiziki, 86, No. 7: 100 (2016) (in Russian)."
+			},
+			{
+				"doi": "doi:10.1016/j.surfcoat.2012.03.002",
+				"or":  "S. F. Chen, Y. C. Kuo, C. J. Wang, S. H. Huang, J. W. Lee, Y. C. Chan, H. W. Chen, J. G. Duh, and T. E. Hsieh, Surf. Coatings Technol., 231: 247 (2013).",
+				"tr":  "S. F. Chen, Y. C. Kuo, C. J. Wang, S. H. Huang, J. W. Lee, Y. C. Chan, H. W. Chen, J. G. Duh, and T. E. Hsieh, Surf. Coatings Technol., 231: 247 (2013)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2011.10.029",
+				"or":  "S.-H. Huang, S.-F. Chen, Y.-C. Kuo, C.-J. Wang, J.-W. Lee, Y.-C. Chan, H.-W. Chen, J.-G. Duh, and T.-E. Hsieh, Surf. Coatings Technol., 206, No. 7: 1744 (2011).",
+				"tr":  "S.-H. Huang, S.-F. Chen, Y.-C. Kuo, C.-J. Wang, J.-W. Lee, Y.-C. Chan, H.-W. Chen, J.-G. Duh, and T.-E. Hsieh, Surf. Coatings Technol., 206, No. 7: 1744 (2011)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2008.10.075",
+				"or":  "Z. G. Zhang, O. Rapaud, N. Allain, D. Mercs, M. Baraket, C. Dong, and C. Coddet, Appl. Surf. Sci., 255, No. 7: 4020 (2009).",
+				"tr":  "Z. G. Zhang, O. Rapaud, N. Allain, D. Mercs, M. Baraket, C. Dong, and C. Coddet, Appl. Surf. Sci., 255, No. 7: 4020 (2009)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/AMR.38.63",
+				"or":  "N. A. de Sánchez, H. E. Jaramillo, Z. Vivas, W. Aperador, C. Amaya, and J. C. Caicedo, Adv. Mat. Res., 38: 63 (2008).",
+				"tr":  "N. A. de Sánchez, H. E. Jaramillo, Z. Vivas, W. Aperador, C. Amaya, and J. C. Caicedo, Adv. Mat. Res., 38: 63 (2008)."
+			},
+			{
+				"doi": "10.3365/met.mat.2008.08.465",
+				"or":  "M.-K. Kim, G.-S. Kim, and S.-Y. Lee, Met. Mater. Int., 14, No. 4: 465 (2008).",
+				"tr":  "M.-K. Kim, G.-S. Kim, and S.-Y. Lee, Met. Mater. Int., 14, No. 4: 465 (2008)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2006.07.093",
+				"or":  "J. J. Zhang, M. X. Wang, J. Yang, Q. X. Liu, and D. J. Li, Surf. Coatings Technol., 201, No. 9–11: 5186 (2007).",
+				"tr":  "J. J. Zhang, M. X. Wang, J. Yang, Q. X. Liu, and D. J. Li, Surf. Coatings Technol., 201, Nos. 9–11: 5186 (2007)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2005.08.031",
+				"or":  "D. J. Li, F. Liu, M. X. Wang, J. J. Zhang, and Q. X. Liu, Thin Solid Films, 506–507: 202 (2006).",
+				"tr":  "D. J. Li, F. Liu, M. X. Wang, J. J. Zhang, and Q. X. Liu, Thin Solid Films, 506–507: 202 (2006)."
+			},
+			{
+				"doi": "10.1142/S0218625X06008177",
+				"or":  "M. X. Wang, J. J. Zhang, Q. X. Liu, and D. J. Li, Surf. Rev. Lett., 13, No. 2–3: 173 (2006).",
+				"tr":  "M. X. Wang, J. J. Zhang, Q. X. Liu, and D. J. Li, Surf. Rev. Lett., 13, Nos. 2–3: 173 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "F. Liu, M. X. Wang, Q. X. Liu, and D. J. Li, Trans. Nonferrous Met. Soc. China, 14: 243 (2004).",
+				"tr":  "F. Liu, M. X. Wang, Q. X. Liu, and D. J. Li, Trans. Nonferrous Met. Soc. China, 14: 243 (2004)."
+			},
+			{
+				"doi": "10.3367/UFNe.0179.200901b.0035",
+				"or":  "A. D. Pogrebnyak, A. P. Shpak, N. A. Azarenkov, and V. M. Beresnev, Physics-Uspekhi, 52, No. 1: 29 (2009).",
+				"tr":  "A. D. Pogrebnyak, A. P. Shpak, N. A. Azarenkov, and V. M. Beresnev, Physics-Uspekhi, 52, No. 1: 29 (2009)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2004.10.053",
+				"or":  "S. Veprek, M. G. J. Veprek-Heijman, P. Karvankova, and J. Prochazka, Thin Solid Films, 476, No. 1: 1 (2005).",
+				"tr":  "S. Veprek, M. G. J. Veprek-Heijman, P. Karvankova, and J. Prochazka, Thin Solid Films, 476, No. 1: 1 (2005)."
+			},
+			{
+				"doi": "10.1016/j.vacuum.2017.02.004",
+				"or":  "A. J. Cavaleiro, A. S. Ramos, R. M. S. Martins, F. M. Braz Fernandes, and M. T. Vieira, Vacuum, 139: 23–25 (2017).",
+				"tr":  "A. J. Cavaleiro, A. S. Ramos, R. M. S. Martins, F. M. Braz Fernandes, and M. T. Vieira, Vacuum, 139: 23–25 (2017)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2005.08.101",
+				"or":  "G. S. Kim, B. S. Kim, S. Y. Lee, and J. H. Hahn, Surf. Coatings Technol., 200, No. 5–6: 1669 (2005).",
+				"tr":  "G. S. Kim, B. S. Kim, S. Y. Lee, and J. H. Hahn, Surf. Coatings Technol., 200, Nos. 5–6: 1669 (2005)."
+			},
+			{
+				"doi": "10.1016/C2009-0-22199-4",
+				"or":  "M. Ohring, The Materials Science of Thin Films (Elsevier Inc.: 2013), p. 704.",
+				"tr":  "M. Ohring, The Materials Science of Thin Films (Elsevier Inc.: 2013), p. 704."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2017.05.136",
+				"or":  "A. Pogrebnjak, V. Rogoz, V. Ivashchenko, O. Bondar, V. Shevchenko, S. Jurga, and E. Coy, J. Alloys and Compounds, 718: 260 (2017).",
+				"tr":  "A. Pogrebnjak, V. Rogoz, V. Ivashchenko, O. Bondar, V. Shevchenko, S. Jurga, and E. Coy, J. Alloys and Compounds, 718: 260 (2017)."
+			},
+			{
+				"doi": "10.1016/j.ijrmhm.2012.03.002",
+				"or":  "J. Deng, F. Wu, Y. Lian, Y. Xing, and S. Li, Int. J. Refractory Metals and Hard Materials, 35: 10 (2012).",
+				"tr":  "J. Deng, F. Wu, Y. Lian, Y. Xing, and S. Li, Int. J. Refractory Metals and Hard Materials, 35: 10 (2012)."
+			},
+			{
+				"doi": "10.3367/UFNe.0182.201203d.0287",
+				"or":  "A. D. Pogrebnyak, A. G. Ponomarev, A. P. Shpak, and Yu. A. Kunitskii, Physics-Uspekhi, 55, No. 1: 29 (2012).",
+				"tr":  "A. D. Pogrebnyak, A. G. Ponomarev, A. P. Shpak, and Yu. A. Kunitskii, Physics-Uspekhi, 55, No. 1: 29 (2012)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2016.04.064",
+				"or":  "A. D. Pogrebnjak, I. V. Yakushchenko, O. V. Bondar, V. M. Beresnev, K. Oyoshi, O. M. Ivasishin, H. Amekura, Y. Takeda, M. Opielak, and C. Kozak, J. Alloys and Compounds, 679: 155 (2016).",
+				"tr":  "A. D. Pogrebnjak, I. V. Yakushchenko, O. V. Bondar, V. M. Beresnev, K. Oyoshi, O. M. Ivasishin, H. Amekura, Y. Takeda, M. Opielak, and C. Kozak, J. Alloys and Compounds, 679: 155 (2016)."
+			},
+			{
+				"doi": "10.1016/j.ceramint.2016.10.008",
+				"or":  "A. D. Pogrebnjak, A. A. Bagdasaryan, V. M. Beresnev, U. S. Nyemchenko, V. I. Ivashchenko, Y. O. Kravchenko, Z. H. K. Shaimardanov, S. V. Plotnikov, and O. Maksakova, Ceram. Int., 43, No. 1: 771 (2017).",
+				"tr":  "A. D. Pogrebnjak, A. A. Bagdasaryan, V. M. Beresnev, U. S. Nyemchenko, V. I. Ivashchenko, Y. O. Kravchenko, Z. H. K. Shaimardanov, S. V. Plotnikov, and O. Maksakova, Ceram. Int., 43, No. 1: 771 (2017)."
+			},
+			{
+				"doi": "10.15407/ufm.17.01.001",
+				"or":  "A. D. Pogrebnjak, O. M. Ivasishin, and V. M. Beresnev, Uspehi Fiziki Metallov, 17: 1 (2016).",
+				"tr":  "A. D. Pogrebnjak, O. M. Ivasishin, and V. M. Beresnev, Uspehi Fiziki Metallov, 17: 1 (2016)."
+			},
+			{
+				"doi": "10.1016/B978-0-08-096532-1.00423-4",
+				"or":  "P. H. Mayrhofer, R. Rachbauer, D. Holec, F. Rovere, and J. M. Schneider, Protective Transition Metal Nitride Coatings in Comprehensive Materials Processing (Elsevier Ltd: 2014), p. 355.",
+				"tr":  "P. H. Mayrhofer, R. Rachbauer, D. Holec, F. Rovere, and J. M. Schneider, Protective Transition Metal Nitride Coatings in Comprehensive Materials Processing (Elsevier Ltd: 2014), p. 355."
+			},
+			{
+				"doi": "10.1016/j.tsf.2005.12.279",
+				"or":  "A. Rizzo, M. A. Signore, M. Penza, M. A. Tagliente, F. De Riccardis, and E. Serra, Thin Solid Films, 515, No. 2: 500 (2006).",
+				"tr":  "A. Rizzo, M. A. Signore, M. Penza, M. A. Tagliente, F. De Riccardis, and E. Serra, Thin Solid Films, 515, No. 2: 500 (2006)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(00)00884-7",
+				"or":  "V. N. Zhitomirsky, I. Grimberg, L. Rapoport, R. L. Boxman, N. A. Travitzky, S. Goldsmith, and B. Z. Weiss, Surf. Coatings Technol., 133–134: 114 (2000).",
+				"tr":  "V. N. Zhitomirsky, I. Grimberg, L. Rapoport, R. L. Boxman, N. A. Travitzky, S. Goldsmith, and B. Z. Weiss, Surf. Coatings Technol., 133–134: 114 (2000)."
+			},
+			{
+				"doi": "10.15407/ufm.06.03.197",
+				"or":  "A. G. Gyglya, I. M. Neklyudov, Uspehi Fiziki Metallov, 6, No. 3: 197 (2005) (in Russian).",
+				"tr":  "A. G. Gyglya, I. M. Neklyudov, Uspehi Fiziki Metallov, 6, No. 3: 197 (2005) (in Russian)."
+			},
+			{
+				"doi": "10.1007/978-94-009-1565-7_1",
+				"or":  "S. T. Oyama, The Chemistry of Transition Metal Carbides and Nitrides, (Springer Netherlands: 1996), p. 1.",
+				"tr":  "S. T. Oyama, The Chemistry of Transition Metal Carbides and Nitrides, (Springer Netherlands: 1996), p. 1."
+			},
+			{
+				"doi": "10.1016/S0257-8972(00)00527-2",
+				"or":  "G. Bertrand, H. Mahdjoub, and C. Meunier, Surf. Coatings Technol., 126, No. 2–3: 199 (2000).",
+				"tr":  "G. Bertrand, H. Mahdjoub, and C. Meunier, Surf. Coatings Technol., 126, No. 2–3: 199 (2000)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2005.09.075",
+				"or":  "F. Noli, P. Misaelides, A. Hatzidimitriou, E. Pavlidou, and A. D. Pogrebnjak, Appl. Surf. Sci., 252, No. 23: 8043 (2006).",
+				"tr":  "F. Noli, P. Misaelides, A. Hatzidimitriou, E. Pavlidou, and A. D. Pogrebnjak, Appl. Surf. Sci., 252, No. 23: 8043 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "S. M. Musameh and S. W. Jodeh, J. Act. Passiv. Electron. Devices, 2: 93 (2007).",
+				"tr":  "S. M. Musameh and S. W. Jodeh, J. Act. Passiv. Electron. Devices, 2: 93 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "T. M. Radchenko, V. A. Tatarenko, and S. M. Bokoch, Metallofizika i Noveishie Tekhnologii, 28, No. 12: 1699 (2006); arXiv:1406.0147.",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, and S. M. Bokoch, Metallofizika i Noveishie Tekhnologii, 28, No. 12: 1699 (2006); arXiv:1406.0147."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/DDF.273-276.525",
+				"or":  "T. M. Radchenko and V. A. Tatarenko, Defect and Diffusion Forum, 273: 525 (2008).",
+				"tr":  "T. M. Radchenko and V. A. Tatarenko, Defect and Diffusion Forum, 273: 525 (2008)."
+			},
+			{
+				"doi": "10.1016/j.physe.2010.03.024",
+				"or":  "T. M. Radchenko and V. A. Tatarenko, Physica E, 42, No. 8: 2047 (2010).",
+				"tr":  "T. M. Radchenko and V. A. Tatarenko, Physica E, 42, No. 8: 2047 (2010)."
+			},
+			{
+				"doi": "10.1016/j.solidstatesciences.2009.05.027",
+				"or":  "T. M. Radchenko and V. A. Tatarenko, Solid State Sciences, 12, No. 2: 204 (2010).",
+				"tr":  "T. M. Radchenko and V. A. Tatarenko, Solid State Sciences, 12, No. 2: 204 (2010)."
+			},
+			{
+				"doi": "10.1557/JMR.1995.2892",
+				"or":  "T. D. Shen, C. C. Koch, T. Y. Tsui, and G. M. Pharr, J. Mater. Res., 10, No. 11: 2892 (1995).",
+				"tr":  "T. D. Shen, C. C. Koch, T. Y. Tsui, and G. M. Pharr, J. Mater. Res., 10, No. 11: 2892 (1995)."
+			},
+			{
+				"doi": "10.1166/jnn.2012.4699",
+				"or":  "S.-W. Yoon, J.-H. Seo, K.-H. Chae, J.-K. Park, J.-H. Song, V. Jayaram, K.-B. Lee, T.-Y. Seong, and J.-P. Ahn, J. Nanosci. Nanotechnol., 12, No. 2: 1476 (2012).",
+				"tr":  "S.-W. Yoon, J.-H. Seo, K.-H. Chae, J.-K. Park, J.-H. Song, V. Jayaram, K.-B. Lee, T.-Y. Seong, and J.-P. Ahn, J. Nanosci. Nanotechnol., 12, No. 2: 1476 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Shan, Y. Wang, J. Li, X. Jiang, and J. Chen, Tribol. Int., 82: 78 (2015).",
+				"tr":  "L. Shan, Y. Wang, J. Li, X. Jiang, and J. Chen, Tribol. Int., 82: 78 (2015)."
+			},
+			{
+				"doi": "10.3367/UFNe.2016.12.038018",
+				"or":  "A. D. Pogrebnjak, A. A. Bagdasaryan, A. Pshyk, and K. Dyadyura, Physics-Uspekhi, 60: 586 (2017).",
+				"tr":  "A. D. Pogrebnjak, A. A. Bagdasaryan, A. Pshyk, and K. Dyadyura, Physics-Uspekhi, 60: 586 (2017)."
+			},
+			{
+				"doi": "10.1063/1.339770",
+				"or":  "U. Helmersson, S. Todorova, S. A. Barnett, and J. E. Sundgren, J. Appl. Phys., 62, No. 2: 481(1987).",
+				"tr":  "U. Helmersson, S. Todorova, S. A. Barnett, and J. E. Sundgren, J. Appl. Phys., 62, No. 2: 481(1987)."
+			},
+			{
+				"doi": "10.3103/S1068366614050031",
+				"or":  "V. M. Beresnev, O. V. Bondar, B. O. Postol’nyi, M. A. Lisovenko, G. Abadias., P. Chartier, D. A. Kolesnikov, V. N. Borisyuk, B. A. Mukushev, B. R. Zhollybekov, and A. A. Andreev, J. Frict. Wear, 35, No. 5: 374 (2014).",
+				"tr":  "V. M. Beresnev, O. V. Bondar, B. O. Postol’nyi, M. A. Lisovenko, G. Abadias., P. Chartier, D. A. Kolesnikov, V. N. Borisyuk, B. A. Mukushev, B. R. Zhollybekov, and A. A. Andreev, J. Frict. Wear, 35, No. 5: 374 (2014)."
+			},
+			{
+				"doi": "10.1016/j.ceramint.2016.04.095",
+				"or":  "A. D. Pogrebnjak, O. V. Bondar, G. Abadias, V. Ivashchenko, O. V. Sobol, S. Jurga, and E. Coy, Ceram. Int., 42: 11743 (2016).",
+				"tr":  "A. D. Pogrebnjak, O. V. Bondar, G. Abadias, V. Ivashchenko, O. V. Sobol, S. Jurga, and E. Coy, Ceram. Int., 42: 11743 (2016)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.2.547",
+				"or":  "J. S. Koehler, Phys. Rev. B, 2, No. 2: 547 (1970).",
+				"tr":  "J. S. Koehler, Phys. Rev. B, 2, No. 2: 547 (1970)."
+			},
+			{
+				"doi": "10.1016/0001-6160(80)90163-7",
+				"or":  "M. Kato, T. Mori, and L. H. Schwartz, Acta Metall., 28, No. 3: 285 (1980).",
+				"tr":  "M. Kato, T. Mori, and L. H. Schwartz, Acta Metall., 28, No. 3: 285 (1980)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.03.017",
+				"or":  "R. F. Zhang and S. Veprek, Mater. Sci. Eng. A, 424, No. 1–2: 128 (2006).",
+				"tr":  "R. F. Zhang and S. Veprek, Mater. Sci. Eng. A, 424, Nos. 1–2: 128 (2006)."
+			},
+			{
+				"doi": "10.1088/0022-3727/36/8/313",
+				"or":  "P. Hones, N. Martin, M. Regula, and F. Levy, J. Phys. D: Appl. Phys., 36, No. 8: 1023 (2003).",
+				"tr":  "P. Hones, N. Martin, M. Regula, and F. Levy, J. Phys. D: Appl. Phys., 36, No. 8: 1023 (2003)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2012.05.073",
+				"or":  "J. Musil, Surf. Coatings Technol., 207: 50 (2012).",
+				"tr":  "J. Musil, Surf. Coatings Technol., 207: 50 (2012)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(99)00586-1",
+				"or":  "J. Musil, Surf. Coatings Technol., 125, No. 1–3: 322 (2000).",
+				"tr":  "J. Musil, Surf. Coatings Technol., 125, Nos. 1–3: 322 (2000)."
+			},
+			{
+				"doi": "10.1149/1.2428653",
+				"or":  "M. Stern, A.L. Geary, J. Electrochem. Soc., 104: 56 (1957).",
+				"tr":  "M. Stern and A. L. Geary, J. Electrochem. Soc., 104: 56 (1957)."
+			},
+			{
+				"doi": "10.1016/B978-0-7506-5924-6.X5000-4",
+				"or":  "Z. Ahmad, Principles of Corrosion Engineering and Corrosion Control, (Elsevier Ltd: 2006).",
+				"tr":  "Z. Ahmad, Principles of Corrosion Engineering and Corrosion Control, (Elsevier Ltd: 2006)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2007.04.013",
+				"or":  "M. Zhao, Y. Feng, L. Jiao, H. T. Yuan, X. Zhou, and M. B. Jang, Int. J. Hydrogen Energy, 32, No. 16: 3915 (2007).",
+				"tr":  "M. Zhao, Y. Feng, L. Jiao, H. T. Yuan, X. Zhou, and M. B. Jang, Int. J. Hydrogen Energy, 32, No. 16: 3915 (2007)."
+			},
+			{
+				"doi": "10.1016/S0921-5107(02)00072-7",
+				"or":  "S. Song and P. Xiao, Mater. Sci. Eng.: B, 94, No. 1: 40 (2002).",
+				"tr":  "S. Song and P. Xiao, Mater. Sci. Eng.: B, 94, No. 1: 40 (2002)."
+			},
+			{
+				"doi": "10.1016/0257-8972(95)02506-5",
+				"or":  "J. A. Sue and T. P. Chang, Surf. Coatings Technol., 76–77: 61 (1995).",
+				"tr":  "J. A. Sue and T. P. Chang, Surf. Coatings Technol., 76–77: 61 (1995)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2008.08.133",
+				"or":  "M. Stueber, H. Holleck, H. Leiste, K. Seemann, S. Ulrich, and C. Ziebert, J. Alloys and Compounds, 483, No. 1–2: 321 (2009).",
+				"tr":  "M. Stueber, H. Holleck, H. Leiste, K. Seemann, S. Ulrich, and C. Ziebert, J. Alloys and Compounds, 483, Nos. 1–2: 321 (2009)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2011.11.034",
+				"or":  "A. Rizzo, M. A. Signore, D. Valerini, D. Altamura, A. Cappello, and L. Tapfer, Surf. Coatings Technol., 206, No. 10: 2711 (2012).",
+				"tr":  "A. Rizzo, M. A. Signore, D. Valerini, D. Altamura, A. Cappello, and L. Tapfer, Surf. Coatings Technol., 206, No. 10: 2711 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "I. V. Blinkov, A. O. Volkhonskiy, V. N. Anikin, M. I. Petrzhik, D. E. Derevtsova, Physics and Chemistry of Materials Treatment, No. 4: 37 (2010).",
+				"tr":  "I. V. Blinkov, A. O. Volkhonskiy, V. N. Anikin, M. I. Petrzhik, and D. E. Derevtsova, Physics and Chemistry of Materials Treatment, No. 4: 37 (2010)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(03)00937-X",
+				"or":  "М. Uchida, N. Nihira, A. Mitsuo, K. Toyoda, K. Kubota, and T. Aizawa, Surf. Coatings Technol., 177–178: 627 (2004).",
+				"tr":  "М. Uchida, N. Nihira, A. Mitsuo, K. Toyoda, K. Kubota, and T. Aizawa, Surf. Coatings Technol., 177–178: 627 (2004)."
+			}
+		]
+	}
+}

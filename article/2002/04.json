@@ -1,0 +1,21 @@
+{
+	"year":   2002,
+	"volume": 3,
+	"issue":  4,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [357,386],
+			"title": {
+				"ua": "Динаміка магнетного потоку в об'ємних ВТНП левітаційними методами",
+				"en": "Magnetic Flux Dynamics in HTS Bulks with Levitation Techniques",
+				"ru": "Динамика магнитного потока в объемных ВТСП левитационными методами"
+			},
+			"autors": {
+				"ua": "О. А. Кордюк, В. В. Немошкаленко, О. І. Плющай, Р. В. Візніченко",
+				"en": "O. A. Kordyuk, V. V. Nemoshkalenko, O. I. Plyushchay, and R. V. Viznichenko",
+				"ru": "А. А. Кордюк, В. В. Немошкаленко, А. И. Плющай, Р. В. Визниченко"
+			}
+		}
+	]
+}

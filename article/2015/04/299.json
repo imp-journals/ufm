@@ -1,0 +1,366 @@
+{
+	"_id":    "UFM.16.04.299",
+	"year":   2015,
+	"volume": 16,
+	"issue":  4,
+	"pages":  [299,328],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["17.04.2015"],
+	"PACS":   "61.72.Lk, 62.20.M-, 68.37.Lp, 81.40.Ef, 81.40.Np, 81.65.Lp, 83.50.Uv",
+	"title":   {
+		"ua": "Деформаційне зміцнення криці з бейнітною структурою",
+		"en": "Work Hardening of Steel with a Bainite Structure",
+		"ru": "Деформационное упрочнение стали с бейнитной структурой"
+	},
+	"abstract": {
+		"ua": "Методами просвітлювальної електронної дифракційної мікроскопії виконано кількісну аналізу еволюції дефектної та карбідної підсистем середньовуглецевої криці з бейнітною структурою при деформації стисненням до 36%. Виконано кількісну аналізу перерозподілу Карбону і встановлено залежності концентрації атомів Карбону, розташованих у кристалічній ґратниці $\\alpha$- і $\\gamma$-заліза, на дефектах структури, у цементитних частинках, що лежать в об’ємі платівок бейніту та на внутрішньофазових межах, від ступеня деформації. Визначено залежності поздовжніх і поперечних розмірів частинок цементиту в об’ємі кристалів бейніту, об’ємних часток частинок цементиту і залишкового аустеніту, скалярної густини дислокацій, об’єму матеріялу з мікродвійниками, розмірів фраґментів, кількости концентраторів напруг і ширини контурів екстинкції від ступеня деформації. Показано, що з ростом ступеня деформації скалярна густина дислокацій, об’єм матеріялу з деформаційними двійниками, кількість концентраторів напруг, амплітуда кривини–скручування кристалічної ґратниці, ступінь дезорієнтації фраґментів збільшуються, а середні поздовжні розміри фраґментів — зменшуються. Виконано оцінку далекосяжних полів напружень. Обговорено можливі причини стадійности зміни параметрів карбідної фази і дислокаційної субструктури з деформацією. Проведено оцінювання механізму зміцнення межами платівок і фраґментів, скалярною густиною дислокацій, далекосяжними полями напружень, частинками цементиту, атомами втілення. Показано, що найбільший внесок у величину деформаційного зміцнення досліджуваної криці дає субструктурне зміцнення (зміцнення, зумовлене далекосяжними внутрішніми полями напруг і фраґментацією структури) та твердорозчинне зміцнення, зумовлене втіленням атомів Карбону в кристалічну ґратницю фериту. Висловлено припущення, що причиною знеміцнення криці з бейнітною структурою за великих (більших за 15%) ступенів деформації є активація процесу деформаційного мікродвійникування.",
+		"en": "The analysis of constructional steel 30Cr2Ni2MoV (in mass %: C—0.3; Cr $\\leq$ 2; Ni $\\leq$ 2; Mo $\\leq$ 1; V v 1, Fe—the rest) under compression up to fracture after air cooling from the austenisation temperature of 960°C is carried out. Two stages of deformation strengthening are revealed: 1st stage with the parabolic $\\sigma(\\varepsilon)$ dependence and decreasing coefficient of deformation strengthening; 2nd stage with the weakly changing negative strengthening coefficient. Using the methods of transmission electron diffraction microscopy, a quantitative evolution analysis of the defect and carbide subsystems of this medium-carbon steel with a bainite structure under compression strain up to 36% is performed. A quantitative analysis of the carbon redistribution is also performed, and the dependences of the concentration of carbon atoms arranged in a crystal lattice of the $\\alpha$- and $\\gamma$-irons, on the structural defects, in cementite particles lying in the bulk of bainite plates and in-phase boundaries, on the deformation degree. The dependence of the longitudinal and cross-sectional dimensions of cementite particles in bainite crystals, volume fractions of cementite particles and retained austenite, the scalar density of dislocations, the material volume with microtwins, fragment size, the number of stress concentrators, and the width of the extinction contours on the deformation degree is determined. As shown, the scalar dislocation density, the material volume with deformation twins, the number of stress concentrators, the curvature–torsion amplitude of a crystal lattice, disorientation degree of fragments are increasing with growing deformation degree, and average longitudinal fragment sizes are decreasing. The long-range stress fields are estimated. The possible causes of the staging of changes of the carbide-phase and dislocation-substructure parameters with deformation are discussed. As shown, the carbide transformations in the bainite structure are occurring in course of two competition processes: dissolution of cementite particles being formed in ferrite plates during bainite transformation and their precipitation at the dislocation-substructure elements during ‘deformation ageing’. Simultaneously, the additional transformation of retained austenite initiated by steel deformation is observed. As shown, the transition from the first stage of steel deformation to the second one is prepared by the following modifications of the structural-phase state of the material: firstly, by the completion of the process of intensive dislocation accumulations; secondly, by the initiation of the mechanism of the deformation microtwins; thirdly, by the completion of the fragmentation process of bainite plates; fourthly, by the maximum density of flexural extinction circuits; fifthly, by the substantial increase in solid-solution steel hardening. As a whole, all these processes lead to the formation of the areas in the material with a critical substructure capable of the microcrack formations with the subsequent destruction of the sample. Strengthening mechanisms with the boundaries of plates and fragments, the scalar dislocation density, long-range stress fields, cementite particles, interstitial atoms are estimated. As shown, the largest contribution to the work hardening of the investigated steel is given by the substructural hardening (hardening due to the long-range internal-stress fields and fragmentation patterns) and solid-solution hardening, due to the introduction of carbon atoms into the crystal lattice of the ferrite. As suggested, the cause of softening of steel with a bainite structure at high (over 15%) degrees of deformation is the activation of the process of deformation fine-scale twinning.",
+		"ru": "Методами просвечивающей электронной дифракционной микроскопии выполнен количественный анализ эволюции дефектной и карбидной подсистем среднеуглеродистой стали с бейнитной структурой при деформации сжатием до 36%. Выполнен количественный анализ перераспределения углерода и установлены зависимости концентрации атомов углерода, расположенных в кристаллической решётке $\\alpha$- и $\\gamma$-железа, на дефектах структуры, в цементитных частицах, лежащих в объёме пластин бейнита и на внутрифазных границах, от степени деформации. Определены зависимости продольных и поперечных размеров частиц цементита в объёме кристаллов бейнита, объёмных долей частиц цементита и остаточного аустенита, скалярной плотности дислокаций, объёма материала с микродвойниками, размеров фрагментов, количества концентраторов напряжений и ширины контуров экстинкции от степени деформации. Показано, что с ростом степени деформации скалярная плотность дислокаций, объём материала с деформационными двойниками, количество концентраторов напряжений, амплитуда кривизны–кручения кристаллической решётки, степень разориентации фрагментов увеличиваются, а средние продольные размеры фрагментов — уменьшаются. Выполнена оценка дальнодействующих полей напряжений. Обсуждены возможные причины стадийности изменения параметров карбидной фазы и дислокационной субструктуры с деформацией. Проведены оценки механизмов упрочнений границами пластин и фрагментов, скалярной плотностью дислокаций, дальнодействующими полями напряжений, частицами цементита, атомами внедрения. Показано, что наибольший вклад в величину деформационного упрочнения исследуемой стали даёт субструктурное упрочнение (упрочнение, обусловленное дальнодействующими внутренними полями напряжений и фрагментацией структуры) и твёрдорастворное упрочнение, обусловленное внедрением атомов углерода в кристаллическую решётку феррита. Высказано предположение, что причиной разупрочнения стали с бейнитной структурой при больших (более 15%) степенях деформации является активация процесса деформационного микродвойникования."
+	},
+	"keywords": {
+		"ua": "сталь, бейніт, деформація, цементит, дислокаційна субструктура, механізми зміцнення",
+		"en": "steel, bainite, deformation, cementite, dislocation substructure, hardening mechanisms",
+		"ru": "сталь, бейнит, деформация, цементит, дислокационная субструктура, механизмы упрочнения"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Є. Громов", "en": "V. E. Gromov", "ru": "В. Е. Громов"},
+			"OID": [407]
+		},
+		{
+			"AID": {"ua": "О. М. Нікітіна", "en": "E. N. Nikitina", "ru": "Е. Н. Никитина"},
+			"OID": [407]
+		},
+		{
+			"AID": {"ua": "Ю. Ф. Іванов", "en": "Yu. F. Ivanov", "ru": "Ю. Ф. Иванов"},
+			"OID": [408, 409]
+		},
+		{
+			"AID": {"ua": "Х. В. Аксьонова", "en": "K. V. Aksyonova", "ru": "К. В. Аксёнова"},
+			"OID": [407]
+		},
+		{
+			"AID": {"ua": "Є. В. Корнет", "en": "E. V. Kornet", "ru": "Е. В. Корнет"},
+			"OID": [407]
+		}
+	],
+	"cited_by": {
+		"count":  2,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.18.02.155",
+				"cit": "V. V. Kurylyak and G. I. Khimicheva, <a href=\"https://doi.org/10.15407/ufm.18.02.155\">Usp. Fiz. Met. <b>18</b>, 155 (2017)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.18.02.111",
+				"cit": "V. E. Kormyshev, V. E. Gromov, Yu. F. Ivanov and S. V. Konovalov, <a href=\"https://doi.org/10.15407/ufm.18.02.111\">Usp. Fiz. Met. <b>18</b>, 111 (2017)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 60,
+		"list":  [
+			{
+				"doi": "10.1016/S1359-6454(01)00234-8",
+				"or":  "Y. Ohmori, Y.-C. Jung, K. Nakai, and H. Shiori, Acta Mater., 49, No. 6: 3149 (2001).",
+				"tr":  "Y. Ohmori, Y.-C. Jung, K. Nakai, and H. Shiori, Acta Mater., 49, No. 6: 3149 (2001)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(01)00316-0",
+				"or":  "D. Quidort and Y. J. M. Brechet, Acta Mater., 49, No. 20: 4161 (2001).",
+				"tr":  "D. Quidort and Y. J. M. Brechet, Acta Mater., 49, No. 20: 4161 (2001)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2013.01.044",
+				"or":  "T. Sourmail and V. Smanio, Acta Mater., 61, No. 7: 2639 (2013).",
+				"tr":  "T. Sourmail and V. Smanio, Acta Mater., 61, No. 7: 2639 (2013)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2007.08.051",
+				"or":  "A. J. Clarke, J. G. Speer, M. K. Miller, R. E. Hackenberg, D. V. Edmonds, D. K. Matlock, F. C. Rizzo, K. D. Clarke, and E. De Moor, Acta Mater., 56, No. 1: 16 (2008).",
+				"tr":  "A. J. Clarke, J. G. Speer, M. K. Miller, R. E. Hackenberg, D. V. Edmonds, D. K. Matlock, F. C. Rizzo, K. D. Clarke, and E. De Moor, Acta Mater., 56, No. 1: 16 (2008)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2009.03.026",
+				"or":  "A. Borgenstam, M. Hillert, and J. Agren, Acta Mater., 57, No. 11: 3242 (2009).",
+				"tr":  "A. Borgenstam, M. Hillert, and J. Agren, Acta Mater., 57, No. 11: 3242 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. Гудремон, Специальные стали (Москва: Металлургия: 1966).",
+				"tr":  "E. Gudremon, Spetsialnye Stali [Special Steels] (Moscow: Metallurgiya: 1966) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Матросов, Д. А. Литвиненко, С. А. Голованенко, Сталь для магистральных газопроводов (Москва: Металлургия: 1989).",
+				"tr":  "Yu. I. Matrosov, D. A. Litvinenko, and S. A. Golovanenko, Stal dlya Magistralnykh Gazoprovodov [Steel for the Main Gas Pipelines] (Moscow: Metallurgiya: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Павлов, Л. А. Годик, Л. В. Корнева, Н. А. Козырев, Е. П. Кузнецов, Металлург, № 4: 51 (2007).",
+				"tr":  "V. V. Pavlov, L. A. Godik, L. V. Korneva, N. A. Kozyrev, and E. P. Kuznetsov, Metallurg, No. 4: 51 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Новиков, Теория термической обработки металлов (Москва: Металлургия: 1978).",
+				"tr":  "I. I. Novikov, Teoriya Termicheskoy Obrabotki Metallov [Theory of Heat Treatment of Metals] (Moscow: Metallurgiya: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Б. Пикеринг, Физическое металловедение и разработка сталей (Москва: Металлургия: 1982).",
+				"tr":  "F. B. Pickering, Fizicheskoe Metallovedenie i Razrabotka Staley [Physical Metallurgy and the Design of Steels] (Moscow: Metallurgiya: 1982) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, Л. М. Утевский, Р. И. Энтин, Превращения в железе и стали (Москва: Наука: 1977).",
+				"tr":  "G. V. Kurdyumov, L. M. Utevskiy, and R. I. Entin, Prevrashcheniya v Zheleze i Stali [Transformations in the Iron and Steel] (Moscow: Nauka: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "H. K. D. H. Bhadeshia, Bainite in Steels (2nd ed.) (London: The Institute of Materials: 2001).",
+				"tr":  "H. K. D. H. Bhadeshia, Bainite in Steels (2nd ed.) (London: The Institute of Materials: 2001)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2008.02.036",
+				"or":  "S.-J. Lee, J.-S. Park, and Y.-K. Lee, Scr. Mater., 59, No. 1: 87 (2008).",
+				"tr":  "S.-J. Lee, J.-S. Park, and Y.-K. Lee, Scr. Mater., 59, No. 1: 87 (2008)."
+			},
+			{
+				"doi": "10.1007/BF02672557",
+				"or":  "H. I. Aaronson, W. T. Reynolds, G. J. Shiflet, and G. Spanos, Metal. Trans. A, 21, No. 6: 1343 (1990).",
+				"tr":  "H. I. Aaronson, W. T. Reynolds, G. J. Shiflet, and G. Spanos, Metal. Trans. A, 21, No. 6: 1343 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Ч. Фучэнь, Ч. Луюй, Вопросы материаловедения, 53, № 1: 52 (2008).",
+				"tr":  "Ch. Fu-chen and Ch. Lu-yui, Voprosy Materialovedeniya, 53, No. 1: 52 (2008) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S1359-6462(02)00122-7",
+				"or":  "H.-S. Fang, J.-B. Yang, Z.-G. Yang, and B.-Z. Bai, Scr. Mater., 47, No. 3: 157 (2012).",
+				"tr":  "H.-S. Fang, J.-B. Yang, Z.-G. Yang, and B.-Z. Bai, Scr. Mater., 47, No. 3: 157 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Speich and Р. R. Swann, J. Iron Steel Inst., 203, No. 4: 480 (1965).",
+				"tr":  "G. Speich and R. R. Swann, J. Iron Steel Inst., 203, No. 4: 480 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Белоус, В. Т. Черепин, М. А. Васильев, Превращения при отпуске стали (Москва: Металлургия: 1973).",
+				"tr":  "M. V. Belous, V. T. Cherepin, and M. A. Vasiliev, Prevrashcheniya pri Otpuske Stali [Transformations at Tempering of Steel] (Moscow: Metallurgiya: 1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Белоус, В. Б. Новожилов, Л. С. Шаталова, Ю. П. Шейко, Физ. мет. металловед., 79, № 4: 128 (1995).",
+				"tr":  "M. V. Belous, V. B. Novozhilov, L. S. Shatalova, and Yu. P. Sheyko, Fiz. Met. Metallovedenie, 79, No. 4: 128 (1995) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Изотов, А. Г. Козлова, Физ. мет. металловед., 80, № 1: 97 (1995).",
+				"tr":  "V. I. Izotov and A. G. Kozlova, Fiz. Met. Metallovedenie, 80, No. 1: 97 (1995) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. R. Speich, Trans. Met. Soc. AIME, 245, No. 10: 2553 (1969).",
+				"tr":  "G. R. Speich, Trans. Met. Soc. AIME, 245, No. 10: 2553 (1969)."
+			},
+			{
+				"doi": "10.1007/BF02813252",
+				"or":  "D. Kalich and E. M. Roberts, Met. Trans., 2, No. 10: 2783 (1971).",
+				"tr":  "D. Kalich and E. M. Roberts, Met. Trans., 2, No. 10: 2783 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "E. J. Fasiska and H. Wagenblat, Trans. Met. Soc. AIME, 239, No. 11: 1818 (1967).",
+				"tr":  "E. J. Fasiska and H. Wagenblat, Trans. Met. Soc. AIME, 239, No. 11: 1818 (1967)."
+			},
+			{
+				"doi": "",
+				"or":  "N. Ridley, H. Stuart, and L. Zwell, Trans. Met. Soc. AIME, 246, No. 8: 1834 (1969).",
+				"tr":  "N. Ridley, H. Stuart, and L. Zwell, Trans. Met. Soc. AIME, 246, No. 8: 1834 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Веселов, Е. З. Спектор, Физ. мет. металловед., 34, № 5: 895 (1972).",
+				"tr":  "S. I. Veselov and E. Z. Spektor, Fiz. Met. Metallovedenie, 34, No. 5: 895 (1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. М. Лахтин, Металловедение и термическая обработка металлов (Москва: Металлургия: 1977).",
+				"tr":  "Yu. M. Lakhtin, Metallovedenie i Termicheskaya Obrabotka Metallov [Metallurgy and Heat Treatment of Metals] (Moscow: Metallurgiya: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Белоус, Металлофизика, № 32: 79 (1970).",
+				"tr":  "M. V. Belous, Metallofizika, No. 32: 79 (1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Thomas and M. Sarikaya, Proc. Int’l Conf. ‘Solid–Solid Phase Transformations’ (August 10–14, 1981, Pittsburgh, USA) (Warrendale: 1982), p. 999.",
+				"tr":  "G. Thomas and M. Sarikaya, Proc. Int'l Conf. 'Solid–Solid Phase Transformations' (August 10–14, 1981, Pittsburgh, USA) (Warrendale: 1982), p. 999."
+			},
+			{
+				"doi": "",
+				"or":  "M. Sarikaya, G. Thomas, and J. W. Steeds, Proc. Int’l Conf. ‘Solid–Solid Phase Transformations’ (August 10–14, 1981, Pittsburgh, USA) (Warrendale: 1982), p. 1421.",
+				"tr":  "M. Sarikaya, G. Thomas, and J. W. Steeds, Proc. Int'l Conf. 'Solid–Solid Phase Transformations' (August 10–14, 1981, Pittsburgh, USA) (Warrendale: 1982), p. 1421."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Н. А. Попова, С. А. Гладышев, Э. В. Козлов, Взаимодействие дефектов кристаллической решётки и свойства: Сб. трудов (Тула: ТулПИ: 1986), c. 100.",
+				"tr":  "Yu. F. Ivanov, N. A. Popova, S. A. Gladyshev, and Eh. V. Kozlov, Vzaimodeystvie Defektov Kristallicheskoy Reshyotki i Svoystva: Sb. Trudov [Interaction of Crystal-Lattice Defects and Properties] (Tula: TulPI: 1986), p. 100 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Е. В. Корнет, Э. В. Козлов, В. Е. Громов, Закалённая конструкционная сталь: Структура и механизмы упрочнения (Новокузнецк: Изд-во СибГИУ: 2010).",
+				"tr":  "Yu. F. Ivanov, E. V. Kornet, Eh. V. Kozlov, and V. E. Gromov, Zakalyonnaya Konstruktsionnaya Stal: Struktura i Mekhanizmy Uprochneniya [Hardened Structural Steel: the Structure and Mechanisms of Hardening] (Novokuznetsk: Izd-vo SibGIU: 2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. М. Утевский, Дифракционная электронная микроскопия в металловедении (Москва: Металлургия: 1973).",
+				"tr":  "L. M. Utevskiy, Difraktsionnaya Elektronnaya Mikroskopiya v Metallovedenii [The Diffraction Electron Microscopy in Metallurgy] (Moscow: Metallurgiya: 1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Хирш, А. Хови, Р. Николсон, Д. Пэшли, М. Уэлан, Электронная микроскопия тонких кристаллов (Москва: Мир: 1968).",
+				"tr":  "P. B. Hirsch, A. Howie, R. B. Nicholson, D. W. Pashley, and M. J. Whelan, Elektronnaya Mikroskopiya Tonkikh Kristallov [Electron Microscopy of Thin Crystals] (Moscow: Mir: 1968) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Приданцев, Л. Н. Давыдова, А. М. Тамарина, Конструкционные стали: Справочник (Москва: Металлургия: 1980).",
+				"tr":  "M. V. Pridantsev, L. N. Davydova, and A. M. Tamarina, Konstruktsionnyye Stali: Spravochnik [Structural Steels: Handbook] (Moscow: Metallurgiya: 1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Конева, Э. В. Козлов, Изв. ВУЗов. Физика, № 8: 3 (1982).",
+				"tr":  "N. A. Koneva and Eh. V. Kozlov, Izv. VUZov. Fizika, No. 8: 3 (1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Конева, Э. В. Козлов, Л. И. Тришкина, Д. В. Лычагин, Сб. трудов международной конференции «Новые методы в физике и механике деформируемого твёрдого тела» (Томск: ТГУ: 1990), c. 83.",
+				"tr":  "N. A. Koneva, Eh. V. Kozlov, L. I. Trishkina, and D. V. Lychagin, Sb. Trudov Mezhdunarodnoy Konferentsii 'Novyye Metody v Fizike i Mekhanike Deformiruemogo Tverdogo Tela' [Proc. of the International Conference 'New Methods in Physics and Mechanics of Deformable Solid'] (Tomsk: TGU: 1990), p. 83 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "I. R. Naulor, Met. Trans., 10, No. 7: 873 (1979).",
+				"tr":  "I. R. Naulor, Met. Trans., 10, No. 7: 873 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. З. Беленький, Б. М. Фарбер, М. И. Гольдштейн, Физ. мет. металловед., 39, № 3: 403 (1975).",
+				"tr":  "B. Z. Belenkiy, B. M. Farber, and M. I. Goldshtein, Fiz. Met. Metallovedenie, 39, No. 3: 403 (1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, В. И. Моисеев, Э. П. Печковский, Деформационное упрочение и разрушение поликристаллических металлов (Киев: Наукова думка: 1987).",
+				"tr":  "V. I. Trefilov, V. I. Moiseev, and E. P. Pechkovskiy, Deformatsionnoe Uprochnenie i Razrushenie Polikristallicheskikh Metallov [Work Hardening and Failure of Polycrystalline Metals] (Kiev: Naukova Dumka: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Мак-Лин, Механические свойства металлов (Москва: Металлургия: 1965).",
+				"tr":  "D. McLin, Mekhanicheskie Svoystva Metallov [Mechanical Properties of Metals] (Moscow: Metallurgiya: 1965) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "М. И. Гольдштейн, В. М. Фарбер, Дисперсионное упрочнение стали (Москва: Металлургия: 1979).",
+				"tr":  "M. I. Goldshtein and V. M. Farber, Dispersionnoe Uprochnenie Stali [Dispersion Strengthening of Steel] (Moscow: Metallurgiya: 1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Штремель, Прочность сплавов. Ч. II: Деформация (Москва: МИСиС: 1997).",
+				"tr":  "M. A. Shtremel, Prochnost Splavov. Ch. II: Deformatsiya [The Strength of Alloys. Pt. II: Deformation] (Moscow: MISiS: 1997) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Предводителев, Проблемы современной кристаллографии (Москва: Наука: 1975), c. 262.",
+				"tr":  "A. A. Predvoditelev, Problemy Sovremennoy Kristallografii [Problems of Contemporary Crystallography] (Moscow: Nauka: 1975), p. 262 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "I. D. Embury, Strengthening Methods in Crystals (Eds. A. Kelly and R. B. Nicholson) (Barking, UK: Applied Science Publishers Ltd.: 1971), p. 331.",
+				"tr":  "I. D. Embury, Strengthening Methods in Crystals (Eds. A. Kelly and R. B. Nicholson) (Barking, UK: Applied Science Publishers Ltd.: 1971), p. 331."
+			},
+			{
+				"doi": "",
+				"or":  "Статическая прочность и механика разрушения сталей: Сб. науч. трудов (Ред. В. Даль, В. Антон) (Москва: Металлургия: 1986) (пер. с нем.).",
+				"tr":  "Staticheskaya Prochnost i Mekhanika Razrusheniya Staley: Sb. Nauchnykh Trudov [Werkstoffkunder Eisen und Stahl—Static Strength and Mechanics of Steel Failure: Collected Scientific Transactions] (Eds. V. Dal and V. Anton) (Moscow: Metallurgiya: 1986) (Russian translation)."
+			},
+			{
+				"doi": "10.1088/0370-1301/64/9/303",
+				"or":  "E. O. Hall, Proc. Phys. Soc., No. 64: 747 (1951).",
+				"tr":  "E. O. Hall, Proc. Phys. Soc., No. 64: 747 (1951)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Люке, Г. Готтштейн, Статическая прочность и механика разрушения сталей: Сб. научных трудов (Ред. В. Даль, В. Антон) (Москва: Металлургия: 1986), c. 14 (пер. с нем.).",
+				"tr":  "K. Luke and G. Gottstein, Staticheskaya Prochnost i Mekhanika Razrusheniya Staley: Sb. Nauchnykh Trudov [Werkstoffkunder Eisen und Stahl—Static Strength and Mechanics of Steel Failure: Collected Scientific Transactions] (Eds. V. Dal and V. Anton) (Moscow: Metallurgiya: 1986), p. 14 (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Даль, Статическая прочность и механика разрушения сталей: Сб. научных трудов (Ред. В. Даль, В. Антон) (Москва: Металлургия: 1986), c. 133 (пер. с нем.).",
+				"tr":  "V. Dal, Staticheskaya Prochnost i Mekhanika Razrusheniya Staley: Sb. Nauchnykh Trudov [Werkstoffkunder Eisen und Stahl—Static Strength and Mechanics of Steel Failure: Collected Scientific Transactions] (Eds. V. Dal and V. Anton) (Moscow: Metallurgiya: 1986), p. 133 (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Громов, Э. В. Козлов, В. И. Базайкин, В. Я. Целлермаер, Ю. Ф. Иванов, Физика и механика волочения и объёмной штамповки (Москва: Недра: 1997).",
+				"tr":  "V. E. Gromov, Eh. V. Kozlov, V. I. Bazaykin, V. Ya. Cellermaer, and Yu. F. Ivanov, Fizika i Mekhanika Volocheniya i Ob'yomnoy Shtampovki [Physics and Mechanics of Drawing and Bulk Forging] (Moscow: Nedra: 1997) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Н. Струнин, Физ. твёрдого тела, 9, № 3: 805 (1967).",
+				"tr":  "B. N. Strunin, Fiz. Tverdogo Tela, 9, No. 3: 805 (1967) (in Russian)."
+			},
+			{
+				"doi": "10.1088/0959-5309/52/1/312",
+				"or":  "N. F. Mott and F. R. N. Nabarro, Proc. Phys. Soc., 52, No. 1: 86 (1940).",
+				"tr":  "N. F. Mott and F. R. N. Nabarro, Proc. Phys. Soc., 52, No. 1: 86 (1940)."
+			},
+			{
+				"doi": "",
+				"or":  "M. F. Ashby, Physics of Strength and Plasticity (Cambridge: MIT Press: 1969), p. 113.",
+				"tr":  "M. F. Ashby, Physics of Strength and Plasticity (Cambridge: MIT Press: 1969), p. 113."
+			},
+			{
+				"doi": "",
+				"or":  "E. Tekin and P. M. Kelly, Precipitation from Iron-Base Alloys (New York: Gordon and Breach: 1965).",
+				"tr":  "E. Tekin and P. M. Kelly, Precipitation from Iron-Base Alloys (New York: Gordon and Breach: 1965)."
+			},
+			{
+				"doi": "10.1016/0036-9748(81)90216-7",
+				"or":  "S. J. Barnard, G. D. W. Smith, M. Saricaya, and G. Thomas, Scripta Met., 15, No. 4: 387 (1981).",
+				"tr":  "S. J. Barnard, G. D. W. Smith, M. Saricaya, and G. Thomas, Scripta Met., 15, No. 4: 387 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "R. L. Fleischer, Electron Microscopy and Strength of Crystals (New York: Wiley Interscience: 1963), p. 973.",
+				"tr":  "R. L. Fleischer, Electron Microscopy and Strength of Crystals (New York: Wiley Interscience: 1963), p. 973."
+			},
+			{
+				"doi": "",
+				"or":  "O. Vohringer und E. Macherauch, Härterei-Techn. Mitt., 32, H. 4: 153 (1977).",
+				"tr":  "O. Vohringer und E. Macherauch, Härterei-Techn. Mitt., 32, H. 4: 153 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "L. A. Norstrom, Scandinavian J. of Met., 5, No. 4: 159 (1976).",
+				"tr":  "L. A. Norstrom, Scandinavian J. of Met., 5, No. 4: 159 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Прнка, Металловед. и терм. обр. стали, № 7: 3 (1979).",
+				"tr":  "T. Prnka, Metallovedenie i Term. Obr. Stali, No. 7: 3 (1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Конева, С. Ф. Киселева, Н. А. Попова, Э. В. Козлов, Деформация и разрушение материалов, № 9: 38 (2013).",
+				"tr":  "N. A. Koneva, S. F. Kiseleva, N. A. Popova, and Eh. V. Kozlov, Deformatsiya i Razrushenie Materialov [Deformation and Failure of Materials], No. 9: 38 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Ф. Киселева, Н. А. Попова, Н. А. Конева, Э. В. Козлов, Изв. РАН. Сер. физическая, 76, № 13: 70 (2012).",
+				"tr":  "S. F. Kiseleva, N. A. Popova, N. A. Koneva, and Eh. V. Kozlov, Izv. RAN. Ser. Fizicheskaya, 76, No. 13: 70 (2012) (in Russian)."
+			}
+		]
+	}
+}

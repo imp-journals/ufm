@@ -1,0 +1,49 @@
+{
+	"year":   2007,
+	"volume": 8,
+	"issue":  1,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [1,19],
+			"title": {
+				"ua": "Об'ємні локальні одночастинкові стани квазичастинок у квазинульмірних системах",
+				"en": "Bulk Local One-Particle States of Quasi-Particles in Quasi-Zero-Dimensional",
+				"ru": "Объёмные локальные одночастичные состояния квазичастиц в квазинульмерных системах"
+			},
+			"autors": {
+				"ua": "А. П. Шпак, С. І. Покутній, В. М. Уваров",
+				"en": "A. P. Shpak, S. I. Pokutniy, and V. M. Uvarov",
+				"ru": "А. П. Шпак, С. И. Покутний, В. Н. Уваров"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [21,64],
+			"title": {
+				"ua": "Транспортні розмірні ефекти у двошарових полікристалічних плівках",
+				"en": "Transport Size Effects in Double-Layer Polycrystalline Films",
+				"ru": "Транспортные размерные эффекты в двухслойных поликристаллическх плёнках"
+			},
+			"autors": {
+				"ua": "Л. В. Дехтярук, І. Ю. Проценко, А. М. Чорноус",
+				"en": "L. V. Dekhtyaruk, I. Yu. Protsenko, and A. M. Chornous",
+				"ru": "Л. В. Дехтярук, И. Ю. Проценко, А. Н. Чорноус"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [65,105],
+			"title": {
+				"ua": "Особливості пластичної деформації металів і стопів у магнетному полі. Огляд",
+				"en": "Features of Plastic Deformation of Metals and Alloys in a Magnetic Field. The Review",
+				"ru": "Особенности пластической деформации металлов и сплавов в магнитном поле. Обзор"
+			},
+			"autors": {
+				"ua": "М. О. Васильєв",
+				"en": "M. O. Vasiliev",
+				"ru": "М. А. Васильев"
+			}
+		}
+	]
+}

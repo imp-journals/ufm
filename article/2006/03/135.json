@@ -1,0 +1,450 @@
+{
+	"_id":    "UFM.07.03.135",
+	"year":   2006,
+	"volume": 7,
+	"issue":  3,
+	"pages":  [135,171],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["17.11.2005"],
+	"PACS":   "61.72. Bb, 61.72. Cc, 61.72.Jj, 61.72.Yx, 64.60.Qb, 82.60.Nh, 82.60.Qr",
+	"title":   {
+		"ua": "Кінетика утворення і росту мікродефектів у кристалах",
+		"en": "Kinetics of Formation and Growth of Microdefects in Crystals",
+		"ru": "Кинетика образования и роста микродефектов в кристаллах"
+	},
+	"abstract": {
+		"ua": "В обзорі наведено основні результати численних прямих спостережень утворення мікродефектів (преципітатів кисню та дисльокаційних петель) у кристалі кремнію при його вирощуванні та термообробках. Коротко подано термодинамічні уявлення про утворення частинок нової фази у перенасиченому твердому розчині кисню у кремнії. Представлено клясичні підходи до опису кінетики преципітації кисню. Описано сучасні моделі кінетики росту і розпаду преципітатів та дисльокаційних петель у кремнії.",
+		"en": "In the review, the main results of numerous direct observations of microdefects’ formation (oxygen precipitates and dislocation loops) in a silicon crystal during its growth and heat treatments are described. Thermodynamic conceptions concerning formation of new-phase particles in the supersaturated solid solution of oxygen in silicon are briefly presented. Classical approaches to the description of oxygen-precipitation kinetics are represented too. Modern models of kinetics of growth and decomposition of precipitates and dislocation loops in silicon are described.",
+		"ru": "В обзоре описаны основные результаты многочисленных прямых наблюдений образования микродефектов (преципитатов кислорода и дислокационных петель) в кристалле кремния при его выращивании и термообработках. Кратко изложены термодинамические представления об образовании частиц новой фазы в пересыщенном твердом растворе кислорода в кремнии. Представлены классические подходы к описанию кинетики преципитации кислорода. Описаны современные модели кинетики роста и распада преципитатов и дислокационных петель в кремнии."
+	},
+	"keywords": {
+		"ua": "силіцій, мікродефекти, точкові дефекти, пересичений твердий розчин, преципітат кисню",
+		"en": "silicon, microdefects, point defects, supersaturated solid solution, oxygen precipitate",
+		"ru": "кремний, микродефекты, точечные дефекты, пересыщенный твердый раствор, преципитат кислорода"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. Й. Оліховський", "en": "S. J. Olikhovsky", "ru": "С. Й. Олиховский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. М. Бєлова", "en": "M. M. Belova", "ru": "М. М. Белова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Є. В. Кочелаб", "en": "Ye. V. Kochelab", "ru": "Е. В. Кочелаб"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 81,
+				"list":  [
+			{
+				"doi": "",
+				"or":  "A. Borghesi, B. Pivac, A. Sassella, and A. Stella, J. Appl. Phys., 77, No. 9: 4169 (1995).",
+				"tr":  "A. Borghesi, B. Pivac, A. Sassella, and A. Stella, J. Appl. Phys., 77, No. 9: 4169 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Г. Мильвидский, Полупроводниковые материалы в современной электронике (Москва: Наука: 1986).",
+				"tr":  "M. G. Mil'vidskiy, Poluprovodnikovye materialy v sovremennoy elektronike (Moskva: Nauka: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Бабич, Н. И. Блецкан, Е. Ф. Венгер, Кислород в монокристаллах кремния (Київ: Інтерпрес ЛТД: 1997).",
+				"tr":  "V. M. Babich, N. I. Bletskan, E. F. Venger, Kislorod v monokristallakh kremniya (Kyiv: Interpres LTD: 1997)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Р. Челядинский, Ф. Ф. Комаров, УФН, 173, № 8: 813 (2003).",
+				"tr":  "A. R. Chelyadinskiy, F. F. Komarov, UFN, 173, No. 8: 813 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Sinno, E. Dornberger, W. von Ammon et al., Mater. Sci. Eng., 28: 149 (2000).",
+				"tr":  "T. Sinno, E. Dornberger, W. von Ammon et al., Mater. Sci. Eng., 28: 149 (2000)."
+			},
+			{
+				"doi": "10.1016/0022-0248(77)90034-3",
+				"or":  "H. Föll, U. Gösele, and B. O. Kolbesen, J. Cryst. Growth, 40, 90 (1977).",
+				"tr":  "H. Föll, U. Gösele, and B. O. Kolbesen, J. Cryst. Growth, 40, 90 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. М. Бабицкий, П. М. Гринштейн, М. Г. Мильвидский, В. Я. Резник, Кристаллография, 23, № 3: 740 (1988).",
+				"tr":  "Yu. M. Babitskiy, P. M. Grinshteyn, M. G. Mil'vidskiy, V. Ya. Reznik, Kristallografiya, 23, No. 3: 740 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "D. M. Maher, A. Staudinger, and J. R. Patel, J. Appl. Phys., 47, No. 9: 3813 (1976).",
+				"tr":  "D. M. Maher, A. Staudinger, and J. R. Patel, J. Appl. Phys., 47, No. 9: 3813 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Patrick, E. Hearn, W. Westdorp, and A. Bohg, J. Appl. Phys., 50, No. 11: 7156 (1979).",
+				"tr":  "W. Patrick, E. Hearn, W. Westdorp, and A. Bohg, J. Appl. Phys., 50, No. 11: 7156 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "J. R. Patel, K. A. Jackson, and H. Reiss, J. Appl. Phys., 48, No. 12: 5279 (1977).",
+				"tr":  "J. R. Patel, K. A. Jackson, and H. Reiss, J. Appl. Phys., 48, No. 12: 5279 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "Ch. Y. Kung, J. Appl. Phys., 65, No. 12: 4654 (1989).",
+				"tr":  "Ch. Y. Kung, J. Appl. Phys., 65, No. 12: 4654 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Yasutake, M. Umeno, and H. Kawabe, Phys. Stat. Sol. A, 83, No. 1: 207 (1984).",
+				"tr":  "K. Yasutake, M. Umeno, and H. Kawabe, Phys. Stat. Sol. A, 83, No. 1: 207 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Köhler, W. Möhling, and M. Pasemann, Phys. Stat. Sol. A, 53, No. 2: 509 (1979).",
+				"tr":  "R. Köhler, W. Möhling, and M. Pasemann, Phys. Stat. Sol. A, 53, No. 2: 509 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Bergholz, M. J. Binns, G. R. Booker et al., Phil. Mag. B, 59, No. 5: 499 (1989).",
+				"tr":  "W. Bergholz, M. J. Binns, G. R. Booker et al., Phil. Mag. B, 59, No. 5: 499 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Bender, Phys. Stat. Sol. A, 86, No. 2: 245 (1984).",
+				"tr":  "H. Bender, Phys. Stat. Sol. A, 86, No. 2: 245 (1984)."
+			},
+			{
+				"doi": "10.1063/1.332411",
+				"or":  "N. Yamamoto, P. M. Petroff, and J. R. Patel, J. Appl. Phys., 54, No. 6: 3475 (1983).",
+				"tr":  "N. Yamamoto, P. M. Petroff, and J. R. Patel, J. Appl. Phys., 54, No. 6: 3475 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "F. M. Livingston, S. Messoloras, R. C. Newman et al., J. Phys. C: Solid State Phys., 17, No. 34: 6253 (1984).",
+				"tr":  "F. M. Livingston, S. Messoloras, R. C. Newman et al., J. Phys. C: Solid State Phys., 17, No. 34: 6253 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Балтакс, Диффузия и точечные дефекты в полупроводниках (Ленинград: Наука: 1972).",
+				"tr":  "I. Baltaks, Diffuziya i tochechnye defekty v poluprovodnikakh (Leningrad: Nauka: 1972)."
+			},
+			{
+				"doi": "",
+				"or":  "Атомная диффузия в полупроводниках (Ред. Б. Шоу) (Москва: Мир: 1975).",
+				"tr":  "Atomnaya diffuziya v poluprovodnikakh (Red. B. Shou) (Moskva: Mir: 1975)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Маннинг, Кинетика диффузии атомов в кристаллах (Москва: Мир: 1971).",
+				"tr":  "Dzh. Manning, Kinetika diffuzii atomov v kristallakh (Moskva: Mir: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Sinno, R. A. Brown, W. von Ammon, and E. Dornberger, J. Electrochem. Soc., 145, No. 1: 302 (1998).",
+				"tr":  "T. Sinno, R. A. Brown, W. von Ammon, and E. Dornberger, J. Electrochem. Soc., 145, No. 1: 302 (1998)."
+			},
+			{
+				"doi": "10.1063/1.371642",
+				"or":  "V. V. Voronkov and R. Falster, J. Appl. Phys., 86, No. 11: 5975 (1999).",
+				"tr":  "V. V. Voronkov and R. Falster, J. Appl. Phys., 86, No. 11: 5975 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Romanovski, G. Rozgonyi, and M. Tamatsuka, J. Appl. Phys., 85, No. 9: 6408 (1999).",
+				"tr":  "A. Romanovski, G. Rozgonyi, and M. Tamatsuka, J. Appl. Phys., 85, No. 9: 6408 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Sinno and R. A. Brown, J. Electrochem. Soc., 146, No. 6: 2300 (1999).",
+				"tr":  "T. Sinno and R. A. Brown, J. Electrochem. Soc., 146, No. 6: 2300 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Kim, F. Kirchhoff, J. W. Wilkins, and F. S. Khan, Phys. Rev. Lett., 84, No. 3: 503 (2000).",
+				"tr":  "J. Kim, F. Kirchhoff, J. W. Wilkins, and F. S. Khan, Phys. Rev. Lett., 84, No. 3: 503 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "N. E. B. Cowern, G. Mannino, P. A. Stolk et al., Phys. Rev. Lett., 82, No. 22: 4460 (1999).",
+				"tr":  "N. E. B. Cowern, G. Mannino, P. A. Stolk et al., Phys. Rev. Lett., 82, No. 22: 4460 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "S. K. Estreicher, M. Gharaibeh, P. A. Fedders, and P. Ordejon, Phys. Rev. Lett., 86, No. 7: 1247 (2001).",
+				"tr":  "S. K. Estreicher, M. Gharaibeh, P. A. Fedders, and P. Ordejon, Phys. Rev. Lett., 86, No. 7: 1247 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Seeger and U. Gösele, Phys. Lett. A, 60, No. 6: 423 (1977).",
+				"tr":  "A. Seeger and U. Gösele, Phys. Lett. A, 60, No. 6: 423 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "S. M. Hu, J. Appl. Phys., 57, No. 10: 4527 (1985).",
+				"tr":  "S. M. Hu, J. Appl. Phys., 57, No. 10: 4527 (1985)."
+			},
+			{
+				"doi": "10.1063/1.373557",
+				"or":  "F. Cristiano, J. Grisolia, B. Colombeau et al., J. Appl. Phys., 87, No. 12: 8420 (2000).",
+				"tr":  "F. Cristiano, J. Grisolia, B. Colombeau et al., J. Appl. Phys., 87, No. 12: 8420 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Sueoka, N. Ikeda, T. Yamamoto, and S. Kobayashi, J. Appl. Phys., 74, No. 9: 5437 (1993).",
+				"tr":  "K. Sueoka, N. Ikeda, T. Yamamoto, and S. Kobayashi, J. Appl. Phys., 74, No. 9: 5437 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Kissinger, T. Grabolla, G. Morgenstern et al., J. Electrochem. Soc., 146, No. 5: 1971 (1999).",
+				"tr":  "G. Kissinger, T. Grabolla, G. Morgenstern et al., J. Electrochem. Soc., 146, No. 5: 1971 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "D. K. Schroder and J. A. Babcock, J. Appl. Phys., 64, No. 1: 1 (2003).",
+				"tr":  "D. K. Schroder and J. A. Babcock, J. Appl. Phys., 64, No. 1: 1 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Y. Tan and W. K. Tice, Phil. Mag., 34, No. 4: 615 (1976).",
+				"tr":  "T. Y. Tan and W. K. Tice, Phil. Mag., 34, No. 4: 615 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Senkader, P. R. Wilshaw, and R. J. Falster, J. Appl. Phys., 89, No. 9: 4803 (2001).",
+				"tr":  "S. Senkader, P. R. Wilshaw, and R. J. Falster, J. Appl. Phys., 89, No. 9: 4803 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Damman, H. Baltes, N. Strecker, and U. Thiemann, J. Appl. Phys., 76, No. 8: 4547 (1994).",
+				"tr":  "M. Damman, H. Baltes, N. Strecker, and U. Thiemann, J. Appl. Phys., 76, No. 8: 4547 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "N. Adachi, T. Hisatomi, M. Sano, and H. Tsuyu, J. Electrochem. Soc., 147, No. 1: 350 (2000).",
+				"tr":  "N. Adachi, T. Hisatomi, M. Sano, and H. Tsuyu, J. Electrochem. Soc., 147, No. 1: 350 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Sama, M. Forrini, F. Fogale, and M. Servidori, J. Electrochem. Soc., 148, No. 9: 6517 (2001).",
+				"tr":  "S. Sama, M. Forrini, F. Fogale, and M. Servidori, J. Electrochem. Soc., 148, No. 9: 6517 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "H. L. Tsai, J. Appl. Phys., 58, No. 10: 3775 (1985).",
+				"tr":  "H. L. Tsai, J. Appl. Phys., 58, No. 10: 3775 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Y. Kung, E. C. Tsuy, and H. M. Lee, J. Electrochem. Soc., 146, No. 12: 4634 (1999).",
+				"tr":  "C. Y. Kung, E. C. Tsuy, and H. M. Lee, J. Electrochem. Soc., 146, No. 12: 4634 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "I. V. Antonova, V. P. Popov, A. E. Plotnikov, and A. Misiuk, J. Electrochem. Soc., 146, No. 4: 1575 (1999).",
+				"tr":  "I. V. Antonova, V. P. Popov, A. E. Plotnikov, and A. Misiuk, J. Electrochem. Soc., 146, No. 4: 1575 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Yang, J. Carle, and R. Kleinhenz, J. Appl. Phys., 62, No. 12: 4890 (1987).",
+				"tr":  "K. Yang, J. Carle, and R. Kleinhenz, J. Appl. Phys., 62, No. 12: 4890 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Wada, W. Inoue, and K. Kohra, J. Cryst. Growth, 49: 749 (1980).",
+				"tr":  "K. Wada, W. Inoue, and K. Kohra, J. Cryst. Growth, 49: 749 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "N. Inoue, K. Watanabe, K. Wada, and J. Osakam, J. Cryst. Growth, 84: 21 (1987).",
+				"tr":  "N. Inoue, K. Watanabe, K. Wada, and J. Osakam, J. Cryst. Growth, 84: 21 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "W. A. Tiller and S. Oh, J. Appl. Phys., 64, No. 1: 375 (1984).",
+				"tr":  "W. A. Tiller and S. Oh, J. Appl. Phys., 64, No. 1: 375 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Vanhellemont and C. Claeys, J. Appl. Phys., 62, No. 9: 3960 (1987); idem, J. Appl. Phys., 71, No. 2: 1073 (1992).",
+				"tr":  "J. Vanhellemont and C. Claeys, J. Appl. Phys., 62, No. 9: 3960 (1987); idem, J. Appl. Phys., 71, No. 2: 1073 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Vanhellemont, J. Appl. Phys., 78, No. 6: 4297 (1995).",
+				"tr":  "J. Vanhellemont, J. Appl. Phys., 78, No. 6: 4297 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Vanhellemont, Appl. Phys. Lett., 68, No. 24: 3413 (1996).",
+				"tr":  "J. Vanhellemont, Appl. Phys. Lett., 68, No. 24: 3413 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Sueoka, N. Ikeda, and T. Yamamoto, Appl. Phys. Lett., 65, No. 13: 1686 (1994).",
+				"tr":  "K. Sueoka, N. Ikeda, and T. Yamamoto, Appl. Phys. Lett., 65, No. 13: 1686 (1994)."
+			},
+			{
+				"doi": "10.1063/1.117165",
+				"or":  "S. Senkader, G. Hobler, and C. Schmeiser, Appl. Phys. Lett., 69, No. 15: 2202 (1996).",
+				"tr":  "S. Senkader, G. Hobler, and C. Schmeiser, Appl. Phys. Lett., 69, No. 15: 2202 (1996)."
+			},
+			{
+				"doi": "10.1063/1.1342806",
+				"or":  "V. V. Voronkov and R. Falster, J. Appl. Phys., 89, No. 11: 5965 (2001).",
+				"tr":  "V. V. Voronkov and R. Falster, J. Appl. Phys., 89, No. 11: 5965 (2001)."
+			},
+			{
+				"doi": "10.1063/1.1467607",
+				"or":  "V. V. Voronkov and R. Falster, J. Appl. Phys., 91, No. 9: 5802 (2002).",
+				"tr":  "V. V. Voronkov and R. Falster, J. Appl. Phys., 91, No. 9: 5802 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "И. М. Лифшиц, В. В. Слезов, ЖЭТФ, 35, вып. 2(8): 479 (1958).",
+				"tr":  "I. M. Lifshits, V. V. Slezov, ZhETF, 35, No. 2(8): 479 (1958)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Wagner, Z. Elektrochemie, 65, No. 7–8: 581 (1961).",
+				"tr":  "S. Wagner, Z. Elektrochemie, 65, No. 7–8: 581 (1961)."
+			},
+			{
+				"doi": "",
+				"or":  "F. C. Goodrich, Proc. R. Soc. A. London, 277, No. 1369: 155 (1964).",
+				"tr":  "F. C. Goodrich, Proc. R. Soc. A. London, 277, No. 1369: 155 (1964)."
+			},
+			{
+				"doi": "",
+				"or":  "F. C. Goodrich, Proc. R. Soc. A. London, 277, No. 1369: 167 (1964).",
+				"tr":  "F. C. Goodrich, Proc. R. Soc. A. London, 277, No. 1369: 167 (1964)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Koiwa, Phil. Mag., 30, No. 4: 877 (1974).",
+				"tr":  "M. Koiwa, Phil. Mag., 30, No. 4: 877 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Koiwa, Phil. Mag., 30, No. 5: 895 (1974).",
+				"tr":  "M. Koiwa, Phil. Mag., 30, No. 5: 895 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Слезов, В. В. Сагалович, УФН, 151, № 1: 67 (1987).",
+				"tr":  "3367/UFNr.0151.198701c.0067"
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Чуистов, Металлофизика, 15, № 4: 10 (1993).",
+				"tr":  "K. V. Chuistov, Metallofizika, 15, No. 4: 10 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "F. S. Ham, J. Phys. Chem. Solids, 6, No. 4: 335 (1958).",
+				"tr":  "F. S. Ham, J. Phys. Chem. Solids, 6, No. 4: 335 (1958)."
+			},
+			{
+				"doi": "",
+				"or":  "F. S. Ham, J. Appl. Phys., 30, No. 10: 1518 (1969).",
+				"tr":  "F. S. Ham, J. Appl. Phys., 30, No. 10: 1518 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "S. M. Hu, Appl. Phys. Lett., 48, No. 2: 115 (1986).",
+				"tr":  "S. M. Hu, Appl. Phys. Lett., 48, No. 2: 115 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "K. F. Kelton, R. Falster, D. Gambaro, M. Olmo et al., J. Appl. Phys., 85, No. 12: 8097 (1999).",
+				"tr":  "K. F. Kelton, R. Falster, D. Gambaro, M. Olmo et al., J. Appl. Phys., 85, No. 12: 8097 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "P. F. Wei, K. F. Kelton, and R. Falster, J. Appl. Phys., 88, No. 9: 5062 (2000).",
+				"tr":  "P. F. Wei, K. F. Kelton, and R. Falster, J. Appl. Phys., 88, No. 9: 5062 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Статистическая физика. Ч. 1 (т. V)  (Москва: Наука: 1976).",
+				"tr":  "L. D. Landau, E. M. Lifshits, Statisticheskaya fizika. Ch. 1 (t. V) (Moskva: Nauka: 1976)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Г. Ван Кампен, Стохастические процессы в физике и химии (Москва: Высшая школа: 1990).",
+				"tr":  "N. G. Van Kampen, Stokhasticheskie protsessy v fizike i khimii (Moskva: Vysshaya shkola: 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Schrems, T. Brabec, M. Budil et al., Mater. Sci. Eng. B, 4: 393 (1989).",
+				"tr":  "M. Schrems, T. Brabec, M. Budil et al., Mater. Sci. Eng. B, 4: 393 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Esfandyari, C. Schmeiser, S. Senkader et al., J. Electrochem. Soc., 143, No. 3: 995 (1996).",
+				"tr":  "J. Esfandyari, C. Schmeiser, S. Senkader et al., J. Electrochem. Soc., 143, No. 3: 995 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Isomae, J. Appl. Phys., 70, No. 8: 4217 (1991).",
+				"tr":  "S. Isomae, J. Appl. Phys., 70, No. 8: 4217 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Булярский, В. В. Светухин, О. В. Приходько, ФТП, 33, вып. 11: 1281 (1999).",
+				"tr":  "S. V. Bulyarskiy, V. V. Svetukhin, O. V. Prikhod'ko, FTP, 33, vyp. 11: 1281 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Светухин, А. Г. Гришин, О. В. Приходько, ФТП, 37, вып. 7: 871 (2003).",
+				"tr":  "V. V. Svetukhin, A. G. Grishin, O. V. Prikhod'ko, FTP, 37, vyp. 7: 871 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Я. Любов, Кинетическая теория фазовых превращений (Москва: Металургия: 1969).",
+				"tr":  "V. Ya. Lyubov, Kineticheskaya teoriya fazovykh prevrashcheniy (Moskva: Metalurgiya: 1969)."
+			},
+			{
+				"doi": "10.1063/1.110025",
+				"or":  "S. T. Dunham, Appl. Phys. Lett., 63, No. 4: 464 (1993).",
+				"tr":  "S. T. Dunham, Appl. Phys. Lett., 63, No. 4: 464 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Burton and M. V. Speight, Philos. Mag. A, 53, No. 3: 385 (1985).",
+				"tr":  "B. Burton and M. V. Speight, Philos. Mag. A, 53, No. 3: 385 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Bonafos, D. Mathiot, and A. J. Claverie, J. Appl. Phys., 83, No. 6: 3008 (1998).",
+				"tr":  "C. Bonafos, D. Mathiot, and A. J. Claverie, J. Appl. Phys., 83, No. 6: 3008 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Lampin and V. Senez, Nucl. Instrum. Meth. Phys. Res. B, 147, No. 1–4: 13 (1999).",
+				"tr":  "E. Lampin and V. Senez, Nucl. Instrum. Meth. Phys. Res. B, 147, No. 1–4: 13 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Senkader, J. Esfandyari, and G. Hobler, J. Appl. Phys., 78, No. 11: 6469 (1995).",
+				"tr":  "S. Senkader, J. Esfandyari, and G. Hobler, J. Appl. Phys., 78, No. 11: 6469 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "B. G. Ko and K. D. Kwack, J. Appl. Phys., 85, No. 4: 2100 (1999).",
+				"tr":  "B. G. Ko and K. D. Kwack, J. Appl. Phys., 85, No. 4: 2100 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Mori, Ph. D. Thesis (Cambridge: Massachusetts Institute of Technology: 2000).",
+				"tr":  "T. Mori, Ph. D. Thesis (Cambridge: Massachusetts Institute of Technology: 2000)."
+			},
+			{
+				"doi": "10.1063/1.1713945",
+				"or":  "B. E. Deal and A. S. Grove, J. Appl. Phys., 36, No. 12: 3770 (1965).",
+				"tr":  "B. E. Deal and A. S. Grove, J. Appl. Phys., 36, No. 12: 3770 (1965)."
+			}
+		]
+	}
+}

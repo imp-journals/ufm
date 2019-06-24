@@ -1,0 +1,244 @@
+{
+	"_id":    "UFM.04.04.303",
+	"year":   2003,
+	"volume": 4,
+	"issue":  4,
+	"pages":  [303,336],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["15.10.2003"],
+	"PACS":   "61.46.+w, 81.07.Pr, 82.35.Np, 83.80.Lz, 87.64.Hd, 87.68.+z",
+	"title":   {
+		"ua": "Властивості нанорозмірних частинок на основі металів, локалізованих у біологічних тканинах",
+		"en": "Properties of Nanoscale Particles on the Basis of Metals Localized Into Biological Tissues",
+		"ru": "Свойства наноразмерных частиц на основе металлов, локализованных в биологических тканях"
+	},
+	"abstract": {
+		"ua": "Описано нанорозмірні частинки твердого тіла, що локалізовані у високомінералізованих біологічних тканинах (емаль зубів, кістки) і в слабомінералізованих тканинах (органічна тканина раковин молюсків, тканини мозку). Вивчено властивості цих нанорозмірних частинок, сформованих на основі металічних іонів. Дані про властивості нанорозмірних частинок у вищевказаних біологічних тканинах отримано в основному за допомогою електронного парамагнітного резонансу. Для високомінералізованих тканин розглянуто питання, пов’язані з ієрархією внутрішньої будови, механізмами взаємодії органічної й мінеральної матерії, анізотропією структури і домішковими кристалічними фазами. Для слабомінералізованих тканин описано аномальні резонансні сигнали, обумовлені магнітовпорядкованими частками, що володіють унікальними динамічними характеристиками. При високих рівнях мікрохвильової потужності на контурі цих резонансних сигналів з’являються параболічні зони, обумовлені когерентними ефектами. Зроблено висновки про те, що в тканинах мозку має місце як фізіологічна (нормальна), так і патологічна мінералізація. Припускається, що фізіологічні мінеральні частинки відіграють важливу роль у функціонуванні мозку, а патологічні частки є причиною захворювань мозку. Обговорено можливі застосування описаних результатів для вирішення фундаментальних і прикладних проблем, пов’язаних із нанорозмірними частками в біологічних тканинах. Оскільки мінеральна компонента у високомінералізованих біологічних тканинах і мінеральні включення в слабомінералізованих тканинах мають структуру часток твердого тіла, відкривається можливість для використання строгих фізичних підходів для описання процесів у біологічних тканинах. Крім того, інформація про властивості нанорозмірних частинок твердого тіла, локалізованих у біологічних тканинах, відкриває можливості для створення технічних систем і пристроїв, які б використовували принципи функціонування біологічних тканин.",
+		"en": "The nanoscale solid-state particles localized into high-mineralised biological tissues (tooth enamel, bone) and into weakly-mineralised tissues (organic tissue of mollusc shells, tissue of brain) are considered. The properties of the nanoscale solid-state particles formed on the basis of metallic ions are studied. The data about properties of the nanoscale particles localized into above-mentioned biological tissues are obtained mainly by electron paramagnetic resonance (EPR). For high-mineralised tissues, the problems bound with hierarchy of an internal structure, interaction mechanisms of an organic and mineral substance, an anisotropy of their structure, and impurity crystalline phases are considered. For weakly mineralised tissues, the anomalous resonance signals (caused by the particles with magnetic ordering), which have unique dynamical characteristics, are described. At high level of microwave power, the parabolic zones caused by the coherent phenomena are appeared on the outline of the signals. As concluded, within the brain tissue the physiological (normal) mineralisation and pathological one take place. As suggested, physiological mineral particles play important role in operation of brain and pathological particles and they are the causes of brain diseases. The possible applications of the described results are discussed for solution of fundamental and applied problems bound with nanoscale particles intruded into the biological tissues. The mineral component of high-mineralised tissues and mineral inclusions of weakly-mineralised tissues have the structure of solid-state particles. This fact opens the possibilities for describing the processes within the biological tissues by strong physical approaches. Besides, the information about the properties of nanoscale solid-state particles within the biological tissues opens possibilities for creation of the technical systems and equipments, which would use the principles of the biological tissue functioning.",
+		"ru": "Описаны наноразмерные частицы твердого тела, локализованные в высокоминерализованных биологических тканях (эмаль зубов, кости) и в слабоминерализованных тканях (органическая ткань раковин моллюсков, ткани мозга). Изучены свойства этих наноразмерных частиц, которые сформированы на основе металлических ионов. Данные о свойствах наноразмерных частиц в вышеперечисленных биологических тканях получены в основном с помощью электронного парамагнитного резонанса. Для высокоминерализованных тканей рассмотрены вопросы, связанные с иерархией внутреннего строения, механизмами взаимодействия органического и минерального вещества, анизотропией структуры и примесными кристаллическими фазами. Для слабоминерализованных тканей описаны аномальные резонансные сигналы, обусловленные магнитоупорядоченными частицами, которые обладают уникальными динамическими характеристиками. При высоких уровнях микроволновой мощности на контуре этих резонансных сигналов появляются параболические зоны, обусловленные когерентными эффектами. Сделаны выводы о том, что в тканях мозга имеет место как физиологическая (нормальная), так и патологическая минерализация. Мы предполагаем, что физиологические минеральные частицы играют важную роль в функционировании мозга, а патологические частицы являются причиной заболеваний мозга. Обсуждены возможные применения описанных результатов для решения фундаментальных и прикладных проблем, связанных с наноразмерными частицами в биологических тканях. Поскольку минеральная компонента в высокоминерализованных биологических тканях и минеральные включения в слабоминерализованных тканях имеют структуру частиц твердого тела, открываются возможности для использования строгих физических подходов для описания процессов в биологических тканях. Кроме того, информация о свойствах наноразмерных частиц твердого тела, локализованных в биологических тканях, открывает возможности для создания технических систем и устройств, которые использовали бы принципы функционирования биологических тканей."
+	},
+	"keywords": {
+		"ua": "нанорозмірні частинки, кістки, зубна емаль, мозкова тканина, електронний парамагнітний резонанс, гідроксилапатит, кальцит, оксиди заліза",
+		"en": "nanoscale particles, bones, tooth enamel, brain tissue, electron paramagnetic resonance, hydroxylapatite, calcite, ferric oxides",
+		"ru": "наноразмерные частицы, кости, зубная эмаль, мозговая ткань, электронный парамагнитный резонанс, гидроксилапатит, кальцит, оксиды железа"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. П. Шпак", "en": "A. P. Shpak", "ru": "А. П. Шпак"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. Б. Брик", "en": "A. B. Brik", "ru": "А. Б. Брик"},
+			"OID": [38]
+		},
+		{
+			"AID": {"ua": "В. Л. Карбовський", "en": "V. L. Karbovskiy", "ru": "В. Л. Карбовский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Л. Г. Розенфельд", "en": "L. G. Rosenfeld", "ru": "Л. Г. Розенфельд"},
+			"OID": [249]
+		}
+	],
+	"references": {
+		"count": 39,
+				"list":  [
+			{
+				"doi": "",
+				"or":  "A. P. Shpak, A. B. Brik, and V. L. Karbovskij, Tezisy Dokladov Mezhdunarodnoj Konferentsii ‘Noveishie Tekhnologii v Poroshkovoj Metallurgii i Keramike’ (Kyyiv: 2003), p. 286 (in Russian).",
+				"tr":  "A. P. Shpak, A. B. Brik, and V. L. Karbovskij, Tezisy Dokladov Mezhdunarodnoj Konferentsii 'Noveishie Tekhnologii v Poroshkovoj Metallurgii i Keramike' (Kyyiv: 2003), p. 286 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Korago, Vvedenie v Biomineralogiyu (Spb.: Nedra: 1992) (in Russian).",
+				"tr":  "A. A. Korago, Vvedenie v Biomineralogiyu (Spb.: Nedra: 1992) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "F. C. M. Driessens and R. M. H. Verbeeck, Biominerals (Boca Raton: CRC Press: 1990).",
+				"tr":  "F. C. M. Driessens and R. M. H. Verbeeck, Biominerals (Boca Raton: CRC Press: 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "H. A. Lowenstam and S. Weiner, On Biomineralization (New York: Oxford Univ. Press: 1989).",
+				"tr":  "H. A. Lowenstam and S. Weiner, On Biomineralization (New York: Oxford Univ. Press: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "A. P. Shpak, V. L. Karbovskij, and V. V. Trachevskij, Apatity (Kyyiv: Akademperiodyka: 2002) (in Russian).",
+				"tr":  "A. P. Shpak, V. L. Karbovskij, and V. V. Trachevskij, Apatity (Kyyiv: Akademperiodyka: 2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Kanazawa, Neorganicheskie Fosfatnyye Soyedineniya (Kyyiv: Naukova Dumka: 1998) (in Russian).",
+				"tr":  "T. Kanazawa, Neorganicheskie Fosfatnyye Soyedineniya (Kyyiv: Naukova Dumka: 1998) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "N. P. Jushkin, V. I. Pavlishin, and A. M. Askhabov, Mineralogicheskij Zhurnal, 25, No. 4: 7 (2003) (in Russian).",
+				"tr":  "N. P. Jushkin, V. I. Pavlishin, and A. M. Askhabov, Mineralogicheskij Zhurnal, 25, No. 4: 7 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. G. Rosenfeld, A. B. Brik, G. H. Kenner, O. N. Atamanenko et al., Ortope-diya, Travmatologiya i Protezirovanie, No. 1: 9 (2002) (in Russian).",
+				"tr":  "L. G. Rosenfeld, A. B. Brik, G. H. Kenner, O. N. Atamanenko et al., Ortope-diya, Travmatologiya i Protezirovanie, No. 1: 9 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. G. Rozenfel’d, O. B. Brik, and O. N. Atamanenko, Zhurnal AMN Ukrainy, 5, No. 2: 220 (1999) (in Russian).",
+				"tr":  "L. G. Rozenfel'd, O. B. Brik, and O. N. Atamanenko, Zhurnal AMN Ukrainy, 5, No. 2: 220 (1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. B. Brik, Mineralogical Journal, 24, No. 5/6: 29 (2002).",
+				"tr":  "A. B. Brik, Mineralogical Journal, 24, No. 5/6: 29 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "A. B. Brik, Mineralogical Journal, 25, No. 2/3: 11 (2003).",
+				"tr":  "A. B. Brik, Mineralogical Journal, 25, No. 2/3: 11 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "A. B. Brik and V. B. Brik, Mineralogical Journal, 20, No. 5: 46 (1998).",
+				"tr":  "A. B. Brik and V. B. Brik, Mineralogical Journal, 20, No. 5: 46 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "E. V. Borovskij and V. K. Leont’ev, Biologiya Polosti Rta (Moscow: Medicina: 1991) (in Russian).",
+				"tr":  "E. V. Borovskij and V. K. Leont'ev, Biologiya Polosti Rta (Moscow: Medicina: 1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. J. Glimcher, Clinical Ortopaedics and Related Research, No. 61: 16 (1968).",
+				"tr":  "M. J. Glimcher, Clinical Ortopaedics and Related Research, No. 61: 16 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "D. V. Provenza and W. Ed. Seibel, Oral Histology (Philadelphia: Lea and Febiger: 1986).",
+				"tr":  "D. V. Provenza and W. Ed. Seibel, Oral Histology (Philadelphia: Lea and Febiger: 1986)."
+			},
+			{
+				"doi": "10.1016/S0969-8043(00)00047-6",
+				"or":  "A. B. Brik, E. H. Haskell, V. B. Brik, O. N. Atamanenko, and O. I. Scherbina, Appl. Radiat. Isot., 52: 1077 (2000).",
+				"tr":  "A. B. Brik, E. H. Haskell, V. B. Brik, O. N. Atamanenko, and O. I. Scherbina, Appl. Radiat. Isot., 52: 1077 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Brik, G. Kenner, V. Brik, E. Rice et al., Mineralogical Journal, 23, No. 1: 23 (2001).",
+				"tr":  "A. Brik, G. Kenner, V. Brik, E. Rice et al., Mineralogical Journal, 23, No. 1: 23 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "G. P. Stupakov and A. I. Volozhin, Kostnaya Sistema i Nevesomost’ (Moscow: Nauka: 1989), vol. 63 (in Russian).",
+				"tr":  "G. P. Stupakov and A. I. Volozhin, Kostnaya Sistema i Nevesomost' (Moscow: Nauka: 1989), vol. 63 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Belous and E. Ya. Pankov, Mekhanizmy Regeneratsii Kostnoj Tkani: Sbornik Statej (Moscow: Medicina: 1972) (in Russian).",
+				"tr":  "A. M. Belous and E. Ya. Pankov, Mekhanizmy Regeneratsii Kostnoj Tkani: Sbornik Statej (Moscow: Medicina: 1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "W. F. Neuman and M. W. Neuman, The Chemical Dynamics of Bone Mineral (Chicago: The University of Chicago Press: 1958).",
+				"tr":  "W. F. Neuman and M. W. Neuman, The Chemical Dynamics of Bone Mineral (Chicago: The University of Chicago Press: 1958)."
+			},
+			{
+				"doi": "10.1038/2061325a0",
+				"or":  "R. O. Becker and F. M. Brown, Nature, 206, No. 4991: 1325 (1965).",
+				"tr":  "R. O. Becker and F. M. Brown, Nature, 206, No. 4991: 1325 (1965)."
+			},
+			{
+				"doi": "10.1007/BF02008098",
+				"or":  "C. A. L. Bassett, Calcif. Tiss. Res., 1: 252 (1968).",
+				"tr":  "C. A. L. Bassett, Calcif. Tiss. Res., 1: 252 (1968)."
+			},
+			{
+				"doi": "10.1016/0021-9290(75)90076-7",
+				"or":  "W. S. Williams and L. Breger, J. Biomechanics, 8: 407 (1975).",
+				"tr":  "W. S. Williams and L. Breger, J. Biomechanics, 8: 407 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Loshchilov, M. V. Volkov, and S. I. Shchukin, Dokl. AN SSSR. Ser. Biofizika, 274, No. 5: 1221 (1984) (in Russian).",
+				"tr":  "V. I. Loshchilov, M. V. Volkov, and S. I. Shchukin, Dokl. AN SSSR. Ser. Biofizika, 274, No. 5: 1221 (1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "E. T. Kulin, Bioehlektretnyj Ehffekt (Minsk: Nauka i Tekhnika: 1980) (in Russian).",
+				"tr":  "E. T. Kulin, Bioehlektretnyj Ehffekt (Minsk: Nauka i Tekhnika: 1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. B. Brik, E. H. Haskel, O. I. Scherbina et al., Mineralogical Journal, 20, No. 4: 26 (1998).",
+				"tr":  "A. B. Brik, E. H. Haskel, O. I. Scherbina et al., Mineralogical Journal, 20, No. 4: 26 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "F. Callens, P. Moens, and R. Verbeeck, Calcified Tissue International (1995), p. 543 .",
+				"tr":  "F. Callens, P. Moens, and R. Verbeeck, Calcified Tissue International (1995), p. 543 ."
+			},
+			{
+				"doi": "",
+				"or":  "A. B. Brik, O. I. Scherbina, E. H. Haskell et al., Mineralogical Journal, 19, No. 4, 3 (1997).",
+				"tr":  "A. B. Brik, O. I. Scherbina, E. H. Haskell et al., Mineralogical Journal, 19, No. 4, 3 (1997)."
+			},
+			{
+				"doi": "10.1016/S0969-8043(02)00049-0",
+				"or":  "S. S. Ishchenko, I. P. Vorona, S. M. Okulov, and N. P. Baran, Applied Radiation and Isotopes, 56: 815 (2002).",
+				"tr":  "S. S. Ishchenko, I. P. Vorona, S. M. Okulov, and N. P. Baran, Applied Radiation and Isotopes, 56: 815 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "I. P. Vorona, M. P. Baran, and S. S. Ishchenko, Ukr. Fiz. Zhurnal, 47, No. 7: 659 (2002) (in Russian).",
+				"tr":  "I. P. Vorona, M. P. Baran, and S. S. Ishchenko, Ukr. Fiz. Zhurnal, 47, No. 7: 659 (2002) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0969-8043(00)00088-9",
+				"or":  "A. Brik, V. Baraboy, O. Atamanenko et al., Applied Radiation and Isotopes, 52, No. 5: 1305 (2000).",
+				"tr":  "A. Brik, V. Baraboy, O. Atamanenko et al., Applied Radiation and Isotopes, 52, No. 5: 1305 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "A. B. Brik, O. N. Atamanenko, I. G. Litovka, and O. I. Scherbina, Abstracts of 22nd Annual International Gravitational Physiology Meeting (Budapest, 2001), p. 61.",
+				"tr":  "A. B. Brik, O. N. Atamanenko, I. G. Litovka, and O. I. Scherbina, Abstracts of 22nd Annual International Gravitational Physiology Meeting (Budapest, 2001), p. 61."
+			},
+			{
+				"doi": "",
+				"or":  "L. G. Gelinskaja and M. Ya. Shcherbakova, Fizika Apatita (Novosibirsk: Nauka: 1975), p. 7 (in Russian).",
+				"tr":  "L. G. Gelinskaja and M. Ya. Shcherbakova, Fizika Apatita (Novosibirsk: Nauka: 1975), p. 7 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Abragam and B. Bleaney, Electron Paramagnetic Resonance of Transition Ions (Oxford: Clarendon Press: 1970).",
+				"tr":  "A. Abragam and B. Bleaney, Electron Paramagnetic Resonance of Transition Ions (Oxford: Clarendon Press: 1970)."
+			},
+			{
+				"doi": "",
+				"or":  "Ch. P. Pool, Electron Spin Resonance in Comprehensive Treatise on Experimental Techniques (New York–London–Sidney: Interscience Publishers—a Division of John Wiley and Sons: 1967).",
+				"tr":  "Ch. P. Pool, Electron Spin Resonance in Comprehensive Treatise on Experimental Techniques (New York–London–Sidney: Interscience Publishers—a Division of John Wiley and Sons: 1967)."
+			},
+			{
+				"doi": "",
+				"or":  "Z. Srebro, W. Froncize, T. Sarna, and S. Lukiewicz, Proc. of the First European Biophysics Congress (1971), vol. 2, p. 575.",
+				"tr":  "Z. Srebro, W. Froncize, T. Sarna, and S. Lukiewicz, Proc. of the First European Biophysics Congress (1971), vol. 2, p. 575."
+			},
+			{
+				"doi": "10.1111/j.1749-6632.1973.tb15327.x",
+				"or":  "P. Milvy, S. Kakari, J. B. Campbell, and H. B. Demopoulos, Annals of New York Academy of Science, 222: 1102 (1976).",
+				"tr":  "P. Milvy, S. Kakari, J. B. Campbell, and H. B. Demopoulos, Annals of New York Academy of Science, 222: 1102 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "Ferromagnitnyj Rezonans (Ed. S. V. Vonsovskij) (Moscow: GIFML: 1961) (in Russian).",
+				"tr":  "Ferromagnitnyj Rezonans (Ed. S. V. Vonsovskij) (Moscow: GIFML: 1961) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "F. E. Bloom, A. Lazerson, and L. Hofstadter, Brain, Mind, and Behavior (New York: W. H. Freeman and Company: 1985).",
+				"tr":  "F. E. Bloom, A. Lazerson, and L. Hofstadter, Brain, Mind, and Behavior (New York: W. H. Freeman and Company: 1985)."
+			}
+		]
+	}
+}

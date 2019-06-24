@@ -1,0 +1,202 @@
+{
+	"_id":    "UFM.05.03.313",
+	"year":   2004,
+	"volume": 5,
+	"issue":  3,
+	"pages":  [313,344],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["07.10.2003"],
+	"PACS":   "61.46.+w, 62.25.+g, 62.40.+i, 71.15.Ap, 73.30.+y, 79.60.Jv",
+	"title":   {
+		"ua": "Вплив електронної структури нанокластерів на квантовий вихід фотоемісії магнієвих стопів",
+		"en": "Influence of Electronic Structure of Nanoclusters on a Quantum Yield of Photoemission of Magnesium Alloys",
+		"ru": "Влияние электронной структуры нанокластеров на квантовый выход фотоэмиссии магниевых сплавов"
+	},
+	"abstract": {
+		"ua": "Наведено перші експериментальні докази дифузійної кластеризації структури в сегрегованих ГЩУ-твердих розчинах і евтектичних сплавах на основі магнію. Методами рентгенівської фотоелектронної спектроскопії досліджено електронну структуру ГЩУ-Mg та його сплавів з 2% Ва (Mg$_{0,94}$Ba$_{0,06}$) і 5% Ва (Mg$_{0,75}$Ba$_{0,25}$). Спектроскопічний аналіз валентної полоси і енергетичних рівнів внутрішніх електронів в РФЕ-спектрах якісно узгоджується з більш точними теоретичними (квантово-механічними) розрахунками ГЩУ-структур Mg$_{16}$Ba$_{2}$ і Mg$_6$Ba$_2$, виконаними лінеаризованим методом приєднаних плоских хвиль (FLAPW) з повним наближенням для кристалічного потенціалу на основі запропонованої моделі нанокластерів, які розташовані на структурних дефектах в сегрегаційних скупченнях (типу зон Гіньє—Престона). Зміна тонкої структури РФЕ-спектрів, поява хімічних зсувів в Оже-електронних спектрах та підсилення парамагнітної сприйнятливості Mg—Ba сплавів показують, що Ва, як легуючий елемент, ліквідує мінімум на кривій щільності електронних станів $N(E)$, характерний для легких металів IIA підгрупи, де відбувається крихкий перехід, і підвищує локальну густину зв’язаних станів поблизу поверхні Фермі ($E_{F}$). Легування ГЩУ-Mg барієм супроводжується гібридизацією хімічного зв’язку з утворенням більш стійких $s$-, $p$-, $d$- електронних конфігурацій кластерів, що відповідають за формування на структурних дефектах емісійно-активних центрів і підвищують стабільний квантовий вихід фотоемісії. Висока квантова ефективність сплавів Mg—Ba в ближній УФ-області спектру пояснюється поверхнево-об’ємним характером зовнішнього фотоефекту для евтектичних сплавів з кластеризованою структурою, що проявляє ефективну (на структурних дефектах) взаємну розчинність компонентів (Mg і Ba).",
+		"en": "The first experimental evidences are obtained by the mechanical spectroscopy, which yield forming the pair defects, i.e. primary nanoclusters of alloying element (AE)—excess vacancy (EV) at the early (pre-precipitate) stage in segregated solid solutions of as-cast eutectic alloys of Mg—Ba system. At the later stages, the clustering rate is increased by the presence of EV and completed by the stress rearrangement of AE—EV nanoclusters into magnesium clusters Mg$_n$ alloyed by the emission-active Ba$_m$ additions. It is noteworthy that thin structure of electron spectra is theoretically calculated for (Mg$_{16}$Ba$_2$) clusters using the first principles by the linearized augmented plane-wave (FLAPW) method with a complete approach for crystal-potential approximation of electronic structure of the x-ray photoelectron spectra (XPS) observed for massive (bulk) Mg—2% Ba (Mg$_{0,94}$Ba$_{0,06}$) alloy. Change of thin structure of XPS, occurrence of chemical shifts in Auger electron spectra (AES), and amplification of paramagnetic susceptibility of Mg—Ba alloys show that, as alloying element, Ba eliminates the minimum on a curve of electron density of states, $N(E)$, which is typical for the IIA subgroup semibrittle light metals, and raises the local density of engaged states near the Fermi surface ($E_{F}$). As revealed, embedded Mg$_{n}$Ba$_{m}$ clusters are responsible for hybridization of chemical bounds in segregated solid solutions with stabilizing the new hybrid $s$-, $p$-, $d$-electron configurations of clusters properly keeping their property to operate as emission-active centres raising a stable quantum yield of the photoemission. High quantum efficiency of the Mg—Ba alloys in a near UV-range of spectrum is explained by the surface-bulk character of the photoemission effect for eutectic alloys with clusterized structure having effective (at structural defects) mutual solubility of components (Mg and Ba).",
+		"ru": "Приведены первые экспериментальные доказательства диффузионной кластеризации структуры в сегрегированных ГПУ-твердых растворах и эвтектических сплавах на основе магния. Методами рентгеновской фотоэлектронной спектроскопии исследована электронная структура ГПУ-Mg и его сплавов с 2% Ва (Mg$_{0,94}$Ba$_{0,06}$) и 5% Ва (Mg$_{0,75}$Ba$_{0,25}$). Спектроскопический анализ валентной полосы и энергетических уровней внутренних электронов наблюдаемых РФЭ-спектров этих массивных сплавов качественно согласуется с более точными теоретическими (квантовомеханическими) расчетами ГПУ-структур Mg$_{16}$Ba$_{2}$ и Mg$_6$Ba$_2$, выполненными линеаризованным методом присоединенных плоских волн (FLAPW) с полным приближением для кристаллического потенциала на основе предложенной модели нанокластеров, расположенных на структурных дефектах в сегрегационных скоплениях (типа зон Гинье—Престона). Изменение тонкой структуры РФЭ-спектров, появление химических сдвигов в Оже-электронных спектрах и усиление парамагнитной восприимчивости Mg—Ba сплавов показывают, что Ва как легирующий элемент ликвидирует минимум на кривой плотности электронных состояний $N(E)$, характерный для обладающих хрупким переходом легких металлов IIA подгруппы, и повышает локальную плотность связанных состояний вблизи поверхности Ферми ($E_{F}$). Легирование ГПУ-Mg барием сопровождается гибридизацией химической связи с образованием более устойчивых $s$-, $p$-, $d$-электронных конфигураций кластеров, ответственных за формирование на структурных дефектах эмиссионно-активных центров и повышающих стабильный квантовый выход фотоэмиссии. Высокая квантовая эффективность сплавов Mg—Ba в ближней УФ-области спектра объясняется поверхностно-объемным характером внешнего фотоэффекта для эвтектических сплавов с кластеризованной структурой, обладающей эффективной (на структурных дефектах) взаимной растворимостью компонентов (Mg и Ba)."
+	},
+	"keywords": {
+		"ua": "фотоемісія, робота виходу, кластеризація структури, електронна структура",
+		"en": "photoemission, work function, structure clusterization, electronic structure",
+		"ru": "фотоэмиссия, работа выхода, кластеризация структуры, электронная структура"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Г. Ткаченко", "en": "V. G. Tkachenko", "ru": "В. Г. Ткаченко"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "І. М. Максимчук", "en": "I. M. Maksymchuk", "ru": "И. Н. Максимчук"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "А. І. Кондрашев", "en": "A. I. Kondrashev", "ru": "А. И. Кондрашев"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "І. І. Шуляк", "en": "I. I. Shulyak", "ru": "И. И. Шуляк"},
+			"OID": [2]
+		}
+	],
+	"cited_by": {
+		"count":  2,
+		"list":  [
+			{
+				"doi": "10.15407/ujpe62.11.0961",
+				"cit": "A.A. Abramov and V.G. Tkachenko, <a href=\"https://doi.org/10.15407/ujpe62.11.0961\">Ukr. J. Phys. <b>62</b>, 961 (2017)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.10.01.103",
+				"cit": "V. G. Tkachenko, <a href=\"https://doi.org/10.15407/ufm.10.01.103\">Usp. Fiz. Met. <b>10</b>, 103 (2009)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 28,
+		"list":  [
+			{
+				"doi": "10.1007/BF01575096",
+				"or":  "V. G. Tkachenko, I. N. Maksimchuk, V. V. Shklover et al., Appl. Phys. A, 62: 285 (1996).",
+				"tr":  "V. G. Tkachenko, I. N. Maksimchuk, V. V. Shklover et al., Appl. Phys. A, 62: 285 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, В. Г. Ткаченко, И. Н. Максимчук, В. В. Шкловер и др., Докл. РАН, 340, № 1: 48 (1995).",
+				"tr":  "V. I. Trefilov, V. G. Tkachenko, I. N. Maksimchuk, V. V. Shklover et al., Dokl. RAN, 340, No. 1: 48 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, В. Г. Ткаченко, И. Н. Максимчук и др., Докл. РАН, 340, № 2: 185 (1995).",
+				"tr":  "V. I. Trefilov, V. G. Tkachenko, I. N. Maksimchuk et al., Dokl. RAN, 340, No. 2: 185 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Tkachenko, Physical Fundamentals of Forming and Recovery of Properties of Rare Metals, Light and Precise Alloys (Kiev: Naukova Dumka: 1996) (in Russian); V. G. Tkachenko, Strength Physics of Less-Common Metals and Their Alloys (London: Cambridge Int. Sci. Publish.: 2002) (ISBN 189-832-6576) (in press).",
+				"tr":  "V. G. Tkachenko, Physical Fundamentals of Forming and Recovery of Properties of Rare Metals, Light and Precise Alloys (Kiev: Naukova Dumka: 1996) (in Russian); V. G. Tkachenko, Strength Physics of Less-Common Metals and Their Alloys (London: Cambridge Int. Sci. Publish.: 2002) (ISBN 189-832-6576) (in press)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Собoлева, Итоги науки и техники (Москва: 1976), т. 6, с. 5.",
+				"tr":  "N. A. Soboleva, Itogi nauki i tekhniki (Moskva: 1976), vol. 6, p. 5."
+			},
+			{
+				"doi": "",
+				"or":  "R. S. Busk, J. Metall/Trans. AIME, 4, No. 2: 207 (1952).",
+				"tr":  "R. S. Busk, J. Metall/Trans. AIME, 4, No. 2: 207 (1952)."
+			},
+			{
+				"doi": "",
+				"or":  "В. К. Григорович, Металлическая связь и структура металлов (Москва: Наука: 1988).",
+				"tr":  "V. K. Grigorovich, Metallicheskaya svyaz' i struktura metallov (Moskva: Nauka: 1988)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, А. М. Кордубан, В. В. Трачевский, Н. С. Слободяник, Теоретическая и экспериментальная химия, т. 36, № 5: 267 (2000).",
+				"tr":  "A. P. Shpak, A. M. Korduban, V. V. Trachevskiy, N. S. Slobodyanik, Teoreticheskaya i eksperimental'naya khimiya, t. 36, No. 5: 267 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Blaha, K. Schwarz, and J. Luitz, A Full Potential Linearized Augmented Plane Wave Packed for Calculating Crystal Properties (Wien: Karlheinz Schwarz–Techn. Universität: 1999).",
+				"tr":  "P. Blaha, K. Schwarz, and J. Luitz, A Full Potential Linearized Augmented Plane Wave Packed for Calculating Crystal Properties (Wien: Karlheinz Schwarz–Techn. Universität: 1999)."
+			},
+			{
+				"doi": "10.1016/0304-8853(94)01150-8",
+				"or":  "V. G. Bar’yakhtar, A. N. Timoshevski, V. K. Soolshenko, and A. N. Yaresko, J. Magnetism and Magnetic Materials, 140–144: 115 (1995).",
+				"tr":  "V. G. Bar'yakhtar, A. N. Timoshevski, V. K. Soolshenko, and A. N. Yaresko, J. Magnetism and Magnetic Materials, 140–144: 115 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Tkachenko, V. A. Tatarenko, I. I. Schuljak et al., Metallofiz. Noveishie Tekhnol., 23, No. 3: 367 (2001).",
+				"tr":  "V. G. Tkachenko, V. A. Tatarenko, I. I. Schuljak et al., Metallofiz. Noveishie Tekhnol., 23, No. 3: 367 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Tkachenko, D. M. Levin, V. I. Trefilov et al., Metallofiz. Noveishie Tekhnol., 23, № 5: 699 (2001).",
+				"tr":  "V. G. Tkachenko, D. M. Levin, V. I. Trefilov et al., Metallofiz. Noveishie Tekhnol., 23, No. 5: 699 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Ткаченко, А. И. Кондрашев, В. И. Лазаренко и др., Докл. РАН, 367, № 5: 632 (1999).",
+				"tr":  "V. G. Tkachenko, A. I. Kondrashev, V. I. Lazarenko et al., Dokl. RAN, 367, No. 5: 632 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "L. E. Davies et al., Handbook of Auger Electron Spectroscopy (Physical Electronics Division, Perkin-Elmer Corp. USA: 1978).",
+				"tr":  "L. E. Davies et al., Handbook of Auger Electron Spectroscopy (Physical Electronics Division, Perkin-Elmer Corp. USA: 1978)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Веснин, Химия в интересах устойчивого развития, № 8: 61 (2000).",
+				"tr":  "Yu. N. Vesnin, Khimiya v interesakh ustoychivogo razvitiya, No. 8: 61 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Немошкаленко, В. Н. Антонов, В. Т. Алешин, Электронная структура металлов их сплавов и интерметаллических соединений (Киев: Наук. думка: 1979), с. 3.",
+				"tr":  "V. V. Nemoshkalenko, V. N. Antonov, V. T. Aleshin, Elektronnaya struktura metallov ikh splavov i intermetallicheskikh soedineniy (Kiev: Nauk. dumka: 1979), p. 3."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Бугаев, Н. К. Лашук, В. А. Татаренко, В. Г. Ткаченко, В. И. Трефилов, Металлофизика, 8, № 5: 33 (1986).",
+				"tr":  "V. N. Bugaev, N. K. Lashuk, V. A. Tatarenko, V. G. Tkachenko, V. I. Trefilov, Metallofizika, 8, No. 5: 33 (1986)."
+			},
+			{
+				"doi": "10.1007/BF00591481",
+				"or":  "B. Noble, S. J. Harris, and K. Dinsdale, J. Mater. Sci., 17: 461 (1982).",
+				"tr":  "B. Noble, S. J. Harris, and K. Dinsdale, J. Mater. Sci., 17: 461 (1982)."
+			},
+			{
+				"doi": "10.1016/S0360-3199(96)00051-1",
+				"or":  "V. G. Tkachenko, I. N. Maksimchuk, V. V. Friezel et al., Int. J. Hydrogen Energy, 21: 1091 (1996).",
+				"tr":  "V. G. Tkachenko, I. N. Maksimchuk, V. V. Friezel et al., Int. J. Hydrogen Energy, 21: 1091 (1996)."
+			},
+			{
+				"doi": "10.1016/S0360-3199(96)00079-1",
+				"or":  "V. G. Tkachenko, I. N. Maksimchuk, L. I. Kolesnic et al., Int. J. Hydrogen Energy, 21, No. 11/12: 1105 (1996).",
+				"tr":  "V. G. Tkachenko, I. N. Maksimchuk, L. I. Kolesnic et al., Int. J. Hydrogen Energy, 21, No. 11/12: 1105 (1996)."
+			},
+			{
+				"doi": "10.1016/S0360-3199(98)00059-7",
+				"or":  "V. M. Bugaev, V. A. Tatarenko, V. G. Tkachenko, and I. N. Maksimchuk, Int. J. Hydrogen Energy, 24: 135 (1999).",
+				"tr":  "V. M. Bugaev, V. A. Tatarenko, V. G. Tkachenko, and I. N. Maksimchuk, Int. J. Hydrogen Energy, 24: 135 (1999)."
+			},
+			{
+				"doi": "10.1016/0040-6090(92)90797-F",
+				"or":  "J. C. Bruyere et al., Thin Solid Films, 221, No. 1–2: 65 (1992).",
+				"tr":  "J. C. Bruyere et al., Thin Solid Films, 221, No. 1–2: 65 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Tkachenko, I. I. Shuljak, A. M. Strutinsky et al., Int. J. Hydrogen Energy (2002) (in press).",
+				"tr":  "V. G. Tkachenko, I. I. Shuljak, A. M. Strutinsky et al., Int. J. Hydrogen Energy (2002) (in press)."
+			},
+			{
+				"doi": "10.1016/0925-8388(93)90628-Z",
+				"or":  "R. Nesper and G. J. Miller, J. Alloys and Compounds, 197: 109 (1993).",
+				"tr":  "R. Nesper and G. J. Miller, J. Alloys and Compounds, 197: 109 (1993)."
+			},
+			{
+				"doi": "10.1016/0921-5093(91)90027-K",
+				"or":  "P. Hausler et al., Mater. Sci. and Eng., A133: 115 (1991).",
+				"tr":  "P. Hausler et al., Mater. Sci. and Eng., A133: 115 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Лашкарев, Магнитная восприимчивость твердых тел, не обладающих магнитным порядком (Препринт ИПМ НАНУ 97-7, Киев) (1997).",
+				"tr":  "G. V. Lashkarev, Magnitnaya vospriimchivost' tverdykh tel, ne obladayushchikh magnitnym poryadkom (Preprint IPM NANU 97-7, Kiev) (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. М. Лифшиц, Н. Г. Кокина, Н. М. Политова, Радиотехника и электроника, 5, № 8: 1267 (1960).",
+				"tr":  "T. M. Lifshits, N. G. Kokina, N. M. Politova, Radiotekhnika i elektronika, 5, No. 8: 1267 (1960)."
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Tkachenko, I. N. Maksimchuk, and V. V. Shklover, Physical Principles for Creation of High Current Pulsed Photoemitters with Laser Excitation on the Base of Binary Metallic Alloys (Preprint 94-10, Kiev) (1994).",
+				"tr":  "V. G. Tkachenko, I. N. Maksimchuk, and V. V. Shklover, Physical Principles for Creation of High Current Pulsed Photoemitters with Laser Excitation on the Base of Binary Metallic Alloys (Preprint 94-10, Kiev) (1994)."
+			}
+		]
+	}
+}

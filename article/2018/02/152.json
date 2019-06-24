@@ -1,0 +1,236 @@
+{
+	"_id":    "UFM.19.02.152",
+	"year":   2018,
+	"volume": 19,
+	"issue":  2,
+	"pages":  [152,167],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["02.05.2018", "15.06.2018"],
+	"PACS":   "05.65.+b, 61.50.Lt, 61.72.Bb, 61.72.jd, 61.72.Qq, 61.80.Az, 61.82.Rx, 64.60.an, 82.40.Ck",
+	"title":   {
+		"ua": "Модулювання розподілу взаємодійних вакансій у пружньо анізотропних ОЦК-кристалах після опромінення",
+		"en": "Post-Irradiation Modulation of Distribution of Interacting Vacancies in the Elastically Anisotropic B.C.C. Crystals",
+		"ru": "Модулирование распределения взаимодействующих вакансий в упруго анизотропных ОЦК-кристаллах после облучения"
+	},
+	"abstract": {
+		"ua": "Розглянуто спинодальний механізм можливого формування надґратниці нанопор в об’ємно-центрованому кубічному (ОЦК) кристалі після опромінення. Проаналізовано критерій формування модульованої структури із взаємодійних вакансій у пружньо анізотропних ОЦК-кристалах. Оцінено залежність періоду модульованої структури розчину вакансій в ОЦК-Mo та ОЦК-Fe від температури. Як показано, у випадку позитивного фактора анізотропії пружности ($\\xi > 0$ для Мо, Nb, W) модульовані структури можуть бути сформовані в напрямку [111], а у випадку неґативного фактора анізотропії пружности ($\\xi < 0$ для ОЦК-Fe) модульовані структури можуть бути сформовані в напрямку [100]. Період модульованої структури в просторовому розподілі вакансій, утвореної через спинодальний механізм (у закритій системі вакансій), зростає з температурою і визначається ентропійним чинником, «(електро)хемічною» взаємодією вакансій і пружніми властивостями ОЦК-кристалу.",
+		"en": "Spinodal mechanism of formation of a modulated structure in a spatial distribution of vacancies within the body-centred cubic (b.c.c.) crystal after irradiation is considered. The criterion of modulated-structure formation for the closed interacting-vacancies subsystem within the elastically anisotropic b.c.c. crystal is estimated. As shown, in case of positive factor of elastic anisotropy ($\\xi > 0$ as for Mo, Nb, W crystals), the modulated structures can be formed along the [111] direction, and in case of negative factor of elastic anisotropy ($\\xi < 0$ as for Fe crystal), the modulated structure can be formed along the [100] direction. Dependence of the modulated-structure period of b.c.c.-Mo (Fe)–vacancies’ solution on temperature is plotted. Period of a modulated structure in a spatial distribution of vacancies, which is formed by means of the spinodal mechanism, increases with temperature and is determined by the entropy factor, ‘(electro)chemical’ interaction of vacancies, and elastic properties of b.c.c. crystal.",
+		"ru": "Рассмотрен спинодальний механизм возможного формирования сверхрешётки нанопор в объёмно-центрированном кубическом (ОЦК) кристалле после облучения. Проанализирован критерий формирования модулированной структуры из взаимодействующих вакансий в упруго анизотропных ОЦК-кристаллах. Оценена зависимость периода модулированной структуры раствора вакансий в ОЦК-Mo и ОЦК-Fe от температуры. Как показано, в случае положительного фактора упругой анизотропии ($\\xi > 0$ для Мо, Nb, W) модулированные структуры могут быть сформированы в направлении [111], а в случае отрицательного фактора упругой анизотропии ($\\xi < 0$ для ОЦК-Fe) модулированные структуры могут быть сформированы в направлении [100]. Период модулированной структуры в пространственном распределении вакансий, образованной посредством спинодального механизма (в закрытой системе вакансий), растёт с температурой и определяется энтропийным фактором, «(электро)химическим» взаимодействием вакансий и упругими свойствами ОЦК-кристалла."
+	},
+	"keywords": {
+		"ua": "вакансії, «деформаційна» взаємодія, «(електро)хемічна» взаємодія, спинодальний розпад, модульована структура",
+		"en": "vacancies, ‘strain-induced’ interaction, ‘(electro)chemical’ interaction, spinodal decomposition, modulated structure",
+		"ru": "вакансии, «деформационное» взаимодействие, «(электро)химическое» взаимодействие, спинодальный распад, модулированная структура"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. В. Олійник", "en": "O. V. Oliinyk", "ru": "Е. В. Олейник"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. А. Татаренко", "en": "V. A. Tatarenko", "ru": "В. А. Татаренко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 39,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "A. Seeger, Vacancies and Interstitials in Metals (Amsterdam: North-Holland: 1970).",
+				"tr":  "A. Seeger, Vacancies and Interstitials in Metals (Amsterdam: North-Holland: 1970)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.68.812",
+				"or":  "E. Vives, Kinetics of a Vacancy-Driven Order–Disorder Transition in Two-Dimensional Binary Alloy, Phys. Rev. Lett., 68: 812 (1992).",
+				"tr":  "E. Vives, Kinetics of a Vacancy-Driven Order–Disorder Transition in Two-Dimensional Binary Alloy, Phys. Rev. Lett., 68: 812 (1992)."
+			},
+			{
+				"doi": "10.1002/pssa.2210430113",
+				"or":  "R. de Ridder, G. van Tendeloo, and S. Amelinckx, The Ordering of Vacancies in Ni(1−x)Al Study of the Transition State by Electron Diffractions, phys. status solidi (a), 43: 133 (1977).",
+				"tr":  "R. de Ridder, G. van Tendeloo, and S. Amelinckx, The Ordering of Vacancies in Ni(1−x)Al Study of the Transition State by Electron Diffractions, phys. status solidi (a), 43: 133 (1977)."
+			},
+			{
+				"doi": "10.1080/01418619308213992",
+				"or":  "P.W.M. Jacobs and E. Kotomin, Defect Energies for Pure Corundum and for Corundum Doped with Transition Metals Ions, Philos. Mag. A, 68: 695 (1993).",
+				"tr":  "P.W.M. Jacobs and E. Kotomin, Defect Energies for Pure Corundum and for Corundum Doped with Transition Metals Ions, Philos. Mag. A, 68: 695 (1993)."
+			},
+			{
+				"doi": "10.1038/229403a0",
+				"or":  "J.H. Evans, Observations of Regular Void Array in High Purity Molybdenum Irradiated with 2 MeV Nitrogen Ions, Nature, 229: 403 (1971).",
+				"tr":  "J.H. Evans, Observations of Regular Void Array in High Purity Molybdenum Irradiated with 2 MeV Nitrogen Ions, Nature, 229: 403 (1971)."
+			},
+			{
+				"doi": "10.1023/A:1015062218246",
+				"or":  "N.M. Ghoniem, D. Walgraef, and S.J. Zinkle, Theory and Experiment of Nanostructure Self-Organization in Irradiated Materials, Comput.-Aided Mol. Des., No. 8: 1 (2002).",
+				"tr":  "N.M. Ghoniem, D. Walgraef, and S.J. Zinkle, Theory and Experiment of Nanostructure Self-Organization in Irradiated Materials, Comput.-Aided Mol. Des., No. 8: 1 (2002)."
+			},
+			{
+				"doi": "10.1063/1.1661050",
+				"or":  "V.K. Sikka and J. Moteff, Superlattice of Voids in Neutron-Irradiated Tungsten, J. Appl. Phys., 43: 4942 (1972).",
+				"tr":  "V.K. Sikka and J. Moteff, Superlattice of Voids in Neutron-Irradiated Tungsten, J. Appl. Phys., 43: 4942 (1972)."
+			},
+			{
+				"doi": "10.1016/0022-3115(77)90168-4",
+				"or":  "F.W. Wiffen, The Microstructure and Swelling of Neutron Irradiated Tantalum, J. Nucl. Mater., 67: 119 (1977).",
+				"tr":  "F.W. Wiffen, The Microstructure and Swelling of Neutron Irradiated Tantalum, J. Nucl. Mater., 67: 119 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "F.W. Wiffen, The Effect of Alloying and Purity on the Formation and Ordering of Voids in B.C.C. Metals, Proc. Int. Conf. Radiation Induced Voids in Metals (June 9–11, 1971, Albany, Oak Ridge) (Oak Ridge, TN, United States: Oak Ridge National Lab.: 1972), p. 386.",
+				"tr":  "F.W. Wiffen, The Effect of Alloying and Purity on the Formation and Ordering of Voids in B.C.C. Metals, Proc. Int. Conf. Radiation Induced Voids in Metals (June 9–11, 1971, Albany, Oak Ridge) (Oak Ridge, TN, United States: Oak Ridge National Lab.: 1972), p. 386."
+			},
+			{
+				"doi": "10.1080/00337577308232262",
+				"or":  "J.L. Brimhall and G.I. Kulcinski, Void Formation in Ion Bombarded Niobium, Radiat. Eff., 20: 25 (1973).",
+				"tr":  "J.L. Brimhall and G.I. Kulcinski, Void Formation in Ion Bombarded Niobium, Radiat. Eff., 20: 25 (1973)."
+			},
+			{
+				"doi": "10.1016/0022-3115(77)90212-4",
+				"or":  "B.A. Loomis, S.B. Gerber, and A. Taylor, Voids Ordering in Ion-Irradiated Nb and Nb–1% Zr, J. Nucl. Mater., 68: 19 (1977).",
+				"tr":  "B.A. Loomis, S.B. Gerber, and A. Taylor, Voids Ordering in Ion-Irradiated Nb and Nb–1% Zr, J. Nucl. Mater., 68: 19 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "V.V. Bryk, V.N. Voevodin, V.F. Zelenskiy, B.V. Matvienko, I.M. Neklyudov, V.K. Khorenko, T.P. Chernyaeva, A.N. Rakitskiy, and V.I. Trefilov, Issledovanie Radiatsionnogo Raspukhaniya Malolegirovannogo Splava Khroma pri Obluchenii na Uskoritele, Voprosy Atomnoi Nauki i Tekhniki. Ser. Fizika Radiats. Povrezhd. i Radiats. Mater., 15: 33 (1981) (in Russian).",
+				"tr":  "V.V. Bryk, V.N. Voevodin, V.F. Zelenskiy, B.V. Matvienko, I.M. Neklyudov, V.K. Khorenko, T.P. Chernyaeva, A.N. Rakitskiy, and V.I. Trefilov, Issledovanie Radiatsionnogo Raspukhaniya Malolegirovannogo Splava Khroma pri Obluchenii na Uskoritele, Voprosy Atomnoi Nauki i Tekhniki. Ser. Fizika Radiats. Povrezhd. i Radiats. Mater., 15: 33 (1981) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0022-3115(71)90130-9",
+				"or":  "G.L. Kulcinski, J.L. Brimhall, and H.E. Kissinger, Production of Voids in Nickel with High Energy Selenium Ions, J. Nucl. Mater., 40: 166 (1971).",
+				"tr":  "G.L. Kulcinski, J.L. Brimhall, and H.E. Kissinger, Production of Voids in Nickel with High Energy Selenium Ions, J. Nucl. Mater., 40: 166 (1971)."
+			},
+			{
+				"doi": "10.1016/0022-3115(73)90095-0",
+				"or":  "D.J. Mazey, S. Francis, and J.A. Hudson, Observation of a Partially-Ordered Void Lattice in Aluminium Irradiated with 400 keV Al+ Ions, J. Nucl. Mater., 47: 137 (1973).",
+				"tr":  "D.J. Mazey, S. Francis, and J.A. Hudson, Observation of a Partially-Ordered Void Lattice in Aluminium Irradiated with 400 keV Al+ Ions, J. Nucl. Mater., 47: 137 (1973)."
+			},
+			{
+				"doi": "10.1209/0295-5075/11/6/011",
+				"or":  "P. Fratzl, S. Klaumunzer, M. Rammensee, and G. Vogl, Formation of a Modulated Void Structure in Heavy-Ion-Irradiated Amorphous Silicon, Europhys. Lett., 11: 547 (1990).",
+				"tr":  "P. Fratzl, S. Klaumunzer, M. Rammensee, and G. Vogl, Formation of a Modulated Void Structure in Heavy-Ion-Irradiated Amorphous Silicon, Europhys. Lett., 11: 547 (1990)."
+			},
+			{
+				"doi": "10.1080/00337577708237467",
+				"or":  "S.B. Fisher and K.R. Williams, Void Spatial Regularity in an Electron-Irradiated Stainless Steel, Radiat. Eff., 32: 123 (1977).",
+				"tr":  "S.B. Fisher and K.R. Williams, Void Spatial Regularity in an Electron-Irradiated Stainless Steel, Radiat. Eff., 32: 123 (1977)."
+			},
+			{
+				"doi": "10.1016/0022-3115(78)90042-9",
+				"or":  "L.J. Chen and A.J. Ardell, Ordering in Nitrogen-Ion Irradiated Nickel–Aluminium Solid Solution, J. Nucl. Mater., 75: 177 (1978).",
+				"tr":  "L.J. Chen and A.J. Ardell, Ordering in Nitrogen-Ion Irradiated Nickel–Aluminium Solid Solution, J. Nucl. Mater., 75: 177 (1978)."
+			},
+			{
+				"doi": "10.15407/ufm.13.04.417",
+				"or":  "O.V. Oliinyk and V.A. Tatarenko, Physical Kinetics of Redistribution of Point Defects in Irradiated Crystals, Usp. Fiz. Met., 13: 417 (2012) (in Ukrainian).",
+				"tr":  "O.V. Oliinyk and V.A. Tatarenko, Physical Kinetics of Redistribution of Point Defects in Irradiated Crystals, Usp. Fiz. Met., 13: 417 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/0036-9748(76)90312-4",
+				"or":  "R. Chang, A Vacancy Superlattice in Metals?, Scr. Metall., 10: 861 (1976).",
+				"tr":  "R. Chang, A Vacancy Superlattice in Metals?, Scr. Metall., 10: 861 (1976)."
+			},
+			{
+				"doi": "10.1016/0036-9748(76)90189-7",
+				"or":  "R. Chang, A Vacancy Superlattice in Metals?, Scr. Metall., 10: 611 (1976).",
+				"tr":  "R. Chang, A Vacancy Superlattice in Metals?, Scr. Metall., 10: 611 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "W.A. Harrison, Pseudopotentials in the Theory of Metals (New York: W.A. Benjamin: 1966).",
+				"tr":  "W.A. Harrison, Pseudopotentials in the Theory of Metals (New York: W.A. Benjamin: 1966)."
+			},
+			{
+				"doi": "",
+				"or":  "A.G. Khachaturyan, Theory of Structural Transformations in Solids (Mineola, N.Y.: Dover: 2008).",
+				"tr":  "A.G. Khachaturyan, Theory of Structural Transformations in Solids (Mineola, N.Y.: Dover: 2008)."
+			},
+			{
+				"doi": "",
+				"or":  "O.V. Oliinyk and V.A. Tatarenko, Temperature Dependence of the Modulated Structure in Atom-Vacancy Solid Solution Based on F.C.C. Nickel, Journal of Nano- and Electronic Physics, 4: 01023 (4pp) (2012).",
+				"tr":  "O.V. Oliinyk and V.A. Tatarenko, Temperature Dependence of the Modulated Structure in Atom-Vacancy Solid Solution Based on F.C.C. Nickel, Journal of Nano- and Electronic Physics, 4: 01023 (4pp) (2012)."
+			},
+			{
+				"doi": "10.15407/mfint.37.09.1147",
+				"or":  "O.V. Oliinyk and V.A. Tatarenko, Features of Energy Parameters of ‘Strain-Induced’ and ‘Electrochemical’ Interactions of Vacancies in B.C.C. Metals, Metallofiz. Noveishie Tekhnol., 37: 1147 (2015) (in Ukrainian).",
+				"tr":  "O.V. Oliinyk and V.A. Tatarenko, Features of Energy Parameters of ‘Strain-Induced’ and ‘Electrochemical’ Interactions of Vacancies in B.C.C. Metals, Metallofiz. Noveishie Tekhnol., 37: 1147 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "I.N. Frantsevich, F.F. Voronov, and S.A. Bakuta, Elastic Constants and Elasticity Moduli of Metals and Nonmetals: Handbook (Kiev: Naukova Dumka Publ.: 1982) (in Russian).",
+				"tr":  "I.N. Frantsevich, F.F. Voronov, and S.A. Bakuta, Elastic Constants and Elasticity Moduli of Metals and Nonmetals: Handbook (Kiev: Naukova Dumka Publ.: 1982) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.1699977",
+				"or":  "J.W. Edwards, R. Speiser, and H. Johnson, High Temperature Structure and Thermal Expansion of Some Metals as Determined by X-Ray Diffraction Data in Platinum, Tantalum, Niobium, and Molybdenum, J. Appl. Phys., 22: 424 (1951).",
+				"tr":  "J.W. Edwards, R. Speiser, and H. Johnson, High Temperature Structure and Thermal Expansion of Some Metals as Determined by X-Ray Diffraction Data in Platinum, Tantalum, Niobium, and Molybdenum, J. Appl. Phys., 22: 424 (1951)."
+			},
+			{
+				"doi": "10.1016/B978-0-08-056033-5.00001-X",
+				"or":  "W.G. Wolfer, Fundamental Properties of Defects in Metals, In: Comprehensive Nuclear Materials (Eds. R.J.M. Konings, T.R. Allen, R.E. Stoller, Sh. Yamanaka) (Amsterdam–Kidlington–Oxford–Waltham: Elsevier Science: 2012), pp. 1–45.",
+				"tr":  "W.G. Wolfer, Fundamental Properties of Defects in Metals, In: Comprehensive Nuclear Materials (Eds. R.J.M. Konings, T.R. Allen, R.E. Stoller, Sh. Yamanaka) (Amsterdam–Kidlington–Oxford–Waltham: Elsevier Science: 2012), pp. 1–45."
+			},
+			{
+				"doi": "10.1038/ncomms6178",
+				"or":  "G.M. Stoica, A.D. Stoica, M.K. Miller, and D. Ma, Temperature-Dependent Elastic Anisotropy and Mesoscale Deformation in a Nanostructured Ferritic Alloy, Nature Communications, 5: 1 (2014).",
+				"tr":  "G.M. Stoica, A.D. Stoica, M.K. Miller, and D. Ma, Temperature-Dependent Elastic Anisotropy and Mesoscale Deformation in a Nanostructured Ferritic Alloy, Nature Communications, 5: 1 (2014)."
+			},
+			{
+				"doi": "10.1098/rspa.1955.0102",
+				"or":  "Z.S. Basinski, W. Hume-Rothery, and A.L. Sutton, The Lattice Expansion of Iron, Proc. R. Soc. Lond. A, 229: 459 (1955).",
+				"tr":  "Z.S. Basinski, W. Hume-Rothery, and A.L. Sutton, The Lattice Expansion of Iron, Proc. R. Soc. Lond. A, 229: 459 (1955)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.28.697",
+				"or":  "J. Zarestky, C. Stassis, B.N. Harmon, K.M. Ho, and C.L. Fu, Temperature Dependence of the Vibrational Modes of Molybdenum, Phys. Rev. B, 28: 697 (1983).",
+				"tr":  "J. Zarestky, C. Stassis, B.N. Harmon, K.M. Ho, and C.L. Fu, Temperature Dependence of the Vibrational Modes of Molybdenum, Phys. Rev. B, 28: 697 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "Electronic Properties Metals: Phonon States. Electron States and Fermi Surfaces Phonon State of Elements, Electron States and Fermi Surfaces of Alloys (Eds. H.R. Schober and P.H. Dederichs) (Berlin: Springer-Verlag: 1981).",
+				"tr":  "Electronic Properties Metals: Phonon States. Electron States and Fermi Surfaces Phonon State of Elements, Electron States and Fermi Surfaces of Alloys (Eds. H.R. Schober and P.H. Dederichs) (Berlin: Springer-Verlag: 1981)."
+			},
+			{
+				"doi": "10.1016/S0921-4526(96)01185-4",
+				"or":  "J. Neuhaus, W. Petry, and A. Krimmel, Phonon Softening and Martensitic Transformation in α-Fe, Physica B, 234–236: 897 (1997).",
+				"tr":  "J. Neuhaus, W. Petry, and A. Krimmel, Phonon Softening and Martensitic Transformation in alpha-Fe, Physica B, 234–236: 897 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "E.S. Machlin, Pair Potential Model of Intermetallic Phases—I, Acta Metall., 22: 95 (1974).",
+				"tr":  "E.S. Machlin, Pair Potential Model of Intermetallic Phases—I, Acta Metall., 22: 95 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Brewer, Prediction of High Temperature Metallic Phase Diagrams. In: High-Strength Materials (Ed. V.F. Zackay) (New York: John Wiley and Sons: 1965), Ch. 2, pp. 12–103.",
+				"tr":  "L. Brewer, Prediction of High Temperature Metallic Phase Diagrams. In: High-Strength Materials (Ed. V.F. Zackay) (New York: John Wiley and Sons: 1965), Ch. 2, pp. 12–103."
+			},
+			{
+				"doi": "",
+				"or":  "L. Brewer, The Cohesive Energies of the Elements (Rep. LBL-3720, Revised May 4, 1977) (Berkeley, CA, USA: Lawrence Berkeley Laboratory: 1977).",
+				"tr":  "L. Brewer, The Cohesive Energies of the Elements (Rep. LBL-3720, Revised May 4, 1977) (Berkeley, CA, USA: Lawrence Berkeley Laboratory: 1977)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.50.16340",
+				"or":  "D. Fuks and S. Dorfman, Thermodynamics of Atom–Vacancy Solid Solution from a Self-Diffusion Arrhenius Plot, Phys. Rev. B., 50: 16340 (1994).",
+				"tr":  "D. Fuks and S. Dorfman, Thermodynamics of Atom–Vacancy Solid Solution from a Self-Diffusion Arrhenius Plot, Phys. Rev. B., 50: 16340 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "A.A. Katsnelson and A.I. Olemskoi, Microscopic Theory of Nonhomogeneous Structures (New York: Amer. Inst. of Physics Publ.: 1991).",
+				"tr":  "A.A. Katsnelson and A.I. Olemskoi, Microscopic Theory of Nonhomogeneous Structures (New York: Amer. Inst. of Physics Publ.: 1991)."
+			},
+			{
+				"doi": "",
+				"or":  "V.I. Sugakov, Lectures in Synergetics (Singapore: World Scientific: 1998).",
+				"tr":  "V.I. Sugakov, Lectures in Synergetics (Singapore: World Scientific: 1998)."
+			},
+			{
+				"doi": "10.15407/ufm.18.04.295",
+				"or":  "V. O. Kharchenko, I. O. Lysenko, O. M. Shchokotova, A. I. Bashtova, D. O. Kharchenko, Yu. M. Ovcharenko, S. V. Kokhan, X. Wu, B. Wen, L. Wu, and W. Zhang, Usp. Fiz. Met., 18, No. 4: 295 (2017) (in Ukrainian)",
+				"tr":  "V. O. Kharchenko, I. O. Lysenko, O. M. Shchokotova, A. I. Bashtova, D. O. Kharchenko, Yu. M. Ovcharenko, S. V. Kokhan, X. Wu, B. Wen, L. Wu, and W. Zhang, Usp. Fiz. Met., 18, No. 4: 295 (2017) (in Ukrainian)."
+			}
+		]
+	}
+}

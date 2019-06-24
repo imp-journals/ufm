@@ -1,0 +1,371 @@
+{
+	"_id":    "UFM.08.04.247",
+	"year":   2007,
+	"volume": 8,
+	"issue":  4,
+	"pages":  [247,278],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["13.09.2007"],
+	"PACS":   "68.35.Ct, 68.55.Jk, 68.55.Nq, 68.60.Dv, 73.40.Jn, 73.61.At, 73.63.Bd",
+	"title":   {
+		"ua": "Структурно-фазовий стан, стабільність інтерфейсів і електрофізичні властивості двошарових плівкових систем",
+		"en": "Structural-Phase State, Stability of Interfaces and Electrophysical Properties of Two-Layer Film Systems",
+		"ru": "Структурно-фазовое состояние, стабильность интерфейсов и электрофизические свойства двухслойных пленочных систем"
+	},
+	"abstract": {
+		"ua": "Представлено узагальнені літературні дані та результати власних експериментальних досліджень структурно-фазового стану, стабільности інтерфейсів та електрофізичних властивостей (термічний коефіцієнт опору (ТКО) і коефіцієнт поздовжньої тензочутливости (КТ)) двошарових плівкових систем Cu/(Co, Ag або Au), Cu/(Cr або Fe) та Fe/Cr. Вибір вказаних систем пов’язаний із стабілізацією в них різних структурно-фазових станів: ґранульованих твердих розчинів (систем на основі Cu і Co, Ag або Au), твердого розчину (Fe/Cr), двошарових систем із збереженням індивідуальности окремих шарів (біпластин) (систем Cu/Cr i Cu/Fe (до 700 К)). Експериментальні результати з ТКО і КТ задовільно або добре узгоджуються зі співвідношеннями для ТКО і КТ біпластини, плівкового стопу або двошарової системи із проміжним шаром твердого розчину біля інтерфейсу. Це служить додатковим арґументом на користь висновків про структурно-фазовий стан двошарової системи.",
+		"en": "The generalized literary data and results of own experimental investigations of structural and phase state, stability of interfaces and electrophysical properties (thermal coefficient of resistance (TCR) and strain-gauge factor (SGF)) for two-layer film systems, Cu/(Co, Ag or Au), Cu/(Cr or Fe) and Fe/Cr, are presented. The choice of these systems is caused by stabilization of various structural and phase states in them such as granular solid solutions (systems based on Cu and Co, Ag or Au), solid solutions (Fe/Cr), two-layer systems with conservation of individuality of separate layers (biplate) (Cu/Cr and Cu/Fe systems (below 700 K)). Experimental results for TCR and SGF agree well or satisfactory with relationships for TCR and SGF of the biplate, film alloy or two-layer system with an intermediate layer of solid solution near the interface. It can serve as an additional argument in favour of conclusions concerning structural and phase state of two-layer system.",
+		"ru": "Представлены обобщенные литературные данные и результаты собственных экспериментальных исследований структурно-фазового состояния, стабильности интерфейсов и электрофизических свойств (термический коэффициент сопротивления (ТКС) и коэффициент продольной тензочувствительности (КТ)) двухслойных пленочных систем Cu/(Co, Ag или Au), Cu/(Cr или Fe) и Fe/Cr. Выбор указанных систем связан со стабилизацией в них различных структурно-фазовых состояний: гранулированных твердых растворов (систем на основе Cu и Co, Ag или Au), твердого раствора (Fe/Cr), двухслойных систем с сохранением индивидуальности отдельных слоев (бипластин) (систем Cu/Cr и Cu/Fe (до 700 К)). Экспериментальные результаты для ТКС и КТ удовлетворительно или хорошо согласовываются с соотношениями для ТКС и КТ бипластины, пленочного сплава или двухслойной системы с промежуточным слоем твердого раствора вблизи интерфейса. Это служит дополнительным аргументом в пользу выводов о структурно-фазовом состоянии двухслойной системы."
+	},
+	"keywords": {
+		"ua": "інтерфейс, структурно-фазовий стан, твердий розчин, ґранульований стоп, ТКО, коефіцієнт тензочутливости",
+		"en": "interface, structural-phase state, solid solution, granular alloy, TCR, tensosensitivity coefficient",
+		"ru": "интерфейс, структурно-фазовое состояние, твёрдый раствор, гранулированный сплав, ТКС, коэффициент тензочувствительности"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. І. Проценко", "en": "S. I. Protsenko", "ru": "С. И. Проценко"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "І. В. Чешко", "en": "I. V. Cheshko", "ru": "И. В. Чешко"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "Д. В. Великодний", "en": "D. V. Velykodnyj", "ru": "Д. В. Великодный"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "І. В. Пазуха", "en": "I. V. Pazukha", "ru": "И. В. Пазуха"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "Л. В. Однодворець", "en": "L. V. Odnodvorets’", "ru": "Л. В. Однодворец"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "І. Ю. Проценко", "en": "I. Yu. Protsenko", "ru": "И. Ю. Проценко"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "О. В. Синашенко", "en": "O. V. Synashenko", "ru": "О. В. Синашенко"},
+			"OID": [208]
+		}
+	],
+	"references": {
+		"count": 62,
+				"list":  [
+			{
+				"doi": "",
+				"or":  "Ш. Ковач, Б. Дани, С. Р. Тейгзейра и др., ФММ, 79, №1: 98 (1995).",
+				"tr":  "Sh. Kovach, B. Dani, S. R. Teygzeyra et al., FMM, 79, No. 1: 98 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "І. Ю. Проценко, І. В. Чешко, Я. Яворський, Вісник СумДУ, №10 (69): 65 (2004).",
+				"tr":  "І. Yu. Protsenko, І. V. Cheshko, Ya. Yavors'kiy, Vіsnik SumDU, No. 10 (69): 65 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В.Скороход, І. В. Уварова, А. В. Рагуля, Фізико-хімічна кінетика в наноструктурних системах (Київ: Академперіодика: 2001).",
+				"tr":  "V. V.Skorokhod, І. V. Uvarova, A. V. Ragulya, Fіziko-khіmіchna kіnetika v nanostrukturnikh sistemakh (Kyiv: Akademperіodika: 2001)."
+			},
+			{
+				"doi": "",
+				"or":  "В. І. Дибков, Твердофазна хімічна кінетика і реакційна дифузія (Київ: ІПМ: 2002).",
+				"tr":  "V. І. Dybkov, Tverdofazna khіmіchna kіnetika і reaktsіyna difuzіya (Kyiv: ІPM: 2002)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Чижик, Н. Т. Гладких, Л. К. Григорьева и др., Металлы, №2: 175 (1985).",
+				"tr":  "S. P. Chizhik, N. T. Gladkikh, L. K. Grigor'eva et al., Metally, No. 2: 175 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Ампилогов, Рост и структура наноразмерных ориентированных гетероструктур с органической взаимной растворимостью компонентов (Дис. … канд. физ.-мат. наук) (Воронеж: ВГТУ: 2007).",
+				"tr":  "V. P. Ampilogov, Rost i struktura nanorazmernykh orientirovannykh geterostruktur s organicheskoy vzaimnoy rastvorimost'yu komponentov (Dis. … kand. fiz.-mat. nauk) (Voronezh: VGTU: 2007)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Kitada, J. Magnet. Magn. Mat., 208: 244 (2000).",
+				"tr":  "M. Kitada, J. Magnet. Magn. Mat., 208: 244 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Aziz, S. M. Thompson, K. Ounadjela et al., J. Magnet. Magn. Mat., 148: 313 (1995).",
+				"tr":  "A. Aziz, S. M. Thompson, K. Ounadjela et al., J. Magnet. Magn. Mat., 148: 313 (1995)."
+			},
+			{
+				"doi": "10.1016/0040-6090(95)06547-4",
+				"or":  "K. Yamamoto and M. Kitada, Thin Solid Films, 263: III (1995).",
+				"tr":  "K. Yamamoto and M. Kitada, Thin Solid Films, 263: III (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "I. Protsenko, I. Cheshko, and Ja. Javorsky, Functional Materials, 13, No. 2: 219 (2006).",
+				"tr":  "I. Protsenko, I. Cheshko, and Ja. Javorsky, Functional Materials, 13, No. 2: 219 (2006)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2005.02.004",
+				"or":  "G. H. Yang, K. W. Geng, F. Zeng et al., Thin Solid Films, 484: 283 (2005).",
+				"tr":  "G. H. Yang, K. W. Geng, F. Zeng et al., Thin Solid Films, 484: 283 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Marszalek, I. Cheshko, O. Synashenko, and I. Protsenko, Book of Abstracts Workshop on Smoothing and Characterization of Magnetic Films for Advanced Devices (Krakow: AGH UST: 2007).",
+				"tr":  "M. Marszalek, I. Cheshko, O. Synashenko, and I. Protsenko, Book of Abstracts Workshop on Smoothing and Characterization of Magnetic Films for Advanced Devices (Krakow: AGH UST: 2007)."
+			},
+			{
+				"doi": "",
+				"or":  "С. М. Волошко, С. И. Сидоренко, И. Н. Макеева, Металлофиз. новейшие технол., 16, №10: 61 (1994).",
+				"tr":  "S. M. Voloshko, S. I. Sidorenko, I. N. Makeeva, Metallofiz. Noveishie Tekhnol., 16, No. 10: 61 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "І. Ю. Проценко, А. М. Чорноус, І. О. Шпетний, Вісник Львівського національного університету. Серія фізична, №36: 116 (2003).",
+				"tr":  "І. Yu. Protsenko, A. M. Chornous, І. O. Shpetniy, Vіsnik L'vіvs'kogo natsіonal'nogo unіversitetu. Serіya fіzichna, No. 36: 116 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Гарифуллин, Н. Н. Гарифьянов, Р. И. Салихов, Изв. РАН. Сер. физич., 71, №2: 280 (2007).",
+				"tr":  "I. A. Garifullin, N. N. Garif'yanov, R. I. Salikhov, Izv. RAN. Ser. fizich., 71, No. 2: 280 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Бібік, Л. В.Однодворець, І. О. Шпетний, Вісник СумДУ, №9 (93): 91 (2006).",
+				"tr":  "V. V. Bіbіk, L. V.Odnodvorets', І. O. Shpetniy, Vіsnik SumDU, No. 9 (93): 91 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Бібік, Л. В. Однодворець, Н. І. Шумакова, С. І. Проценко, Вісник СумДУ, №6 (90): 47 (2006).",
+				"tr":  "V. V. Bіbіk, L. V. Odnodvorets', N. І. Shumakova, S. І. Protsenko, Vіsnik SumDU, No. 6 (90): 47 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Kundu, Nucl. Instr. and Meth. in Phys. Res. B, 242: 542 (2006).",
+				"tr":  "S. Kundu, Nucl. Instr. and Meth. in Phys. Res. B, 242: 542 (2006)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2004.08.031",
+				"or":  "Y. Chushkin, M. Jergel, S. Luby et al., Appl. Sur. Sci., 243: 62 (2005).",
+				"tr":  "Y. Chushkin, M. Jergel, S. Luby et al., Appl. Sur. Sci., 243: 62 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "N. R. Shamsutdinov, A. J. Bottger, and F. D. Tichelaar, Scripta Mat., 54: 1727 (2006).",
+				"tr":  "N. R. Shamsutdinov, A. J. Bottger, and F. D. Tichelaar, Scripta Mat., 54: 1727 (2006)."
+			},
+			{
+				"doi": "10.15407/ufm.08.01.021",
+				"or":  "Л. В. Дехтярук, І. Ю. Проценко, А. М. Чорноус, Успехи физ. мет., 8, №1: 21 (2007).",
+				"tr":  "L. V. Dekhtyaruk, І. Yu. Protsenko, A. M. Chornous, Usp. Fiz. Met., 8, No. 1: 21 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Дехтярук, І. М. Пазуха, І. Ю. Проценко, УФЖ, 51, №7: 729 (2006).",
+				"tr":  "L. V. Dekhtyaruk, І. M. Pazukha, І. Yu. Protsenko, UFZh, 51, No. 7: 729 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Є. О. Забіла, Л. В. Однодворець, С. І.Проценко та ін., Вісник СумДУ, №8 (54): 71 (2003).",
+				"tr":  "Ye. O. Zabіla, L. V. Odnodvorets', S. І.Protsenko et al., Vіsnik SumDU, No. 8 (54): 71 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "І. М. Пазуха, С. І. Проценко, І. Ю. Проценко та ін., Вісник СумДУ, №9 (93): 7 (2006).",
+				"tr":  "І. M. Pazukha, S. І. Protsenko, І. Yu. Protsenko et al., Vіsnik SumDU, No. 9 (93): 7 (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.57.5336",
+				"or":  "S. Zang and P. M. Levy, Phys. Rev. B, 57, No. 9: 5336 (1998).",
+				"tr":  "S. Zang and P. M. Levy, Phys. Rev. B, 57, No. 9: 5336 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Banerjee, R. Ahuja, S. Swaminathan et al., Thin Solid Films, 269: 29 (1995).",
+				"tr":  "R. Banerjee, R. Ahuja, S. Swaminathan et al., Thin Solid Films, 269: 29 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "P. F. Carsia and A. Suna, J. Appl. Phys., 54, No. 4: 2000 (1983).",
+				"tr":  "P. F. Carsia and A. Suna, J. Appl. Phys., 54, No. 4: 2000 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "J. W. C. de Vries, Solid State Com., 65, No. 3: 201 (1988).",
+				"tr":  "J. W. C. de Vries, Solid State Com., 65, No. 3: 201 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Синашенко, І. Проценко, Тези доповідей Міжнародної конференції ЕВРИКА-2007 (Львів: ЛНУ: 2007).",
+				"tr":  "O. Sinashenko, І. Protsenko, Tezi dopovіdey Mіzhnarodnoi konferentsії EVRIKA-2007 (L'vіv: LNU: 2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. М. Овчаренко, Н. М.Опанасюк, І. Ю. Проценко та ін., УФЖ, 42, №7: 826 (1997).",
+				"tr":  "Yu. M. Ovcharenko, N. M.Opanasyuk, І. Yu. Protsenko et al., UFZh, 42, No. 7: 826 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Lorenz, M. Moske, H. Geisler et al., Thin Solid Films, 275: 220 (1996).",
+				"tr":  "T. Lorenz, M. Moske, H. Geisler et al., Thin Solid Films, 275: 220 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Gester, K. Ounadjela, J. F. Gregg et al., J. Magnet. Magn. Mat., 165: 323 (1997).",
+				"tr":  "M. Gester, K. Ounadjela, J. F. Gregg et al., J. Magnet. Magn. Mat., 165: 323 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Agostinelli, D. Fiorari, S. Foglia et al., Mat. Sci. and Engineering, 19: 151 (2002).",
+				"tr":  "E. Agostinelli, D. Fiorari, S. Foglia et al., Mat. Sci. and Engineering, 19: 151 (2002)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.70.224412",
+				"or":  "J. A. De Toro, J. P. Anders, J. A. Gounzalez et al., Phys. Rev. B, 70: 224412-1 (2004).",
+				"tr":  "J. A. De Toro, J. P. Anders, J. A. Gounzalez et al., Phys. Rev. B, 70: 224412 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "F. Stobiecki, B. Szymanski, T. Lucinski et al., J. Magnet. Magn. Mat., 202: 276 (2002).",
+				"tr":  "F. Stobiecki, B. Szymanski, T. Lucinski et al., J. Magnet. Magn. Mat., 202: 276 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "F. Spizzo, E. Angeli, D. Bisero et al., J. Magnet. Magn. Mat., 242–245: 473 (2002).",
+				"tr":  "F. Spizzo, E. Angeli, D. Bisero et al., J. Magnet. Magn. Mat., 242–245: 473 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Л. Халяпин, Магнитные свойства и структура плёнок нанокристаллических сплавов Co–Cu, формируемых последовательным напылением компонентов. (Дис. … канд. физ.-мат. наук) (Красноярск: Ин-т физики СО РАН: 2005).",
+				"tr":  "D. L. Khalyapin, Magnitnye svoystva i struktura plenok nanokristallicheskikh splavov Co–Cu, formiruemykh posledovatel'nym napyleniem komponentov. (Dis. … kand. fiz.-mat. nauk) (Krasnoyarsk: In-t fiziki SO RAN: 2005)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Marszalek, M. Marszalek, S. Protsenko et al., Materialy Konferensyjna ‘COE 2006’ (Krakow–Zakopane: 2006).",
+				"tr":  "K. Marszalek, M. Marszalek, S. Protsenko et al., Materialy Konferensyjna 'COE 2006' (Krakow–Zakopane: 2006)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Бібік, Т. М. Гричановська, М. Маршалек та ін., Металлофиз. новейшие технол., 28, №6: 707 (2006).",
+				"tr":  "V. V. Bіbіk, T. M. Grichanovs'ka, M. Marshalek et al., Metallofiz. Noveishie Tekhnol., 28, No. 6: 707 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Marszalek, J. Jaworsi, M. Kas et al., Vacuum, 74: 287 (2004).",
+				"tr":  "M. Marszalek, J. Jaworsi, M. Kas et al., Vacuum, 74: 287 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "З. Зиман, А. Ф. Сіренко, Основи фізичного матеріалознавства (Харків: ХНУ ім. В. Н. Каразіна: 2005).",
+				"tr":  "Z. Ziman, A. F. Sіrenko, Osnovi fіzichnogo materіaloznavstva (Kharkіv: KhNU іm. V. N. Karazіna: 2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Однодворец, С. И. Проценко, А. И. Салтыкова, Металлофиз. новейшие технол., 21, №8: 71 (1999).",
+				"tr":  "L. V. Odnodvorets, S. I. Protsenko, A. I. Saltykova, Metallofiz. Noveishie Tekhnol., 21, No. 8: 71 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Kundu, Nucl. Instr. and Meth. in Phys. Res. B, 212: 489 (2003).",
+				"tr":  "S. Kundu, Nucl. Instr. and Meth. in Phys. Res. B, 212: 489 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Gonzales-Silveira, J. Rodriguez-Viejo, M. T. Clavaduera-Mora et al., Phys. Rev. B., 75: 075419-1 (2007).",
+				"tr":  "M. Gonzales-Silveira, J. Rodriguez-Viejo, M. T. Clavaduera-Mora et al., Phys. Rev. B., 75: 075419-1 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Федосюк, Д. И. Вильямс, Х. И. Блайт и др., Металлофиз. новейшие технол., 18, №11: 17 (1996).",
+				"tr":  "V. M. Fedosyuk, D. I. Vil'yams, Kh. I. Blayt et al., Metallofiz. Noveishie Tekhnol., 18, No. 11: 17 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Oprea, A. P. Kobzev, M. Codescu et al., ION 2006 (Kazimiers Dolny: 2006)",
+				"tr":  "C. Oprea, A. P. Kobzev, M. Codescu et al., ION 2006 (Kazimiers Dolny: 2006)"
+			},
+			{
+				"doi": "",
+				"or":  "C. Oprea, A. P. Kobzev, M. Codescu et al., Vacuum, 2007 (to be published).",
+				"tr":  "C. Oprea, A. P. Kobzev, M. Codescu et al., Vacuum, 2007 (to be published)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Чернышов, С. Д. Калошкин, В. Н.Сердюк и др., ФММ, 97, №4: 71 (2004).",
+				"tr":  "V. V. Chernyshov, S. D. Kaloshkin, V. N.Serdyuk et al., FMM, 97, No. 4: 71 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Gorria, D. Martinez-Blanco, J. A. Blanko et al., Physica B, 384: 336 (2006).",
+				"tr":  "P. Gorria, D. Martinez-Blanco, J. A. Blanko et al., Physica B, 384: 336 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "N. R. Shamsutrinov, A. J. Bottger, F. D. Tichelaar, Scripta Mater., 54: 1727 (2006).",
+				"tr":  "N. R. Shamsutrinov, A. J. Bottger, F. D. Tichelaar, Scripta Mater., 54: 1727 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Koziel, Z. Kedzierski, A. Zielinska-Lipiec et al., Scripta Mater., 54: 1990 (2006).",
+				"tr":  "T. Koziel, Z. Kedzierski, A. Zielinska-Lipiec et al., Scripta Mater., 54: 1990 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Y. Huang, J. Z. Jiang, H. Yasuda et al., Phys. Rev. B, 58, No. 18: 11817 (1998).",
+				"tr":  "J. Y. Huang, J. Z. Jiang, H. Yasuda et al., Phys. Rev. B, 58, No. 18: 11817 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Однодворець, С. І. Проценко, А. М. Чорноус та ін., Успехи физ. мет., 8, №2: 109.",
+				"tr":  "L. V. Odnodvorets', S. І. Protsenko, A. M. Chornous ta іn., Usp. Fiz. Mmet., 8, No. 2: 109."
+			},
+			{
+				"doi": "",
+				"or":  "С. І. Проценко, А. М. Чорноус, Металлофиз. новейшие технол., 25, №5: 587 (2003).",
+				"tr":  "S. І. Protsenko, A. M. Chornous, Metallofiz. Noveishie Tekhnol., 25, No.5: 587 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Є. О. Забіла, І. Ю. Проценко, УФЖ, 50, №7: 729 (2005).",
+				"tr":  "Є. O. Zabіla, І. Yu. Protsenko, UFZh, 50, No. 7: 729 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Проценко, Матеріали XI Міжнародної конференції «Фізика і технологія тонких плівок і наносистем» (Івано-Франківськ.: ПрНУ: 2007), т. 1.",
+				"tr":  "S. Protsenko, Materіali XI Mіzhnarodnoi konferentsії «Fіzika і tekhnologіya tonkikh plіvok і nanosistem» (Іvano-Frankіvs'k.: PrNU: 2007), vol. 1."
+			},
+			{
+				"doi": "",
+				"or":  "G.-F. Wang, X.-Q. Feng, S. W. Yu et al., Mat. Sci. Eng. A, 363: 1 (2003).",
+				"tr":  "G.-F. Wang, X.-Q. Feng, S. W. Yu et al., Mat. Sci. Eng. A, 363: 1 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "P. J. W. Janssen, Th. H. de Keijser, and M. g. D. Geers, Mat. Sci. Eng. A, 419: 238 (2006).",
+				"tr":  "P. J. W. Janssen, Th. H. de Keijser, and M. g. D. Geers, Mat. Sci. Eng. A, 419: 238 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Son, J.-H. Jeong, and D. Kwon, Thin Solid Films, 437: 182 (2003).",
+				"tr":  "D. Son, J.-H. Jeong, and D. Kwon, Thin Solid Films, 437: 182 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Son, J.-j. Kim, T. W. Lim et al. Scripta Mater., 50: 1265 (2004).",
+				"tr":  "D. Son, J.-j. Kim, T. W. Lim et al. Scripta Mater., 50: 1265 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "S. U. Jen and T. C. Wu, Thin Solid Films, 492: 166 (2005).",
+				"tr":  "S. U. Jen and T. C. Wu, Thin Solid Films, 492: 166 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. П. Клокова, Тензометрия (Москва: Машиностроение: 1990).",
+				"tr":  "N. P. Klokova, Tenzometriya (Moskva: Mashinostroenie: 1990)."
+			}
+		]
+	}
+}

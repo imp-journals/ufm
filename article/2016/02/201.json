@@ -1,0 +1,36 @@
+{
+	"_id":    "UFM.17.02.201",
+	"year":   2016,
+	"volume": 17,
+	"issue":  2,
+	"pages":  [201,208],
+	"type":   2,
+	"lang":   "ua",
+	"date":   ["01.03.2016"],
+	"PACS":   "01.60.+q, 61.05.cc, 61.05.cf, 61.05.cp, 61.72.Dd, 81.07.Bc",
+	"title":   {
+		"ua": "До 75-річчя члена-кореспондента НАН України В. Б. Молодкіна",
+		"en": "On the Occasion of the 75th Anniversary of Birthday of V. B. Molodkin, Corresponding Member of the N.A.S. of Ukraine",
+		"ru": "К 75-летию члена-корреспондента НАН Украины В. Б. Молодкина"
+	},
+	"abstract": {
+		"ua": "Видатному вченому, фахівцю в галузі теорії твердого тіла та фізики металів, теорії взаємодії випромінення з конденсованою речовиною, заслуженому діячу науки і техніки України, лауреату Державних премій України в галузі науки і техніки, члену-кореспонденту Національної академії наук України Вадиму Борисовичу Молодкіну виповнилося 75 років.",
+		"en": "Well-known scientist, a specialist in the field of solid-state theory and physics of metals, theory of the interaction of radiation with the condensed matter, honoured scientist of science and technology of Ukraine, laureate of the State Prize of Ukraine in the field of science and technology, the corresponding member of the National Academy of Sciences of Ukraine Vadym Borysovych Molodkin is 75 years old.",
+		"ru": "Выдающемуся учёному, специалисту в области теории твёрдого тела и физики металлов, теории взаимодействия излучения с конденсированным веществом, заслуженному деятелю науки и техники Украины, лауреату Государственных премий Украины в области науки и техники, члену-корреспонденту Национальной академии наук Украины Вадиму Борисовичу Молодкину исполнилось 75 лет."
+	},
+	"keywords": {
+		"ua": "В. Б. Молодкін, розсіяння променів кристалами з дефектами, структурна діягностика матеріялів та виробів нанотехнологій",
+		"en": "V. B. Molodkin, scattering of radiations in crystals with defects, structural diagnostics of nanotechnology materials and products",
+		"ru": "В. Б. Молодкин, рассеяния лучей кристаллами с дефектами, структурная диагностика материалов и изделий нанотехнологий"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Редакційна колегія", "en": "Editorial Board", "ru": "Редакционная коллегия"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 0,
+		"list":  []
+	}
+}

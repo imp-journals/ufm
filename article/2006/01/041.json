@@ -1,0 +1,149 @@
+{
+	"_id":    "UFM.07.01.041",
+	"year":   2006,
+	"volume": 7,
+	"issue":  1,
+	"pages":  [41,52],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["02.12.2005"],
+	"PACS":   "71.45.Gm, 72.30.+q, 73.20.Mf, 73.50.Mx, 79.20.Hx, 79.20.Uv, 82.80.Pv",
+	"title":   {
+		"ua": "Формування плазмонів у спектрах вторинно-електронної емісії за низькоенергетичного опромінення електронами поверхні стопу Pt$_{80}$Co$_{20}$(111)",
+		"en": "Formation of Plasmons in Secondary-Electron Emission Spectra at a Low-Energy Electron Radiation of a Surface of a Pt$_{80}$Co$_{20}$(111) Alloy",
+		"ru": "Формирование плазмонов в спектрах вторично-электронной эмиссии при низкоэнергетическом облучении электронами поверхности сплава Pt$_{80}$Co$_{20}$(111)"
+	},
+	"abstract": {
+		"ua": "Методою низькоенергетичної спектроскопії характеристичних втрат енергії електронів досліджено формування плазмонів у спектрах вторинної електронної емісії у стопі Pt$_{80}$Co$_{20}$(111), що упорядковується. Запропоновано спосіб визначення роздільчої межи «поверхня—об’єм» за залежностями інтенсивности ліній поверхневих та об’ємних плазмонів від енергій первинних електронів у діяпазоні 150—700 еВ. Знайдено, що товщина приповерхневого нанорозмірного шару для невпорядкованого стопу Pt$_{80}$Co$_{20}$(111) вдвічі більше, ніж для впорядкованого стану. Встановлено також, що при впорядкуванні даного стопу в плазмових коливаннях бере участь більша кількість електронів провідности.",
+		"en": "A method of the electron energy loss spectroscopy is used to investigate a manifestation of the plasmons in the secondary electron emission spectra for the ordering Pt$_{80}$Co$_{20}$(111)Pt$_{80}$Co$_{20}$(111) alloy. The method is offered for determination of a ‘surface—bulk’ boundary based on the dependences of line intensities of the surface and bulk plasmons on the primary-electron energies within the range of 150—700 eV. As revealed, the thickness of nanosize surface layer for the disordered Pt$_{80}$Co$_{20}$(111) alloy is twice as much than thickness for the ordered state. Under ordering of an alloy at issue, the greater quantity of conduction electrons takes part in plasma oscillations.",
+		"ru": "Методом низкоэнергетической спектроскопии характеристических потерь энергии электронов исследовано формирование плазмонов в спектрах вторично-электронной эмиссии в упорядочивающемся сплаве Pt$_{80}$Co$_{20}$(111). Предложен способ определения границы раздела «поверхность—объем» по зависимостям интенсивности линий поверхностных и объемных плазмонов от энергий первичных электронов в диапазоне 150—700 эВ. Найдено, что толщина приповерхностного наноразмерного слоя для неупорядоченного сплава Pt$_{80}$Co$_{20}$(111) больше в 2 раза, чем для упорядоченного состояния. Установлено также, что при упорядочении данного сплава в плазменных колебаниях принимает участие большее количество электронов проводимости."
+	},
+	"keywords": {
+		"ua": "стоп Pt$_{80}$Co$_{20}$, впорядкування, поверхневі плазмони, об’ємні плазмони, характеристичні втрати енергії електронів",
+		"en": "Pt$_{80}$Co$_{20}$ alloy, ordering, surface plasmons, bulk plasmons, chracteristic electron energy losses",
+		"ru": "сплав Pt$_{80}$Co$_{20}$, упорядочение, поверхностные плазмоны, объемные плазмоны, характеристические потери энергии электронов"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. О. Васильєв", "en": "M. O. Vasylyev", "ru": "М. А. Васильев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. О. Тіньков", "en": "V. O. Tin’kov", "ru": "В. А. Тиньков"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. В. Червонний", "en": "S. V. Chervonny", "ru": "С. В. Червонный"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.07.02.117",
+				"cit": "V. O. Tin’kov, <a href=\"https://doi.org/10.15407/ufm.07.02.117\">Usp. Fiz. Met. <b>7</b>, 117 (2006)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 19,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "M. O. Vasylyev and S. I. Sidorenko, Diffusion and Surface Segregation (Kyiv: Ministry Education of Ukraine: 1998).",
+				"tr":  "M. O. Vasylyev and S. I. Sidorenko, Diffusion and Surface Segregation (Kyiv: Ministry Education of Ukraine: 1998)."
+			},
+			{
+				"doi": "10.1142/S0218625X9600262X",
+				"or":  "Y. Gauthier, Surf. Rev. and Lett., 3, No. 5&6: 1663 (1996).",
+				"tr":  "Y. Gauthier, Surf. Rev. and Lett., 3, No. 5&6: 1663 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Р. Шульман, С. А. Фридрихов, Вторично-эмиссионные методы исследования твердого тела (Москва: Наука: 1977).",
+				"tr":  "A. R. Shul'man, S. A. Fridrikhov, Vtorichno-emissionnye metody issledovaniya tverdogo tela (Moskva: Nauka: 1977)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, Структура и динамика поверхности переходных металлов (Киев: Наукова думка: 1988).",
+				"tr":  "M. A. Vasil'ev, Struktura i dinamika poverkhnosti perekhodnykh metallov (Kiev: Naukova dumka: 1988)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Т. Черепин, М. А. Васильев, Методы и приборы для анализа поверхности материалов: Справочник (Киев: Наукова думка: 1982).",
+				"tr":  "V. T. Cherepin, M. A. Vasil'ev, Metody i pribory dlya analiza poverkhnosti materialov: Spravochnik (Kiev: Naukova dumka: 1982)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Пайнс, Элементарные возбуждения в твердых телах. (Москва: Мир: 1965).",
+				"tr":  "D. Payns, Elementarnye vozbuzhdeniya v tverdykh telakh. (Moskva: Mir: 1965)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Фелдман, Д. Майер, Основы анализа поверхности и тонких пленок (Москва: Мир: 1989).",
+				"tr":  "L. Feldman, D. Mayer, Osnovy analiza poverkhnosti i tonkikh plenok (Moskva: Mir: 1989)."
+			},
+			{
+				"doi": "10.1016/0039-6028(92)90689-4",
+				"or":  "Y. Gauthier, R. Baudoing-Savois, and J. M. Bugnard, Surf. Sci., 276: 1 (1992).",
+				"tr":  "Y. Gauthier, R. Baudoing-Savois, and J. M. Bugnard, Surf. Sci., 276: 1 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Vasylyev, V. A. Tinkov, A. G. Blaschuk, J. Luyten, and C. Creemers, Appl. Surf. Sci. (2006) (in press).",
+				"tr":  "M. A. Vasylyev, V. A. Tinkov, A. G. Blaschuk, J. Luyten, and C. Creemers, Appl. Surf. Sci. (2006) (in press)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, М. А. Васильев, В. А. Тиньков, Металлофиз. новейшие технол., 26, № 6: 765 (2004).",
+				"tr":  "A. P. Shpak, M. A. Vasil'ev, V. A. Tin'kov, Metallofiz. noveishie tekhnol., 26, No. 6: 765 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Vasil’ev and S. D. Gorodetsky, Vacuum, 37, No. 10: 723 (1987).",
+				"tr":  "M. A. Vasil'ev and S. D. Gorodetsky, Vacuum, 37, No. 10: 723 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "M. P. Seah and W. A. Dench, Surf. Interface Anal., 1, No. 1: 2 (1979).",
+				"tr":  "M. P. Seah and W. A. Dench, Surf. Interface Anal., 1, No. 1: 2 (1979)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.12.2097",
+				"or":  "J. O. Porteus and W. N. Faith, Phys. Rev., 12: 2097 (1975).",
+				"tr":  "J. O. Porteus and W. N. Faith, Phys. Rev., 12: 2097 (1975)."
+			},
+			{
+				"doi": "10.1016/0039-6028(75)90343-X",
+				"or":  "A. D. Boardman, B. V. Paranjape, and R. Teshima, Surf. Sci., 49: 275 (1975).",
+				"tr":  "A. D. Boardman, B. V. Paranjape, and R. Teshima, Surf. Sci., 49: 275 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Lang, Surf. Sci., 66: 527 (1977).",
+				"tr":  "B. Lang, Surf. Sci., 66: 527 (1977)."
+			},
+			{
+				"doi": "10.1016/S0039-6028(02)02684-5",
+				"or":  "W. S. M. Werner, Surf. Sci., 526: L159 (2003).",
+				"tr":  "W. S. M. Werner, Surf. Sci., 526: L159 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. Ф. Чайковский, В. С. Редькин, В. В. Зашквара, В. Т. Сотников., ФТТ, 15: 1947 (1973).",
+				"tr":  "E. F. Chaykovskiy, V. S. Red'kin, V. V. Zashkvara, V. T. Sotnikov., FTT, 15: 1947 (1973)."
+			},
+			{
+				"doi": "10.1063/1.1675654",
+				"or":  "D. E. Edward and F. M. Propst., J. Chem. Phys., 55: 5175 (1971).",
+				"tr":  "D. E. Edward and F. M. Propst., J. Chem. Phys., 55: 5175 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Кораблев, ФТТ, 12: 1638 (1970).",
+				"tr":  "V. V. Korablev, FTT, 12: 1638 (1970)."
+			}
+		]
+	}
+}

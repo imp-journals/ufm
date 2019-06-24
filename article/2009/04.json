@@ -1,0 +1,49 @@
+{
+	"year":   2009,
+	"volume": 10,
+	"issue":  4,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [331,388],
+			"title": {
+				"ua": "Тензоопір аморфних феромагнетиків",
+				"en": "Tensoresistance of Amorphous Ferromagnetics",
+				"ru": "Тензосопротивление аморфных ферромагнетиков"
+			},
+			"autors": {
+				"ua": "М. П. Семенько, М. І. Захаренко, Ю. А. Куницький, А. П. Шпак",
+				"en": "M. P. Semen’ko, M. I. Zakharenko, Yu. A. Kunitsky, and A. P. Shpak",
+				"ru": "Н. П. Семенько, Н. И. Захаренко, Ю. А. Куницкий, А. П. Шпак"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [389,414],
+			"title": {
+				"ua": "Структурно-фазові перетворення у загартованій конструкційній сталі за деформації",
+				"en": "Structure-Phase Transformations in the Quenched Constructional Steel at Deformation",
+				"ru": "Структурно-фазовые превращения в закаленной конструкционной стали при деформации"
+			},
+			"autors": {
+				"ua": "Ю. Ф. Іванов, Є. В. Корнет, В. Є. Громов, С. В. Коновалов",
+				"en": "Yu. F. Ivanov, E. V. Cornet, V. E. Gromov, and S. V. Konovalov",
+				"ru": "Ю. Ф. Иванов, Е. В. Корнет, В. Е. Громов, С. В. Коновалов"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [415,435],
+			"title": {
+				"ua": "Металознавчі аспекти в процесах руйнування металевих матеріялів за тертя",
+				"en": "Physical-Metallurgy Aspects in Processes of Fracture of Metal Materials at Friction",
+				"ru": "Металловедческие аспекты в процессах разрушения металлических материалов при трении"
+			},
+			"autors": {
+				"ua": "С. А. Беспалов",
+				"en": "S. A. Bespalov",
+				"ru": "С. А. Беспалов"
+			}
+		}
+	]
+}

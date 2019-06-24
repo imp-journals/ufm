@@ -1,0 +1,513 @@
+{
+	"_id":    "UFM.04.04.235",
+	"year":   2003,
+	"volume": 4,
+	"issue":  4,
+	"pages":  [235,269],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["18.10.2003"],
+	"PACS":   "61.10.Nz, 61.43.Gt, 61.46.+w, 61.72.Ff, 75.50.Tt, 75.75.+a, 81.07.-b",
+	"title":   {
+		"ua": "Малі металеві частинки: способи одержання, атомова й електронна структура, магнетні властивості та практичне застосування",
+		"en": "Small Metallic Particles: Methods of Fabrication, Atomic and Electronic Structure, Magnetic Properties, and Practical Usage",
+		"ru": "Малые металлические частицы: способы получения, атомная и электронная структура, магнитные свойства и практическое использование"
+	},
+	"abstract": {
+		"ua": "Виконано аналітичний огляд оригінальних експериментальних результатів, отриманих при дослідженні кристалічної структури, фазових перетворень, твердофазних реакцій, магнітних властивостей та можливостей практичного використання малих металічних частинок (ММЧ) Ni, Ta та сплавів на основі міді. Зазначено утворення ряду метастабільних станів в ММЧ, нехарактерних для масивних зразків. Показано, що особливості багатьох характеристик ММЧ є обумовленими типом їхньої структури, дисперсністю та умовами одержання. Наведено приклади практичного використання покриттів із ММЧ танталу та нікелю.",
+		"en": "An analytical review of the original experimental results obtained during investigations of the crystal structure, phase transformations, solid-phase reactions in a system of the small metallic particles (SMP) of Ni, Ta, and copper-based alloys is presented Their practical use is also reviewed. The formation of several metastable states in SMP, which are non-relevant for the bulk specimens, is discussed. As mentioned, the principal SMP characteristics are provided with a type of their structure, dispersity, and fabrication conditions. Some examples of the practical applications of coatings from SMP of Ta and Ni are given.",
+		"ru": "Проведен аналитический обзор оригинальных экспериментальных результатов, полученных при исследовании кристаллической структуры, фазовых превращений, твердофазных реакций, магнитных свойств и возможностей практического использования малых металлических частиц (ММЧ) Ni, Ta и сплавов на основе меди. Отмечено образование ряда метастабильных состояний в ММЧ, нехарактерных для массивных образцов. Подчеркнуто, что многие особенности характеристик ММЧ обусловлены типом их структуры, дисперсностью и условиями получения. Приведены примеры практического применения покрытий из ММЧ тантала и никеля."
+	},
+	"keywords": {
+		"ua": "малі металічні частинки, електричний вибух провідників, електроіскрове диспергування, атомна й електронна структури, твердофазні реакції, магнітні властивості",
+		"en": "small metallic particles, electrical explosion of conductors, electric-spark dispersion, atomic and electronic structures, solid-phase reactions, magnetic properties",
+		"ru": "малые металлические частицы, электрический взрыв проводников, электроискровое диспергирование, атомная и электронная структуры, твердофазные реакции, магнитные свойства"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "К. В. Чуістов", "en": "K. V. Chuistov", "ru": "К. В. Чуистов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. П. Шпак", "en": "A. P. Shpak", "ru": "А. П. Шпак"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. Е. Перекос", "en": "A. O. Perekos", "ru": "А. Е. Перекос"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. Д. Рудь", "en": "O. D. Rud’", "ru": "А. Д. Рудь"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Уваров", "en": "V. M. Uvarov", "ru": "В. Н. Уваров"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 92,
+				"list":  [
+			{
+				"doi": "",
+				"or":  "И. Д. Морохов, Л. И. Трусов, С. П. Чижик, Ультрадисперсные металлические среды (Москва: Атомиздат: 1977).",
+				"tr":  "I. D. Morokhov, L. I. Trusov, S. P. Chizhik, Ul'tradispersnye metallicheskie sredy (Moskva: Atomizdat: 1977)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Петров, Физика малых частиц (Москва: Наука: 1982).",
+				"tr":  "Yu. I. Petrov, Fizika malykh chastits (Moskva: Nauka: 1982)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Непийко, Физические свойства малых металлических частиц (Киев: Наук. думка: 1985).",
+				"tr":  "S. A. Nepiyko, Fizicheskie svoystva malykh metallicheskikh chastits (Kiev: Nauk. dumka: 1985)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Петров, Кластеры и малые частицы (Москва: Наука: 1986).",
+				"tr":  "Yu. I. Petrov, Klastery i malye chastitsy (Moskva: Nauka: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Д. Морохов, Л. И. Трусов, В. Н. Лаповок, Физические явления в ультрадисперсных средах (Москва: Энергоатомиздат: 1984).",
+				"tr":  "I. D. Morokhov, L. I. Trusov, V. N. Lapovok, Fizicheskie yavleniya v ul'tradispersnykh sredakh (Moskva: Energoatomizdat: 1984)."
+			},
+			{
+				"doi": "10.3367/UFNr.0133.198104c.0653",
+				"or":  "И. Д. Морохов, В. И. Петинов, Л. И. Трусов, В. Ф. Петрунин, УФН, 133: 653 (1981).",
+				"tr":  "I. D. Morokhov, V. I. Petinov, L. I. Trusov, V. F. Petrunin, UFN, 133: 653 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, Ю. А. Куницкий, В. Л. Карбовский, Кластерные и наноструктурные материалы (Киев: Академпериодика: 2001), т. 1.",
+				"tr":  "A. P. Shpak, Yu. A. Kunitskiy, V. L. Karbovskiy, Klasternye i nanostrukturnye materialy (Kiev: Akademperiodika: 2001), t. 1."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, Ю. А. Куницкий, В. И. Лысов, Кластерные и наноструктурные материалы (Киев: Академпериодика: 2001), т. 2.",
+				"tr":  "A. P. Shpak, Yu. A. Kunitskiy, V. I. Lysov, Klasternye i nanostrukturnye materialy (Kiev: Akademperiodika: 2001), t. 2."
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Чуистов, А. Е. Перекос, Металлофиз. новейшие технол., 19, № 1: 36 (1997); К. В. Чуистов, А. Е. Перекос, Металлофиз. новейшие технол., 19, № 3: 68 (1997).",
+				"tr":  "K. V. Chuistov, A. E. Perekos, Metallofiz. noveyshie tekhnol., 19, No. 1: 36 (1997); K. V. Chuistov, A. E. Perekos, Metallofiz. noveyshie tekhnol., 19, No. 3: 68 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Трубачев, К. В. Чуистов, В. Н. Горшков, А. Е. Перекос и др., Способ получения металлических порошков, 1639892 СССР. МКИ, В22, F9/02, 9/14:  Открытия и изобрет., 1991, № 13, с. 11.",
+				"tr":  "V. G. Trubachev, K. V. Chuistov, V. N. Gorshkov, A. E. Perekos et al., Sposob polucheniya metallicheskikh poroshkov, 1639892 SSSR. MKI, V22, F9/02, 9/14: Otkrytiya i izobret., 1991, No. 13, s. 11."
+			},
+			{
+				"doi": "10.1016/0025-5416(82)90141-0",
+				"or":  "A. E. Berkowitz and J. L. Walter, Mater. Sci. and Eng., 55: 275 (1982).",
+				"tr":  "A. E. Berkowitz and J. L. Walter, Mater. Sci. and Eng., 55: 275 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Щерба, Технич. электродинамика, № 6: 45 (1989).",
+				"tr":  "A. A. Shcherba, Tekhnich. elektrodinamika, No. 6: 45 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. А. Котов, Перспективные материалы, № 4: 79 (2003).",
+				"tr":  "Yu. A. Kotov, Perspektivnye materialy, No. 4: 79 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Щерба, С. Н. Захарченко, Праці ІЕД НАНУ, Електроенергетика, № 2: 66 (Київ: Вид-во ІЕД НАНУ: 1999).",
+				"tr":  "A. A. Shcherba, S. N. Zakharchenko, Pratsi IED NANU, Elektroenergetika, No. 2: 66 (Kiiv: Vid-vo IED NANU: 1999)."
+			},
+			{
+				"doi": "10.1103/PhysRev.105.1479",
+				"or":  "W. F. Brown, Phys. Rev., 105, No. 5: 1479 (1957).",
+				"tr":  "W. F. Brown, Phys. Rev., 105, No. 5: 1479 (1957)."
+			},
+			{
+				"doi": "10.1103/PhysRev.111.149",
+				"or":  "H. Amar, Phys. Rev., 111, No. 1: 149 (1958).",
+				"tr":  "H. Amar, Phys. Rev., 111, No. 1: 149 (1958)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Петров, В. И. Петинов, В. В. Шевченко, ФТТ, 14, № 10: 3031(1972).",
+				"tr":  "A. E. Petrov, V. I. Petinov, V. V. Shevchenko, FTT, 14, No. 10: 3031(1972)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. В. Штольц, М. Я. Ген, И. В. Еремина и др., ФММ, 24, вып. 2: 220 (1967).",
+				"tr":  "E. V. Shtol'ts, M. Ya. Gen, I. V. Eremina et al., FMM, 24, No. 2: 220 (1967)."
+			},
+			{
+				"doi": "10.1007/BF01298291",
+				"or":  "F. Soffe and W. Horsten, Z. Phys. B, 42: 47 (1981).",
+				"tr":  "F. Soffe and W. Horsten, Z. Phys. B, 42: 47 (1981)."
+			},
+			{
+				"doi": "10.1002/andp.19634660702",
+				"or":  "A. Hahn, Ann. Phys. B, 11: 277 (1963).",
+				"tr":  "A. Hahn, Ann. Phys. B, 11: 277 (1963)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Петров, В. Д. Раджула, Тез. докл. Всесоюз. конф по физике магн. явлений (Харьков, сентябрь 1978).",
+				"tr":  "A. E. Petrov, V. D. Radzhula, Tez. dokl. Vsesoyuz. konf po fizike magn. yavleniy (Khar'kov, sentyabr' 1978)."
+			},
+			{
+				"doi": "10.1007/BF01298291",
+				"or":  "W. Hellental, Z. Phys. B, 42: 47 (1981).",
+				"tr":  "W. Hellental, Z. Phys. B, 42: 47 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Чуистов, Старение металлических сплавов (Киев: Наук. думка: 1985).",
+				"tr":  "K. V. Chuistov, Starenie metallicheskikh splavov (Kiev: Nauk. dumka: 1985)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Кокорин. Мартенситные превращения в неоднородных твердых растворах (Киев: Наук. думка: 1987).",
+				"tr":  "V. V. Kokorin. Martensitnye prevrashcheniya v neodnorodnykh tverdykh rastvorakh (Kiev: Nauk. dumka: 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Кокорин, А. Е. Перекос, Письма в ЖЭТФ, 27, вып. 9: 500 (1978).",
+				"tr":  "V. V. Kokorin, A. E. Perekos, Pis'ma v ZhETF, 27, No. 9: 500 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Кокорин, И. А. Осипенко, ФММ, 54, вып. 4: 826 (1982).",
+				"tr":  "V. V. Kokorin, I. A. Osipenko, FMM, 54, No. 4: 826 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Кокорин, А. Е. Перекос, К. В. Чуистов, ФММ, 43, вып. 5: 966 (1977).",
+				"tr":  "V. V. Kokorin, A. E. Perekos, K. V. Chuistov, FMM, 43, No. 5: 966 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Чуистов, А. Е. Перекос, Т. В. Ружицкая и др., ФММ, 96, вып. 5: 1 (2003).",
+				"tr":  "K. V. Chuistov, A. E. Perekos, T. V. Ruzhitskaya et al., FMM, 96, No. 5: 1 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Кокорин, И. А. Осипенко, Письма в ЖЭТФ, 29, вып. 1: 665 (1979).",
+				"tr":  "V. V. Kokorin, I. A. Osipenko, Pis'ma v ZhETF, 29, No. 1: 665 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Кокорин, А. Е. Перекос, ФММ, 48, вып. 4: 750 (1979).",
+				"tr":  "V. V. Kokorin, A. E. Perekos, FMM, 48, No. 4: 750 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Кокорин, И. А. Осипенко, В. В. Полотнюк и др., ФММ, 54, вып. 1: 48 (1982).",
+				"tr":  "V. V. Kokorin, I. A. Osipenko, V. V. Polotnyuk et al., FMM, 54, No. 1: 48 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Кокорин, И. А. Осипенко, А. Е. Перекос, ФММ, 49, вып. 2: 431 (1980).",
+				"tr":  "V. V. Kokorin, I. A. Osipenko, A. E. Perekos, FMM, 49, No. 2: 431 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Кокорин, И. А. Осипенко, С. В. Черепов, В. А. Черненко, ФММ, 61, вып. 4: 812 (1988)",
+				"tr":  "V. V. Kokorin, I. A. Osipenko, S. V. Cherepov, V. A. Chernenko, FMM, 61, No. 4: 812 (1988)"
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Щербаков, В. В. Щербакова, ФТТ, 20, № 12: 3732 (1978).",
+				"tr":  "V. P. Shcherbakov, V. V. Shcherbakova, FTT, 20, No. 12: 3732 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Щербаков, ФММ, 48, № 6: 1134 (1979).",
+				"tr":  "V. P. Shcherbakov, FMM, 48, No. 6: 1134 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. С. Гехт, В. А. Игнатенко, Изв. АН СССР. Сер. Физ., 44, № 7: 1362 (1980).",
+				"tr":  "R. S. Gekht, V. A. Ignatenko, Izv. AN SSSR. Ser. Fiz., 44, No. 7: 1362 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Медведев, ФММ, 88, № 1: 9 (1999).",
+				"tr":  "M. V. Medvedev, FMM, 88, No. 1: 9 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Е. Кокорина, М. В. Медведев, ФММ, 93, № 1: 5 (2002).",
+				"tr":  "E. E. Kokorina, M. V. Medvedev, FMM, 93, No. 1: 5 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Медведев, ФММ, 93, № 3: 20 (2002).",
+				"tr":  "M. V. Medvedev, FMM, 93, No. 3: 20 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. З. Мейлихов, Р. Я. Фаргетдинова, ЖЭТФ, 121, вып. 4: 875 (2002).",
+				"tr":  "E. Z. Meylikhov, R. Ya. Fargetdinova, ZhETF, 121, No. 4: 875 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Чуистов, А. Е. Перекос, Т. В. Ефимова и др., Металлофиз. новейшие технол., 23, № 5: 627 (2001).",
+				"tr":  "K. V. Chuistov, A. E. Perekos, T. V. Efimova et al., Metallofiz. noveyshie tekhnol., 23, No. 5: 627 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Чуистов, А. Е. Перекос, Т. В. Ружицкая и др., Металлофиз. новейшие технол., 23, № 5: 949 (2001).",
+				"tr":  "K. V. Chuistov, A. E. Perekos, T. V. Ruzhitskaya et al., Metallofiz. noveyshie tekhnol., 23, No. 5: 949 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Бозорт, Ферромагнетизм (Москва: Изд-во иностр. лит.: 1956).",
+				"tr":  "R. Bozort, Ferromagnetizm (Moskva: Izd-vo inostr. lit.: 1956)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Т. Черепин, Экспериментальная техника в физическом металловедении (Киев: Техника: 1986).",
+				"tr":  "V. T. Cherepin, Eksperimental'naya tekhnika v fizicheskom metallovedenii (Kiev: Tekhnika: 1986)."
+			},
+			{
+				"doi": "10.1002/(SICI)1521-4079(199810)33:7/8<1039::AID-CRAT1039>3.0.CO;2-X",
+				"or":  "D. L. Beke, Cryst. Res. Technol., 33, No. 7–8: 1039 (1998).",
+				"tr":  "D. L. Beke, Cryst. Res. Technol., 33, No. 7–8: 1039 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. В. Ефимова, А. Е. Перекос, И. В. Золотаревский, Металлофиз. новейшие технол., 25, № 9: 7 (2003).",
+				"tr":  "T. V. Efimova, A. E. Perekos, I. V. Zolotarevskiy, Metallofiz. noveyshie tekhnol., 25, No. 9: 7 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Вонсовский, Магнетизм (Москва: Наука: 1971).",
+				"tr":  "S. V. Vonsovskiy, Magnetizm (Moskva: Nauka: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Трусов, В. И. Новиков, И. П. Арентьева и др., Изв. АН СССР, сер. физ., 50, № 8: 1593 (1960).",
+				"tr":  "L. I. Trusov, V. I. Novikov, I. P. Arent'eva et al., Izv. AN SSSR, ser. fiz., 50, No. 8: 1593 (1960)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Иванов, Н. А. Яворский, Ю. А. Котов и др., ДАН СССР, 275, № 4: 873 (1989).",
+				"tr":  "G. V. Ivanov, N. A. Yavorskiy, Yu. A. Kotov et al., DAN SSSR, 275, No. 4: 873 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Трусов, Ю. А. Воскресенский, И. А. Репин и др., Порошк. металлургия, № 7: 17 (1989).",
+				"tr":  "L. I. Trusov, Yu. A. Voskresenskiy, I. A. Repin et al., Poroshk. metallurgiya, No. 7: 17 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Новиков, С. В. Свирида, Л. И. Трусов и др., Металлофизика, 6, № 4: 97 (1984).",
+				"tr":  "V. I. Novikov, S. V. Svirida, L. I. Trusov et al., Metallofizika, 6, No. 4: 97 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Богданов, Л. Н. Парицкая, Порошк. металлургия, № 1: 13 (1990).",
+				"tr":  "V. V. Bogdanov, L. N. Paritskaya, Poroshk. metallurgiya, No. 1: 13 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Парицкая, УФЖ, 30, № 4: 615 (1985).",
+				"tr":  "L. N. Paritskaya, UFZh, 30, No. 4: 615 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Новиков, Л. И. Трусов, В. Н. Лаповок, Т. П. Гелейшвили, Порошк. металлургия, № 7: 39 (1983).",
+				"tr":  "V. I. Novikov, L. I. Trusov, V. N. Lapovok, T. P. Geleyshvili, Poroshk. metallurgiya, No. 7: 39 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Парицкая, Порошк. металлургия, № 11: 44 (1990).",
+				"tr":  "L. N. Paritskaya, Poroshk. metallurgiya, No. 11: 44 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Новиков, Л. И. Трусов, В. Н. Лаповок и др., Порошк. металлургия, № 5: 28 (1984).",
+				"tr":  "V. I. Novikov, L. I. Trusov, V. N. Lapovok et al., Poroshk. metallurgiya, No. 5: 28 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Грязнов, В. И. Новиков, Л. И. Трусов, Поверхность, № 1: 133 (1986).",
+				"tr":  "V. G. Gryaznov, V. I. Novikov, L. I. Trusov, Poverkhnost', No. 1: 133 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Горелик, М. С. Блантер, Изв. АН СССР. Металлы, № 2: 90 (1982).",
+				"tr":  "S. S. Gorelik, M. S. Blanter, Izv. AN SSSR. Metally, No. 2: 90 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. С. Бокштейн, Диффузия в металлах (Москва: Металлургия: 1986).",
+				"tr":  "B. S. Bokshteyn, Diffuziya v metallakh (Moskva: Metallurgiya: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Парицкая, Порошк. металлургия, № 6: 28 (1984).",
+				"tr":  "L. N. Paritskaya, Poroshk. metallurgiya, No. 6: 28 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Чуистов, В. Г. Турбачёв, А. Е. Перекос, Металлофизика, 13, № 3: 109 (1991).",
+				"tr":  "K. V. Chuistov, V. G. Turbachev, A. E. Perekos, Metallofizika, 13, No. 3: 109 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Тананаев, В. Б. Федоров, Л. В. Малюков и др., ДАН СССР, 283, № 6: 1364 (1985).",
+				"tr":  "I. V. Tananaev, V. B. Fedorov, L. V. Malyukov et al., DAN SSSR, 283, No. 6: 1364 (1985)."
+			},
+			{
+				"doi": "10.1080/14786436408224212",
+				"or":  "D. W. Pashley, M. G. Stowell, and M. H. Jacobs, Phil. Mag., No. 10: 127 (1964).",
+				"tr":  "D. W. Pashley, M. G. Stowell, and M. H. Jacobs, Phil. Mag., No. 10: 127 (1964)."
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Чуистов, В. Г. Турбачёв, А. Е. Перекос и др., Металлофизика, 10, № 1: 118 (1988).",
+				"tr":  "K. V. Chuistov, V. G. Turbachev, A. E. Perekos et al., Metallofizika, 10, No. 1: 118 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Новиков, Л. И. Трусов, В. Н. Лаповок, Т. П. Гелейшвили, Порошк. металлургия, № 3: 29 (1984).",
+				"tr":  "V. I. Novikov, L. I. Trusov, V. N. Lapovok, T. P. Geleyshvili, Poroshk. metallurgiya, No. 3: 29 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Дураченко, А. Н. Жиганов, В. Н. Лаповок и др., ФММ, 61, вып. 5: 873 (1986).",
+				"tr":  "A. M. Durachenko, A. N. Zhiganov, V. N. Lapovok et al., FMM, 61, No. 5: 873 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Залуцкий, Т. В. Ефимова, А. Е. Перекос и др., Металлофизика, 10, № 3: 117 (1988).",
+				"tr":  "V. P. Zalutskiy, T. V. Efimova, A. E. Perekos et al., Metallofizika, 10, No. 3: 117 (1988)."
+			},
+			{
+				"doi": "10.1016/0022-3697(81)90125-6",
+				"or":  "B. Lesage, A. M. Huntz, and P. Lacombe, J. Phys. Chem. Solids, 42, No. 8: 705 (1981).",
+				"tr":  "B. Lesage, A. M. Huntz, and P. Lacombe, J. Phys. Chem. Solids, 42, No. 8: 705 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "С. М. Клоцман, А. Н. Тимофеев, Т. С. Трахтенберг, ФТТ, 14, № 3: 894 (1972).",
+				"tr":  "S. M. Klotsman, A. N. Timofeev, T. S. Trakhtenberg, FTT, 14, No. 3: 894 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Луценко, А. Е. Перекос, А. М. Гусак, Металлофиз. новейшие технол., 22, № 6: 73 (2000).",
+				"tr":  "G. V. Lutsenko, A. E. Perekos, A. M. Gusak, Metallofiz. noveyshie tekhnol., 22, No. 6: 73 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Гусак, Г. В. Луценко, Порошк. металлургия, № 11–12: 41 (1999).",
+				"tr":  "A. M. Gusak, G. V. Lutsenko, Poroshk. metallurgiya, No. 11–12: 41 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Перекос, Т. В. Ружицкая, Г. В. Луценко, Вісник Черкаського університету. Серія: Фізико-математичні науки, вип. 19: 19 (2000).",
+				"tr":  "A. E. Perekos, T. V. Ruzhitskaya, G. V. Lutsenko, Visnik Cherkas'kogo universitetu. Seriya: Fiziko-matematichni nauki, vip. 19: 19 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Монохин, Б. С. Митин, В. А. Васильев, А. В. Ревякин, Аморфные сплавы (Москва: Металлургия: 1984).",
+				"tr":  "A. I. Monokhin, B. S. Mitin, V. A. Vasil'ev, A. V. Revyakin, Amorfnye splavy (Moskva: Metallurgiya: 1984)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Добрамыслов, Р. В. Чурбачев, В. А. Елькин, ФММ, 87: 59 (1999).",
+				"tr":  "A. V. Dobramyslov, R. V. Churbachev, V. A. El'kin, FMM, 87: 59 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Foct, A. Kozlov, A. Perekos, and R. S. Figuliredo, Металлофиз. новейшие технол., 23: спец. вып.: 211 (2001).",
+				"tr":  "J. Foct, A. Kozlov, A. Perekos, and R. S. Figuliredo, Metallofiz. noveyshie tekhnol., 23: spets. No.: 211 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Kozlov, A.Perekos, V. Zalutskii, and A. Ustinov, Металлофиз. новейшие технол., 23: спец. вып.: 220 (2001).",
+				"tr":  "A. Kozlov, A.Perekos, V. Zalutskii, and A. Ustinov, Metallofiz. noveyshie tekhnol., 23: spets. No.: 220 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Прокопенко, К. В. Чуистов, А. В. Козлов и др., Металлофиз. новейшие технол., 25, № 2: 171 (2003).",
+				"tr":  "G. I. Prokopenko, K. V. Chuistov, A. V. Kozlov et al., Metallofiz. noveyshie tekhnol., 25, No. 2: 171 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "В. К. Аксенов, И. А. Гиндин, Е. И. Друинский и др., ФНТ, 3, № 7: 248 (1980).",
+				"tr":  "V. K. Aksenov, I. A. Gindin, E. I. Druinskiy et al., FNT, 3, No. 7: 248 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Полотнюк, Т. В. Ефимова, УФЖ, 26, № 7: 1149 (1981).",
+				"tr":  "V. V. Polotnyuk, T. V. Efimova, UFZh, 26, No. 7: 1149 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Белостроцкий, ФНТ, 6, № 2: 248 (1980).",
+				"tr":  "V. F. Belostrotskiy, FNT, 6, No. 2: 248 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Белостроцкий, Л. Г. Янко, Металлофизика, 6, № 1: 94 (1984).",
+				"tr":  "V. F. Belostrotskiy, L. G. Yanko, Metallofizika, 6, No. 1: 94 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Я. Дехтяр, Т. В. Дуброва, В. В. Полотнюк, Структура и свойства металлов и сплавов (Киев: Наук. думка: 1968).",
+				"tr":  "I. Ya. Dekhtyar, T. V. Dubrova, V. V. Polotnyuk, Struktura i svoystva metallov i splavov (Kiev: Nauk. dumka: 1968)."
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Чуистов, А. Е. Перекос, В. П. Залуцкий и др., Металлофиз. новейшие технол., 18, № 8: 18 (1995).",
+				"tr":  "K. V. Chuistov, A. E. Perekos, V. P. Zalutskiy et al., Metallofiz. noveyshie tekhnol., 18, No. 8: 18 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Залуцкий, Е. А. Клиндухов, Н. С. Кобзенко и др., Металлофизика, 13, № 2: 35(1991).",
+				"tr":  "V. P. Zalutskiy, E. A. Klindukhov, N. S. Kobzenko et al., Metallofizika, 13, No. 2: 35(1991)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Немошкаленко, В. Н. Уваров, А. Н. Яресько, Металлофиз. новейшие технол., 19, № 3: (1997).",
+				"tr":  "V. V. Nemoshkalenko, V. N. Uvarov, A. N. Yares'ko, Metallofiz. noveyshie tekhnol., 19, No. 3: (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Барабаш, Ю. Н. Коваль, Кристаллическая структура металлов и сплавов. Справочник: Структура и свойства металлов и сплавов (Киев: Наук. думка: 1986).",
+				"tr":  "O. M. Barabash, Yu. N. Koval', Kristallicheskaya struktura metallov i splavov. Spravochnik: Struktura i svoystva metallov i splavov (Kiev: Nauk. dumka: 1986)."
+			},
+			{
+				"doi": "10.1179/030634583790427649",
+				"or":  "P. Nash, D. R. F. West Metal. Sci., 17, No. 2: 99 (1983).",
+				"tr":  "P. Nash, D. R. F. West Metal. Sci., 17, No. 2: 99 (1983)."
+			},
+			{
+				"doi": "10.1016/0022-5088(61)90063-7",
+				"or":  "J. H. Auld and N. E Ryan, J. Less-Common Met., 3: 221 (1961).",
+				"tr":  "J. H. Auld and N. E Ryan, J. Less-Common Met., 3: 221 (1961)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Трубачев. Структурные и фазовые превращения в тонких слоях ультрадисперсных частиц никеля и тантала, полученных со сверхвысокими скоростями охлаждения (Автореферат канд. дис.) (Киев: Ин-т металлофизики АН Украины: 1992).",
+				"tr":  "V. G. Trubachev. Strukturnye i fazovye prevrashcheniya v tonkikh sloyakh ul'tradispersnykh chastits nikelya i tantala, poluchennykh so sverkhvysokimi skorostyami okhlazhdeniya (Avtoreferat kand. dis.) (Kiev: In-t metallofiziki AN Ukrainy: 1992)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. М. Тготтер, В мире науки, № 9: 50 (1988).",
+				"tr":  "D. M. Tgotter, V mire nauki, No. 9: 50 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Ш. Норматов, Н. Шерматов, У. Мирсаидов, Р. Н. Имомов, Неорг. материалы, 37, № 10: 1180 (2001).",
+				"tr":  "I. Sh. Normatov, N. Shermatov, U. Mirsaidov, R. N. Imomov, Neorg. materialy, 37, No. 10: 1180 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Ильин, А. А. Громов, Д. В. Тихонов, Перспективные материалы, № 2: 95 (2003).",
+				"tr":  "A. P. Il'in, A. A. Gromov, D. V. Tikhonov, Perspektivnye materialy, No. 2: 95 (2003)."
+			}
+		]
+	}
+}

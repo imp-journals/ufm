@@ -1,0 +1,35 @@
+{
+	"year":   2009,
+	"volume": 10,
+	"issue":  2,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [131,205],
+			"title": {
+				"ua": "Електроопір та магнетоопір аморфних металевих сплавів на основі заліза та кобальту",
+				"en": "Electrical Resistance and Magnetoresistance of Amorphous Metallic Alloys Based on Iron and Cobalt",
+				"ru": "Электросопротивление и магнитосопротивление аморфных металлических сплавов на основе железа и кобальта"
+			},
+			"autors": {
+				"ua": "М. П. Семенько, М. І. Захаренко, Ю. А. Куницький, В. А. Макара, А. П. Шпак",
+				"en": "М. P. Semen’ko, М. І. Zakharenko, Yu. А. Kunitsky, V. А. Makara, and А. P. Shpak",
+				"ru": "Н. П. Семенько, М. И. Захаренко, Ю. А. Куницкий, В. А. Макара, А. П. Шпак"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [207,228],
+			"title": {
+				"ua": "Механічна стабільність — універсальна міра опору переходу в крихкий стан металу",
+				"en": "Mechanical Stability — Universal Measure of Resistance to Transition in a Brittle State of Metal",
+				"ru": "Механическая стабильность — универсальная мера сопротивления переходу в хрупкое состояние металла"
+			},
+			"autors": {
+				"ua": "С. О. Котречко, Ю. Я. Мєшков, А. В. Шіян",
+				"en": "S. O. Kotrechko, Yu. Ya. Meshkov, and A. V. Shiyan",
+				"ru": "С. А. Котречко, Ю. Я. Мешков, А. В. Шиян"
+			}
+		}
+	]
+}

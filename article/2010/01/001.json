@@ -1,0 +1,316 @@
+{
+	"_id":    "UFM.11.01.001",
+	"year":   2010,
+	"volume": 11,
+	"issue":  1,
+	"pages":  [1,17],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["16.10.2009"],
+	"PACS":   "07.85.Qe, 07.85.Tt, 41.50.+h, 61.05.cp, 68.37.Yz, 81.70.-q, 87.59.-e",
+	"title":   {
+		"ua": "Способи фокусування Рентґенового випромінення",
+		"en": "Techniques for X-Ray Focusing",
+		"ru": "Способы фокусировки рентгеновского излучения"
+	},
+	"abstract": {
+		"ua": "Розглянуто фізичні основи фокусування Рентґенового випромінення та технологічні вимоги до рентґенооптичних систем. Систематизовано дані про різні способи фокусування та аналізи Рентґенового випромінення, їх застосування, параметри існуючих і перспективних пристроїв. Проаналізовано переваги та недоліки існуючих методик.",
+		"en": "Physical grounds of X-ray focusing and technological requirements for X-ray optics system’ are considered. Data on various focusing methods and analyzing X-ray radiation, their using, available and prospective parameters of facilities are systematized. Advantages and disadvantages of available methods are analyzed.",
+		"ru": "Рассмотрены физические основы фокусировки рентгеновского излучения и технологические требования к рентгенооптическим системам. Систематизированы данные о различных способах фокусировки и анализа рентгеновского излучения, их применение, параметры существующих и перспективных установок. Проанализированы достоинства и недостатки существующих методик."
+	},
+	"keywords": {
+		"ua": "Рентґенове випромінення, рентґенооптична система",
+		"en": "X-ray radiation, X-ray optic system",
+		"ru": "рентгеновское излучение, рентгенооптическая система"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Ю. Сторіжко", "en": "V. Yu. Storizhko", "ru": "В. Е. Сторижко"},
+			"OID": [17]
+		},
+		{
+			"AID": {"ua": "М. В. Ільяшенко", "en": "M. V. Il’yashenko", "ru": "М. В. Ильяшенко"},
+			"OID": [17]
+		},
+		{
+			"AID": {"ua": "В. Б. Молодкін", "en": "V. B. Molodkin", "ru": "В. Б. Молодкин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. Ю. Гаєвський", "en": "O. Yu. Gayevsky", "ru": "А. Ю. Гаевский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Л. Денисенко", "en": "V. L. Denysenko", "ru": "В. Л. Денисенко"},
+			"OID": [17]
+		},
+		{
+			"AID": {"ua": "О. І. Денисенко", "en": "O. I. Denysenko", "ru": "О. И. Денисенко"},
+			"OID": [17]
+		},
+		{
+			"AID": {"ua": "С. О. Вершинський", "en": "S. O. Vershynsky", "ru": "С. А. Вершинский"},
+			"OID": [17]
+		}
+	],
+	"references": {
+		"count": 51,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Дж. Х. Андервуд, Д. Т. Аттвуд, УФН, 151, № 1: 105 (1987).",
+				"tr":  "Dzh. Kh. Andervud, D. T. Attvud, UFN, 151, No. 1: 105 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "М. И. Мазурицкий, Соросовский образовательный журнал, 7, № 10: 95 (2001).",
+				"tr":  "M. I. Mazuritskii, Sorosovskii obrazovatel'nyi zhurnal, 7, No. 10: 95 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Мишетт, Оптика мягкого рентгеновского излучения (Москва: Мир: 1989).",
+				"tr":  "A. Mishett, Optika myagkogo rentgenovskogo izlucheniya (Moskva: Mir: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Блохин, Методы рентгеноспектральных исследований. (Москва: Изд. физ.-мат. лит.: 1959).",
+				"tr":  "M. A. Blokhin, Metody rentgenospektral'nykh issledovanii. (Moskva: Izd. fiz.-mat. lit.: 1959)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Шмаль, Д. Рудольф, Рентгеновская оптика и микроскопия (Москва: Мир: 1987).",
+				"tr":  "G. Shmal', D. Rudol'f, Rentgenovskaya optika i mikroskopiya (Moskva: Mir: 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Джеймс, Оптические принципы дифракции рентгеновских лучей (Москва: Изд. иностр. лит.: 1950).",
+				"tr":  "R. Dzheims, Opticheskie printsipy difraktsii rentgenovskikh luchei (Moskva: Izd. inostr. lit.: 1950)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Чуриков, Письма в ЖТФ, 29, № 23: 75 (2003).",
+				"tr":  "V. A. Churikov, Pis'ma v ZhTF, 29, No. 23: 75 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Власов, Нейтроны (Москва: Наука: 1971).",
+				"tr":  "N. A. Vlasov, Neitrony (Moskva: Nauka: 1971)."
+			},
+			{
+				"doi": "10.3367/UFNr.0157.198903f.0529",
+				"or":  "В. А. Аркадьев, А. И. Коломийцев, М. А. Кумахов, И. Ю. Пономарев, И. А. Ходеев, Ю. П. Чертов, И. М. Шахпаронов, УФН, 157, № 3: 529 (1989).",
+				"tr":  "V. A. Arkad'ev, A. I. Kolomiitsev, M. A. Kumakhov, I. Yu. Ponomarev, I. A. Khodeev, Yu. P. Chertov, I. M. Shakhparonov, UFN, 157, No. 3: 529 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Кумахов, Излучение каналированых частиц в кристаллах (Москва: Энергоатомиздат: 1986).",
+				"tr":  "M. A. Kumakhov, Izluchenie kanalirovanykh chastits v kristallakh (Moskva: Energoatomizdat: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Р. Алимов, М. А. Кумахов, А. Т. Муминов, ЖТФ, 77, № 9: 123 (2007).",
+				"tr":  "G. R. Alimov, M. A. Kumakhov, A. T. Muminov, ZhTF, 77, No. 9: 123 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ю. Романов, Письма в ЖТФ, 32, № 4: 51 (2006).",
+				"tr":  "A. Yu. Romanov, Pis'ma v ZhTF, 32, No. 4: 51 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ю. Романов, Письма в ЖТФ, 30, № 23: 32 (2004).",
+				"tr":  "A. Yu. Romanov, Pis'ma v ZhTF, 30, No. 23: 32 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ю. Романов, Письма в ЖТФ, 31, № 5: 47 (2005).",
+				"tr":  "A. Yu. Romanov, Pis'ma v ZhTF, 31, No. 5: 47 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Д. Гелевер, А. Ю. Романов, Письма в ЖТФ, 31, № 5: 52 (2005).",
+				"tr":  "V. D. Gelever, A. Yu. Romanov, Pis'ma v ZhTF, 31, No. 5: 52 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ю. Романов, И. В. Дмитриев, А. Ю. Акулов, Инженерная физика, № 1: 43 (2004).",
+				"tr":  "A. Yu. Romanov, I. V. Dmitriev, A. Yu. Akulov, Inzhenernaya fizika, No. 1: 43 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Ненсель, Ф. Рёссигер, Электроника: НТБ, № 5: 50 (2001).",
+				"tr":  "B. Nensel', F. Ressiger, Elektronika: NTB, No. 5: 50 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Блохин, Физика рентгеновских лучей (Москва: ГИТТЛ: 1957).",
+				"tr":  "M. A. Blokhin, Fizika rentgenovskikh luchei (Moskva: GITTL: 1957)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Дудчик, Ф. Ф. Комаров, Я. А. Константинов, ЖТФ, 68, № 5: 90 (1998).",
+				"tr":  "Yu. I. Dudchik, F. F. Komarov, Ya. A. Konstantinov, ZhTF, 68, No. 5: 90 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Аристов и др., Поверхность. Рентген., синхротрон. и нейтрон. исслед., № 1: 13 (2001).",
+				"tr":  "V. V. Aristov et al., Poverkhnost'. Rentgen., sinkhrotron. i neitron. issled., No. 1: 13 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Snigirev et al., Proc. SPIE ‘Design and Microfabrication of Novel X-Ray Optics’ (Seattle: 2002), vol. 4783, p. 1.",
+				"tr":  "A. A. Snigirev et al., Proc. SPIE 'Design and Microfabrication of Novel X-Ray Optics' (Seattle: 2002), vol. 4783, p. 1."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Дудчик, Н.Н. Кольчевский, Ф.Ф. Комаров, Письма в ЖТФ, 24, № 24: 19 (1998).",
+				"tr":  "Yu. I. Dudchik, N.N. Kol'chevskii, F.F. Komarov, Pis'ma v ZhTF, 24, No. 24: 19 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Дудчик, Л. А. Власункова, Ф. Ф. Комаров, О. Л. Войтик, К. И. Делендик, А. А. Снигирев, И. И. Снигирева, М. В. Григорьев, 7-я междунар. конф. «Взаимодействие излучений с твердым телом» (Минск: 2007), с. 248.",
+				"tr":  "Yu. I. Dudchik, L. A. Vlasunkova, F. F. Komarov, O. L. Voitik, K. I. Delendik, A. A. Snigirev, I. I. Snigireva, M. V. Grigor'ev, 7-ya mezhdunar. konf. «Vzaimodeistvie izluchenii s tverdym telom» (Minsk: 2007), s. 248."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Куюмчан, В. Г. Кон, И. И. Снигирева, А. А. Снигирев, А. А. Исоян, С. М. Кузнецов, В. В. Аристов, Е. Шулаков, Поверхность. Рентген., синхротрон. и нейтрон. исслед., № 2: 29 (2006).",
+				"tr":  "A. V. Kuyumchan, V. G. Kon, I. I. Snigireva, A. A. Snigirev, A. A. Isoyan, S. M. Kuznetsov, V. V. Aristov, E. Shulakov, Poverkhnost'. Rentgen., sinkhrotron. i neitron. issled., No. 2: 29 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Kohn, I. Snigireva, A. Snigirev, Поверхность. Рентген., синхротрон. и нейтрон. исслед., № 1: 33 (2003).",
+				"tr":  "V. G. Kohn, I. Snigireva, A. Snigirev, Poverkhnost'. Rentgen., sinkhrotron. i neitron. issled., No. 1: 33 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Snigirev et al., Proc. SPIE ‘High Heat Flux and Synchrotron Radiation Beamlines’ (San Diego: 1997), vol. 3151, p. 164.",
+				"tr":  "A. A. Snigirev et al., Proc. SPIE 'High Heat Flux and Synchrotron Radiation Beamlines' (San Diego: 1997), vol. 3151, p. 164."
+			},
+			{
+				"doi": "10.1038/384049a0",
+				"or":  "A. Snigirev, V. Kohn, I. Snigireva, and B. Lengeler, Nature, No. 384: 49 (1996).",
+				"tr":  "A. Snigirev, V. Kohn, I. Snigireva, and B. Lengeler, Nature, No. 384: 49 (1996)."
+			},
+			{
+				"doi": "10.1016/S0168-9002(01)00556-3",
+				"or":  "I. Snigireva et al., Nucl. Instrum. Meth. Phys. Res. A, 467–468: 982 (2001).",
+				"tr":  "I. Snigireva et al., Nucl. Instrum. Meth. Phys. Res. A, 467–468: 982 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "I. Snigireva et al., Proc. SPIE ‘X-Ray Micro- and Nano-Focusing: Applications and Techniques II’ (San Diego: 2001), vol. 4499, p. 64.",
+				"tr":  "I. Snigireva et al., Proc. SPIE 'X-Ray Micro- and Nano-Focusing: Applications and Techniques II' (San Diego: 2001), vol. 4499, p. 64."
+			},
+			{
+				"doi": "10.1016/S0168-9002(01)00527-7",
+				"or":  "I. Snigireva, V. Kohn, and A. Snigirev, Nucl. Instrum. Meth. Phys. Res. A, 467–468: 925 (2001).",
+				"tr":  "I. Snigireva, V. Kohn, and A. Snigirev, Nucl. Instrum. Meth. Phys. Res. A, 467–468: 925 (2001)."
+			},
+			{
+				"doi": "10.1364/AO.37.000653",
+				"or":  "A. Snigirev et al., Appl. Opt., 37, No. 4: 653 (1998).",
+				"tr":  "A. Snigirev et al., Appl. Opt., 37, No. 4: 653 (1998)."
+			},
+			{
+				"doi": "10.3367/UFNr.0178.200801c.0061",
+				"or":  "В. В. Аристов, Л. Г. Шабельников, УФН, 178, № 1: 61 (2008).",
+				"tr":  "V. V. Aristov, L. G. Shabel'nikov, UFN, 178, No. 1: 61 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Аристов и др., Поверхность. Рентген., синхротрон. и нейтрон. исслед., № 1: 7 (1999).",
+				"tr":  "V. V. Aristov et al., Poverkhnost'. Rentgen., sinkhrotron. i neitron. issled., No. 1: 7 (1999)."
+			},
+			{
+				"doi": "10.1051/jp4:200300067",
+				"or":  "L. G. Shabel’nikov et al., J. Phys. IV, 104: 227 (2003).",
+				"tr":  "L. G. Shabel'nikov et al., J. Phys. IV, 104: 227 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Г. Шабельников, Материалы нац. совещ. «Рентгеновская оптика — 2002» (март 2002 г.) (Н. Новгород: Ин-т физики микроструктур РАН: 2002), с. 80.",
+				"tr":  "L. G. Shabel'nikov, Materialy nats. soveshch. «Rentgenovskaya optika — 2002» (mart 2002 g.) (N. Novgorod: In-t fiziki mikrostruktur RAN: 2002), s. 80."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Г. Шабельников, И. А. Щелоков, В. А. Юнкин, Ю. Н. Пальянов, А. Ф. Хохряков, Поверхность. Рентген., синхротрон. и нейтрон. исслед., № 1: 41 (2002).",
+				"tr":  "L. G. Shabel'nikov, I. A. Shchelokov, V. A. Yunkin, Yu. N. Pal'yanov, A. F. Khokhryakov, Poverkhnost'. Rentgen., sinkhrotron. i neitron. issled., No. 1: 41 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Аристов и др., Поверхность. Рентген., синхротрон. и нейтрон. исслед., № 1: 79 (1999).",
+				"tr":  "V. V. Aristov et al., Poverkhnost'. Rentgen., sinkhrotron. i neitron. issled., No. 1: 79 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Аристов, М. В. Григорьев, С. М. Кузнецов, Л. Г. Шабельников, Поверхность. Рентген., синхротрон. и нейтрон. исслед., № 1: 89 (2001).",
+				"tr":  "V. V. Aristov, M. V. Grigor'ev, S. M. Kuznetsov, L. G. Shabel'nikov, Poverkhnost'. Rentgen., sinkhrotron. i neitron. issled., No. 1: 89 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Аристов, Г. А. Павлов, Л. Г. Шабельников, Способ изготовления рентгеновских преломляющих линз (Патент РФ № 2298852. 10 мая 2007).",
+				"tr":  "V. V. Aristov, G. A. Pavlov, L. G. Shabel'nikov, Sposob izgotovleniya rentgenovskikh prelomlyayushchikh linz (Patent RF No. 2298852. 10 maya 2007)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Shabel’nikov et al., Proc. SPIE ‘Design and Microfabrication of Novel X-Ray Optics’ (Seattle: 2002), vol. 4783, p. 55.",
+				"tr":  "L. Shabel'nikov et al., Proc. SPIE 'Design and Microfabrication of Novel X-Ray Optics' (Seattle: 2002), vol. 4783, p. 55."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Г. Шабельников, Способ изготовления рентгеновских преломляющих линз профилем вращения (Патент № 2297681. 20 апреля 2007).",
+				"tr":  "L. G. Shabel'nikov, Sposob izgotovleniya rentgenovskikh prelomlyayushchikh linz profilem vrashcheniya (Patent No. 2297681. 20 aprelya 2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Чен, Письма в ЖТФ, 28, № 18: 29 (2002).",
+				"tr":  "T. Chen, Pis'ma v ZhTF, 28, No. 18: 29 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Чен, ЖТФ, 72, № 6: 5 (2002).",
+				"tr":  "T. Chen, ZhTF, 72, No. 6: 5 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Чен, Письма в ЖТФ, 28, № 6: 1 (2002).",
+				"tr":  "T. Chen, Pis'ma v ZhTF, 28, No. 6: 1 (2002)."
+			},
+			{
+				"doi": "10.1107/S0567739469001069",
+				"or":  "W. Hoppe, Acta Cryst., A25: 508 (1969).",
+				"tr":  "W. Hoppe, Acta Cryst., A25: 508 (1969)."
+			},
+			{
+				"doi": "10.1002/bbpc.19700741112",
+				"or":  "R. Hegerl and W. Hoppe, Ber. Bunsen-Ges, Phys. Chem. 74: 1148 (1970).",
+				"tr":  "R. Hegerl and W. Hoppe, Ber. Bunsen-Ges, Phys. Chem. 74: 1148 (1970)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.98.034801",
+				"or":  "J. M. Rodenburg et al., Phys. Rev. Lett., 98, No. 3 (2007).",
+				"tr":  "J. M. Rodenburg et al., Phys. Rev. Lett., 98, No. 3 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "I. Johnson et al., Phys. Rev. Lett., 100, No. 15 (2008).",
+				"tr":  "I. Johnson et al., Phys. Rev. Lett., 100, No. 15 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Турьянский, И. В. Пиршин, Приборы и техника эксперимента, № 5: 90 (2000).",
+				"tr":  "A. G. Tur'yanskii, I. V. Pirshin, Pribory i tekhnika eksperimenta, No. 5: 90 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.103.064801",
+				"or":  "A. Snigirev et al., Phys. Rev. Lett., 103, No. 6 (2009).",
+				"tr":  "A. Snigirev et al., Phys. Rev. Lett., 103, No. 6 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. К. Алиев, Г. Р. Алимов, А. Т. Муминов, Б. С. Османов, В. В. Скворцов, ЖТФ, 75, № 8: 90 (2005).",
+				"tr":  "F. K. Aliev, G. R. Alimov, A. T. Muminov, B. S. Osmanov, V. V. Skvortsov, ZhTF, 75, No. 8: 90 (2005)."
+			}
+		]
+	}
+}

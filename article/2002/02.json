@@ -1,0 +1,35 @@
+{
+	"year":   2002,
+	"volume": 3,
+	"issue":  2,
+	"toc": [
+		{
+			"type":    2,
+			"pages":  [107,109],
+			"title": {
+				"ua": "Пам'яті Володимира Володимировича Немошкаленка (26.03.1933–25.06.2002)",
+				"en": "In Memory of Volodymyr Volodymyrovych Nemoshkalenko (26.03.1933–25.06.2002)",
+				"ru": "Памяти Владимира Владимировича Немошкаленко (26.03.1933–25.06.2002)"
+			},
+			"autors": {
+				"ua": "Редакційна колеґія",
+				"en": "Editorial Board",
+				"ru": "Редакционная коллегия"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [111,236],
+			"title": {
+				"ua": "Прямі й непрямі методи аналізу міжатомної взаємодії та кінетики релаксації близького порядку в щільноупакованих твердих розчинах заміщення (втілення)",
+				"en": "Direct and Indirect Methods of the Analysis of Interatomic Interaction and Kinetics of a Relaxation of the Short-Range Order in Close-Packed Substitutional (Interstitial) Solid Solutions",
+				"ru": "Прямые и косвенные методы анализа межатомного взаимодействия и кинетики релаксации ближнего порядка в плотноупакованных твердых растворах замещения (внедрения)"
+			},
+			"autors": {
+				"ua": "В. А. Татаренко, Т. М. Радченко",
+				"en": "V. A. Tatarenko and T. M. Radchenko",
+				"ru": "В. А. Татаренко, Т. М. Радченко"
+			}
+		}
+	]
+}

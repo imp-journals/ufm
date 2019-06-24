@@ -1,0 +1,140 @@
+{
+	"_id":    "UFM.19.01.005",
+	"year":   2018,
+	"volume": 19,
+	"issue":  1,
+	"pages":  [5,24],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["07.11.2017", "12.03.2018"],
+	"PACS":   "68.37.Ps, 68.55.Nq, 68.60.Dv, 73.50.Lw, 82.80.Yc, 84.60.Rb, 85.80.Fi",
+	"title":   {
+		"ua": "Виготовлення нанорозмірних плівок на основі скутерудиту CoSb$_{3}$ для термоелектричних приладів",
+		"en": "Fabrication of Nanosize Films on the Base of Scutterudite CoSb$_{3}$ for Thermoelectric Devices",
+		"ru": "Изготовление наноразмерных плёнок на основе скуттерудита CoSb$_{3}$ для термоэлектрических приборов"
+	},
+	"abstract": {
+		"ua": "Роботу присвячено встановленню закономірностей термостимульованого формування фазового складу та структури плівок на основі скутерудиту CoSb$_{3}$, осаджених методом вакуумної конденсації, а також впливу чинника нанорозмірности на їхні термоелектричні властивості. Вивчено вплив температури підкладинки та фізико-технологічних параметрів (температура, тривалість, середовище) термічного оброблення на фазовий склад, структуру, рівень механічних напружень і термоелектричні властивості плівок CoSb$_{x}$ товщиною у 30 нм (1,8 $\\leq$ $x$ $\\leq$ 4,2; 65–81 ат.% Sb). Визначено, що зміна температури підкладинки при осадженні нанорозмірних плівок Co–Sb у концентраційному інтервалі 65–81 ат.% Sb уможливлює реґулювати структурний стан. При осадженні на підкладинки за кімнатної температури формується рентґеноаморфний стан з розширеною областю існування фази CoSb$_{3}$ 75–80 ат.% Sb після кристалізації при подальшому нагріванні. При збільшенні температури підкладинки до 200°C утворюється кристалічний стан, і закономірності формування фазового складу в плівках Co–Sb характеризуються послідовністю, яка аналогічна діяграмі фазової рівноваги станів для масивної системи Co–Sb з утворенням фази CoSb$_{3}$ при $\\approx$ 75 ат.% Sb. Встановлено, що плівки на основі CoSb$_{3}$ термічно стабільні до $\\approx$ 300°C. Термічне оброблення плівок Co–Sb з концентрацією Sb 65–81 ат.% як у вакуумі, так і в атмосфері азоту при температурах вище 300°C приводить до перебігу фазових перетворень і зміни структури за схемами: CoSb$_{3}$ + Sb $\\rightarrow$ CoSb$_{3}$ (при 300°C), CoSb$_{3}$ $\\rightarrow$ CoSb$_{3}$ + CoSb$_{2}$ (при 400–500°C), CoSb$_{2}$ $\\rightarrow$ CoSb$_{2}$ + CoSb (при 500–600°C) внаслідок зростаючої зі збільшенням температури відпалювання здатности атомів Sb до сублімації як з рентґеноаморфного або кристалічного станів, так і з антимонідів кобальту CoSb$_{2}$ і CoSb$_{3}$. Визначено, що наявність чинника нанорозмірности (однофазної кристалічної структури скутерудиту CoSb$_{3}$ з розширеною областю існування в плівці з підвищеною структурною дефектністю за рахунок сублімації сурми і зменшення розміру зерен) зумовлює підвищення коефіцієнта термоелектричної ефективности плівок Co–Sb у $\\approx$ 8 разів у порівнянні з масивним матеріялом. Це має практичну значимість при використанні цих матеріялів для забезпечення автономним живленням малопотужних електронних пристроїв і при створенні плівкових холодильників в елементній базі нанорозмірного діяпазону для комп’ютерної техніки та інфрачервоних давачів.",
+		"en": "The work is concerned with ascertainment of the regularities for thermostimulated formation of the phase composition and structure of CoSb$_{3}$-scutterudite-based films deposited by the vacuum condensation method as well as the effect of the nanoscale factor on their thermoelectric properties. The influence of the substrate temperature and physical-technological parameters of heat treatment (temperature, duration, environment) on the phase composition, structure, mechanical-stress level, and thermoelectric properties of the CoSb$_{x}$ (30 nm) (1.8 $\\leq$ $x$ $\\leq$ 4.2) (65–81 at.% Sb) films is studied. As determined, the change in the substrate temperature during the deposition of nanoscale Co–Sb films in the concentration range of 65–81 at.% Sb allows regulating the structural state. During the deposition on substrates at a room temperature, an X-ray amorphous state with an extended region for existence of the CoSb$_{3}$-type phase at 75–80 at.% Sb after crystallization and further heating is formed. When the substrate temperature increases up to 200°C, a crystalline state forms, and regularities of phase composition formation in Co–Sb films are characterized by a sequence, which is analogous to the phase equilibrium diagram for the bulk state of the Co–Sb system with the CoSb$_{3}$-type phase formation at $\\approx$ 75 at.% Sb. As found, films based on CoSb$_{3}$ are thermally stable up to $\\approx$ 300°C. Thermal treatment of Co–Sb films with an Sb concentration of 65–81 at.%, both in vacuum and under nitrogen, at the temperatures above 300°C, leads to the occurrence of phase transformations and a change in the structure according to the schemes: CoSb$_{3}$ + Sb $\\rightarrow$ CoSb$_{3}$ (at 300°C), CoSb$_{3}$ $\\rightarrow$ CoSb$_{3}$ + CoSb$_{2}$ (at 400–500°C), CoSb$_{2}$ $\\rightarrow$ CoSb$_{2}$ + CoSb (at 500–600°C) because Sb atoms get rise in an ability to sublimate from the X-ray amorphous or crystalline state and cobalt antimonides, CoSb$_{2}$ and CoSb$_{3}$, if annealing temperature increases. As determined, the presence of the nanoscale factor (i.e., the single-phase crystalline structure of CoSb$_{3}$ scutterudite with an extended area of existence in the film form with increased structural imperfection due to the sublimation of antimony and reduction in the grain size) causes an increase in the thermoelectric efficiency coefficient of Co–Sb films in $\\approx$ 8 times as compared to the bulk material. This has a practical importance when these materials are used for providing the autonomous power supply for low-power electronic devices and creating film coolers in the elemental base of the nanoscale range for computer equipment and infrared sensors.",
+		"ru": "Работа посвящена установлению закономерностей термостимулирован-ного формирования фазового состава и структуры плёнок на основе скуттерудита CoSb$_{3}$, осаждённых методом вакуумной конденсации, а также влияния фактора наноразмерности на их термоэлектрические свойства. Изучено влияние температуры подложки и физико-технологических параметров (температура, продолжительность, среда) термической обработки на фазовый состав, структуру, уровень механических напряжений и термоэлектрические свойства плёнок CoSb$_{x}$ толщиной 30 нм (1,8 $\\leq$ $x$ $\\leq$ 4,2; 65–81 ат.% Sb). Определено, что изменение температуры подложки при осаждении наноразмерных плёнок Co–Sb в концентрационном интервале 65–81 ат.% Sb позволяет регулировать структурное состояние. При осаждении на подложки при комнатной температуре формируется рентгеноаморфное состояние с расширенной областью существования фазы CoSb$_{3}$ 75–80 ат.% Sb после кристаллизации при дальнейшем нагреве. При увеличении температуры подложки до 200°C образуется кристаллическое состояние, и закономерности формирования фазового состава в плёнках Co–Sb характеризуются последовательностью, которая аналогична диаграмме фазового равновесия состояний для массивной системы Co–Sb с образованием фазы CoSb$_{3}$ при $\\approx$ 75 ат.% Sb. Установлено, что плёнки на основе CoSb$_{3}$ термически стабильны до $\\approx$ 300°C. Термическая обработка плёнок Co–Sb с концентрацией Sb 65–81 ат.% как в вакууме, так и в атмосфере азота при температурах выше 300°C приводит к протеканию фазовых превращений и изменению структуры по схемам: CoSb$_{3}$ + Sb $\\rightarrow$ CoSb$_{3}$ (при 300°C), CoSb$_{3}$ $\\rightarrow$ CoSb$_{3}$ + CoSb$_{2}$ (при 400–500°C), CoSb$_{2}$ $\\rightarrow$ CoSb$_{2}$ + CoSb (при 500–600°C) вследствие растущей с увеличением температуры отжига способности атомов Sb к сублимации как с рентгеноаморфного или кристаллического состояний, так и из антимонидов кобальта CoSb$_{2}$ и CoSb$_{3}$. Определено, что наличие фактора наноразмерности (однофазной кристаллической структуры скуттерудита CoSb$_{3}$ с расширенной областью существования в плёнке с повышенной структурной дефектностью за счёт сублимации сурьмы и уменьшения размера зёрен) обуславливает повышение коэффициента термоэлектрической эффективности плёнок Co–Sb в $\\approx$ 8 раз по сравнению с материалом в массивном состоянии. Это имеет практическую значимость при использовании этих материалов для обеспечения автономным питанием маломощных электронных устройств и при создании плёночных холодильников в элементной базе наноразмерного диапазона для компьютерной техники и инфракрасных датчиков."
+	},
+	"keywords": {
+		"ua": "нанорозмірна плівка, термічне оброблення, скутерудит CoSb$_{3}$, антимонід, коефіцієнт термоелектричної ефективности",
+		"en": "nanoscale film, heat treatment, CoSb$_{3}$ skutterudite, antimonide, thermoelectric efficiency coefficient",
+		"ru": "наноразмерная плёнка, термическая обработка, скуттерудит CoSb$_{3}$, антимонид, коэффициент термоэлектрической эффективности"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. М. Макогон", "en": "Yu. M. Makogon", "ru": "Ю. Н. Макогон"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "С. І. Сидоренко", "en": "S. I. Sidorenko", "ru": "С. И. Сидоренко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "Р. А. Шкарбань", "en": "R. A. Shkarban", "ru": "Р. А. Шкарбань"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 19,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "﻿A. F. Ioffe, Ehnergeticheskie Osnovy Termoelektricheskikh Batarey iz Poluprovodnikov [Energy Basis of Thermoelectric Semiconductor Batteries] (Moscow-Leningrad: AN SSSR.: 1950) (in Russian).",
+				"tr":  "A. F. Ioffe, Ehnergeticheskie Osnovy Termoelektricheskikh Batarey iz Poluprovodnikov [Energy Basis of Thermoelectric Semiconductor Batteries] (Moscow-Leningrad: AN SSSR.: 1950) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. O. Epreman, V. M. Arutyunyan, and A. I. Vaganyan, Alternative Energy and Ecology (ISJAEE), 25, No. 5: 7 (2005) (in Russian).",
+				"tr":  "A. O. Epreman, V. M. Arutyunyan, and A. I. Vaganyan, Alternative Energy and Ecology (ISJAEE), 25, No. 5: 7 (2005) (in Russian)."
+			},
+			{
+				"doi": "10.1070/RC2008v077n01ABEH003746",
+				"or":  "A. V. Shevelkov, Russ. Chem. Rev., 77, No. 1: 1 (2008).",
+				"tr":  "A. V. Shevelkov, Russ. Chem. Rev., 77, No. 1: 1 (2008)."
+			},
+			{
+				"doi": "10.1016/0022-3697(94)00166-9",
+				"or":  "M. Carle, P. Pierrat, C. Lahalle-Gravier, S. Scherrer, and H. Scherrer, J. Phys. Chem. Solids, 56: 201 (1995).",
+				"tr":  "M. Carle, P. Pierrat, C. Lahalle-Gravier, S. Scherrer, and H. Scherrer, J. Phys. Chem. Solids, 56: 201 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "G. A. Slack, New Materials and Performance Limits for Thermoelectric Cooling, CRC Handbook of Thermoelectrics (Ed. D. M. Rowe) (Boca Raton: CRC Press: 1995), p. 407.",
+				"tr":  "G. A. Slack, New Materials and Performance Limits for Thermoelectric Cooling, CRC Handbook of Thermoelectrics (Ed. D. M. Rowe) (Boca Raton: CRC Press: 1995), p. 407."
+			},
+			{
+				"doi": "",
+				"or":  "D. M. Freik, M. O. Galuschak, O. S. Krunutcky, and O. M. Matkivskiy, Physics and Chemistry of Solid State, 14, No. 2: 300 (2013) (in Ukrainian).",
+				"tr":  "D. M. Freik, M. O. Galuschak, O. S. Krunutcky, and O. M. Matkivskiy, Physics and Chemistry of Solid State, 14, No. 2: 300 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1063/1.2137463",
+				"or":  "X. J. Zheng, L. Zhu, and Y.-H. Zhou, Applied Phys. Lett., 87: 242101 (2005).",
+				"tr":  "X. J. Zheng, L. Zhu, and Y.-H. Zhou, Applied Phys. Lett., 87: 242101 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Sommerlatte, K. Nielsch, and H. Bottner, Physik Journal, 6, Nr. 5: 35 (2007) (in German).",
+				"tr":  "J. Sommerlatte, K. Nielsch, and H. Bottner, Physik Journal, 6, Nr. 5: 35 (2007) (in German)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2010.11.204",
+				"or":  "D. Zhao, Ch. Tian, Y. Liu, Ch. Zhan, and L. Chen, J. Alloys and Compounds, 509: 3166 (2011).",
+				"tr":  "D. Zhao, Ch. Tian, Y. Liu, Ch. Zhan, and L. Chen, J. Alloys and Compounds, 509: 3166 (2011)."
+			},
+			{
+				"doi": "10.15407/mfint.36.12.1621",
+				"or":  "Yu. N. Makogon, E. P. Pavlova, S. I. Sidorenko, D. Beke, A. Csik, and R. A. Shkarban, Metallofiz. Noveishie Tekhnol., 36, No. 12: 1621 (2014) (in Russian).",
+				"tr":  "Yu. N. Makogon, E. P. Pavlova, S. I. Sidorenko, D. Beke, A. Csik, and R. A. Shkarban, Metallofiz. Noveishie Tekhnol., 36, No. 12: 1621 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.39.05.0677",
+				"or":  "Yu. M. Makogon, S. I. Sidorenko, and R. A. Shkarban, Metallofiz. Noveishie Tekhnol., 39, No. 5: 677 (2017) (in Russian).",
+				"tr":  "Yu. M. Makogon, S. I. Sidorenko, and R. A. Shkarban, Metallofiz. Noveishie Tekhnol., 39, No. 5: 677 (2017) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. N. Makogon, S. I. Sidorenko, and R. A. Shkarban, Metaloznavstvo ta Obrobka Metaliv, No. 1 (77): 39 (2016) (in Ukrainian).",
+				"tr":  "Yu. N. Makogon, S. I. Sidorenko, and R. A. Shkarban, Metaloznavstvo ta Obrobka Metaliv, No. 1 (77): 39 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2014.11.057",
+				"or":  "M. V. Daniel, C. Brombacher, G. Beddies, N. Jöhrmann, M. Hietschold, D. C. Johnson, Z. Aabdin, N. Peranio, O. Eibl, and M. Albrecht, J. Alloys and Compounds, 624: 216 (2015).",
+				"tr":  "M. V. Daniel, C. Brombacher, G. Beddies, N. Jöhrmann, M. Hietschold, D. C. Johnson, Z. Aabdin, N. Peranio, O. Eibl, and M. Albrecht, J. Alloys and Compounds, 624: 216 (2015)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.91.085410",
+				"or":  "M. V. Daniel, L. Hammerschmidt, C. Schmidt, F. Timmermann, J. Franke, N. Jöhrmann, M. Hietschold, D. C. Johnson, B. Paulus, and M. Albrecht, Phys. Rev. B, 91: 085410 (2015).",
+				"tr":  "M. V. Daniel, L. Hammerschmidt, C. Schmidt, F. Timmermann, J. Franke, N. Jöhrmann, M. Hietschold, D. C. Johnson, B. Paulus, and M. Albrecht, Phys. Rev. B, 91: 085410 (2015)."
+			},
+			{
+				"doi": "10.1109/ICT.1999.843473",
+				"or":  "C. Caylor, A. M. Stacy, B. Bloom, R. Gronsky, T. Sands, W. W. Fuller-Mora, A. Ehrlich, D. Song, and G. Chen, IEEE 18th International Conference on Thermoelectrics (August 29–September 2, 1999), p. 657.",
+				"tr":  "C. Caylor, A. M. Stacy, B. Bloom, R. Gronsky, T. Sands, W. W. Fuller-Mora, A. Ehrlich, D. Song, and G. Chen, IEEE 18th International Conference on Thermoelectrics (August 29–September 2, 1999), p. 657."
+			},
+			{
+				"doi": "10.1103/PhysRevB.61.4608",
+				"or":  "N. R. Dilley, E. D. Bauer, M. B. Maple, S. Dordevic, D. N. Basov, F. Freibert, T. W. Darling, A. Migliori, B. C. Chakoumakos, and B. C. Sales, Phys. Rev. B, 61, No. 7: 4608 (2000).",
+				"tr":  "N. R. Dilley, E. D. Bauer, M. B. Maple, S. Dordevic, D. N. Basov, F. Freibert, T. W. Darling, A. Migliori, B. C. Chakoumakos, and B. C. Sales, Phys. Rev. B, 61, No. 7: 4608 (2000)."
+			},
+			{
+				"doi": "10.1063/1.1433911",
+				"or":  "G. A. Lamberton Jr., S. Bhattacharya, R. T. Littleton IV, M. A. Kaeser, R. H. Tedstrom, and T. M. Tritt, Appl. Phys. Lett., 80, No. 4: 598 (2002).",
+				"tr":  "G. A. Lamberton Jr., S. Bhattacharya, R. T. Littleton IV, M. A. Kaeser, R. H. Tedstrom, and T. M. Tritt, Appl. Phys. Lett., 80, No. 4: 598 (2002)."
+			},
+			{
+				"doi": "10.1063/1.2975184",
+				"or":  "J. Y. Peng, P. N. Alboni, J. He, B. Zhang, Z. Su, T. Holgate, N. Gothard, and T. M. Tritt, J. Appl. Phys., 104: 053710 (2008).",
+				"tr":  "J. Y. Peng, P. N. Alboni, J. He, B. Zhang, Z. Su, T. Holgate, N. Gothard, and T. M. Tritt, J. Appl. Phys., 104: 053710 (2008)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2010.09.207",
+				"or":  "A. Harnwunggmounga, K. Kurosakia, Y. Ohishia, H. Muta, and Sh. Yamanaka, J. Alloys and Compounds, 509: 1084 (2011).",
+				"tr":  "A. Harnwunggmounga, K. Kurosakia, Y. Ohishia, H. Muta, and Sh. Yamanaka, J. Alloys and Compounds, 509: 1084 (2011)."
+			}
+		]
+	}
+}

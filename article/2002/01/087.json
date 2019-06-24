@@ -1,0 +1,227 @@
+{
+	"_id":    "UFM.03.01.087",
+	"year":   2002,
+	"volume": 3,
+	"issue":  1,
+	"pages":  [87,106],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["04.03.2002"],
+	"PACS":   "61.43.Bn, 61.43.Dq, 61.43.Fs, 61.80.Az, 61.82.Bg",
+	"title":   {
+		"ua": "Будова та радіяційне пошкодження металічних стекол",
+		"en": "Structure and Radiation Damage of Metallic Glasses",
+		"ru": "Строение и радиационное повреждение металлических стёкол"
+	},
+	"abstract": {
+		"ua": "Розглянуто дві найбільш відомі моделі металевих стекол — модель випадкових щільних упаковок сфер та полікластерна модель. Порівняно особливості структурних дефектів стекол, що мають ту і іншу структуру. Стабільність, час життя, дифузійна довжина точкових дефектів у випадкових щільних упаковках та в полікластерах істотно відрізняються. Через це радіаційні ушкодження металевих стекол виявляються дуже чутливими до властивостей структури. Розвинуто опис релаксаційної кінетики опромінених металевих стекол для обох типів структури. Показано, що аналіз накопичення та еволюції радіаційних пошкоджень може стати ефективним засобом вивчення структури металевого скла.",
+		"en": "Two most known models of metallic-glass structure—the model of random closepacked spheres and the polycluster model—are considered. Peculiarities of the structure defects of glasses possessing these structures are compared. Stability, life time, diffusional length of the point defects of the dense random packing and polyclusters are essentially different. As a result, radiation damages of metallic glasses are very sensitive to the structure properties. Description of the relaxation kinetics of irradiated metallic glasses of both structure types is developed. As shown, analyses of the radiation-damage storing and evolution should be an effective tool of the metallic-glass structure investigation.",
+		"ru": "Рассмотрены две наиболее известные модели металлических стекол — модель случайных плотных упаковок сфер и поликластерная модель. Проведено сравнение особенностей структурных дефектов стекол, имеющих ту или иную структуру. Стабильность, время жизни, диффузионная длина пробега точечных дефектов в случайных плотных упаковках и поликластерах существенно отличаются. Поэтому радиационные повреждения металлических стекол оказываются весьма чувствительными к структурным свойствам. Развито описание релаксационной кинетики облученных металлических стекол для обоих типов структуры. Показано, что анализ процессов накопления и эволюции радиационных повреждений может стать эффективным средством изучения структуры металлического стекла."
+	},
+	"keywords": {
+		"ua": "металеві стекла, структурні дефекти, релаксаційна кінетика, радіаційні пошкодження",
+		"en": "metallic glasses, structure defects, relaxation kinetics, radiation damages",
+		"ru": "металлические стекла, структурные дефекты, релаксационная кинетики, радиационные повреждения"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. С. Бакай", "en": "A. S. Bakai", "ru": "А. С. Бакай"},
+			"OID": [3]
+		}
+	],
+	"references": {
+		"count": 38,
+				"list":  [
+			{
+				"doi": "",
+				"or":  "À. Ì. Ìànokhin, B. S. Mitin, and V. A. Vasilev, Amorphous Alloys (Moscow: Metallurgiya: 1984) (in Russian).",
+				"tr":  "A. M. Manokhin, B. S. Mitin, and V. A. Vasilev, Amorphous Alloys (Moscow: Metallurgiya: 1984) (in Russian)."
+			},
+			{
+				"doi": "10.1007/3-540-10440-2",
+				"or":  "Topics in Applied Physics, vol. 46: Glassy Metals I (Eds. H.-J. Guentherodt and H. Beck) (Heidelberg-Berlin: Springer-Verlag: 1981).",
+				"tr":  "Topics in Applied Physics, vol. 46: Glassy Metals I (Eds. H.-J. Guentherodt and H. Beck) (Heidelberg-Berlin: Springer-Verlag: 1981)."
+			},
+			{
+				"doi": "",
+				"or":  "Topics in Applied Physics, vol. 53: Glassy Metals I (Eds. H.-J. Guentherodt and H. Beck) (Heidelberg-Berlin: Springer-Verlag: 1983).",
+				"tr":  "Topics in Applied Physics, vol. 53: Glassy Metals I (Eds. H.-J. Guentherodt and H. Beck) (Heidelberg-Berlin: Springer-Verlag: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Suzuki, H. Fujimori, and K. Hashimotyo, Amorphous Metals (Moscow: Metallurgiya: 1987) (Russian translation).",
+				"tr":  "K. Suzuki, H. Fujimori, and K. Hashimotyo, Amorphous Metals (Moscow: Metallurgiya: 1987) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "A. S. Bakai, Polycluster Amorphous Solids (Moscow: Ehnergoatomizdat: 1987) (in Russian).",
+				"tr":  "A. S. Bakai, Polycluster Amorphous Solids (Moscow: Ehnergoatomizdat: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. S. Bakai, Applied Physics, vol. 72: Glassy Metals III (Eds. H. Beck and H.-J. Guentherodt) (Heidelberg-Berlin: Springer-Verlag: 1994), p. 208.",
+				"tr":  "A. S. Bakai, Applied Physics, vol. 72: Glassy Metals III (Eds. H. Beck and H.-J. Guentherodt) (Heidelberg-Berlin: Springer-Verlag: 1994), p. 208."
+			},
+			{
+				"doi": "10.1098/rspa.1964.0147",
+				"or":  "J. Bernal, Proc. Roy. Soc. A, 280: 299 (1964).",
+				"tr":  "J. Bernal, Proc. Roy. Soc. A, 280: 299 (1964)."
+			},
+			{
+				"doi": "",
+				"or":  "J. F. Voronoy and J. Reine, Angew. Math., 134: 198 (1908).",
+				"tr":  "J. F. Voronoy and J. Reine, Angew. Math., 134: 198 (1908)."
+			},
+			{
+				"doi": "",
+				"or":  "J. F. Voronoy, Collected Paperss (Kiev: Naukova Dumka: 1952), vol. 2 (in Russian).",
+				"tr":  "J. F. Voronoy, Collected Paperss (Kiev: Naukova Dumka: 1952), vol. 2 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "B. N. Delone, Uspekhi Mat. Nauk, Iss. 3: 3 (1937) (in Russian).",
+				"tr":  "B. N. Delone, Uspekhi Mat. Nauk, Iss. 3: 3 (1937) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0001-6160(72)90003-X",
+				"or":  "D. Polk, Acta Met., 20: 485 (1972).",
+				"tr":  "D. Polk, Acta Met., 20: 485 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Chaudkhary, S. Spaepen, and P. J. Steinhardt, Topics in Applied Physics, vol. 53: Glassy Metals I (Eds. H.-J. Guentherodt and H. Beck) (Heidelberg-Berlin: Springer-Verlag: 1983), chap. 5.",
+				"tr":  "P. Chaudkhary, S. Spaepen, and P. J. Steinhardt, Topics in Applied Physics, vol. 53: Glassy Metals I (Eds. H.-J. Guentherodt and H. Beck) (Heidelberg-Berlin: Springer-Verlag: 1983), chap. 5."
+			},
+			{
+				"doi": "10.1080/01418618008243894",
+				"or":  "T. Egami, K. Maeda, and V. Vitek, Phil. Mag. A, 41: 883 (1980).",
+				"tr":  "T. Egami, K. Maeda, and V. Vitek, Phil. Mag. A, 41: 883 (1980)."
+			},
+			{
+				"doi": "10.1080/01418618108239553",
+				"or":  "D. Srolovitz, K. Maeda, V. Vitek et al., Phil. Mag. A, 44: 847 (1981).",
+				"tr":  "D. Srolovitz, K. Maeda, V. Vitek et al., Phil. Mag. A, 44: 847 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "A. S. Bakai, Low Temp. Phys., 22, No. 8: 733 (1996); ibid., 24, No. 1: 3 (1998).",
+				"tr":  "A. S. Bakai, Low Temp. Phys., 22, No. 8: 733 (1996); ibid., 24, No. 1: 3 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "A. S. Bakai, Cond. Mat. Phys., 3: 675 (2000).",
+				"tr":  "A. S. Bakai, Cond. Mat. Phys., 3: 675 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "A. S. Bakai, Ukr. J. Phys., 45: 508 (2000).",
+				"tr":  "A. S. Bakai, Ukr. J. Phys., 45: 508 (2000)."
+			},
+			{
+				"doi": "10.1080/00018738200101438",
+				"or":  "R. G. Palmer, Adv. Phys., 31: 669 (1982).",
+				"tr":  "R. G. Palmer, Adv. Phys., 31: 669 (1982)."
+			},
+			{
+				"doi": "10.1016/0375-9601(81)90099-2",
+				"or":  "E. Cartier, F. Heinrich, and H. Guentherodt, Phys. Lett. A, 81: 393 (1981).",
+				"tr":  "E. Cartier, F. Heinrich, and H. Guentherodt, Phys. Lett. A, 81: 393 (1981)."
+			},
+			{
+				"doi": "10.1080/00337578208222786",
+				"or":  "P. Moser, P. Hautojarvi, and I. Ili-Kaupila, Rad. Eff., 62: 153 (1982).",
+				"tr":  "P. Moser, P. Hautojarvi, and I. Ili-Kaupila, Rad. Eff., 62: 153 (1982)."
+			},
+			{
+				"doi": "10.1080/00337578308219223",
+				"or":  "A. Audouard, P. Moser, and P. Hautojarvi, Rad. Eff., 70: 285 (1983).",
+				"tr":  "A. Audouard, P. Moser, and P. Hautojarvi, Rad. Eff., 70: 285 (1983)."
+			},
+			{
+				"doi": "10.1524/zpch.1988.156.Part_1.391",
+				"or":  "Y. Limoge, Z. Phys. Chem. Neue Folge, 156: 391 (1988).",
+				"tr":  "Y. Limoge, Z. Phys. Chem. Neue Folge, 156: 391 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "Y. Limoge, J. Non-Cryst. Solids, 117&118: 708 (1990).",
+				"tr":  "Y. Limoge, J. Non-Cryst. Solids, 117&118: 708 (1990)."
+			},
+			{
+				"doi": "10.1016/0022-3093(94)00506-0",
+				"or":  "A. S. Bakai, V. V. Kul’ko, I. M. Mikhailovskij, V. B. Rabukin, and O. A. Velikodnaya, J. Non-Cryst. Solids, 182: 135 (1995).",
+				"tr":  "A. S. Bakai, V. V. Kul'ko, I. M. Mikhailovskij, V. B. Rabukin, and O. A. Velikodnaya, J. Non-Cryst. Solids, 182: 135 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "A. S. Bakai, I. M. Mikhailovskij, T. I. Mazilova, and N. Wanderka, Low Temp. Phys., 27, No. 4: (2002).",
+				"tr":  "A. S. Bakai, I. M. Mikhailovskij, T. I. Mazilova, and N. Wanderka, Low Temp. Phys., 27, No. 4: (2002)."
+			},
+			{
+				"doi": "10.1080/00337578308219223",
+				"or":  "A. Audouard, J. Balogh, I. Dural, and J. C. Jonset, Rad. Eff., 70: 285 (1983).",
+				"tr":  "A. Audouard, J. Balogh, I. Dural, and J. C. Jonset, Rad. Eff., 70: 285 (1983)."
+			},
+			{
+				"doi": "10.1016/0001-6160(82)90169-9",
+				"or":  "S. Klaumumer and G. Schumacher, Acta Met., 30: 1493 (1982).",
+				"tr":  "S. Klaumumer and G. Schumacher, Acta Met., 30: 1493 (1982)."
+			},
+			{
+				"doi": "10.1016/0001-6160(77)90232-2",
+				"or":  "F. Spaepen, Acta. Met., 25: 407 (1976).",
+				"tr":  "F. Spaepen, Acta. Met., 25: 407 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "A. S. Bakai, Pis’ma ZhTF, 9: 1477 (1983) (in Russian).",
+				"tr":  "A. S. Bakai, Pis'ma ZhTF, 9: 1477 (1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. F. Zelenskij et al., Some Problems of Radiation Damage Physics (Kiev: Naukova Dumka: 1979) (in Russian).",
+				"tr":  "V. F. Zelenskij et al., Some Problems of Radiation Damage Physics (Kiev: Naukova Dumka: 1979) (in Russian)."
+			},
+			{
+				"doi": "10.1002/pssa.2210290246",
+				"or":  "Yu. V. Konobeev et al., Phys. Stat. Sol. A, 29: K121 (1975).",
+				"tr":  "Yu. V. Konobeev et al., Phys. Stat. Sol. A, 29: K121 (1975)."
+			},
+			{
+				"doi": "10.1080/00337577208232576",
+				"or":  "D. Norris, Rad. Eff., 15: 1 (1972).",
+				"tr":  "D. Norris, Rad. Eff., 15: 1 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "Ì. Kiritani, Vopr. At. Nauki Tekhn. Ser.: PRDRM, Iss. 1(29)–2(30): 74 (1984).",
+				"tr":  "Ì. Kiritani, Vopr. At. Nauki Tekhn. Ser.: PRDRM, Iss. 1(29)–2(30): 74 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "I. A. Naskidashvili et al., Vopr. At. Nauki Tekhn. Ser.: PRDRM, Iss. 1(39): 30 (1987).",
+				"tr":  "I. A. Naskidashvili et al., Vopr. At. Nauki Tekhn. Ser.: PRDRM, Iss. 1(39): 30 (1987)."
+			},
+			{
+				"doi": "10.1088/0305-4608/8/9/008",
+				"or":  "A. D. Marwick, J. Phys. F, 8: 1849 (1978).",
+				"tr":  "A. D. Marwick, J. Phys. F, 8: 1849 (1978)."
+			},
+			{
+				"doi": "10.1016/0022-3115(79)90596-8",
+				"or":  "H. Wiedersich, P. Okamoto, and N. Lam, J. Nucl. Mater., 83: 98 (1979).",
+				"tr":  "H. Wiedersich, P. Okamoto, and N. Lam, J. Nucl. Mater., 83: 98 (1979)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.21.2122",
+				"or":  "G. Martin, Phys. Rev. B, 21: 2122 (1980).",
+				"tr":  "G. Martin, Phys. Rev. B, 21: 2122 (1980)."
+			},
+			{
+				"doi": "10.1524/zpch.1988.157.Part_1.313",
+				"or":  "G. Schumacher, S. Klaumuenzer, W. Petry, G. Wallner, W. Weck, and U. Dedek, Z. Phys. Chemie Neue Folge, 157: 313 (1988).",
+				"tr":  "G. Schumacher, S. Klaumuenzer, W. Petry, G. Wallner, W. Weck, and U. Dedek, Z. Phys. Chemie Neue Folge, 157: 313 (1988)."
+			}
+		]
+	}
+}

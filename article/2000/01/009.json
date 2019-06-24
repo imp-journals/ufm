@@ -1,0 +1,330 @@
+{
+	"_id":    "UFM.01.01.009",
+	"year":   2000,
+	"volume": 1,
+	"issue":  1,
+	"pages":  [9,48],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["03.02.2000"],
+	"PACS":   "61.72.Bb, 61.72.Ff, 61.72.Lk, 62.20.Fe, 81.40.Lm",
+	"title":   {
+		"ua": "Аномалії у деформаційній поведінці інтерметаліда TiAl",
+		"en": "Anomalies in Deformation Behaviour of TiAl Intermetallic",
+		"ru": "Аномалии в деформационном поведении интерметаллида TiAl"
+	},
+	"abstract": {
+		"ua": "Запропоновано пояснення немонотонної температурної залежності межі плинності $\\sigma_{y}(T)$ в TiAl, де мають місце два екстремуми, в яких відбувається зміна характеру температурної залежності $\\sigma_{y}(T)$. Порівняння кривих $\\sigma_{y}(T)$ для TiAl та типових кривих для інших матеріалів (ОЦК металів, інтерметалідів типу Ni$_3$Al) дозволяє реконструювати форму потенціального рельєфу для дислокацій в TiAl. Форма одержаного рельєфу відтворює існування двох типів дислокаційних пасток (мілких та глибоких) та двох типів потенціальних бар’єрів: низьких та високих для захоплення дислокацій відповідно у випадках мілких та глибоких пасток. З урахуванням захоплення дислокацій у пастки та виходу з них вдалося описати характер деформаційної поведінки TiAl в усьому інтервалі температур. Отримано вирази, які дозволяють знайти екстремуми на кривій $\\sigma_{y}(T)$. Проаналізовано можливі типи залежності коефіцієнта зміцнення $\\theta(T)$ в області аномальної температурної залежності $\\sigma_{y}(T)$. Встановлено умови, за яких виникає аномальна температурна залежність $\\theta(T)$. Висловлено припущення, що форма потенціального рельєфу для дислокацій суттєво змінюється в деякій області поблизу мікротріщини. Захоплення дислокацій в глибокі пастки, яке стимулюється концентрацією напруги поблизу мікротріщини, та неможливість їм покинути ці пастки аж до відносно високих температур розглядається як можлива причина крихкості TiAl. Запропоновано модель, яка описує деформаційну поведінку інтерметалідів після деякої попередньої деформації. Ця модель дозволяє описати дві альтернативні можливості: виникнення або відсутність макрострибка напруги після вказаної деформації.",
+		"en": "An explanation was proposed for a nonmonotonic temperature dependence of the yield stress $\\sigma_{y}(T)$ in TiAl having two extrema where $\\sigma_{y}(T)$ changes its temperature behaviour. The comparison of $\\sigma_{y}(T)$ curves for TiAl and typical curves for other materials (b.c.c. metals, semiconductors, Ni$_3$Al-type intermetallics) allowed reconstructing the shape of the potential relief for dislocations in TiAl. The shape of the relief reflects existence of two types of dislocation traps (shallow and deep ones) and two types of potential barriers: low and high barriers for the capture of dislocations in shallow and deep traps respectively. The deformation behaviour of TiAl was described over the whole temperature interval allowing for the capture of dislocations in traps and their release therefrom. Expressions determining extremums of $\\sigma_{y}(T)$ were derived. Possible dependences of the work hardening rate $\\theta(T)$ in the region of the anomalous trend $\\sigma_{y}(T)$ were analysed. Conditions of the anomalous behaviour of $\\theta(T)$ were ascertained. It was proposed that the shape of the potential relief of a dislocation changed in the effective range of a microcrack. The capture of dislocations in deep traps, which is stimulated by concentration of stresses near a microcrack, and the inhibited release of dislocations from the traps up to relatively high temperatures are viewed as a possible cause of TiAl brittleness. A model of the deformation behaviour of intermetallics after prestraining was proposed. This model enables one to describe two alternatives: observation or absence of the stress macrojump after prestraining.",
+		"ru": "Предложено объяснение немонотонной температурной зависимости предела текучести $\\sigma_{y}(T)$ в TiAl, где имеются две экстремальные точки, в которых происходит смена характера температурной зависимости $\\sigma_{y}(T)$. Сравнение кривых $\\sigma_{y}(T)$ для TiAl и типичных кривых для других материалов (ОЦК металлов, интерметаллидов типа Ni$_3$Al) позволяет реконструировать форму потенциального рельефа для дислокаций в TiAl. Форма полученного рельефа отражает существование двух типов дислокационных ловушек (мелких и глубоких) и двух типов потенциальных барьеров: низких и высоких барьеров для захвата дислокаций в случаях мелких и глубоких ловушек соответственно. С учетом захвата дислокаций в ловушки и выхода из них удалось описать характер деформационного поведения TiAl во всем интервале температур. Получены выражения, которые определяют экстремальные точки на кривой $\\sigma_{y}(T)$. Проанализированы возможные виды зависимости коэффициента упрочнения $\\theta(T)$ в области аномальной температурной зависимости $\\sigma_{y}(T)$. Установлены условия, при которых возникает аномальная температурная зависимость $\\theta(T)$. Высказано предположение, что форма потенциального рельефа для дислокаций существенно меняется в некоторой области вблизи микротрещины. Захват дислокаций в глубокие ловушки, который стимулируется концентрацией напряжения вблизи микротрещины, и невозможность им покинуть ловушки вплоть до относительно высоких температур рассматривается как возможная причина хрупкости TiAl. Предложена модель, которая описывает деформационное поведение интерметаллидов после некоторой предварительной деформации. Эта модель позволяет описать две альтернативные возможности: наблюдение или отсутствие макроскачка напряжения после указанной деформации."
+	},
+	"keywords": {
+		"ua": "TiAl, механічні властивосі, межа плинності, швидкість деформаційного зміцнення, аномалія напруження пластичної плинності, крихкість, мікроструктура, дислокація, рельєф Пайерлса, термічно активоване блокування",
+		"en": "TiAl, mechanical properties, yield stress, work hardening rate, flow stress anomaly, brittleness, microstructure, dislocation, Peierls relief, thermally activated blocking",
+		"ru": "TiAl, механические свойства, предел текучести, скорость деформационного упрочнения, аномалия напряжения пластического течения, хрупкость, микроструктура, дислокация, рельеф Пайерлса, термически активированная блокировка"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Б. A. Грінберг", "en": "B. A. Greenberg", "ru": "Б. A. Гринберг"},
+			"OID": [419]
+		},
+		{
+			"AID": {"ua": "M. О. Іванов", "en": "M. A. Ivanov", "ru": "M. A. Иванов"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.14.02.107",
+				"cit": "B. A. Greenberg, M. O. Ivanov, O. V. Antonova, A. M. Patselov <i>et al.</i>, <a href=\"https://doi.org/10.15407/ufm.14.02.107\">Usp. Fiz. Met. <b>14</b>, 107 (2013)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 56,
+		"list":  [
+			{
+				"doi": "10.1179/imr.1984.29.1.136",
+				"or":  "D. P. Pope and S. S. Ezz, Int. Metall. Rev., 29: 136 (1984).",
+				"tr":  "D. P. Pope and S. S. Ezz, Int. Metall. Rev., 29: 136 (1984)."
+			},
+			{
+				"doi": "10.2355/isijinternational.29.1",
+				"or":  "T. Suzuki, Y. Mishima, and S. Miura, ISIJ International, 29: 1 (1989).",
+				"tr":  "T. Suzuki, Y. Mishima, and S. Miura, ISIJ International, 29: 1 (1989)."
+			},
+			{
+				"doi": "10.1007/BF03161822",
+				"or":  "H. A. Lipsitt, D. Schechtman, and R. E. Schafric, Metall. Trans. A, 6: 1991 (1975).",
+				"tr":  "H. A. Lipsitt, D. Schechtman, and R. E. Schafric, Metall. Trans. A, 6: 1991 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "D. M. Dimiduk, Gamma Titanium Aluminides (Eds. Y.-W. Kim et al.) (Warren-dale, PA, USA: TMS: 1995), p. 3.",
+				"tr":  "D. M. Dimiduk, Gamma Titanium Aluminides (Eds. Y.-W. Kim et al.) (Warren-dale, PA, USA: TMS: 1995), p. 3."
+			},
+			{
+				"doi": "10.1016/0966-9795(96)00012-X",
+				"or":  "Y. Umakoshi, H. J. Yasuda, and T. Nakano, Intermetallics, 4 Supplement: p. S65 (1996).",
+				"tr":  "Y. Umakoshi, H. J. Yasuda, and T. Nakano, Intermetallics, 4 Supplement: p. S65 (1996)."
+			},
+			{
+				"doi": "10.1016/0001-6160(88)90141-1",
+				"or":  "D. Banerjee, A. K. Gogia, T. K. Nandi, and V. A. Joshi, Acta Met., 36: 871 (1988).",
+				"tr":  "D. Banerjee, A. K. Gogia, T. K. Nandi, and V. A. Joshi, Acta Met., 36: 871 (1988)."
+			},
+			{
+				"doi": "10.1080/01418619508243931",
+				"or":  "D. Banerjee, Phil. Mag. A, 72: 1559 (1995).",
+				"tr":  "D. Banerjee, Phil. Mag. A, 72: 1559 (1995)."
+			},
+			{
+				"doi": "10.1007/BF02652353",
+				"or":  "P. K. Sagar, D. Banerjee, K. Muraleedharan, and Y. U. R. K. Prasad, Met. Trans. A, 27: 2593 (1996).",
+				"tr":  "P. K. Sagar, D. Banerjee, K. Muraleedharan, and Y. U. R. K. Prasad, Met. Trans. A, 27: 2593 (1996)."
+			},
+			{
+				"doi": "10.1016/0001-6160(85)90245-7",
+				"or":  "T. Kawabata, T. Kanai, and O. Izumi, Acta Met., 33: 1355 (1985).",
+				"tr":  "T. Kawabata, T. Kanai, and O. Izumi, Acta Met., 33: 1355 (1985)."
+			},
+			{
+				"doi": "10.1016/0956-7151(90)90106-Q",
+				"or":  "T. Kawabata, T. Abumiya, T. Kanai, and O. Izumi, Acta Met. Mater., 38: 1381 (1990).",
+				"tr":  "T. Kawabata, T. Abumiya, T. Kanai, and O. Izumi, Acta Met. Mater., 38: 1381 (1990)."
+			},
+			{
+				"doi": "10.1080/01418619708205149",
+				"or":  "H. Inui, M. Matsumuro, D.-H. Wu, and M. Yamaguchi, Phil. Mag. A, 75: 395 (1997).",
+				"tr":  "H. Inui, M. Matsumuro, D.-H. Wu, and M. Yamaguchi, Phil. Mag. A, 75: 395 (1997)."
+			},
+			{
+				"doi": "10.1016/0921-5093(92)90220-U",
+				"or":  "B. A. Greenberg and M. A. Ivanov, Mat. Sci. Eng. A, 153: 356 (1992).",
+				"tr":  "B. A. Greenberg and M. A. Ivanov, Mat. Sci. Eng. A, 153: 356 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Ivanov, B. A. Greenberg, and T. O. Barabash, Phys. Met. Metallogr., 86: 240 (1998).",
+				"tr":  "M. A. Ivanov, B. A. Greenberg, and T. O. Barabash, Phys. Met. Metallogr., 86: 240 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Ivanov, B. A. Greenberg, and N. A. Kruglikov, Gamma Titanium Alu-minides (Eds. Y.-W. Kim et al.) (Warrendale, PA, USA: TMS: 1999), p. 256.",
+				"tr":  "M. A. Ivanov, B. A. Greenberg, and N. A. Kruglikov, Gamma Titanium Alu-minides (Eds. Y.-W. Kim et al.) (Warrendale, PA, USA: TMS: 1999), p. 256."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Ivanov, B. A. Greenberg, and N. A. Kruglikov, Phys. Met. Metallogr., 89: in press (2000).",
+				"tr":  "M. A. Ivanov, B. A. Greenberg, and N. A. Kruglikov, Phys. Met. Metallogr., 89: in press (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Trefilov, Yu. V. Mil’man, and S. A. Firstov, Physics of Refractory-Metals’ Strength (Kiev: Naukova Dumka: 1975) (in Russian).",
+				"tr":  "V. I. Trefilov, Yu. V. Mil'man, and S. A. Firstov, Physics of Refractory-Metals' Strength (Kiev: Naukova Dumka: 1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Vitek and M. Yamaguchi, Interatomic Potentials and Crystalline Defects (Ed. J. K. Lee) (Warrendale, PA, USA: TMS-AIME Publ: 1981), p. 223.",
+				"tr":  "V. Vitek and M. Yamaguchi, Interatomic Potentials and Crystalline Defects (Ed. J. K. Lee) (Warrendale, PA, USA: TMS-AIME Publ: 1981), p. 223."
+			},
+			{
+				"doi": "",
+				"or":  "H. Alexander, Dislocations in Solids (Ed. F. R. N. Nabarro) (Amsterdam: Elsevier Sci. Publ: 1986), Vol. 7, p. 113.",
+				"tr":  "H. Alexander, Dislocations in Solids (Ed. F. R. N. Nabarro) (Amsterdam: Elsevier Sci. Publ: 1986), Vol. 7, p. 113."
+			},
+			{
+				"doi": "10.2355/isijinternational.31.1028",
+				"or":  "P. Veyssiere, ISIJ International, 31: 1028 (1991).",
+				"tr":  "P. Veyssiere, ISIJ International, 31: 1028 (1991)."
+			},
+			{
+				"doi": "10.1016/S0036-9748(88)80064-4",
+				"or":  "B. A. Greenberg, V. I. Anisimov, Yu. N. Gornostirev, and G. G. Taluts, Scripta metall., 22: 859 (1988).",
+				"tr":  "B. A. Greenberg, V. I. Anisimov, Yu. N. Gornostirev, and G. G. Taluts, Scripta metall., 22: 859 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Rao, C. Woodward, J. Simmons, and D. M. Dimiduk, High Temperature Or-dered Intermetallic Alloys VI: MRS Symp. Proc. (1995), Vol. 364, p. 129.",
+				"tr":  "S. Rao, C. Woodward, J. Simmons, and D. M. Dimiduk, High Temperature Or-dered Intermetallic Alloys VI: MRS Symp. Proc. (1995), Vol. 364, p. 129."
+			},
+			{
+				"doi": "10.1080/01418618608242882",
+				"or":  "G. Hug, A. Loiseau, and A. Lasalmonie, Phil. Mag. A, 54: 47 (1986).",
+				"tr":  "G. Hug, A. Loiseau, and A. Lasalmonie, Phil. Mag. A, 54: 47 (1986)."
+			},
+			{
+				"doi": "10.1016/0001-6160(84)90019-1",
+				"or":  "D. M. Wee, D. P. Pope, and V. Vitek, Acta metall., 32: 829 (1984).",
+				"tr":  "D. M. Wee, D. P. Pope, and V. Vitek, Acta metall., 32: 829 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "B. A Greenberg and M. A. Ivanov, Gamma Titanium Aluminides (Eds. Y.-W. Kim et al.) (Warrendale, PA, USA: TMS: 1995), p. 299.",
+				"tr":  "B. A Greenberg and M. A. Ivanov, Gamma Titanium Aluminides (Eds. Y.-W. Kim et al.) (Warrendale, PA, USA: TMS: 1995), p. 299."
+			},
+			{
+				"doi": "",
+				"or":  "B. A Greenberg and M. A. Ivanov, Met. Phys. Adv. Tech., 16: 1159 (1997).",
+				"tr":  "B. A Greenberg and M. A. Ivanov, Met. Phys. Adv. Tech., 16: 1159 (1997)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(97)00671-0",
+				"or":  "B. A Greenberg and M. A. Ivanov, Mat. Sci. Eng. A, 239: 813 (1997).",
+				"tr":  "B. A Greenberg and M. A. Ivanov, Mat. Sci. Eng. A, 239: 813 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "B. A Greenberg and M. A. Ivanov, Phys. Met. Metallogr., 78: 247 (1994).",
+				"tr":  "B. A Greenberg and M. A. Ivanov, Phys. Met. Metallogr., 78: 247 (1994)."
+			},
+			{
+				"doi": "10.1080/01418618808204682",
+				"or":  "G. Hug, A. Loiseau, and P. Veyssiere, Phil. Mag. A, 57: 499 (1988).",
+				"tr":  "G. Hug, A. Loiseau, and P. Veyssiere, Phil. Mag. A, 57: 499 (1988)."
+			},
+			{
+				"doi": "10.1051/rphysap:01988002304067300",
+				"or":  "G. Hug, A. Loiseau, and P. Veyssiere, Revue Phys. Appl., 23: 673 (1988).",
+				"tr":  "G. Hug, A. Loiseau, and P. Veyssiere, Revue Phys. Appl., 23: 673 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "S. A. Court, V. K. Vasudevan, and H. L. Fraser, Phil. Mag. A, 61: 14 (1990).",
+				"tr":  "S. A. Court, V. K. Vasudevan, and H. L. Fraser, Phil. Mag. A, 61: 14 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "B. A. Greenberg, O. V. Antonova, V. N. Indenbaum, L. E. Karkina, A. B. Not-kin, M. V. Ponomarev, and L. V. Smirnov, Acta Metall. Mater., 39: 233; ibid., 243 (1991).",
+				"tr":  "B. A. Greenberg, O. V. Antonova, V. N. Indenbaum, L. E. Karkina, A. B. Not-kin, M. V. Ponomarev, and L. V. Smirnov, Acta Metall. Mater., 39: 233; ibid., 243 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "B. A. Greenberg, O. V. Antonova, L. E. Karkina, A. B. Notkin, and M. V. Po-noma¬rev, Acta Metall. Mater., 40: 815; ibid., 823 (1992).",
+				"tr":  "B. A. Greenberg, O. V. Antonova, L. E. Karkina, A. B. Notkin, and M. V. Po-noma¬rev, Acta Metall. Mater., 40: 815; ibid., 823 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Morris, Phil. Mag. A, 68: 237; ibid., 259 (1993).",
+				"tr":  "M. A. Morris, Phil. Mag. A, 68: 237; ibid., 259 (1993)."
+			},
+			{
+				"doi": "10.1080/01418619408242214",
+				"or":  "M. A. Morris, Phil. Mag. A, 69: 129 (1994).",
+				"tr":  "M. A. Morris, Phil. Mag. A, 69: 129 (1994)."
+			},
+			{
+				"doi": "10.1080/01418619508244375",
+				"or":  "B. Viguier, K. J. Hemker, J. Bonneville, F. Louchet, and J. L. Martin, Phil. Mag. A, 71: 1295 (1995).",
+				"tr":  "B. Viguier, K. J. Hemker, J. Bonneville, F. Louchet, and J. L. Martin, Phil. Mag. A, 71: 1295 (1995)."
+			},
+			{
+				"doi": "10.1080/01418619708200010",
+				"or":  "S. Sriram, D. M. Dimiduk, P. M. Hazzledine, and V. K. Vasudevan, Phil. Mag. A, 76: 965 (1997).",
+				"tr":  "S. Sriram, D. M. Dimiduk, P. M. Hazzledine, and V. K. Vasudevan, Phil. Mag. A, 76: 965 (1997)."
+			},
+			{
+				"doi": "10.1016/S0966-9795(99)00022-9",
+				"or":  "B. A. Greenberg, O. V. Antonova, and A. Yu. Volkov, Intermetallics, 7: 1219 (1999).",
+				"tr":  "B. A. Greenberg, O. V. Antonova, and A. Yu. Volkov, Intermetallics, 7: 1219 (1999)."
+			},
+			{
+				"doi": "10.1016/S0966-9795(96)00092-1",
+				"or":  "B. A. Greenberg, G. Hug, O. V. Antonova, T. S. Boyarshinova, Z. M. Pesina, I. N. Sachanskaya, and A. Yu. Volkov, Intermetallics, 5: 297 (1997).",
+				"tr":  "B. A. Greenberg, G. Hug, O. V. Antonova, T. S. Boyarshinova, Z. M. Pesina, I. N. Sachanskaya, and A. Yu. Volkov, Intermetallics, 5: 297 (1997)."
+			},
+			{
+				"doi": "10.1016/0036-9748(89)90434-1",
+				"or":  "V. K. Vasudevan, S. A. Court, P. Kurath, and H. L. Fraser, Scripta Met., 23: 467 (1989).",
+				"tr":  "V. K. Vasudevan, S. A. Court, P. Kurath, and H. L. Fraser, Scripta Met., 23: 467 (1989)."
+			},
+			{
+				"doi": "10.1007/BF02656810",
+				"or":  "S.-C. Huang and E. L. Hall, Metall. Trans. A, 22: 427 (1991).",
+				"tr":  "S.-C. Huang and E. L. Hall, Metall. Trans. A, 22: 427 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "R.M. Thomson, Phys. Metallurgy (Eds. R.W. Cahn and P. Haasen) (Elsevier Sci. Publ. BV: 1983), p. 1487.",
+				"tr":  "R.M. Thomson, Phys. Metallurgy (Eds. R.W. Cahn and P. Haasen) (Elsevier Sci. Publ. BV: 1983), p. 1487."
+			},
+			{
+				"doi": "",
+				"or":  "J. Di Persio and B. Escaig, Dislocations 1984 (Eds. P. Veyssiere et al.) (Paris, France: CNRS: 1984), p. 267.",
+				"tr":  "J. Di Persio and B. Escaig, Dislocations 1984 (Eds. P. Veyssiere et al.) (Paris, France: CNRS: 1984), p. 267."
+			},
+			{
+				"doi": "10.1080/09500839508240509",
+				"or":  "M. Dimiduk and T.A. Parthasarathy, Phil. Mag. Lett., 71: 21 (1995).",
+				"tr":  "M. Dimiduk and T.A. Parthasarathy, Phil. Mag. Lett., 71: 21 (1995)."
+			},
+			{
+				"doi": "10.1080/01418619608245142",
+				"or":  "X. Shi, G. Saada, and P. Veyssiere, Phil. Mag. A, 73: 1419 (1996).",
+				"tr":  "X. Shi, G. Saada, and P. Veyssiere, Phil. Mag. A, 73: 1419 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "N. D. Bakhteyeva, B. A. Greenberg, A. V. Nemchenko, and Yu. N. Akshentsev, Phys. Met. Metallogr., 85: 481 (1998).",
+				"tr":  "N. D. Bakhteyeva, B. A. Greenberg, A. V. Nemchenko, and Yu. N. Akshentsev, Phys. Met. Metallogr., 85: 481 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "S. J. Basinski and Z. S. Basinski, Dislocations in Solids: IV Dislocations in Metal-lurgy (Ed. F. R. N. Nabarro) (Amsterdam, North-Holland: 1979), Vol. 4, p. 261.",
+				"tr":  "S. J. Basinski and Z. S. Basinski, Dislocations in Solids: IV Dislocations in Metal-lurgy (Ed. F. R. N. Nabarro) (Amsterdam, North-Holland: 1979), Vol. 4, p. 261."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Stucke, D. M. Dimiduk, and P. M. Hazzledine, High Temperature Or-dered Intermetallic Alloys V: MRS Symp. Proc. (1993), Vol. 228, p. 471.",
+				"tr":  "M. A. Stucke, D. M. Dimiduk, and P. M. Hazzledine, High Temperature Or-dered Intermetallic Alloys V: MRS Symp. Proc. (1993), Vol. 228, p. 471."
+			},
+			{
+				"doi": "",
+				"or":  "R. Mahapatra, Y. T. Chou, and D. P. Pope, Mat. Sci. Eng. A, 239: 456 (1997).",
+				"tr":  "R. Mahapatra, Y. T. Chou, and D. P. Pope, Mat. Sci. Eng. A, 239: 456 (1997)."
+			},
+			{
+				"doi": "10.1080/01418619608243704",
+				"or":  "S. Ezz and P. B. Hirsch, Phil. Mag. A, 73: 1969 (1996).",
+				"tr":  "S. Ezz and P. B. Hirsch, Phil. Mag. A, 73: 1969 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "N. D. Bakhteyeva, B. A. Greenberg, A. V. Nemchenko, Yu. N. Akshentsev, M. A. Ivanov, and Eu. N. Khlystov, Izvestiya Akad. Sci., 63: 42 (1999).",
+				"tr":  "N. D. Bakhteyeva, B. A. Greenberg, A. V. Nemchenko, Yu. N. Akshentsev, M. A. Ivanov, and Eu. N. Khlystov, Izvestiya Akad. Sci., 63: 42 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "B. A. Greenberg, M. A. Ivanov, T. O. Barabash, and A. G. Blokhin, Phys. Met. Metallogr., 81: 374; ibid., 381 (1996).",
+				"tr":  "B. A. Greenberg, M. A. Ivanov, T. O. Barabash, and A. G. Blokhin, Phys. Met. Metallogr., 81: 374; ibid., 381 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "B. A. Greenberg and M. A. Ivanov, Met. Phys. Adv. Tech., 17: 973 (1999).",
+				"tr":  "B. A. Greenberg and M. A. Ivanov, Met. Phys. Adv. Tech., 17: 973 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "B. A. Greenberg and M. A. Ivanov, Phys. Met. Metallogr., 79: 1373 (1995).",
+				"tr":  "B. A. Greenberg and M. A. Ivanov, Phys. Met. Metallogr., 79: 1373 (1995)."
+			},
+			{
+				"doi": "10.1002/pssa.2210290232",
+				"or":  "A. E. Staton-Bevan and R. D. Rawlings, Phys. status solidi (a), 29: 613 (1975).",
+				"tr":  "A. E. Staton-Bevan and R. D. Rawlings, Phys. status solidi (a), 29: 613 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "B. A. Greenberg and M. A. Ivanov, Metallofiz. Noveishie Tekhnol., 21, No. 7: 55 (1999).",
+				"tr":  "B. A. Greenberg and M. A. Ivanov, Metallofiz. Noveishie Tekhnol., 21, No. 7: 55 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "B. A. Greenberg and M. A. Ivanov, Metallofiz. Noveishie Tekhnol., 21, No. 8: 3 (1999).",
+				"tr":  "B. A. Greenberg and M. A. Ivanov, Metallofiz. Noveishie Tekhnol., 21, No. 8: 3 (1999)."
+			}
+		]
+	}
+}

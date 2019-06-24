@@ -1,0 +1,148 @@
+{
+	"_id":    "UFM.15.01.035",
+	"year":   2014,
+	"volume": 15,
+	"issue":  1,
+	"pages":  [35,53],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["25.02.2014"],
+	"PACS":   "61.72.-y, 75.50.Vv, 75.50.Ww, 75.60.-d, 81.20.Ev, 81.40.Rs, 81.70.Jb",
+	"title":   {
+		"ua": "Властивості постійних магнетів системи Nd–Fe–B, леґованої Cu, Ti, C, одержаних порошковою методою або спіканням плівок за умов високого тиску",
+		"en": "Properties of Permanent Magnets of the Nd–Fe–B System Alloyed with Cu, Ti, C, Which Are Obtained by a Powder Method or Sintering of Films in High-Pressure Conditions",
+		"ru": "Свойства постоянных магнитов системы Nd–Fe–B, легированной Cu, Ti, C, полученных порошковым методом или спеканием плёнок в условиях высокого давления"
+	},
+	"abstract": {
+		"ua": "В огляді наведено дослідження, які вивчають вплив леґувальних елементів Cu, Ti та C на структуру та властивості постійних магнетів Nd–Fe–B, одержаних як порошковою методою, так і компактуванням продуктів гартування з рідкого стану. Мідь від 1 до 4 ат.% вводилася у стоп Nd$_{16}$Fe$_{76-х}$B$_{8}$Cu$_{х}$ ($х = 1–4$ ат.%). Коерцитивна сила $H_{ci}$ та потокозчеплення $W$ магнетів за збільшення вмісту міді до 2 ат.% зростають ($H_{ci}$ — до 1260 кА/м, $W$ — до 58,9 МВб); у той же час $B_{r}$ знижується від 1,25 Тл до 1,15 Тл. Порошки Cu, Ti та C змішували з порошками стопу Fe$_{76}$Nd$_{16}$B$_{8}$: 0,1– 0,2 ат.% вуглецю, 1,3 ат.% титану, 0,13 ат.% міді. Після спікання за 1373 К та відпалу за 923 К одержали анізотропні магнети з $H_{ci}$ від 1260 кА/м до 1465 кА/м. Стопи Nd$_{15,2}$Fe$_{75,4-х}$C$_{х}$B$_{6,7}$Cu$_{1,3}$Ті$_{1,3}$ ($х = 0,1–1,0$ ат.%) піддавалися гартуванню з рідкого стану. Одержані лусочки містять аморфну фазу та фази Nd$_{2}$Fe$_{14}$В і NdCu$_2$. Магнетопласти, виготовлені з використанням лусочок, мають $H_{ci}$ до 1400 кА/м при $B_{r} = 0,5$ Тл. Дослідили вплив зовнішнього тиску при спіканні на властивості компактів. Лусочки поміщали в прес-форму, стискали під пресом (0,5–12 МПа). За рахунок різниці коефіцієнтів лінійного розширення болтів і прес-форми створювався тиск на зразок, який, згідно з розрахунками, може сягати 0,9 ГПа при спіканні. Встановлено, що зниження температури спікання від 1323 К до 1013 К призводить до утворення нанорозмірних (< 0,05мкм) частинок фази NdCu$_{2}$, які гальмують зміщення меж доменів, і при цьому $H_{ci}$ компактів зростає від 200 до 1350 кА/м.",
+		"en": "The review presents a series of experimental investigations studying the influence of alloying Cu, C, Ti elements on structure, phase composition and magnetic properties of permanent Nd–Fe–B magnets, which are obtained by the powder method as well as using a compaction of the products quenched from a liquid state. The composition of alloy is Nd$_{16}$Fe$_{76-х}$B$_8$Cu$_х$ ($х = 1–4$ at.%). The coercive force $H_{ci}$ and flux linkage $W$ of magnets increase to 1260 kA/m and 58.9 mWb, respectively, as copper content increases up to 2 at.%. Within the same concentration range, from 1 to 4 at.% of cooper, $B_r$ gradually decreases from 1.25 T to 1.15 T. Then, at the stage of orientation and compaction, carbon, titanium, and copper powders are added into the powders of original Fe$_{76}$Nd$_{16}$B$_8$ alloy, namely, there are 0.1–0.2 at.% of C, 1.3 at.% of Ti, and 0.13 at.% of Cu. Due to mechanical mixing, compacting and sintering at 1373 K with the subsequent annealing at 923 K, the anisotropic magnets with $H_{ci}$ from 1260 kA/m to 1465 kA/m are obtained. In another method, the same alloys with addition of the C, Cu and Ti alloying elements, Nd$_{15,2}$Fe$_{75,4-х}$C$_х$B$_{6,7}$Cu$_{1,3}$Ті$_{1,3}$ ($х = 0,1–1,0$ at.%), are subjected to alloying after the quenching from the liquid state. The quenching products are used for the fabrication of bonded magnets. It turned out that bonded magnets possess significant coercivity up to 1400 kA/m at low $В_r = 0.5$ T. Then, to establish the influence of external pressure on structure and properties of sintered compacts, the films (flakes) are placed in a mould and compressed under the pressure of 0.5–12 MPa before sintering. The mould is fixed with bolts. In a compressed state, it is placed in a vacuum oven for sintering. Due to the difference of the coefficients of thermal expansion of bolts and the mould under the heating, the additional pressure on the sample is created and reaches 0.9 GPa, according to theoretical calculations. Decrease of the sintering temperature from 1323 K to 1013 K reduces the size of the NdCu$_2$-type phase. The nanoscale (< 0.05 microns) particles of the NdCu$_2$ phase are obtained. They prevent movement of the domain boundaries, which in turn increases the coercive force of sintered compacts from 200 to 1350 kA/m.",
+		"ru": "В обзоре приведён ряд исследований, изучающих влияние легирующих элементов Cu, Ti и C на структуру и свойства постоянных магнитов Nd–Fe–B, полученных как порошковым методом, так и компактированием продуктов закалки из жидкого состояния. Медь от 1 до 4 ат.% вводилась в сплав Nd$_{16}$Fe$_{76-х}$B$_8$Cu$_х$ ($х = 1–4$ ат.%). Коэрцитивная сила $H_{ci}$ и потокосцепление $W$ магнитов при увеличении содержания меди до 2 ат.% возрастают ($H_{ci}$ — до 1260 кА/м, $W$ — до 58,9 мВб); вместе с тем $B_r$ снижается от 1,25 Тл до 1,15 Тл. Порошки Cu, Ti и C смешивали с порошками сплава Fe$_{76}$Nd$_{16}$B$_8$: 0,1–0,2 ат.% углерода, 1,3 ат.% титана, 0,13 ат.% меди. После спекания при температуре 1373 К и отжига при 923 К были получены анизотропные магниты с $H_{ci}$ от 1260 кА/м до 1465 кА/м. Далее сплавы Nd$_{15,2}$Fe$_{75,4-х}$C$_х$B$_{6,7}$Cu$_{1,3}$Ті$_{1,3}$ ($х = 0,1–1,0$ ат.%) подвергались закалке из жидкого состояния. Полученные чешуйки содержат аморфную фазу, фазы Nd$_2$Fe$_{14}$В и NdCu$_2$. Магнитопласты, изготовленные с использованием чешуек, обладают $H_{ci}$ до 1400 кА/м при $B_r = 0,5$ Тл. Исследовали влияние внешнего давления при спекании на свойства компактов. Чешуйки помещали в пресс-форму, сжимали под прессом ($0,5–12$ МПа). За счёт разницы коэффициентов линейного расширения болтов и пресс-формы создавалось давление на образец, которое может достигать 0,9 ГПа при спекании. Установлено, что снижение температуры спекания от 1323 К до 1013 К приводит к образованию наноразмерных (< 0,05 мкм) частиц фазы NdCu$_2$, которые тормозят смещение границ доменов, и при этом $H_{ci}$ компактов возрастает от 200 до 1350 кА/м."
+	},
+	"keywords": {
+		"ua": "-",
+		"en": "microstructure, sintered compact, coercive force, residual induction, mechanical strain",
+		"ru": "микроструктура, спечённый компакт, коэрцитивная сила, остаточная индукция, механическое напряжение"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Г. П. Брехаря", "en": "G. P. Brekharya", "ru": "Г. П. Брехаря"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. А. Харитонова", "en": "O. A. Kharitonova", "ru": "Е. А. Харитонова"},
+			"OID": [229]
+		},
+		{
+			"AID": {"ua": "Т. В. Гуляєва", "en": "T. V. Gulyayeva", "ru": "Т. В. Гуляева"},
+			"OID": [220]
+		}
+	],
+	"cited_by": {
+		"count":  2,
+		"list":  [
+			{
+				"doi": "10.15407/mfint.37.04.0433",
+				"cit": "O. I. Mitsek and V. M. Pushkar, <a href=\"https://doi.org/10.15407/mfint.37.04.0433\">Metallofiz. Noveishie Tekhnol. <b>37</b>, 433 (2016)</a>."
+			},
+			{
+				"doi": "10.15407/mfint.39.04.0425",
+				"cit": "O. I. Mitsek and V. M. Pushkar, <a href=\"https://doi.org/10.15407/mfint.39.04.0425\">Metallofiz. Noveishie Tekhnol. <b>39</b>, 425 (2017)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 18,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Г. П. Брехаря, В. В. Савин, А. М. Бовда, В. А. Бовда, Л. В. Онищенко, Е. А. Харитонова, В. В. Выставкина, А. П. Шпак, Металлофиз. новейшие технол., 28, № 3: 383 (2006).",
+				"tr":  "G. P. Brekharya, V. V. Savin, A. M. Bovda, V. A. Bovda, L. V. Onishenko, E. A.Kharitonova, V. V. Vystavkina, and A. P. Shpak, Metallofizika i Noveishie Tekhnologii, 28, No. 3: 383 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Brekharya, V. Savin, A. Bovda, V. Bovda, and E. Kharitonova, 18th Workshop on High Performance Magnets & Their Applications (HPMA’04) (Annecy, France, 2004), vol. 1, р. 167.",
+				"tr":  "G. Brekharya, V. Savin, A. Bovda, V. Bovda, and E. Kharitonova, 18th Workshop on High Performance Magnets & Their Applications (HPMA'04) (Annecy, France, 2004), vol. 1, р. 167."
+			},
+			{
+				"doi": "",
+				"or":  "G. Brekharya, E. Kharitonova, A. Bovda, and V. Bovda, Proceedings of the 21st of the Workshop on Rare-Earth Permanent Magnets and Their Application (Bled, Slovenia, 2010), p. 236.",
+				"tr":  "G. Brekharya, E. Kharitonova, A. Bovda, and V. Bovda, Proceedings of the 21st of the Workshop on Rare-Earth Permanent Magnets and Their Application (Bled, Slovenia, 2010), p. 236."
+			},
+			{
+				"doi": "",
+				"or":  "Г. П. Брехаря, Т. В. Гуляєва, О. А. Харитонова, Т. І. Прибора, Нові матеріали і технології в металургії та машинобудуванні, № 1: 23 (2013).",
+				"tr":  "G. P. Brekharya, Т. V. Gulyayeva, O. A. Kharitonova, and Т. І. Pribora, Novi Materialy і Tekhnologii v Metalurgii ta Mashynobuduvanni, No. 1: 23 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. П. Брехаря, О. А. Харитонова, В. В. Виставкіна, Вісник Львівського університету, 39: 127 (2006).",
+				"tr":  "G. P. Brekharya, O. A.Kharitonova, and V. V. Vystavkina, Visnyk L'vivs'kogo Universytetu, 39: 127 (2006) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(01)00067-1",
+				"or":  "R. S. Mottram, A. J. Williams, and I. R. Harris, J. Magn. and Magn. Mater., 234: 80 (2001).",
+				"tr":  "R. S. Mottram, A. J. Williams, and I. R. Harris, J. Magn. and Magn. Mater., 234: 80 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. П. Брехаря, Е. А. Харитонова, Металлофиз. новейшие технол., 35, № 3: 367 (2013).",
+				"tr":  "G. P. Brekharya and E. A. Kharitonova, Metallofizika i Noveishie Tekhnologii, 35, No. 3: 367 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Диаграммы состояния двойных металлических систем: Справочник (ред. Н. П. Лякишев) (Москва: Машиностроение: 1996), т. 1; idem (Москва: Машиностроение: 1997), т. 2; idem (Москва: Машиностроение: 2000), т. 3.",
+				"tr":  "Diagrammy Sostoyaniya Dvoinykh Metallicheskikh Sistem: Spravochnik (Ed. N. P. Lyakishev) (Moscow: Mashinostroenie: 1996), vol. 1; idem (Moscow: Mashinostroenie: 1997), vol. 2; idem (Moscow: Mashinostroenie: 2000), vol. 3 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Савченко, В. П. Менушенков, А. С. Лилеев, Металлы, № 1: 108 (1996).",
+				"tr":  "А. G. Savchenko, V. P. Menushenkov, and А. S. Lileyev, Metally, No. 1: 108 (1996) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Справочник по авиационным материалам (Москва: ВИАМ: 1965), т. 1.",
+				"tr":  "Spravochnik po Aviatsionnym Materialam (Moscow: VIAM: 1965), vol. 1 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Ф. Верещагин, Твердое тело при высоком давлении (Москва: Наука: 1981).",
+				"tr":  "L. F. Vereshchagin, Tvyordoye Telo pri Vysokom Davlenii (Мoscow: Nauka: 1981) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0920-2307(86)90003-4",
+				"or":  "K. H. J. Buschow, New Permanent Magnet Materials (Amsterdam: North-Holland: 1986).",
+				"tr":  "K. H. J. Buschow, New Permanent Magnet Materials (Amsterdam: North-Holland: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Вонсовский, Магнетизм (Москва: Наука: 1971).",
+				"tr":  "S. V. Vonsovskiy, Magnetizm (Мoscow: Nauka: 1971) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. П. Брехаря, Т. В. Гуляєва, Т. В. Калниш, Вісник Дніпропетровського університету, сер. Фізика. Радіоелектроніка. Вип. 17, 18, № 2,: 92 (2010).",
+				"tr":  "G. P. Brekharya, Т. V. Gulyayeva, and T. V. Kalnysh, Visnyk Dnipropetrovskogo Universytetu. Fizyka. Radioelektronika. Vyp. 17, 18, No. 2: 92 (2010) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Хансен, К. Андерко, Структуры двойных сплавов (Москва: Металлургиздат: 1962), т. 2.",
+				"tr":  "М. Hansen and K. Anderko, Struktury Dvoynykh Splavov (Moscow: Metallurgizdat: 1962), vol. 2 (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "И. С. Мирошниченко, Закалка из жидкого состояния (Москва: Металлургия: 1982).",
+				"tr":  "I. S. Miroshnichenko, Zakalka iz Zhidkogo Sostoyaniya (Moscow: Metallurgiya: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Шьюмон, Дифузия в твердых телах (Москва: Металлургия: 1966).",
+				"tr":  "P. Shewmon, Diffuziya v Tvyordykh Telakh (Moscow: Metallurgiya: 1966) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Дуров, А. Е. Майер, Вестник Челябинского государственного университета. Физика. Вып. 12, № 39 (254): 48 (2011).",
+				"tr":  "А. Е. Durov and А. Е. Mayer, Vestnik Chelyabinskogo Gosudarstvennogo Universyteta. Fizika. Vyp. 12, No. 39 (254): 48 (2011) (in Russian)."
+			}
+		]
+	}
+}

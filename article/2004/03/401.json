@@ -1,0 +1,249 @@
+{
+	"_id":    "UFM.05.03.401",
+	"year":   2004,
+	"volume": 5,
+	"issue":  3,
+	"pages":  [401,432],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["05.12.2003"],
+	"PACS":   "61.10.Eq, 61.72.Cc, 61.72.Dd, 61.72.Hh, 72.15.Eb, 81.40.Ef",
+	"title":   {
+		"ua": "Вплив близького порядку на зміну залишкового електроопору в бінарних твердих розчинах",
+		"en": "Influence of the Short-Range Order on Change of Residual Electroresistance in Binary Solid Solutions",
+		"ru": "Влияние ближнего порядка на изменение остаточного электросопротивления в бинарных твердых растворах"
+	},
+	"abstract": {
+		"ua": "У роботі вивчено зміну залишкового електроопору при ізохронному та ізотермічному відпалі ненасичених твердих розчинів Cu—Al, Ag—Al, Fe—Al і Ni—Cr у широкій області концентрацій з різними вихідними станами (деформовані при 77 і 300 К, загартовані від різних температур та відпалені з повільним охолодженням). На зразках (сплави Cu—Al, Ag—Al і Fe—Al), що пройшли ту ж саму обробку, методом дифузного розсіяння Рентґенових променів вивчено зміну близького порядку. Показано, що залишковий електроопір і абсолютна інтенсивність розсіяння, а відповідно, і параметри близького порядку за Каулі при відпалі змінюються складним чином. Зроблено висновок про те, що близький порядок у вказаних твердих розчинах є неоднорідним. Зміна залишкового електроопору визначається не тільки ступенем близького порядку, але і його типом. Однозначна кореляція між залишковим електроопором і параметром близького порядку для першої координаційної сфери $\\alpha_{1}$ в широких концентраційній і температурній областях є відсутньою.",
+		"en": "The change of residual electrical resistance during isochronous and isothermal annealing of non-saturated solid solutions of Cu—Al, Ag—Al, Fe— Al, and Ni—Cr in a wide range of concentrations and with various initial states (deformed at 77 and 300 K, quenched from various temperatures, and annealed with a slow cooling) is studied in a given work. The investigation of short-range order is carried out for specimens of Cu—Al, Ag—Al, and Fe—Al alloys after same treatments by the method of X-ray diffuse scattering. As shown, the residual electrical resistance and absolute intensity of scattering, and hence, the Cowley’s short-range order parameters have the complicated change during an annealing. As suggested, the short-range order in these solid solutions is inhomogeneous. Not only the short-range order degree, but also its type determines the change of residual electrical resistance. The uniquely defined correlation between the residual electrical resistance and the short-range order parameter for the first co-ordination shell, $\\alpha_{1}$, is absent for wide ranges of temperature and concentration.",
+		"ru": "В работе изучено изменение остаточного электросопротивления при изохронном и изотермическом отжиге ненасыщенных твёрдых растворов Cu—Al, Ag—Al, Fe—Al и Ni—Cr в широкой области концентраций с различными исходными состояниями (деформированные при 77 и 300 К, закаленные от различных температур и отожженные с медленным охлаждением). На образцах (сплавы Cu—Al, Ag—Al и Fe—Al), прошедших ту же обработку, методом диффузного рассеяния рентгеновских лучей изучено изменение ближнего порядка. Показано, что остаточное электросопротивление и абсолютная интенсивность рассеяния, а следовательно, и параметры ближнего порядка Каули при отжиге изменяются сложным образом. Сделан вывод о том, что ближний порядок в указанных твердых растворах неоднороден. Изменение остаточного электросопротивления определяется не только степенью ближнего порядка, но и его типом. Однозначная корреляция между остаточным электросопротивлением и параметром ближнего порядка для первой координационной сферы $\\alpha_{1}$ в широких концентрационной и температурной областях отсутствует."
+	},
+	"keywords": {
+		"ua": "твердий розчин, близький порядок, залишковий електроопір, дифузне розсіяння Рентґенових променів",
+		"en": "solid solution, short-range order, residual resistance, X-ray diffuse scattering",
+		"ru": "твёрдый раствор, ближний порядок, остаточное электросопротивление, диффузное рассеяние рентгеновских лучей"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "П. В. Петренко", "en": "P. V. Petrenko", "ru": "П. В. Петренко"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "М. П. Куліш", "en": "M. P. Kulish", "ru": "Н. П. Кулиш"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "Н. О. Мельникова", "en": "N. O. Mel’nikova", "ru": "Н. А. Мельникова"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "Ю. Є. Грабовський", "en": "Yu. Ye. Grabovs’ky", "ru": "Ю. Е. Грабовский"},
+			"OID": [201]
+		}
+	],
+	"references": {
+		"count": 40,
+				"list":  [
+			{
+				"doi": "",
+				"or":  "W. Pfieler, Acta metallurg., 36, No. 9: 2417 (1988).",
+				"tr":  "W. Pfieler, Acta metallurg., 36, No. 9: 2417 (1988)."
+			},
+			{
+				"doi": "10.1088/0305-4608/10/1/015",
+				"or":  "R. Poerschke, U. Treis, and Н. Wollenberger, J. Phys. F: Metal Phys., 10, No. 1: 67 (1980).",
+				"tr":  "R. Poerschke, U. Treis, and N. Wollenberger, J. Phys. F: Metal Phys., 10, No. 1: 67 (1980)."
+			},
+			{
+				"doi": "10.1016/0001-6160(78)90215-8",
+				"or":  "Z. Trieb and G. Veith, Acta Metall., 26, No. 1: 185 (1978).",
+				"tr":  "Z. Trieb and G. Veith, Acta Metall., 26, No. 1: 185 (1978)."
+			},
+			{
+				"doi": "10.1016/0036-9748(82)90449-5",
+				"or":  "M. K. Sardar and K. P. Gupta, Scripta Metallurg., 16, No. 5Е: 1027 (1982).",
+				"tr":  "M. K. Sardar and K. P. Gupta, Scripta Metallurg., 16, No. 5E: 1027 (1982)."
+			},
+			{
+				"doi": "10.1107/S0567739478001424",
+				"or":  "J. E. Epperson, P. Fürnrohn, and C. Ortiz, Acta Crystallogr., A34, No. 5: 667 (1978).",
+				"tr":  "J. E. Epperson, P. Fürnrohn, and C. Ortiz, Acta Crystallogr., A34, No. 5: 667 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Панин, В. П. Фадин, Е. Ф. Дударев, ФММ, 13, № 6: 886 (1962).",
+				"tr":  "V. E. Panin, V. P. Fadin, E. F. Dudarev, FMM, 13, No. 6: 886 (1962)."
+			},
+			{
+				"doi": "10.1002/pssa.2210660143",
+				"or":  "J. M. Roland, X. Guillard, and S. K. Marya, Phys. Stat. Sol. A, 66, No. 1: 347 (1981).",
+				"tr":  "J. M. Roland, X. Guillard, and S. K. Marya, Phys. Stat. Sol. A, 66, No. 1: 347 (1981)."
+			},
+			{
+				"doi": "10.1002/pssa.2210640103",
+				"or":  "J. M. Roland, X. Guillard, and A. Moreau, Phys. Stat. Sol. A, 64, No. 1: 45 (1981).",
+				"tr":  "J. M. Roland, X. Guillard, and A. Moreau, Phys. Stat. Sol. A, 64, No. 1: 45 (1981)."
+			},
+			{
+				"doi": "10.1016/0001-6160(78)90022-6",
+				"or":  "W. Gaudig and H. Warlimont, Acta Metall., 26, No. 5: 709 (1978).",
+				"tr":  "W. Gaudig and H. Warlimont, Acta Metall., 26, No. 5: 709 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Панин, В. П. Фадин, Л. Ф. Соловьев, ФММ, 13, № 2: 219 (1962).",
+				"tr":  "V. E. Panin, V. P. Fadin, L. F. Solov'ev, FMM, 13, No. 2: 219 (1962)."
+			},
+			{
+				"doi": "10.1088/0953-8984/6/9/013",
+				"or":  "V. F. Los and S. P. Repetsky, J. Phys. Condens. Mater., 6: 1707 (1994).",
+				"tr":  "V. F. Los and S. P. Repetsky, J. Phys. Condens. Mater., 6: 1707 (1994)."
+			},
+			{
+				"doi": "10.1002/pssb.2221650111",
+				"or":  "N. P. Kulish, P. V. Petrenko, S. P. Repetskii, and T. D. Shatnii, Phys. Stat. Sol. B, 165, No. 2: 143 (1991).",
+				"tr":  "N. P. Kulish, P. V. Petrenko, S. P. Repetskii, and T. D. Shatnii, Phys. Stat. Sol. B, 165, No. 2: 143 (1991)."
+			},
+			{
+				"doi": "10.1002/pssb.2221000212",
+				"or":  "I. G. Batirev, A. A. Katsnelson, L. Kertesz, and A. Szasz, Phys. Stat. Sol. B, 100, No. 2: 479 (1980).",
+				"tr":  "I. G. Batirev, A. A. Katsnelson, L. Kertesz, and A. Szasz, Phys. Stat. Sol. B, 100, No. 2: 479 (1980)."
+			},
+			{
+				"doi": "10.1002/pssb.2221860216",
+				"or":  "P. V. Petrenko, Yu. E. Grabovskii, N. P. Kulish et al., Phys. Stat. Sol. B, 186, 465 (1994).",
+				"tr":  "P. V. Petrenko, Yu. E. Grabovskii, N. P. Kulish et al., Phys. Stat. Sol. B, 186, 465 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. М. Пакчанин, П. В. Петренко, Ю. Л. Пилипчук, ФММ, 60, № 4: 703 (1985).",
+				"tr":  "L. M. Pakchanin, P. V. Petrenko, Yu. L. Pilipchuk, FMM, 60, No. 4: 703 (1985)."
+			},
+			{
+				"doi": "10.1016/S0079-6425(99)00005-5",
+				"or":  "B. Schonfeld, Progr. Mater. Science, 44: 435 (1999).",
+				"tr":  "B. Schonfeld, Progr. Mater. Science, 44: 435 (1999)."
+			},
+			{
+				"doi": "10.1002/pssa.2211200203",
+				"or":  "N. P. Kulish and P. V. Petrenko, Phys. Stat. Sol. A, 120, 315 (1990).",
+				"tr":  "N. P. Kulish and P. V. Petrenko, Phys. Stat. Sol. A, 120, 315 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Зубченко, Н. П. Кулиш, П. В. Петренко и др., ФММ, 50, № 1: 113 (1980).",
+				"tr":  "V. S. Zubchenko, N. P. Kulish, P. V. Petrenko et al., FMM, 50, No. 1: 113 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "J. E. Epperson and J. E. Spruiell, J. Phys. Chem. Solids, 30, No. 7: 1734 (1969).",
+				"tr":  "J. E. Epperson and J. E. Spruiell, J. Phys. Chem. Solids, 30, No. 7: 1734 (1969)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.56.8535",
+				"or":  "S. Y. Yu, B. Schönfeld, and G. Kostorz, Phys. Rev. B, 56, No. 14: 8535 (1997).",
+				"tr":  "S. Y. Yu, B. Schönfeld, and G. Kostorz, Phys. Rev. B, 56, No. 14: 8535 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Мельникова, Л. М. Пакчанин, П. В. Петренко, Металлофизика, № 40: 78 (1979).",
+				"tr":  "N. A. Mel'nikova, L. M. Pakchanin, P. V. Petrenko, Metallofizika, No. 40: 78 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Куличенко, Н. А. Мельникова, П. В. Петренко, УФЖ, 24, № 9: 1382 (1979).",
+				"tr":  "V. P. Kulichenko, N. A. Mel'nikova, P. V. Petrenko, UFZh, 24, No. 9: 1382 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Зубченко, Н. П. Кулиш, П. В. Петренко, Металлофизика, 2, № 3: 75 (1980).",
+				"tr":  "V. S. Zubchenko, N. P. Kulish, P. V. Petrenko, Metallofizika, 2, No. 3: 75 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Зубченко, П. В. Петренко, А. А. Татаров, Изв. АН СССР. Металлы, № 6: 113 (1983).",
+				"tr":  "V. S. Zubchenko, P. V. Petrenko, A. A. Tatarov, Izv. AN SSSR. Metally, No. 6: 113 (1983)."
+			},
+			{
+				"doi": "10.1016/0022-3115(78)90313-6",
+				"or":  "Y. Tomokiyo, C. Kinoshita, and T. Equchi, J. Nucl. Mater., 69, No. 1–2: 683 (1978).",
+				"tr":  "Y. Tomokiyo, C. Kinoshita, and T. Equchi, J. Nucl. Mater., 69, No. 1–2: 683 (1978)."
+			},
+			{
+				"doi": "10.1002/pssb.19670190120",
+				"or":  "A. Van den Beukel, P. C. J. Coremans, and M. M. A. Vrijhoef, Phys. Stat. Sol., 19, No. 1: 177 (1967).",
+				"tr":  "A. Van den Beukel, P. C. J. Coremans, and M. M. A. Vrijhoef, Phys. Stat. Sol., 19, No. 1: 177 (1967)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Панин, В. П. Фадин, Л. Д. Кузнецова, ФММ, 19, № 2: 316 (1965).",
+				"tr":  "V. E. Panin, V. P. Fadin, L. D. Kuznetsova, FMM, 19, No. 2: 316 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Давидовский, Н. П. Кулиш, П. В. Петренко, С. П. Репецкий, ФММ, 41, № 3: 476 (1976).",
+				"tr":  "V. M. Davidovskiy, N. P. Kulish, P. V. Petrenko, S. P. Repetskiy, FMM, 41, No. 3: 476 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "П. В. Петренко, А. А. Татаров, ФММ, 56, № 3: 507 (1983).",
+				"tr":  "P. V. Petrenko, A. A. Tatarov, FMM, 56, No. 3: 507 (1983)."
+			},
+			{
+				"doi": "10.1143/JPSJ.35.618",
+				"or":  "Y. Tomokiyo, N. Kuwano, and T. Equchi, J. Phys. Soc. Jap., 35, No. 2: 618 (1973).",
+				"tr":  "Y. Tomokiyo, N. Kuwano, and T. Equchi, J. Phys. Soc. Jap., 35, No. 2: 618 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Е. Грабовский, В. М. Давидовский, Н. П. Кулиш и др., Металлофиз. новейшие технол., 19, № 12: 16 (1997).",
+				"tr":  "Yu. E. Grabovskiy, V. M. Davidovskiy, N. P. Kulish et al., Metallofiz. noveyshie tekhnol., 19, No. 12: 16 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "P. V. Petrenko, N. P. Kulish, N. A. Melnikova, and Yu. E. Grabovskii, Phys. Met. Metallogr., 85, No. 4: 423 (1998).",
+				"tr":  "P. V. Petrenko, N. P. Kulish, N. A. Melnikova, and Yu. E. Grabovskii, Phys. Met. Metallogr., 85, No. 4: 423 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. E. Grabovskii, N. P. Kulish, P. V. Petrenko, and S. P. Repetskii, Phys. Met. Metallogr., 74, No. 4: 367 (1992).",
+				"tr":  "Yu. E. Grabovskii, N. P. Kulish, P. V. Petrenko, and S. P. Repetskii, Phys. Met. Metallogr., 74, No. 4: 367 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Е. Грабовский, В. М. Давидовский, Н. П. Кулиш и др., Изв. АН СССР. Металлы, № 4: 176 (1987).",
+				"tr":  "Yu. E. Grabovskiy, V. M. Davidovskiy, N. P. Kulish et al., Izv. AN SSSR. Metally, No. 4: 176 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Gaudig and H. Warlimont, Z. Metallk., 60, No. 5: 488 (1969).",
+				"tr":  "W. Gaudig and H. Warlimont, Z. Metallk., 60, No. 5: 488 (1969)."
+			},
+			{
+				"doi": "10.1007/BF02403140",
+				"or":  "M. R. Nagy, G. H. Deaf, and R. Kamel, J. Mater. Sci., 19, No. 1: 311 (1984).",
+				"tr":  "M. R. Nagy, G. H. Deaf, and R. Kamel, J. Mater. Sci., 19, No. 1: 311 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Е. Грабовский, Н. П. Кулиш, П. В. Петренко и др., ФММ, № 6: 144 (1992).",
+				"tr":  "Yu. E. Grabovskiy, N. P. Kulish, P. V. Petrenko et al., FMM, No. 6: 144 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. П. Кулиш, Н. А. Мельникова, П. В. Петренко и др., ФММ, № 12: 81 (1990).",
+				"tr":  "N. P. Kulish, N. A. Mel'nikova, P. V. Petrenko et al., FMM, No. 12: 81 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Давидовский, Н. П. Кулиш, П. В. Петренко, С. П. Репецкий, ФММ, 47, № 3: 496 (1979).",
+				"tr":  "V. M. Davidovskiy, N. P. Kulish, P. V. Petrenko, S. P. Repetskiy, FMM, 47, No. 3: 496 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Зубченко, Н. П. Кулиш, П. В. Петренко, С. П. Репецкий, УФЖ, 25, № 4: 541 (1980).",
+				"tr":  "V. S. Zubchenko, N. P. Kulish, P. V. Petrenko, S. P. Repetskiy, UFZh, 25, No. 4: 541 (1980)."
+			}
+		]
+	}
+}

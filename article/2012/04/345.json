@@ -1,0 +1,159 @@
+{
+	"_id":    "UFM.13.04.345",
+	"year":   2012,
+	"volume": 13,
+	"issue":  4,
+	"pages":  [345,381],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["18.04.2012"],
+	"PACS":   "71.20.Be, 71.70.Gm, 75.10.Dg, 75.10.Lp, 75.30.Et, 75.30.Mb, 75.50.Bb",
+	"title":   {
+		"ua": "Квантово-статистичний модель електронно-йонної системи стопів Fe",
+		"en": "Quantum-Statistical Model of Electron–Ion System of Fe Alloys",
+		"ru": "Квантово-статистическая модель электронно-ионной системы сплавов Fe"
+	},
+	"abstract": {
+		"ua": "Кулонові діягональні та недіягональні (ковалентні) зв’язки створюють як молекулі, так і всі типи конденсованих середовищ (твердих тіл і т.п.). Але для металів характерні зонні зв’язки «вільних» електронів. Квантова статистика простежує наростаючу конкуренцію зв’язків зонних і ковалентних при «просуванні» вниз по таблиці Менделєєва: від майже чисто зонних (неперехідних) до перехідних металів і стопів зі змінним заповненням $nd$- ($n \\geq 3$) та $mf$- ($m \\geq 4$) йонних оболонок. Метода Боголюбових Ґрінових функцій у представленнях зонних ферміонів ($f_{r\\sigma}$) у вузлах $r$ зі спіном $\\sigma$ і багатоелектронних операторних спінорів (БЕОС) $D_{r}(S_{r}, L_{r})$ йонних оболонок зі спіном $S_{r}$ і орбітальним моментом $L_{r}$ дає спектри зонних ферміонів і флюктуації хемічних (ковалентних) зв’язків (ФХЗ). Порівнюються стопи майже зонні (як Cu–Ni) однофазні (ГЦК) і поліморфні (стопи Fe) з домінуванням ковалентних йонних і спінових (обмінних) зв’язків. Фур’є-розвинення БЕОС ($D_{k}$) і ферміонів $f_{k}$ виділяє з парних взаємодій гілки ФХЗ $E_{k}$, зонні $\\tilde{\\varepsilon_{k}}$ магнонні і т.д. Перетини з ФХЗ поблизу поверхонь Фермі $\\varepsilon_{F}(k_{F})$ призводять до аномалій і синґулярностей густини зонних станів DOS($E$). Звідси обчислюються дефекти пружніх модулів, інварність поблизу фазових переходів типу ОЦК–ГЦК. Тип магнетного порядку (феромагнетний (ФМ) або антиферомагнетний (АФМ), кластери і т.п.) визначається зв’язувальними чи антизв’язувальними ковалентними (та обмінними) взаємодіями. Зниження локальної симетрії при втіленні легких домішок (типу С) теорія описує формою піка внутрішнього тертя $Q^{-1}(T)$ як функції температури $Т$. Гібридизація $ms–nd$-електронів через ковалентні зв’язки Fe$^{57}$ виражає надтонкі поля (НТП) $H_{F}$ через середні спіни $S_{T}$ матриці металу, а ізомерний зсув (ІЗ) $\\gamma$-ліній $R_{c}$ — через ФХЗ як функцію $Т$ і концентрації стопу.",
+		"en": "Both molecules and all types of condensed matter (solids etc.) are created by means of the Coulomb diagonal and nondiagonal (covalent) bonds. However, the band bonds of free electrons are typical for metals. The quantum statistics describes increasing competition of the band and covalent bonds with a motion down the Mendeleev table: from almost band (nontransition) metals to transition metals and alloys with a changing filling of $nd$- ($n \\geq 3$) and $mf$- ($m \\geq 4$) ionic shells. The Bogolyubov’s Green functions’ method in the band fermions ($f_{r\\sigma}$) representations at the sites $r$ with the spin $\\sigma$ and in the representation of the many-electron operator spinors (MEOS) $D_{r}(S_{r}, L_{r})$ of ionic shells with the spin $S_{r}$ and orbital moment $L_{r}$ gives the spectra of band fermions and chemical (covalent) bonds’ fluctuations (CBF). Almost band (Cu–Ni like) one-phase (f.c.c.) alloys and polymorphic ones (Fe alloys) with dominating the covalent ionic and spin (exchange) bonds are compared. The Fourier expansion of MEOS ($D_{k}$) and fermions $f_{k}$ extracts the CBF branches $E_{k}$, band $\\tilde{\\varepsilon_{k}}$, magnon and other branches from pair interactions. Hence, the crossing whith CBF near the Fermi surfaces $\\varepsilon_{F}(k_{F})$ leads to the $\tilde{\\varepsilon_k}$ anomalies and density of states (DOS($E$)) singularities. The defects of elastic modulus, Invar effects near the b.c.c.–f.c.c. phase transitions are calculated. The magnetic order type (ferromagnetic (FM) or antiferromagnetic (AFM), clusters, etc.) is determined by bonding or antibonding covalent (and exchange) interactions. The theory describes the reduction of local symmetry at the introduction of light impurities (as C) by a form of the internal friction peak $Q^{-1}(T)$ as a function of temperature $T$. The hybridization of $ms–nd$-electrons through the Fe$^{57}$ covalent bonds expresses hyperfine fields $H_{F}$ through the mean spins $S_{T}$ of the metal matrix, and the isomeric displacement of $\\gamma$-lines $R_{c}$ through the CBF as a function of $T$ and alloy concentration.",
+		"ru": "Кулоновские диагональные и недиагональные (ковалентные) связи создают как молекулы, так и все типы конденсированных сред (твёрдых тел и т.п.). Однако для металлов характерны зонные связи «свободных» электронов. Квантовая статистика прослеживает нарастающую конкуренцию связей зонных и ковалентных при «движении» вниз по таблице Менделеева: от почти чисто зонных (непереходных) к переходным металлам и сплавам с изменяющимся заполнением $nd$- ($n \\geq 3$) и $mf$- ($m \\geq 4$) ионных оболочек. Метод боголюбовских функций Грина в представлениях зонных фермионов ($f_{r\\sigma}$) в узлах $r$ со спином $\\sigma$ и многоэлектронных операторных спиноров (МЭОС) $D_{r}(S_{r}, L_{r})$ ионных оболочек со спином $S_{r}$ и орбитальным моментом $L_{r}$ даёт спектры зонных фермионов и флуктуации химических (ковалентных) связей (ФХС). Сопоставляются сплавы почти зонные (как Cu–Ni) однофазные (ГЦК) и полиморфные (сплавы Fe) с доминированием ковалентных ионных и спиновых (обменных) связей. Фурье-разложение МЭОС ($D_{k}$) и фермионов $f_{k}$ выделяет из парных взаимодействий ветви ФХС $E_{k}$, зонные $\\tilde{\\varepsilon_{k}}$, магнонные и т.д. Пересечения с ФХС вблизи поверхностей Ферми $\\varepsilon_{F}(k_{F})$ приводят к аномалиям $\\tilde{\\varepsilon_k}$ и сингулярностям плотности зонных состояний DOS($E$). Отсюда вычисляются дефекты упругих модулей, инварность вблизи фазовых переходов типа ОЦК–ГЦК. Тип магнитного порядка (ферромагнитный (ФМ) или антиферромагнитный (АФМ), кластеры и т.п.) определяется связующими или антисвязующими ковалентными (и обменными) взаимодействиями. Понижение локальной симметрии при внедрении лёгких примесей (типа C) теория описывает формой пика (Ке) внутреннего трения $Q^{-1}(T)$ как функции температуры $T$. Гибридизация $ms–nd$-электронов через ковалентные связи Fe$^{57}$ выражает сверхтонкие поля (СТП) $H_{F}$ через средние спины $S_{T}$ матрицы металла, а изомерный сдвиг (ИС) $\\gamma$-линий $R_{c}$ — через ФХС как функцию $T$ и концентрации сплава."
+	},
+	"keywords": {
+		"ua": "конкуренція зонних і ковалентних зв'язків, дефекти пружніх модулів, ефект Ке, флюктуації хемічних зв'язків (ФХЗ), синґулярності зонного спектру, надтонкі поля (НТП), ізомерний зсув (ІЗ)",
+		"en": "competition of band and covalent bonds, defects of strain modulus, Ке effect, fluctuations of chemical bonds, singularity of band spectrum, hyperfine fields, isomer shift",
+		"ru": "конкуренция зонных и ковалентных связей, дефекты упругих модулей, эффект Ке, флуктуации химических связей (ФХС), сингулярности зонного спектра, сверхтонкие поля (СТП), изомерный сдвиг (ИС)"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Міцек", "en": "O. I. Mitsek", "ru": "А. И. Мицек"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  3,
+		"list":  [
+			{
+				"doi": "10.15407/mfint.37.04.0433",
+				"cit": "O. I. Mitsek and V. M. Pushkar, <a href=\"https://doi.org/10.15407/mfint.37.04.0433\">Metallofiz. Noveishie Tekhnol. <b>37</b>, 433 (2016)</a>."
+			},
+			{
+				"doi": "10.15407/mfint.36.01.0103",
+				"cit": "O. I. Mitsek and V. M. Pushkar, <a href=\"https://doi.org/10.15407/mfint.36.01.0103\">Metallofiz. Noveishie Tekhnol. <b>36</b>, 103 (2016)</a>."
+			},
+			{
+				"doi": "10.15407/mfint.37.01.0013",
+				"cit": "O. I. Mitsek and V. M. Pushkar, <a href=\"https://doi.org/10.15407/mfint.37.01.0013\">Metallofiz. Noveishie Tekhnol. <b>37</b>, 13 (2016)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 21,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, Успехи физики металлов, 6, № 3: 233 (2005).",
+				"tr":  "A. I. Mitsek, Uspekhi Fiziki Metallov, 6, No. 3: 233 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, В. Н. Пушкарь, Металлофиз. новейшие технол., 32, № 11: 1517 (2010).",
+				"tr":  "A. I. Mitsek, V. N. Pushkar', Metallofiz. Noveishie Tekhnol., 32, No. 11: 1517 (2010)."
+			},
+			{
+				"doi": "10.1007/978-3-642-58218-9",
+				"or":  "Magnetic Properties of Metals (Ed. H. P. J. Wijn) (Berlin: Springer-Verlag: 1991).",
+				"tr":  "Magnetic Properties of Metals (Ed. H. P. J. Wijn) (Berlin: Springer-Verlag: 1991)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, Металлофиз. новейшие технол., 25, № 1: 7 (2003).",
+				"tr":  "A. I. Mitsek, Metallofiz. Noveishie Tekhnol., 25, No. 1: 7 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Смарт, Эффективное поле в теории магнетизма (Москва: Мир: 1968).",
+				"tr":  "Dzh. Smart, Effektivnoe pole v teorii magnetizma (Moskva: Mir: 1968)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, В. Н. Пушкарь, Металлофиз. новейшие технол., 34, № 1: 1 (2012).",
+				"tr":  "A. I. Mitsek, V. N. Pushkar', Metallofiz. Noveishie Tekhnol., 34, No. 1: 1 (2012)."
+			},
+			{
+				"doi": "10.15407/ufm.11.01.061",
+				"or":  "А. И. Мицек, Успехи физики металлов, 11, № 1: 61 (2010).",
+				"tr":  "A. I. Mitsek, Uspekhi Fiziki Metallov, 11, No. 1: 61 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. И. Николин, Многослойные структуры и политипизм в металлических сплавах (Киев: Наукова думка: 1984).",
+				"tr":  "B. I. Nikolin, Mnogosloynye struktury i politipizm v metallicheskikh splavakh (Kiev: Naukova dumka: 1984)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ю. Гаевский, Металлофиз. новейшие технол., 28, № 2: 137 (2006).",
+				"tr":  "A. Yu. Gaevskiy, Metallofiz. Noveishie Tekhnol., 28, No. 2: 137 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, Фазовые переходы в кристаллах с магнитной структурой (Киев: Наукова думка: 1989).",
+				"tr":  "A. I. Mitsek, Fazovye perekhody v kristallakh s magnitnoy strukturoy (Kiev: Naukova dumka: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Вонсовский, Магнетизм (Москва: Наука: 1971).",
+				"tr":  "S. V. Vonsovskiy, Magnetizm (Moskva: Nauka: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. И. Кондорский, Зонная теория магнетизма (Москва: Издательство Московского университета: 1977).",
+				"tr":  "E. I. Kondorskiy, Zonnaya teoriya magnetizma (Moskva: Izdatel'stvo Moskovskogo universiteta: 1977)."
+			},
+			{
+				"doi": "",
+				"or":  "Эффект Мёссбауэра: Сб. статей (ред. Ю. Каган) (Москва: Издательство иностранной литературы: 1962).",
+				"tr":  "Effekt Messbauera: Sb. statey (red. Yu. Kagan) (Moskva: Izdatel'stvo inostrannoy literatury: 1962)."
+			},
+			{
+				"doi": "10.1016/0001-6160(79)90193-7",
+				"or":  "E. Gartstein and A.Rabinkin, Acta Metal., 27, No. 5: 1053 (1979).",
+				"tr":  "E. Gartstein and A.Rabinkin, Acta Metal., 27, No. 5: 1053 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, В. Н. Пушкарь, Металлофиз. новейшие технол., 30, № 12: 1591 (2008).",
+				"tr":  "A. I. Mitsek, V. N. Pushkar', Metallofiz. noveyshie tekhnol., 30, No. 12: 1591 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. П. Ирхин, В. Ю. Ирхин, Электронное строение и физические свойства переходных металлов (Свердловск: Изд-во Урал. гос. ун-та: 1989).",
+				"tr":  "Yu. P. Irkhin, V. Yu. Irkhin, Elektronnoe stroenie i fizicheskie svoystva perekhodnykh metallov (Sverdlovsk: Izd-vo Ural. gos. un-ta: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, В. Н. Пушкарь, Реальные кристаллы с магнитным порядком (Киев: Наукова думка: 1978).",
+				"tr":  "A. I. Mitsek, V. N. Pushkar', Real'nye kristally s magnitnym poryadkom (Kiev: Naukova dumka: 1978)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Шульце, Металлофизика (Москва: Мир: 1971).",
+				"tr":  "G. Shul'tse, Metallofizika (Moskva: Mir: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "Ке Тин-суй, Цзен Чи-цзян, ФММ, 4, № 2: 291 (1957).",
+				"tr":  "Ke Tin-suy, Tszen Chi-tszyan, FMM, 4, No. 2: 291 (1957)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Д. Вернер, ФТТ, 7, № 8: 2318 (1965).",
+				"tr":  "V. D. Verner, FTT, 7, No. 8: 2318 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Надутов, Т. В. Голуб, О. В. Хименюк, Металлофиз. новейшие технол., 29, № 12: 1621 (2007).",
+				"tr":  "V. M. Nadutov, T. V. Golub, O. V. Khimenyuk, Metallofiz. Noveishie Tekhnol., 29, No. 12: 1621 (2007)."
+			}
+		]
+	}
+}

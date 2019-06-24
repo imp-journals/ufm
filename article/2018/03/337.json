@@ -1,0 +1,479 @@
+{
+	"_id":    "UFM.19.03.337",
+	"year":   2018,
+	"volume": 19,
+	"issue":  3,
+	"pages":  [337,363],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["13.03.2018", "30.07.2018"],
+	"PACS":   "68.35.Fx, 68.37.Lp, 68.55.J-, 68.55.Nq, 75.20.En, 75.30.Gw, 75.50.Bb, 75.50.Ss, 75.50.Vv, 75.70.Ak, 81.15.-z, 81.40.Rs, 85.70.Kh",
+	"title":   {
+		"ua": "Матеріялознавчі аспекти формування тонких плівок на основі FePt",
+		"en": "Materials Science Aspects of FePt-Based Thin Films’ Formation",
+		"ru": "Материаловедческие аспекты формирования тонких плёнок на основе FePt"
+	},
+	"abstract": {
+		"ua": "Метою даного огляду є аналіза основних фізико-матеріялознавчих метод досягнення наперед заданих властивостей нанорозмірних плівкових матеріялів на основі FePt. Досягнення таких властивостей потрібне задля промислового використання даних матеріялів у якості середовища магнетного запису та зберігання інформації з надвисокою щільністю. Наведено результати досліджень, в яких розглядаються різноманітні підходи до вирішення таких завдань як зменшення температури впорядкування, формування потрібної кристалографічної орієнтації зерен впорядкованої фази, підвищення коерцитивної сили та забезпечення можливости контрольованої зміни намагнетованости даних матеріялів.",
+		"en": "The goal of this review is consideration of basic physical and materials science approaches for providing predefined properties of nanosize thin FePt-based films. Achievement of such properties is required for the industrial application of these materials as magnetic ultrahigh-density recording media. Various approaches are considered to solve the problems such as the reduction of the ordering temperature, formation of the requisite crystallographic orientation of the ordered-phase grains, increase of the coercivity, and providing of the possibility to control the change in the magnetization of these materials.",
+		"ru": "Целью данного обзора является рассмотрение основных физико-материаловедческих методов обеспечения наперёд заданных свойств наноразмерных плёночных материалов на основе FePt. Достижение таких свойств необходимо для промышленного использования данных материалов в качестве среды магнитной записи и хранения информации со сверхвысокой плотностью. Приведены результаты исследований, в которых рассмотрены различные подходы к решению таких задач как снижение температуры упорядочения, формирование необходимой кристаллографической ориентации зёрен упорядоченной фазы, повышение коэрцитивной силы и обеспечение возможности контролируемого изменения намагниченности данных материалов."
+	},
+	"keywords": {
+		"ua": "впорядкована фаза $L1_{0}$-FePt, фазові перетворення, тонкі плівки, магнетний запис",
+		"en": "ordered $L1_{0}$-FePt phase, phase transformations, thin films, magnetic recording",
+		"ru": "упорядоченная фаза $L1_{0}$-FePt, фазовые превращения, тонкие плёнки, магнитная запись"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. В. Шаміс", "en": "O. V. Shamis", "ru": "О. В. Шамис"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "І. А. Владимирський", "en": "I. A. Vladymyrskyi", "ru": "И. А. Владимирский"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "Ю. М. Макогон", "en": "Yu. M. Makogon", "ru": "Ю. Н. Макогон"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "С. І. Сидоренко", "en": "S. I. Sidorenko", "ru": "С. И. Сидоренко"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 86,
+		"list":  [
+			{
+				"doi": "10.1109/20.809134",
+				"or":  "D. Weller and A. Moser, IEEE Trans. Magn., 35, No. 6: 4423 (1999).",
+				"tr":  "D. Weller and A. Moser, IEEE Trans. Magn., 35, No. 6: 4423 (1999)."
+			},
+			{
+				"doi": "10.1109/LMAG.2017.2719625",
+				"or":  "Y. Jiao and R. H. Victora, IEEE Magn. Lett., 8: 7956162 (2017).",
+				"tr":  "Y. Jiao and R. H. Victora, IEEE Magn. Lett., 8: 7956162 (2017)."
+			},
+			{
+				"doi": "10.1063/1.113895",
+				"or":  "M. R. Visokay and R. Sinclair, Appl. Phys. Lett., 66, No. 13: 1692 (1995).",
+				"tr":  "M. R. Visokay and R. Sinclair, Appl. Phys. Lett., 66, No. 13: 1692 (1995)."
+			},
+			{
+				"doi": "10.1109/TMAG.2013.2242445",
+				"or":  "K. Barmak, B. Wang, A. T. Jesanis, D. C. Berry, and J. M. Rickman, IEEE Trans. Magn., 49, No. 7: 3284 (2013).",
+				"tr":  "K. Barmak, B. Wang, A. T. Jesanis, D. C. Berry, and J. M. Rickman, IEEE Trans. Magn., 49, No. 7: 3284 (2013)."
+			},
+			{
+				"doi": "10.1063/1.3592980",
+				"or":  "B. Wang and K. Barmak, J. Appl. Phys., 109, No. 12: 123916 (2011).",
+				"tr":  "B. Wang and K. Barmak, J. Appl. Phys., 109, No. 12: 123916 (2011)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/DDF.280-281.29",
+				"or":  "V. A. Tatarenko, S. M. Bokoch, V. M. Nadutov, T. M. Radchenko, and Y. B. Park, Defect and Diffusion Forum, 280–281: 29 (2008).",
+				"tr":  "V. A. Tatarenko, S. M. Bokoch, V. M. Nadutov, T. M. Radchenko, and Y. B. Park, Defect and Diffusion Forum, 280–281: 29 (2008)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/DDF.273-276.525",
+				"or":  "T. M. Radchenko and V. A. Tatarenko, Defect and Diffusion Forum, 273: 525 (2008).",
+				"tr":  "T. M. Radchenko and V. A. Tatarenko, Defect and Diffusion Forum, 273: 525 (2008)."
+			},
+			{
+				"doi": "10.1016/S0966-9795(03)00174-2",
+				"or":  "V. A. Tatarenko and T. M. Radchenko, Intermetallics, 11, Nos. 11–12: 1319 (2003).",
+				"tr":  "V. A. Tatarenko and T. M. Radchenko, Intermetallics, 11, Nos. 11–12: 1319 (2003)."
+			},
+			{
+				"doi": "10.1063/1.3679388",
+				"or":  "B. Wang and K. Barmak, J. Appl. Phys., 111, No. 7: 07B718 (2012).",
+				"tr":  "B. Wang and K. Barmak, J. Appl. Phys., 111, No. 7: 07B718 (2012)."
+			},
+			{
+				"doi": "10.1063/1.1667856",
+				"or":  "K. Barmak, J. Kim, and L. Lewis, J. Appl. Phys., 95, No. 11: 7501 (2004).",
+				"tr":  "K. Barmak, J. Kim, and L. Lewis, J. Appl. Phys., 95, No. 11: 7501 (2004)."
+			},
+			{
+				"doi": "10.1063/1.1555895",
+				"or":  "Y. K. Takahashi, T. Ohkubo, M. Ohnuma, and K. Hono, J. Appl. Phys., 93, No. 10: 7166 (2003).",
+				"tr":  "Y. K. Takahashi, T. Ohkubo, M. Ohnuma, and K. Hono, J. Appl. Phys., 93, No. 10: 7166 (2003)."
+			},
+			{
+				"doi": "10.1063/1.1643187",
+				"or":  "Y. K. Takahashi, T. Koyama, M. Ohnuma, T. Ohkubo, and K. Hono, J. Appl. Phys., 95, No. 5: 2690 (2004).",
+				"tr":  "Y. K. Takahashi, T. Koyama, M. Ohnuma, T. Ohkubo, and K. Hono, J. Appl. Phys., 95, No. 5: 2690 (2004)."
+			},
+			{
+				"doi": "10.1088/0957-4484/20/28/285706",
+				"or":  "L. Han, U. Wiedwald, B. Kuerbanjiang, and P. Ziemann, Nanotechnology, 20, No. 28: 285706 (2009).",
+				"tr":  "L. Han, U. Wiedwald, B. Kuerbanjiang, and P. Ziemann, Nanotechnology, 20, No. 28: 285706 (2009)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2017.03.035",
+				"or":  "H. Sepehri-Amin, H. Iwama, G. Hrkac, K. T. Butler, T. Shima, and K. Hono, Scr. Mater., 135: 88 (2017).",
+				"tr":  "H. Sepehri-Amin, H. Iwama, G. Hrkac, K. T. Butler, T. Shima, and K. Hono, Scr. Mater., 135: 88 (2017)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.100.017205",
+				"or":  "R. M. Wang, O. Dmitrieva, M. Farle, G. Dumpich, H. Q. Ye, H. Poppa, R. Kilaas, and C. Kisielowski, Phys. Rev. Lett., 100, No. 1: 017205 (2008).",
+				"tr":  "R. M. Wang, O. Dmitrieva, M. Farle, G. Dumpich, H. Q. Ye, H. Poppa, R. Kilaas, and C. Kisielowski, Phys. Rev. Lett., 100, No. 1: 017205 (2008)."
+			},
+			{
+				"doi": "10.1016/S1006-7191(08)60066-6",
+				"or":  "K. Dong, X. Yang, J. Yan, W. Cheng, and X. Cheng, Acta Metall. Sin., 22, No. 1: 22 (2009).",
+				"tr":  "K. Dong, X. Yang, J. Yan, W. Cheng, and X. Cheng, Acta Metall. Sin., 22, No. 1: 22 (2009)."
+			},
+			{
+				"doi": "10.1063/1.2828978",
+				"or":  "B. Yao and K. R. Coffey, J. Appl. Phys., 103, No. 7: 07E107 (2008).",
+				"tr":  "B. Yao and K. R. Coffey, J. Appl. Phys., 103, No. 7: 07E107 (2008)."
+			},
+			{
+				"doi": "10.15407/mfint.36.10.1359",
+				"or":  "Iu. M. Makogon, O. P. Pavlova, S. I. Sidorenko, T. I. Verbytska, I. A. Vladymyrskyi, O. V. Figurna, and I. O. Kruglov, Metallofiz. Noveishie Tekhnol., 36, No. 10: 1359 (2014) (in Ukrainian).",
+				"tr":  "Iu. M. Makogon, O. P. Pavlova, S. I. Sidorenko, T. I. Verbytska, I. A. Vladymyrskyi, O. V. Figurna, and I. O. Kruglov, Metallofiz. Noveishie Tekhnol., 36, No. 10: 1359 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1063/1.4811348",
+				"or":  "K. F. Dong, H. H. Li, and J. S. Chen, J. Appl. Phys., 113, No. 23: 233904 (2013).",
+				"tr":  "K. F. Dong, H. H. Li, and J. S. Chen, J. Appl. Phys., 113, No. 23: 233904 (2013)."
+			},
+			{
+				"doi": "10.1016/S1006-7191(08)60113-1",
+				"or":  "W. Liu, F. Wang, and X. Xu, Acta Metall. Sin., 22, No. 5: 392 (2009).",
+				"tr":  "W. Liu, F. Wang, and X. Xu, Acta Metall. Sin., 22, No. 5: 392 (2009)."
+			},
+			{
+				"doi": "10.1021/NL025614B",
+				"or":  "S. Kang, J. W. Harrell, and D. E. Nikles, Nano Letters, 2, No. 10: 1033 (2002).",
+				"tr":  "S. Kang, J. W. Harrell, and D. E. Nikles, Nano Letters, 2, No. 10: 1033 (2002)."
+			},
+			{
+				"doi": "10.1016/j.cplett.2007.06.078",
+				"or":  "Y. M. Sung, M. K. Lee, K. E. Kim, and T. G. Kim, Chem. Phys. Lett., 443, Nos. 4–6: 319 (2007).",
+				"tr":  "Y. M. Sung, M. K. Lee, K. E. Kim, and T. G. Kim, Chem. Phys. Lett., 443, Nos. 4–6: 319 (2007)."
+			},
+			{
+				"doi": "10.1063/1.3574538",
+				"or":  "J. S. Chen, Y. Z. Zhou, C. J. Sun, S. W. Han, and G. M. Chow, Appl. Phys. Lett., 98, No. 13: 131914 (2011).",
+				"tr":  "J. S. Chen, Y. Z. Zhou, C. J. Sun, S. W. Han, and G. M. Chow, Appl. Phys. Lett., 98, No. 13: 131914 (2011)."
+			},
+			{
+				"doi": "10.1063/1.3075981",
+				"or":  "D. Chun, S. Kim, G. Kim, W. Jeung, D. Chun, S. Kim, G. Kim, and W. Jeung, J. Appl. Phys., 105: 07B731 (2009).",
+				"tr":  "D. Chun, S. Kim, G. Kim, W. Jeung, D. Chun, S. Kim, G. Kim, and W. Jeung, J. Appl. Phys., 105: 07B731 (2009)."
+			},
+			{
+				"doi": "10.1063/1.4757038",
+				"or":  "C. Brombacher, H. Schletter, M. Daniel, P. Matthes, N. Jöhrmann, M. Maret, D. Makarov, M. Hietschold, and M. Albrecht, J. Appl. Phys., 112, No. 13: 073912 (2012).",
+				"tr":  "C. Brombacher, H. Schletter, M. Daniel, P. Matthes, N. Jöhrmann, M. Maret, D. Makarov, M. Hietschold, and M. Albrecht, J. Appl. Phys., 112, No. 13: 073912 (2012)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(02)00065-3",
+				"or":  "Y. K. Takahashi, M. Ohnuma, and K. Hono, J. Magn. Magn. Mater., 246, Nos. 1–2: 259 (2002).",
+				"tr":  "Y. K. Takahashi, M. Ohnuma, and K. Hono, J. Magn. Magn. Mater., 246, Nos. 1–2: 259 (2002)."
+			},
+			{
+				"doi": "10.1063/1.1463213",
+				"or":  "T. Maeda, T. Kai, A. Kikitsu, T. Nagase, and J. Akiyama, Appl. Phys. Lett., 80, No. 12: 2147 (2002).",
+				"tr":  "T. Maeda, T. Kai, A. Kikitsu, T. Nagase, and J. Akiyama, Appl. Phys. Lett., 80, No. 12: 2147 (2002)."
+			},
+			{
+				"doi": "10.1107/S1600576714019268",
+				"or":  "S. Laureti, C. Brombacher, D. Makarov, M. Albrecht, D. Peddis, G. Varvaro, and F. D’Acapito, J. Appl. Crystallogr., 47, No. 5: 1722 (2014).",
+				"tr":  "S. Laureti, C. Brombacher, D. Makarov, M. Albrecht, D. Peddis, G. Varvaro, and F. D’Acapito, J. Appl. Crystallogr., 47, No. 5: 1722 (2014)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2006.09.024",
+				"or":  "H. W. Yang, C. M. Chung, and J. Y. Ding, J. Magn. Magn. Mater., 312, No. 1: 239 (2007).",
+				"tr":  "H. W. Yang, C. M. Chung, and J. Y. Ding, J. Magn. Magn. Mater., 312, No. 1: 239 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.46.7157",
+				"or":  "H. L. Skriver and N. M. Rosengaard, Phys. Rev. B, 46, No. 11: 7157 (1992).",
+				"tr":  "H. L. Skriver and N. M. Rosengaard, Phys. Rev. B, 46, No. 11: 7157 (1992)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2004.07.069",
+				"or":  "X. H. Xu, H. S. Wu, F. Wang, and X. L. Li, Thin Solid Films, 472, Nos. 1–2: 222 (2005).",
+				"tr":  "X. H. Xu, H. S. Wu, F. Wang, and X. L. Li, Thin Solid Films, 472, Nos. 1–2: 222 (2005)."
+			},
+			{
+				"doi": "10.1007/s00339-013-7949-z",
+				"or":  "G. L. Katona, I. A. Vladymyrskyi, I. M. Makogon, S. I. Sidorenko, F. Kristály, L. Daróczi, A. Csik, A. Liebig, G. Beddies, M. Albrecht, and D. L. Beke, Appl. Phys. A, 115, No. 1: 203 (2014).",
+				"tr":  "G. L. Katona, I. A. Vladymyrskyi, I. M. Makogon, S. I. Sidorenko, F. Kristály, L. Daróczi, A. Csik, A. Liebig, G. Beddies, M. Albrecht, and D. L. Beke, Appl. Phys. A, 115, No. 1: 203 (2014)."
+			},
+			{
+				"doi": "10.1016/j.pmatsci.2018.07.001",
+				"or":  "D. L. Beke, Yu. Kaganovskii, and G. L. Katona, Prog. Mater. Sci., 98: 625 (2018).",
+				"tr":  "D. L. Beke, Yu. Kaganovskii, and G. L. Katona, Prog. Mater. Sci., 98: 625 (2018)."
+			},
+			{
+				"doi": "10.1088/0022-3727/49/3/035003",
+				"or":  "I. A. Vladymyrskyi, A. E. Gafarov, A. P. Burmak, S. I. Sidorenko, G. L. Katona, N. Y. Safonova, F. Ganss, G. Beddies, M. Albrecht, Y. N. Makogon, and D. L. Beke, J. Phys. D: Appl. Phys. 49, No. 3: 035003 (2016).",
+				"tr":  "I. A. Vladymyrskyi, A. E. Gafarov, A. P. Burmak, S. I. Sidorenko, G. L. Katona, N. Y. Safonova, F. Ganss, G. Beddies, M. Albrecht, Y. N. Makogon, and D. L. Beke, J. Phys. D: Appl. Phys. 49, No. 3: 035003 (2016)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2012.09.045",
+				"or":  "W. C. Wen, R. V. Chepulskii, L. W. Wang, S. Curtarolo, and C. H. Lai, Acta Mater., 60, No. 20: 7258 (2012).",
+				"tr":  "W. C. Wen, R. V. Chepulskii, L. W. Wang, S. Curtarolo, and C. H. Lai, Acta Mater., 60, No. 20: 7258 (2012)."
+			},
+			{
+				"doi": "10.1063/1.2211052",
+				"or":  "C. Feng, B. H. Li, G. Han, J. Teng, Y. Jiang, Q. L. Liu, and G. H. Yu, Appl. Phys. Lett., 88: 232109 (2006).",
+				"tr":  "C. Feng, B. H. Li, G. Han, J. Teng, Y. Jiang, Q. L. Liu, and G. H. Yu, Appl. Phys. Lett., 88: 232109 (2006)."
+			},
+			{
+				"doi": "10.1088/0022-3727/41/24/245003",
+				"or":  "Y. S. Yu, H. B. Li, W. L. Li, M. Liu, Y. M. Zhang, and W. D. Fei, J. Phys. D: Appl. Phys., 41, No. 24: 245003 (2008).",
+				"tr":  "Y. S. Yu, H. B. Li, W. L. Li, M. Liu, Y. M. Zhang, and W. D. Fei, J. Phys. D: Appl. Phys., 41, No. 24: 245003 (2008)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2009.12.027",
+				"or":  "Y. S. Yu, H. B. Li, W. L. Li, M. Liu, Y. M. Zhang, and W. D. Fei, J. Magn. Magn. Mater., 322, No. 13: 1770 (2010).",
+				"tr":  "Y. S. Yu, H. B. Li, W. L. Li, M. Liu, Y. M. Zhang, and W. D. Fei, J. Magn. Magn. Mater., 322, No. 13: 1770 (2010)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2012.11.102",
+				"or":  "Y. Yu, X. Z. Li, T. A. George, W. D. Fei, H. Li, and D. J. Sellmyer, Thin Solid Films, 531: 460 (2013).",
+				"tr":  "Y. Yu, X. Z. Li, T. A. George, W. D. Fei, H. Li, and D. J. Sellmyer, Thin Solid Films, 531: 460 (2013)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2008.05.012",
+				"or":  "Y. S. Yu, H. B. Li, W. L. Li, M. Liu, and W. D. Fei, J. Magn. Magn. Mater., 320, No. 19: L125 (2008).",
+				"tr":  "Y. S. Yu, H. B. Li, W. L. Li, M. Liu, and W. D. Fei, J. Magn. Magn. Mater., 320, No. 19: L125 (2008)."
+			},
+			{
+				"doi": "10.1063/1.3194313",
+				"or":  "W. Y. Zhang, H. Shima, F. Takano, H. Akinaga, X. Z. Yu, T. Hara, W. Z. Zhang, K. Kimoto, Y. Matsui, and S. Nimori, J. Appl. Phys., 106: 033907 (2009).",
+				"tr":  "W. Y. Zhang, H. Shima, F. Takano, H. Akinaga, X. Z. Yu, T. Hara, W. Z. Zhang, K. Kimoto, Y. Matsui, and S. Nimori, J. Appl. Phys., 106: 033907 (2009)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2010.01.033",
+				"or":  "X. Li, F. Wang, Z. Guo, H. Li, D. Guo, B. Liu, and X. Zhang, Appl. Surf. Sci., 256, No. 12: 3822 (2010).",
+				"tr":  "X. Li, F. Wang, Z. Guo, H. Li, D. Guo, B. Liu, and X. Zhang, Appl. Surf. Sci., 256, No. 12: 3822 (2010)."
+			},
+			{
+				"doi": "10.1016/J.APSUSC.2010.10.141",
+				"or":  "F. J. Yang, H. Wang, H. B. Wang, B. Y. Wang, X. L. Wang, H. S. Gu, and C. P. Yang, Appl. Surf. Sci., 257, No. 8: 3216 (2011).",
+				"tr":  "F. J. Yang, H. Wang, H. B. Wang, B. Y. Wang, X. L. Wang, H. S. Gu, and C. P. Yang, Appl. Surf. Sci., 257, No. 8: 3216 (2011)."
+			},
+			{
+				"doi": "10.1186/s11671-015-0863-x",
+				"or":  "M. Liu, T. Jin, L. Hao, J. Cao, Y. Wang, D. Wu, J. Bai, and F. Wei, Nanoscale Res. Lett., 10: 161 (2015).",
+				"tr":  "M. Liu, T. Jin, L. Hao, J. Cao, Y. Wang, D. Wu, J. Bai, and F. Wei, Nanoscale Res. Lett., 10: 161 (2015)."
+			},
+			{
+				"doi": "10.1016/j.vacuum.2014.03.011",
+				"or":  "G. Li, Y. Cao, Q. Wang, J. Du, Y. Zhao, and J. He, Vacuum, 10: 75 (2014).",
+				"tr":  "G. Li, Y. Cao, Q. Wang, J. Du, Y. Zhao, and J. He, Vacuum, 10: 75 (2014)."
+			},
+			{
+				"doi": "10.1063/1.3701136",
+				"or":  "L. Feng, L. Ma, E. K. Liu, G. H. Wu, W. H. Wang, and W. X. Zhang, Appl. Phys. Lett., 100: 152401 (2012).",
+				"tr":  "L. Feng, L. Ma, E. K. Liu, G. H. Wu, W. H. Wang, and W. X. Zhang, Appl. Phys. Lett., 100: 152401 (2012)."
+			},
+			{
+				"doi": "10.1063/1.1794380",
+				"or":  "H. Y. Wang, X. K. Ma, Y. J. He, S. Mitani, and M. Motokawa, Appl. Phys. Lett., 85: 2304 (2004).",
+				"tr":  "H. Y. Wang, X. K. Ma, Y. J. He, S. Mitani, and M. Motokawa, Appl. Phys. Lett., 85: 2304 (2004)."
+			},
+			{
+				"doi": "10.1007/s10948-015-3060-3",
+				"or":  "M. Liu, M. Lu, L. Wang, J. Zhao, and H. Li, J. Supercond. Nov. Magn., 28, No. 8: 2491 (2015).",
+				"tr":  "M. Liu, M. Lu, L. Wang, J. Zhao, and H. Li, J. Supercond. Nov. Magn., 28, No. 8: 2491 (2015)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2016.12.018",
+				"or":  "H. Sepehri-Amin, H. Iwama, T. Ohkubo, T. Shima, and K. Hono, Scr. Mater., 130: 247 (2017).",
+				"tr":  "H. Sepehri-Amin, H. Iwama, T. Ohkubo, T. Shima, and K. Hono, Scr. Mater., 130: 247 (2017)."
+			},
+			{
+				"doi": "10.1016/J.TSF.2016.08.018",
+				"or":  "A. Ghasemi, Thin Solid Films, 616: 183 (2016).",
+				"tr":  "A. Ghasemi, Thin Solid Films, 616: 183 (2016)."
+			},
+			{
+				"doi": "10.1002/pssa.201228718",
+				"or":  "M. Albrecht and C. Brombacher, Phys. Status Solidi, 210, No. 7: 1272 (2013).",
+				"tr":  "M. Albrecht and C. Brombacher, Phys. Status Solidi, 210, No. 7: 1272 (2013)."
+			},
+			{
+				"doi": "10.1063/1.4913897",
+				"or":  "K. F. Dong, H. H. Li, J. Y. Deng, Y. G. Peng, G. Ju, G. M. Chow, and J. S. Chen, J. Appl. Phys., 117, No. 17: 17D116 (2015).",
+				"tr":  "K. F. Dong, H. H. Li, J. Y. Deng, Y. G. Peng, G. Ju, G. M. Chow, and J. S. Chen, J. Appl. Phys., 117, No. 17: 17D116 (2015)."
+			},
+			{
+				"doi": "10.1063/1.2956691",
+				"or":  "E. Yang and D. E. Laughlin, J. Appl. Phys., 104, No. 2: 023904 (2008).",
+				"tr":  "E. Yang and D. E. Laughlin, J. Appl. Phys., 104, No. 2: 023904 (2008)."
+			},
+			{
+				"doi": "10.1063/1.3679463",
+				"or":  "E. Yang, H. Ho, D. E. Laughlin, and J.-G. Zhu, J. Appl. Phys., 111, No. 7: 07B720 (2012).",
+				"tr":  "E. Yang, H. Ho, D. E. Laughlin, and J.-G. Zhu, J. Appl. Phys., 111, No. 7: 07B720 (2012)."
+			},
+			{
+				"doi": "10.1063/1.2953173",
+				"or":  "Y. F. Ding, J. S. Chen, B. C. Lim, J. F. Hu, B. Liu, and G. Ju, Appl. Phys. Lett., 93, No. 3: 032506 (2008).",
+				"tr":  "Y. F. Ding, J. S. Chen, B. C. Lim, J. F. Hu, B. Liu, and G. Ju, Appl. Phys. Lett., 93, No. 3: 032506 (2008)."
+			},
+			{
+				"doi": "10.1063/1.3116623",
+				"or":  "T.-J. Zhou, B. C. Lim, and B. Liu, Appl. Phys. Lett., 94, No. 15: 152505 (2009).",
+				"tr":  "T.-J. Zhou, B. C. Lim, and B. Liu, Appl. Phys. Lett., 94, No. 15: 152505 (2009)."
+			},
+			{
+				"doi": "10.1063/1.3057874",
+				"or":  "J. S. Chen, B. C. Lim, Y. F. Ding, J. F. Hu, G. M. Chow, and G. Ju, J. Appl. Phys., 105, No. 7: 07B702 (2009).",
+				"tr":  "J. S. Chen, B. C. Lim, Y. F. Ding, J. F. Hu, G. M. Chow, and G. Ju, J. Appl. Phys., 105, No. 7: 07B702 (2009)."
+			},
+			{
+				"doi": "10.1063/1.4878263",
+				"or":  "K. F. Dong, H. H. Li, Y. G. Peng, G. Ju, G. M. Chow, and J. S. Chen, Appl. Phys. Lett., 104, No. 19: 192404 (2014).",
+				"tr":  "K. F. Dong, H. H. Li, Y. G. Peng, G. Ju, G. M. Chow, and J. S. Chen, Appl. Phys. Lett., 104, No. 19: 192404 (2014)."
+			},
+			{
+				"doi": "10.1109/TMAG.2017.2697980",
+				"or":  "K. F. Dong, F. Jin, W. Q. Mo, J. L. Song, and W. M. Cheng, IEEE Trans. Magn., 53, No. 11: 4300304 (2017).",
+				"tr":  "K. F. Dong, F. Jin, W. Q. Mo, J. L. Song, and W. M. Cheng, IEEE Trans. Magn., 53, No. 11: 4300304 (2017)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2017.09.329",
+				"or":  "K. F. Dong, J. Y. Deng, F. Jin, W. Q. Mo, J. L. Song, and J. S. Chen, J. Alloys Compd., 730: 234 (2018).",
+				"tr":  "K. F. Dong, J. Y. Deng, F. Jin, W. Q. Mo, J. L. Song, and J. S. Chen, J. Alloys Compd., 730: 234 (2018)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2012.02.090",
+				"or":  "L. Liu, H. Lv, W. Sheng, Y. Lou, J. Bai, J. Cao, B. Ma, and F. Wei, Appl. Surf. Sci., 258, No. 15: 5770 (2012).",
+				"tr":  "L. Liu, H. Lv, W. Sheng, Y. Lou, J. Bai, J. Cao, B. Ma, and F. Wei, Appl. Surf. Sci., 258, No. 15: 5770 (2012)."
+			},
+			{
+				"doi": "10.1088/0022-3727/39/9/007",
+				"or":  "H. Y. Wang, W. H. Mao, W. B. Sun, Y. J. He, S. Mitani, and M. Motokawa, J. Phys. D: Appl. Phys., 39, No. 9: 1749 (2006).",
+				"tr":  "H. Y. Wang, W. H. Mao, W. B. Sun, Y. J. He, S. Mitani, and M. Motokawa, J. Phys. D: Appl. Phys., 39, No. 9: 1749 (2006)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2014.07.054",
+				"or":  "Y. Cao, Q. Wang, G. Li, J. Du, X. Wang, and J. He, J. Magn. Magn. Mater., 372: 91 (2014).",
+				"tr":  "Y. Cao, Q. Wang, G. Li, J. Du, X. Wang, and J. He, J. Magn. Magn. Mater., 372: 91 (2014)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2015.06.152",
+				"or":  "Y. Su, H. Su, Y. Zhu, F. Wang, J. Du, W. Xia, A. Yan, J. P. Liu, and J. Zhang, J. Alloys Compd., 647: 375 (2015).",
+				"tr":  "Y. Su, H. Su, Y. Zhu, F. Wang, J. Du, W. Xia, A. Yan, J. P. Liu, and J. Zhang, J. Alloys Compd., 647: 375 (2015)."
+			},
+			{
+				"doi": "10.1016/J.VACUUM.2013.07.018",
+				"or":  "I. A. Vladymyrskyi, O. P. Pavlova, T. I. Verbitska, S. I. Sidorenko, G. L. Katona, D. L. Beke, and I. M. Makogon, Vacuum, 101: 33 (2014).",
+				"tr":  "I. A. Vladymyrskyi, O. P. Pavlova, T. I. Verbitska, S. I. Sidorenko, G. L. Katona, D. L. Beke, and I. M. Makogon, Vacuum, 101: 33 (2014)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2006.01.194",
+				"or":  "F. T. Yuan, S. K. Chen, W. M. Liao, C. W. Hsu, S. N. Hsiao, and W. C. Chang, J. Magn. Magn. Mater., 304, No. 1: e109 (2006).",
+				"tr":  "F. T. Yuan, S. K. Chen, W. M. Liao, C. W. Hsu, S. N. Hsiao, and W. C. Chang, J. Magn. Magn. Mater., 304, No. 1: e109 (2006)."
+			},
+			{
+				"doi": "10.1109/JPROC.2008.2004315",
+				"or":  "M. H. Kryder, E. C. Gage, T. W. McDaniel, W. A. Challener, R. E. Rottmayer, G. Ju, Y.-Tee Hsia, and M. F. Erden, Proc. IEEE, 96, No. 11: 1810 (2008).",
+				"tr":  "M. H. Kryder, E. C. Gage, T. W. McDaniel, W. A. Challener, R. E. Rottmayer, G. Ju, Y.-Tee Hsia, and M. F. Erden, Proc. IEEE, 96, No. 11: 1810 (2008)."
+			},
+			{
+				"doi": "10.1116/1.4965980",
+				"or":  "D. Weller, G. Parker, O. Mosendz, A. Lyberatos, D. Mitin, N. Y. Safonova, and M. Albrecht, J. Vac. Sci. Technol. B, 34, No. 6: 60801 (2016).",
+				"tr":  "D. Weller, G. Parker, O. Mosendz, A. Lyberatos, D. Mitin, N. Y. Safonova, and M. Albrecht, J. Vac. Sci. Technol. B, 34, No. 6: 60801 (2016)."
+			},
+			{
+				"doi": "10.1088/0022-3727/48/35/353001",
+				"or":  "S. Okamoto, N. Kikuchi, M. Furuta, O. Kitakami, and T. Shimatsu, J. Phys. D: Appl. Phys., 48, No. 35: 353001 (2015).",
+				"tr":  "S. Okamoto, N. Kikuchi, M. Furuta, O. Kitakami, and T. Shimatsu, J. Phys. D: Appl. Phys., 48, No. 35: 353001 (2015)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2017.06.059",
+				"or":  "D. Mitin, M. Wachs, N. Y. Safonova, O. Lein, and M. Albrecht, Thin Solid Films, 651: 158 (2018).",
+				"tr":  "D. Mitin, M. Wachs, N. Y. Safonova, O. Lein, and M. Albrecht, Thin Solid Films, 651: 158 (2018)."
+			},
+			{
+				"doi": "10.1063/1.2347894",
+				"or":  "D. Suess, Appl. Phys. Lett., 89, No. 11: 113105 (2006).",
+				"tr":  "D. Suess, Appl. Phys. Lett., 89, No. 11: 113105 (2006)."
+			},
+			{
+				"doi": "10.1063/1.1951053",
+				"or":  "D. Suess, T. Schrefl, S. Fähler, M. Kirschner, G. Hrkac, F. Dorfbauer, and J. Fidler, Appl. Phys. Lett., 87, No. 1: 012504 (2005).",
+				"tr":  "D. Suess, T. Schrefl, S. Fähler, M. Kirschner, G. Hrkac, F. Dorfbauer, and J. Fidler, Appl. Phys. Lett., 87, No. 1: 012504 (2005)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2012.01.013",
+				"or":  "J. L. Tsai, J. C. Huang, L. H. Chen, and C. S. Lin, Surf. Coatings Technol., 231: 456 (2013).",
+				"tr":  "J. L. Tsai, J. C. Huang, L. H. Chen, and C. S. Lin, Surf. Coatings Technol., 231: 456 (2013)."
+			},
+			{
+				"doi": "10.1063/1.2335590",
+				"or":  "A. Y. Dobin and H. J. Richter, Appl. Phys. Lett., 89, No. 6: 062512 (2006).",
+				"tr":  "A. Y. Dobin and H. J. Richter, Appl. Phys. Lett., 89, No. 6: 062512 (2006)."
+			},
+			{
+				"doi": "10.1016/j.matchemphys.2010.12.031",
+				"or":  "F. Wang, X. H. Xu, Y. Liang, J. Zhang, and J. Zhang, Mater. Chem. Phys., 126, No. 3: 843 (2011).",
+				"tr":  "F. Wang, X. H. Xu, Y. Liang, J. Zhang, and J. Zhang, Mater. Chem. Phys., 126, No. 3: 843 (2011)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2017.03.032",
+				"or":  "G. Barucca, T. Speliotis, G. Giannopoulos, D. Niarchos, B. Rutkowski, A. Czyrska-Filemonowicz, E. Agostinelli, S. Laureti, A. M. Testa, and G. Varvaro, Mater. Des., 123: 147 (2017).",
+				"tr":  "G. Barucca, T. Speliotis, G. Giannopoulos, D. Niarchos, B. Rutkowski, A. Czyrska-Filemonowicz, E. Agostinelli, S. Laureti, A. M. Testa, and G. Varvaro, Mater. Des., 123: 147 (2017)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2013.04.064",
+				"or":  "A. Di Bona, P. Luches, F. Albertini, F. Casoli, P. Lupo, L. Nasi, S. D’Addato, G. C. Gazzadi, and S. Valeri, Acta Mater., 61, No. 13: 4840 (2013).",
+				"tr":  "A. Di Bona, P. Luches, F. Albertini, F. Casoli, P. Lupo, L. Nasi, S. D’Addato, G. C. Gazzadi, and S. Valeri, Acta Mater., 61, No. 13: 4840 (2013)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2015.01.076",
+				"or":  "S. H. Liu, S. N. Hsiao, S. K. Chen, and H. Y. Lee, J. Alloys Compd., 631: 15 (2015).",
+				"tr":  "S. H. Liu, S. N. Hsiao, S. K. Chen, and H. Y. Lee, J. Alloys Compd., 631: 15 (2015)."
+			},
+			{
+				"doi": "10.1063/1.3664129",
+				"or":  "C. C. Chiang, W. C. Tsai, L. W. Wang, H. C. Hou, J. W. Liao, H. J. Lin, F. H. Chang, B. J. Kirby, and C. H. Lai, Appl. Phys. Lett., 99, No. 21: 212504 (2011).",
+				"tr":  "C. C. Chiang, W. C. Tsai, L. W. Wang, H. C. Hou, J. W. Liao, H. J. Lin, F. H. Chang, B. J. Kirby, and C. H. Lai, Appl. Phys. Lett., 99, No. 21: 212504 (2011)."
+			},
+			{
+				"doi": "10.1002/pssa.201228731",
+				"or":  "J. Lee, B. Dymerska, J. Fidler, V. Alexandrakis, T. Speliotis, D. Niarchos, P. Pongratz, and D. Suess, Phys. Status Solidi A, 210, No. 7: 1305 (2013).",
+				"tr":  "J. Lee, B. Dymerska, J. Fidler, V. Alexandrakis, T. Speliotis, D. Niarchos, P. Pongratz, and D. Suess, Phys. Status Solidi A, 210, No. 7: 1305 (2013)."
+			},
+			{
+				"doi": "10.1063/1.3595307",
+				"or":  "J. Lee, V. Alexandrakis, M. Fuger, B. Dymerska, D. Suess, D. Niarchos, and J. Fidler, Appl. Phys. Lett., 98, No. 22: 222501 (2011).",
+				"tr":  "J. Lee, V. Alexandrakis, M. Fuger, B. Dymerska, D. Suess, D. Niarchos, and J. Fidler, Appl. Phys. Lett., 98, No. 22: 222501 (2011)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2014.04.058",
+				"or":  "G. Varvaro, S. Laureti, and D. Fiorani, J. Magn. Magn. Mater., 368: 415 (2014).",
+				"tr":  "G. Varvaro, S. Laureti, and D. Fiorani, J. Magn. Magn. Mater., 368: 415 (2014)."
+			},
+			{
+				"doi": "10.1063/1.3183579",
+				"or":  "F. Wang, X. Xu, Y. Liang, J. Zhang, and H. Wu, Appl. Phys. Lett., 95, No. 2: 022516 (2009).",
+				"tr":  "F. Wang, X. Xu, Y. Liang, J. Zhang, and H. Wu, Appl. Phys. Lett., 95, No. 2: 022516 (2009)."
+			},
+			{
+				"doi": "10.1063/1.4799651",
+				"or":  "D. A. Gilbert, L.-W. Wang, T. J. Klemmer, J.-U. Thiele, C.-H. Lai, and K. Liu, Appl. Phys. Lett., 102, No. 13: 132406 (2013).",
+				"tr":  "D. A. Gilbert, L.-W. Wang, T. J. Klemmer, J.-U. Thiele, C.-H. Lai, and K. Liu, Appl. Phys. Lett., 102, No. 13: 132406 (2013)."
+			},
+			{
+				"doi": "10.1016/J.PHPRO.2011.06.104",
+				"or":  "Y. Ogata, Y. Imai, and S. Nakagawa, Phys. Procedia, 16: 36 (2011).",
+				"tr":  "Y. Ogata, Y. Imai, and S. Nakagawa, Phys. Procedia, 16: 36 (2011)."
+			},
+			{
+				"doi": "10.1063/1.3561445",
+				"or":  "D. B. Xu, J. S. Chen, T. J. Zhou, and G. M. Chow, J. Appl. Phys., 109, Iss. 7: 07B747 (2011).",
+				"tr":  "D. B. Xu, J. S. Chen, T. J. Zhou, and G. M. Chow, J. Appl. Phys., 109, Iss. 7: 07B747 (2011)."
+			}
+		]
+	}
+}

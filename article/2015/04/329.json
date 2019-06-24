@@ -1,0 +1,252 @@
+{
+	"_id":    "UFM.16.04.329",
+	"year":   2015,
+	"volume": 16,
+	"issue":  4,
+	"pages":  [329,352],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["22.06.2015"],
+	"PACS":   "61.50.Ks, 61.66.Fn, 61.68.+n, 77.80.-e, 77.84.Cg, 81.05.Je, 81.30.Hd",
+	"title":   {
+		"ua": "Кристалічна структура титанату барію при впливі тиску та температури",
+		"en": "Crystal Structure of Barium Titanate under the Influence of Pressure and Temperature",
+		"ru": "Кристаллическая структура титаната бария при воздействии давления и температуры"
+	},
+	"abstract": {
+		"ua": "Детально досліджено кристалічну структуру титанату барію BaTiO$_{3}$ зі структурою типу зміщення, у якій спостерігається цілий ряд фізичних явищ, вивчення яких є одним з найактуальніших завдань сучасної фізики конденсованих середовищ, — сегнетоелектрика, піроелектричний ефект, п’єзоелектрика, структурні фазові переходи. Представлено результати дослідження температурної та баричної залежностей кристалічних параметрів й особливостей фазових переходів у BaTiO$_{3}$.",
+		"en": "Review is aimed at detailed study of the crystal structure of barium titanate BaTiO$_{3}$ with displacement-type structure. In such a structure, there are several interesting physical phenomena, the study of which is one of the most topical problems of contemporary condensed matter physics, namely, ferroelectricity, pyroelectric effect, piezoelectricity, structural phase transitions. The results of studies of the temperature and pressure dependences of the crystal parameters and features of phase transitions in BaTiO$_{3}$ are presented.",
+		"ru": "Детально исследована кристаллическая структура титаната бария BaTiO$_{3}$ со структурой типа смещения, в которой наблюдается целый ряд физических явлений, изучение которых является одной из наиболее актуальных задач современной физики конденсированных сред, — сегнетоэлектричество, пироэлектрический эффект, пьезоэлектричество, структурные фазовые переходы. Представлены результаты исследования температурной и барической зависимостей кристаллических параметров и особенностей фазовых переходов в BaTiO$_{3}$."
+	},
+	"keywords": {
+		"ua": "титанат барію, сегнетоелектрика, піроелектричний ефект, п’єзоелектрика, структурні фазові переходи",
+		"en": "barium titanate, ferroelectricity, pyroelectric effect, piezoelectricity, structural phase transitions",
+		"ru": "титанат бария, сегнетоэлектричество, пироэлектрический эффект, пьезоэлектричество, структурные фазовые переходы"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. Г. Джабаров", "en": "S. H. Jabarov", "ru": "С. Г. Джабаров"},
+			"OID": [431]
+		}
+	],
+	"references": {
+		"count": 43,
+		"list":  [
+			{
+				"doi": "10.1007/BF00200119",
+				"or":  "X. Liu and R. C. Liebermann, Phys. Chem. Min., 20, No. 3: 171 (1993).",
+				"tr":  "X. Liu and R. C. Liebermann, Phys. Chem. Min., 20, No. 3: 171 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "К. С. Александров, А. Т. Анистратов, Б. В. Безносиков, Н. В. Федосеева, Фазовые переходы в кристаллах галоидных соединений АВХ3 (Новосибирск: Наука: 1981).",
+				"tr":  "K. S. Aleksandrov, A. T. Anistratov, B. V. Beznosikov, and N. V. Fedoseeva, Fazovye Perekhody v Kristallakh Galoidnykh Soedineniy ABX3 [Phase Transitions in Crystals Halides ABX3] (Novosibirsk: Nauka: 1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. С. Александров, Б. В. Безносиков, Перовскитоподобные кристаллы (иерархия структур, многообразие физических свойств, возможности синтеза новых соединений) (Новосибирск: Наука: 1997).",
+				"tr":  "K. S. Aleksandrov and B. V. Beznosikov, Perovskitopodobnyye Kristally (Ierarkhiya Struktur, Mnogoobrazie Fizicheskikh Svoistv, Vozmozhnosti Sinteza Novykh Soedineniy) [Perovskite Crystals (Hierarchy of Structures, Variety of Physical Properties, Possibilities of Synthesis of New Compounds)] (Novosibirsk: Nauka: 1997) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. С. Александров, Б. В. Безносиков, Перовскиты. Настоящее и будущее (многообразие прафаз, фазовые превращения, возможности синтеза новых соединений) (Новосибирск: Наука: 2004).",
+				"tr":  "K. S. Aleksandrov and B. V. Beznosikov, Perovskity. Nastoyashchee i Budushchee (Mnogoobrazie Prafaz, Fazovye Prevrashcheniya, Vozmozhnosti Sinteza Novykh Soedineniy) [Perovskites. The Present and the Future (the Variety of Parent Phase, Phase Transformations, Possibilities of Synthesis of New Compounds)] (Novosibirsk: Nauka: 2004) (in Russian)."
+			},
+			{
+				"doi": "10.1021/ja0758436",
+				"or":  "M. B. Smith, K. Page, T. Siegrist, P. L. Redmond, E. C. Walter, R. Seshadri, L. E. Brus, and M. L. Steigerwald, J. Am. Chem. Soc., 130, No. 22: 6955 (2008).",
+				"tr":  "M. B. Smith, K. Page, T. Siegrist, P. L. Redmond, E. C. Walter, R. Seshadri, L. E. Brus, and M. L. Steigerwald, J. Am. Chem. Soc., 130, No. 22: 6955 (2008)."
+			},
+			{
+				"doi": "10.1134/S1063783411110102",
+				"or":  "S. G. Jabarov, D. P. Kozlenko, S. E. Kichanov, A. V. Belushkin, B. N. Savenko, R. Z. Mextieva, and C. Lathe, Physics of Solid State, 53, No. 11: 2300 (2011).",
+				"tr":  "S. G. Jabarov, D. P. Kozlenko, S. E. Kichanov, A. V. Belushkin, B. N. Savenko, R. Z. Mextieva, and C. Lathe, Physics of Solid State, 53, No. 11: 2300 (2011)."
+			},
+			{
+				"doi": "10.1134/S1063783414040180",
+				"or":  "R. Z. Mekhdieva, E. V. Lukin, S. E. Kichanov, D. P. Kozlenko, S. H. Jabarov, T. N. Dang, A. I. Mammadov, and B. N. Savenko, Physics of Solid State, 56, No. 4: 765 (2014).",
+				"tr":  "R. Z. Mekhdieva, E. V. Lukin, S. E. Kichanov, D. P. Kozlenko, S. H. Jabarov, T. N. Dang, A. I. Mammadov, and B. N. Savenko, Physics of Solid State, 56, No. 4: 765 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Д. Третьяков, Соросовский образовательный журнал, № 4: 35 (1999).",
+				"tr":  "Yu. D. Tretiyakov, Sorosovskiy Obrazovatelnyy Zhurnal, No. 4: 35 (1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Панич, Т. Г. Левина, Физика сегнетоэлектрической керамики (Ростов-на-Дону: РГУ: 2002).",
+				"tr":  "A. E. Panich and T. G. Levina, Fizika Segnetoelektricheskoy Keramiki [The Physics of Ferroelectric Ceramics] (Rostov-on-Don: RGU: 2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Окадзаки, Технология керамических диэлектриков (Москва: Энергия: 1976).",
+				"tr":  "K. Okadzaki, Tekhnologiya Keramicheskikh Dielektrikov [Technology of Ceramic Dielectrics] (Moscow: Energiya: 1976) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0254-0584(98)00262-4",
+				"or":  "H. S. Potdar, S. B. Deshpande, and S. K. Date, Mater. Chem. Phys., 58: 121 (1999).",
+				"tr":  "H. S. Potdar, S. B. Deshpande, and S. K. Date, Mater. Chem. Phys., 58: 121 (1999)."
+			},
+			{
+				"doi": "10.1111/j.1151-2916.2003.tb03307.x",
+				"or":  "H. Xu and L. Gao, J. Am. Ceram. Soc., 86: 203 (2003).",
+				"tr":  "H. Xu and L. Gao, J. Am. Ceram. Soc., 86: 203 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Wang, L. Liu, D. Xue, H. Kang, and C. Liu, J. Alloys Comp., 440: 78 (2007).",
+				"tr":  "L. Wang, L. Liu, D. Xue, H. Kang, and C. Liu, J. Alloys Comp., 440: 78 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. В. Чебанова, Ю. В. Кабиров, М. Ф. Куприянов, Науковедение, № 4: 1 (2012).",
+				"tr":  "E. V. Chebanova, Yu. V. Kabirov, and M. F. Kupriyanov, Naukovedenie, No. 4: 1 (2012) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.1328762",
+				"or":  "M. K. Lee, T. K. Nath, C. B. Eoma, M. C. Smoak, and F. Tsui, App. Phys. Lett., 77, No. 22: 3547 (2000).",
+				"tr":  "M. K. Lee, T. K. Nath, C. B. Eoma, M. C. Smoak, and F. Tsui, App. Phys. Lett., 77, No. 22: 3547 (2000)."
+			},
+			{
+				"doi": "10.12693/APhysPolA.115.808",
+				"or":  "Z. Lazerevic, N. Romcevic, M. Vijatovic, N. Paunovic, M. Romcevic, B. Stojanovic, and Z. Dohcevic-Mitrovic, Acta Phys. Pol. A, 115, No. 4: 808 (2009).",
+				"tr":  "Z. Lazerevic, N. Romcevic, M. Vijatovic, N. Paunovic, M. Romcevic, B. Stojanovic, and Z. Dohcevic-Mitrovic, Acta Phys. Pol. A, 115, No. 4: 808 (2009)."
+			},
+			{
+				"doi": "10.1016/S0038-1098(03)00503-9",
+				"or":  "K. Tkacz-Smiecz, A. Kolezynski, and W. S. Ptak, Sol. Stat. Commun., 127: 557 (2003).",
+				"tr":  "K. Tkacz-Smiecz, A. Kolezynski, and W. S. Ptak, Sol. Stat. Commun., 127: 557 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. А. Смоленский, Физика сегнетоэлектрических явлений (Ленинград: Наука: 1985).",
+				"tr":  "G. A. Smolenskiy, Fizika Segnetoelektricheskikh Yavleniy [The Physics of Ferroelectric Phenomena] (Leningrad: Nauka: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Yang, S. Yua, S. Luo, R. Sun, W.-H. Liao, and C.-P. Wong, J. Alloys Comp., 620: 315 (2015).",
+				"tr":  "W. Yang, S. Yua, S. Luo, R. Sun, W.-H. Liao, and C.-P. Wong, J. Alloys Comp., 620: 315 (2015)."
+			},
+			{
+				"doi": "10.1016/j.matchemphys.2008.01.020",
+				"or":  "C. J. Xiao, C. Q. Jin, and X. H. Wang, Mater. Chem. Phys., 111: 209 (2008).",
+				"tr":  "C. J. Xiao, C. Q. Jin, and X. H. Wang, Mater. Chem. Phys., 111: 209 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.42.2604",
+				"or":  "R. Ramirez, M. F. Lapena, and J. A. Gonzalo, Phys. Rev. B, 42, No. 4: 2604 (1990).",
+				"tr":  "R. Ramirez, M. F. Lapena, and J. A. Gonzalo, Phys. Rev. B, 42, No. 4: 2604 (1990)."
+			},
+			{
+				"doi": "10.1088/0953-8984/14/36/101",
+				"or":  "S. A. Hayward and E. K. H. Salje, J. Phys.: Cond. Matter, 14, No. 36: L599 (2002).",
+				"tr":  "S. A. Hayward and E. K. H. Salje, J. Phys.: Cond. Matter, 14, No. 36: L599 (2002)."
+			},
+			{
+				"doi": "10.1063/1.2759865",
+				"or":  "S. Ram, A. Jana, and T. K. Kundu, J. Appl. Phys., 102: 54 (2007).",
+				"tr":  "S. Ram, A. Jana, and T. K. Kundu, J. Appl. Phys., 102: 54 (2007)."
+			},
+			{
+				"doi": "10.1016/S0038-1098(03)00503-9",
+				"or":  "K. Tkacz-Smiech, A. Koleziynski, and W. S. Ptak, Sol. Stat. Commun., 127: 557 (2003).",
+				"tr":  "K. Tkacz-Smiech, A. Koleziynski, and W. S. Ptak, Sol. Stat. Commun., 127: 557 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Гуртов, Р. Н. Осауленко, Физика твёрдого тела для инженеров (Москва: Техносфера: 2007).",
+				"tr":  "V. A. Gurtov and R. N. Osaulenko, Fizika Tverdogo Tela dlya Inzhenerov [Solid State Physics for Engineers] (Moscow: Tekhnosfera: 2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Горелик, М. Я. Дашевский, Материаловедение полупроводников и диэлектриков (Москва: МИСиС: 2003).",
+				"tr":  "S. S. Gorelik and M. Ya. Dashevskiy, Materialovedenie Poluprovodnikov i Dielektrikov [Material Science of Semiconductors and Dielectrics] (Moscow: MISiS: 2003) (in Russian)."
+			},
+			{
+				"doi": "10.1007/978-3-540-72993-8",
+				"or":  "C. Brechignac, P. Houdy, and M. Lehmani, Nanomaterials and Nanochemistry (Berlin: Springer: 2007).",
+				"tr":  "C. Brechignac, P. Houdy, and M. Lehmani, Nanomaterials and Nanochemistry (Berlin: Springer: 2007)."
+			},
+			{
+				"doi": "10.2298/SOS0802155V",
+				"or":  "M. M. Vijatovic, J. D. Bobic, and B. D. Stojanovic, Science of Sintering, 40: 155 (2008).",
+				"tr":  "M. M. Vijatovic, J. D. Bobic, and B. D. Stojanovic, Science of Sintering, 40: 155 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Pradhan and G. S. Roy, Researcher, 5, No. 3: 63 (2013).",
+				"tr":  "S. Pradhan and G. S. Roy, Researcher, 5, No. 3: 63 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Иона, Д. Ширане, Сегнетоэлектрические кристаллы (Москва: Мир: 1965) (пер. с англ.).",
+				"tr":  "F. Jona and G. Shirane, Segnetoelektricheskie Kristally [Ferroelectric Crystals] (Moscow: Mir: 1965) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Wodecka-Dus and D. Czekaj, Arch. Met. Mat., 54, No. 4: 923 (2009).",
+				"tr":  "B. Wodecka-Dus and D. Czekaj, Arch. Met. Mat., 54, No. 4: 923 (2009)."
+			},
+			{
+				"doi": "10.3906/fiz-1303-4",
+				"or":  "P. Kuruva, U. M. S. Rajaputra, S. Sanyadanam, and R. M. Sarabu, Turk. J. Phys., 37: 312 (2013).",
+				"tr":  "P. Kuruva, U. M. S. Rajaputra, S. Sanyadanam, and R. M. Sarabu, Turk. J. Phys., 37: 312 (2013)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.74.134116",
+				"or":  "A. Rother, M. Reibold, H. Lichte, T. Leisegang, A. A. Levin, P. Paufler, D. C. Meyer, S. Gemming, I. Chaplygin, G. Seifert, A. Ormeci, and H. Rosner, Phys. Rev. B, 74: 134116 (2006).",
+				"tr":  "A. Rother, M. Reibold, H. Lichte, T. Leisegang, A. A. Levin, P. Paufler, D. C. Meyer, S. Gemming, I. Chaplygin, G. Seifert, A. Ormeci, and H. Rosner, Phys. Rev. B, 74: 134116 (2006)."
+			},
+			{
+				"doi": "10.1080/00150199908007992",
+				"or":  "P. Ghosez, X. Gonze, and J.-P. Michenaud, Ferroelectrics, 220: 1 (1999).",
+				"tr":  "P. Ghosez, X. Gonze, and J.-P. Michenaud, Ferroelectrics, 220: 1 (1999)."
+			},
+			{
+				"doi": "10.1021/j100112a043",
+				"or":  "G. H. Kwel, A. C. Lawson, and S. J. L. Billinge, J. Phys. Chem., 97: 2368 (1993).",
+				"tr":  "G. H. Kwel, A. C. Lawson, and S. J. L. Billinge, J. Phys. Chem., 97: 2368 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Uludogan and T. Cagin, Turk. J. Phys., 30: 277 (2006).",
+				"tr":  "M. Uludogan and T. Cagin, Turk. J. Phys., 30: 277 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Malinowski, K. Lukaszewicz, and S. Asbrink, J. Appl. Cryst., 19: 7 (1986).",
+				"tr":  "By. M. Malinowski, K. Lukaszewicz, and S. Asbrink, J. Appl. Cryst., 19: 7 (1986)."
+			},
+			{
+				"doi": "10.1029/JB091iB05p04949",
+				"or":  "F. J. Birch, J. Geophys. Res., 91: 4949 (1986).",
+				"tr":  "F. J. Birch, J. Geophys. Res., 91: 4949 (1986)."
+			},
+			{
+				"doi": "10.1088/0953-8984/14/36/101",
+				"or":  "S. A. Hayward and E. K. H. Salje, J. Phys.: Condens. Matter, 14: L599 (2002).",
+				"tr":  "S. A. Hayward and E. K. H. Salje, J. Phys.: Condens. Matter, 14: L599 (2002)."
+			},
+			{
+				"doi": "10.1103/PhysRev.151.378",
+				"or":  "G. A. Samara, Phys. Rev., 151: 378 (1966).",
+				"tr":  "G. A. Samara, Phys. Rev., 151: 378 (1966)."
+			},
+			{
+				"doi": "10.1080/00150197108234102",
+				"or":  "G. A. Samara, Ferroelectrics, 2: 277 (1971).",
+				"tr":  "G. A. Samara, Ferroelectrics, 2: 277 (1971)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.39.2432",
+				"or":  "D. L. Decker, Phys. Rev. B, 39: 2432 (1989).",
+				"tr":  "D. L. Decker, Phys. Rev. B, 39: 2432 (1989)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.78.2397",
+				"or":  "T. Ishidate, S. Abe, H. Takahashi, and N. Mori, Phys. Rev. Lett., 78: 2397 (1997).",
+				"tr":  "T. Ishidate, S. Abe, H. Takahashi, and N. Mori, Phys. Rev. Lett., 78: 2397 (1997)."
+			}
+		]
+	}
+}

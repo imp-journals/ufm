@@ -1,0 +1,271 @@
+{
+	"_id":    "UFM.19.02.185",
+	"year":   2018,
+	"volume": 19,
+	"issue":  2,
+	"pages":  [185,194],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["15.05.2018", "29.05.2018"],
+	"PACS":   "61.72.sh, 64.70.dg, 66.30.Fq, 68.35.Ja, 68.70.+w, 81.10.Aj, 81.10.Jt, 81.40.Ef",
+	"title":   {
+		"ua": "Аналіза морфологічної стабільности фронту перекристалізації",
+		"en": "The Analysis of Morphological Stability of a Recrystallization Front",
+		"ru": "Анализ морфологической стабильности фронта перекристаллизации"
+	},
+	"abstract": {
+		"ua": "Виконано узагальнення теоретичної інформації щодо закономірностей перетворення конверсійного фронту при фазових реакціях. Розглянуто теорію концентраційного переохолодження, основою якого є дифузійний перерозподіл компонентів стопу в розтопі поблизу межі кристалізації. Вивчаються механізми трансформації плаского фронту кристалізації та перекристалізації в комірковий і дендритний. Розглянуто питання нестійкости міжфазової межі в процесі фазових перетворень. Проведено аналізу впливу леґувальних елементів на морфологію фронту перетворення. Розглянуто умови морфологічної стабільности фронту перекристалізації у високолеґованих залізних стопах в процесі хеміко-термічного оброблення. Встановлено, що трансформація фронту перетворення здійснюється під дією концентраційних ґрадієнтів, спричинених перерозподілом основних леґувальних елементів попереду фронту перекристалізації.",
+		"en": "A generalization of theoretical information about the patterns of transformation of a conversion front during phase reactions is carried out. The theory of concentration supercooling based on diffusional redistribution of alloy components in a melt near crystallization boundary is considered. Transformation mechanisms of flat front of crystallization with structure change into cellular and dendritic are studied. Regulations of the interfacial boundary instability during the phase transition are considered. The effect of alloying elements on the morphology of the transformation front is analysed. The conditions of the morphological stability of the recrystallization front in the high-alloyed iron alloys during chemical-thermal treatment are considered. As established, the transformation of the conversion front is carried out under the action of concentration gradients. This is caused by the redistribution of the base alloying elements ahead of the recrystallization front.",
+		"ru": "Выполнено обобщение теоретической информации о закономерностях превращения конверсионного фронта при фазовых реакциях. Рассмотрена теория концентрационного переохлаждения, основой которого является диффузионное перераспределение компонентов сплава в расплаве вблизи границы кристаллизации. Изучены механизмы трансформации плоского фронта кристаллизации и перекристаллизации в ячеистый и дендритный. Рассмотрены вопросы неустойчивости межфазной границы в процессе фазового перехода. Проводится анализ влияния легирующих элементов на морфологию фронта превращения. Рассматриваются условия морфологической стабильности фронта перекристаллизации в высоколегированных железных сплавах в процессе химико-термической обработки. Установлено, что трансформация фронта превращения осуществляется под действием концентрационных градиентов, вызванных перераспределением основных легирующих элементов впереди фронта перекристаллизации."
+	},
+	"keywords": {
+		"ua": "фронт перекристалізації, фазові перетворення, трансформація фронту, міжфазова межа, концентраційні ґрадієнти, хеміко-термічне оброблення",
+		"en": "recrystallization front, phase transformations, front transformation, interphase boundary, concentration gradients, chemical-thermal treatment",
+		"ru": "фронт перекристаллизации, фазовые превращения, трансформация фронта, межфазная граница, концентрационные градиенты, химико-термическая обработка"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. В. Мовчан", "en": "O. V. Movchan", "ru": "А. В. Мовчан"},
+			"OID": [223]
+		},
+		{
+			"AID": {"ua": "К. О. Чорноіваненко", "en": "K. O. Chornoivanenko", "ru": "Е. А. Черноиваненко"},
+			"OID": [223]
+		}
+	],
+	"references": {
+		"count": 46,
+		"list":  [
+			{
+				"doi": "10.1016/S0966-9795(02)00119-X",
+				"or":  "J. Lapin, L. Ondrus, and M. Nazmy, Intermetallics, 10, No. 10: 1019 (2002).",
+				"tr":  "J. Lapin, L. Ondrus, and M. Nazmy, Intermetallics, 10, No. 10: 1019 (2002)."
+			},
+			{
+				"doi": "10.1016/0022-0248(77)90171-3",
+				"or":  "J. S. Langer and J. Muller-Krumbhaar, J. Crystal Growth, 42: 11 (1977).",
+				"tr":  "J. S. Langer and J. Muller-Krumbhaar, J. Crystal Growth, 42: 11 (1977)."
+			},
+			{
+				"doi": "10.1016/0001-6160(53)90126-6",
+				"or":  "W. A. Tiller, K. A. Jackson, J. W. Ruter, and B. Chalmers, Acta Met., 1, No. 4: 428 (1953).",
+				"tr":  "W. A. Tiller, K. A. Jackson, J. W. Ruter, and B. Chalmers, Acta Met., 1, No. 4: 428 (1953)."
+			},
+			{
+				"doi": "10.1063/1.1713333",
+				"or":  "W. W. Mullins and R. F. Sekerka, J. Appl. Phys., 35, No. 2: 444 (1964).",
+				"tr":  "W. W. Mullins and R. F. Sekerka, J. Appl. Phys., 35, No. 2: 444 (1964)."
+			},
+			{
+				"doi": "10.1063/1.1713887",
+				"or":  "R. F. Sekerka, J. Appl. Phys., 36, No. 1: 264 (1965).",
+				"tr":  "R. F. Sekerka, J. Appl. Phys., 36, No. 1: 264 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "S. R. Coriell and R. F. Sekerka, Rapid Solidification Processing II (Eds. R. Mehrabian, B. H. Kear, and M. Cohen) (Baton Rouge, Louisiana: Claitor’s: 1980), p. 35.",
+				"tr":  "S. R. Coriell and R. F. Sekerka, Rapid Solidification Processing II (Eds. R. Mehrabian, B. H. Kear, and M. Cohen) (Baton Rouge, Louisiana: Claitor’s: 1980), p. 35."
+			},
+			{
+				"doi": "10.1146/annurev.ms.15.080185.001003",
+				"or":  "S. R. Coriell, G. B. McFadden, and R. F. Sekerka, Ann. Rev. Mater. Sci., 15: 119 (1985).",
+				"tr":  "S. R. Coriell, G. B. McFadden, and R. F. Sekerka, Ann. Rev. Mater. Sci., 15: 119 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "S. R. Coriell and G. B. McFadden, Handbook of Crystal Growth 1. Fundamentals, Part B: Transport and Stability (Ed. D. T. J. Hurle) (Amsterdam: North-Holland: 1994), p. 785.",
+				"tr":  "S. R. Coriell and G. B. McFadden, Handbook of Crystal Growth 1. Fundamentals, Part B: Transport and Stability (Ed. D. T. J. Hurle) (Amsterdam: North-Holland: 1994), p. 785."
+			},
+			{
+				"doi": "",
+				"or":  "S. H. Davis, Theory of Solidification (Cambridge: Cambridge University Press: 2001).",
+				"tr":  "S. H. Davis, Theory of Solidification (Cambridge: Cambridge University Press: 2001)."
+			},
+			{
+				"doi": "10.1051/jphys:01985004603040100",
+				"or":  "B. Caroli, C. Caroli, and B. Roulet, J. Physique, 46, No. 3: 401 (1985).",
+				"tr":  "B. Caroli, C. Caroli, and B. Roulet, J. Physique, 46, No. 3: 401 (1985)."
+			},
+			{
+				"doi": "10.1016/0001-6160(86)90112-4",
+				"or":  "R. Trivedi and W. Kurz, Acta Met., 34, No. 8: 1663 (1986).",
+				"tr":  "R. Trivedi and W. Kurz, Acta Met., 34, No. 8: 1663 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Kurz, B. Giovanola, and R. Trivedi, Acta Met., 34, No. 8: 823 (1986).",
+				"tr":  "W. Kurz, B. Giovanola, and R. Trivedi, Acta Met., 34, No. 8: 823 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Kurz and D. J. Fisher, Fundamentals of Solidification (4th ed.) (Trans Tech Publications: 1998).",
+				"tr":  "W. Kurz and D. J. Fisher, Fundamentals of Solidification (4th ed.) (Trans Tech Publications: 1998)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.52.1",
+				"or":  "J. S. Langer, Rev. Mod. Phys., 52, No. 1: 5 (1980).",
+				"tr":  "J. S. Langer, Rev. Mod. Phys., 52, No. 1: 5 (1980)."
+			},
+			{
+				"doi": "10.1007/978-3-642-82761-7_4",
+				"or":  "R. A. Brown, Materials Sciences in Space (Eds. B. Feuerbacher, H. Hamacher, and R. J. Naumann) (Berlin–Heidelberg: Springer: 1986), p. 55.",
+				"tr":  "R. A. Brown, Materials Sciences in Space (Eds. B. Feuerbacher, H. Hamacher, and R. J. Naumann) (Berlin–Heidelberg: Springer: 1986), p. 55."
+			},
+			{
+				"doi": "10.1080/00018738800101379",
+				"or":  "D. A. Kessler, J. Koplik, H. Levin, Adv. Physics., 37, No. 3: 255 (1988).",
+				"tr":  "D. A. Kessler, J. Koplik, H. Levin, Adv. Physics., 37, No. 3: 255 (1988)."
+			},
+			{
+				"doi": "10.1016/0022-0248(91)90928-X",
+				"or":  "J. D. Weeks and W. J. Saarlos, Cryst. Growth, 112: 244 (1991).",
+				"tr":  "J. D. Weeks and W. J. Saarlos, Cryst. Growth, 112: 244 (1991)."
+			},
+			{
+				"doi": "10.1051/jphys:0198600470120209500",
+				"or":  "S. de Cheveigne, C. Guthmann, and M. Lebrun, J. Phys. (Paris), 47: 2095 (1986).",
+				"tr":  "S. de Cheveigne, C. Guthmann, and M. Lebrun, J. Phys. (Paris), 47: 2095 (1986)."
+			},
+			{
+				"doi": "10.1002/crat.2170290704",
+				"or":  "B. Billia and R. Triverdi, Handbook of Crystal Growth (Ed. D. Hurle) (Amsterdam: North Holland: 1993), vol. 1(b), p. 899.",
+				"tr":  "B. Billia and R. Triverdi, Handbook of Crystal Growth (Ed. D. Hurle) (Amsterdam: North Holland: 1993), vol. 1(b), p. 899."
+			},
+			{
+				"doi": "",
+				"or":  "A. H. Borysov, Kristallografiya, 36: 1267 (1991) (in Russian).",
+				"tr":  "A. H. Borysov, Kristallografiya, 36: 1267 (1991) (in Russian)."
+			},
+			{
+				"doi": "10.1016/1359-6454(95)00448-3",
+				"or":  "A. Ludwig and W. Kurz, Acta Met., 44: 3643 (1996).",
+				"tr":  "A. Ludwig and W. Kurz, Acta Met., 44: 3643 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Ovrutskiy and M. S. Rasshchupkina, Vestnik Dnepropetrovskogo Universiteta. Seryia ‘Fizika. Radioehlektronika’, 14, No. 12/1: 85 (2007) (in Russian).",
+				"tr":  "A. M. Ovrutskiy and M. S. Rasshchupkina, Vestnik Dnepropetrovskogo Universiteta. Seryia ‘Fizika. Radioehlektronika’, 14, No. 12/1: 85 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "D. A. Danilov and P. K. Khalenko, Vestnik Udmurtskogo Universiteta. Fizika. Khimiya, 1: 88 (2008) (in Russian).",
+				"tr":  "D. A. Danilov and P. K. Khalenko, Vestnik Udmurtskogo Universiteta. Fizika. Khimiya, 1: 88 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Zhuravlyov, Zatverdevanie i Kristallizatsiya Splavov s Geteroperekhodami [Solidification and Crystallization of Alloys with Heterojunctions] (Izhevsk: RHD: 2006) (in Russian).",
+				"tr":  "V. A. Zhuravlyov, Zatverdevanie i Kristallizatsiya Splavov s Geteroperekhodami [Solidification and Crystallization of Alloys with Heterojunctions] (Izhevsk: RHD: 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "P. K. Galenko and V.A. Zhuravlev, Physics of Dendrites (Singapore: World Scientific: 1994).",
+				"tr":  "P. K. Galenko and V.A. Zhuravlev, Physics of Dendrites (Singapore: World Scientific: 1994)."
+			},
+			{
+				"doi": "10.1007/s11661-003-0311-x",
+				"or":  "M. A. Martorano, C. Beckermann, and Ch.-A. Gandin, Metall. Mater. Trans. A, 34, No. 8: 1657 (2003).",
+				"tr":  "M. A. Martorano, C. Beckermann, and Ch.-A. Gandin, Metall. Mater. Trans. A, 34, No. 8: 1657 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "O. P. Maksimkin, Kh. V. Kadyrov, K. V. Tsai, and N. V. Shcherbinina, Fiz. Met. Metalloved., 97, No. 4: 42 (2004) (in Russian).",
+				"tr":  "O. P. Maksimkin, Kh. V. Kadyrov, K. V. Tsai, and N. V. Shcherbinina, Fiz. Met. Metalloved., 97, No. 4: 42 (2004) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0022-0248(88)90355-7",
+				"or":  "E. Zielinska-Rohozinska, J. Cryst. Growth., 87: 154 (1988).",
+				"tr":  "E. Zielinska-Rohozinska, J. Cryst. Growth., 87: 154 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "N. A. Arnautova and A. M. Ovrutskiy, Metallofiz. Noveishie Tekhnol., 21, No. 7: 15 (1999) (in Russian).",
+				"tr":  "N. A. Arnautova and A. M. Ovrutskiy, Metallofiz. Noveishie Tekhnol., 21, No. 7: 15 (1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "P. K. Khalenko, E. V. Kharanzhevskiy, and D. A. Danilov, Fiz. Met. Metalloved., 94, No. 2: 100 (2002) (in Russian).",
+				"tr":  "P. K. Khalenko, E. V. Kharanzhevskiy, and D. A. Danilov, Fiz. Met. Metalloved., 94, No. 2: 100 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "I. I. Sulimtsev, Izvestiya MGTU ‘MAMI’, 8, No. 2: 54 (2009) (in Russian).",
+				"tr":  "I. I. Sulimtsev, Izvestiya MGTU ‘MAMI’, 8, No. 2: 54 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "H. L. Tsarev, A. P. Laskovnev, and V. B. Babushkin, Vestsi AN BSSR. Seriya Fiz.-Tekhn. Navuk, No. 3: 20 (1986) (in Russian).",
+				"tr":  "H. L. Tsarev, A. P. Laskovnev, and V. B. Babushkin, Vestsi AN BSSR. Seriya Fiz.-Tekhn. Navuk, No. 3: 20 (1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. A. Astapchik and N. A. Bereza, Fiz. Met. Metalloved., 103, No. 1: 3 (2007) (in Russian).",
+				"tr":  "S. A. Astapchik and N. A. Bereza, Fiz. Met. Metalloved., 103, No. 1: 3 (2007) (in Russian)."
+			},
+			{
+				"doi": "10.2320/matertrans.46.1378",
+				"or":  "J. Banaszek and D. J. Browne, Mater. Trans., 46, No. 6: 1378 (2005).",
+				"tr":  "J. Banaszek and D. J. Browne, Mater. Trans., 46, No. 6: 1378 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.60.6865",
+				"or":  "M. Plapp and A. Karma, Phys. Rev. E, 60, No. 6: 6865 (1999).",
+				"tr":  "M. Plapp and A. Karma, Phys. Rev. E, 60, No. 6: 6865 (1999)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(99)00287-6",
+				"or":  "W. J. Boettinger and S. R. Coriell, Acta Mater., 48: 43 (2000).",
+				"tr":  "W. J. Boettinger and S. R. Coriell, Acta Mater., 48: 43 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "K. A. Jackson and J. D. Hunt, Trans. Met. Soc. AIME, 236, No. 8: 1129 (1966).",
+				"tr":  "K. A. Jackson and J. D. Hunt, Trans. Met. Soc. AIME, 236, No. 8: 1129 (1966)."
+			},
+			{
+				"doi": "",
+				"or":  "H. W. Weart and J. D. Mack, Trans Met. Soc. AIME, 212, No. 3: 664 (1958).",
+				"tr":  "H. W. Weart and J. D. Mack, Trans Met. Soc. AIME, 212, No. 3: 664 (1958)."
+			},
+			{
+				"doi": "10.1063/1.1735492",
+				"or":  "G. F. Boiling and W. A. Tiller, J. Appl. Phys., 31, No. 11: 2040 (1960).",
+				"tr":  "G. F. Boiling and W. A. Tiller, J. Appl. Phys., 31, No. 11: 2040 (1960)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. I. Petukhov and A. I. Beketov, Izv. AN SSSR. Metally, No. 4: 90 (1980) (in Russian).",
+				"tr":  "Yu. I. Petukhov and A. I. Beketov, Izv. AN SSSR. Metally, No. 4: 90 (1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. I. Petukhov, V. I. Poliakova, and L. V. Potaturkina, Izv. AN SSSR. Metally, No. 2: 76 (1986) (in Russian).",
+				"tr":  "Yu. I. Petukhov, V. I. Poliakova, and L. V. Potaturkina, Izv. AN SSSR. Metally, No. 2: 76 (1986) (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF02652329",
+				"or":  "N. F. Dean, A. Mortensen, and M. C. Flemings, Metall. Mater. Trans. A, 25, No. 10: 2295 (1994).",
+				"tr":  "N. F. Dean, A. Mortensen, and M. C. Flemings, Metall. Mater. Trans. A, 25, No. 10: 2295 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "K. P. Bunin, V. I. Movchan, and V. V. Nikiforova, Izv. VUZov. Chernaya Metallurgiya, No. 2: 106 (1977) (in Russian).",
+				"tr":  "K. P. Bunin, V. I. Movchan, and V. V. Nikiforova, Izv. VUZov. Chernaya Metallurgiya, No. 2: 106 (1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Movchan and V. V. Vladimirova, Izv. AN SSSR. Metally, No. 6: 52 (1988) (in Russian).",
+				"tr":  "V. I. Movchan and V. V. Vladimirova, Izv. AN SSSR. Metally, No. 6: 52 (1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. V. Movchan, Stroitelstvo, Materialovedenie, Mashinostroenie: Sbornik Nauchnykh Trudov (Dnipropetrovsk: PGASA: 2009), Iss. 48, Pt. 2, p. 3 (in Russian).",
+				"tr":  "A. V. Movchan, Stroitelstvo, Materialovedenie, Mashinostroenie: Sbornik Nauchnykh Trudov (Dnipropetrovsk: PGASA: 2009), Iss. 48, Pt. 2, p. 3 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. V. Raynor and V. G. Rivlin, Phase Equilibria in Iron Ternary Alloys (London: The Institute of Metals: 1988).",
+				"tr":  "G. V. Raynor and V. G. Rivlin, Phase Equilibria in Iron Ternary Alloys (London: The Institute of Metals: 1988)."
+			}
+		]
+	}
+}

@@ -1,0 +1,342 @@
+{
+	"_id":    "UFM.04.02.081",
+	"year":   2003,
+	"volume": 4,
+	"issue":  2,
+	"pages":  [81,122],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["28.01.2002"],
+	"PACS":   "05.70.Ln, 66.30.Ny, 81.30.Bx, 81.30.Mh, 82.60.Lf, 82.60.Nh",
+	"title":   {
+		"ua": "Взаємна дифузія у потрійних системах з двофазними областями: підходи та моделі",
+		"en": "Interdiffusion in Ternary Systems with Two-Phase Zones—Approaches and Models",
+		"ru": "Взаимная диффузия в тройных системах с двухфазными областями: подходы и модели"
+	},
+	"abstract": {
+		"ua": "Проаналізовані особливості взаємної дифузії в потрійних металевих системах. Складність теоретичного і експериментального дослідження взаємної дифузії в багатокомпонентних сплавах пов’язана з можливістю формування двофазних зон внаслідок дифузійної взаємодії в системах, що мають двофазні області на ізотермічній діаграмі стану. Моделювання взаємної дифузії в потрійних системах з двофазними областями робить можливим описати ріст двофазних зон, визначити дифузійний шлях і проаналізувати його стійкість. При різних спрощуючих наближеннях розглянуті термодинамічні та кінетичні підходи, що дозволяють вирішити нові проблеми, пов’язані з добавкою одного або більше компонентів в бінарну систему. Серед таких проблем найбільш цікавими є: 1) створення самоузгодженої моделі побудови діаграми стану та дифузійної взаємодії з можливістю утворення двофазної зони; 2) вибір дифузійного шляху в концентраційному трикутнику; 3) визначення критерію формування двофазної зони; 4) дослідження морфології двофазної зони в залежності від початкового складу та дифузійних параметрів.",
+		"en": "Salient features of interdiffusion in the ternary metallic systems are analysed. Investigation of interdiffusion in ternary and other multicomponent alloys is difficult in both theoretical and experimental aspects because it can lead to the two-phase zone formation in the result of the diffusion interaction in the systems with two-phase fields on the isothermal phase diagram. A modelling of the interdiffusion in the ternary systems with two-phase regions makes possible to take into account the two-phase zone growth, to determine the diffusion path and to analyse their stability under the different approaches. Such a modelling requires a consideration of different thermodynamic and diffusion approaches. Addition of one or more components to the binary system makes all diffusion problems much more complicated and introduces new problems. Among them the most interesting seem to be: 1) creation of self-consistent model of the phase-diagrams’ construction and diffusion interaction with possibility of the two-phase zone formation; 2) choice of the diffusion path within concentration triangle; 3) determination of the two-phase zone formation criteria; 4) investigation of the morphology being dependent on the initial condition and diffusion parameters.",
+		"ru": "Проанализированы особенности взаимной диффузии в тройных металлических системах. Сложность теоретического и экспериментального исследования взаимной диффузии в многокомпонентных системах связана с возможностью формирования двухфазных зон в результате диффузионного взаимодействия в сплавах, имеющих двухфазные области на изотермической диаграмме состояния. Моделирование взаимной диффузии в тройных системах с двухфазными областями делает возможным описать рост двухфазных зон, определить диффузионный путь и проанализировать его стабильность. При различных упрощающих приближениях рассмотрены термодинамические и кинетические подходы, позволяющие решить новые проблемы, связанные с добавкой одного или более компонентов в бинарную систему. Среди таких проблем наиболее интересными есть: 1) создание самосогласованной модели построения диаграммы состояния и диффузионного взаимодействия с возможностью образования двухфазной зоны; 2) выбор диффузионного пути в концентрационном треугольнике; 3) определение критерия формирования двухфазной зоны; 4) исследование морфологии двухфазной зоны в зависимости от начального состава и диффузионных параметров."
+	},
+	"keywords": {
+		"ua": "взаємна дифузія, двофазна область, двофазная зона, потрійні системи, діаграма стану",
+		"en": "interdiffusion, two-phase region, two-phase zone, ternary systems, phase diagram",
+		"ru": "взаимная диффузия, двухфазная область, двухфазная зона, тройные системы, диаграмма состояния"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. О. Ляшенко", "en": "Yu. O. Lyashenko", "ru": "Ю. А. Ляшенко"},
+			"OID": [214]
+		}
+	],
+	"references": {
+		"count": 61,
+				"list":  [
+			{
+				"doi": "10.1016/0022-5088(88)90325-6",
+				"or":  "C. C. Cheng and J. D. Verhoeven, J. Less-Common Metals, 139: 15 (1988).",
+				"tr":  "C. C. Cheng and J. D. Verhoeven, J. Less-Common Metals, 139: 15 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "J. A. van Beek, P. J. T. L. Oberndorff, A. A. Kodentsov, and F. J. J. van Loo, J. Alloys Comp., 297: 137 (2000).",
+				"tr":  "J. A. van Beek, P. J. T. L. Oberndorff, A. A. Kodentsov, and F. J. J. van Loo, J. Alloys Comp., 297: 137 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "J. S. Kirkaldy and D. J. Young, Diffusion in the Condensed State (London: The Institute of Metals: 1987).",
+				"tr":  "J. p. Kirkaldy and D. J. Young, Diffusion in the Condensed State (London: The Institute of Metals: 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "S. R. De Groot and P. Mazur, Non-Equilibrium Thermodynamics (Amsterdam: 1962).",
+				"tr":  "p. R. De Groot and P. Mazur, Non-Equilibrium Thermodynamics (Amsterdam: 1962)."
+			},
+			{
+				"doi": "",
+				"or":  "И. П. Боровский, К. П. Гуров, И. Д. Марчукова, Ю. Э. Угасте, Процессы взаимной диффузии в сплавах (Москва: Наука: 1973).",
+				"tr":  "I. P. Borovskii, K. P. Gurov, I. D. Marchukova, Yu. E. Ugaste, Protsessy vzaimnoi diffuzii v splavakh (Moskva: Nauka: 1973)."
+			},
+			{
+				"doi": "10.1179/cmq.1963.2.1.89",
+				"or":  "J. S. Kirkaldy and L. C. Brown, Can. Met. Quart., 2, No. 1: 89 (1963).",
+				"tr":  "J. P. Kirkaldy and L. C. Brown, Can. Met. Quart., 2, No. 1: 89 (1963)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Мещанинов, В сб.: Диффузионные процессы в металлах (Тула: ТПИ: 1982).",
+				"tr":  "B. A. Meshchaninov, V sb.: Diffuzionnye protsessy v metallakh (Tula: TPI: 1982)."
+			},
+			{
+				"doi": "",
+				"or":  "J. S. Kirkaldy, Trans. ASM, 51: 218 (1966).",
+				"tr":  "J. P. Kirkaldy, Tranp. ASM, 51: 218 (1966)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Т. Борисов, В. М. Голиков, Г. В. Щербединский, Защитные покрытия в металлах (Киев: 1968), вып. 2, c. 33.",
+				"tr":  "V. T. Borisov, V. M. Golikov, G. V. Shcherbedinskii, Zashchitnye pokrytiya v metallakh (Kiev: 1968), No. 2, c. 33."
+			},
+			{
+				"doi": "",
+				"or":  "К. П. Гуров, Б. А. Карташкин, А. Н. Чадов, Диффузионные процессы в металлах (Тула: ТПИ: 1980), с. 3.",
+				"tr":  "K. P. Gurov, B. A. Kartashkin, A. N. Chadov, Diffuzionnye protsessy v metallakh (Tula: TPI: 1980), p. 3."
+			},
+			{
+				"doi": "10.1179/030634581790426723",
+				"or":  "G. W. Roper and D. P. Whittle, Met. Sci., 15: 148 (1981).",
+				"tr":  "G. W. Roper and D. P. Whittle, Met. Sci., 15: 148 (1981)."
+			},
+			{
+				"doi": "10.1016/0956-7151(94)90454-5",
+				"or":  "W. D. Hopfe and J. E. Morral, Acta metall. mater., 42, No. 11: 3887 (1994).",
+				"tr":  "W. D. Hopfe and J. E. Morral, Acta metall. mater., 42, No. 11: 3887 (1994)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(99)00004-X",
+				"or":  "H. Chen and J. E. Morral, Acta mater., 47, No. 4: 1175 (1999).",
+				"tr":  "H. Chen and J. E. Morral, Acta mater., 47, No. 4: 1175 (1999)."
+			},
+			{
+				"doi": "10.1016/0022-5088(87)90334-1",
+				"or":  "A. A. Kodentzov, S. F. Dunaev, and E. M. Slusarenko, J. Less-Common Metals, 135: 15 (1987).",
+				"tr":  "A. A. Kodentzov, p. F. Dunaev, and E. M. Slusarenko, J. Less-Common Metals, 135: 15 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "J. A. Nesbitt and R. W. Heckel, Metall. Trans. A, 18A: 1987 (1987).",
+				"tr":  "J. A. Nesbitt and R. W. Heckel, Metall. Tranp. A, 18A: 1987 (1987)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/SSP.72.123",
+				"or":  "M. A. Dayananda, Solid State Phenomena, 72: 123 (2000).",
+				"tr":  "M. A. Dayananda, Solid State Phenomena, 72: 123 (2000)."
+			},
+			{
+				"doi": "10.1016/0079-6786(90)90007-3",
+				"or":  "F. J. I. van Loo, Prog. Solid St. Chem., 20: 47 (1990).",
+				"tr":  "F. J. I. van Loo, Prog. Solid St. Chem., 20: 47 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Wagner, Z. Anorg. Allgem. Chem., 236: 320 (1938).",
+				"tr":  "C. Wagner, Z. Anorg. Allgem. Chem., 236: 320 (1938)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Hauffe, Solid State and Surface Reaction (Moscow: 1963).",
+				"tr":  "K. Hauffe, Solid State and Surface Reaction (Moscow: 1963)."
+			},
+			{
+				"doi": "10.1007/BF02644523",
+				"or":  "R. A. Rapp, A. Ezis, and G. J. Yurek, Metall. Trans. A, 4: 1283 (1973).",
+				"tr":  "R. A. Rapp, A. Ezis, and G. J. Yurek, Metall. Tranp. A, 4: 1283 (1973)."
+			},
+			{
+				"doi": "10.1007/BF02644524",
+				"or":  "G. J. Yurek, R. A. Rapp, and J. P. Hirt, Metall. Trans. A, 4: 1293 (1973).",
+				"tr":  "G. J. Yurek, R. A. Rapp, and J. P. Hirt, Metall. Tranp. A, 4: 1293 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Щербединский, М. Г. Исаков, Г. С. Абрамов, Диффузионные процессы в металлах (Тула: ТПИ: 1977).",
+				"tr":  "G. V. Shcherbedinskii, M. G. Isakov, G. P. Abramov, Diffuzionnye protsessy v metallakh (Tula: TPI: 1977)."
+			},
+			{
+				"doi": "10.1007/BF02658322",
+				"or":  "S. R. Shatynski, J. P. Hirt, and R. A. Rapp, Metall. Trans. A, 10A: 591 (1979).",
+				"tr":  "P. R. Shatynski, J. P. Hirt, and R. A. Rapp, Metall. Tranp. A, 10A: 591 (1979)."
+			},
+			{
+				"doi": "10.1007/BF02644423",
+				"or":  "C. Tangchitvittaya, J. P. Hirt, and R. A. Rapp, Metall. Trans. A, 13A: 585 (1982).",
+				"tr":  "C. Tangchitvittaya, J. P. Hirt, and R. A. Rapp, Metall. Tranp. A, 13A: 585 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Г. Исаков, Диффузионные процессы в металлах (Тула: ТПИ: 1978), с. 31.",
+				"tr":  "M. G. Isakov, Diffuzionnye protsessy v metallakh (Tula: TPI: 1978), p. 31."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Щербединский, Г. С. Абрамов, Диффузионные процессы в металлах (Тула: ТПИ: 1978), с. 36.",
+				"tr":  "G. V. Shcherbedinskii, G. P. Abramov, Diffuzionnye protsessy v metallakh (Tula: TPI: 1978), p. 36."
+			},
+			{
+				"doi": "",
+				"or":  "М. Г. Исаков, В. К. Толпыго, Диффузионные процессы в металлах (Тула: ТПИ: 1987), с. 31.",
+				"tr":  "M. G. Isakov, V. K. Tolpygo, Diffuzionnye protsessy v metallakh (Tula: TPI: 1987), p. 31."
+			},
+			{
+				"doi": "",
+				"or":  "П. О. Мчедлов-Петросян, С. Л. Содин, Журнал техн. физики, 58: 652 (1988).",
+				"tr":  "P. O. Mchedlov-Petrosyan, p. L. Sodin, Zhurnal tekhn. fiziki, 58: 652 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "P. O. Mchedlov-Petrossyan, Металлофиз. новейшие технол., 24, № 1: 25 (2002).",
+				"tr":  "P. O. Mchedlov-Petrossyan, Metallofiz. noveishie tekhnol., 24, No. 1: 25 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Некрасов, Феноменологическая теория взаимной диффузии в неоднофазной области многокомпонентных металлических систем (Томск: 1988) (Деп. в ВИНИТИ, N5368-B88).",
+				"tr":  "E. A. Nekrasov, Fenomenologicheskaya teoriya vzaimnoi diffuzii v neodnofaznoi oblasti mnogokomponentnykh metallicheskikh sistem (Tomsk: 1988) (Dep. v VINITI, N5368-B88)."
+			},
+			{
+				"doi": "10.1007/s11661-000-0114-2",
+				"or":  "С. W. Sinclair, G. R. Purdy, and J. E. Morral, Metall. Trans. A, 31A: 1187 (2000).",
+				"tr":  "P. W. Sinclair, G. R. Purdy, and J. E. Morral, Metall. Tranp. A, 31A: 1187 (2000)."
+			},
+			{
+				"doi": "10.1063/1.1702607",
+				"or":  "W. W. Mullins and R. F. Sekerka, J. Appl. Phys., 34: 323 (1963).",
+				"tr":  "W. W. Mullins and R. F. Sekerka, J. Appl. Phyp., 34: 323 (1963)."
+			},
+			{
+				"doi": "10.1063/1.1713333",
+				"or":  "W. W. Mullins and R. F. Sekerka, J. Appl. Phys., 35: 444 (1964).",
+				"tr":  "W. W. Mullins and R. F. Sekerka, J. Appl. Phyp., 35: 444 (1964)."
+			},
+			{
+				"doi": "10.1016/0956-7151(94)90482-0",
+				"or":  "L. Q. Chen, Acta mater., 42: 3503 (1994).",
+				"tr":  "L. Q. Chen, Acta mater., 42: 3503 (1994)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(01)00257-9",
+				"or":  "K. Wu, J. E. Morral, and Y. Wang, Acta mater., 49: 3401 (2001).",
+				"tr":  "K. Wu, J. E. Morral, and Y. Wang, Acta mater., 49: 3401 (2001)."
+			},
+			{
+				"doi": "10.1016/0001-6160(86)90165-3",
+				"or":  "M. S. Thompson and J. E. Morral, Acta metall. mater., 34: 2201 (1986).",
+				"tr":  "M. S. Thompson and J. E. Morral, Acta metall. mater., 34: 2201 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "J. B. Clark and F. N. Rhines, Trans. ASM, 51: 199 (1959).",
+				"tr":  "J. B. Clark and F. N. Rhines, Tranp. ASM, 51: 199 (1959)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Osinski, A. W. Vriend, G. F. Bastin, and F. J. J. van Loo, Z. Metallk., 73: 258 (1982).",
+				"tr":  "K. Osinski, A. W. Vriend, G. F. Bastin, and F. J. J. van Loo, Z. Metallk., 73: 258 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "F. J. J. van Loo, A. W. Vriend, and K. Osinski, In: Fundamentals and Applications of Ternary Diffusion (Ed. G. R. Purdy) (Oxford: Pergamon Press: 1990).",
+				"tr":  "F. J. J. van Loo, A. W. Vriend, and K. Osinski, In: Fundamentals and Applications of Ternary Diffusion (Ed. G. R. Purdy) (Oxford: Pergamon Press: 1990)."
+			},
+			{
+				"doi": "10.1016/0956-716X(95)00082-7",
+				"or":  "M. R. Rijnders and F. J. J. van Loo, Scripta Metallurgica et Materialia, 32: No. 12: 1931 (1995).",
+				"tr":  "M. R. Rijnders and F. J. J. van Loo, Scripta Metallurgica et Materialia, 32: No. 12: 1931 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "M. R. Rijnders, J. A. van Beek, A. A. Kodentsov, and F. J. J. van Loo, Z. Metallk., 87: 732 (1996).",
+				"tr":  "M. R. Rijnders, J. A. van Beek, A. A. Kodentsov, and F. J. J. van Loo, Z. Metallk., 87: 732 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Kodentsov, M. J. H. van Dal, C. Cserhati, A. M. Gusak, and F.J.J. van Loo, Defect and Diffusion Forum, 194–199: 1491 (2001).",
+				"tr":  "A. A. Kodentsov, M. J. H. van Dal, C. Cserhati, A. M. Gusak, and F.J.J. van Loo, Defect and Diffusion Forum, 194–199: 1491 (2001)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(98)00309-7",
+				"or":  "A. A. Kodentsov, M. R. Rijnders, and F. J. J. van Loo, Acta mater., 46: 6521 (1998).",
+				"tr":  "A. A. Kodentsov, M. R. Rijnders, and F. J. J. van Loo, Acta mater., 46: 6521 (1998)."
+			},
+			{
+				"doi": "10.1016/0956-7151(93)90226-I",
+				"or":  "C. R. Kao and Y. A. Chang, Acta mater., 43: 3463 (1993).",
+				"tr":  "C. R. Kao and Y. A. Chang, Acta mater., 43: 3463 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "R. E. Liesegang, Naturw. Wschr., 11: 353 (1896).",
+				"tr":  "R. E. Liesegang, Naturw. Wschr., 11: 353 (1896)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(99)00357-2",
+				"or":  "W. J. Boettinger, S. R. Coriell, C. E. Campbell, and G. B. McFadden, Acta mater., 48: 481 (2000).",
+				"tr":  "W. J. Boettinger, p. R. Coriell, C. E. Campbell, and G. B. McFadden, Acta mater., 48: 481 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Гусак, ЖФХ., 64, Вып. 2: 510 (1990).",
+				"tr":  "A. M. Gusak, ZhFKh., 64, No. 2: 510 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Гусак, Ю. А. Ляшенко, Проблема двухфазных зон при описании взаимной диффузии (Киев: 1988) (Деп. в ВИНИТИ, N992-B89).",
+				"tr":  "A. M. Gusak, Yu. A. Lyashenko, Problema dvukhfaznykh zon pri opisanii vzaimnoi diffuzii (Kiev: 1988) (Dep. v VINITI, N992-B89)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Гусак, Ю. А. Ляшенко, ИФЖ, № 5: 675 (1990).",
+				"tr":  "A. M. Gusak, Yu. A. Lyashenko, IFZh, No. 5: 675 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Гусак, Ю. А. Ляшенко, Металлофизика, 13, № 4: 48 (1991).",
+				"tr":  "A. M. Gusak, Yu. A. Lyashenko, Metallofizika, 13, No. 4: 48 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Gusak, Yu. A. Lyashenko, S. V. Kornienko, and A. S. Shirinyan, Defect and Diffusion Forum, 143–147: 683 (1997).",
+				"tr":  "A. M. Gusak, Yu. A. Lyashenko, p. V. Kornienko, and A. p. Shirinyan, Defect and Diffusion Forum, 143–147: 683 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. А. Ляшенко, Т. П. Муковоз, Металлофизика, 16, № 6, 23 (1994).",
+				"tr":  "Yu. A. Lyashenko, T. P. Mukovoz, Metallofizika, 16, No. 6, 23 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. A. Lyashenko and S. V. Kornienko, Solid State Phenomena, 72: 135 (2000).",
+				"tr":  "Yu. A. Lyashenko and p. V. Kornienko, Solid State Phenomena, 72: 135 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. A. Lyashenko, Вісник Черкаського університету, вип. 37–38: 69 (2002).",
+				"tr":  "Yu. A. Lyashenko, Visnyk Cherkas'kogo universitetu, No. 37–38: 69 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Гусак, П. Н. Захаров, ЖФХ, 53, Вып. 6: 1573 (1979).",
+				"tr":  "A. M. Gusak, P. N. Zakharov, ZhFKh, 53, No. 6: 1573 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Криштал, П. Н. Захаров, А. Л. Мокров, ФТТ, 13, № 5: 1332 (1971).",
+				"tr":  "M. A. Krishtal, P. N. Zakharov, A. L. Mokrov, FTT, 13, No. 5: 1332 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Н. Захаров, Диффузионные процессы в металлах (Тула: 1982), с. 19.",
+				"tr":  "P. N. Zakharov, Diffuzionnye protsessy v metallakh (Tula: 1982), p. 19."
+			},
+			{
+				"doi": "",
+				"or":  "П. Н. Захаров, А. П. Мокров, ФММ, 46, № 4 (1978).",
+				"tr":  "P. N. Zakharov, A. P. Mokrov, FMM, 46, No. 4 (1978)."
+			},
+			{
+				"doi": "10.1080/01418610108217160",
+				"or":  "P. J. Desre and A. M. Gusak, Phil. mag. A, 81, No. 10: 2503 (2001).",
+				"tr":  "P. J. Desre and A. M. Gusak, Phil. mag. A, 81, No. 10: 2503 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Gusak and P. J. Desre, Defect and Diffusion Forum, 194–199: 201 (2001).",
+				"tr":  "A. M. Gusak and P. J. Desre, Defect and Diffusion Forum, 194–199: 201 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Kaufman and H. Bernstein, Computer Calculation of Phase Diagrams (New York: Academic Press: 1970).",
+				"tr":  "L. Kaufman and H. Bernstein, Computer Calculation of Phase Diagrams (New York: Academic Press: 1970)."
+			}
+		]
+	}
+}

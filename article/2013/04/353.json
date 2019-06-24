@@ -1,0 +1,326 @@
+{
+	"_id":    "UFM.14.04.353",
+	"year":   2013,
+	"volume": 14,
+	"issue":  4,
+	"pages":  [353,378],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["29.08.2013"],
+	"PACS":   "68.65.Нb, 71.23.Ft, 71.35.Ee, 73.20.Mf, 73.21.La",
+	"title":   {
+		"ua": "Електронні властивості нанорозмірних квазиатомних структур",
+		"en": "Electron Properties of Nanodimensional Quasi-Atomic Structures",
+		"ru": "Электронные свойства наноразмерных квазиатомных структур"
+	},
+	"abstract": {
+		"ua": "В огляді узагальнено результати теоретичних досліджень штучного атома (або надатома) — нанорозмірної квазиатомової структури з просторово розділеними електроном і діркою (дірка знаходиться в об’ємі напівпровідникової квантової точки (КТ), а електрон локалізований на зовнішній сферичній поверхні поділу КТ–діелектрична матриця). Показано, що з таких штучних атомів можлива побудова квазимолекуль і квазикристалів, що мають задані фізичні й хемічні властивості. Обговорюється роль надатомів у різних фізичних явищах і в технічних застосуваннях.",
+		"en": "A given review article summarizes the results of theoretical studies of artificial atom (or superatom)—nanodimensional quasi-atomic structure with the spatially separated electron and hole (hole is located within the semiconductor quantum dot (QD), and electron is localized on the outer spherical QD– dielectric-matrix interface). As shown, such artificial atoms can be used to construct quasi-molecules and quasi-crystals possessing specified physical and chemical properties. The role of the superatoms in different physical phenomena as well as in technical applications is discussed.",
+		"ru": "В обзоре обобщены результаты теоретических исследований искусственного атома (или сверхатома) — наноразмерной квазиатомной структуры с пространственно разделёнными электроном и дыркой (дырка находится в объёме полупроводниковой квантовой точки (КТ), а электрон локализуется на внешней сферической поверхности раздела КТ–диэлектрическая матрица). Показано, что из таких искусственных атомов возможно построение квазимолекул и квазикристаллов, обладающих заданными физическими и химическими свойствами. Обсуждается роль сверхатомов в различных физических явлениях, а также в технических применениях."
+	},
+	"keywords": {
+		"ua": "штучний атом, квазінульвимірні наносистеми, квантові точки, просторово розділені електрон і дірка, електронні властивості",
+		"en": "artificial atom, quasizerodimension nanosystems, quantum dots, spatially separated electron and hole, electronic properties",
+		"ru": "искусственный атом, квазинульмерные наносистемы, квантовые точки, пространственно разделённые электрон и дырка, электронные свойства"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. І. Покутній", "en": "S. I. Pokutnyi", "ru": "С. И. Покутний"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "П. П. Горбик", "en": "P. P. Gorbyk", "ru": "П. П. Горбик"},
+			"OID": [21]
+		}
+	],
+	"references": {
+		"count": 57,
+		"list":  [
+			{
+				"doi": "10.3367/UFNr.0154.198801d.0123",
+				"or":  "Е. А. Андрюшин, А. А. Быков, Успехи физ. наук, 154, № 1: 123 (1988).",
+				"tr":  "E. A. Andryushin and A. A. Bykov, Phys. Uspekhi, 154, No. 1: 123 (1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Watanabe and T. Inoshita, Optoelectron. Device Techol., 1: 33 (1986).",
+				"tr":  "H. Watanabe and T. Inoshita, Optoelectron. Device Techol., 1: 33 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "Ж. И. Алферов, Успехи физ. наук, 32, № 1: 3 (1998).",
+				"tr":  "Zh. I. Alferov, Phys. Uspekhi, 32, No. 1: 3 (1998) (in Russian)."
+			},
+			{
+				"doi": "10.1134/1.1187396",
+				"or":  "Н. Н. Леденцов, В. М. Устинов, Ж. И. Алферов, Физика и техника полупроводников, 32, № 4: 385 (1998).",
+				"tr":  "N. N. Ledentsov, V. M. Ustinov, and Zh. I. Alferov, Semiconductors, 32, No. 4: 385 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "Ж. И. Алферов, Успехи физ. наук, 172, № 9: 1068 (2002).",
+				"tr":  "3367/UFNr.0172.200209e.1068"
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, Ю. А. Куницкий, В. Л. Карбовский, Кластерные и наноструктурные материалы. Т. 2 (Киев: Академпериодика: 2001).",
+				"tr":  "A. P. Shpak, Yu. A. Kunitskiy, and V. L. Karbovskiy, Klasternye i Nanostrukturnye Materialy. T. 2 [Cluster and Nanostructured Materials. Vol. 2] (Kiev: Akademperiodika: 2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, Ю. А. Куницкий, В. И. Лысов, Кластерные и наноструктурные материалы. Т. 1 (Киев: Академпериодика: 2002).",
+				"tr":  "A. P. Shpak, Yu. A. Kunitskiy, and V. L. Karbovskiy, Klasternye i Nanostrukturnye Materialy. T. 1 [Cluster and Nanostructured Materials. Vol. 1] (Kiev: Akademperiodika: 2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, А. А. Дадыкин, И. В. Дубровин, Химия, физика и технология поверхности, вып. 11, 12: 261 (2006).",
+				"tr":  "P. P. Gorbik, A. A. Dadykin, and I. V. Dubrovin, Chemistry, Physics and Technology of Surface, Iss. 11, 12: 261 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, А. А. Дадыкин, И. В. Дубровин, Наносистеми, наноматеріали, нанотехнології, 1, № 2: 475 (2003).",
+				"tr":  "P. P. Gorbik, A. A. Dadykin, and I. V. Dubrovin, Nanosistemi, Nanomateriali, Nanotehnologii, 1, No. 2: 475 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, А. А. Дадыкин, И. В. Дубровин, Фізика і хімія твердого тіла, 5, № 3: 552 (2004).",
+				"tr":  "P. P. Gorbik, A. A. Dadykin, and I. V. Dubrovin, Physics and Chemistry of a Solid State, 5, No. 3: 552 (2004)."
+			},
+			{
+				"doi": "10.1007/s10853-011-5528-2",
+				"or":  "S. V. Kondratenko, Yu. N. Kozyrev, and A. G. Naumovets, J. Mater. Sci., 46: 5737 (2011).",
+				"tr":  "S. V. Kondratenko, Yu. N. Kozyrev, and A. G. Naumovets, J. Mater. Sci., 46: 5737 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. М. Козирев, М. Т. Картель, М. Ю. Рубежанська, Доповіді НАНУ, 1: 71 (2010).",
+				"tr":  "Yu. N. Kozyrev, M. T. Kartel', and M. Yu. Rubezhanska, Dopovidi NANU, 1: 71 (2010) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Кондратенко, О. В. Вакуленко, А. Г. Наумовець, Укр. физ. журн., 55, № 4: 381 (2010).",
+				"tr":  "S. V. Kondratenko, O. V. Vakulenko, and A. G. Naumovets', Ukr. J. Phys., 55, No. 4: 381 (2010) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Pokutnyi, Phys. Express, 1, No. 3: 158 (2011).",
+				"tr":  "S. I. Pokutnyi, Phys. Express, 1, No. 3: 158 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Pokutnyi, J. Nanoscienc. Lett., 1, No. 3: 191 (2011).",
+				"tr":  "S. I. Pokutnyi, J. Nanoscienc. Lett., 1, No. 3: 191 (2011)."
+			},
+			{
+				"doi": "10.1134/S1063782610040147",
+				"or":  "С. И. Покутний, Физика и техника полупроводников, 44, No. 4: 507 (2010).",
+				"tr":  "S. I. Pokutnyi, Semiconductors, 44, No. 4: 488 (2010)."
+			},
+			{
+				"doi": "10.1134/S1063782612020194",
+				"or":  "С. И. Покутний, Физика и техника полупроводников, 46, No. 2: 174 (2012).",
+				"tr":  "S. I. Pokutnyi, Semiconductors, 46, No. 2: 165 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Pokutnyi, Ukr. J. Phys. Rev., 3, No. 1: 46 (2006).",
+				"tr":  "S. I. Pokutnyi, Ukr. J. Phys. Rev., 3, No. 1: 46 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "A. П. Шпак, С. И. Покутний, Успехи физики металлов, 6, № 2: 105 (2005).",
+				"tr":  "A. P. Shpak and S. I. Pokutnyi, Uspehi Fiz. Met., 6, No. 2: 105 (2005) (in Russian)."
+			},
+			{
+				"doi": "10.1134/S1063782607110097",
+				"or":  "С. И. Покутний, Физика и техника полупроводников, 41, № 11: 1341 (2007).",
+				"tr":  "S. I. Pokutnyi, Semiconductors, 41, No. 11: 1341 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "A. П. Шпак, С. И. Покутний, Успехи физики металлов, 6, No. 2: 105 (2005).",
+				"tr":  "A. P. Shpak and S. I. Pokutnyi, Uspehi Fiz. Met., 6, No. 2: 105 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. П. Шпак, С. И. Покутний, В. Р. Уваров, Успехи физики металлов, 8, No. 2: 157 (2007).",
+				"tr":  "A. P. Shpak, S. I. Pokutnyi, and V. N. Uvarov, Uspehi Fiz. Met., 8, No. 2: 157 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. П. Шпак, С. И. Покутний, В. Р. Уваров, Успехи физики металлов, 8, No. 1: 1 (2007).",
+				"tr":  "A. P. Shpak, S. I. Pokutnyi, and V. N. Uvarov, Uspehi Fiz. Met., 8, No. 1: 1 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. П. Шпак, С. И. Покутний, В. Р. Уваров, Металлофиз. новейшие технол., 30, No. 4: 459 (2008).",
+				"tr":  "A. P. Shpak, S. I. Pokutnyi, and V. N. Uvarov, Metallofiz. Noveishie Tekhnol., 30, No. 4: 459 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Покутний, Металлофиз. новейшие технол., 32, No. 4: 724 (2010).",
+				"tr":  "S. I. Pokutnyi, Metallofiz. Noveishie Tekhnol., 32, No. 4: 724 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Покутний, Металлофиз. новейшие технол., 34, No. 6: 743 (2012).",
+				"tr":  "S. I. Pokutnyi, Metallofiz. Noveishie Tekhnol., 34, No. 6: 743 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Pokutnyi, Phys. Express, 2, No. 1: 20 (2012).",
+				"tr":  "S. I. Pokutnyi, Phys. Express, 2, No. 1: 20 (2012)."
+			},
+			{
+				"doi": "10.1134/S1063785013030139",
+				"or":  "С. И. Покутний, Журнал технической физики, 39, No. 3: 233 (2013).",
+				"tr":  "S. I. Pokutnyi, Techn. Phys. Lett., 39, No. 3: 233 (2013)."
+			},
+			{
+				"doi": "10.1134/S1063782613120178",
+				"or":  "С. И. Покутний, Физика и техника полупроводников, 47, No. 6: 780 (2013); С. И. Покутний, Физика и техника полупроводников, 47, No. 12: 1653 (2013).",
+				"tr":  "S. I. Pokutnyi, Semiconductors, 47, No. 6: 780 (2013); S. I. Pokutnyi, Semiconductors, 47, No. 12: 1653 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Pokutnyi, J. Nanostruct. Chem., 1, No. 5: 202 (2013).",
+				"tr":  "S. I. Pokutnyi, J. Nanostruct. Chem., 1, No. 5: 202 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Ефремов, С. И. Покутний, Физ. твердого тела, 27, № 1: 48 (1985).",
+				"tr":  "N. A. Efremov and S. I. Pokutnyi, Solid State Physics, 27, No. 1: 27 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Ефремов, С. И. Покутний, Физ. твердого тела, 32, № 10: 2921 (1990).",
+				"tr":  "N. A. Efremov and S. I. Pokutnyi, Solid State Physics, 32, No. 10: 2911 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Ефремов, С. И. Покутний, Физ. твердого тела, 33, № 10: 2845 (1991).",
+				"tr":  "N. A. Efremov and S. I. Pokutnyi, Solid State Physics, 33, No. 10: 2841 (1991)."
+			},
+			{
+				"doi": "10.1002/pssb.2221650108",
+				"or":  "S. I. Pokutnyi, phys. stat. sol. (b), 165, No. 1: 109 (1991).",
+				"tr":  "S. I. Pokutnyi, phys. stat. sol. (b), 165, No. 1: 109 (1991)."
+			},
+			{
+				"doi": "10.1002/pssb.2221720208",
+				"or":  "S. I. Pokutnyi, phys. stat. sol. (b), 172, No. 2: 573 (1992).",
+				"tr":  "S. I. Pokutnyi, phys. stat. sol. (b), 172, No. 2: 573 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Покутний, Физ. твердого тела, 35, № 2: 257 (1993).",
+				"tr":  "S. I. Pokutnyi, Solid State Physics, 35, No. 2: 244 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Покутний, ФТП, 31, № 12: 1443 (1997).",
+				"tr":  "S. I. Pokutnyi, Semiconductors, 31, No. 12: 1430 (1997)."
+			},
+			{
+				"doi": "10.1134/1.1403575",
+				"or":  "А. В. Двуреченский, А. И. Якимов, Физика и техника полупроводников, 35, № 9: 1143 (2001).",
+				"tr":  "A. V. Dvurechenskii and A. I. Yakimov, Semiconductors, 35, No. 9: 1143 (2001)."
+			},
+			{
+				"doi": "10.1088/0268-1242/15/12/305",
+				"or":  "A. I. Yakimov, N. P. Stepina, A. V. Dvurechenskii, A. I. Nikiforov, and A. V. Nenashev, Semicond. Sci. Technol., 15: 1125 (2000).",
+				"tr":  "A. I. Yakimov, N. P. Stepina, A. V. Dvurechenskii, A. I. Nikiforov, and A. V. Nenashev, Semicond. Sci. Technol., 15: 1125 (2000)."
+			},
+			{
+				"doi": "10.1070/QE2008v038n02ABEH013529",
+				"or":  "Yu. N. Kulchin and V. P. Dzyuba, Quantum Electr., 38, No. 2: 154 (2008).",
+				"tr":  "Yu. N. Kulchin and V. P. Dzyuba, Quantum Electr., 38, No. 2: 154 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. N. Kulchin and V. P. Dzyuba, Techn. Phys. Lett., 36, No. 21: 1 (2010).",
+				"tr":  "Yu. N. Kulchin and V. P. Dzyuba, Techn. Phys. Lett., 36, No. 21: 1 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. N. Kulchin and V. P. Dzyuba, Pacific Science Rev., 12, No. 1: 102 (2010).",
+				"tr":  "Yu. N. Kulchin and V. P. Dzyuba, Pacific Science Rev., 12, No. 1: 102 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. В. Бондарь, М. С. Бродин, Физика и техника полупроводников, 44, № 7: 915 (2010).",
+				"tr":  "N. V. Bondar' and M. S. Brodyn, Semiconductors, 44, No. 7: 915 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Я. Грабовскис, Я. Я. Дзенис, А. И. Екимов, Физ. твердого тела, 31, № 1: 272 (1989).",
+				"tr":  "V. Ya. Hrabovskis, Ya. Ya. Dzenis, and A. I. Ekimov, Solid State Physics, 31, No. 1: 272 (1989)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/AMR.276.159",
+				"or":  "A. O. Podolian and Yu. N. Kozyrev, Adv. Mater. Research, 276: 159 (2011).",
+				"tr":  "A. O. Podolian and Yu. N. Kozyrev, Adv. Mater. Research, 276: 159 (2011)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.84.115425",
+				"or":  "V. S. Lysenko, Yu. V. Gomeniuk, and Yu. N. Kozyrev, Phys. Rev. B, 86: 115425 (2011).",
+				"tr":  "V. S. Lysenko, Yu. V. Gomeniuk, and Yu. N. Kozyrev, Phys. Rev. B, 86: 115425 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Козырев, М. Ю. Рубежанская, А. А. Чуйко, Структурные особенности эпитаксиальных гетероструктур с квантовыми точками Ge на Si (Киев: Институт химии поверхности НАН Украины: 2004).",
+				"tr":  "Yu. N. Kozyrev, M. Yu. Rubezhanskaya, and A. A. Chuyko, Strukturnyye Osobennosti Epitaksialnykh Geterostruktur s Kvantovymi Tochkami Ge na Si [Structural Features of Epitaxial Heterostructures with Quantum Dots Ge on Si] (Kiev: Institut Khimii Poverkhnosti NAN Ukrainy: 2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Келдыш, Письма в ЖЭТФ, 29, № 11: 776 (1979).",
+				"tr":  "L. V. Keldysh, JETP Letters, 29, No. 11: 754 (1979)."
+			},
+			{
+				"doi": "10.1063/1.1759791",
+				"or":  "S. I. Pokutnyi, J. Appl. Phys., 96, No. 2: 11115 (2004).",
+				"tr":  "S. I. Pokutnyi, J. Appl. Phys., 96, No. 2: 11115 (2004)."
+			},
+			{
+				"doi": "10.1016/j.physleta.2005.04.070",
+				"or":  "S. I. Pokutnyi, Phys. Lett. A, 342: 347 (2005).",
+				"tr":  "S. I. Pokutnyi, Phys. Lett. A, 342: 347 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Pokutnyi, J. Appl. Chem., 1, No. 1: 5 (2013).",
+				"tr":  "S. I. Pokutnyi, J. Appl. Chem., 1, No. 1: 5 (2013)."
+			},
+			{
+				"doi": "10.11648/j.optics.20130204.11",
+				"or":  "S. I. Pokutnyi and P. P. Gorbyk, Optics, 2, No. 4: 47 (2013).",
+				"tr":  "S. I. Pokutnyi and P. P. Gorbyk, Optics, 2, No. 4: 47 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. А. Маныкин, Письма в ЖТФ, 43, № 3: 172 (2008).",
+				"tr":  "E. A. Manykin, Techn. Phys. Lett., 34, No. 3: 172 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Krebs, Phys. Rev. Lett., 68, No. 3: 211 (2004).",
+				"tr":  "P. Krebs, Phys. Rev. Lett., 68, No. 3: 211 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Л. Гинзбург, В. В. Келле, Письма в ЖЭТФ, 17: 428 (1973).",
+				"tr":  "V. L. Hinzburg and V. V. Kelle, JETP Letters, 17: 404 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Е. Лозовик, В. Н. Нишанов, Физ. твердого тела, 18: 3267 (1976).",
+				"tr":  "Yu. E. Lozovik and V. N. Nishanov, Solid State Physics, 18: 3224 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Б. Мигдал, Качественные методы в квантовой теории (Москва: Наука: 1975).",
+				"tr":  "A. B. Migdal, Kachestvennyye Metody v Kvantovoy Teorii [Qualitative Methods in Quantum Theory] (Moscow: Nauka: 1975) (in Russian)."
+			}
+		]
+	}
+}

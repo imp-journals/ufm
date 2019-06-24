@@ -1,0 +1,279 @@
+{
+	"_id":    "UFM.05.01.037",
+	"year":   2004,
+	"volume": 5,
+	"issue":  1,
+	"pages":  [37,50],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["11.07.2002","19.05.2003"],
+	"PACS":   "62.20.Fe, 75.20.Ck, 75.20.En, 75.40.Gb",
+	"title":   {
+		"ua": "Прояв аномальних діямагнетних властивостей у деформованих монокристалах металів і напівпровідників",
+		"en": "Manifestation of Anomalous Diamagnetic Properties of the Deformed Single Crystals of Metals and Semiconductors",
+		"ru": "Проявление аномальных диамагнитных свойств в деформированных монокристаллах металлов и полупроводников"
+	},
+	"abstract": {
+		"ua": "У проблемному викладі проаналізовано результати експериментальних досліджень магнітних властивостей деформованих металів і напівпровідників. Зроблено спробу пояснення експериментально спостережуваних аномального діямагнетизму та нерезонансного сиґналу мікрохвильового відгуку утворенням структурних неоднорідностей в об’ємі деформованого матеріялу.",
+		"en": "In a given basic research, experimental investigations of the magnetic properties of deformed metals and semiconductors are analysed. The anomalous diamagnetism and nonresonant signal of the microwave response of samples at issue are explained by the formation of structural inhomogeneities within the bulk of deformed material.",
+		"ru": "В проблемном изложении проанализированы результаты экспериментальных исследований магнитных свойств деформированных металлов и полупроводников. Сделана попытка объяснения экспериментально наблюдаемых аномального диамагнетизма и нерезонансного сигнала микроволнового отклика образованием структурных неоднородностей в объеме деформированного материала."
+	},
+	"keywords": {
+		"ua": "діамагнетик, магнітна сприйнятливість, деформація, структурна неоднорідність",
+		"en": "diamagnetic, magnetic susceptibility, deformation, structural inhomogeneity",
+		"ru": "диамагнетик, магнитная восприимчивость, деформация, структурная неоднородность"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. В. Бродовий", "en": "O. V. Brodovy", "ru": "А. В. Бродовой"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "В. О. Бродовий", "en": "V. O. Brodovy", "ru": "В. А. Бродовой"},
+			"OID": [5]
+		},
+		{
+			"AID": {"ua": "С. Г. Бунчук", "en": "S. G. Bunchuk", "ru": "С. Г. Бунчук"},
+			"OID": [20]
+		},
+		{
+			"AID": {"ua": "В. В. Скороход", "en": "V. V. Skorokhod", "ru": "В. В. Скороход"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 46,
+				"list":  [
+			{
+				"doi": "",
+				"or":  "И. Я. Дехтяр, Р. Г. Федченко, ФТТ, 7, № 3: 893 (1965).",
+				"tr":  "I. Ya. Dekhtyar, R. G. Fedchenko, FTT, 7, No. 3: 893 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Я. Дехтяр, В. С. Михаленков, ФТТ, 7, № 5: 2997 (1965).",
+				"tr":  "I. Ya. Dekhtyar, V. S. Mikhalenkov, FTT, 7, No. 5: 2997 (1965)."
+			},
+			{
+				"doi": "10.1103/PhysRev.74.610",
+				"or":  "J. Reebie and T. S. Hutchison, Phys. Rev., 74: 610 (1948).",
+				"tr":  "J. Reebie and T. S. Hutchison, Phys. Rev., 74: 610 (1948)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Дерягин, В. А. Павлов, К. Б. Власов, С. П. Грубова, Физ. мет. металловед., 32, № 6: 1231 (1971).",
+				"tr":  "A. I. Deryagin, V. A. Pavlov, K. B. Vlasov, S. P. Grubova, Fiz. met. metalloved., 32, No. 6: 1231 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Дерягин, В. А. Павлов, К. Б. Власов, В. Ф. Шишминцев, Физ. мет. металловед., 41, № 5: 1101 (1976).",
+				"tr":  "A. I. Deryagin, V. A. Pavlov, K. B. Vlasov, V. F. Shishmintsev, Fiz. met. metalloved., 41, No. 5: 1101 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Я. Дехтяр, В. В. Немошкаленко, Электронная структура и электронные свойства переходных металлов и сплавов (Киев: Наук. думка: 1971).",
+				"tr":  "I. Ya. Dekhtyar, V. V. Nemoshkalenko, Elektronnaya struktura i elektronnye svoystva perekhodnykh metallov i splavov (Kiev: Naukova Dumka: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. П. Страхов, ФТТ, 11, № 11: 3067 (1969).",
+				"tr":  "L. P. Strakhov, FTT, 11, No. 11: 3067 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "R. K. Mak Crone and C. Cr. Haman, Solid State Commun., 35, No. 8: 615 (1980).",
+				"tr":  "R. K. Mak Crone and C. Cr. Haman, Solid State Commun., 35, No. 8: 615 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "T. H. Geballe and C. W. Chu, Comm. Sol. St. Phys., 9: 115 (1979).",
+				"tr":  "T. H. Geballe and C. W. Chu, Comm. Solid State Phys., 9: 115 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Б. Брандт, С. И. Кувшинников, А. И. Русаков, М. В. Семенов, Письма ЖЭТФ, 27: 37 (1978).",
+				"tr":  "N. B. Brandt, S. I. Kuvshinnikov, A. I. Rusakov, M. V. Semenov, Pis'ma ZhETF, 27: 37 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "B. L. Matess and C. L. Foiles, Large Diamagnetism and Paramagnetism Associated with a CuCl:Si Interface (Michigan: 1985) (Prepr./ Michigan State University, USA).",
+				"tr":  "B. L. Matess and C. L. Foiles, Large Diamagnetism and Paramagnetism Associated with a CuCl:Si Interface (Michigan: 1985) (Prepr./ Michigan State University, USA)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.28.5041",
+				"or":  "P. J. Cote, C. G. Homan, W. C. Moffat et al., Phys. Rev. B, 28: 5041 (1983).",
+				"tr":  "P. J. Cote, C. G. Homan, W. C. Moffat et al., Phys. Rev. B, 28: 5041 (1983)."
+			},
+			{
+				"doi": "10.1143/JJAP.22.L523",
+				"or":  "T. Ogushi, K. Obara, and T. Anajama, Japan. J. Appl. Phys., 22: L523 (1983).",
+				"tr":  "T. Ogushi, K. Obara, and T. Anajama, Japan. J. Appl. Phys., 22: L523 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "И. М. Дмитренко, А. А. Мошенский, Б. Л. Ревва, Тез. докл. 23-го Всесоюзн. совещ. по физике низких температур (Таллин: 1984), ч. 2, с. 80.",
+				"tr":  "I. M. Dmitrenko, A. A. Moshenskiy, B. L. Revva, Tez. dokl. 23-go Vsesoyuzn. soveshch. po fizike nizkikh temperatur (Tallin: 1984), Chapter 2, p. 80."
+			},
+			{
+				"doi": "",
+				"or":  "И. М. Зарицкий, А. А. Кончиц, Природа гистерезисных сигналов микроволнового отклика в ВТСП-подобных системах (Киев: 1991) (Препр./ Институт полупроводников АН УССР: № 4–9).",
+				"tr":  "I. M. Zaritskiy, A. A. Konchits, Priroda gisterezisnykh signalov mikrovolnovogo otklika v VTSP-podobnykh sistemakh (Kiev: 1991) (Prepr./ Institut poluprovodnikov AN USSR: No. 4–9)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Бродовой, И. К. Засимчук, В. Г. Колесниченко и др., Докл. НАН Украины, № 4: 109 (1997).",
+				"tr":  "A. V. Brodovoy, I. K. Zasimchuk, V. G. Kolesnichenko et al., Dokl. NAN Ukrainy, No. 4: 109 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Бродовой, В. Г. Колесниченко, С. П. Колесник и др., Металлофиз. новейшие технол., 19, № 11: 73 (1997).",
+				"tr":  "A. V. Brodovoy, V. G. Kolesnichenko, S. P. Kolesnik et al., Metallofiz. Noveishie Tekhnol., 19, No. 11: 73 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Бугай, Б. М. Булах, И. Н. Зарицкий, Проблемы высокотемпературной сверхпроводимости (Свердловск: 1987), ч. 1, с. 213.",
+				"tr":  "A. A. Bugay, B. M. Bulakh, I. N. Zaritskiy, Problemy vysokotemperaturnoy sverkhprovodimosti (Sverdlovsk: 1987), ch. 1, s. 213."
+			},
+			{
+				"doi": "10.1126/science.139.3552.338-a",
+				"or":  "R. H. Wentorf and J. J. Kasper, Science, 139: 338 (1963).",
+				"tr":  "R. H. Wentorf and J. J. Kasper, Science, 139: 338 (1963)."
+			},
+			{
+				"doi": "10.1126/science.139.3556.762",
+				"or":  "J. S. Jamieson, Science, 139: 762 (1963).",
+				"tr":  "J. S. Jamieson, Science, 139: 762 (1963)."
+			},
+			{
+				"doi": "10.1016/0031-9163(65)90473-7",
+				"or":  "W. Buchel and J. Wittig, Phys. Lett., 17: 187 (1965).",
+				"tr":  "W. Buchel and J. Wittig, Phys. Lett., 17: 187 (1965)."
+			},
+			{
+				"doi": "10.1126/science.139.3552.340",
+				"or":  "F. P. Bunday and J. Kasper, Science, 139: 340 (1963).",
+				"tr":  "F. P. Bunday and J. Kasper, Science, 139: 340 (1963)."
+			},
+			{
+				"doi": "10.1016/S0081-1947(08)60410-5",
+				"or":  "H. Dricamer, Sol. St. Phys., 17: 1 (1965).",
+				"tr":  "H. Dricamer, Solis State Phys., 17: 1 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Берман, Н. Б. Брандт, В. И. Сидоров, Письма в ЖЭТФ, 14: 18 (1971).",
+				"tr":  "I. V. Berman, N. B. Brandt, V. I. Sidorov, Pis'ma v ZhETF, 14: 18 (1971)."
+			},
+			{
+				"doi": "10.1016/0022-3697(62)90085-9",
+				"or":  "S. Minomura and H. G. Drickamer, Phys. Chem. Sol., 23: 451 (1962).",
+				"tr":  "S. Minomura and H. G. Drickamer, Phys. Chem. Sol., 23: 451 (1962)."
+			},
+			{
+				"doi": "10.1126/science.155.3763.685",
+				"or":  "J. Wittig, Science, 155: 675 (1967).",
+				"tr":  "J. Wittig, Science, 155: 675 (1967)."
+			},
+			{
+				"doi": "10.1103/PhysRev.130.540",
+				"or":  "A. Jayaraman, W. Klement, and G. Kennedy, Phys. Rev., 130: 540 (1963).",
+				"tr":  "A. Jayaraman, W. Klement, and G. Kennedy, Phys. Rev., 130: 540 (1963)."
+			},
+			{
+				"doi": "10.1126/science.147.3664.1441",
+				"or":  "I. B. Mc Whan, G. W. Hull, and T. R. Mc Donald, Science, 147: 1441 (1965).",
+				"tr":  "I. B. Mc Whan, G. W. Hull, and T. R. Mc Donald, Science, 147: 1441 (1965)."
+			},
+			{
+				"doi": "10.1038/1881095a0",
+				"or":  "H. A. Gebbie, P. L. Smith, and I. G. Austin, Nature, 188: 1095 (1960).",
+				"tr":  "H. A. Gebbie, P. L. Smith, and I. G. Austin, Nature, 188: 1095 (1960)."
+			},
+			{
+				"doi": "10.1038/1911288a0",
+				"or":  "A. Jayaraman, R. G. Newton, and G. Kennedy, Nature, 191: 1288 (1961).",
+				"tr":  "A. Jayaraman, R. G. Newton, and G. Kennedy, Nature, 191: 1288 (1961)."
+			},
+			{
+				"doi": "10.1126/science.139.3561.1301-a",
+				"or":  "H. E. Bömmel, A. J. Darnell, and W. F. Libby, Science, 139: 1301 (1963).",
+				"tr":  "H. E. Bommel, A. J. Darnell, and W. F. Libby, Science, 139: 1301 (1963)."
+			},
+			{
+				"doi": "10.1016/0031-9163(66)90201-0",
+				"or":  "S. Minomura, B. Okai, V. Onodo, and S. Tanuma, Phys. Lett., 23: 641 (1961).",
+				"tr":  "S. Minomura, B. Okai, V. Onodo, and S. Tanuma, Phys. Lett., 23: 641 (1961)."
+			},
+			{
+				"doi": "10.1063/1.1727968",
+				"or":  "D. B. Mc Whan and M. Marezio, J. Chem. Phys., 45: 2508 (1966).",
+				"tr":  "D. B. Mc Whan and M. Marezio, J. Chem. Phys., 45: 2508 (1966)."
+			},
+			{
+				"doi": "10.1103/PhysRev.135.A1453",
+				"or":  "A. J. Darnell and W. F. Libby, Phys. Rev., 135: A145 (1964).",
+				"tr":  "A. J. Darnell and W. F. Libby, Phys. Rev., 135: A145 (1964)."
+			},
+			{
+				"doi": "10.1016/0022-3697(65)90164-2",
+				"or":  "S. Geller, A. Jayaraman, and Jr. Hull, J. Phys. Chem. Sol., 26: 353 (1965).",
+				"tr":  "S. Geller, A. Jayaraman, and Jr. Hull, J. Phys. Chem. Sol., 26: 353 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Г. Понятовский, А. Г. Рябинин, Письма ЖЭТФ, 6: 471 (1967).",
+				"tr":  "E. G. Ponyatovskiy, A. G. Ryabinin, Pis'ma ZhETF, 6: 471 (1967)."
+			},
+			{
+				"doi": "10.1063/1.1657069",
+				"or":  "M. D. Banus and M. S. Layine, J. Appl. Phys., 40, No. 5: 409 (1969).",
+				"tr":  "M. D. Banus and M. S. Layine, J. Appl. Phys., 40, No. 5: 409 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "A. V. Brodovoi, V. G. Kolesnichenko, and V. V. Skorohod, Abstr. of V Int’l Conf. ‘Materials Science and Material Properties for Infrared Optoelectronics (Proc. SPIE: 2000), p. 83.",
+				"tr":  "A. V. Brodovoi, V. G. Kolesnichenko, and V. V. Skorohod, Abstr. of V Int'l Conf. 'Materials Science and Material Properties for Infrared Optoelectronics (Proc. SPIE: 2000), p. 83."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. А. Браташевский, В. Д. Прозоровский, Ю. О. Хариновский, ФНТ, 3: 120 (1997).",
+				"tr":  "Yu. A. Bratashevskiy, V. D. Prozorovskiy, Yu. O. Kharinovskiy, FNT, 3: 120 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "И. М. Зарицкий, А. Г. Ракитина, А. А. Кончиц и др., Письма ЖЭТФ, 55, 9: 516 (1992).",
+				"tr":  "I. M. Zaritskiy, A. G. Rakitina, A. A. Konchits et al., Pis'ma ZhETF, 55, 9: 516 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Бродовой, Г. А. Зыков, В. П. Кладько и др., Металлофиз. новейшие технол., 21, № 1: 45 (2000).",
+				"tr":  "A. V. Brodovoy, G. A. Zykov, V. P. Klad'ko et al., Metallofiz. Noveishie Tekhnol., 21, No. 1: 45 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRev.112.328",
+				"or":  "K. A. Brueckner and K. Sawada, Phys. Rev., 112, No. 2: 328 (1958).",
+				"tr":  "K. A. Brueckner and K. Sawada, Phys. Rev., 112, No. 2: 328 (1958)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Мачулин, В. И. Хрупа, Рентгеновская диагностика структурного совершенства слабо искаженных кристаллов (Киев: Наук. думка: 1995).",
+				"tr":  "V. F. Machulin, V. I. Khrupa, Rentgenovskaya diagnostika strukturnogo sovershenstva slabo iskazhennykh kristallov (Kiev: Naukova Dumka: 1995)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Крылова, ЖФХ, 65, № 12: 3266 (1991).",
+				"tr":  "I. V. Krylova, ZhFKh, 65, No. 12: 3266 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Крылова, Вестн. МГУ. Химия, 33, № 6: 538 (1992).",
+				"tr":  "I. V. Krylova, Vestn. MGU. Khimiya, 33, No. 6: 538 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Л. Инденбом, Письма в ЖЭТФ, 46, Приложения: 144–147 (1987).",
+				"tr":  "V. L. Indenbom, Pis'ma v ZhETF, 46, Prilozheniya: 144–147 (1987)."
+			}
+		]
+	}
+}

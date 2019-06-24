@@ -1,0 +1,232 @@
+{
+	"_id":    "UFM.11.03.273",
+	"year":   2010,
+	"volume": 11,
+	"issue":  3,
+	"pages":  [273,293],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["15.03.2010"],
+	"PACS":   "61.72.Ff, 62.20.Qp, 68.35.Ct, 68.37.-d, 81.15.Rs, 81.40.Wx, 81.65.Lp",
+	"title":   {
+		"ua": "Структурно-фазові стани титану після електровибухового леґування і наступної електронножмутової обробки",
+		"en": "Structural-Phase States of Titanium After an Electroexplosive Alloying and the Subsequent Electron-Beam Treatment",
+		"ru": "Структурно-фазовые состояния титана после электровзрывного легирования и последующей электроннопучковой обработки"
+	},
+	"abstract": {
+		"ua": "Виконано зміцнення поверхні технічно чистого титану електровибуховим алітуванням і бороалітуванням та наступною електронножмутовою обробкою. Методами сканівної і просвітної дифракційної електронної мікроскопії вивчено особливості рельєфу поверхні, структури й фазового складу зміцнених шарів. Вивчено розподіл мікротвердости за глибиною. Показано, що комбінована обробка призводить до формування низької шорсткости поверхні й характеризується малою кількістю мікротріщин. Загальна глибина зони впливу за алітування і бороалітування становить 60 і 90 мкм, а мікротвердість поверхні зростає в 2,3 і 5,5 раз відповідно. За глибиною зони комбінованого впливу розташовуються три шари, закономірно пов’язані один з одним: приповерхневий шар, межа якого визначається глибиною електронножмутової обробки; проміжний шар зі зміненим фазовим складом, викликаним електровибуховим леґуванням; шар термічного впливу, у якім зміцнення досягається внаслідок структурно-фазових змін основи стопу. Встановлено, що зміцнення досягається внаслідок формування багатофазної структури, що містить нанота мікрокристалічні частинки інтерметалідів системи титан—алюміній; за бороалітування виявлено також бориди алюмінію й титану різної морфології.",
+		"en": "The features of a surface relief, structure and phase composition of the hardened layers of commercially pure titanium after electroexplosive aluminizing and boroaluminizing with the subsequent electron-beam treatment are studied by methods of scanning and transmission electron-diffraction microscopies. The distribution of microhardness in depth is studied. As shown, the combined treatment leads to formation of a low roughness of a surface and is characterized by small quantity of microcracks. The total depth of a zone of influence at aluminizing and boroaluminizing is 60 and 90 $\\mu$m, respectively. The microhardness of a surface increases in 2.3 and 5.5 times, accordingly. Along the depth of the combined-treatment zone, three layers naturally connected with each other are observed: the near-surface layer, which has a boundary determined by the depth of the electron-beam treatment; the intermediate layer with the changed phase composition caused by the electroexplosive alloying; the layer of a thermal influence, in which the hardening is reached due to the structure—phase changes of an alloy base. As revealed, the hardening under electroexplosive aluminizing and electron-beam treatment is reached due to formation of the multiphase structure containing nanoand microcrystalline particles of intermetallic compounds of the titanium—aluminium system; under boroaluminizing, the aluminium and titanium borides of various morphology are also revealed.",
+		"ru": "Методами сканирующей и просвечивающей дифракционной электронной микроскопии изучены особенности рельефа поверхности, структуры и фазового состава упрочненных слоев технически чистого титана при электровзрывном алитировании и бороалитировании и последующей электроннопучковой обработке. Изучено распределение микротвердости по глубине. Показано, что комбинированная обработка приводит к формированию низкой шероховатости поверхности и характеризуется малым количеством микротрещин. Общая глубина зоны воздействия при алитировании и бороалитировании составляет 25 и 90 мкм, а микротвердость поверхности возрастает в 2,3 и 5,5 раза соответственно. По глубине зоны комбинированного воздействия располагаются три слоя, закономерно связанные друг с другом: приповерхностный слой, граница которого определяется глубиной электроннопучковой обработки; промежуточный слой с измененным фазовым составом, вызванным электровзрывным легированием; слой термического влияния, в котором упрочнение достигается вследствие структурно-фазовых изменений основы сплава. Установлено, что упрочнение достигается вследствие формирования многофазной структуры, содержащей нано- и микрокристаллические частицы интерметаллидов системы титан—алюминий; при бороалитировании также обнаружены бориды алюминия и титана различной морфологии."
+	},
+	"keywords": {
+		"ua": "електровибухове леґування, електроннопроменева обробка, структура, фазовий склад, мікротвердість",
+		"en": "electroexplosion alloying, electron-beam processing, structure, phase composition, microhardness",
+		"ru": "электровзрывное легирование, электроннопучковая обработка, структура, фазовый состав, микротвердость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. В. Карпій", "en": "S. V. Karpiy", "ru": "С. В. Карпий"},
+			"OID": [407]
+		},
+		{
+			"AID": {"ua": "М. М. Морозов", "en": "M. M. Morozov", "ru": "М. М. Морозов"},
+			"OID": [407]
+		},
+		{
+			"AID": {"ua": "Є. А. Будовскіх", "en": "E. A. Budovskikh", "ru": "Е. А. Будовских"},
+			"OID": [407]
+		},
+		{
+			"AID": {"ua": "Ю. Ф. Іванов", "en": "Yu. F. Ivanov", "ru": "Ю. Ф. Иванов"},
+			"OID": [408]
+		},
+		{
+			"AID": {"ua": "В. Є. Громов", "en": "V. E. Gromov", "ru": "В. Е. Громов"},
+			"OID": [407]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.16.03.175",
+				"cit": "V. E. Gromov, K. V. Sosnin, Yu. F. Ivanov and O. A. Semina, <a href=\"https://doi.org/10.15407/ufm.16.03.175\">Usp. Fiz. Met. <b>16</b>, 175 (2015)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 34,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "А. Я. Багаутдинов, Е. А. Будовских, Ю. Ф. Иванов и др., Физ. мезомеханика, 8, № 4: 89 (2005).",
+				"tr":  "A. Ya. Bagautdinov, E. A. Budovskikh, Yu. F. Ivanov et al., Fiz. mezomekhanika, 8, No. 4: 89 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Я. Багаутдинов, Е. А. Будовских, Ю. Ф. Иванов и др., Изв. вузов. Физика, 48, № 9: 36 (2005).",
+				"tr":  "A. Ya. Bagautdinov, E. A. Budovskikh, Yu. F. Ivanov et al., Izv. vuzov. Fizika, 48, No. 9: 36 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Я. Багаутдинов, Е. А. Будовских, Ю. Ф. Иванов и др., Вопросы материаловедения, № 3 (43): 32 (2005).",
+				"tr":  "A. Ya. Bagautdinov, E. A. Budovskikh, Yu. F. Ivanov et al., Voprosy materialovedeniya, No. 3 (43): 32 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Будовских, А. Я. Багаутдинов, Ю. Ф. Иванов и др., Деформация и разрушение материалов, № 11: 28 (2005).",
+				"tr":  "E. A. Budovskikh, A. Ya. Bagautdinov, Yu. F. Ivanov et al., Deformatsiya i razrushenie materialov, No. 11: 28 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Я. Багаутдинов, Е. А. Будовских, Ю. Ф. Иванов и др., Физика и химия обраб. материалов, № 2: 143 (2006).",
+				"tr":  "A. Ya. Bagautdinov, E. A. Budovskikh, Yu. F. Ivanov et al., Fizika i khimiya obrab. materialov, No. 2: 143 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Будовских, Ю. Ф. Иванов, А. Я. Багаутдинов и др., Деформация и разрушение материалов, № 3: 37 (2006).",
+				"tr":  "E. A. Budovskikh, Yu. F. Ivanov, A. Ya. Bagautdinov et al., Deformatsiya i razrushenie materialov, No. 3: 37 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Цвиркун, А. Я. Багаутдинов, Ю. Ф. Иванов и др., Изв. вуз. Чер. металлургия, № 6: 28 (2006).",
+				"tr":  "O. A. Tsvirkun, A. Ya. Bagautdinov, Yu. F. Ivanov et al., Izv. vuz. Cher. metallurgiya, No. 6: 28 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Цвиркун, Е. А. Будовских, Ю. Ф. Иванов, В. Е. Громов, Физ. мезомеханика, 9, № 4: 49 (2006).",
+				"tr":  "O. A. Tsvirkun, E. A. Budovskikh, Yu. F. Ivanov, V. E. Gromov, Fiz. mezomekhanika, 9, No. 4: 49 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А.Цвиркун, Е. А. Будовских, В. Е.Громов, Изв. вуз. Чер. металлургия, № 8: 55 (2006).",
+				"tr":  "O. A.Tsvirkun, E. A. Budovskikh, V. E.Gromov, Izv. vuz. Cher. metallurgiya, No. 8: 55 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "E. A. Budovskikh, O. A. Tsvirkun, Yu. F. Ivanov, and V. E. Gromov, Изв. вузов. Физика, 49, № 8, приложение: 367 (2006).",
+				"tr":  "E. A. Budovskikh, O. A. Tsvirkun, Yu. F. Ivanov, and V. E. Gromov, Izv. vuzov. Fizika, 49, No. 8, prilozhenie: 367 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Цвиркун, Ю. Ф. Иванов, Е. А. Будовских, В. Е. Громов, Физ. мезомеханика, 9, № 5: 91 (2006).",
+				"tr":  "O. A. Tsvirkun, Yu. F. Ivanov, E. A. Budovskikh, V. E. Gromov, Fiz. mezomekhanika, 9, No. 5: 91 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Цвиркун, Е. А. Будовских, Ю. Ф. Иванов, В. Е. Громов, Материаловедение, № 11: 30 (2006).",
+				"tr":  "O. A. Tsvirkun, E. A. Budovskikh, Yu. F. Ivanov, V. E. Gromov, Materialovedenie, No. 11: 30 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Цвиркун, Ю. Ф. Иванов, Е. А. Будовских, В. Е. Громов, Заготов. пр-ва в машиностроении, № 11: 37 (2006).",
+				"tr":  "O. A. Tsvirkun, Yu. F. Ivanov, E. A. Budovskikh, V. E. Gromov, Zagotov. pr-va v mashinostroenii, No. 11: 37 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Цвиркун, Е. А. Будовских, Ю. Ф. Иванов, В. Е. Громов, Особенности структуры и свойств перспективных материалов (Томск: НТЛ: 2006).",
+				"tr":  "O. A. Tsvirkun, E. A. Budovskikh, Yu. F. Ivanov, V. E. Gromov, Osobennosti struktury i svoistv perspektivnykh materialov (Tomsk: NTL: 2006)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Цвиркун, Ю. Ф. Иванов, Е. А. Будовских, В. Е. Громов, Изв. вузов. Чер. металлургия, № 2: 46 (2007).",
+				"tr":  "O. A. Tsvirkun, Yu. F. Ivanov, E. A. Budovskikh, V. E. Gromov, Izv. vuzov. Cher. metallurgiya, No. 2: 46 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Цвиркун, А. Я. Багаутдинов, Ю. Ф. Иванов и др., Изв вузов. Физика, 50, № 3: 3 (2007).",
+				"tr":  "O. A. Tsvirkun, A. Ya. Bagautdinov, Yu. F. Ivanov et al., Izv vuzov. Fizika, 50, No. 3: 3 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Я. Багаутдинов, О. А. Цвиркун, Е. А. Будовских и др., Металлург, № 3: 52 (2007).",
+				"tr":  "A. Ya. Bagautdinov, O. A. Tsvirkun, E. A. Budovskikh et al., Metallurg, No. 3: 52 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Цвиркун, Е. А. Будовских, А. Я. Багаутдинов и др., Изв. вузов. Чер. металлургия, № 6: 40 (2007).",
+				"tr":  "O. A. Tsvirkun, E. A. Budovskikh, A. Ya. Bagautdinov et al., Izv. vuzov. Cher. metallurgiya, No. 6: 40 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Я. Багаутдинов, Е. А. Будовских, Ю. Ф. Иванов, В. Е. Громов, Контроль. Диагностика. Ресурс: Сб. науч. тр. (Кемерово: КемГТУ: 2007), с. 155.",
+				"tr":  "A. Ya. Bagautdinov, E. A. Budovskikh, Yu. F. Ivanov, V. E. Gromov, Kontrol'. Diagnostika. Resurs: Sb. nauch. tr. (Kemerovo: KemGTU: 2007), s. 155."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Будовских, Ю. Ф. Иванов, Гуои Танг, В. Е. Громов, Изв. вузов. Чер. металлургия, № 6: 46 (2008).",
+				"tr":  "E. A. Budovskikh, Yu. F. Ivanov, Guoi Tang, V. E. Gromov, Izv. vuzov. Cher. metallurgiya, No. 6: 46 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Будовских, Ю. Ф. Иванов, В. Е. Громов, Структура и свойства перспективных металлических материалов (Томск: НТЛ: 2007).",
+				"tr":  "E. A. Budovskikh, Yu. F. Ivanov, V. E. Gromov, Struktura i svoistva perspektivnykh metallicheskikh materialov (Tomsk: NTL: 2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Будовских, Ю. Ф. Иванов, В. Е. Громов, Эволюция структуры и свойства металлических материалов (Томск: НТЛ: 2007).",
+				"tr":  "E. A. Budovskikh, Yu. F. Ivanov, V. E. Gromov, Evolyutsiya struktury i svoistva metallicheskikh materialov (Tomsk: NTL: 2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Будовских, П. В. Уваркин, В. Е. Громов, Изв. вузов. Чер. металлургия, № 3: 50 (2008).",
+				"tr":  "E. A. Budovskikh, P. V. Uvarkin, V. E. Gromov, Izv. vuzov. Cher. metallurgiya, No. 3: 50 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Будовских, Ю. Ф. Иванов, А. Я. Багаутдинов и др., Изв. вузов. Физика, 51, № 5: 71 (2008).",
+				"tr":  "E. A. Budovskikh, Yu. F. Ivanov, A. Ya. Bagautdinov et al., Izv. vuzov. Fizika, 51, No. 5: 71 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Будовских, С. В. Карпий, В. Е. Громов, Известия РАН. Серия физическая, 73, № 9: 1324 (2009).",
+				"tr":  "E. A. Budovskikh, S. V. Karpii, V. E. Gromov, Izvestiya RAN. Seriya fizicheskaya, 73, No. 9: 1324 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Углов, В. М. Анищик, Н. Н. Черенда и др., Физика и химия обраб. материалов, № 6: 57 (2007).",
+				"tr":  "V. V. Uglov, V. M. Anishchik, N. N. Cherenda et al., Fizika i khimiya obrab. materialov, No. 6: 57 (2007)."
+			},
+			{
+				"doi": "10.3367/UFNr.0175.200505e.0515",
+				"or":  "А. Д. Погребняк, Ю. Н. Тюрин, Успехи физ. наук, 175, № 5: 515 (2005).",
+				"tr":  "A. D. Pogrebnyak, Yu. N. Tyurin, Uspekhi Fiz. Nauk, 175, No. 5: 515 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Цвиркун, Е. А. Будовских, В. В. Руднева и др., Журнал функцион. материалов, 1, № 3: 117 (2007).",
+				"tr":  "O. A. Tsvirkun, E. A. Budovskikh, V. V. Rudneva et al., Zhurnal funktsion. materialov, 1, No. 3: 117 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Ю. А. Колубаева, А. Д. Тересов и др., Упрочняющие технологии и покрытия, № 2: 41 (2009).",
+				"tr":  "Yu. F. Ivanov, Yu. A. Kolubaeva, A. D. Teresov et al., Uprochnyayushchie tekhnologii i pokrytiya, No. 2: 41 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, С. В. Карпий, Н. Н. Коваль и др., Деформация и разрушение материалов, № 9: 39 (2009).",
+				"tr":  "Yu. F. Ivanov, S. V. Karpii, N. N. Koval' et al., Deformatsiya i razrushenie materialov, No. 9: 39 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Ю. А. Колубаева, С. Ю. Филимонов и др., Изв. вузов. Черная металлургия, № 10: 42 (2009).",
+				"tr":  "Yu. F. Ivanov, Yu. A. Kolubaeva, S. Yu. Filimonov et al., Izv. vuzov. Chernaya metallurgiya, No. 10: 42 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Н. Н. Коваль, С. Ю. Филимонов и др., Изв. вузов. Физика, 53, № 11/2: 161 (2009).",
+				"tr":  "Yu. F. Ivanov, N. N. Koval', S. Yu. Filimonov et al., Izv. vuzov. Fizika, 53, No. 11/2: 161 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Коваль, Ю. Ф. Иванов, Изв. вуз. Физика, 51, № 5: 60 (2008).",
+				"tr":  "N. N. Koval', Yu. F. Ivanov, Izv. vuz. Fizika, 51, No. 5: 60 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "К. С. Чернявский, Стереология в металловедении (Москва: Металлургия: 1977).",
+				"tr":  "K. S. Chernyavskii, Stereologiya v metallovedenii (Moskva: Metallurgiya: 1977)."
+			}
+		]
+	}
+}

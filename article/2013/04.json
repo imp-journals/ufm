@@ -1,0 +1,35 @@
+{
+	"year":   2013,
+	"volume": 14,
+	"issue":  4,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [319,352],
+			"title": {
+				"ua": "Використання методи точних МТ-орбіталей для моделювання термодинамічних і механічних властивостей чистих компонентів стопів на основі Ti і Zr",
+				"en": "The Application of Method of Exact MT-orbitals for Modelling of Thermodynamic and Mechanical Properties in Pure Components of Ti- and Zr-Based Alloys",
+				"ru": "Использование метода точных МТ-орбиталей для моделирования термодинамических и механических свойств чистых компонентов сплавов на основе Ti и Zr"
+			},
+			"autors": {
+				"ua": "І. А. Абрікосов, А. Ю. Ніконов, О. В. Пономарєва, А. І. Дмітрієв, С. О. Бараннікова",
+				"en": "I. A. Abrikosov, A. Yu. Nikonov, A. V. Ponomareva, A. I. Dmitriev, and S. A. Barannikova",
+				"ru": "И. А. Абрикосов, А. Ю. Никонов, А. В. Пономарева, А. И. Дмитриев, С. А. Баранникова"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [353,378],
+			"title": {
+				"ua": "Електронні властивості нанорозмірних квазиатомних структур",
+				"en": "Electron Properties of Nanodimensional Quasi-Atomic Structures",
+				"ru": "Электронные свойства наноразмерных квазиатомных структур"
+			},
+			"autors": {
+				"ua": "С. І. Покутній, П. П. Горбик",
+				"en": "S. I. Pokutnyi and P. P. Gorbyk",
+				"ru": "С. И. Покутний, П. П. Горбик"
+			}
+		}
+	]
+}

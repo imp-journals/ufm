@@ -1,0 +1,63 @@
+{
+	"year":   2016,
+	"volume": 17,
+	"issue":  4,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [303,341],
+			"title": {
+				"ua": "Формування структурно-фазових станів, дефектної субструктури та властивостей поверхні термомеханічно зміцненої низьковуглецевої криці",
+				"en": "Formation of Structural-Phase States, Defect Substructure and Properties of a Surface of Thermomechanically Hardened Low-Carbon Steel",
+				"ru": "Формирование структурно-фазовых состояний, дефектной субструктуры и свойств поверхности термомеханически упрочнённой низкоуглеродистой стали"
+			},
+			"autors": {
+				"ua": "В. Є. Громов, Ю. Ф. Іванов, Є. Г. Бєлов, В. Б. Костєрєв, Д. А. Косінов",
+				"en": "V. E. Gromov, Yu. F. Ivanov, E. G. Belov, V. B. Kosterev, and D. A. Kosinov",
+				"ru": "В. Е. Громов, Ю. Ф. Иванов, Е. Г. Белов, В. Б. Костерев, Д. А. Косинов"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [343,373],
+			"title": {
+				"ua": "Структура та фізико-механічні властивості стопу Nb–Ti після різних видів механіко-термічних впливів",
+				"en": "Structure and Physical-Mechanical Properties of a Nb–Ti Alloy after Different Kinds of Mechanical-Thermal Impacts",
+				"ru": "Структура и физико-механические свойства сплава Nb–Ti после разных видов механико-термических воздействий"
+			},
+			"autors": {
+				"ua": "Л. О. Чіркіна, М. Б. Лазарева, В. І. Соколенко, В. С. Оковит, В. В. Калиновський",
+				"en": "L. O. Chirkina, M. B. Lazareva, V. I. Sokolenko, V. S. Okovyt, and V. V. Kalynovsky",
+				"ru": "Л. А. Чиркина, М. Б. Лазарева, В. И. Соколенко, В. С. Оковит, В. В. Калиновский"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [375,399],
+			"title": {
+				"ua": "Обґрунтування застосування комплексно-кількісних метод задля оцінювання якостей матеріялів за умов високошвидкісного навантаження",
+				"en": "Justification of Application of Complex-Quantitative Methods for an Estimation of Qualities of Materials in the Conditions of a High-Speed Load",
+				"ru": "Обоснование применения комплексно-количественных методов для оценки качеств материалов в условиях высокоскоростной нагрузки"
+			},
+			"autors": {
+				"ua": "В. В. Куриляк, Г. І. Хімічева",
+				"en": "V. V. Kurylyak and G. I. Khimicheva",
+				"ru": "В. В. Куриляк, А. И. Химичева"
+			}
+		},
+		{
+			"type":    2,
+			"pages":  [401,405],
+			"title": {
+				"ua": "До 70-річчя академіка НАН України О. М. Івасишина",
+				"en": "On the Occasion of the 70th Anniversary of Birthday of O. M. Ivasishin, Member of the NAS of Ukraine",
+				"ru": "К 70-летию академика НАН Украины О. М. Ивасишина"
+			},
+			"autors": {
+				"ua": "Редакційна колегія",
+				"en": "Editorial Board",
+				"ru": "Редакционная коллегия"
+			}
+		}
+	]
+}

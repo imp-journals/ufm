@@ -1,0 +1,186 @@
+{
+	"_id":    "UFM.08.04.279",
+	"year":   2007,
+	"volume": 8,
+	"issue":  4,
+	"pages":  [279,294],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["01.12.2007"],
+	"PACS":   "61.43.Dq, 62.20.Qp, 62.40.+i, 68.60.Bs, 75.80.+q, 81.40.Ef, 81.40.Rs",
+	"title":   {
+		"ua": "Магнетомеханічні ефекти в аморфних стрічках, одержаних швидкою закалкою із розтопу",
+		"en": "Magnetomechanical Effects in the Amorphous Bands Fabricated by Rapid Quenching from a Smelt",
+		"ru": "Магнитомеханические эффекты в аморфных лентах, полученных быстрой закалкой из расплава"
+	},
+	"abstract": {
+		"ua": "Вперше досліджено вплив на мікротвердість аморфних стрічок ріжного складу тривалости витримки їх у постійнім магнетнім полі (МП) напруженістю 0,17 Т у повітрі за кімнатної температури. Встановлено немонотонну залежність мікротвердости від тривалости витримки зразків аморфних металевих стопів (АМС) у МП. Ця особливість проявляється як для магнетних, так і немагнетних АМС. Тривала експозиція в МП призводить до ефекту зміцнення. На основі виконаних досліджень зроблено припущення про те, що природа виявленого магнетомеханічного ефекту пов’язана з переходом аморфного стопу під впливом МП у новий структурний стан з іншими параметрами близького порядку та рівнем внутрішніх напружень.",
+		"en": "Impact of duration of holding of various-composition amorphous ribbons within the 0.17 T magnetic field (MF) on their microhardness is investigated for the first time. Ribbons are held in the air at room temperature. Non-monotonic dependence of microhardness on holding duration in MF for samples of amorphous metal alloys (AMA) is revealed. Such a feature manifests itself for both magnetic and non-magnetic AMA. Long-term holding in MF results in strengthening of AMA. As suggested, the detected magneto-mechanical effect is caused by transition of the amorphous alloy under MF action into a new structural state with different short-range order parameters and level of internal stresses.",
+		"ru": "Впервые исследовано влияние на микротвёрдость аморфных лент различного состава длительности их выдержки в постоянном магнитном поле (МП) напряженностью 0,17 Т на воздухе при комнатной температуре. Установлена немонотонная зависимость микротвердости от длительности выдержки образцов аморфных металлических сплавов (АМС) в МП. Эта особенность проявляется как для магнитных, так и немагнитных АМС. Длительная экспозиция в МП приводит к эффекту упрочнения. На основании проведенных исследований сделано предположение о том, что природа обнаруженного магнитомеханического эффекта связана с переходом аморфного сплава под воздействием МП в новое структурное состояние с иными параметрами ближнего порядка и уровнем внутренних напряжений."
+	},
+	"keywords": {
+		"ua": "аморфні металеві стопи, постійне магнетне поле, мікротвердість, магнетомеханічний ефект",
+		"en": "amorphous metal alloys, magnetostatic field, microhardness, magnetomechanical effect",
+		"ru": "аморфные металлические сплавы, постоянное магнитное поле, микротвердость, магнитомеханический эффект"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. О. Васильєв", "en": "M. O. Vasylyev", "ru": "М. А. Васильев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Г. Г. Галстян", "en": "G. G. Galstyan", "ru": "Г. Г. Галстян"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 29,
+				"list":  [
+			{
+				"doi": "",
+				"or":  "В. Ф. Мазанко, А. В. Покоев, В. М. Миронов, Диффузионные процессы в металлах под действием магнитных полей и импульсных деформаций. Т. 1, 2 (Москва: Машиностроение-1: 2006).",
+				"tr":  "V. F. Mazanko, A. V. Pokoev, V. M. Mironov, Diffuzionnye protsessy v metallakh pod deystviem magnitnykh poley i impul'snykh deformatsiy. Vol. 1, 2 (Moskva: Mashinostroenie-1: 2006)."
+			},
+			{
+				"doi": "10.1143/JPSJ.25.910",
+				"or":  "S. Hayashi, S. Takahashi, and M. Yamamoto, J. Phys. Soc. Japan, 25, No. 2: 910 (1968).",
+				"tr":  "S. Hayashi, S. Takahashi, and M. Yamamoto, J. Phys. Soc. Japan, 25, No. 2: 910 (1968)."
+			},
+			{
+				"doi": "10.1143/JPSJ.30.381",
+				"or":  "S. Hayashi, S. Takahashi, and M. Yamamoto, J. Phys. Soc. Japan, 30, No. 2: 381 (1971).",
+				"tr":  "S. Hayashi, S. Takahashi, and M. Yamamoto, J. Phys. Soc. Japan, 30, No. 2: 381 (1971)."
+			},
+			{
+				"doi": "10.15407/ufm.08.01.065",
+				"or":  "М. А. Васильев, Успехи физ. мет., 8, №1: 65 (2007).",
+				"tr":  "M. A. Vasil'ev, Usp. Fiz. Met., 8, No. 1: 65 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Alshits, E. V. Darinskaya, M. V. Koldaeva, and E. A. Petrzhik, Crystallography Reports, 48, No. 5: 768 (2003).",
+				"tr":  "V. I. Alshits, E. V. Darinskaya, M. V. Koldaeva, and E. A. Petrzhik, Crystallography Reports, 48, No. 5: 768 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Головин, ФТТ, 46, №5: 769 (2004).",
+				"tr":  "Yu. I. Golovin, Fiz. Tverd. Tela, 46, No. 5: 769 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Б. Моргунов, УФН, 174, №2: 131 (2004).",
+				"tr":  "R. B. Morgunov, Uspekhi Fiz. Nauk, 174, No. 2: 131 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Кузьменко, Н. И. Захаренко, Н. Г. Бабич, Докл. АН УССР. Сер. А. Физ.-мат. науки, №4: 66 (1987).",
+				"tr":  "P. P. Kuz'menko, N. I. Zakharenko, N. G. Babich, Dokl. AN USSR. Ser. A. Fiz.-Mat. Nauki, No. 4: 66 (1987)."
+			},
+			{
+				"doi": "10.1080/13642818708215332",
+				"or":  "Y. Wolfus, Y. Yeshurun, I. Felner et al., Phil. Magazine, 56, No. 6: 963 (1987).",
+				"tr":  "Y. Wolfus, Y. Yeshurun, I. Felner et al., Phil. Magazine, 56, No. 6: 963 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Ramakrishnan and A. Ghosh, Wear, 69, No. 1: 71 (1981).",
+				"tr":  "V. Ramakrishnan and A. Ghosh, Wear, 69, No. 1: 71 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Глезер, И. Е. Пермякова, В. А. Федоров, Изв. РАН. Сер. физич., 70, №9: 1396 (2006).",
+				"tr":  "A. M. Glezer, I. E. Permyakova, V. A. Fedorov, Izv. RAN. Ser. Fizich., 70, No. 9: 1396 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Мильман, В. П. Овчаров, С. В. Пан, А. П. Рачек, Порошковая металлургия, №12: 69 (1984).",
+				"tr":  "Yu. V. Mil'man, V. P. Ovcharov, S. V. Pan, A. P. Rachek, Poroshkovaya Metallurgiya, No. 12: 69 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Мильман, С. В. Пан, С. В. Постой, Р. К. Иващенко, Порошковая металлургия, №8: 49 (1990).",
+				"tr":  "Yu. V. Mil'man, S. V. Pan, S. V. Postoy, R. K. Ivashchenko, Poroshkovaya metallurgiya, No. 8: 49 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Маслов, Д. Ю. Падерно, Аморфные металлические сплавы (Киев: Наукова думка: 1987), с. 52.",
+				"tr":  "V. V. Maslov, D. Yu. Paderno, Amorfnye metallicheskie splavy (Kiev: Naukova dumka: 1987), s. 52."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Макара, Л. П. Стебленко, Н. Я. Горидько, В. Н. Кравченко, А. Н. Коломиец, ФТТ, 43, №3: 462 (2001).",
+				"tr":  "V. A. Makara, L. P. Steblenko, N. Ya. Gorid'ko, V. N. Kravchenko, A. N. Kolomiets, Fiz. Tverd. Tela, 43, No. 3: 462 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Макара, Л. П. Стебленко, Ю. Л. Кольченко, С. М. Науменко, О. А. Патран, Металлофиз. новейшие технол., 27, №4: 527 (2005).",
+				"tr":  "V. A. Makara, L. P. Steblenko, Yu. L. Kol'chenko, S. M. Naumenko, O. A. Patran, Metallofiz. Noveishie Tekhnol., 27, No. 4: 527 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Глезер, Б. М. Молотилов, ФММ, вып. 2: 5 (1990).",
+				"tr":  "A. M. Glezer, B. M. Molotilov, Fiz. Met. Metalloved., No. 2: 5 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Глезер, Рос. хим. ж. (Ж. Рос. хим. об-ва им. Д. И. Менделеева), XLVI, №5: 57 (2002).",
+				"tr":  "A. M. Glezer, Ros. Khim. Zh. (Zh. Ros. khim. ob-va im. D. I. Mendeleeva), XLVI, No. 5: 57 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Глезер, С. Г. Зайченко, Н. С. Перов, Е. А. Ганьшина, Изв. РАН. Сер. физич., 65, №10: 1472 (2001).",
+				"tr":  "A. M. Glezer, S. G. Zaychenko, N. S. Perov, E. A. Gan'shina, Izv. RAN. Ser. fizich., 65, No. 10: 1472 (2001)."
+			},
+			{
+				"doi": "10.1002/pssa.2210640224",
+				"or":  "H. Kronmuller and W. Fernengel, Phys. Stat. Sol. (a), 64: 593 (1981).",
+				"tr":  "H. Kronmuller and W. Fernengel, Phys. Stat. Sol. (a), 64: 593 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Глезер, Б. М. Молотилов, О. Л. Утевская, Металлофизика, 5, №1: 29 (1983).",
+				"tr":  "A. M. Glezer, B. M. Molotilov, O. L. Utevskaya, Metallofizika, 5, No. 1: 29 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Глезер, Б. М. Молотилов, О. Л. Утевская, ФММ, 58: 991 (1984).",
+				"tr":  "A. M. Glezer, B. M. Molotilov, O. L. Utevskaya, Fiz. Met. Metalloved., 58: 991 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Романова, В. В. Немошкаленко, Г. М. Зелинская и др., Металлофизика, 5, №4: 49 (1983).",
+				"tr":  "A. V. Romanova, V. V. Nemoshkalenko, G. M. Zelinskaya et al., Metallofizika, 5, No. 4: 49 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Ильинский, А. П. Бровко, Г. М. Зелинская и др., Металлофизика, 10, №2: 34 (1988).",
+				"tr":  "A. G. Il'inskiy, A. P. Brovko, G. M. Zelinskaya et al., Metallofizika, 10, No. 2: 34 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. М. Зелинская, Л. Е. Михайлова, А. П. Бровко, А. В. Романова, Металлофизика, 14, №1: 111 (1992).",
+				"tr":  "G. M. Zelinskaya, L. E. Mikhaylova, A. P. Brovko, A. V. Romanova, Metallofizika, 14, No. 1: 111 (1992)."
+			},
+			{
+				"doi": "10.1016/0921-5093(91)90304-6",
+				"or":  "S. V. Pan, Yu. Milman, and A. A. Malyshenko, Mater. Sci. Eng., A145: 127 (1991).",
+				"tr":  "S. V. Pan, Yu. Milman, and A. A. Malyshenko, Mater. Sci. Eng., A145: 127 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Я. Баянкин, В. Ю. Васильев, А. Х. Мельникова и др., Изв. АН СССР. Сер. физич., 50, №9: 1700 (1986).",
+				"tr":  "V. Ya. Bayankin, V. Yu. Vasil'ev, A. Kh. Mel'nikova et al., Izv. AN SSSR. Ser. Fizich., 50, No. 9: 1700 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Я. Баянкин, Н. А. Орлова, С. С. Самойлович, ФиХОМ, №3: 127 (1996).",
+				"tr":  "V. Ya. Bayankin, N. A. Orlova, S. S. Samoylovich, FiKhOM, No. 3: 127 (1996)."
+			},
+			{
+				"doi": "10.1016/j.susc.2006.06.028",
+				"or":  "S. P. Chenakin, M. A. Vasylyev, and G. G. Galstyan, N. Kruse, Surf. Sci., 600, Iss. 17: 3394 (2006).",
+				"tr":  "S. P. Chenakin, M. A. Vasylyev, and G. G. Galstyan, N. Kruse, Surf. Sci., 600, No. 17: 3394 (2006)."
+			}
+		]
+	}
+}

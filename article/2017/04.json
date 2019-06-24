@@ -1,0 +1,21 @@
+{
+	"year":   2017,
+	"volume": 18,
+	"issue":  4,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [295,400],
+			"title": {
+				"ua": "Мультимасштабне моделювання самоорганізації нерівноважних точкових дефектів в опромінюваному $\\alpha$-цирконії",
+				"en": "Multiscale Modelling of Self-Organization of Non-Equilibrium Point Defects in Irradiated $\\alpha$-Zirconium",
+				"ru": "Мультимасштабное моделирование самоорганизации неравновесных точечных дефектов в облучаемом $\\alpha$-цирконии"
+			},
+			"autors": {
+				"ua": "В. О. Харченко, І. О. Лисенко, О. М. Щокотова, А. І. Баштова, Д. О. Харченко, Ю. М. Овчаренко, С. В. Кохан, X. Wu, B. Wen, L. Wu, W. Zhang",
+				"en": "V. O. Kharchenko, I. O. Lysenko, O. M. Shchokotova, A. I. Bashtova, D. O. Kharchenko, Yu. M. Ovcharenko, S. V. Kokhan, X. Wu, B. Wen, L. Wu, W. Zhang",
+				"ru": "В. О. Харченко, И. О. Лысенко, О. М. Щокотова, А. И. Баштова, Д. О. Харченко, Ю. М. Овчаренко, С. В. Кохан, X. Wu, B. Wen, L. Wu, W. Zhang"
+			}
+		}
+	]
+}

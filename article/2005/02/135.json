@@ -1,0 +1,375 @@
+{
+	"_id":    "UFM.06.02.135",
+	"year":   2005,
+	"volume": 6,
+	"issue":  2,
+	"pages":  [135,168],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["13.01.2005"],
+	"PACS":   "75.70.-i, 78.20.Bh, 78.20.Ls, 78.66.-w, 78.67.-n, 79.20.Rf",
+	"title":   {
+		"ua": "Оптична та магнетооптична спектроскопія наноструктурних багатошарових плівок: можливі застосування",
+		"en": "Optical and Magnetooptical Spectroscopy of the Nanostructural Multilayered Films: Possible Applications",
+		"ru": "Оптическая и магнитооптическая спектроскопия наноструктурных многослойных пленок: возможные приложения"
+	},
+	"abstract": {
+		"ua": "В даній роботі показані можливості спектральної еліпсометрії та магнітооптичної (МО) спектроскопії для вивчення структури та особливостей фізичних властивостей багатошарових металевих плівок (БШП) з товщинами складаючих їх шарів порядку одиниць нанометрів. Основний підхід дослідження базується на порівнянні експериментально одержаних оптичних та МО властивостей БШП з модельними, що були одержані для різних моделей структури БШП. Було показано, що даний підхід дозволяє визначити природу незвичайних МО властивостей, а також природу інтерфейсної області БШП, що складаються з шарів благородних та 3$d$-перехідних металів (ПМ). В роботі також паказана висока чутливість спектральної еліпсометрії для вивчення твердотільних реакцій в БШП 3$d$-ПМ/Si, зумовлених іонним бомбардуванням або термічним відпалом. Оптичні властивості різних силіцидів 3$d$-ПМ, що було зформовані спонтанно або завдяки зовнішньому впливу, були вивчені експериментально та порівняні з результатами теоретичних першопринципних розрахунків.",
+		"en": "The aim of the paper is to show the potential of the spectroscopic ellipsometry and magnetooptical (MO) spectroscopy for probing of the multilayered films (MLF) with sublayer thickness of about a few nanometres. The main approach applied by us is based on the comparison of the experimental optical and MO properties with the simulated ones based on various models of the MLF. Specifically, as shown, such an approach can be useful for studying the nature of unusual MO properties and the interfaces in MLF comprising the noble and $3d$-transition metals ($3d$-TM). The high sensitivity of the applied spectroscopic methods for the monitoring of the solid-state reactions in the $3d$-TM/Si MLF induced by ion-beam treatment or by thermal annealing is also demonstrated. The optical properties of various silicides formed spontaneously or induced by various treatments at interfaces are evaluated experimentally and compared with the results of first-principle calculations.",
+		"ru": "В данной работе показаны возможности спектральной эллипсометрии и магнитооптической (МО) спектроскопии для изучения структуры и особенностей физических свойств многослойных металлических пленок (МСП) с толщинами составляющих слоев порядка единиц нанометров. Основной подход исследования базируется на сравнении экспериментально измеренных оптических и МО свойств МСП с модельными, полученными для различных моделей структуры МСП. Было показано, что данный подход позволяет выяснить природу необычных МО свойств, а также структуру интерфейсной области в МСП, состоящих из слоев благородных и 3$d$-переходных металлов (ПМ). Также в работе продемонстрирована высокая чувствительность спектральной эллипсометрии для изучения твердотельных реакций в МСП 3$d$-ПМ/Si, вызванных ионной бомбардировкой или термическим отжигом. Оптические свойства различных силицидов 3$d$-ПМ, сформированных спонтанно либо в результате различных воздействий на МСП, были изучены экспериментально и сравнены с результатами теоретических первопринципных расчетов."
+	},
+	"keywords": {
+		"ua": "спектроскопічна еліпсометрія, магнітооптична спектроскопія, мультишарові плівки, твердотільні реакції, іонно-променеве змішування",
+		"en": "spectroscopic ellipsometry, magnetooptical spectroscopy, multi-layered films, solid-state reactions, ion-beam mixing",
+		"ru": "спектроскопическая эллипсометрия, магнитооптическая спектроскопия, мультислойные плёнки, твёрдотельные реакции, ионно-лучевое смешивание, "
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. В. Кудрявцев", "en": "Yu. V. Kudryavtsev", "ru": "Ю. В. Кудрявцев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Уваров", "en": "V. M. Uvarov", "ru": "В. Н. Уваров"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Р. Гонтарц", "en": "R. Gontarz", "ru": "Р. Гонтарц"},
+			"OID": [426]
+		},
+		{
+			"AID": {"ua": "Я. Дубовік", "en": "J. Dubowik", "ru": "Я. Дубовик"},
+			"OID": [426]
+		},
+		{
+			"AID": {"ua": "Й. П. Лі", "en": "Y. P. Lee", "ru": "Й. П. Ли"},
+			"OID": [500]
+		},
+		{
+			"AID": {"ua": "Дж. Й. Рі", "en": "J. Y. Rhee", "ru": "Дж. Й. Ри"},
+			"OID": [501]
+		},
+		{
+			"AID": {"ua": "Ю. Н. Макогон", "en": "Yu. N. Makogon", "ru": "Ю. Н. Макогон"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "Е. П. Павлова", "en": "E. P. Pavlova", "ru": "Е. П. Павлова"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 62,
+				"list":  [
+			{
+				"doi": "10.1016/0304-8853(91)90328-8",
+				"or":  "D. Weller, W. Reim, K. Spör1, and H. Brändle, J. Magn. Magn. Mater., 93: 183 (1991).",
+				"tr":  "D. Weller, W. Reim, K. Spör1, and H. Brändle, J. Magn. Magn. Mater., 93: 183 (1991)."
+			},
+			{
+				"doi": "10.1063/1.343189",
+				"or":  "W. B. Zeper, F. J. A. M. Greidanus, P. F. Carcia, and C. R. Fincher, J. Appl. Phys., 65: 4971 (1989).",
+				"tr":  "W. B. Zeper, F. J. A. M. Greidanus, P. F. Carcia, and C. R. Fincher, J. Appl. Phys., 65: 4971 (1989)."
+			},
+			{
+				"doi": "10.1016/0304-8853(93)90690-4",
+				"or":  "K. Sato, H. Ikekame, Y. Tosaka, K. Tsuzukiyama, Y. Togami, and M. Fujisawa, J. Magn. Magn. Mater., 126: 572 (1993).",
+				"tr":  "K. Sato, H. Ikekame, Y. Tosaka, K. Tsuzukiyama, Y. Togami, and M. Fujisawa, J. Magn. Magn. Mater., 126: 572 (1993)."
+			},
+			{
+				"doi": "10.1109/20.280824",
+				"or":  "Š. Višnovský, M. Nyvlt, V. Parizek, P. Kielar, V. Prosser, and R. Krishnan, IEEE Trans. Magn., MAG-29: 3390 (1993).",
+				"tr":  "Š. Višnovský, M. Nyvlt, V. Parizek, P. Kielar, V. Prosser, and R. Krishnan, IEEE Trans. Magn., MAG-29: 3390 (1993)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.53.6526",
+				"or":  "S. Uba, L. Uba, A. N. Yaresko, A. Ya. Perlov, V. N. Antonov, and R. Gontarz, Phys.   Rev. B., 53: 6526 (1996).",
+				"tr":  "S. Uba, L. Uba, A. N. Yaresko, A. Ya. Perlov, V. N. Antonov, and R. Gontarz, Phys. Rev. B., 53: 6526 (1996)."
+			},
+			{
+				"doi": "10.1063/1.347327",
+				"or":  "E. R. Moog, J. Zak, and S. D. Bader, J. Appl. Phys., 69: 880 (1991).",
+				"tr":  "E. R. Moog, J. Zak, and S. D. Bader, J. Appl. Phys., 69: 880 (1991)."
+			},
+			{
+				"doi": "10.1063/1.114715",
+				"or":  "K. Takanashi, S. Mitani, M. Sano, H.Fujimori, H. Nakajima, and A. Osawa, Appl. Phys.  Lett., 67: 1016 (1995).",
+				"tr":  "K. Takanashi, S. Mitani, M. Sano, H.Fujimori, H. Nakajima, and A. Osawa, Appl. Phys. Lett., 67: 1016 (1995)."
+			},
+			{
+				"doi": "10.1143/JPSJ.55.2539",
+				"or":  "T. Katayama, H. Awano, and Y. Nishihara, J. Phys. Soc. Jpn., 55: 2539 (1986).",
+				"tr":  "T. Katayama, H. Awano, and Y. Nishihara, J. Phys. Soc. Jpn., 55: 2539 (1986)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(98)01150-0",
+				"or":  "Š. Višnovský, R. Lopusnik, M. Nyvlt, A. Das, R. Krishnan, M. Tessier, Z. Frait, P. Aitchison, and J. P. Chapman, J. Magn. Magn. Mater., 198-199: 480 (1999).",
+				"tr":  "Š. Višnovský, R. Lopusnik, M. Nyvlt, A. Das, R. Krishnan, M. Tessier, Z. Frait, P. Aitchison, and J. P. Chapman, J. Magn. Magn. Mater., 198-199: 480 (1999)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(97)00439-3",
+				"or":  "K. Takanashi, S. Mitani, H. Fujimori, K. Sato and Y. Suzuki, J. Magn. Magn. Mater., 177-181: 1199 (1998).",
+				"tr":  "K. Takanashi, S. Mitani, H. Fujimori, K. Sato and Y. Suzuki, J. Magn. Magn. Mater., 177-181: 1199 (1998)."
+			},
+			{
+				"doi": "10.1063/1.120860",
+				"or":  "K. Takanashi, S. Mitani, K. Himi, and H. Fujimori, Appl. Phys. Lett., 72: 737 (1998).",
+				"tr":  "K. Takanashi, S. Mitani, K. Himi, and H. Fujimori, Appl. Phys. Lett., 72: 737 (1998)."
+			},
+			{
+				"doi": "10.1063/1.371524",
+				"or":  "K. Sato, E. Takeda, M. Akita, M. Yamaguchi, K. Takanashi, S. Mitani, H. Fujimori,  and Y. Suzuki, J. App. Phys., 86: 4985 (1999).",
+				"tr":  "K. Sato, E. Takeda, M. Akita, M. Yamaguchi, K. Takanashi, S. Mitani, H. Fujimori, and Y. Suzuki, J. App. Phys., 86: 4985 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.62.13731",
+				"or":  "L. Uba, S. Uba, V. N. Antonov, A. N. Yaresko, T.Skzak, and J. Korecki, Phys. Rev. B., 62: 13731 (2000).",
+				"tr":  "L. Uba, S. Uba, V. N. Antonov, A. N. Yaresko, T.Skzak, and J. Korecki, Phys. Rev. B., 62: 13731 (2000)."
+			},
+			{
+				"doi": "10.1016/0304-8853(95)00831-4",
+				"or":  "G Y. Guo and H. Ebert, J. Magn. Magn. Mater., 156: 173 (1996).",
+				"tr":  "G Y. Guo and H. Ebert, J. Magn. Magn. Mater., 156: 173 (1996)."
+			},
+			{
+				"doi": "10.1016/0304-8853(95)00210-3",
+				"or":  "T. Sato, Y. Tosaka, Horoshi Ikeme, M. Watanabe, K. Takanashi, and H. Fujimori, J. Magn. Magn. Mater., 148: 206 (1995).",
+				"tr":  "T. Sato, Y. Tosaka, Horoshi Ikeme, M. Watanabe, K. Takanashi, and H. Fujimori, J. Magn. Magn. Mater., 148: 206 (1995)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.50.12581",
+				"or":  "W. Geerts, Y. Suzuki, T. Katayama, K. Tanaka, K. Ando and S. Yoshida, Phys. Rev. B, 50: 12581 (1994).",
+				"tr":  "W. Geerts, Y. Suzuki, T. Katayama, K. Tanaka, K. Ando and S. Yoshida, Phys. Rev. B, 50: 12581 (1994)."
+			},
+			{
+				"doi": "10.1016/0304-8853(92)90084-2",
+				"or":  "E. E. Fullerton, J. E. Mattson, S. R. Lee, C. H. Sowers,Y. Y. Huang, G. Felcher, S. D. Bader, and F. T. Parker, J. Magn. Magn.Mater., 117; L301 (1992); G. J. Strijkers, J. T. Kohlhepp, H. J. M.Swagten, and W. J. M. de Jonge, Phys. Rev. B, 60: 9583 (1999).",
+				"tr":  "E. E. Fullerton, J. E. Mattson, S. R. Lee, C. H. Sowers,Y. Y. Huang, G. Felcher, S. D. Bader, and F. T. Parker, J. Magn. Magn.Mater., 117; L301 (1992); G. J. Strijkers, J. T. Kohlhepp, H. J. M.Swagten, and W. J. M. de Jonge, Phys. Rev. B, 60: 9583 (1999)."
+			},
+			{
+				"doi": "10.1063/1.99644",
+				"or":  "L. A. Clevenger, C. V. Thompson, R. C. Cammarata, and K.N. Tu, Appl. Phys. Lett., 52: 795 (1988).",
+				"tr":  "L. A. Clevenger, C. V. Thompson, R. C. Cammarata, and K.N. Tu, Appl. Phys. Lett., 52: 795 (1988)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.42.5481",
+				"or":  "M. A. Hollander, B. J. Thijsse, and E. J. Mittemeijer, Phys.Rev. B, 42: 5481 (1990).",
+				"tr":  "M. A. Hollander, B. J. Thijsse, and E. J. Mittemeijer, Phys.Rev. B, 42: 5481 (1990)."
+			},
+			{
+				"doi": "10.1016/0040-6090(76)90221-2",
+				"or":  "J. O. Olowolafe, M. -A. Nicolet, and J. W. Mayer, Thin Solid Films, 38: 143 (1976).",
+				"tr":  "J. O. Olowolafe, M. -A. Nicolet, and J. W. Mayer, Thin Solid Films, 38: 143 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "S. P. Murarka, Silicides for VLSI Applications (Academic, Orlando, 1983).",
+				"tr":  "S. P. Murarka, Silicides for VLSI Applications (Academic, Orlando, 1983)."
+			},
+			{
+				"doi": "10.1016/S0040-6090(99)00286-2",
+				"or":  "C. J. Tsai and K. H. Yu, Thin Solid Films, 350; 91 (1999).",
+				"tr":  "C. J. Tsai and K. H. Yu, Thin Solid Films, 350; 91 (1999)."
+			},
+			{
+				"doi": "10.1063/1.357238",
+				"or":  "P. Knauth, A. Charaì, C. Bergman, and P. Gas, J. Appl.Phys., 76: 5195 (1994).",
+				"tr":  "P. Knauth, A. Charaì, C. Bergman, and P. Gas, J. Appl.Phys., 76: 5195 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Bokhonov and M. Korchagin, J. Alloys Comp., 319: 187 (2001).",
+				"tr":  "B. Bokhonov and M. Korchagin, J. Alloys Comp., 319: 187 (2001)."
+			},
+			{
+				"doi": "10.1016/S0040-6090(99)00004-8",
+				"or":  "B. A. Julies, D. Knoesen, R. Pretorius, and D. Adams, Thin Solid Films, 347: 201 (1999).",
+				"tr":  "B. A. Julies, D. Knoesen, R. Pretorius, and D. Adams, Thin Solid Films, 347: 201 (1999)."
+			},
+			{
+				"doi": "10.1063/1.361770",
+				"or":  "D. Mangelinck, P. Gas, A. Grob, B. Pichaud, O. Thomas, J. Appl. Phys., 79: 4078 (1996).",
+				"tr":  "D. Mangelinck, P. Gas, A. Grob, B. Pichaud, O. Thomas, J. Appl. Phys., 79: 4078 (1996)."
+			},
+			{
+				"doi": "10.1016/S0022-0248(99)00589-8",
+				"or":  "J. Liu, J. Feng, B. Li, and J. Zhu, J. Cryst. Growth, 209: 795 (2000).",
+				"tr":  "J. Liu, J. Feng, B. Li, and J. Zhu, J. Cryst. Growth, 209: 795 (2000)."
+			},
+			{
+				"doi": "10.1063/1.360268",
+				"or":  "M. F. Wu, J. D. Wachter, A.-M. Van Bavel, R. Moons, A.Vantomme, H. Pattyn, G. Langouche, H. Bender, J. Vanhellemont, K. Temst, and Y. Bryunseraede, J. Appl. Phys., 78: 1707 (1995).",
+				"tr":  "M. F. Wu, J. D. Wachter, A.-M. Van Bavel, R. Moons, A.Vantomme, H. Pattyn, G. Langouche, H. Bender, J. Vanhellemont, K. Temst, and Y. Bryunseraede, J. Appl. Phys., 78: 1707 (1995)."
+			},
+			{
+				"doi": "10.1063/1.358553",
+				"or":  "Z. Rao, J. S. Williams, A. P. Pogany, D. K. Sood, G. A.Collins, J. Appl. Phys., 77: 3782 (1995).",
+				"tr":  "Z. Rao, J. S. Williams, A. P. Pogany, D. K. Sood, G. A.Collins, J. Appl. Phys., 77: 3782 (1995)."
+			},
+			{
+				"doi": "10.1063/1.335231",
+				"or":  "S. B. Ogale, R. Joshee, V. P. Godbole, S. M. Kanetkar, and V. G. Bride, J. Appl. Phys., 57: 2915 (1985).",
+				"tr":  "S. B. Ogale, R. Joshee, V. P. Godbole, S. M. Kanetkar, and V. G. Bride, J. Appl. Phys., 57: 2915 (1985)."
+			},
+			{
+				"doi": "10.1016/0168-583X(95)00607-9",
+				"or":  "D. L. Santos, J. P. de Souza, L. Amaral, and H. Boudinov, Nucl. Instr. and Meth., B 103; 56 (1995).",
+				"tr":  "D. L. Santos, J. P. de Souza, L. Amaral, and H. Boudinov, Nucl. Instr. and Meth., B 103; 56 (1995)."
+			},
+			{
+				"doi": "10.1016/S0168-583X(98)00835-0",
+				"or":  "J. Jagielski, M. Kopcewicz, A. Turos, and F. Eichhorn, Nucl. Instr. and Meth., B 148: 886 (1999).",
+				"tr":  "J. Jagielski, M. Kopcewicz, A. Turos, and F. Eichhorn, Nucl. Instr. and Meth., B 148: 886 (1999)."
+			},
+			{
+				"doi": "10.1016/S0168-583X(97)00964-6",
+				"or":  "N. P. Barradas, C. Jeynes, K. P. Homewood, B. J. Sealy, and M. Milosavljevic, Nucl. Instr. and Meth., B 139: 235 (1998).",
+				"tr":  "N. P. Barradas, C. Jeynes, K. P. Homewood, B. J. Sealy, and M. Milosavljevic, Nucl. Instr. and Meth., B 139: 235 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Miloslavljevic, S. Dhar, P. Schaaf, N. Bibic, M. Han, and K.-P. Lieb, Appl. Phys. A, 71: 43 (2000).",
+				"tr":  "M. Miloslavljevic, S. Dhar, P. Schaaf, N. Bibic, M. Han, and K.-P. Lieb, Appl. Phys. A, 71: 43 (2000)."
+			},
+			{
+				"doi": "10.1016/0304-8853(92)90084-2",
+				"or":  "E. E. Fullerton, J. E. Mattson, S. R. Lee, C. H. Sowers, Y. Y. Huang, G. Felcher, S. D. Bader, and F. T. Parker, J. Magn. Magn. Mater., 117: L301 (1992).",
+				"tr":  "E. E. Fullerton, J. E. Mattson, S. R. Lee, C. H. Sowers, Y. Y. Huang, G. Felcher, S. D. Bader, and F. T. Parker, J. Magn. Magn. Mater., 117: L301 (1992)."
+			},
+			{
+				"doi": "10.1063/1.352640",
+				"or":  "E. E. Fullerton, J. E. Mattson, S. R. Lee, C. H. Sowers, Y. Y. Huang, G. Felcher, S. D.  Bader, and F. T. Parker, J. Appl. Phys., 73: 6335 (1993).",
+				"tr":  "E. E. Fullerton, J. E. Mattson, S. R. Lee, C. H. Sowers, Y. Y. Huang, G. Felcher, S. D. Bader, and F. T. Parker, J. Appl. Phys., 73: 6335 (1993)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.53.5518",
+				"or":  "A. Chaiken, R. P. Michel, and M. A. Wall, Phys. Rev. B, 53: 5518 (1995).",
+				"tr":  "A. Chaiken, R. P. Michel, and M. A. Wall, Phys. Rev. B, 53: 5518 (1995)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.74.1863",
+				"or":  "K. Inomata, K. Yusu, and Y. Saito, Phys. Rev. Lett., 74: 1863 (1995).",
+				"tr":  "K. Inomata, K. Yusu, and Y. Saito, Phys. Rev. Lett., 74: 1863 (1995)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.53.5112",
+				"or":  "E. E. Fullerton and S. D. Bader, Phys. Rev. B, 53: 512 (1996).",
+				"tr":  "E. E. Fullerton and S. D. Bader, Phys. Rev. B, 53: 512 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.55.R696",
+				"or":  "J. Kohlhepp, M. Valkier, A. van der Graaf, and F. J. A. Den Broeder, Phys. Rev. B, 55: R696 (1997).",
+				"tr":  "J. Kohlhepp, M. Valkier, A. van der Graaf, and F. J. A. Den Broeder, Phys. Rev. B, 55: R696 (1997)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.60.9583",
+				"or":  "G. J. Strijkers, J. T. Kohlhepp, H. J. M. Swagten, and W. J. M. de Jonge, Phys. Rev. B, 60; 9583 (1999).",
+				"tr":  "G. J. Strijkers, J. T. Kohlhepp, H. J. M. Swagten, and W. J. M. de Jonge, Phys. Rev. B, 60; 9583 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.53.R8824",
+				"or":  "J. A. Carlisle, A. Chaiken, R. P. Michel, L. J. Terminello, J. J. Jia, T. A. Callcott, and D. L. Ederer, Phys. Rev. B, 53: R8824 (1996).",
+				"tr":  "J. A. Carlisle, A. Chaiken, R. P. Michel, L. J. Terminello, J. J. Jia, T. A. Callcott, and D. L. Ederer, Phys. Rev. B, 53: R8824 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.78.3023",
+				"or":  "J. J. de Vries, J. Kohlhepp, F. J. A. den Broeder, R. Coehoorn, R. Jungblut, A. Reinders, and W. J. M. de Jonge, Phys. Rev. Lett., 78: 3023 (1997).",
+				"tr":  "J. J. de Vries, J. Kohlhepp, F. J. A. den Broeder, R. Coehoorn, R. Jungblut, A. Reinders, and W. J. M. de Jonge, Phys. Rev. Lett., 78: 3023 (1997)."
+			},
+			{
+				"doi": "10.1080/10408439991329161",
+				"or":  "R. Pretorius, C. C. Theron, A. C. Vantomme, and J. W. Mayer, Critical Reviews in Solid State and Material Sciences, 24: 1 (1999).",
+				"tr":  "R. Pretorius, C. C. Theron, A. C. Vantomme, and J. W. Mayer, Critical Reviews in Solid State and Material Sciences, 24: 1 (1999)."
+			},
+			{
+				"doi": "10.1080/14786440208520566",
+				"or":  "J. R. Beattie and G. M. Conn, Phil. Mag., 46: 235 (1955).",
+				"tr":  "J. R. Beattie and G. M. Conn, Phil. Mag., 46: 235 (1955)."
+			},
+			{
+				"doi": "",
+				"or":  "R. M. A. Azzam and N. M. Bashara, Ellipsometry and Polarized Light (North-Holland, Amsterdam, 1977).",
+				"tr":  "R. M. A. Azzam and N. M. Bashara, Ellipsometry and Polarized Light (North-Holland, Amsterdam, 1977)."
+			},
+			{
+				"doi": "",
+				"or":  "G. S. Krinchik, Physics of Magnetic Phenomena (MGU publisher, Moscow, 1976) (in Russian). Parker, J. Appl. Phys., 73: 6335 (1993).",
+				"tr":  "G. S. Krinchik, Physics of Magnetic Phenomena (MGU publisher, Moscow, 1976) (in Russian). Parker, J. Appl. Phys., 73: 6335 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "P. G. Pells and M. Shiga, J. Phys. C, 2: 1835 (1969).",
+				"tr":  "P. G. Pells and M. Shiga, J. Phys. C, 2: 1835 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "V. N. Antonov, A. I. Baglyuk, A. Ya Perlov, et al., Low Temp. Phys., 19: 689 (1993).",
+				"tr":  "V. N. Antonov, A. I. Baglyuk, A. Ya Perlov, et al., Low Temp. Phys., 19: 689 (1993)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.19.3850",
+				"or":  "J. H. Weaver, E. Colavite, D. W. Lynch, and R. Rosei, Phys. Rev. B, 19: 3850 (1979).",
+				"tr":  "J. H. Weaver, E. Colavite, D. W. Lynch, and R. Rosei, Phys. Rev. B, 19: 3850 (1979)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.37.2879",
+				"or":  "J. H. Sexton, D. W. Lynch, R. I. Benbow, and N. V. Smith, Phys. Rev. B, 37: 2879 (1988).",
+				"tr":  "J. H. Sexton, D. W. Lynch, R. I. Benbow, and N. V. Smith, Phys. Rev. B, 37: 2879 (1988)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(97)01075-5",
+				"or":  "J. T. Wang, Z. Q. Li, and Y. Kawazoe, J. Magn. Magn. Mater., 183: 42 (1998).",
+				"tr":  "J. T. Wang, Z. Q. Li, and Y. Kawazoe, J. Magn. Magn. Mater., 183: 42 (1998)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.63.144402",
+				"or":  "Y. P. Lee, R. Gontarz, and Y. V. Kudryavtsev, Phys. Rev. B, 63: 144402 (2001).",
+				"tr":  "Y. P. Lee, R. Gontarz, and Y. V. Kudryavtsev, Phys. Rev. B, 63: 144402 (2001)."
+			},
+			{
+				"doi": "10.1088/0022-3719/5/13/012",
+				"or":  "U. von Barth and L. Hedin, J. Phys. C: Solid State Phys., 5: 1629 (1972).",
+				"tr":  "U. von Barth and L. Hedin, J. Phys. C: Solid State Phys., 5: 1629 (1972)."
+			},
+			{
+				"doi": "10.1016/0038-1098(71)90313-9",
+				"or":  "O. Jepsen and O. K. Andersen, Solid State Commun., 9: 1763 (1971).",
+				"tr":  "O. Jepsen and O. K. Andersen, Solid State Commun., 9: 1763 (1971)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.55.4124",
+				"or":  "J. Y. Rhee, B. N. Harmon, and D. W. Lynch, Phys. Rev. B, 55: 4124 (1997).",
+				"tr":  "J. Y. Rhee, B. N. Harmon, and D. W. Lynch, Phys. Rev. B, 55: 4124 (1997)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(98)01020-8",
+				"or":  "J. M. Fallon, C. A. Faunce, H. J. Blythe, and P. J. Grundy, J. Magn. Magn. Mater., 198–199: 728 (1999).",
+				"tr":  "J. M. Fallon, C. A. Faunce, H. J. Blythe, and P. J. Grundy, J. Magn. Magn. Mater., 198–199: 728 (1999)."
+			},
+			{
+				"doi": "10.1063/1.361856",
+				"or":  "V. S. Babu, A. S. Pavlovic, and M. S. Seehra, J. Appl. Phys., 79: 5230 (1996).",
+				"tr":  "V. S. Babu, A. S. Pavlovic, and M. S. Seehra, J. Appl. Phys., 79: 5230 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.42.8939",
+				"or":  "M. Amiotti, A. Borghesi, G. Guizetti, and F. Nava, Phys. Rev. B, 42: 8939 (1990).",
+				"tr":  "M. Amiotti, A. Borghesi, G. Guizetti, and F. Nava, Phys. Rev. B, 42: 8939 (1990)."
+			},
+			{
+				"doi": "10.1063/1.345685",
+				"or":  "L. A. Clevenger and C. V. Thompson, J. Appl. Phys., 67: 1325 (1990).",
+				"tr":  "L. A. Clevenger and C. V. Thompson, J. Appl. Phys., 67: 1325 (1990)."
+			},
+			{
+				"doi": "10.1088/0953-8984/4/8/006",
+				"or":  "Y. M. Gu and L. Fritsche, J. Phys.: Condens. Matter, 4: 1905 (1992).",
+				"tr":  "Y. M. Gu and L. Fritsche, J. Phys.: Condens. Matter, 4: 1905 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Y. Rhee, K. W. Kim, Yu. V. Kudryavtsev, and Y. P. Lee, J. Korean Phys. Soc., 35: S578 (1999).",
+				"tr":  "J. Y. Rhee, K. W. Kim, Yu. V. Kudryavtsev, and Y. P. Lee, J. Korean Phys. Soc., 35: S578 (1999)."
+			}
+		]
+	}
+}

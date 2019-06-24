@@ -1,0 +1,255 @@
+{
+	"_id":    "UFM.05.02.257",
+	"year":   2004,
+	"volume": 5,
+	"issue":  2,
+	"pages":  [257,281],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["02.07.2003","17.12.2003"],
+	"PACS":   "61.80.Fe, 61.80.Jh, 81.15.Gh, 81.15.Cd, 81.15.Jj, 81.65.Kn",
+	"title":   {
+		"ua": "Вплив опромінення електронними та йонними пучками на фізико-механічні властивості титанових стопів",
+		"en": "Influence of an irradiation of electronic and ionic beams on physicomechanical properties of titanic alloys",
+		"ru": "Влияние облучения электронными и ионными пучками на физико-механические свойства титановых сплавов"
+	},
+	"abstract": {
+		"ua": "Представлено огляд сучасного стану методів обробки титану та його сплавів електронними, іонними пучками, комплексного опромінення. Використання такого впливу сприяє поліпшенню фізико-механічних властивостей матеріалів. Показано, що використання комплексної обробки приводить до значних змін механічних характеристик титану та титанових сплавів.",
+		"en": "The review of the current state of the methods applied to treat the titanium and its alloys using the electron, ion beams and their combination is presented. Application of such a treatment provides the improvement of physical and mechanical properties of these materials. As shown, the combined treatment results in the essential change of the mechanical characteristics of the titanium and its alloys.",
+		"ru": "Представлен обзор современного состояния методов обработки титана и его сплавов электронными, ионными пучками, комплексного облучения. Использование такого воздействия способствует улучшению физико-механических свойств материалов. Показано, что использование комплексной обработки приводит к заметному изменению механических характеристик титана и титановых сплавов."
+	},
+	"keywords": {
+		"ua": "титан, титанові сплави, метод оброблення",
+		"en": "titanium, titanium alloys, treatment method",
+		"ru": "титан, титановые сплавы, метод обработки"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. Д. Погребняк", "en": "O. D. Pogrebnyak", "ru": "А. Д. Погребняк"},
+			"OID": [248]
+		},
+		{
+			"AID": {"ua": "О. О. Базиль", "en": "O. O. Bazyl’", "ru": "Е. А. Базыль"},
+			"OID": [248]
+		},
+		{
+			"AID": {"ua": "М. В. Свириденко", "en": "M. V. Sviridenko", "ru": "Н. В. Свириденко"},
+			"OID": [248]
+		}
+	],
+	"references": {
+		"count": 42,
+				"list":  [
+			{
+				"doi": "",
+				"or":  "Е. А. Борисова и др., Металлография титановых сплавов (Москва: Металлургия: 1980), с. 464.",
+				"tr":  "E. A. Borisova et al., Metallografiya titanovykh splavov (Moskva: Metallurgiya: 1980), s. 464."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Гармата и др., Титан (Москва: Металлургия: 1983), с. 559.",
+				"tr":  "V. A. Garmata et al., Titan (Moskva: Metallurgiya: 1983), p. 559."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Валяев, А. Д. Погребняк, С. В. Плотников, Радиационно-механические эффекты в твёрдых телах при облучении высокоинтенсивными импульсными электронными и ионными пучками (Алмааты: Гылым: 1998), с. 267.",
+				"tr":  "A. N. Valyaev, A. D. Pogrebnyak, S. V. Plotnikov, Radiatsionno-mekhanicheskie effekty v tverdykh telakh pri obluchenii vysokointensivnymi impul'snymi elektronnymi i ionnymi puchkami (Almaaty: Gylym: 1998), s. 267."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Ф. Комаров, Ионная имплантация в металлы (Москва: Металлургия: 1990), с. 216.",
+				"tr":  "F. F. Komarov, Ionnaya implantatsiya v metally (Moskva: Metallurgiya: 1990), s. 216."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Валяев, Радиационно-механические эффекты в твёрдых телах при облучении высокоинтенсивными импульсными электронными и ионными пучками: Автореф. дисс... д-ра физ.-мат. наук: 01.04.07 / Восточно-Казахст. техн. ун-т, Усть–Каменогорск, 1998. — 30 с.",
+				"tr":  "A. N. Valyaev, Radiatsionno-mekhanicheskie effekty v tverdykh telakh pri obluchenii vysokointensivnymi impul'snymi elektronnymi i ionnymi puchkami: Avtoref. diss... d-ra fiz.-mat. nauk: 01.04.07 / Vostochno-Kazakhst. tekhn. un-t, Ust'–Kamenogorsk, 1998. — 30 s."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Бойко, В. Н. Валяев, А. Д. Погребняк, Успехи физических наук, 169, 11: 1 (1999).",
+				"tr":  "V. I. Boyko, V. N. Valyaev, A. D. Pogrebnyak, Uspekhi fizicheskikh nauk, 169, 11: 1 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Макарець, С. М. Сторчака, Укр. фіз. журн., 46, № 4: 466 (2001).",
+				"tr":  "M. V. Makarets', S. M. Storchaka, Ukr. fiz. zhurn., 46, No. 4: 466 (2001)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(02)00187-1",
+				"or":  "H. Pelletier, D. Muller, P. Mittle et al., Surface and Coatings Technology, 158–159: 301 (2002).",
+				"tr":  "H. Pelletier, D. Muller, P. Mittle et al., Surface and Coatings Technology, 158–159: 301 (2002)."
+			},
+			{
+				"doi": "10.1002/pssa.2211450103",
+				"or":  "A. D. Pogrebnjak and D. I. Proskurovskii, Physics State Solid, A145: 9 (1994).",
+				"tr":  "A. D. Pogrebnjak and D. I. Proskurovskii, Physics State Solid, A145: 9 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "М. И. Гусева, Итоги науки и техники, 5: 5 (1989).",
+				"tr":  "M. I. Guseva, Itogi nauki i tekhniki, 5: 5 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "П. В. Петренко, А. Л. Грицкевич, Ю. Е. Грабовский и др. Металлофиз. новейшие технол., 25, № 4: 474 (2003).",
+				"tr":  "P. V. Petrenko, A. L. Gritskevich, Yu. E. Grabovskiy et al. Metallofiz. Noveishie Tekhnol., 25, No. 4: 474 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Лаврентьев, А. Д. Погребняк, ФХОМ, № 6: 5 (1997).",
+				"tr":  "V. I. Lavrent'ev, A. D. Pogrebnyak, FKhOM, No. 6: 5 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Валяев, А. Д. Погребняк, Н. Кишимото, В. С. Ладысев, Модификация свойств материалов и синтез тонких плёнок при облучении интенсивными электронными и ионными пучками (Усть-Каменогорск: 2000).",
+				"tr":  "A. N. Valyaev, A. D. Pogrebnyak, N. Kishimoto, V. S. Ladysev, Modifikatsiya svoystv materialov i sintez tonkikh plenok pri obluchenii intensivnymi elektronnymi i ionnymi puchkami (Ust'-Kamenogorsk: 2000)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Шулов, А. И. Рябчиков, Н. А. Ночовная и др., Поверxность. Физика, химия, механика, № 6: 132 (1993).",
+				"tr":  "V. A. Shulov, A. I. Ryabchikov, N. A. Nochovnaya et al., Poverxnost'. Fizika, khimiya, mekhanika, No. 6: 132 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "N. A. Nochovnaya in books Interaction of radiation with solids (III International Conf., IRS’99, 6–9 October 1999) (Minsk: Belarus: 1999), p. 75.",
+				"tr":  "N. A. Nochovnaya in books Interaction of radiation with solids (III International Conf., IRS'99, 6–9 October 1999) (Minsk: Belarus: 1999), p. 75."
+			},
+			{
+				"doi": "10.1016/S0257-8972(99)00569-1",
+				"or":  "Yu. Ivanov, V. Rotshtein, D. I. Proskurovskii et al., Surface and Coatings Technology, 125: 251 (2000).",
+				"tr":  "Yu. Ivanov, V. Rotshtein, D. I. Proskurovskii et al., Surface and Coatings Technology, 125: 251 (2000)."
+			},
+			{
+				"doi": "10.1116/1.581369",
+				"or":  "D. I. Proskurovskii, V. P. Rotshtein, V. A. Shulov et al., Vac. Sci. Tech., A16(4): 2480 (1998).",
+				"tr":  "D. I. Proskurovskii, V. P. Rotshtein, V. A. Shulov et al., Vac. Sci. Tech., A16(4): 2480 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "О. О. Базиль, Вплив іонної імплантації та електронного опромінення на кристалічну структуру і властивості сплаву Ti–V–Al: пучками: Дисс... к. фіз.-мат. наук: 01.04.07 / СумДУ, Суми, 2001. – 156 с.",
+				"tr":  "O. O. Bazil', Vpliv іonnoyi іmplantatsii ta elektronnogo opromіnennya na kristalіchnu strukturu і vlastivostі splavu Ti–V–Al: puchkami: Diss... k. fіz.-mat. nauk: 01.04.07 / SumDU, Sumi, 2001. – 156 pp."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Иванов, В. М. Лазоренко, Ю. М. Платов, В. И. Товтин, ФХОМ, № 3: 5 (1990).",
+				"tr":  "L. I. Ivanov, V. M. Lazorenko, Yu. M. Platov, V. I. Tovtin, FKhOM, No. 3: 5 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Михеев, Изв. РАН. Сер. физ., 64, № 11: 2137 (2000).",
+				"tr":  "N. N. Mikheev, Izv. RAN. Ser. fiz., 64, No. 11: 2137 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Распыление твёрдых тел ионной бомбардировкой (Под ред. Р. Бериша: Пер. с англ.) (Москва: Мир: 1984), с. 336.",
+				"tr":  "Raspylenie tverdykh tel ionnoy bombardirovkoy (Pod red. R. Berisha: Per. s angl.) (Moskva: Mir: 1984), p. 336."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Базыль, А. Д. Погребняк, С. В. Соколов, Н. В. Свириденко, ФХОМ, № 1: 17 (2000).",
+				"tr":  "E. A. Bazyl', A. D. Pogrebnyak, S. V. Sokolov, N. V. Sviridenko, FKhOM, No. 1: 17 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "А. К. Жетбаев, К. К. Кадыржанов, Т. Э. Туркебаев и др., Фазовые преобразования в имплантационных системах металл–металлоид (Алматы: Гылым: 1995).",
+				"tr":  "A. K. Zhetbaev, K. K. Kadyrzhanov, T. E. Turkebaev et al., Fazovye preobrazovaniya v implantatsionnykh sistemakh metall–metalloid (Almaty: Gylym: 1995)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Диденко, А. Е. Лигачёв, Е. В. Козлов, И. Б. Куракин, Ю. П. Шаркеев, Доклады АН СССР, 296, № 4: 869 (1987).",
+				"tr":  "A. N. Didenko, A. E. Ligachev, E. V. Kozlov, I. B. Kurakin, Yu. P. Sharkeev, Doklady AN SSSR, 296, No. 4: 869 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Белый, С. К. Ших, Трение и износ, 10, № 6: 1092 (1992).",
+				"tr":  "A. V. Belyy, S. K. Shikh, Trenie i iznos, 10, No. 6: 1092 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Шулов, Ю. Д. Ягодкин, А. М. Сулима, В. В. Тетюхин, Металловедение и термическая обработка металлов, № 8: 24 (1990).",
+				"tr":  "V. A. Shulov, Yu. D. Yagodkin, A. M. Sulima, V. V. Tetyukhin, Metallovedenie i termicheskaya obrabotka metallov, No. 8: 24 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "З. А. Искандерова, Т. Д. Раджабов, Г. Р. Рахимова, Поверxность. Физика, химия, механика, № 8: 5 (1992).",
+				"tr":  "Z. A. Iskanderova, T. D. Radzhabov, G. R. Rakhimova, Poverknnost'. Fizika, khimiya, mekhanika, No. 8: 5 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Г. Романов, Ю. П. Тарасенко, И. Н. Царев, А. А. Чмыхов, ФХОМ, № 2: 75 (1997).",
+				"tr":  "I. G. Romanov, Yu. P. Tarasenko, I. N. Tsarev, A. A. Chmykhov, FKhOM, No. 2: 75 (1997)."
+			},
+			{
+				"doi": "10.1179/sur.1987.3.2.154",
+				"or":  "A.G. Perry, J. Surface Engineering, 3, No. 2: 154 (1987).",
+				"tr":  "A.G. Perry, J. Surface Engineering, 3, No. 2: 154 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. В. Козейкин, П. В. Павлов, Е. А. Питиримова, А. И. Фролов, ФХОМ, № 4: 68 (1988).",
+				"tr":  "B. V. Kozeykin, P. V. Pavlov, E. A. Pitirimova, A. I. Frolov, FKhOM, No. 4: 68 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Городецкий, М. И. Гусева, Н. Д. Томашев и др., Поверxность. Физика, химия, механика, № 3: 83 (1982).",
+				"tr":  "A. E. Gorodetskiy, M. I. Guseva, N. D. Tomashev et al., Poverkhnost'. Fizika, khimiya, mekhanika, No. 3: 83 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Томашов, И. С. Ташлыков, О. А. Жильцов и др., Защита металлов, 23, № 5: 791 (1987).",
+				"tr":  "V. N. Tomashov, I. S. Tashlykov, O. A. Zhil'tsov et al., Zashchita metallov, 23, No. 5: 791 (1987)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(02)00299-2",
+				"or":  "V. A. Shulov, N. A. Nochovnaia, and G. E. Remnev, Surface and Coating Technology, 158–159: 488 (2002).",
+				"tr":  "V. A. Shulov, N. A. Nochovnaia, and G. E. Remnev, Surface and Coating Technology, 158–159: 488 (2002)."
+			},
+			{
+				"doi": "10.1016/S0168-583X(97)00032-3",
+				"or":  "J-P. Hirvonen, F. Harskap, P. Torn et al., Nuclear Instruments and Methods in Physical Research, B 127–128: 922 (1997).",
+				"tr":  "J-P. Hirvonen, F. Harskap, P. Torn et al., Nuclear Instruments and Methods in Physical Research, B 127–128: 922 (1997)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(98)00407-1",
+				"or":  "V. V. Uglov, D. P. Rusalsky, V. V. Khodasevich et al., Surface and Coating Technology, 103–104: 317 (1998).",
+				"tr":  "V. V. Uglov, D. P. Rusalsky, V. V. Khodasevich et al., Surface and Coating Technology, 103–104: 317 (1998)."
+			},
+			{
+				"doi": "10.1016/S0042-207X(01)00263-9",
+				"or":  "D. Krupa, J. Baszkiewicz, J. Kozubowski et al., Vacuum, 63: 715 (2001).",
+				"tr":  "D. Krupa, J. Baszkiewicz, J. Kozubowski et al., Vacuum, 63: 715 (2001)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(02)00190-1",
+				"or":  "I. Tsyganov, E. Wieser, W. Matz et al., Surface and Coatings Technology, 158–159: 318 (2002).",
+				"tr":  "I. Tsyganov, E. Wieser, W. Matz et al., Surface and Coatings Technology, 158–159: 318 (2002)."
+			},
+			{
+				"doi": "10.1016/S0042-207X(01)00160-9",
+				"or":  "A. D. Pogrebnjak and E. A. Bazyl, Vacuum, 64: 1 (2002).",
+				"tr":  "A. D. Pogrebnjak and E. A. Bazyl, Vacuum, 64: 1 (2002)."
+			},
+			{
+				"doi": "10.1063/1.372153",
+				"or":  "A. D. Pogrebnjak, A. P. Kobzev, B. P. Gritsenko et al., J. Appl. Phys, 87, No. 3: 2142 (2000).",
+				"tr":  "A. D. Pogrebnjak, A. P. Kobzev, B. P. Gritsenko et al., J. Appl. Phys, 87, No. 3: 2142 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Smyslov and E. V. Safin, Titanium. Science and Technology. (S.-Peterburg: Prometey: 2000), p. 651.",
+				"tr":  "A. M. Smyslov and E. V. Safin, Titanium. Science and Technology. (S.-Peterburg: Prometey: 2000), p. 651."
+			},
+			{
+				"doi": "",
+				"or":  "Lee Eunsub, Lee Kyuhong, and Lee Sunghak, Surface and Coating Technology, (2004) (ibid).",
+				"tr":  "Lee Eunsub, Lee Kyuhong, and Lee Sunghak, Surface and Coating Technology, (2004) (ibid)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Самсонов, Р. Ш. Упадхая, В. С. Нешпоров, Физическое материаловедение карбидов (Киев: Наукова думка: 1974), с. 455.",
+				"tr":  "G. V. Samsonov, R. Sh. Upadkhaya, V. S. Neshporov, Fizicheskoe materialovedenie karbidov (Kiev: Naukova dumka: 1974), p. 455."
+			}
+		]
+	}
+}

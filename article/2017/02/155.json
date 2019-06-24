@@ -1,0 +1,261 @@
+{
+	"_id":    "UFM.18.02.155",
+	"year":   2017,
+	"volume": 18,
+	"issue":  2,
+	"pages":  [155,175],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["17.03.2017", "21.03.2017"],
+	"PACS":   "06.20.-f, 06.60.Jn, 46.40.Cd, 62.50.Ef, 81.05.Zx, 81.70.Bt, 83.85.Ns",
+	"title":   {
+		"ua": "Застосування кваліметричних метод для оцінювання якости ударно-навантажених матеріялів",
+		"en": "Application of Qualimetric Methods for Evaluation Test of Shock-Loaded Materials",
+		"ru": "Применение квалиметрических методов для оценки качества ударно-нагруженных материалов"
+	},
+	"abstract": {
+		"ua": "У зв’язку з тим, що в сучасній метрологічній базі даних відсутня чітка методика оцінювання якости матеріялів за умов ударних і високошвидкісних навантажень, у даній статті проводиться та представляється експериментальне дослідження практичного застосування кваліметричних метод задля оцінювання якости матеріялів за таких умов. Виконано аналізу характеристик матеріялів за умов ударних навантажень, а також проаналізовано кваліметричні методи, котрі адаптовано для оцінювання якости високонавантажених матеріялів. Визначено критерії оцінювання якости матеріялів за умов екстремальних навантажень. Розроблено алґоритм і методичні рекомендації для оцінювання якости матеріялів, а також здійснено практичну реалізацію розроблених положень. Представлено алґоритм виконання оцінювання якости матеріялів, відповідно до якого відбувається вибір методи випробування, згідно з якою визначаються необхідні кваліметричні методи оцінювання якости. Виявлено на основі експериментальних даних, що найбільш прийнятним для практичного використання є застосування в якости основної кваліметричної методи так званої «павутини» якости. В якости додаткових доцільно користатися методами секторних діяграм і побудови ранжованого ряду. Оцінювання якости за допомогою цінового коефіцієнту є ефективним для ринкових і конкурувальних матеріялів, таких як метали та криці. Для імпульсного навантаження ефективно застосовувати кваліметричну методу оцінювання, таку як побудова номограм. Вирішено завдання з розроблення ґрадацій якости, які покладено в основу побудови номограм",
+		"en": "Since in a contemporary metrological database, there is no clear method for evaluation of the quality of materials under high and shock loads, this article presents results of experimental studies of practical application of qualimetric methods for evaluation of the quality of materials under such conditions. The analysis of the characteristics of materials under shock loads is performed along with qualimetric methods, which are adapted for evaluation of the quality of high-loaded materials. Criteria for evaluation of quality of materials under extreme loads are determined. The algorithm and methodical recommendations for evaluation test of materials are developed along with realization of practical implementation of developed recommendations. The algorithm for performance of evaluation test for materials is presented and specifies a choice of test method for determining necessary qualimetric methods of the quality evaluation. Based on experimental data, it is established that the most appropriate for practical application is using so-called ‘cobweb’ of quality as a primary qualimetric method. In addition, one can use methods of pie charts and construction of the ranked data. The quality evaluation with a price ratio is quite effective for the market and competing materials such as metals and steel. For an impulsive load, the qualimetric evaluation method such as the con-struction of nomograms is effective. The problem of the quality gradation development, which is basic during the construction of nomograms, is solved.",
+		"ru": "В связи с тем, что в современной метрологической базе данных отсутствует чёткая методика оценки качества материалов в условиях ударных и высокоскоростных нагрузок, в данной статье проводится и представляется экспериментальное исследование практического применения квалиметрических методов для оценки качества материалов при таких условиях. Выполнен анализ характеристик материалов, используемых в условиях ударных нагрузок, а также проанализированы квалиметрические методы, которые адаптированы для оценки качества высоконагруженных материалов. Определены критерии оценки качества материалов в условиях экстремальных нагрузок. Разработан алгоритм и методические рекомендации для оценки качества материалов, а также осуществлена практическая реализация разработанных положений. Представлен алгоритм выполнения оценки качества материалов, в соответствии с которым происходит выбор метода испытания, согласно которому определяются необходимые квалиметрические методы оценки качества. Установлено на основе экспериментальных данных, что наиболее приемлемым для практического использования является применение в качестве основного квалиметрического метода так называемой «паутины» качества. В качестве дополнительных целесообразно пользоваться методами секторных диаграмм и построения ранжированного ряда. Оценка качества с помощью ценового коэффициента весьма эффективна для рыночных и конкурирующих материалов, таких как металлы и стали. Для импульсной нагрузки эффективно применять квалиметрический метод оценки, такой как построение номограмм. Решена задача по разработке градаций качества, которые положены в основу построения номограмм."
+	},
+	"keywords": {
+		"ua": "кваліметричні методи, оцінювання якости матеріялів, мікроструктурні дослідження",
+		"en": "qualimetric methods, estimation of quality of materials, microstructural studies",
+		"ru": "квалиметрические методы, оценка качества материалов, микроструктурные исследования"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Куриляк", "en": "V. V. Kurylyak", "ru": "В. В. Куриляк"},
+			"OID": [244]
+		},
+		{
+			"AID": {"ua": "Г. І. Хімічева", "en": "G. I. Khimicheva", "ru": "А. И. Химичева"},
+			"OID": [244]
+		}
+	],
+	"references": {
+		"count": 44,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "С. А. Котречко, Ю. Я. Мешков, Предельная прочность — кристаллы, металлы, элементы, конструкции (Киев: Наукова думка: 2008).",
+				"tr":  "S. A. Kotrechko and Yu. Ya. Meshkov, Predel’naya Prochnoct’—Kristally, Metally, Elementy, Konstruktsii [Ultimate Strength—Crystals, Metals, Elements, Constructions] (Kiev: Naukova Dumka: 2008) (in Russian)."
+			},
+			{
+				"doi": "10.1179/174328405X43180",
+				"or":  "B. Tang, X.-S. Wang, S.-S. Li, D.-B. Zeng, and R. Wu, Mater. Sci. Techn., 21, No. 5: 574 (2005).",
+				"tr":  "B. Tang, X.-S. Wang, S.-S. Li, D.-B. Zeng, and R. Wu, Mater. Sci. Techn., 21, No. 5: 574 (2005)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(01)01021-8",
+				"or":  "K. Khantha, V. Vitek, and D. P. Pope, Mater. Sci. Eng. A, 319–321: 484 (2001).",
+				"tr":  "K. Khantha, V. Vitek, and D. P. Pope, Mater. Sci. Eng. A, 319–321: 484 (2001)."
+			},
+			{
+				"doi": "10.15407/ufm.10.01.103",
+				"or":  "В. Г. Ткаченко, Успехи физики металлов, 10, № 1: 103 (2009).",
+				"tr":  "V. G. Tkaчenko, Uspehi Fiziki Metallov, 10, No. 1: 103 (2009) (in Russian)."
+			},
+			{
+				"doi": "10.1070/RC2006v075n08ABEH003623",
+				"or":  "И. П. Суздалев, П. И. Суздалев, Успехи химии, 75, № 8: 715 (2006).",
+				"tr":  "I. P. Suzdalev and P. I. Suzdalev, Russian Chemical Reviews,75, No. 8: 637 (2006)."
+			},
+			{
+				"doi": "10.15587/1729-4061.2015.50562",
+				"or":  "А. И. Химичева, В. В. Курыляк, Восточно-европейский журнал передовых технологий, 5, № 1 (77): 70 (2015).",
+				"tr":  "A. I. Himicheva and V. V. Kurylyak, Eastern-European Journal of Enterprise Technologies, 5, No. 1 (77): 70 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Куриляк, Г. І. Хімічева, Вісник національного технічного університету «Харківський політехнічний інститут». Серія «Проблеми механічного приводу», № 35 (1144): 80 (2015).",
+				"tr":  "V. V. Kurylyak and G. I. Khimicheva, Bulletin of the National Technical University ‘Kharkiv Polytechnic Institute’. Series ‘Problems of Mechanical Drive’, No. 35 (1144): 80 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. І. Хімічева, В. В. Куриляк, Вісник Київського національного університету технологій і дизайну, № 6 (92): 67 (2015).",
+				"tr":  "G. I. Khimicheva and V. V. Kurylyak, Bulletin of the Kyiv National University of Technologies and Design, No. 6 (92): 67 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. І. Хімічева, В. В. Куриляк, Вісник національного технічного університету «Харківський політехнічний інститут». Серія «Нові рішення в сучасних технологіях», № 62 (1171): 40 (2015).",
+				"tr":  "G. I. Khimicheva and V. V. Kurylyak, Bulletin of the National Technical University ‘Kharkiv Polytechnic Institute’. Series New Solutions in Modern Technologies’, No. 62 (1171): 40 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. І. Хімічева, В. В. Куриляк, Вісник Чернігівського державного технічного університету. Серія «Технічні науки», № 2 (78): 76 (2015).",
+				"tr":  "G. I. Khimicheva and V. V. Kurylyak, Visnyk of Chernihiv State Technological University. Series Technical Sciences, No. 2 (78): 76 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15587/2312-8372.2016.76112",
+				"or":  "В. В. Куриляк, Технологічний аудит та резерви виробництва, 4, № 3 (30): 53 (2016).",
+				"tr":  "V. V. Kurylyak, Technology Audit and Production Reserves, 4, No. 3 (30): 53 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. І. Хімічева, В. В. Куриляк, Вісник національного технічного університету «Харківський політехнічний інститут», № 25 (1197): 125 (2016).",
+				"tr":  "A. I. Khimicheva and V. V. Kurylyak, Bulletin of the National Technical University Kharkiv Polytechnic Institute. Series ‘New Solutions in Modern Technologies, No. 25 (1197): 125 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/ufm.17.02.173",
+				"or":  "В. Г. Ткаченко, К. Ч. Ким, Б. Г. Мун, А. И. Дегтяр, О. П. Карасевская, А. С. Вовчок, Успехи физики металлов, 11, № 2: 249 (2010).",
+				"tr":  "V. G. Tkachenko, K. H. Kim, B. G. Moon, O. I. Dekhtyar, O. P. Karasevska, and O. S. Vovchok, Uspehi Fiziki Metallov, 11, No. 2: 249 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Овсянніков, Особливості деформації та руйнування перехідних ОЦК металів у нанооб’ємі (Дисер. канд. фіз. мат. наук) (Київ: Інститут металофізики ім. Г. В. Курдюмова НАН України: 2006).",
+				"tr":  "O. V. Ovsyannikov, Osoblyvosti Deformatsii ta Ruinuvannya Perekhidnykh OTsK Metaliv u Nanoob’yemi [Peculiarities of Plastic Deformation and Fracture of Transition B.C.C. Metals on Nanoscale] (Thesis of Disser. for Cand. Phys.-Math. Sci.) (Kyiv: G. V. Kurdyumov Institute for Metal Physics of N.A.S. of Ukraine: 2006) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/ufm.17.04.375",
+				"or":  "В. В. Куриляк, Г. І. Хімічева, Успехи физики металлов, 17, № 4: 375 (2016).",
+				"tr":  "V. V. Kurylyak and G. I. Khimicheva, Uspehi Fiziki Metallov, 17, No. 4: 375 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/ufm.15.04.213",
+				"or":  "В. Е. Громов, Е. В. Капралов, С. В. Райков, Ю. Ф. Иванов, Е. А. Будовских, Успехи физики металлов, 15, № 4: 213 (2014).",
+				"tr":  "V. E. Gromov. E. V. Kapralov. S. V. Raikov. Yu. F. Ivanov, and E. A. Budovskikh, Uspehi Fiziki Metallov, 15, No. 4: 213 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.15.01.001",
+				"or":  "В. Е. Громов, К. В. Волков, Ю. Ф. Иванов, К. В. Морозов, К. В. Алсараева, С. В. Коновалов, Успехи физики металлов, 15, № 1: 1 (2014).",
+				"tr":  "V. E. Gromov, K. V. Volkov, Yu. F. Ivanov, K. V. Morozov, K. V. Alsarayeva, and S. V. Konovalov, Uspehi Fiziki Metallov, 15, No. 1: 1 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.16.02.119",
+				"or":  "Д. А. Романов, В. Е. Громов, Е. А. Будовских, Ю. Ф. Иванов, Успехи физики металлов, 16, № 2: 119 (2015).",
+				"tr":  "D. A. Romanov, V. E. Gromov, E. A. Budovskikh, and Yu. F. Ivanov, Uspehi Fiziki Metallov, 16, No. 2: 119 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.16.03.175",
+				"or":  "В. Е. Громов, К. В. Соснин, Ю. Ф. Иванов, О. А. Семина, Успехи физики металлов, 16, № 3: 175 (2015).",
+				"tr":  "V. E. Gromov, K. V. Sosnin, Yu. F. Ivanov, and O. A. Semina, Uspehi Fiziki Metallov, 16, No. 3: 175 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.16.04.265",
+				"or":  "В. Е. Громов, К. В. Аксёнова, С. В. Коновалов, Ю. Ф. Иванов, Успехи физики металлов, 16, № 4: 265 (2015).",
+				"tr":  "V. E. Gromov, K. V. Aksyonova, S. V. Konovalov, and Yu. F. Ivanov, Uspehi Fiziki Metallov, 16, No. 4: 265 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.16.04.299",
+				"or":  "В. Е. Громов, Е. Н. Никитина, Ю. Ф. Иванов, К. В. Аксёнова, Е. В. Корнет, Успехи физики металлов, 16, № 4: 299 (2015).",
+				"tr":  "V. E. Gromov, E. N. Nikitina, Yu. F. Ivanov, K. V. Aksyonova, and E. V. Kornet, Uspehi Fiziki Metallov, 16, No. 4: 299 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.17.04.303",
+				"or":  "В. Е. Громов, Ю. Ф. Иванов, Е. Г. Белов, В. Б. Костерев, Д. А. Косинов, Успехи физики металлов, 17, № 4: 303 (2016).",
+				"tr":  "V. E. Gromov, Yu. F. Ivanov, E. G. Belov, V. B. Kosterev, and D. A. Kosinov, Uspehi Fiziki Metallov, 17, No. 4: 303 (2016) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.16.02.159",
+				"or":  "В. Б. Молодкин, В. Е. Сторижко, В. В. Лизунов, С. В. Лизунова, Н. Г. Толмачёв, Л. Н. Скапа, Е. В. Фузик, В.  В. Молодкин, Е. С. Скакунова, Б. В. Шелудченко, С. В. Дмитриев, Е. В. Кочелаб, Р. В. Лехняк, Успехи физики металлов, 16, № 2: 159 (2015).",
+				"tr":  "V. B. Molodkin, V. Yu. Storizhko, V. V. Lizunov, S. V. Lizunova, M. G. Tolmachov, L. M. Skapa, K. V. Fuzik, V. V. Molodkin, O. S. Skakunova, B. V. Sheludchenko, S. V. Dmitriev, Ye. V. Kochelab, and R. V. Lekhnyak, Uspehi Fiziki Metallov, 16, No. 2: 159 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/ufm.15.03.121",
+				"or":  "В. О. Коцюбинский, В. М. Пылыпив, Б. К. Остафийчук, И. П. Яремий, О. З. Гарпуль, С. И. Олиховский, Е. С. Скакунова, В. Б. Молодкин, Е. Н. Кисловский, Т. П. Владимирова, О. В. Решетник, Е. В. Кочелаб, Успехи физики металлов, 15, № 3: 121 (2014).",
+				"tr":  "V. O. Kotsyubyns’kyy, V. M. Pylypiv, B. K. Ostafiychuk, I. P. Yaremiy, O. Z. Garpul’, S. J. Olikhovskyy, O. S. Skakunova, V. B. Molodkin, Ye. M. Kyslovs’kyy, T.  P. Vladimirova, O. V. Reshetnyk, and Ye. V. Kochelab, Uspehi Fiziki Metallov, 15, No. 3: 121 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/ufm.15.02.055",
+				"or":  "В. В. Лизунов, В. Б. Молодкин, С. В. Лизунова, Н. Г. Толмачев, Е. С. Скакунова, С. В. Дмитриев, Б. В. Шелудченко, С. М. Бровчук, Л. Н. Скапа, Р. В. Лехняк, В. В. Молодкин, Е. В. Фузик, Успехи физики металлов, 15, № 2: 55 (2014).",
+				"tr":  "V. V. Lizunov, V. B. Molodkin, S. V. Lizunova, N. G. Tolmachev, O. S. Skakunova, S. V. Dmitriev, B. V. Sheludchenko, S. M. Brovchuk, L. M. Skapa, R. V. Lekhnyak, V. V. Molodkin, and K. V. Fuzik, Uspehi Fiziki Metallov, 15, No. 2: 55 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.09.01.001",
+				"or":  "Т. М. Радченко, В. А. Татаренко, Успехи физики металлов, 9, № 1: 1 (2008).",
+				"tr":  "T. M. Radchenko and V. A. Tatarenko, Uspehi Fiziki Metallov, 9, No. 1: 1 (2008) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Татаренко, Т. М. Радченко, Успехи физики металлов, 3, № 2: 111 (2002).",
+				"tr":  "V. A. Tatarenko and T. M. Radchenko, Uspehi Fiziki Metallov, 3, No. 2: 111 (2002) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "T. M. Радченко, В. А. Татаренко, І. Ю. Сагалянов, Ю. І. Прилуцький, Наносистеми, наноматеріали, нанотехнології, 13, № 2: 201 (2015).",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, I. Yu. Sagalyanov, and Yu. I. Prylutskyy, Nanosistemi, Nanomateriali, Nanotehnologii, 13, No. 2: 201 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/S0966-9795(03)00174-2",
+				"or":  "V. A. Tatarenko and T. M. Radchenko, Intermetallics, 11, Nos. 11–12: 1319 (2003).",
+				"tr":  "V. A. Tatarenko and T. M. Radchenko, Intermetallics, 11, Nos. 11–12: 1319 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "T. M. Radchenko, V. A. Tatarenko, and S. M. Bokoch, Металлофизика и новейшие технологии, 28, № 12: 1699 (2006); arXiv:1406.0147.",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, and S. M. Bokoch, Metallofizika i Noveishie Tekhnologii, 28, No. 12: 1699 (2006); arXiv:1406.0147."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Татаренко, Т. М. Радченко, Успехи физики металлов, 3, № 2: 111 (2002).",
+				"tr":  "V. A. Tatarenko and T. M. Radchenko, Uspehi Fiziki Metallov, 3, No. 2: 111 (2002) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Татаренко, Т. М. Радченко, В. М. Надутов, Металлофизика и новейшие технологии, 25, № 10: 1303 (2003).",
+				"tr":  "V. A. Tatarenko, T. M. Radchenko, and V. M. Nadutov, Metallofizika i Noveishie Tekhnologii, 25, No. 10: 1303 (2003) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/ufm.11.01.095",
+				"or":  "І. Ю. Сагалянов, Ю. І. Прилуцький, Т. М. Радченко, В. А. Татаренко, Успехи физики металлов, 11, № 1: 95 (2010).",
+				"tr":  "I. Yu. Sagalyanov, Yu. I. Prylutskyy, T. M. Radchenko, and V. A. Tatarenko, Uspehi Fiziki Metallov, 11, No. 1: 95 (2010) (in Ukrainian)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/SSP.138.283",
+				"or":  "T. M. Radchenko, V. A. Tatarenko, and H. Zapolsky, Solid State Phenomena, 138: 283 (2008).",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, and H. Zapolsky, Solid State Phenomena, 138: 283 (2008)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/DDF.280-281.29",
+				"or":  "V. A. Tatarenko, S. M. Bokoch, V. M. Nadutov, T. M. Radchenko, and Y. B. Park, Defect and Diffusion Forum, 280–281: 29 (2008).",
+				"tr":  "V. A. Tatarenko, S. M. Bokoch, V. M. Nadutov, T. M. Radchenko, and Y. B. Park, Defect and Diffusion Forum, 280–281: 29 (2008)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2006.12.149",
+				"or":  "T. M. Radchenko, V. A Tatarenko, H. Zapolsky, and D. Blavette, J. Alloys and Compounds, 452, No. 1: 122 (2008).",
+				"tr":  "T. M. Radchenko, V. A Tatarenko, H. Zapolsky, and D. Blavette, J. Alloys and Compounds, 452, No. 1: 122 (2008)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/DDF.273-276.525",
+				"or":  "T. M Radchenko and V. A. Tatarenko, Defect and Diffusion Forum, 273: 525 (2008).",
+				"tr":  "T. M Radchenko and V. A. Tatarenko, Defect and Diffusion Forum, 273: 525 (2008)."
+			},
+			{
+				"doi": "10.1016/j.physe.2010.03.024",
+				"or":  "T. M. Radchenko and V. A. Tatarenko, Physica E, 42, No. 8: 2047 (2010).",
+				"tr":  "T. M. Radchenko and V. A. Tatarenko, Physica E, 42, No. 8: 2047 (2010)."
+			},
+			{
+				"doi": "10.1016/j.solidstatesciences.2009.05.027",
+				"or":  "T. M. Radchenko and V. A. Tatarenko, Solid State Sciences, 12, No. 2: 204 (2010).",
+				"tr":  "T. M. Radchenko and V. A. Tatarenko, Solid State Sciences, 12, No. 2: 204 (2010)."
+			},
+			{
+				"doi": "10.1016/j.carbon.2016.01.067",
+				"or":  "T. M. Radchenko, V. A. Tatarenko, I. Yu. Sagalianov, Yu. I. Prylutskyy, P. Szroeder, and S. Biniak, Carbon, 101: 37 (2016).",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, I. Yu. Sagalianov, Yu. I. Prylutskyy, P. Szroeder, and S. Biniak, Carbon, 101: 37 (2016)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/SSP.150.43",
+				"or":  "T. M. Radchenko and V. A. Tatarenko, Solid State Phenomena, 150: 43 (2009).",
+				"tr":  "T. M. Radchenko and V. A. Tatarenko, Solid State Phenomena, 150: 43 (2009)."
+			},
+			{
+				"doi": "10.1016/j.physleta.2014.05.022",
+				"or":  "T. M. Radchenko, V. A. Tatarenko, I. Yu. Sagalianov, and Yu. I. Prylutskyy, Physics Letters A, 378, Nos. 30–31: 2270 (2014).",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, I. Yu. Sagalianov, and Yu. I. Prylutskyy, Physics Letters A, 378, Nos. 30–31: 2270 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "С. М. Бокоч, Н. П. Кулиш, Т. М. Радченко, В. А. Татаренко, Металлофизика и новейшие технологии, 26, № 3: 387 (2004).",
+				"tr":  "S. M. Bokoch, M. P. Kulish, T. M. Radchenko, and V. A. Tatarenko, Metallofizika i Noveishie Tekhnologii, 26, No. 3: 387 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. М Бокоч, Н. П. Кулиш, В. А. Татаренко, Т. М. Радченко, Металлофизика и новейшие технологии, 26, № 4: 541 (2004).",
+				"tr":  "S. M Bokoch, M. P. Kulish, V. A. Tatarenko, and T. M. Radchenko, Metallofizika i Noveishie Tekhnologii, 26, No. 4: 541 (2004) (in Russian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,155 @@
+{
+	"_id":    "UFM.16.01.001",
+	"year":   2015,
+	"volume": 16,
+	"issue":  1,
+	"pages":  [1,22],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["29.12.2014"],
+	"PACS":   "46.25.Hf, 62.20.fg, 64.70.kd, 65.40.De, 81.30.Kf, 81.40.Jj",
+	"title":   {
+		"ua": "Термопружня поведінка, гістереза і дисипативні сили в термодинаміці мартенситних перетворень",
+		"en": "Thermoelastic Behaviour, Hysteresis, and Dissipative Forces in Thermodynamics of Martensitic Transformations",
+		"ru": "Термоупругое поведение, гистерезис и диссипативные силы в термодинамике мартенситных превращений"
+	},
+	"abstract": {
+		"ua": "В даній роботі обговорюється ряд проблем термодинаміки термічно індукованих термопружніх мартенситних перетворень. Показано, що основна система рівнянь балансу термодинамічних сил, що описує температурну залежність об’ємної частки мартенситу, може бути одержана безпосередньо із закону збереження енергії, де додатково враховано ефекти необоротньої роботи проти внутрішніх дисипативних сил. Загальний баланс термодинамічних сил відбувається між класичними («хімічними») рушійними силами, з одного боку, та так званими нехімічними силами, обумовленими пружніми, міжфазними й іншими енергетичними внесками, з іншого. Розроблено процедуру визначення таких нехімічних внесків на основі калориметричних експериментів, яку застосовано для аналізи калориметричних даних в стопах з ефектом пам’яті форми CuZnAl та CuAlNi. Насамкінець, проблеми термопружніх мартенситних перетворень обговорюються на основі мікроскопічного теоретичного підходу.",
+		"en": "In the present article, a set of thermodynamic problems of the temperature-induced thermoelastic martensitic transformation is discussed. It is shown that the constitutive thermodynamic force balance equations describing the temperature dependence of martensite volume fraction on the global hysteresis cycle can be directly derived from the energy conservation law where the additional irreversible work is taken into account. Resulting force balance occurs between the classical (‘chemical’) driving force, on the one hand, and the so-called nonchemical forces representing the elastic, interfacial and other energy contributions, on the other hand. The procedure of finding the nonchemical contributions from the calorimetric experiments is developed and applied to the analysis of DSC measurements for the CuZnAl and CuAlNi shape-memory alloys. Finally, the problem of thermoelastic martensitic transformation is discussed on the basis of the microscopic theoretical approach.",
+		"ru": "В данной работе обсуждается ряд проблем термодинамики термически индуцированных термоупругих мартенситных превращений. Показано, что основная система уравнений баланса термодинамических сил, которая описывает температурную зависимость объёмной доли мартенсита, может быть получена непосредственно из закона сохранения энергии, где дополнительно учтены эффекты необратимой работы против внутренних диссипативных сил. Общий баланс термодинамических сил осуществляется между классическими («химическими») движущими силами, с одной стороны, и так называемыми нехимическими силами, обусловленными упругими, межфазными и другими энергетическими вкладами, с другой. Разработана процедура определения таких нехимических вкладов на основе калориметрических экспериментов, которая применена для анализа калориметрических данных в сплавах с эффектом памяти формы CuZnAl и CuAlNi. В заключение, проблемы термоупругих мартенситных превращений обсуждаются на основе микроскопического теоретического подхода."
+	},
+	"keywords": {
+		"ua": "",
+		"en": "shape-memory alloys, martensitic transformation, hysteresis, thermoelastic equilibrium",
+		"ru": ""
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. А. Ліхачов", "en": "O. A. Likhachev", "ru": "А. А. Лихачёв"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Ю. М. Коваль", "en": "Yu. M. Koval", "ru": "Ю. Н. Коваль"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.18.02.111",
+				"cit": "V. E. Kormyshev, V. E. Gromov, Yu. F. Ivanov and S. V. Konovalov, <a href=\"https://doi.org/10.15407/ufm.18.02.111\">Usp. Fiz. Met. <b>18</b>, 111 (2017)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 21,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "G. V. Kurdjumov, Tech. Phys. U.S.S.R., 18: 999 (1949).",
+				"tr":  "G. V. Kurdjumov, Tech. Phys. U.S.S.R., 18: 999 (1949)."
+			},
+			{
+				"doi": "",
+				"or":  "G. V. Kurdjumov and L. C. Khandros, Dokl. Acad. Nauk. SSSR, 66: 211 (1949) (in Russian).",
+				"tr":  "G. V. Kurdjumov and L. C. Khandros, Dokl. Acad. Nauk. SSSR, 66: 211 (1949) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. V. Kurdjumov, J. Metals, 11: 449 (1959).",
+				"tr":  "G. V. Kurdjumov, J. Metals, 11: 449 (1959)."
+			},
+			{
+				"doi": "10.1007/BF00552939",
+				"or":  "L. Delaey, R. V. Krishnan, H. Tas, and H. Warlimont, J. Mater. Sci., 9: 1521 (1974).",
+				"tr":  "L. Delaey, R. V. Krishnan, H. Tas, and H. Warlimont, J. Mater. Sci., 9: 1521 (1974)."
+			},
+			{
+				"doi": "10.1007/BF00552940",
+				"or":  "R. V. Krishnan, L. Delaey, H. Tas, and H. Warlimont, J. Mater. Sci., 9: 1536 (1974).",
+				"tr":  "R. V. Krishnan, L. Delaey, H. Tas, and H. Warlimont, J. Mater. Sci., 9: 1536 (1974)."
+			},
+			{
+				"doi": "10.1007/BF00552941",
+				"or":  "H. Warlimont, L. Delaey, R. V. Krishnan, and H. Tas, J. Mater. Sci., 9: 1536 (1974).",
+				"tr":  "H. Warlimont, L. Delaey, R. V. Krishnan, and H. Tas, J. Mater. Sci., 9: 1555 (1974)."
+			},
+			{
+				"doi": "10.1016/0036-9748(75)90418-4",
+				"or":  "G. B. Olson and M. Cohen, Scr. Metall., 9: 1247 (1975).",
+				"tr":  "G. B. Olson and M. Cohen, Scr. Metall., 9: 1247 (1975)."
+			},
+			{
+				"doi": "10.1016/0036-9748(77)90264-2",
+				"or":  "G. B. Olson and M. Cohen, Scr. Metall., 11: 345 (1977).",
+				"tr":  "G. B. Olson and M. Cohen, Scr. Metall., 11: 345 (1977)."
+			},
+			{
+				"doi": "10.1016/0001-6160(74)90055-8",
+				"or":  "H. C. Tong and C. M. Wayman, Acta Metall., 22: 887 (1974).",
+				"tr":  "H. C. Tong and C. M. Wayman, Acta Metall., 22: 887 (1974)."
+			},
+			{
+				"doi": "10.1016/0036-9748(77)90263-0",
+				"or":  "C. M. Wayman and H. C. Tong, Scr. Metall., 11: 341 (1977).",
+				"tr":  "C. M. Wayman and H. C. Tong, Scr. Metall., 11: 341 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "Y. I. Paskal and L. A. Monasevich, Sov. Phys. J., 78: 1466 (1979).",
+				"tr":  "Y. I. Paskal and L. A. Monasevich, Sov. Phys. J., 78: 1466 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "Y. I. Paskal and L. A. Monasevich, Phys. Met. Metall., 52: 95 (1981).",
+				"tr":  "Y. I. Paskal and L. A. Monasevich, Phys. Met. Metall., 52: 95 (1981)."
+			},
+			{
+				"doi": "10.1016/0001-6160(88)90291-X",
+				"or":  "J. Ortin and A. Planes, Acta Metall., 36: 1873 (1988).",
+				"tr":  "J. Ortin and A. Planes, Acta Metall., 36: 1873 (1988)."
+			},
+			{
+				"doi": "10.1016/0001-6160(89)90175-2",
+				"or":  "J. Ortin and A. Planes, Acta Metall., 37: 1433 (1989).",
+				"tr":  "J. Ortin and A. Planes, Acta Metall., 37: 1433 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Segui, E. Cesari, and J. Pons, Mater. Trans., JIM, 33: 650 (1992).",
+				"tr":  "C. Segui, E. Cesari, and J. Pons, Mater. Trans., JIM, 33: 650 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Cesari, C. Segui, J. Pons, and F. Perelló, J. Phys. IV France, 6, C8: 413 (1996).",
+				"tr":  "E. Cesari, C. Segui, J. Pons, and F. Perelló, J. Phys. IV France, 6, C8: 413 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Likhachev and Yu. N. Koval, Samosoglasovannye Polya Napryazheniy i Termouprugoe Ravnovesie Faz v Neodnorodnykh Tverdykh Rastvorakh [The Self-Consistent Field Stresses and Thermoelastic Phase Equilibrium in Heterogeneous Solid Solutions] (Kiev: 1988) (Prepr./N.A.S. of Ukraine. Inst. for Metal Physics. No. 20.88, p. 18) (in Russian).",
+				"tr":  "A. A. Likhachev and Yu. N. Koval, Samosoglasovannye Polya Napryazheniy i Termouprugoe Ravnovesie Faz v Neodnorodnykh Tverdykh Rastvorakh [The Self-Consistent Field Stresses and Thermoelastic Phase Equilibrium in Heterogeneous Solid Solutions] (Kiev: 1988) (Prepr./N.A.S. of Ukraine. Inst. for Metal Physics. No. 20.88, p. 18) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0956-716X(92)90155-8",
+				"or":  "A. A. Likhachev and Yu. N. Koval, Scr. Metall. Mater., 27: 1623 (1992).",
+				"tr":  "A. A. Likhachev and Yu. N. Koval, Scr. Metall. Mater., 27: 1623 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Likhachev and Yu. N. Koval, Fazovye Prevrashcheniya Martensitnogo Tipa [Martensitic-Type Phase Transformations] (Kiev: Naukova Dumka: 1993), p. 39–52 (in Russian).",
+				"tr":  "A. A. Likhachev and Yu. N. Koval, Fazovye Prevrashcheniya Martensitnogo Tipa [Martensitic-Type Phase Transformations] (Kiev: Naukova Dumka: 1993), p. 39–52 (in Russian)."
+			},
+			{
+				"doi": "10.3367/UFNr.0113.197405c.0069",
+				"or":  "A. L. Roytburd, Usp. Fiz. Nauk, 113: 69 (1974) (in Russian).",
+				"tr":  "A. L. Roytburd, Usp. Fiz. Nauk, 113: 69 (1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. G. Khachaturyan, Fiz. Tverdogo Tela, 8: 2709 (1966) (in Russian).",
+				"tr":  "A. G. Khachaturyan, Fiz. Tverdogo Tela, 8: 2709 (1966) (in Russian)."
+			}
+		]
+	}
+}

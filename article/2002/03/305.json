@@ -1,0 +1,350 @@
+{
+	"_id":    "UFM.03.03.305",
+	"year":   2002,
+	"volume": 3,
+	"issue":  3,
+	"pages":  [305,355],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["24.07.2002"],
+	"PACS":   "62.20.Fe, 64.70.Kb, 65.70.+y, 81.30.Hd, 81.30.Kf, 81.30.Mh",
+	"title":   {
+		"ua": "Эфект пам'яті форми, керований бездифузійними та дифузійними перетвореннями за підвищених температур",
+		"en": "Shape Memory Effect Driven by Diffusionless and Diffusional Transformations at Elevated Temperatures",
+		"ru": "Эффект памяти формы, управляемый бездиффузионными и диффузионными превращениями при повышенных температурах"
+	},
+	"abstract": {
+		"ua": "Можна навести певну кількість систем сплавів, що можуть бути визначені, як високотемпературні сплави з ефектом пам’яті форми, що в свою чергу визначаються як сплави зі стабільними температурами зворотного мартенситного перетворення, вищими за 100°C. На жаль, невідомо жодного випадку успішного застосування високотемпературних сплавів з ефектом пам’яті форми, завдяки відсутності вимог щодо їх стабільності, пластичності, функціональної поведінки та надійності. Не зважаючи на це, дослідження високотемпературних сплавів з ефектом пам’яті форми є важливим не тільки з точки зору фундаментальної науки, але й завдяки вимогам ринку. Дана робота присвячена розглядові деяких новітніх систем високотемпературних сплавів з ефектом пам’яті форми, що зумовлений мартенситним (бездифузійним) та дифузійним перетвореннями.",
+		"en": "Several alloy systems can be selected for high-temperature shape-memory alloys, defined as alloys with stable reverse martensitic-transformation temperatures above 100°C. However, due to the lack of minimum quality standards for stability, ductility, functional behaviour, and reliability, no successful applications have been realised so far. Nevertheless, research on high-temperature shape-memory alloys (HTSMA) is an important topic not only for scientific reasons but also due to the market pull. This paper reviews some novel HTSMA systems showing shape-memory effect at elevated temperatures driven by martensitic (diffusionless) and diffusional transformations.",
+		"ru": "Можно привести достаточное количество систем сплавов, которые подпадают под определение высокотемпературных сплавов с эффектом памяти формы — сплавов, в которых стабильное обратное мартенситное превращение протекает при температурах выше 100°C. К сожалению, до сих пор не известно ни одного случая успешного применения высокотемпературных сплавов с эффектом памяти формы в силу отсутствия требований к их стабильности, пластичности, функциональному поведению и надежности. Тем не менее, исследования высокотемпературных сплавов с эффектом памяти формы являются важными не только с точки зрения фундаментальной науки, но и благодаря требованиям рынка. Настоящая работа посвящена рассмотрению некоторых новейших систем высокотемпературных сплавов с эффектом памяти формы, который определяется как мартенситным (бездиффузионным), так и диффузионными превращениями"
+	},
+	"keywords": {
+		"ua": "ефект пам’яті форми, високотемпературні мартенситні та дифузійні перетворення",
+		"en": "shape memory effect, high-temperature martensitic and diffusional transformations",
+		"ru": "эффект памяти формы, высокотемпературные мартенситные и диффузионные превращения"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Г. С. Фірстов", "en": "G. S. Firstov", "ru": "Г. С. Фирстов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Ю. М. Коваль", "en": "Yu. N. Koval", "ru": "Ю. Н. Коваль"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Я. Ван Хумбеек", "en": "J. Van Humbeeck", "ru": "Я. Ван Хумбеек"},
+			"OID": [508]
+		}
+	],
+	"references": {
+		"count": 61,
+				"list":  [
+			{
+				"doi": "10.1016/0022-5088(85)90374-1",
+				"or":  "E. M. Carvalho and I. R. Harris, J. Less-Common Met., 106: 129 (1985).",
+				"tr":  "E. M. Carvalho and I. R. Harris, J. Less-Common Met., 106: 129 (1985)."
+			},
+			{
+				"doi": "10.1016/0956-716X(92)90153-6",
+				"or":  "Yu. N. Koval, G. S. Firstov, and A. V. Kotko, Scripta Met. Mat., 27: 1611 (1992).",
+				"tr":  "Yu. N. Koval, G. S. Firstov, and A. V. Kotko, Scripta Met. Mat., 27: 1611 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Nemoshkalenko, A. V. Zhalko-Titarenko, Yu. N. Koval et al., Metallofiz. Noveishie Technol., 15, No. 1: 12 (1993) (in Russian).",
+				"tr":  "V. V. Nemoshkalenko, A. V. Zhalko-Titarenko, Yu. N. Koval et al., Metallofiz. Noveishie Technol., 15, No. 1: 12 (1993) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.1709419",
+				"or":  "F. E. Wang, J. Appl. Phys., 38: 822 (1967).",
+				"tr":  "F. E. Wang, J. Appl. Phys., 38: 822 (1967)."
+			},
+			{
+				"doi": "10.1063/1.1656525",
+				"or":  "F. E. Wang and W. Ernst, J. Appl. Phys., 39: 2192 (1968).",
+				"tr":  "F. E. Wang and W. Ernst, J. Appl. Phys., 39: 2192 (1968)."
+			},
+			{
+				"doi": "10.1016/0036-9748(70)90126-2",
+				"or":  "I. R. Harris, D. Hossain, and K. G. Barraclough, Scripta Met., 4: 305 (1970).",
+				"tr":  "I. R. Harris, D. Hossain, and K. G. Barraclough, Scripta Met., 4: 305 (1970)."
+			},
+			{
+				"doi": "10.1016/0022-5088(74)90006-X",
+				"or":  "D. Hossain, I. R. Harris, and K. G. Barraclough, J. Less-Common Met., 37: 35 (1974).",
+				"tr":  "D. Hossain, I. R. Harris, and K. G. Barraclough, J. Less-Common Met., 37: 35 (1974)."
+			},
+			{
+				"doi": "10.1016/0001-6160(78)90072-X",
+				"or":  "C. Lall, M. H. Loretto, and I. R. Harris, Acta Metall., 26: 1631 (1978).",
+				"tr":  "C. Lall, M. H. Loretto, and I. R. Harris, Acta Metall., 26: 1631 (1978)."
+			},
+			{
+				"doi": "10.1016/0022-5088(85)90373-X",
+				"or":  "E. M. Carvalho and I. R. Harris, J. Less-Common Met., 106: 117 (1985).",
+				"tr":  "E. M. Carvalho and I. R. Harris, J. Less-Common Met., 106: 117 (1985)."
+			},
+			{
+				"doi": "10.1016/0022-5088(85)90375-3",
+				"or":  "E. M. Carvalho and I. R. Harris, J. Less-Common Met., 106: 143 (1985).",
+				"tr":  "E. M. Carvalho and I. R. Harris, J. Less-Common Met., 106: 143 (1985)."
+			},
+			{
+				"doi": "10.1007/BF00551811",
+				"or":  "E. M. Carvalho and I. R. Harris, J. Mat. Sci., 15: 1224 (1980).",
+				"tr":  "E. M. Carvalho and I. R. Harris, J. Mat. Sci., 15: 1224 (1980)."
+			},
+			{
+				"doi": "10.1016/0022-5088(88)90435-3",
+				"or":  "I. Z. Jorda, T. Graf, and L. Schellenberg, J. Less-Common Met., 136, No. 1: 313 (1988).",
+				"tr":  "I. Z. Jorda, T. Graf, and L. Schellenberg, J. Less-Common Met., 136, No. 1: 313 (1988)."
+			},
+			{
+				"doi": "10.1016/0925-8388(94)90729-3",
+				"or":  "E. L. Semenova and Yu. V. Kudryavtsev, J. Alloys and Compounds, 203: 165 (1994).",
+				"tr":  "E. L. Semenova and Yu. V. Kudryavtsev, J. Alloys and Compounds, 203: 165 (1994)."
+			},
+			{
+				"doi": "10.1016/0956-716X(94)90481-2",
+				"or":  "Yu. N. Koval, G. S. Firstov, L. Delaey, and J. Van Humbeeck, Scripta Met. et Mat., 31, No. 7: 799 (1994).",
+				"tr":  "Yu. N. Koval, G. S. Firstov, L. Delaey, and J. Van Humbeeck, Scripta Met. et Mat., 31, No. 7: 799 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Y. Jang, J. Van Humbeeck, L. Delaey et al., ‘The Influence of Ti and Ni Additions and Thermal Cycling on the Martensitic Transformation in CuZr Alloys’ (Proc. of the Advanced Materials’93, B: Shape Memory Materials and Hydrides) (Eds. K. Otsuka et al.), Trans. Mat. Res. Soc. Jpn., 18B (Elsevier: 1994), p. 1009.",
+				"tr":  "W. Y. Jang, J. Van Humbeeck, L. Delaey et al., 'The Influence of Ti and Ni Additions and Thermal Cycling on the Martensitic Transformation in CuZr Alloys' (Proc. of the Advanced Materials'93, B: Shape Memory Materials and Hydrides) (Eds. K. Otsuka et al.), Trans. Mat. Res. Soc. Jpn., 18B (Elsevier: 1994), p. 1009."
+			},
+			{
+				"doi": "10.1002/pssb.2221840108",
+				"or":  "A. V. Zhalko-Titarenko, M. L. Yevlashina, V. N. Antonov et al., Phys. Stat. Sol. (b), 184: 121 (1994).",
+				"tr":  "A. V. Zhalko-Titarenko, M. L. Yevlashina, V. N. Antonov et al., Phys. Stat. Sol. (b), 184: 121 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. N. Koval and G. S. Firstov, ‘Crystal Structure of the ZrCu Intermetallic Compound’ (Proc. of XVIth Conference on Applied Crystallography) (Cieszyn, Poland, 22–26 August, 1994) (Eds. H. Morawiec and D. Stróz) (Singapore: World Scientific: 1995), p. 310.",
+				"tr":  "Yu. N. Koval and G. S. Firstov, 'Crystal Structure of the ZrCu Intermetallic Compound' (Proc. of XVIth Conference on Applied Crystallography) (Cieszyn, Poland, 22–26 August, 1994) (Eds. H. Morawiec and D. Stróz) (Singapore: World Scientific: 1995), p. 310."
+			},
+			{
+				"doi": "10.1088/0305-4608/13/5/002",
+				"or":  "W. Bührer, R. Gotthardt, A. Kulik et al., J. Phys. F: Met. Phys., 13: L77 (1983).",
+				"tr":  "W. Bührer, R. Gotthardt, A. Kulik et al., J. Phys. F: Met. Phys., 13: L77 (1983)."
+			},
+			{
+				"doi": "10.1016/0001-6160(85)90128-2",
+				"or":  "Y. Kudoh, M. Tokonami, S. Miyazaki, and K. Otsuka, Acta Metall., 33, No. 11: 2049 (1985).",
+				"tr":  "Y. Kudoh, M. Tokonami, S. Miyazaki, and K. Otsuka, Acta Metall., 33, No. 11: 2049 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "R. M. Waterstrat, L. A. Bendersky, and R. Kuentzler, ‘Deformation Twins and Martensite in Ductile B2 Alloys of the Zr(RuPd) System’ (Proc. of the ICOMAT-92) (Monterey, USA, 20–24 July, 1992) (Ed. J. Perkins) (Monterey Institute for Advanced Studies: 1993), p. 545.",
+				"tr":  "R. M. Waterstrat, L. A. Bendersky, and R. Kuentzler, 'Deformation Twins and Martensite in Ductile B2 Alloys of the Zr(RuPd) System' (Proc. of the ICOMAT-92) (Monterey, USA, 20–24 July, 1992) (Ed. J. Perkins) (Monterey Institute for Advanced Studies: 1993), p. 545."
+			},
+			{
+				"doi": "10.1016/0956-716X(92)90182-E",
+				"or":  "I. Groma, J. Lendvai, A. Cziráki et al., Scripta Met. et Mat., 26: 255 (1992).",
+				"tr":  "I. Groma, J. Lendvai, A. Cziráki et al., Scripta Met. et Mat., 26: 255 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Martynov and L. G. Khandros, Fiz. Met. Metalloved., 39, No. 5: 1037 (1975) (in Russian).",
+				"tr":  "V. V. Martynov and L. G. Khandros, Fiz. Met. Metalloved., 39, No. 5: 1037 (1975) (in Russian)."
+			},
+			{
+				"doi": "10.1107/S0021889881008996",
+				"or":  "D. B. Wiles and R. A. Young, J. Appl. Cryst., 14: 149 (1981).",
+				"tr":  "D. B. Wiles and R. A. Young, J. Appl. Cryst., 14: 149 (1981)."
+			},
+			{
+				"doi": "10.1016/S1359-6462(97)00003-1",
+				"or":  "D. Schryvers, G. S. Firstov, J. W. Seo et al., Scripta Mat., 36: 1119 (1997).",
+				"tr":  "D. Schryvers, G. S. Firstov, J. W. Seo et al., Scripta Mat., 36: 1119 (1997)."
+			},
+			{
+				"doi": "10.1007/978-1-4684-2211-5_3",
+				"or":  "K. Shimizu and K. Otsuka, Shape Memory Effects in Alloys (Ed. J. Perkins) (New York: Plenum Press: 1975), p. 59–83.",
+				"tr":  "K. Shimizu and K. Otsuka, Shape Memory Effects in Alloys (Ed. J. Perkins) (New York: Plenum Press: 1975), p. 59–83."
+			},
+			{
+				"doi": "10.1016/0001-6160(88)90291-X",
+				"or":  "J. Ortin and A. Planes, Acta Metall., 36, No. 8: 1873 (1988).",
+				"tr":  "J. Ortin and A. Planes, Acta Metall., 36, No. 8: 1873 (1988)."
+			},
+			{
+				"doi": "10.1016/0036-9748(76)90092-2",
+				"or":  "A. Cornelis and C. M. Wayman, Scripta Met., 10: 359 (1976).",
+				"tr":  "A. Cornelis and C. M. Wayman, Scripta Met., 10: 359 (1976)."
+			},
+			{
+				"doi": "10.1007/978-1-4684-2211-5_8",
+				"or":  "D. S. Lieberman, M. A. Schmerling, and R. S. Karz, Shape Memory Effects in Alloys (Ed. J. Perkins) (New York: Plenum Press: 1975), p. 203–226.",
+				"tr":  "D. S. Lieberman, M. A. Schmerling, and R. S. Karz, Shape Memory Effects in Alloys (Ed. J. Perkins) (New York: Plenum Press: 1975), p. 203–226."
+			},
+			{
+				"doi": "",
+				"or":  "B. Predel and W. Schwerman, Z. Naturforschg., 22a: 1499 (1967).",
+				"tr":  "B. Predel and W. Schwerman, Z. Naturforschg., 22a: 1499 (1967)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Airoldi, B. Rivolta, and C. Turco, ‘Heats of Transformations as a Function of Thermal Cycling in NiTi Alloys’ (Proc. of the ICOMAT-86) (Nara, Japan, 26–30 August, 1986) (Sendai: The Japan Institute of Metals: 1987), p. 691–696.",
+				"tr":  "G. Airoldi, B. Rivolta, and C. Turco, 'Heats of Transformations as a Function of Thermal Cycling in NiTi Alloys' (Proc. of the ICOMAT-86) (Nara, Japan, 26–30 August, 1986) (Sendai: The Japan Institute of Metals: 1987), p. 691–696."
+			},
+			{
+				"doi": "10.1016/0956-716X(90)90434-I",
+				"or":  "Y. C. Lo, S. K. Wu, and C. M. Wayman, Scripta Met. et Mat., 24: 1571 (1990).",
+				"tr":  "Y. C. Lo, S. K. Wu, and C. M. Wayman, Scripta Met. et Mat., 24: 1571 (1990)."
+			},
+			{
+				"doi": "10.1051/jp4/1995581103",
+				"or":  "Yu. N. Koval, G. S. Firstov, J. Van Humbeeck et al., ‘B2 Intermetallic Compounds of Zr. New Class of the Shape Memory Alloys’ (Proc. of the ICOMAT-95) (Lausanne,Switzerland, 20–25 August, 1995) (Eds. R. Gotthardt and J. Van Humbeeck), J. Physique IV, C8, 5 (Les Editions de Physique, 1995), p. 1103–1108.",
+				"tr":  "Yu. N. Koval, G. S. Firstov, J. Van Humbeeck et al., 'B2 Intermetallic Compounds of Zr. New Class of the Shape Memory Alloys' (Proc. of the ICOMAT-95) (Lausanne,Switzerland, 20–25 August, 1995) (Eds. R. Gotthardt and J. Van Humbeeck), J. Physique IV, C8, 5 (Les Editions de Physique, 1995), p. 1103–1108."
+			},
+			{
+				"doi": "",
+				"or":  "G. V. Kurdjumov and L. G. Khandros, Dokl. Akad. Nauk SSSR, 66: 211 (1949) (in Russian).",
+				"tr":  "G. V. Kurdjumov and L. G. Khandros, Dokl. Akad. Nauk SSSR, 66: 211 (1949) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. S. Firstov, Yu. N. Koval, and J. Van Humbeeck (unpublished results).",
+				"tr":  "G. S. Firstov, Yu. N. Koval, and J. Van Humbeeck (unpublished results)."
+			},
+			{
+				"doi": "",
+				"or":  "R. A. Young and A. Sakthivel, Program DBWS-9006PC for Rietveld Analysis of X-Ray and Neutron Powder Diffraction Patterns (release of 1991).",
+				"tr":  "R. A. Young and A. Sakthivel, Program DBWS-9006PC for Rietveld Analysis of X-Ray and Neutron Powder Diffraction Patterns (release of 1991)."
+			},
+			{
+				"doi": "10.1107/S0021889887086199",
+				"or":  "R. J. Hill and C. J. Howard, J. Appl. Cryst., 20: 467 (1987).",
+				"tr":  "R. J. Hill and C. J. Howard, J. Appl. Cryst., 20: 467 (1987)."
+			},
+			{
+				"doi": "10.1051/jp4:1997587",
+				"or":  "G. S. Firstov, Yu. N. Koval, and J. Van Humbeeck, ‘Irreversible Processes During Martensitic Transformation in Zr-Based Shape Memory Alloys’ (Proc. of the ESOMAT’97) (Enschede, The Netherlands, 1–5 July, 1997) (Eds. J. Beyer, A. Bцttger, and J. H. Mulder), J. Physique IV, C5, 7: 549 (1997).",
+				"tr":  "G. S. Firstov, Yu. N. Koval, and J. Van Humbeeck, 'Irreversible Processes During Martensitic Transformation in Zr-Based Shape Memory Alloys' (Proc. of the ESOMAT'97) (Enschede, The Netherlands, 1–5 July, 1997) (Eds. J. Beyer, A. Btsttger, and J. H. Mulder), J. Physique IV, C5, 7: 549 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "G. S. Firstov, Yu. N. Koval, and J. Van Humbeeck, ‘Shape Memory Behaviour in Quasi-Binary ZrCu-Based Intermetallic Compounds’ (Proc. of the SMST’99) (Antwerp Zoo, Belgium, 5–9 September, 1999) (to be published).",
+				"tr":  "G. S. Firstov, Yu. N. Koval, and J. Van Humbeeck, 'Shape Memory Behaviour in Quasi-Binary ZrCu-Based Intermetallic Compounds' (Proc. of the SMST'99) (Antwerp Zoo, Belgium, 5–9 September, 1999) (to be published)."
+			},
+			{
+				"doi": "10.1063/1.1148422",
+				"or":  "G. Roebben, B. Bollen, A. Brebels et al., Rev. Sci. Instrum., 68: 4511 (1997).",
+				"tr":  "G. Roebben, B. Bollen, A. Brebels et al., Rev. Sci. Instrum., 68: 4511 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "A. S. Nowick and B. S. Berry, in Anelastic Relaxation in Crystalline Solids (New York: Academic Press: 1972).",
+				"tr":  "A. S. Nowick and B. S. Berry, in Anelastic Relaxation in Crystalline Solids (New York: Academic Press: 1972)."
+			},
+			{
+				"doi": "10.1107/S0021889881008996",
+				"or":  "D. B. Wiles and R. A. Young, J. Appl. Cryst., 14: 149 (1981).",
+				"tr":  "D. B. Wiles and R. A. Young, J. Appl. Cryst., 14: 149 (1981)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(97)00333-9",
+				"or":  "J. W. Seo and D. Schryvers, Acta mater., 46, No. 4: 1165 (1998).",
+				"tr":  "J. W. Seo and D. Schryvers, Acta mater., 46, No. 4: 1165 (1998)."
+			},
+			{
+				"doi": "10.1016/0038-1098(89)90460-2",
+				"or":  "S. A. Shabalovskaya, Solid State Com., 70, No. 1: 23 (1989).",
+				"tr":  "S. A. Shabalovskaya, Solid State Com., 70, No. 1: 23 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Kokorin, I. A. Osipenko, and T. V. Shirina, Fiz. Met. Metalloved., 67, No. 3: 601 (1989) (in Russian).",
+				"tr":  "V. V. Kokorin, I. A. Osipenko, and T. V. Shirina, Fiz. Met. Metalloved., 67, No. 3: 601 (1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. A. Shabalovskaya, ‘Factors Determining B2 Phase Stability in Ti-Based Compounds’ (Proc. of the ICOMAT-92) (Monterey, USA, 20–24 July, 1992) (Eds. C. M. Wayman and J. Perkins) (Monterey Institute for Advanced Studies: 1993), p. 123.",
+				"tr":  "S. A. Shabalovskaya, 'Factors Determining B2 Phase Stability in Ti-Based Compounds' (Proc. of the ICOMAT-92) (Monterey, USA, 20–24 July, 1992) (Eds. C. M. Wayman and J. Perkins) (Monterey Institute for Advanced Studies: 1993), p. 123."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Kostyshin and G. A. Takzey, ‘Dynamic Magnetic Susceptibility of Spin Glasses’ (Kiev: 1985) (Prepr./Academy of Sciences of the Ukr.SSR. Institute for Metal Physics. 4.85).",
+				"tr":  "A. M. Kostyshin and G. A. Takzey, 'Dynamic Magnetic Susceptibility of Spin Glasses' (Kiev: 1985) (Prepr./Academy of Sciences of the Ukr.SSR. Institute for Metal Physics. 4.85)."
+			},
+			{
+				"doi": "",
+				"or":  "V. N. German, A. A. Bakanova, L. A. Tarasova, and Yu. N. Sumulov, Soviet Physics–Solid State (Translated from Fizika Tverdogo Tela), 12, No. 2: 490 (1970).",
+				"tr":  "V. N. German, A. A. Bakanova, L. A. Tarasova, and Yu. N. Sumulov, Soviet Physics–Solid State (Translated from Fizika Tverdogo Tela), 12, No. 2: 490 (1970)."
+			},
+			{
+				"doi": "10.1098/rspa.1936.0075",
+				"or":  "E. C. Stoner, Proc. R. Soc. London, Ser. A, 154: 656 (1936).",
+				"tr":  "E. C. Stoner, Proc. R. Soc. London, Ser. A, 154: 656 (1936)."
+			},
+			{
+				"doi": "10.1088/0022-3719/16/10/011",
+				"or":  "A. N. Das and B. Ghosh, J. Phys. C: Solid State Phys., 16: 1799 (1983).",
+				"tr":  "A. N. Das and B. Ghosh, J. Phys. C: Solid State Phys., 16: 1799 (1983)."
+			},
+			{
+				"doi": "10.1016/0001-6160(86)90263-4",
+				"or":  "S. Miyazaki, Y. Igo, and K. Otsuka, Acta Met., 34, No. 10: 2045 (1986).",
+				"tr":  "S. Miyazaki, Y. Igo, and K. Otsuka, Acta Met., 34, No. 10: 2045 (1986)."
+			},
+			{
+				"doi": "10.1016/0036-9748(89)90351-7",
+				"or":  "Yu. N. Koval, A. P. Kozlov, and G. E. Monastyrski, Scripta Met., 23, No. 10: 1731 (1989).",
+				"tr":  "Yu. N. Koval, A. P. Kozlov, and G. E. Monastyrski, Scripta Met., 23, No. 10: 1731 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Khan, G. F. Stohr, and H. Bibring, On Optimized DS Composite for Turbine Blades (Proc. of the Fourth International Symposium on Superalloys) (ASM: 1980), p. 531–540.",
+				"tr":  "T. Khan, G. F. Stohr, and H. Bibring, On Optimized DS Composite for Turbine Blades (Proc. of the Fourth International Symposium on Superalloys) (ASM: 1980), p. 531–540."
+			},
+			{
+				"doi": "",
+				"or":  "S. T. Kishkin, I. L. Svetlov, L. P. Sorokina et al., Fiz. Met. Metalloved., 55, No. 4: 754 (1983) (in Russian).",
+				"tr":  "S. T. Kishkin, I. L. Svetlov, L. P. Sorokina et al., Fiz. Met. Metalloved., 55, No. 4: 754 (1983) (in Russian)."
+			},
+			{
+				"doi": "10.7449/1976/Superalloys_1976_331_340",
+				"or":  "H. Bibring, T. Khan, M. Rabinovich, and G. F. Stohr, Development and Evaluation of New Industrial DS Monocarbide Reinforced Composites for Turbine Blades (Proc. of the Third International Symposium on Superalloys) (Seven Springs, Pennsylvania, USA: 1976), p. 331–345.",
+				"tr":  "H. Bibring, T. Khan, M. Rabinovich, and G. F. Stohr, Development and Evaluation of New Industrial DS Monocarbide Reinforced Composites for Turbine Blades (Proc. of the Third International Symposium on Superalloys) (Seven Springs, Pennsylvania, USA: 1976), p. 331–345."
+			},
+			{
+				"doi": "",
+				"or":  "I. R. Bublei, Yu. N. Koval, and A. Yu. Pasko, Phys. Metals, 10, No. 5: 902 (1991).",
+				"tr":  "I. R. Bublei, Yu. N. Koval, and A. Yu. Pasko, Phys. Metals, 10, No. 5: 902 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "L. G. Khandros and I. A. Arbuzova, Metally, Ehlektrony, Reshyotka (Metals, Electrons, and Lattice) (Kiev: Naukova Dumka: 1975), p. 109–143 (in Russian).",
+				"tr":  "L. G. Khandros and I. A. Arbuzova, Metally, Ehlektrony, Reshyotka (Metals, Electrons, and Lattice) (Kiev: Naukova Dumka: 1975), p. 109–143 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "T. L. Dobrovol’skaya, P. V. Titov, and L. G. Khandros, Martensitic Transformation in Cu–Al–Mn Alloys After Partial Decomposition of the 1 Phase (Proc. of the ICOMAT-77) (Kiev, USSR, 16–20 May, 1977) (Eds. V. N. Gridnev and L. G. Khandros); Martensitnyye Prevrashcheniya v Metallakh i Splavakh (Martensitic Transformations in Metals and Alloys) (Kiev: Naukova Dumka: 1979), p. 155–157 (in Russian).",
+				"tr":  "T. L. Dobrovol'skaya, P. V. Titov, and L. G. Khandros, Martensitic Transformation in Cu–Al–Mn Alloys After Partial Decomposition of the β1 Phase (Proc. of the ICOMAT-77) (Kiev, USSR, 16–20 May, 1977) (Eds. V. N. Gridnev and L. G. Khandros); Martensitnyye Prevrashcheniya v Metallakh i Splavakh (Martensitic Transformations in Metals and Alloys) (Kiev: Naukova Dumka: 1979), p. 155–157 (in Russian)."
+			},
+			{
+				"doi": "10.1016/0001-6160(75)90159-5",
+				"or":  "M. Bouchard and G. Thomas, Acta Met., 23, No. 12: 1485 (1975).",
+				"tr":  "M. Bouchard and G. Thomas, Acta Met., 23, No. 12: 1485 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Kelly and R. Nicholson, Dispersion Hardening (Moscow: Mir: 1968) (Russian translation).",
+				"tr":  "A. Kelly and R. Nicholson, Dispersion Hardening (Moscow: Mir: 1968) (Russian translation)."
+			},
+			{
+				"doi": "10.1016/0036-9748(88)90008-7",
+				"or":  "R. Kainuma and M. Matsumoto, Scripta Met., 22: 475 (1988).",
+				"tr":  "R. Kainuma and M. Matsumoto, Scripta Met., 22: 475 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. N. Koval, G. E. Monastyrski, and G. S. Firstov, Method of Fabrication of the Thermal Sensitive Element—Temperature Transducer (Inventor’s Certificate of the USSR No. 1469901), Byulleten’ Izobretenij i Otkrytij (Bulletin of the Inventions and Discoveries), No. 12, p. 244 (1989).",
+				"tr":  "Yu. N. Koval, G. E. Monastyrski, and G. S. Firstov, Method of Fabrication of the Thermal Sensitive Element—Temperature Transducer (Inventor's Certificate of the USSR No. 1469901), Byulleten' Izobretenij i Otkrytij (Bulletin of the Inventions and Discoveries), No. 12, p. 244 (1989)."
+			}
+		]
+	}
+}

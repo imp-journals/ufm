@@ -1,0 +1,35 @@
+{
+	"year":   2003,
+	"volume": 4,
+	"issue":  1,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [1,71],
+			"title": {
+				"ua": "Імпульсно-плазмова модифікація властивостей поверхні та нанесення покриттів",
+				"en": "Pulsed-Plasma Modification of Surface Properties and Coating Deposition",
+				"ru": "Импульсно-плазменная модификация свойств поверхности и нанесение покрытий"
+			},
+			"autors": {
+				"ua": "О. Д. Погребняк, Ю. М. Тюрин",
+				"en": "O. D. Pogrebnyak and Yu. M. Tyurin",
+				"ru": "А. Д. Погребняк, Ю. Н. Тюрин"
+			}
+		},
+		{
+			"type":    2,
+			"pages":  [73,79],
+			"title": {
+				"ua": "До 70-річчя з дня нарождення академіка НАН України В. В. Немошкаленка (1933–2002)",
+				"en": "On the Occasion of the 70th Anniversary of Birthday of V. V. Nemoshkalenko (1933–2002), Member of the National Academy of Sciences of Ukraine",
+				"ru": "К 70-летию со дня рождения академика НАН Украины В. В. Немошкаленко (1933–2002)"
+			},
+			"autors": {
+				"ua": "Редакційна колеґія",
+				"en": "Editorial Board",
+				"ru": "Редакционная коллегия"
+			}
+		}
+	]
+}

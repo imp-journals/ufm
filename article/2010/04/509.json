@@ -1,0 +1,264 @@
+{
+	"_id":    "UFM.11.04.509",
+	"year":   2010,
+	"volume": 11,
+	"issue":  4,
+	"pages":  [509,524],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["05.10.2010"],
+	"PACS":   "61.50.Lt, 71.15.Mb, 71.15.Nc, 71.20.Be, 74.10.+v, 74.20.-z, 74.70.Ad",
+	"title":   {
+		"ua": "Додекаборид цирконію — перший надпровідник з поліпшеними приповерхневими характеристиками",
+		"en": "Zirconium Dodecaboride as the First Superconductor with the Improved Near-Surface Characteristics",
+		"ru": "Додекаборид цикрония - первый сверхпроводник с улучшенными приповерхностными характеристиками"
+	},
+	"abstract": {
+		"ua": "Наведено огляд результатів експериментальних досліджень та теоретичних розрахунків електронних характеристик монокристалів додекабориду цирконію. Показано, що ZrB$_{12}$ належить до класу частково ковалентних сполук перехідних металів з легкими елементами, в яких напрямлені ковалентні зв’язки бору забезпечують високу механічну міцність, в той час як металеві (а значить, і надпровідні) властивості формуються $d$-станами цирконію, гібридизованими із зовнішніми $2p$-орбіталями бору. Аналіза експериментальних даних, одержаних для монокристалів ZrB$_{12}$ і YB$_{6}$ у різних лабораторіях та різними методами, демонструє, що додекаборид цирконію (на відміну від гексабориду ітрію) являється першим відомим надпровідником із зростаючим поблизу поверхні параметром порядку. Наведено якісне пояснення цього ефекту, яке ґрунтується на Філліпсовій теорії перколяційної надпровідности.",
+		"en": "An overview of experimental results and theoretical calculations for zirconium dodecaboride single-crystal electronic characteristics is given. As shown, the ZrB$_{12}$ belongs to a class of partially covalent compounds of transition metals with light elements where the presence of boron directional covalent bonds is responsible for high mechanical hardness whereas metallic, and, hence, superconducting properties are formed by $d$-states of zirconium hybridized with $2p$-orbitals of boron. Analysis of experimental data obtained for ZrB$_{12}$ and YB$_{6}$ in different laboratories and with different techniques shows that, in contrast to yttrium hexaboride, zirconium dodecaboride is the first known superconductor with an enhanced near-surface order parameter. Qualitative explanation of the effect is presented and based on the Phillips theory of percolative superconductivity.",
+		"ru": "Приведен обзор результатов экспериментальных исследований и теоретических расчетов электронных характеристик монокристаллов додекаборида циркония. Показано, что ZrB$_{12}$ принадлежит к классу частично ковалентных соединений переходных металлов с легкими элементами, в которых направленные ковалентные связи бора обеспечивают высокую механическую прочность, в то время как металлические (а значит, и сверхпроводящие) свойства формируются $d$-состояниями циркония, гибридизованными с внешними $2p$-орбиталями бора. Анализ экспериментальных данных, полученных для монокристаллов ZrB$_{12}$ и YB$_{6}$ в различных лабораториях и разными методами, показывает, что додекаборид циркония (в отличие от гексаборида иттрия) является первым известным сверхпроводником с возрастающим вблизи поверхности параметром порядка. Приведено качественное объяснение этого эффекта, основанное на теории перколяционной сверхпроводимости Филлипса."
+	},
+	"keywords": {
+		"ua": "додекаборид цирконію, електронна структура, надпровідність, электрон-фононна взаємодія, поверхневі характеристики",
+		"en": "zirconium dodecaboride, electron structure, superconductivity, electron–phonon interaction, surface characteristics",
+		"ru": "додекаборид циркония, электронная структура, сверхпроводимость, электрон-фононное взаимодействие, поверхностные характеристики"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. А. Бєлоголовський", "en": "M. A. Belogolovs’ky", "ru": "М. А. Белоголовский"},
+			"OID": [8]
+		},
+		{
+			"AID": {"ua": "В. Г. Бутько", "en": "V. G. But’ko", "ru": "В. Г. Бутько"},
+			"OID": [8]
+		},
+		{
+			"AID": {"ua": "А. П. Шаповалов", "en": "A. P. Shapovalov", "ru": "А. П. Шаповалов"},
+			"OID": [12]
+		},
+		{
+			"AID": {"ua": "В. Є. Шатерник", "en": "V. E. Shaternyk", "ru": "В. Е. Шатерник"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 43,
+			"list":  [
+			{
+				"doi": "10.1038/35065039",
+				"or":  "J. Nagamatsu, N. Nakagawa, T. Muranaka et al., Nature, 410: 63 (2001).",
+				"tr":  "J. Nagamatsu, N. Nakagawa, T. Muranaka et al., Nature, 410: 63 (2001)."
+			},
+			{
+				"doi": "10.1038/nature02449",
+				"or":  "E. A. Ekimov, V. A. Sidorov, E. D. Bauer et al., Nature, 428: 542 (2004).",
+				"tr":  "E. A. Ekimov, V. A. Sidorov, E. D. Bauer et al., Nature, 428: 542 (2004)."
+			},
+			{
+				"doi": "10.1038/444046a",
+				"or":  "E. Bustarett, C. Marcenat, P. Achatz et al., Nature, 444: 46 (2006).",
+				"tr":  "E. Bustarett, C. Marcenat, P. Achatz et al., Nature, 444: 46 (2006)."
+			},
+			{
+				"doi": "10.1143/JPSJ.76.103710",
+				"or":  "Z.-A. Ren, J. Kato, T. Muranaka et al., J. Phys. Soc. Jpn., 76: 103710 (2007).",
+				"tr":  "Z.-A. Ren, J. Kato, T. Muranaka et al., J. Phys. Soc. Jpn., 76: 103710 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.78.024517",
+				"or":  "M. Kriener, Y. Maeno, T. Oguchi et al., Phys Rev B, 78: 024517 (2008).",
+				"tr":  "M. Kriener, Y. Maeno, T. Oguchi et al., Phys Rev B, 78: 024517 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.74.1427",
+				"or":  "H. Kawaji, H.-O. Horie, S. Yamanaka, and M. Ishikawa, Phys. Rev. Lett., 74: 1427 (1995).",
+				"tr":  "H. Kawaji, H.-O. Horie, S. Yamanaka, and M. Ishikawa, Phys. Rev. Lett., 74: 1427 (1995)."
+			},
+			{
+				"doi": "10.1038/nmat981",
+				"or":  "K. Tanigaki, T. Shimizu, K. M. Itoh et al., Nature Mater., 2: 653 (2003).",
+				"tr":  "K. Tanigaki, T. Shimizu, K. M. Itoh et al., Nature Mater., 2: 653 (2003)."
+			},
+			{
+				"doi": "10.1126/science.254.5034.989",
+				"or":  "C. M. Varma, J. Zaanen, and K. Raghavachari, Science, 254: 989 (1991).",
+				"tr":  "C. M. Varma, J. Zaanen, and K. Raghavachari, Science, 254: 989 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "T. E. Weller, M. Ellerby, S. S. Saxena et al., Nature Phys., 1: 39 (2005).",
+				"tr":  "T. E. Weller, M. Ellerby, S. S. Saxena et al., Nature Phys., 1: 39 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.95.087003",
+				"or":  "N. Emery, C. Hérold, M. d'Astuto et al., Phys. Rev. Lett., 95: 087003 (2005).",
+				"tr":  "N. Emery, C. Hérold, M. d'Astuto et al., Phys. Rev. Lett., 95: 087003 (2005)."
+			},
+			{
+				"doi": "10.1038/nmat2425",
+				"or":  "X. Blase, E. Bustarret, C. Chapelier et al., Nature Mater., 8: 375 (2009).",
+				"tr":  "X. Blase, E. Bustarret, C. Chapelier et al., Nature Mater., 8: 375 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "T. I. Serebryakova and P. D. Neronov, High-Temperature Borides (Cambridge: Cambridge Sci Publ: 2003).",
+				"tr":  "T. I. Serebryakova and P. D. Neronov, High-Temperature Borides (Cambridge: Cambridge Sci Publ: 2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. B. Paderno, A. B. Layshchenko, V. B. Filippov, and A. V. Duhnenko, Science for Materials in the Frontier of Centuries: Advantages and Challenges (Ed. V. Skorokhod) (Kiev: IPMS, N.A.S. of Ukraine: 2002), p.34.",
+				"tr":  "Yu. B. Paderno, A. B. Layshchenko, V. B. Filippov, and A. V. Duhnenko, Science for Materials in the Frontier of Centuries: Advantages and Challenges (Ed. V. Skorokhod) (Kiev: IPMS, N.A.S. of Ukraine: 2002), p.34."
+			},
+			{
+				"doi": "10.1103/PhysRevB.69.212508",
+				"or":  "M. I. Tsindlekht, G. I. Leviev, I. Asulin et al., Phys. Rev. B, 69: 212508 (2004).",
+				"tr":  "M. I. Tsindlekht, G. I. Leviev, I. Asulin et al., Phys. Rev. B, 69: 212508 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Б. Кузьма, Кристаллохимия боридов (Львов: Вища школа: 1983).",
+				"tr":  "Yu. B. Kuz'ma, Kristallokhimiya boridov (L'vov: Vishcha shkola: 1983)."
+			},
+			{
+				"doi": "10.1524/ncrs.2002.217.jg.319",
+				"or":  "A. Leithe-Jasper, A. Sato, and T. Tanaka, Z. Kristallogr. New Cryst. Struct., 217: 319 (2002).",
+				"tr":  "A. Leithe-Jasper, A. Sato, and T. Tanaka, Z. Kristallogr. New Cryst. Struct., 217: 319 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Blaha, K. Schwarz, G. K. H. Madsen et al., WIEN2k, An Augmented Plane Wave  Local Orbitals Program for Calculating Crystal Properties (Vienna: Vienna University of Technology: 2001).",
+				"tr":  "P. Blaha, K. Schwarz, G. K. H. Madsen et al., WIEN2k, An Augmented Plane Wave + Local Orbitals Program for Calculating Crystal Properties (Vienna: Vienna University of Technology: 2001)."
+			},
+			{
+				"doi": "10.1103/PhysRev.140.A1133",
+				"or":  "W. Kohn and L. J. Sham, Phys. Rev., 140: A1133 (1965).",
+				"tr":  "W. Kohn and L. J. Sham, Phys. Rev., 140: A1133 (1965)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.77.3865",
+				"or":  "J. P. Perdew, S. Burke, and M. Ernzerhof, Phys. Rev. Lett., 77: 3865 (1996).",
+				"tr":  "J. P. Perdew, S. Burke, and M. Ernzerhof, Phys. Rev. Lett., 77: 3865 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Р. Шеин, А. Л. Ивановский, ФТТ, 45, вып. 8: 1364 (2003).",
+				"tr":  "I. R. Shein, A. L. Ivanovskii, FTT, 45, No. 8: 1364 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.72.024547",
+				"or":  "R. Lortz, Y. Wang, S. Abe et al., Phys. Rev. B, 72: 024547 (2005).",
+				"tr":  "R. Lortz, Y. Wang, S. Abe et al., Phys. Rev. B, 72: 024547 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Де Жен, Сверхпроводимость металлов и сплавов (Москва: Мир: 1968).",
+				"tr":  "P. De Zhen, Sverkhprovodimost' metallov i splavov (Moskva: Mir: 1968)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.23.120",
+				"or":  "H. J. Fink and W. C. H. Joiner, Phys. Rev. Lett., 23: 120 (1969).",
+				"tr":  "H. J. Fink and W. C. H. Joiner, Phys. Rev. Lett., 23: 120 (1969)."
+			},
+			{
+				"doi": "10.1080/00018738700101012",
+				"or":  "I. N. Khlyustikov and A. I. Buzdin, Adv. Phys., 36: 271 (1987).",
+				"tr":  "I. N. Khlyustikov and A. I. Buzdin, Adv. Phys., 36: 271 (1987)."
+			},
+			{
+				"doi": "10.1088/1367-2630/9/3/075",
+				"or":  "V. F. Kozhevnikov, M. J. Van Bael, P. K. Sahoo et al., New J. Phys., 9: 75 (2007).",
+				"tr":  "V. F. Kozhevnikov, M. J. Van Bael, P. K. Sahoo et al., New J. Phys., 9: 75 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.72.224509",
+				"or":  "R. Khasanov, D. Di Castro, M. Belogolovskii et al., Phys. Rev. B, 72: 224509 (2005).",
+				"tr":  "R. Khasanov, D. Di Castro, M. Belogolovskii et al., Phys. Rev. B, 72: 224509 (2005)."
+			},
+			{
+				"doi": "10.1088/0953-2048/17/5/030",
+				"or":  "D. Daghero, R. S. Gonnelli, G. A. Ummarino et al., Supercond. Sci. Technol., 17: 250 (2004).",
+				"tr":  "D. Daghero, R. S. Gonnelli, G. A. Ummarino et al., Supercond. Sci. Technol., 17: 250 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.72.024548",
+				"or":  "Y. Wang, R. Lortz, Yu. Paderno et al., Phys. Rev. B, 72: 024548 (2005).",
+				"tr":  "Y. Wang, R. Lortz, Yu. Paderno et al., Phys. Rev. B, 72: 024548 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.73.024512",
+				"or":  "R. Lortz, Y. Wang, U. Tutsch et al., Phys. Rev. B, 73: 024512 (2006).",
+				"tr":  "R. Lortz, Y. Wang, U. Tutsch et al., Phys. Rev. B, 73: 024512 (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.78.024522",
+				"or":  "M. I. Tsindlekht, V. M. Genkin, G. I. Leviev et al., Phys. Rev. B, 78: 024522 (2008).",
+				"tr":  "M. I. Tsindlekht, V. M. Genkin, G. I. Leviev et al., Phys. Rev. B, 78: 024522 (2008)."
+			},
+			{
+				"doi": "10.1016/0038-1098(84)90728-2",
+				"or":  "S. Kunii, T. Kasuya, K. Kadowaki et al., Solid State Commun., 52: 659 (1984).",
+				"tr":  "S. Kunii, T. Kasuya, K. Kadowaki et al., Solid State Commun., 52: 659 (1984)."
+			},
+			{
+				"doi": "10.1209/0295-5075/4/7/015",
+				"or":  "R. Schneider, J. Geerk, and H. Rietschel, Europhys. Lett., 4: 845 (1987).",
+				"tr":  "R. Schneider, J. Geerk, and H. Rietschel, Europhys. Lett., 4: 845 (1987)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.62.1027",
+				"or":  "J. P. Carbotte, Rev. Mod. Phys., 62: 1027 (1990).",
+				"tr":  "J. P. Carbotte, Rev. Mod. Phys., 62: 1027 (1990)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.15.462",
+				"or":  "A. M. Toxen, Phys. Rev. Lett., 15: 462 (1965).",
+				"tr":  "A. M. Toxen, Phys. Rev. Lett., 15: 462 (1965)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.78.014509",
+				"or":  "H. Tashiro, J. M. Graybeal, D. B. Tanner et al., Phys. Rev. B, 78: 014509 (2008).",
+				"tr":  "H. Tashiro, J. M. Graybeal, D. B. Tanner et al., Phys. Rev. B, 78: 014509 (2008)."
+			},
+			{
+				"doi": "10.1073/pnas.0913002107",
+				"or":  "J. C. Phillips, Proc. Nat. Acad. Sci. USA, 107: 1307 (2010).",
+				"tr":  "J. C. Phillips, Proc. Nat. Acad. Sci. USA, 107: 1307 (2010)."
+			},
+			{
+				"doi": "10.1016/j.cplett.2009.03.088",
+				"or":  "J. C. Phillips, Chem. Phys. Lett., 473: 274 (2009).",
+				"tr":  "J. C. Phillips, Chem. Phys. Lett., 473: 274 (2009)."
+			},
+			{
+				"doi": "10.1016/S0022-0248(00)00513-3",
+				"or":  "S. Otani, M. M. Korsukova, T. Mitsuhashi, and N. Kieda, J. Cryst. Growth, 217: 378 (2000).",
+				"tr":  "S. Otani, M. M. Korsukova, T. Mitsuhashi, and N. Kieda, J. Cryst. Growth, 217: 378 (2000)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2008.01.061",
+				"or":  "H. M. Chen, F. Zheng, H. S. Liu et al., J. Alloys Compd., 468: 209 (2009).",
+				"tr":  "H. M. Chen, F. Zheng, H. S. Liu et al., J. Alloys Compd., 468: 209 (2009)."
+			},
+			{
+				"doi": "10.1016/S0022-3093(00)00225-8",
+				"or":  "S. C. Glotzer, J. Non-Cryst. Solids, 274: 342 (2000).",
+				"tr":  "S. C. Glotzer, J. Non-Cryst. Solids, 274: 342 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.103.126403",
+				"or":  "A. Amir, Y. Oreg, and Y. Imry, Phys. Rev. Lett., 103: 126403 (2009).",
+				"tr":  "A. Amir, Y. Oreg, and Y. Imry, Phys. Rev. Lett., 103: 126403 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.73.104507",
+				"or":  "M. I. Tsindlekht, G. I. Leviev, V. M. Genkin et al., Phys. Rev. B, 73: 104507 (2006).",
+				"tr":  "M. I. Tsindlekht, G. I. Leviev, V. M. Genkin et al., Phys. Rev. B, 73: 104507 (2006)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.53.497",
+				"or":  "P. Dutta and P. M. Horn, Rev. Mod. Phys., 53: 497 (1981).",
+				"tr":  "P. Dutta and P. M. Horn, Rev. Mod. Phys., 53: 497 (1981)."
+			}
+		]
+	}
+}

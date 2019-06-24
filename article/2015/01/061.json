@@ -1,0 +1,226 @@
+{
+	"_id":    "UFM.16.01.061",
+	"year":   2015,
+	"volume": 16,
+	"issue":  1,
+	"pages":  [61,84],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["22.12.2014"],
+	"PACS":   "06.60.Vz, 62.20.F-, 62.20.Qp, 62.40+i, 62.50.-p, 81.40.Ef, 81.40.Lm",
+	"title":   {
+		"ua": "Вплив різних видів деформації на фізико-механічні властивості ГЩП- та ГЦК-металів і стопів",
+		"en": "Influence of Different Types of Deformation on the Physical and Mechanical Properties of H.C.P. and F.C.C. Metals and Alloys",
+		"ru": "Влияние различных видов деформации на физико-механические свойства ГПУ- и ГЦК-металлов и сплавов"
+	},
+	"abstract": {
+		"ua": "Представлено огляд впливу різних видів деформації з відмінними епюрами напруг (вальцюванням, волочінням, деформацією в умовах всебічного стиснення методою квазигідроекструзії (КГЕ) та послідовним поєднанням волочіння і КГЕ при 77 К та 300 К) на різні фізико-механічні властивості металів і стопів: ГЩП (Hf, Zr, Ti) та ГЦК (Al–Mg–Li, аустенітна криця 06Х16Н15М3Б). Показано відмінності рівня міцности, швидкости накопичення деформаційних дефектів і характеру анізотропії їх розподілу в об’ємі деформованого матеріялу після волочіння, прокатки та КГЕ. На прикладі сталі 06Х16Н15М3Б встановлено доцільність використання послідовного поєднання деформації волочінням і квазигідроекструзією для більш істотного підвищення міцности криці, ніж після кожного окремо взятого виду деформації. Виявлено зниження енергії дефекту пакування титану, тобто розщеплення дислокацій в результаті деформування в умовах всебічного стиснення на 25% при 77 К та 300 К. Встановлено аномальне збільшення модулю зсуву після деформації титану в умовах всебічного стиснення. Обговорюються механізми впливу різних видів деформації на фізико-механічні властивості металів і стопів.",
+		"en": "We present an overview of the influence of different types of deformation with different stress distributions (rolling, drawing, deformation by hydrostatic compression method of quasi-hydroextrusion (QHE) and sequential combination of drawing and QHE at 77 K and 300 K on different physical and mechanical properties of metals and alloys: h.c.p. (Hf, Zr, Ti) and f.c.c. (Al–Mg–Li, 06Х16Н15М3B austenitic steel). The differences in the level of strength, the rate of accumulation of deformation defects, and the anisotropy of their distribution within the bulk of deformed material after drawing, rolling, and QHE are revealed. For the 06Kh16N15M3B steel as an example, we established the reasonability to use a sequence of a combined deformation by drawing with quasi-hydroextrusion for a significant increase in the strength of steel, than that after each individual type of deformation. We revealed the 25%-lowering of the stacking fault energy of titanium, i.e. splitting of dislocations due to the deformation under the uniform compression at 77 K and 300 K. The abnormal increase in shear modulus after the deformation of titanium by hydrostatic compression is revealed. Finally, we discuss the mechanisms of the influences of different types of deformation on mechanical properties of metals and alloys.",
+		"ru": "Представлен обзор о влиянии различных видов деформации с отличающимися эпюрами напряжений (прокаткой, волочением, деформацией в условиях всестороннего сжатия методом квазигидроэкструзии (КГЭ) и последовательного сочетания волочения и КГЭ при 77 К и 300 К) на разные физико-механические свойства металлов и сплавов: ГПУ (Hf, Zr, Ti) и ГЦК (Al–Mg–Li, аустенитная сталь 06Х16Н15М3Б). Показаны отличия уровня прочности, скорости накопления деформационных дефектов и характера анизотропии их распределения в объёме деформированного материала после волочения, прокатки и КГЭ. На примере стали 06Х16Н15М3Б установлена целесообразность использования последовательного сочетания деформации волочением и квазигидроэкструзией для более существенного повышения прочности стали, чем после каждого отдельно взятого вида деформации. Обнаружено снижение энергии дефекта упаковки титана, т.е. расщепление дислокаций в результате деформирования в условиях всестороннего сжатия на 25% при 77 К и 300 К. Установлено аномальное увеличение модуля сдвига после деформации титана в условиях всестороннего сжатия. Обсуждаются механизмы влияния различных видов деформации на физико-механические свойства металлов и сплавов."
+	},
+	"keywords": {
+		"ua": "",
+		"en": "rolling, drawing, quasi-hydrostatic extrusion, structure, stacking defect",
+		"ru": "прокатка, волочение, квазигидроэкструзия, структура, дефекты упаковки"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Каліновський", "en": "V. V. Kalinovskyy", "ru": "В. В. Калиновский"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "М. Б. Лазарєва", "en": "M. B. Lazareva", "ru": "М. Б. Лазарева"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "Д. Г. Малихін", "en": "D. G. Malykhin", "ru": "Д. Г. Малыхин"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "О. В. Мац", "en": "O. V. Mats", "ru": "А. В. Мац"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "В. С. Оковит", "en": "V. S. Okovit", "ru": "В. С. Оковит"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "В. І. Соколенко", "en": "V. I. Sokolenko", "ru": "В. И. Соколенко"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "Л. О. Чіркіна", "en": "L. O. Chirkina", "ru": "Л. А. Чиркина"},
+			"OID": [3]
+		}
+	],
+	"references": {
+		"count": 33,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Р. З. Валиев, И. В. Александров, Наноструктурные материалы, полу-ченные интенсивной пластической деформацией (Москва: Логос: 2000).",
+				"tr":  "R. Z. Valiev and I. V. Aleksandrov, Nanostrukturnye Materialy, Poluchennye Intensivnoy Plasticheskoy Deformatsiey [Nanostructured Materials Obtained by Intensive Plastic Deformation] (Moscow: Logos: 2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Еникеев, М. Ю. Мурашкин, «Высокие давления — 2012. Фундаментальные и прикладные аспекты» (23–27 сентября 2012, Судак), с. 125.",
+				"tr":  "N. A. Enikeev and M. Yu. Murashkin, 'Vysokie Davleniya—2012. Fundamental'nye i Prikladnye Aspekty' (Sept. 23–27, 2012, Sudak), p. 125 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Б. Лазарева, В. С. Оковит, Л. А. Чиркина, М. П. Старолат, В. В. Калиновский, И. Ф. Борисова, В. И. Соколенко, К. В. Ковтун, Вопросы атомной науки и техники. Серия: Вакуум, чистые материалы, сверхпроводники, вып. 18, № 6: 32 (2009).",
+				"tr":  "M. B. Lazareva, V. S. Okovit, L. A. Chirkina, M. P. Starolat, V. V. Kalinovskiy, I. F. Borisova, V. I. Sokolenko, and K. V. Kovtun, Voprosy Atomnoy Nauki i Tekhniki. Seriya: Vakuum, Chistye Materialy, Sverkhprovodniki [Problems of Atomic Science and Technology], No. 6 (18): 32 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Тихоновский, И. Ф. Кисляк, О. И. Волчок, Т. Ю. Рудычева, Н. В. Камышанченко, И. С. Никулин, Физ. и техн. выс. давлений, 18, № 4: 96 (2008).",
+				"tr":  "M. A. Tikhonovskiy, I. F. Kislyak, O. I. Volchok, T. Yu. Rudycheva, N. V. Kamyshanchenko, I. S. Nikulin, Fizika i Tekhnika Vysokikh Davleniy, 18, No. 4: 96 (2008) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.msea.2007.07.024",
+				"or":  "S. K. Panigrahi and R. Jayaganathan, Mat. Sci. Eng. A, 480: 299 (2008).",
+				"tr":  "S. K. Panigrahi and R. Jayaganathan, Mat. Sci. Eng. A, 480: 299 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "И. П. Семёнова, А. В. Поляков, Г. И. Рааб, Т. С. Лоу, Р. З. Валиев, «Высокие давления — 2012. Фундаментальные и прикладные аспекты» (23–27 сентября 2012, Судак), с.126.",
+				"tr":  "I. P. Semenova, A. V. Polyakov, G. I. Raab, T. S. Lou, and R. Z. Valiev, 'Vysokie Davleniya—2012. Fundamental'nye i Prikladnye Aspekty' (Sept. 23–27, 2012, Sudak), p. 126 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Малашенко, Т. И. Малашенко, «Высокие давления — 2012. Фундаментальные и прикладные аспекты» (23–27 сентября 2012, Судак), с. 156.",
+				"tr":  "V. V. Malashenko and T. I. Malashenko, 'Vysokie Davleniya—2012. Fundamental'nye i Prikladnye Aspekty' (Sept. 23–27, 2012, Sudak), p.156 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "P. A. Khaimovich, Handbook of Mechanical Nanostructuring (Ed. M. Aliofkhazraei) (Germany: Wiley-VCH Verlag GmbH & Co. KGaA: 2015).",
+				"tr":  "P. A. Khaimovich, Handbook of Mechanical Nanostructuring (Ed. M. Aliofkhazraei) (Germany: Wiley-VCH Verlag GmbH & Co. KGaA: 2015)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Малашенко, Н. В. Белых, Физ. твёрдого тела, 55, вып. 3: 504 (2013).",
+				"tr":  "V. V. Malashenko and N. V. Belykh, Fiz. Tverdogo Tela, 55, Iss. 3: 504 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Гиндин, В. И. Коваленко, В. С. Оковит, Я. Д. Стародубов, Л. А. Чиркина, Завод. лаб., № 11: 1397 (1970).",
+				"tr":  "I. A. Gindin, V. I. Kovalenko, V. S. Okovit, Ya. D. Starodubov, and L. A. Chirkina, Zavod. Lab., No. 11: 1397 (1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Гранато, К. Люкке, Ультразвуковые методы исследования дислокаций: сборник статей (Москва: Изд-во иностранной литературы: 1963), с. 25.",
+				"tr":  "A. Granato and K. Lücke, Ul'trazvukovye Metody Issledovaniya Dislokatsiy [Ultrasonic Methods of Study of Dislocations] (Moscow: Izd. Inostrannoy Literatury: 1963), p. 25 (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Сварц, Дж. Виртман, Ультразвуковые методы исследования дисло-каций: сборник статей (Москва: Изд-во иностранной литературы: 1963), с. 58.",
+				"tr":  "J. Swartz and J. Weertman, Ul'trazvukovye Metody Issledovaniya Dislokatsiy [Ultrasonic Methods of Study of Dislocations] (Moscow: Izd. Inostrannoy Literatury: 1963), p. 58 (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Кришталл, С. А. Головин, С. И. Архангельский, Внутреннее трение в металлах и сплавах (Москва: Наука: 1966).",
+				"tr":  "M. A. Krishtall, S. A. Golovin, and S. I. Arkhangel'skiy, Vnutrennee Trenie v Metallakh i Splavakh [Internal Friction in Metals and Alloys] (Moscow: Nauka: 1966), p. 101 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Кришталл, С. А. Головин, Релаксационные явления в твёрдых телах (Москва: Металлургия: 1968).",
+				"tr":  "M. A. Krishtall and S. A. Golovin, Relaksatsionnye Yavleniya v Tverdykh Telakh [Relaxation Phenomena in Solids] (Moscow: Metallurgiya: 1968), p. 417 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Новик, Б. Берри, Релаксационные явления в кристаллах (Москва: Атомиздат: 1975).",
+				"tr":  "A. Novik and B. Berri, Relaksatsionnye Yavleniya v Kristallakh [Relaxation Phenomena in Crystals] (Moscow: Atomizdat: 1975), p. 316 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Х. Коттрелл, Дислокации и пластическое течение в кристаллах (Мо-сква: Изд-во чёрной и цветной металлургии: 1958).",
+				"tr":  "A. H. Cottrell, Dislocations and Plastic Flow in Crystals (New York: Oxford Univ. Press: 1953)."
+			},
+			{
+				"doi": "10.1002/mawe.201100741",
+				"or":  "K. V. Kutniy, O. I. Volchok, I. F. Kislyak, M. A. Tikhonovsky, and G. E. Storozhilov, Mat.-wiss. u. Werkstofftech., 42, No. 2: 114 (2011).",
+				"tr":  "K. V. Kutniy, O. I. Volchok, I. F. Kislyak, M. A. Tikhonovsky, and G. E. Storozhilov, Mat.-wiss. u. Werkstofftech., 42, No. 2: 114 (2011)."
+			},
+			{
+				"doi": "10.1109/TASC.2005.849017",
+				"or":  "O. V. Chernyi, G. E. Storozhilov, N. F. Andrievskaya, V. O. Ilichova, Ya. D. Starodubov, O. I. Volchok, L. A. Chirkina, M. B. Lazareva, and V. S. Okovit, IEEE Trans. Appl. Supercond., 15, No. 2: 3502 (2005).",
+				"tr":  "O. V. Chernyi, G. E. Storozhilov, N. F. Andrievskaya, V. O. Ilichova, Ya. D. Starodubov, O. I. Volchok, L. A. Chirkina, M. B. Lazareva, and V. S. Okovit, IEEE Trans. Appl. Supercond., 15, No. 2: 3502 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "И. М. Неклюдов, О. И. Волчок, В. В. Калиновский, В. С. Оковит, В. И. Соколенко, П. А. Хаймович, Н. А. Черняк, Л. А. Чиркина, Вопросы атомной науки и техники. Серия: Вакуум, чистые металлы, сверхпроводники, № 1 (17): 108 (2008).",
+				"tr":  "I. M. Neklyudov, O. I. Volchok, V. V. Kalinovskiy, V. S. Okovit, V. I. Sokolenko, P. A. Haymovich, N. A. Chernyak, and L. A. Chirkina, Voprosy Atomnoy Nauki i Tekhniki. Seriya: Vakuum, Chistye Materialy, Sverkhprovodniki [Problems of Atomic Science and Technology], No. 1 (17): 108 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. А. Чиркина, М. Б. Лазарева, В. С. Оковит, В. И. Соколенко, П. А. Хаймович, В. В. Калиновский, В. П. Пойда, В. В. Брюховецкий, А. В. Пойда, Вестник ХНУ. Серия «Физика», вып. 16, № 1: 75 (2012).",
+				"tr":  "L. A. Chirkina, M. B. Lazareva, V. S. Okovit, V. I. Sokolenko, P. A. Khaymovich, V. V. Kalinovskiy, V. P. Poyda, V. V. Bryukhovetskiy, and A. V. Poyda, Vestnik Kharkiv Nat. Univ. Seriya 'Fizika', 16, No. 1: 75 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Б. Лазарева, В. С. Оковит, М. П. Старолат, В. И. Соколенко, В. В. Калиновский, Л. А. Чиркина, А. А. Васильев, К. В. Ковтун, Вопросы атомной науки и техники. Серия: Вакуум, чистые металлы, сверхпроводники, № 6 (19): 30 (2011).",
+				"tr":  "M. B. Lazareva, V. S. Okovit, M. P. Starolat, V. I. Sokolenko, V. V. Kalinovskiy, L. A. Chirkina, A. A. Vasil'ev, and K. V. Kovtun, Voprosy Atomnoy Nauki i Tekhniki. Seriya: Vakuum, Chistye Materialy, Sverkhprovodniki [Problems of Atomic Science and Technology], No. 6 (19): 30 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Юхвец, Волочильное производство (Москва: Металлургия: 1965).",
+				"tr":  "I. A. Yuhvets, Volochil'noe Proizvodstvo [Wire Drawing Manufacture] (Moscow: Metallurgiya: 1965) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Калиновский, Л. А. Чиркина, М. Б. Лазарева, В. С. Оковит, В. И. Соколенко, П. А. Хаймович, А. В. Мац, Физ. и техн. выс. давлений, 23, № 2: 103 (2013).",
+				"tr":  "V. V. Kalinovskiy, L. A. Chirkina, M. B. Lazareva, V. S. Okovit, V. I. Sokolenko, P. A. Haymovich, and A. V. Mac, Fiz. i Tekhn. Vys. Davleniy, 23, No. 2: 103 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. А. Чиркина, М. Б. Лазарева, В. И. Соколенко, В. В. Калиновский, П. А. Хаймович, В. С. Оковит, Вопросы атомной науки и техники. Серия: Вакуум, чистые металлы, сверхпроводники, № 1 (89): 115 (2014).",
+				"tr":  "L. A. Chirkina, M. B. Lazareva, V. I. Sokolenko, V. V. Kalinowski, P. A. Khaimovich, and V. S. Okovit, Voprosy Atomnoy Nauki i Tekhniki. Seriya: Vakuum, Chistye Materialy, Sverkhprovodniki [Problems of Atomic Science and Technology], No. 1 (89): 115 (2014)."
+			},
+			{
+				"doi": "10.1007/978-3-642-87529-8_2",
+				"or":  "Р. Бернер, Г. Кронмюллер, Пластическая деформация монокристаллов (Ред. А. Н. Орлов) (Москва: Мир: 1969).",
+				"tr":  "R. Berner and G. Kronmüeller, Plastische Verformung von Einkristallen (Berlin: Springer-Verlag: 1965)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Штремель, Прочность сплавов. Часть 1. Дефекты решётки (Мо-сква: МИСиС: 1999).",
+				"tr":  "M. A. Shtremel, Prochnost' Splavov. Part 1. Defekty Reshetki [Strength of Alloys. Part 1. Defects of Lattice] (Moscow: MISiS: 1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. E. Smith, Materials Forum, 31: 71 (2007).",
+				"tr":  "A. E. Smith, Materials Forum, 31: 71 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Косевич, Дислокации в теории упругости (Киев: Наукова думка: 1978).",
+				"tr":  "A. M. Kosevich, Dislokatsii v Teorii Uprugosti [Dislocations in the Theory of Elasticity] (Kiev: Naukova Dumka: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Галкин, В. В. Токий, В. И. Зайцев, ДАН АН СССР, 204, № 2: 313 (1972).",
+				"tr":  "A. A. Galkin, V. V. Tokiy, and V. I. Zaytsev, DAN AN SSSR, 204, No. 2: 313 (1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Зайцев, Физика пластичности гидростатически сжатых кристаллов (Киев: Наукова думка: 1983).",
+				"tr":  "V. I. Zaytsev, Fizika Plastichnosti Gidrostaticheski Szhatykh Kristallov [Physics of Plasticity of Hydrostatically Compressed Crystals] (Kiev: Naukova Dumka: 1983) (in Russian)."
+			},
+			{
+				"doi": "10.1002/adem.200310090",
+				"or":  "M. J. Zehetbauer, H. P. Stuwe, V. Vorhauer, E. Schafler, and J. Kohout, Advanced Engineering Materials, 5, No. 3: 330 (2003).",
+				"tr":  "M. J. Zehetbauer, H. P. Stuwe, V. Vorhauer, E. Schafler, and J. Kohout, Adv. Eng. Mat., 5, No. 3: 330 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Д. Мартынов, В. И. Трефилов, С. А. Фирстов, Б. Н. Береснев, Ю. Н. Рябинин, ДАН СССР, 176, № 6: 1276 (1967).",
+				"tr":  "E. D. Martynov, V. I. Trefilov, S. A. Firstov, and B. N. Beresnev, Yu. N. Ryabinin, DAN SSSR, 176, No. 6: 1276 (1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Гиндин, Я. Д. Стародубов, М. Л. Старолат, П. А. Хаймович, Физ. мет. и металловедение, 48, вып. 5: 1004 (1979).",
+				"tr":  "I. A. Gindin,Ya. D. Starodubov, M. L. Starolat, and P. A. Khaimovich, Fiz. Met. i Metallovedenie, 48, Iss. 5: 1004 (1979) (in Russian)."
+			}
+		]
+	}
+}

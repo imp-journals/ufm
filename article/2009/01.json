@@ -1,0 +1,49 @@
+{
+	"year":   2009,
+	"volume": 10,
+	"issue":  1,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [1,25],
+			"title": {
+				"ua": "Радіяційні дефекти в твердих тілах",
+				"en": "Radiation Defects in Solids",
+				"ru": "Радиационные дефекты в твёрдых телах"
+			},
+			"autors": {
+				"ua": "О. І. Олємськой, І. О. Шуда",
+				"en": "O. I. Olemskoi and I. O. Shuda",
+				"ru": "А. И. Олемской, И. А. Шуда"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [27,102],
+			"title": {
+				"ua": "Детерміністична і стохастична динаміка в спинодальнім розпаді бінарної системи",
+				"en": "Deterministic and Stochastic Dynamics in Spinodal Decomposition of a Binary System",
+				"ru": "Детерминистическая и стохастическая динамика в спинодальном распаде бинарной системы"
+			},
+			"autors": {
+				"ua": "Д. О. Харченко, П. К. Галенко, В. Г. Лебедєв",
+				"en": "D. O. Kharchenko, P. K. Galenko, and V. G. Lebedev",
+				"ru": "Д. О. Харченко, П. К. Галенко, В. Г. Лебедев"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [103,130],
+			"title": {
+				"ua": "Сучасні тенденції розвитку фізики легких металів",
+				"en": "Contemporary Trends of the Development of Physics of Light Metals",
+				"ru": "Современные тенденции развития физики лёгких металлов"
+			},
+			"autors": {
+				"ua": "В. Г. Ткаченко",
+				"en": "V. G. Tkachenko",
+				"ru": "В. Г. Ткаченко"
+			}
+		}
+	]
+}

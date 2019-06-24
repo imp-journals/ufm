@@ -1,0 +1,63 @@
+{
+	"year":   2017,
+	"volume": 18,
+	"issue":  2,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [111,139],
+			"title": {
+				"ua": "Структура та властивості зносостійкого натопу, модифікованого електронно-пучковим обробленням",
+				"en": "Structure and Properties of the Wear-Resistant Facing Modified by Electron-Beam Processing",
+				"ru": "Структура и свойства износостойкой наплавки, модифицированной электронно-пучковой обработкой"
+			},
+			"autors": {
+				"ua": "В. Є. Кормишев, В. Є. Громов, Ю. Ф. Іванов, С. В. Коновалов",
+				"en": "V. E. Kormyshev, V. E. Gromov, Yu. F. Ivanov, and S. V. Konovalov",
+				"ru": "В. Е. Кормышев, В. Е. Громов, Ю. Ф. Иванов, С. В. Коновалов"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [141,154],
+			"title": {
+				"ua": "Міряння температури зони розтопу за спрямованої кристалізації лопаток газотурбінного двигуна",
+				"en": "Measurement of Temperature of Molten Zone at the Directional Crystallization of Blades of the Gas-Turbine Engine",
+				"ru": "Измерение температуры зоны расплава при направленной кристаллизации лопаток газотурбинного двигателя"
+			},
+			"autors": {
+				"ua": "М. О. Маркін, О. М. Маркіна, С. М. Кущовий",
+				"en": "M. O. Markin, O. M. Markina, and S. M. Kushchovyi",
+				"ru": "М. А. Маркин, О. Н. Маркина, С. Н. Кущовый"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [155,175],
+			"title": {
+				"ua": "Застосування кваліметричних метод для оцінювання якости ударно-навантажених матеріялів",
+				"en": "Application of Qualimetric Methods for Evaluation Test of Shock-Loaded Materials",
+				"ru": "Применение квалиметрических методов для оценки качества ударно-нагруженных материалов"
+			},
+			"autors": {
+				"ua": "В. В. Куриляк, Г. І. Хімічева",
+				"en": "V. V. Kurylyak and G. I. Khimicheva",
+				"ru": "В. В. Куриляк, А. И. Химичева"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [177,204],
+			"title": {
+				"ua": "Фізична природа та нові можливості використання ефектів асиметрії азимутальної залежности повної інтеґральної інтенсивности динамічної дифракції для діягностики кристалів з порушеним поверхневим шаром і дефектами",
+				"en": "The Physical Nature and New Capabilities of Use of Effects of Asymmetry of Azimuthal Dependence of Total Integrated Intensity of Dynamical Diffraction for Diagnostics of Crystals with the Disturbed Surface Layer and Defects",
+				"ru": "Физическая природа и новые возможности использования эффектов асимметрии азимутальной зависимости полной интегральной интенсивности динамической дифракции для диагностики кристаллов с нарушенным поверхностным слоем и дефектами"
+			},
+			"autors": {
+				"ua": "В. Б. Молодкін, Г. І. Низкова, Є. І. Богданов, С. Й. Оліховський, С. В. Дмітрієв, М. Г. Толмачов, В. В. Лізунов, Я. В. Василик, А. Г. Карпов, О. Г. Войток",
+				"en": "V. B. Molodkin, H. I. Nizkova, Ye. I. Bogdanov, S. I. Olikhovskii, S. V. Dmitriev, M. G. Tolmachev, V. V. Lizunov, Ya. V. Vasylyk, A. G. Karpov, and O. G. Voytok",
+				"ru": "В. Б. Молодкин, А. И. Низкова, Е. И. Богданов, С. И. Олиховский, С. В. Дмитриев, Н. Г. Толмачев, В. В. Лизунов, Я. В. Василик, А. Г. Карпов, О. Г. Войток"
+			}
+		}
+	]
+}

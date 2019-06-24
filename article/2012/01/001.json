@@ -1,0 +1,329 @@
+{
+	"_id":    "UFM.13.01.001",
+	"year":   2012,
+	"volume": 13,
+	"issue":  1,
+	"pages":  [1,70],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["15.07.2011"],
+	"PACS":   "61.43.Gt, 61.46.Fg, 61.46.Np, 61.72.jd, 61.72.Qq, 64.75.Jk, 66.30.Pa",
+	"title":   {
+		"ua": "Еволюція пор в нанооболонках — конкуренція прямого та зворотнього Кіркендаллових ефектів, ефектів Френкеля і Ґіббса–Томсона (феноменологічний опис та комп’ютерна симуляція)",
+		"en": "Evolution of Pores in Nanoshells — a Competition of Direct and Inverse Kirkendall Effects, Frenkel and Gibbs–Thomson Effects: the Phenomenological Description and Computer Simulation",
+		"ru": "Эволюция пор в нанооболочках – конкуренция прямого и обратного эффектов Киркендалла, эффектов Френкеля и Гиббса—Томсона (феноменологическое описание и компьютерная симуляция)"
+	},
+	"abstract": {
+		"ua": "Огляд включає аналізу причин, рушійних сил і механізмів формування та зникнення пор у наночастинках із замкненою геометрією. З урахуванням проаналізованих ефектів у рамках квазистаціонарного наближення запропоновано декілька феноменологічних моделів для опису еволюції нанооболонок твердих розчинів та інтерметалідів. Створено тривимірний комп’ютерний модель симуляції на основі методи Монте-Карло, який уможливлює досліджувати на атомовому рівні конкуренцію зазначених ефектів, зокрема, сеґреґацію та її вплив на стійкість порожнистих нанооболонок, а також вплив на характер пороутворення температури та розміру частинок. Обидва підходи уможливлюють розглядати стадії формування і стягування пор як окремо, так і у вигляді «єдиного життєвого циклу».",
+		"en": "The review consists of analysis of causes, driving forces, and mechanisms of formation and shrinkage of pores within the nanoparticles with a closed geometry. Taking into account the effects analysed within the scope of quasistationary approximation, several phenomenological models are proposed to describe the solid-solutions’ and intermetallic-compounds’ nanoshells’ evolution. A three-dimensional Monte-Carlo model, which allows simulating competition of such effects at the atomic level, in particular, segregation and its effect on the stability of hollow nanoshells, as well as the impact of both the temperature and the particle size on the pore formation, is suggested. Both approaches allow to consider the stages of formation and shrinking as separate ones or as ‘one and indivisible life-cycle’.",
+		"ru": "Обзор включает анализ причин, движущих сил и механизмов формирования и исчезновения пор в наночастицах с замкнутой геометрией. С учётом проанализированных эффектов в рамках квазистационарного приближения предложено несколько феноменологических моделей для описания эволюции нанооболочек твёрдых растворов и интерметаллидов. Создана трёхмерная компьютерная симуляционная модель на основе метода Монте-Карло, которая позволяет исследовать на атомном уровне конкуренцию указанных эффектов, в частности, сегрегацию и её влияние на устойчивость пустотелых нанооболочек, а также влияние на характер порообразования температуры и размера частиц. Оба подхода позволяют рассматривать стадии формирования и стягивания пор как отдельно, так и в виде «единого жизненного цикла»."
+	},
+	"keywords": {
+		"ua": "взаємна дифузія, нанооболонка, вакансія, пора, Кіркендаллів ефект, ефект Гіббса—Томсона, сеґреґація",
+		"en": "interdiffusion, nanoshell, vacancy, pore, Kirkendall effect, Gibbs–Thomson effect, segregation",
+		"ru": "взаимная диффузия, нанооболочка, вакансия, пора, эффект Киркендалла, эффект Гиббса—Томсона, сегрегация"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Т. В. Запорожець", "en": "T. V. Zaporozhets’", "ru": "Т. В. Запорожец"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "А. М. Гусак", "en": "A. M. Gusak", "ru": "А. М. Гусак"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "О. М. Подолян", "en": "O. M. Podolyan", "ru": "О. Н. Подолян"},
+			"OID": [214]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.12693/APhysPolA.128.564",
+				"cit": "O.A. Molebnyi, A.L. Berezina and A.V. Kotko, <a href=\"https://doi.org/10.12693/APhysPolA.128.564\">Acta Phys. Pol. A <b>128</b>, 564 (2015)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 55,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "A. D. Smigelskas and E. O. Kirkendall, Trans. AIME, 171: 130 (1947).",
+				"tr":  "A. D. Smigelskas and E. O. Kirkendall, Trans. AIME, 171: 130 (1947)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Nakajima, Journal of Metals, 49, No. 6: 15 (1997).",
+				"tr":  "H. Nakajima, Journal of Metals, 49, No. 6: 15 (1997)."
+			},
+			{
+				"doi": "10.1126/science.1096566",
+				"or":  "Y. Yin, R. M. Rioux, C. K. Erdonmez et al., Science, 30430: 711 (2004).",
+				"tr":  "Y. Yin, R. M. Rioux, C. K. Erdonmez et al., Science, 30430: 711 (2004)."
+			},
+			{
+				"doi": "10.1063/1.2130890",
+				"or":  "C. M. Wang, D. R. Baer, L. E. Thomas et al., J. Appl. Phys., 98: 094308 (2005).",
+				"tr":  "C. M. Wang, D. R. Baer, L. E. Thomas et al., J. Appl. Phys., 98: 094308 (2005)."
+			},
+			{
+				"doi": "10.1002/adfm.200600256",
+				"or":  "Y. Yin, C. K. Erdonmez, A. Cabot et al., Adv. Funct. Mater., 16: 1389 (2006).",
+				"tr":  "Y. Yin, C. K. Erdonmez, A. Cabot et al., Adv. Funct. Mater., 16: 1389 (2006)."
+			},
+			{
+				"doi": "10.1021/ja072574a",
+				"or":  "A. Cabot, V. F. Puntes, E. Shevchenko et al., J. Am. Chem. Soc., 129, No. 34: 10358 (2007).",
+				"tr":  "A. Cabot, V. F. Puntes, E. Shevchenko et al., J. Am. Chem. Soc., 129, No. 34: 10358 (2007)."
+			},
+			{
+				"doi": "10.1021/nl070026p",
+				"or":  "H. J. Fan, M. Knez, R. Scholz et al., NanoLett, 7, No. 4: 993 (2007).",
+				"tr":  "H. J. Fan, M. Knez, R. Scholz et al., NanoLett, 7, No. 4: 993 (2007)."
+			},
+			{
+				"doi": "10.1016/j.matlet.2006.06.039",
+				"or":  "R. Nakamura, J.-G. Lee, D. Tokozakura et al., Mater. Lett., 61: 1060 (2007).",
+				"tr":  "R. Nakamura, J.-G. Lee, D. Tokozakura et al., Mater. Lett., 61: 1060 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Nakamura, D. Tokozakura, H. Nakajima et al., J. Appl. Phys., 101: 07430 (2007).",
+				"tr":  "R. Nakamura, D. Tokozakura, H. Nakajima et al., J. Appl. Phys., 101: 07430 (2007)."
+			},
+			{
+				"doi": "10.1557/JMR.2007.0362",
+				"or":  "D. Tokozakura, R. Nakamura, H. Nakajima et al., Mater. Res., 22, No. 10: 2930 (2007).",
+				"tr":  "D. Tokozakura, R. Nakamura, H. Nakajima et al., Mater. Res., 22, No. 10: 2930 (2007)."
+			},
+			{
+				"doi": "10.1080/14786430701819203",
+				"or":  "R. Nakamura, J.-G. Lee, H. Morix, and H. Nakajima, Philos. Mag., 88, No. 2: 257 (2008).",
+				"tr":  "R. Nakamura, J.-G. Lee, H. Morix, and H. Nakajima, Philos. Mag., 88, No. 2: 257 (2008)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2008.07.004",
+				"or":  "R. Nakamura, D. Tokozakura, J.-G. Lee et al., Acta Mater., 56: 5276 (2008).",
+				"tr":  "R. Nakamura, D. Tokozakura, J.-G. Lee et al., Acta Mater., 56: 5276 (2008)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2009.05.023",
+				"or":  "R. Nakamura, G. Matsubayashi, H. Tsuchiya et al., Acta Mater., 57: 4261 (2009).",
+				"tr":  "R. Nakamura, G. Matsubayashi, H. Tsuchiya et al., Acta Mater., 57: 4261 (2009)."
+			},
+			{
+				"doi": "10.1063/1.1873044",
+				"or":  "K. N. Tu and U. Gösele, Applied Physics Letters, 86: 093111 (2005).",
+				"tr":  "K. N. Tu and U. Gösele, Applied Physics Letters, 86: 093111 (2005)."
+			},
+			{
+				"doi": "10.1080/14786430500311741",
+				"or":  "A. M. Gusak, T. V. Zaporozhets, K. N. Tu, and U. Gösele, Philos. Mag., 85, No. 36: 4445 (2005).",
+				"tr":  "A. M. Gusak, T. V. Zaporozhets, K. N. Tu, and U. Gösele, Philos. Mag., 85, No. 36: 4445 (2005)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2009.03.043",
+				"or":  "A. M. Gusak and K. N. Tu, Acta Mater., 57: 336 (2009).",
+				"tr":  "A. M. Gusak and K. N. Tu, Acta Mater., 57: 336 (2009)."
+			},
+			{
+				"doi": "10.1088/0953-8984/21/41/415303",
+				"or":  "A. M. Gusak and T. V. Zaporozhets, J. Phys.: Condens. Matter, 21: 415303 (2009).",
+				"tr":  "A. M. Gusak and T. V. Zaporozhets, J. Phys.: Condens. Matter, 21: 415303 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. В. Запорожец, А. М. Гусак, Металлофиз. новейшие технол., 31, № 1: 1 (2009).",
+				"tr":  "T. V. Zaporozhets, A. M. Gusak, Metallofiz. Noveishie Tekhnol., 31, No. 1: 1 (2009)."
+			},
+			{
+				"doi": "10.1016/0001-6160(74)90059-5",
+				"or":  "F. Aldinger, Acta Metall., 22: 923 (1974).",
+				"tr":  "F. Aldinger, Acta Metall., 22: 923 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. Е. Гегузин, Диффузионная зона (Москва: Наука: 1979).",
+				"tr":  "Ya. E. Geguzin, Diffuzionnaya zona (Moskva: Nauka: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. Е. Гегузин, Ю. И. Клинчук, Л. Н. Парицкая, Физ. мет. металловед., 43: 602 (1977).",
+				"tr":  "Ya. E. Geguzin, Yu. I. Klinchuk, L. N. Paritskaya, Fiz. Met. Metalloved., 43: 602 (1977)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(02)00273-2",
+				"or":  "R. A. Masumura, B. B. Rath, and C. S. Pande, Acta Mater., 50: 4535 (2002).",
+				"tr":  "R. A. Masumura, B. B. Rath, and C. S. Pande, Acta Mater., 50: 4535 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Slezov, Sov. Sci. Rev., 17, part 3: 211 (1995).",
+				"tr":  "V. V. Slezov, Sov. Sci. Rev., 17, part 3: 211 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "K. N. Tu, J. W. Mayer, and L. C. Feldman, Electronic Thin Film Science (Amsterdam: MacMillan: 1992).",
+				"tr":  "K. N. Tu, J. W. Mayer, and L. C. Feldman, Electronic Thin Film Science (Amsterdam: MacMillan: 1992)."
+			},
+			{
+				"doi": "10.1016/0956-7151(92)90305-X",
+				"or":  "R. Kirchheim, Acta Metall. Mater., 40: 309 (1992).",
+				"tr":  "R. Kirchheim, Acta Metall. Mater., 40: 309 (1992)."
+			},
+			{
+				"doi": "10.1063/1.354073",
+				"or":  "M. A. Korhonen, P. Borgesen, K. N. Tu, and C.-Y. Li, J. Appl. Phys., 73: 3790 (1993).",
+				"tr":  "M. A. Korhonen, P. Borgesen, K. N. Tu, and C.-Y. Li, J. Appl. Phys., 73: 3790 (1993)."
+			},
+			{
+				"doi": "10.1063/1.2131204",
+				"or":  "T. V. Zaporozhets, A. M. Gusak, K. N. Tu, and S. G. Mhaisalkar, J. Appl. Phys., 98: 103508 (2005).",
+				"tr":  "T. V. Zaporozhets, A. M. Gusak, K. N. Tu, and S. G. Mhaisalkar, J. Appl. Phys., 98: 103508 (2005)."
+			},
+			{
+				"doi": "10.1063/1.2192694",
+				"or":  "A. T. Huang, A. M. Gusak, K. N. Tu, and Yi-Shao Lai, Appl. Phys. Lett., 88: 141911 (2006).",
+				"tr":  "A. T. Huang, A. M. Gusak, K. N. Tu, and Yi-Shao Lai, Appl. Phys. Lett., 88: 141911 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "K. П. Гуров, A. M. Гусак, Физ. мет. металловед., 59: 1062 (1985).",
+				"tr":  "K. P. Gurov, A. M. Gusak, Fiz. Met. Metalloved., 59: 1062 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Gusak and K. P. Gurov, Proceedings of PTM-94 (USA: 1994), p. 1133.",
+				"tr":  "A. M. Gusak and K. P. Gurov, Proceedings of PTM-94 (USA: 1994), p. 1133."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Gusak, S. V. Kornienko, and G. V. Lutsenko, Defects and Diffusion Forum, 264: 109 (2007).",
+				"tr":  "A. M. Gusak, S. V. Kornienko, and G. V. Lutsenko, Defects and Diffusion Forum, 264: 109 (2007)."
+			},
+			{
+				"doi": "10.1016/0001-6160(88)90114-9",
+				"or":  "G. B. Stephenson, Acta Metall., 10: 2663 (1988).",
+				"tr":  "G. B. Stephenson, Acta Metall., 10: 2663 (1988)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.86.3352",
+				"or":  "M. J. H. van Dal, A. M. Gusak, C. Cserhati et al., Phys. Rev. Lett., 86: 3352 (2001).",
+				"tr":  "M. J. H. van Dal, A. M. Gusak, C. Cserhati et al., Phys. Rev. Lett., 86: 3352 (2001)."
+			},
+			{
+				"doi": "10.1080/01418610208240011",
+				"or":  "F. H. Van Dal, A. M. Gusak, C. Cserhati et al., Philos. Mag. A, 82, No. 5: 943 (2002).",
+				"tr":  "F. H. Van Dal, A. M. Gusak, C. Cserhati et al., Philos. Mag. A, 82, No. 5: 943 (2002)."
+			},
+			{
+				"doi": "10.1080/10408430802462958",
+				"or":  "A. Kodentsov, A. Paul, M. J. H. Van Dal et al., Crit. Rev. Solid State Mater. Sci., 33: 210 (2008).",
+				"tr":  "A. Kodentsov, A. Paul, M. J. H. Van Dal et al., Crit. Rev. Solid State Mater. Sci., 33: 210 (2008)."
+			},
+			{
+				"doi": "10.1088/0305-4608/8/9/008",
+				"or":  "A. D. Marwick, J. Phys. F, 8: 1849 (1978).",
+				"tr":  "A. D. Marwick, J. Phys. F, 8: 1849 (1978)."
+			},
+			{
+				"doi": "10.1016/0022-3115(85)90438-6",
+				"or":  "A. D. Marwick, J. Nucl. Mater., 135: 68 (1985).",
+				"tr":  "A. D. Marwick, J. Nucl. Mater., 135: 68 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "A. В. Назаров, K. П. Гуров, Физ. мет. металловед., 37: 496 (1973).",
+				"tr":  "A. V. Nazarov, K. P. Gurov, Fiz. met. metalloved., 37: 496 (1973)."
+			},
+			{
+				"doi": "10.1080/14786430802213413",
+				"or":  "A. V. Evteev, E. V. Levchenko, I. V. Belova, and G. E. Murch, Philos. Mag., 88: 1525 (2008).",
+				"tr":  "A. V. Evteev, E. V. Levchenko, I. V. Belova, and G. E. Murch, Philos. Mag., 88: 1525 (2008)."
+			},
+			{
+				"doi": "10.1080/14786430601103005",
+				"or":  "A. V. Evteev, E. V. Levchenko, I. V. Belova, and G. E. Murch, Philos. Mag., 87: 3787 (2007).",
+				"tr":  "A. V. Evteev, E. V. Levchenko, I. V. Belova, and G. E. Murch, Philos. Mag., 87: 3787 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "A. V. Evteev, E. V. Levchenko, I. V. Belova, and G. E. Murch, Defect and Diffusion Forum, 277: 21 (2008).",
+				"tr":  "A. V. Evteev, E. V. Levchenko, I. V. Belova, and G. E. Murch, Defect and Diffusion Forum, 277: 21 (2008)."
+			},
+			{
+				"doi": "10.1002/9783527631025",
+				"or":  "A. M. Gusak, T. V. Zaporozhets, Yu. O. Lyashenko et al., Diffusion-Controlled Solid State Reactions in Alloys, Thin Films, and Nanosystems (Berlin: Wiley–VCH: 2010).",
+				"tr":  "A. M. Gusak, T. V. Zaporozhets, Yu. O. Lyashenko et al., Diffusion-Controlled Solid State Reactions in Alloys, Thin Films, and Nanosystems (Berlin: Wiley–VCH: 2010)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.18.2939",
+				"or":  "W. R. A. Johnson and P. J. White, Phys. Rev. B, 18: 2939 (1978).",
+				"tr":  "W. R. A. Johnson and P. J. White, Phys. Rev. B, 18: 2939 (1978)."
+			},
+			{
+				"doi": "10.1016/j.ssc.2007.08.043",
+				"or":  "T. Pabisiak and A. Kiejna, Solid State Commun., 144: 324 (2007).",
+				"tr":  "T. Pabisiak and A. Kiejna, Solid State Commun., 144: 324 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. В. Запорожець, Вісник Черкаського університету, 141: 103 (2008).",
+				"tr":  "T. V. Zaporozhets', Visnyk Cherkas'kogo Universytetu, 141: 103 (2008)."
+			},
+			{
+				"doi": "10.1119/1.1974325",
+				"or":  "J. R. Manning, Am. J. Phys., 36, No. 10: 922 (1968).",
+				"tr":  "J. R. Manning, Am. J. Phys., 36, No. 10: 922 (1968)."
+			},
+			{
+				"doi": "10.1063/1.353805",
+				"or":  "А. M. Gusak and M. V. Yarmolenko, J. Appl. Phys., 73, No. 10: 4881 (1993).",
+				"tr":  "A. M. Gusak and M. V. Yarmolenko, J. Appl. Phys., 73, No. 10: 4881 (1993)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2004.05.047",
+				"or":  "F. Hodaj and A. M. Gusak, Acta Mater., 52: 4305 (2004).",
+				"tr":  "F. Hodaj and A. M. Gusak, Acta Mater., 52: 4305 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Кристиан, Теория превращений в металлах и сплавах (Москва: Мир: 1978).",
+				"tr":  "Dzh. Kristian, Teoriya prevrashcheniy v metallakh i splavakh (Moskva: Mir: 1978)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.72.014118",
+				"or":  "M. O. Pasichnyy, G. Schmitz, A. M. Gusak, and V. Vovk, Phys. Rev. B, 72: 014118 (2005).",
+				"tr":  "M. O. Pasichnyy, G. Schmitz, A. M. Gusak, and V. Vovk, Phys. Rev. B, 72: 014118 (2005)."
+			},
+			{
+				"doi": "10.1063/1.3490675",
+				"or":  "G. Glodan, C. Cserhati, I. Beszeda, and D. L. Beke, Appl. Phys. Lett., 97: 113109 (2010).",
+				"tr":  "G. Glodan, C. Cserhati, I. Beszeda, and D. L. Beke, Appl. Phys. Lett., 97: 113109 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Glodan, C. Cserhati, I. Beszeda, and D. L. Beke, DIMAT 2011 (Dijon, France), abstract O1.4.",
+				"tr":  "G. Glodan, C. Cserhati, I. Beszeda, and D. L. Beke, DIMAT 2011 (Dijon, France), abstract O1.4."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Подолян, Т. В. Запорожець, Укр. фіз. ж., 56, № 9: 929 (2011).",
+				"tr":  "O. M. Podolyan, T. V. Zaporozhets', Ukrainian Journal of Physics, 56, No. 9: 929 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. В. Запорожець, О. М. Подолян, А. М. Гусак, , Металлофиз. новейшие технол., 34, № 1: 111 (2012).",
+				"tr":  "T. V. Zaporozhets', O. M. Podolyan, A. M. Gusak, Metallofiz. Noveishie Tekhnol., 34, No. 1: 111 (2012)."
+			},
+			{
+				"doi": "10.1080/09500839.2011.616180",
+				"or":  "A. M. Gusak, F. Hodaj, and T. V. Zaporozhets, Philos. Mag. Lett., 91, No. 12: 741 (2011).",
+				"tr":  "A. M. Gusak, F. Hodaj, and T. V. Zaporozhets, Philos. Mag. Lett., 91, No. 12: 741 (2011)."
+			}
+		]
+	}
+}

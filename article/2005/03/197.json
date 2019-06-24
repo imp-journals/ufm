@@ -1,0 +1,551 @@
+{
+	"_id":    "UFM.06.03.197",
+	"year":   2005,
+	"volume": 6,
+	"issue":  3,
+	"pages":  [197,232],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["11.05.2005"],
+	"PACS":   "62.20.Qp, 68.55.Ln, 68.60.Bs, 81.15.Cd, 81.15.Ef, 81.15.Jj, 81.65.Lp",
+	"title":   {
+		"ua": "Покриття на базі нітриду хрому. Досвід створення та дослідження",
+		"en": "Coatings on the Basis of Chromium Nitride. Experience of Design and Investigation",
+		"ru": "Покрытия на базе нитрида хрома. Опыт создания и исследования"
+	},
+	"abstract": {
+		"ua": "У даному огляді систематизовано результати досліджень за останні 25 років у галузі одержання та використання Cr–N-покриттів, які створюються за допомогою вакуумно-дугових, магнетронних та йонно-стимульованих технологій. Проаналізовано взаємозв’язок між базовими параметрами процесів, такими як тиск робочого газу, енергія йонів, ступінь йонізації, потенціял зміщення та ін., і структурно-фазовими, механічними та трибологічними характеристиками покриттів. Виявлено характерні відмінності в умовах створення покриттів CrN та Cr$_{2}$N. Виконано порівняння експлуатаційних властивостей Ti–N- та Cr–N-покриттів.",
+		"en": "The investigation results concerning fabrication and application of Cr–N coatings, which are produced by the vacuum-arc evaporation, magnetron sputtering, and ion-beam-assisted deposition, are systematized. The links between base parameters of these processes such as gas pressure, ion energy, ionization degree, bias potential and structure, mechanical, and tribological characteristics are analyzed. The characteristic differences of fabrication conditions for CrN and Cr$_{2}$N coatings are revealed. The comparison of performance attributes of Ti–N and Cr–N coatings is carried out.",
+		"ru": "В обзоре систематизированы результаты исследований последних 25 лет в области получения и применения Cr–N-покрытий, создаваемых с помощью вакуумно-дуговых, магнетронных и ионно-стимулированных технологий. Проанализирована взаимосвязь между базовыми параметрами процессов, такими как давление рабочего газа, энергия ионов, степень ионизации, потенциал смещения и др., и структурно-фазовыми, механическими и трибологическими характеристиками покрытий. Выявлены характерные отличия в условиях получения покрытий CrN и Cr$_{2}$N. Проведено сравнение эксплуатационных свойств Ti–N- и Cr–N-покрытий."
+	},
+	"keywords": {
+		"ua": "покиття Cr–N і Ti–N, вакуумно-дугове випаровування, магнетронне розпилення, іонно-стимульоване осаждення",
+		"en": "Cr–N and Ti–N coatings, vacuum-arc evaporation, magnetron sputtering, ion-beam-assisted deposition",
+		"ru": "покрытия Cr–N и Ti–N, вакуумно-дуговое испарение, магнетронное распыление, ионно-стимулированное осаждение"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. Г. Гугля", "en": "A. G. Gyglya", "ru": "А. Г. Гугля"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "І. М. Неклюдов", "en": "I. M. Neklyudov", "ru": "И. М. Неклюдов"},
+			"OID": [3]
+		}
+	],
+	"references": {
+		"count": 102,
+				"list":  [
+			{
+				"doi": "",
+				"or":  "H. Gleiter, Nanostructured Materials, 6, No. 1–4: 3 (1995).",
+				"tr":  "H. Gleiter, Nanostructured Materials, 6, No. 1–4: 3 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. А. Андриевский, А. М. Гейзер, Физика металлов и металловедение, 88, № 1: 50 (1999).",
+				"tr":  "R. A. Andrievskiy, A. M. Geyzer, Fizika metallov i metallovedenie, 88, № 1: 50 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. А. Андриевский, А. М. Гейзер, Физика металлов и металловедение, 89, № 1: 91 (2000).",
+				"tr":  "R. A. Andrievskiy, A. M. Geyzer, Fizika metallov i metallovedenie, 89, № 1: 91 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "J. J. Cuomo and S. M. Rossnagel, Nucl. Instr. & Meth. in Phys. Res., B19/20: 963 (1987).",
+				"tr":  "J. J. Cuomo and S. M. Rossnagel, Nucl. Instr. & Meth. in Phys. Res., B19/20: 963 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "D. M. Mattox, J. Vac. Sci. Technol., A7, No. 3: 1105 (1989).",
+				"tr":  "D. M. Mattox, J. Vac. Sci. Technol., A7, No. 3: 1105 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "S. M. Rossnagel and J. J. Cuomo, Thin Solid Films, 171: 143 (1989).",
+				"tr":  "S. M. Rossnagel and J. J. Cuomo, Thin Solid Films, 171: 143 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Musil, S. Kadlec, J. Vyskocil, and V. Poulek, Surf. & Coat. Tech., 39/40: 301 (1989).",
+				"tr":  "J. Musil, S. Kadlec, J. Vyskocil, and V. Poulek, Surf. & Coat. Tech., 39/40: 301 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "D. M. Mattox, Surf. & Coat. Tech., 133–134: 517 (2000).",
+				"tr":  "D. M. Mattox, Surf. & Coat. Tech., 133–134: 517 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "I. Petrov, P. B. Barna, L. Hultman, and J. E. Green, J. Vac. Sci. Technol., A21, No. 5: S117 (2003).",
+				"tr":  "I. Petrov, P. B. Barna, L. Hultman, and J. E. Green, J. Vac. Sci. Technol., A21, No. 5: S117 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "O. Piot, C. Gautier, and J. Machet, Surf. & Coat. Tech., 94–95: 409 (1997).",
+				"tr":  "O. Piot, C. Gautier, and J. Machet, Surf. & Coat. Tech., 94–95: 409 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Nouveau, M. Djouadi, C. Deces-Petit, P. Beer, and M. Lambertin, Surf. & Coat. Tech., 142–144: 94 (2001).",
+				"tr":  "C. Nouveau, M. Djouadi, C. Deces-Petit, P. Beer, and M. Lambertin, Surf. & Coat. Tech., 142–144: 94 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Ehiasarian, P. Hovsepian, L. Hultman, and U. Helmersson, Thin Solid Films, 457, No. 2: 270 (2004).",
+				"tr":  "A. Ehiasarian, P. Hovsepian, L. Hultman, and U. Helmersson, Thin Solid Films, 457, No. 2: 270 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Engel, G. Schwarz, and G. Wolf, Surf. & Coat. Tech., 112: 286 (1999).",
+				"tr":  "P. Engel, G. Schwarz, and G. Wolf, Surf. & Coat. Tech., 112: 286 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Mayrhofer, G. Tischler, and C. Mitterer, Surf. & Coat. Tech., 142–144: 78 (2001).",
+				"tr":  "P. Mayrhofer, G. Tischler, and C. Mitterer, Surf. & Coat. Tech., 142–144: 78 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Oden, J. Almer, G. Hakansson, and M. Olsson, Thin Solid Films, 377–378: 407 (2000).",
+				"tr":  "M. Oden, J. Almer, G. Hakansson, and M. Olsson, Thin Solid Films, 377–378: 407 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Takagi, Thin Solid Films, 92: 1 (1982).",
+				"tr":  "T. Takagi, Thin Solid Films, 92: 1 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "Z. Zhao, Z. Rek, S. Valisove, and J. Bilello, Surf. & Coat. Tech., 185, No. 2–3: 329 (2004).",
+				"tr":  "Z. Zhao, Z. Rek, S. Valisove, and J. Bilello, Surf. & Coat. Tech., 185, No. 2–3: 329 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Seok, N. Jadeed, and R. Lin, Surf. & Coat. Tech., 138, No. 1: 14 (2001).",
+				"tr":  "J. Seok, N. Jadeed, and R. Lin, Surf. & Coat. Tech., 138, No. 1: 14 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Pakala and R. Lin, Surf. & Coat. Tech., 81, No. 2–3: 233 (1996).",
+				"tr":  "M. Pakala and R. Lin, Surf. & Coat. Tech., 81, No. 2–3: 233 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "O. Knotek, W. Bosch, and M. Atzor, High Temperatures–High Pressures, 18: 435 (1986).",
+				"tr":  "O. Knotek, W. Bosch, and M. Atzor, High Temperatures–High Pressures, 18: 435 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Nam, M. Jung, and J. Ham, Surf. & Coat. Tech., 131, No. 1–3: 222 (2000).",
+				"tr":  "K. Nam, M. Jung, and J. Ham, Surf. & Coat. Tech., 131, No. 1–3: 222 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "J.-N. Tu, J.-G. Duh, and S.-Y. Tsai, Surf. & Coat. Tech., 133–134: 181 (2000).",
+				"tr":  "J.-N. Tu, J.-G. Duh, and S.-Y. Tsai, Surf. & Coat. Tech., 133–134: 181 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "A. P. Ehiasarian, W. Münz, L. Hultman, U. Helmersson, and I. Petrov, Surf. & Coat. Tech., 163–164: 267 (2003).",
+				"tr":  "A. P. Ehiasarian, W. Münz, L. Hultman, U. Helmersson, and I. Petrov, Surf. & Coat. Tech., 163–164: 267 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "G. K. Wolf, J. Vac. Sci. Technol., A10, No. 4: 1757 (1992).",
+				"tr":  "G. K. Wolf, J. Vac. Sci. Technol., A10, No. 4: 1757 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Ehrlich, M. Kühn, F. Richter, and W. Hoyer, Surf. & Coat. Tech., 76–77: 280 (1995).",
+				"tr":  "A. Ehrlich, M. Kühn, F. Richter, and W. Hoyer, Surf. & Coat. Tech., 76–77: 280 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Ensinger and M. Kiuchi, Surf. & Coat. Tech., 94–95: 433 (1997).",
+				"tr":  "W. Ensinger and M. Kiuchi, Surf. & Coat. Tech., 94–95: 433 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Hurkmans, D. Lewis, H. Paritong, J. Brooks, and W. Münz, Surf. & Coat. Tech., 114: 52 (1999).",
+				"tr":  "T. Hurkmans, D. Lewis, H. Paritong, J. Brooks, and W. Münz, Surf. & Coat. Tech., 114: 52 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Čekada, P. Panjan, M. Maček, and P. Šmĭd, Surf. & Coat. Tech., 151–152: 31 (2002).",
+				"tr":  "M. Čekada, P. Panjan, M. Maček, and P. Šmĭd, Surf. & Coat. Tech., 151–152: 31 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "F.-H. Lu and H.-Y. Chen, Thin Solid Films, 398–399: 368 (2001).",
+				"tr":  "F.-H. Lu and H.-Y. Chen, Thin Solid Films, 398–399: 368 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Sugiyama, K. Hayashi, J. Sasaki, O. Ichiko, and Y. Hashiguchi, Nucl. Instr. & Meth. in Phys. Res., B80/81: 1376 (1993).",
+				"tr":  "K. Sugiyama, K. Hayashi, J. Sasaki, O. Ichiko, and Y. Hashiguchi, Nucl. Instr. & Meth. in Phys. Res., B80/81: 1376 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "Z. Han, J. Tian, Q. Lai, X. Yu, and G. Li, Surf. & Coat. Tech., 162: 189 (2003).",
+				"tr":  "Z. Han, J. Tian, Q. Lai, X. Yu, and G. Li, Surf. & Coat. Tech., 162: 189 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Barata, L. Cunha, and C. Moura, Thin Solid Films, 398–399: 501 (2001).",
+				"tr":  "A. Barata, L. Cunha, and C. Moura, Thin Solid Films, 398–399: 501 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Djouadi, C. Nouveau, P. Beer, and M. Lambertin, Surf. & Coat. Tech., 133–134: 478 (2000).",
+				"tr":  "M. Djouadi, C. Nouveau, P. Beer, and M. Lambertin, Surf. & Coat. Tech., 133–134: 478 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Demaree, C. Fountzoulas, and J. Hirvonen, Surf. & Coat. Tech., 86–87: 309 (1996).",
+				"tr":  "J. Demaree, C. Fountzoulas, and J. Hirvonen, Surf. & Coat. Tech., 86–87: 309 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Bin, Z. Xiaodong, H. Naisai, and H. Jiawen, Surf. & Coat. Tech., 131, No. 1–3: 391 (2000).",
+				"tr":  "T. Bin, Z. Xiaodong, H. Naisai, and H. Jiawen, Surf. & Coat. Tech., 131, No. 1–3: 391 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Kumar, V. Raju, R. Shekhar et al., Thin Solid Films, 388, No. 1–2: 195 (2001).",
+				"tr":  "S. Kumar, V. Raju, R. Shekhar et al., Thin Solid Films, 388, No. 1–2: 195 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Volz, M. Kiuchi, and W. Ensinger, Surf. & Coat. Tech., 108–109: 303 (1998).",
+				"tr":  "K. Volz, M. Kiuchi, and W. Ensinger, Surf. & Coat. Tech., 108–109: 303 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Grant, C. Loomis, J. Moore, D. Olson, B. Mishra, and A. Perry, Surf. & Coat. Tech., 86–87: 788 (1996).",
+				"tr":  "W. Grant, C. Loomis, J. Moore, D. Olson, B. Mishra, and A. Perry, Surf. & Coat. Tech., 86–87: 788 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Odén, J. Almer, and G. Hǻkansson, Surf. & Coat. Tech., 120–121: 272 (1999).",
+				"tr":  "M. Odén, J. Almer, and G. Hǻkansson, Surf. & Coat. Tech., 120–121: 272 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Odén, C. Ericsson, G. Hǻkansson, and H. Lyungcrantz, Surf. & Coat. Tech., 114, No. 1: 39 (1999).",
+				"tr":  "M. Odén, C. Ericsson, G. Hǻkansson, and H. Lyungcrantz, Surf. & Coat. Tech., 114, No. 1: 39 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Ichimura and I. Ando, Surf. & Coat. Tech., 145, No. 1–3: 88 (2001).",
+				"tr":  "H. Ichimura and I. Ando, Surf. & Coat. Tech., 145, No. 1–3: 88 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Han, H.-Y. Chen, Z.-C. Chang et al., Thin Solid Films, 436, No. 2: 238 (2003).",
+				"tr":  "S. Han, H.-Y. Chen, Z.-C. Chang et al., Thin Solid Films, 436, No. 2: 238 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Hones, R. Sanjines, and F. Lévy, Surf. & Coat. Tech., 94–95, No. 1–3: 398 (1997).",
+				"tr":  "P. Hones, R. Sanjines, and F. Lévy, Surf. & Coat. Tech., 94–95, No. 1–3: 398 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Г. Карпман, Г. П. Фетисов, Р. Х. Сайдахмедов, Г. С. Турбин, Физика и химия обработки материалов, № 5: 117 (1993).",
+				"tr":  "M. G. Karpman, G. P. Fetisov, R. Kh. Saydakhmedov, G. S. Turbin, Fizika i khimiya obrabotki materialov, № 5: 117 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Г. Карпман, Г. П. Фетисов, Р. Х. Сайдахмедов, Г. С. Турбин, Физика и химия обработки материалов, № 3: 152 (1993).",
+				"tr":  "M. G. Karpman, G. P. Fetisov, R. Kh. Saydakhmedov, G. S. Turbin, Fizika i khimiya obrabotki materialov, № 3: 152 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Weissmantel, Thin Solid Films, 92: 55 (1982).",
+				"tr":  "C. Weissmantel, Thin Solid Films, 92: 55 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Н. Барабанов, И. Г. Блинов, А. М. Дороднов, С. В. Дудова, Физика и химия обработки материалов, № 1: 44 (1987).",
+				"tr":  "B. N. Barabanov, I. G. Blinov, A. M. Dorodnov, S. V. Dudova, Fizika i khimiya obrabotki materialov, № 1: 44 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Д. Гришин, Н. П. Козлов, Применение плазменных ускорителей в технике (Москва: Машиностроение: 1973).",
+				"tr":  "S. D. Grishin, N. P. Kozlov, Primenenie plazmennykh uskoriteley v tekhnike (Moskva: Mashinostroenie: 1973)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Падалко, В. Т. Толок, Атомная энергетика, 44: 476 (1978).",
+				"tr":  "V. G. Padalko, V. T. Tolok, Atomnaya energetika, 44: 476 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Ensinger, Rev. Sci. Instrum., 63, No. 11: 5217 (1992).",
+				"tr":  "W. Ensinger, Rev. Sci. Instrum., 63, No. 11: 5217 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Келли, Радиационное повреждение твердых тел (Москва: Атомиздат: 1970).",
+				"tr":  "B. Kelli, Radiatsionnoe povrezhdenie tverdykh tel (Moskva: Atomizdat: 1970)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Томпсон, Дефекты и радиационные повреждения в металлах (Москва: Мир: 1971).",
+				"tr":  "M. Tompson, Defekty i radiatsionnye povrezhdeniya v metallakh (Moskva: Mir: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Ensinger, Nucl. Instr. & Meth. in Phys. Res., B127–128: 796 (1997).",
+				"tr":  "W. Ensinger, Nucl. Instr. & Meth. in Phys. Res., B127–128: 796 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Bertrand, C. Savall, and C. Meunier, Surf. & Coat. Tech., 96: 323 (1997).",
+				"tr":  "G. Bertrand, C. Savall, and C. Meunier, Surf. & Coat. Tech., 96: 323 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "Y. Fu, X. Zhu, B. Tang, X. Hu, J. He, K. Xu, and A. Batchelor, Wear, 217: 159 (1998).",
+				"tr":  "Y. Fu, X. Zhu, B. Tang, X. Hu, J. He, K. Xu, and A. Batchelor, Wear, 217: 159 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. ван Флек, Теоретическое и прикладное материаловедение (Москва: Атомиздат: 1975).",
+				"tr":  "L. van Flek, Teoreticheskoe i prikladnoe materialovedenie (Moskva: Atomizdat: 1975)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Барг, Н. В. Дубовицкая, Д. А. Дудко, Л. Н. Лариков, Металлофизика, 9, № 4: 118 (1987).",
+				"tr":  "A. E. Barg, N. V. Dubovitskaya, D. A. Dudko, L. N. Larikov, Metallofizika, 9, № 4: 118 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Л. Василенко, А. Г. Гугля, И. Г. Марченко, Ю. А. Марченко, И. М. Неклюдов, Физика и химия обработки материалов, № 6: 34 (2003).",
+				"tr":  "R. L. Vasilenko, A. G. Guglya, I. G. Marchenko, Yu. A. Marchenko, I. M. Neklyudov, Fizika i khimiya obrabotki materialov, № 6: 34 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Коган, Ю. А. Семененко, А. В. Дерюгин, Физика и химия обработки материалов, № 4: 81 (1980).",
+				"tr":  "V. S. Kogan, Yu. A. Semenenko, A. V. Deryugin, Fizika i khimiya obrabotki materialov, № 4: 81 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Guglya, M. Litvinenko, and R. Vasilenko, Proc. of 16 International Vacuum Congress (Venice, Italy: 2004).",
+				"tr":  "A. Guglya, M. Litvinenko, and R. Vasilenko, Proc. of 16 International Vacuum Congress (Venice, Italy: 2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Комник, Физика металлических пленок (Москва: Атомиздат: 1979).",
+				"tr":  "Yu. F. Komnik, Fizika metallicheskikh plenok (Moskva: Atomizdat: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Бублик, Б. Я. Пинес, Доклады АН СССР, LXXXVII, № 2: 215 (1952).",
+				"tr":  "A. I. Bublik, B. Ya. Pines, Doklady AN SSSR, LXXXVII, № 2: 215 (1952)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Gautier, H. Moussaoui, F. Elstner, and J. Machet, Surf. & Coat. Tech., 86–87: 254 (1996).",
+				"tr":  "C. Gautier, H. Moussaoui, F. Elstner, and J. Machet, Surf. & Coat. Tech., 86–87: 254 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Я. Вовк, А. В. Филатов, Металлофиз. новейшие технол., 20, № 1: 17 (1998).",
+				"tr":  "A. Ya. Vovk, A. V. Filatov, Metallofiz. noveyshie tekhnol., 20, № 1: 17 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "Z. Zhao, S. Valisove, Z. Rek, and J. Bilello, J. of Applied Physics., 92, No. 12: 7183 (2002).",
+				"tr":  "Z. Zhao, S. Valisove, Z. Rek, and J. Bilello, J. of Applied Physics., 92, No. 12: 7183 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Lucas, G. Terwagne, G. Sorensen, and H. Jensen, Material Science & Engineering, B2: 183 (1989).",
+				"tr":  "S. Lucas, G. Terwagne, G. Sorensen, and H. Jensen, Material Science & Engineering, B2: 183 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Guglya, I. Marchenko, D. Malykhin, and I. Neklyudov, Surf. & Coat. Tech., 163–164: 286 (2003).",
+				"tr":  "A. Guglya, I. Marchenko, D. Malykhin, and I. Neklyudov, Surf. & Coat. Tech., 163–164: 286 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Brice, Ion Implantation Range and Energy Deposition Distribution (New York: IFI–Plenum: 1975), vol. 1.",
+				"tr":  "D. Brice, Ion Implantation Range and Energy Deposition Distribution (New York: IFI–Plenum: 1975), vol. 1."
+			},
+			{
+				"doi": "",
+				"or":  "Распыление твердых тел ионной бомбардировкой (Ред. Р. Бериш) (Москва: Мир: 1984).",
+				"tr":  "Raspylenie tverdykh tel ionnoy bombardirovkoy (Red. R. Berish) (Moskva: Mir: 1984)."
+			},
+			{
+				"doi": "10.1016/0257-8972(94)90020-5",
+				"or":  "W. Ensinger, M. Kiuchi, and M. Satou, Surf. & Coat. Tech., 66: 313 (1994).",
+				"tr":  "W. Ensinger, M. Kiuchi, and M. Satou, Surf. & Coat. Tech., 66: 313 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Barth, W. Ensinger, A. Schroer, and C. Wolf, Low Temperature Generation of Hard Materials Coatings by Reactive Ion Beam-Assisted Deposition (Eds. T. Sudashan and D. Bhat) (Surface Modification Technologies III) (Warrendale, PA: The Mineral, Metals and Materials Society: 1990).",
+				"tr":  "M. Barth, W. Ensinger, A. Schroer, and C. Wolf, Low Temperature Generation of Hard Materials Coatings by Reactive Ion Beam-Assisted Deposition (Eds. T. Sudashan and D. Bhat) (Surface Modification Technologies III) (Warrendale, PA: The Mineral, Metals and Materials Society: 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Sato, K. Ohata, N. Asahi, Y. Ono, Y. Orf, I. Hashimoto, and K. Arimatsu, Nucl. Instr. & Meth. in Phys. Res., B19/20: 644 (1987).",
+				"tr":  "T. Sato, K. Ohata, N. Asahi, Y. Ono, Y. Orf, I. Hashimoto, and K. Arimatsu, Nucl. Instr. & Meth. in Phys. Res., B19/20: 644 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Chen, P. Wu, C. Quaeyhaegens, K. Xu, L. Stals, J. He, and J. Celis, Wear, 253, No. 5–6: 527 (2002).",
+				"tr":  "H. Chen, P. Wu, C. Quaeyhaegens, K. Xu, L. Stals, J. He, and J. Celis, Wear, 253, No. 5–6: 527 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Engel, G. Schwarz, and G. Wolf, Surf. & Coat. Tech., 98: 1002 (1998).",
+				"tr":  "P. Engel, G. Schwarz, and G. Wolf, Surf. & Coat. Tech., 98: 1002 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Kringhøj, J. Bøttiger, J. Chevallier, E. Bienk, and K. Rätske, Surf. & Coat. Tech., 149, No. 1: 82 (2002).",
+				"tr":  "P. Kringhøj, J. Bøttiger, J. Chevallier, E. Bienk, and K. Rätske, Surf. & Coat. Tech., 149, No. 1: 82 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Wei, T. Scharf. J. Zhou, F. Huang, M. Weaver, and J. Barnard, Surf. & Coat. Tech., 146–147: 357 (2001).",
+				"tr":  "G. Wei, T. Scharf. J. Zhou, F. Huang, M. Weaver, and J. Barnard, Surf. & Coat. Tech., 146–147: 357 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Gelfi, G. La Vecchia, N. Lecis, and S. Troglio, Surf. & Coat. Tech., 192, No. 2–3: 263 (2005).",
+				"tr":  "M. Gelfi, G. La Vecchia, N. Lecis, and S. Troglio, Surf. & Coat. Tech., 192, No. 2–3: 263 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Ichimura and Y. Ishii, Surf. & Coat. Tech., 145, No. 1–3: 94 (2001).",
+				"tr":  "H. Ichimura and Y. Ishii, Surf. & Coat. Tech., 145, No. 1–3: 94 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Lee, J. Duh, and J. Wang, Surf. & Coat. Tech., 168, No. 2–3: 223 (2003).",
+				"tr":  "J. Lee, J. Duh, and J. Wang, Surf. & Coat. Tech., 168, No. 2–3: 223 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Sproul, P. Rudnik, M.Graham, Surf. & Coat. Tech., 39/40: 355 (1989).",
+				"tr":  "W. Sproul, P. Rudnik, M.Graham, Surf. & Coat. Tech., 39/40: 355 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "A. G. Guglya, I. M. Neklyudov, V. А. Shkuropatenko, O. F. Vanzha, and V. D. Virich, Вопросы атомной науки и техники. Серия: Физика радиационных повреждений и радиационное материаловедение, 86, № 3: 169 (2005).",
+				"tr":  "A. G. Guglya, I. M. Neklyudov, V. A. Shkuropatenko, O. F. Vanzha, and V. D. Virich, Voprosy atomnoy nauki i tekhniki. Seriya: Fizika radiatsionnykh povrezhdeniy i radiatsionnoe materialovedenie, 86, № 3: 169 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Jönsson and S. Hogmark, Thin Solid Films, 114: 257 (1984).",
+				"tr":  "B. Jönsson and S. Hogmark, Thin Solid Films, 114: 257 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Lu, Mater. Sci. Eng., R16: 161 (1996).",
+				"tr":  "K. Lu, Mater. Sci. Eng., R16: 161 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Andrievski, J. Mater. Sci. Technol., 4: 97 (1998).",
+				"tr":  "R. Andrievski, J. Mater. Sci. Technol., 4: 97 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Chokshi, A. Rosen et al., Scripta Met., 23: 1679 (1989).",
+				"tr":  "A. Chokshi, A. Rosen et al., Scripta Met., 23: 1679 (1989)."
+			},
+			{
+				"doi": "10.1016/1359-6462(95)00572-2",
+				"or":  "A. Nasarov, Scripta Met., 34, No. 5: 697 (1996).",
+				"tr":  "A. Nasarov, Scripta Met., 34, No. 5: 697 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Палатник, М. Фукс, В. Косевич. Механизм образования и субструктура конденсированных пленок (Москва: Наука: 1972).",
+				"tr":  "L. Palatnik, M. Fuks, V. Kosevich. Mekhanizm obrazovaniya i substruktura kondensirovannykh plenok (Moskva: Nauka: 1972)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Nouveau, M. Djouadi, O. Banakh, R. Sanjinés, and F. Lévy, Thin Solid Films, 398–399: 490 (2001).",
+				"tr":  "C. Nouveau, M. Djouadi, O. Banakh, R. Sanjinés, and F. Lévy, Thin Solid Films, 398–399: 490 (2001)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(98)00748-8",
+				"or":  "J. Musil and J. Vlček, Surf. & Coat. Tech., 112: 162 (1999).",
+				"tr":  "J. Musil and J. Vlček, Surf. & Coat. Tech., 112: 162 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "L.-H. Tian, B. Tang, D.-X. Liu, X.-D. Zhu, and J.-W. He, Surf. & Coat. Tech., 191, No. 2–3: 149 (2005).",
+				"tr":  "L.-H. Tian, B. Tang, D.-X. Liu, X.-D. Zhu, and J.-W. He, Surf. & Coat. Tech., 191, No. 2–3: 149 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Д. Вирич, А. Г. Гугля, Ю. А. Марченко, В. А. Шкуропатенко, Способ нанесения покрытий на изделия из металлов и сплавов (Деклараційний патент України на корисну модель. UA 3951 U від 15.12.2004 р.).",
+				"tr":  "V. D. Virich, A. G. Guglya, Yu. A. Marchenko, V. A. Shkuropatenko, Sposob naneseniya pokrytiy na izdeliya iz metallov i splavov (Deklaratsiyniy patent Ukraini na korisnu model'. UA 3951 U vid 15.12.2004 r.)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Ohira, M. Iwaki, Material Science & Engineering, A116: 153 (1989).",
+				"tr":  "S. Ohira, M. Iwaki, Material Science & Engineering, A116: 153 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Гладких, С. Малыхин, А. Пугачев, Е. Решетняк, Д. Глушкова, С. Дьяченко, Г. Ковтун, Металлофиз. новейшие технол., 25, № 6: 763 (2003).",
+				"tr":  "L. Gladkikh, S. Malykhin, A. Pugachev, E. Reshetnyak, D. Glushkova, S. D'yachenko, G. Kovtun, Metallofiz. noveyshie tekhnol., 25, № 6: 763 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Cunha, M. Andritschky, K. Pischow, Z. Wang, A. Zarychta, A. Miranda, and A. Cunha, Surf. & Coat. Tech., 153, No. 2–3: 160 (2002).",
+				"tr":  "L. Cunha, M. Andritschky, K. Pischow, Z. Wang, A. Zarychta, A. Miranda, and A. Cunha, Surf. & Coat. Tech., 153, No. 2–3: 160 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Nouveau, M. Djouadi, and C. Decés-Petit, Surf. & Coat. Tech., 174–175: 455 (2003).",
+				"tr":  "C. Nouveau, M. Djouadi, and C. Decés-Petit, Surf. & Coat. Tech., 174–175: 455 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Kondo, T. Oogami, K. Sato, and Y. Tanaka, Surf. & Coat. Tech., 177–178: 238 (2004).",
+				"tr":  "A. Kondo, T. Oogami, K. Sato, and Y. Tanaka, Surf. & Coat. Tech., 177–178: 238 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Gåhlin, M. Bromark, P. Hedenqvist, S. Hogmark, and G. Håkansson, Surf. & Coat. Tech., 76–77: 174 (1995).",
+				"tr":  "R. Gåhlin, M. Bromark, P. Hedenqvist, S. Hogmark, and G. Håkansson, Surf. & Coat. Tech., 76–77: 174 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Lin, Y. Li, J. Kilner, R. Chater, J. Li, A. Nejim, J. Zhang, and P. Hemment, Nucl. Instr. & Meth. In Phys. Res., B80/81: 323 (1993).",
+				"tr":  "C. Lin, Y. Li, J. Kilner, R. Chater, J. Li, A. Nejim, J. Zhang, and P. Hemment, Nucl. Instr. & Meth. In Phys. Res., B80/81: 323 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Harper, J. Cuomo, and H. Kaufman, J. Vac. Sci. Tech., 21, No. 3: 737 (1982).",
+				"tr":  "J. Harper, J. Cuomo, and H. Kaufman, J. Vac. Sci. Tech., 21, No. 3: 737 (1982)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(96)03042-3",
+				"or":  "G. Berg, C. Friedrich, E. Broszeit, and C. Berger, Surf. & Coat. Tech., 86–87: 184 (1996).",
+				"tr":  "G. Berg, C. Friedrich, E. Broszeit, and C. Berger, Surf. & Coat. Tech., 86–87: 184 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Klingenberg, J. Arps, R. Wei, J. Demaree, J. Hirvonen, Surf. & Coat. Tech., 158–159: 164 (2002).",
+				"tr":  "M. Klingenberg, J. Arps, R. Wei, J. Demaree, J. Hirvonen, Surf. & Coat. Tech., 158–159: 164 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Кунченко, А. Андреев, Ю. Кунченко, Г. Карамазов, Вопросы атомной науки и техники. Серия: Физика радиационных повреждений и радиационное материаловедение, 85, № 3: 87 (2004).",
+				"tr":  "V. Kunchenko, A. Andreev, Yu. Kunchenko, G. Karamazov, Voprosy atomnoy nauki i tekhniki. Seriya: Fizika radiatsionnykh povrezhdeniy i radiatsionnoe materialovedenie, 85, № 3: 87 (2004)."
+			}
+		]
+	}
+}

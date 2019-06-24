@@ -1,0 +1,691 @@
+{
+	"_id":    "UFM.13.04.417",
+	"year":   2012,
+	"volume": 13,
+	"issue":  4,
+	"pages":  [417,452],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["20.09.2012"],
+	"PACS":   "05.65.+b, 61.72.Bb, 61.72.J-, 61.72.Qq, 61.80.Az, 61.82.Bg, 82.40.Ck",
+	"title":   {
+		"ua": "Фізична кінетика перерозподілу точкових дефектів у опромінюваних кристалах",
+		"en": "Physical Kinetics of Redistribution of Point Defects in Irradiated Crystals",
+		"ru": "Физическая кинетика перераспределения точечных дефектов в облучаемых кристаллах"
+	},
+	"abstract": {
+		"ua": "Дано огляд літературних даних експериментальних спостережень самоорганізації дисипативних структур у кристалах під опроміненням. Розглянуто вплив опромінення на стійкість однорідного розподілу густини точкових дефектів та утворення ними дисипативних модульованих структур на поверхні та в об’ємі твердого тіла. Зазначено теоретичні підходи щодо опису умов утворення таких структур.",
+		"en": "Literary review of experimental data concerned with the observation of the self-organization of dissipative structures in crystals under irradiation is presented. An influence of irradiation on the stability of the homogeneous distribution of density of point defects and the formation of their dissipative modulated structures on the surface and in the bulk of a solid is considered. Theoretical approaches to the describing of the conditions of formation of such structures are mentioned.",
+		"ru": "Обозреваются литературные данные экспериментальных наблюдений самоорганизации диссипативных структур в кристаллах при облучении. Рассмотрено влияние облучения на устойчивость однородного распределения плотности точечных дефектов и образования ими диссипативных модулированных структур на поверхности и в объёме твёрдого тела. Отмечены теоретические подходы к описанию условий образования таких структур."
+	},
+	"keywords": {
+		"ua": "опромінення, вакансії, нестійкість, самоорганізація, дисипативна структура, модульована структура, нанопори, надґратниця",
+		"en": "radiation, vacancies, instability, self-organization, dissipative structure, modulation structure, nanopores, superlattice",
+		"ru": "излучение, вакансии, неустойчивость, самоорганизация, диссипативная структура, модулированная структура, нанопоры, сверхрешётка"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. В. Олійник", "en": "O. V. Oliinyk", "ru": "Е. В. Олейник"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. А. Татаренко", "en": "V. A. Tatarenko", "ru": "В. А. Татаренко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 130,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Z. Suo and W. Lu, J. Nanoparticles Res., 2, No. 4: 333 (2000).",
+				"tr":  "Z. Suo and W. Lu, J. Nanoparticles Res., 2, No. 4: 333 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "M. C. Roco, S. Williams, and P. Alivisatos, Nanotechnology Research Directors: IWGN Workshop Report: Vision for Nanotechnology Research and Development in the Next Decade (Maryland: WTEC Loyola College: 1999).",
+				"tr":  "M. C. Roco, S. Williams, and P. Alivisatos, Nanotechnology Research Directors: IWGN Workshop Report: Vision for Nanotechnology Research and Development in the Next Decade (Maryland: WTEC Loyola College: 1999)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Хмелевская, Соросовский образовательный журнал, 6, № 6: 85 (2000).",
+				"tr":  "V. S. Khmelevskaya, Sorosovskiy obrazovatel'nyy zhurnal, 6, No. 6: 85 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Амаев, А. М. Крюков, И. М. Неклюдов, А. М. Паршин, П. А. Платонов, А. Н. Тихонов, Н. С. Хлопкин, Я. Л. Штромбах, Радиационная повреждаемость и работоспособность конструкционных материалов (Санкт-Петербург: Политехника: 1997).",
+				"tr":  "A. D. Amaev, A. M. Kryukov, I. M. Neklyudov, A. M. Parshin, P. A. Platonov, A. N. Tikhonov, N. S. Khlopkin, Ya. L. Shtrombakh, Radiatsionnaya povrezhdaemost' i rabotosposobnost' konstruktsionnykh materialov (Sankt-Peterburg: Politekhnika: 1997)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Девятко, В. М. Чернов, А. А. Плясов, С. В. Рогожин, ВАНТ. Сер. Материал. и новые матер., 62, № 1: 288 (2004).",
+				"tr":  "Yu. N. Devyatko, V. M. Chernov, A. A. Plyasov, S. V. Rogozhin, VANT. Ser. Material. i novye mater., 62, No. 1: 288 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Зеленский, И. М. Неклюдов, Л. С. Ожигов, Э. А. Резниченко, В. В. Рожков, Т. П. Черняева, Некоторые проблемы физики радиационных повреждений материалов (Киев: Наукова думка: 1979).",
+				"tr":  "V. F. Zelenskiy, I. M. Neklyudov, L. S. Ozhigov, E. A. Reznichenko, V. V. Rozhkov, T. P. Chernyaeva, Nekotorye problemy fiziki radiatsionnykh povrezhdeniy materialov (Kiev: Naukova dumka: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Николис, И. Пригожин, Самоорганизация в неравновесных физико-химических процессах (Москва: Мир: 1979).",
+				"tr":  "G. Nikolis, I. Prigozhin, Samoorganizatsiya v neravnovesnykh fiziko-khimicheskikh protsessakh (Moskva: Mir: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Хакен, Синергетика (Москва: Мир: 1980).",
+				"tr":  "G. Khaken, Sinergetika (Moskva: Mir: 1980)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Козлов, Физ. элементар. частиц и атом. ядра, 37, вып. 4 : 1110 (2006).",
+				"tr":  "A. V. Kozlov, Fiz. elementar. chastits i atom. yadra, 37, vyp. 4 : 1110 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Й. Сугаков, Основи синерґетики (Київ: Обереги: 2001).",
+				"tr":  "V. Y. Sugakov, Osnovi sinerґetiki (Kiïv: Oberegi: 2001)."
+			},
+			{
+				"doi": "10.1080/01418618108239394",
+				"or":  "K. Krishan, Phil. Mag. A, 43, No. 1: 71 (1981).",
+				"tr":  "K. Krishan, Phil. Mag. A, 43, No. 1: 71 (1981)."
+			},
+			{
+				"doi": "10.1080/01418618508237618",
+				"or":  "M. F. Wehnera and W. G. Wolfer, Philos. Mag. A, 52, No. 2: 189 (1985).",
+				"tr":  "M. F. Wehnera and W. G. Wolfer, Philos. Mag. A, 52, No. 2: 189 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "П. А. Селищев, Металлофиз. новейшие технол., 21, № 9: 11 (1999).",
+				"tr":  "P. A. Selishchev, Metallofiz. noveyshie tekhnol., 21, No. 9: 11 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "П. А. Селищев, Металлы, 1, № 3: 99 (1998).",
+				"tr":  "P. A. Selishchev, Metally, 1, No. 3: 99 (1998)."
+			},
+			{
+				"doi": "10.1016/0022-3115(94)00670-9",
+				"or":  "S. J. Zinkle and L. L. Snead, J. Nucl. Mater., 225, No. 8: 123 (1995).",
+				"tr":  "S. J. Zinkle and L. L. Snead, J. Nucl. Mater., 225, No. 8: 123 (1995)."
+			},
+			{
+				"doi": "10.1016/0022-3115(75)90265-2",
+				"or":  "P. Regnier and L. D. Glowiski, J. Nucl. Mater., 57, No. 2: 245 (1975).",
+				"tr":  "P. Regnier and L. D. Glowiski, J. Nucl. Mater., 57, No. 2: 245 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Jager, P. Ehrhart, and W. Shilling, Solid State Phenomena, 34: 297 (1988).",
+				"tr":  "W. Jager, P. Ehrhart, and W. Shilling, Solid State Phenomena, 34: 297 (1988)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.15-18.881",
+				"or":  "W. Jager, P. Ehrhart, W. Shilling, F. Dworschak, A. A. Gadalla, and N. Tsukuda, Mater. Sci. Forum, 15–18: 881 (1987).",
+				"tr":  "W. Jager, P. Ehrhart, W. Shilling, F. Dworschak, A. A. Gadalla, and N. Tsukuda, Mater. Sci. Forum, 15–18: 881 (1987)."
+			},
+			{
+				"doi": "10.1080/01418618108239534",
+				"or":  "A. Y. Stathopoulos, Philos. Mag. A, 44, No. 2: 285 (1981).",
+				"tr":  "A. Y. Stathopoulos, Philos. Mag. A, 44, No. 2: 285 (1981)."
+			},
+			{
+				"doi": "10.1016/0956-716X(90)90584-4",
+				"or":  "J. S. Vetrano, J. M. Robertson, and M. A. Kirk, Scr. Metall., 24, No. 1: 157 (1990).",
+				"tr":  "J. S. Vetrano, J. M. Robertson, and M. A. Kirk, Scr. Metall., 24, No. 1: 157 (1990)."
+			},
+			{
+				"doi": "10.1080/01418619108204851",
+				"or":  "J. M. Robertson, D. K. Tappin, M. A. Kirk, and M. L. Jenkis, Philos. Mag. A, 63, No. 2: 299 (1991).",
+				"tr":  "J. M. Robertson, D. K. Tappin, M. A. Kirk, and M. L. Jenkis, Philos. Mag. A, 63, No. 2: 299 (1991)."
+			},
+			{
+				"doi": "10.1016/0022-3115(93)90067-9",
+				"or":  "M. L. Jenkins, M. A. Kirk, and W. J. Phythian, J. Nucl. Mater., 205, No. 10: 16 (1993).",
+				"tr":  "M. L. Jenkins, M. A. Kirk, and W. J. Phythian, J. Nucl. Mater., 205, No. 10: 16 (1993)."
+			},
+			{
+				"doi": "10.1080/01418619308219370",
+				"or":  "I. M. Robertson, D. K. Tappin, and M. A. Kirk, Philos. Mag. A, 68, No. 5: 843 (1993).",
+				"tr":  "I. M. Robertson, D. K. Tappin, and M. A. Kirk, Philos. Mag. A, 68, No. 5: 843 (1993)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.23.664",
+				"or":  "P. Jung, Phys. Rev. B, 27, No. 2: 664 (1981).",
+				"tr":  "P. Jung, Phys. Rev. B, 27, No. 2: 664 (1981)."
+			},
+			{
+				"doi": "10.1016/0022-3115(85)90167-9",
+				"or":  "M. W. Guihan, J. H. Kinney, and R. A. Van Konynenburg, J. Nucl. Mater., 133, No. 8: 357 (1985).",
+				"tr":  "M. W. Guihan, J. H. Kinney, and R. A. Van Konynenburg, J. Nucl. Mater., 133, No. 8: 357 (1985)."
+			},
+			{
+				"doi": "10.1016/0022-3115(88)90320-0",
+				"or":  "G. Wallner, M. S. Anand, L. R. Greenwood, M. A. Kirk, W. Mansel, and W. Washkowski, J. Nucl. Mater., 152, No. 2–3: 146 (1988).",
+				"tr":  "G. Wallner, M. S. Anand, L. R. Greenwood, M. A. Kirk, W. Mansel, and W. Washkowski, J. Nucl. Mater., 152, No. 2–3: 146 (1988)."
+			},
+			{
+				"doi": "10.1016/0022-3115(95)00054-2",
+				"or":  "B. N. Singh, A. Horsewell, P. Toft, and D. J. Edwards, J. Nucl. Mater., 224, No. 2: 131 (1995).",
+				"tr":  "B. N. Singh, A. Horsewell, P. Toft, and D. J. Edwards, J. Nucl. Mater., 224, No. 2: 131 (1995)."
+			},
+			{
+				"doi": "10.1016/0022-3115(93)90104-7",
+				"or":  "W. Jager and H. Trikaus, J. Nucl. Mater., 205, No. 10: 394 (1993).",
+				"tr":  "W. Jager and H. Trikaus, J. Nucl. Mater., 205, No. 10: 394 (1993)."
+			},
+			{
+				"doi": "10.1143/JPSJ.38.1220",
+				"or":  "N. Yoshida and M. Kiritani, J. Phys. Soc. Jpn., 38: 1220 (1975).",
+				"tr":  "N. Yoshida and M. Kiritani, J. Phys. Soc. Jpn., 38: 1220 (1975)."
+			},
+			{
+				"doi": "10.1016/0304-3991(91)90214-Q",
+				"or":  "A. Seeger, N. Y. Jin, F. Phillip, and M. Zaiser, Ultramicroscopy, 39, No. 1–4: 342 (1991).",
+				"tr":  "A. Seeger, N. Y. Jin, F. Phillip, and M. Zaiser, Ultramicroscopy, 39, No. 1–4: 342 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Хмелевская, В. Г. Малыкин, Материаловедение, № 2: 25 (1998).",
+				"tr":  "V. S. Khmelevskaya, V. G. Malykin, Materialovedenie, No. 2: 25 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Хмелевская, В. Г. Малынкин, А. В. Накин, Металлофиз. новейшие технол., 26, № 12: 1671 (2004).",
+				"tr":  "V. S. Khmelevskaya, V. G. Malynkin, A. V. Nakin, Metallofiz. noveyshie tekhnol., 26, No. 12: 1671 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Емельянов, П. К. Кошкаров, Физ. твердого тела, 30, № 8: 2259 (1988).",
+				"tr":  "V. I. Emel'yanov, P. K. Koshkarov, Fiz. tverdogo tela, 30, No. 8: 2259 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Диденко, А. Б. Лигачев, К. Б. Куракин, Воздействие пучков заряженных частиц на поверхность металлов и сплавов (Москва: Энергоатомиздат: 1987).",
+				"tr":  "A. N. Didenko, A. B. Ligachev, K. B. Kurakin, Vozdeystvie puchkov zaryazhennykh chastits na poverkhnost' metallov i splavov (Moskva: Energoatomizdat: 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "В. К. Смирнов, С. А. Кривелевич, Д. С. Кибалов, П. А. Лепшин, Тр. Физ.-техн. ин-та РАН, 12: 62 (1997).",
+				"tr":  "V. K. Smirnov, S. A. Krivelevich, D. S. Kibalov, P. A. Lepshin, Tr. Fiz.-tekhn. in-ta RAN, 12: 62 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Castro, R. Cuerno, L. Varquez, and R. Cago, Phys. Rev. Lett., 94, No. 1: 016102/1 (2005).",
+				"tr":  "M. Castro, R. Cuerno, L. Varquez, and R. Cago, Phys. Rev. Lett., 94, No. 1: 016102/1 (2005)."
+			},
+			{
+				"doi": "10.1063/1.125337",
+				"or":  "S. Rusponi, G. Constantini, F. Buatier de Mongeot et al., Appl. Phys. Lett., 75, No. 21: 3318 (1999).",
+				"tr":  "S. Rusponi, G. Constantini, F. Buatier de Mongeot et al., Appl. Phys. Lett., 75, No. 21: 3318 (1999)."
+			},
+			{
+				"doi": "10.1126/science.285.5433.1551",
+				"or":  "S. Facsko, T. Dekorsy, C. Koerdt, C. Trappe, H. Kutz, A. Vogt, and H. L. Har Thagel, Science, 285, No. 9: 1551 (1999).",
+				"tr":  "S. Facsko, T. Dekorsy, C. Koerdt, C. Trappe, H. Kutz, A. Vogt, and H. L. Har Thagel, Science, 285, No. 9: 1551 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Герасименко, Рос. хим. ж., XLVI, № 5: 30 (2002).",
+				"tr":  "N. N. Gerasimenko, Ros. khim. zh., XLVI, No. 5: 30 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Хмелевская, А. В. Корзников, Г. В. Корзникова, М. Н. Кордо, Физ. и химия обработки материалов, № 1: 5 (2010).",
+				"tr":  "V. S. Khmelevskaya, A. V. Korznikov, G. V. Korznikova, M. N. Kordo, Fiz. i khimiya obrabotki materialov, No. 1: 5 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "B. C. Хмелевская, Н. Ю. Богданов, К. А. Горчаков, Физ. и химия обработки материалов, № 5: 8 (2008).",
+				"tr":  "B. C. Khmelevskaya, N. Yu. Bogdanov, K. A. Gorchakov, Fiz. i khimiya obrabotki materialov, No. 5: 8 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Козлов, Е. Н. Щербаков, О. И. Асипцов, Л. А. Скрябин, И. А. Портных, Физ. и химия обработки материалов, № 1: 9 (2006).",
+				"tr":  "A. V. Kozlov, E. N. Shcherbakov, O. I. Asiptsov, L. A. Skryabin, I. A. Portnykh, Fiz. i khimiya obrabotki materialov, No. 1: 9 (2006)."
+			},
+			{
+				"doi": "10.1038/330358a0",
+				"or":  "J. M. Carpenter, Nature, 36, No. 1: 358 (1987).",
+				"tr":  "J. M. Carpenter, Nature, 36, No. 1: 358 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Kinoshita and S. J. Zinkle, J. Nucl. Mater., 233, No. 1, part 1: 100 (1996).",
+				"tr":  "C. Kinoshita and S. J. Zinkle, J. Nucl. Mater., 233, No. 1, part 1: 100 (1996)."
+			},
+			{
+				"doi": "10.1093/oxfordjournals.rpd.a031723",
+				"or":  "G. A. Vikhliy, A. Y. Karpenko, and P. G. Litovchenko, Radiat. Prot. Dosim., 666, part 2: 229 (1996).",
+				"tr":  "G. A. Vikhliy, A. Y. Karpenko, and P. G. Litovchenko, Radiat. Prot. Dosim., 666, part 2: 229 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "D. L. Tetelbaum, E. V. Kurilchik, and N. D. Latisheva, Nucl. Inst. and Meth. in Phys. Research B, 127–128, No. 5: 153 (1997).",
+				"tr":  "D. L. Tetelbaum, E. V. Kurilchik, and N. D. Latisheva, Nucl. Inst. and Meth. in Phys. Research B, 127–128, No. 5: 153 (1997)."
+			},
+			{
+				"doi": "10.1007/BF02647544",
+				"or":  "K. C. Russell and F. A. Garner, Metall. Trans. A, 23, No. 7: 1963 (1992).",
+				"tr":  "K. C. Russell and F. A. Garner, Metall. Trans. A, 23, No. 7: 1963 (1992)."
+			},
+			{
+				"doi": "10.1016/0022-3115(93)90142-L",
+				"or":  "V. S. Khmelevskaya, V. G. Malynkin, and S. P. Solovyev, J. Nucl. Mater., 199, No. 3: 214 (1993).",
+				"tr":  "V. S. Khmelevskaya, V. G. Malynkin, and S. P. Solovyev, J. Nucl. Mater., 199, No. 3: 214 (1993)."
+			},
+			{
+				"doi": "10.1016/0168-583X(86)90020-0",
+				"or":  "F. A. Garner, H. R. Brager, R. A. Dodd, and T. Lauritzen, Nucl. Instr. Meth. Phys. Res. B, 16, Nos. 2–3: 244 (1986).",
+				"tr":  "F. A. Garner, H. R. Brager, R. A. Dodd, and T. Lauritzen, Nucl. Instr. Meth. Phys. Res. B, 16, Nos. 2–3: 244 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "J. H. Evans, Nature, 229, No. 5: 284 (1971).",
+				"tr":  "J. H. Evans, Nature, 229, No. 5: 284 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Щербак, М. И. Захарова, В. Н. Быков, ВАНТ. Сер. Физика радиац. поврежд. и радиац. матер., 3, № 1: 61 (1976).",
+				"tr":  "V. I. Shcherbak, M. I. Zakharova, V. N. Bykov, VANT. Ser. Fizika radiats. povrezhd. i radiats. mater., 3, No. 1: 61 (1976)."
+			},
+			{
+				"doi": "10.1063/1.1661050",
+				"or":  "V. K. Sikka and J. Moteff, J. Appl. Phys., 43, No. 12: 4942 (1972).",
+				"tr":  "V. K. Sikka and J. Moteff, J. Appl. Phys., 43, No. 12: 4942 (1972)."
+			},
+			{
+				"doi": "10.1016/0022-3115(77)90168-4",
+				"or":  "F. W. Wiffen, J. Nucl. Mater., 67, No. 1/2: 119 (1977).",
+				"tr":  "F. W. Wiffen, J. Nucl. Mater., 67, No. 1/2: 119 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "F. W. Wiffen, Proc. Int. Conf. ‘Radiation Induced Voids in Metals’ (Jun. 9–11, 1971) (Albany, Oak Ridge: 1972), p. 386.",
+				"tr":  "F. W. Wiffen, Proc. Int. Conf. 'Radiation Induced Voids in Metals' (Jun. 9–11, 1971) (Albany, Oak Ridge: 1972), p. 386."
+			},
+			{
+				"doi": "10.1080/00337577308232262",
+				"or":  "J. L. Brimhall and G. I. Kulcinski, Radiat. Eff., 20, No. 1: 25 (1973).",
+				"tr":  "J. L. Brimhall and G. I. Kulcinski, Radiat. Eff., 20, No. 1: 25 (1973)."
+			},
+			{
+				"doi": "10.1016/0022-3115(77)90212-4",
+				"or":  "B. A. Loomis, S. B. Gerber, and A. Taylor, J. Nucl. Mater., 68, No. 1: 19 (1977).",
+				"tr":  "B. A. Loomis, S. B. Gerber, and A. Taylor, J. Nucl. Mater., 68, No. 1: 19 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Брык, В. Н. Воеводин, В. Ф. Зеленский, ВАНТ. Сер. Физика радиац. поврежд. и радиац. матер., 6, № 1: 33 (1981).",
+				"tr":  "V. V. Bryk, V. N. Voevodin, V. F. Zelenskiy, VANT. Ser. Fizika radiats. povrezhd. i radiats. mater., 6, No. 1: 33 (1981)."
+			},
+			{
+				"doi": "10.1016/0022-3115(71)90130-9",
+				"or":  "G. L. Kulcinski, J. L. Brimhall, and H. E. Kissinger, J. Nucl. Mater., 40, No. 2: 166 (1971).",
+				"tr":  "G. L. Kulcinski, J. L. Brimhall, and H. E. Kissinger, J. Nucl. Mater., 40, No. 2: 166 (1971)."
+			},
+			{
+				"doi": "10.1016/0022-3115(73)90095-0",
+				"or":  "D. J. Mazey, S. Francis, and J. A. Hudson, J. Nucl. Mater., 47, No. 2: 137 (1973).",
+				"tr":  "D. J. Mazey, S. Francis, and J. A. Hudson, J. Nucl. Mater., 47, No. 2: 137 (1973)."
+			},
+			{
+				"doi": "10.1209/0295-5075/11/6/011",
+				"or":  "P. Fratzl, S. Klaumunzer, M. Rammensee, and G. Vogl, Europhys. Lett., 11, No. 6: 547.",
+				"tr":  "P. Fratzl, S. Klaumunzer, M. Rammensee, and G. Vogl, Europhys. Lett., 11, No. 6: 547."
+			},
+			{
+				"doi": "10.1080/00337577708237467",
+				"or":  "S. B. Fisher and K. R. Williams, Radiat. Eff., 32, Nos. 1–2: 123 (1977).",
+				"tr":  "S. B. Fisher and K. R. Williams, Radiat. Eff., 32, Nos. 1–2: 123 (1977)."
+			},
+			{
+				"doi": "10.1016/0022-3115(78)90042-9",
+				"or":  "L. J. Chen and A. J. Ardell, J. Nucl. Mater., 75, No. 1: 177 (1978).",
+				"tr":  "L. J. Chen and A. J. Ardell, J. Nucl. Mater., 75, No. 1: 177 (1978)."
+			},
+			{
+				"doi": "10.1023/A:1015062218246",
+				"or":  "N. M. Ghoniem, D. Walgraef, and S. J. Zinkle, J. Comput.-Aided Mater. Des., 8: 1 (2002).",
+				"tr":  "N. M. Ghoniem, D. Walgraef, and S. J. Zinkle, J. Comput.-Aided Mater. Des., 8: 1 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Зеленский, И. М. Неклюдов, Т. П. Черняева, Радиационные дефекты и распухание металлов (Киев: Наукова думка: 1988).",
+				"tr":  "V. F. Zelenskiy, I. M. Neklyudov, T. P. Chernyaeva, Radiatsionnye defekty i raspukhanie metallov (Kiev: Naukova dumka: 1988)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Сугаков, ВАНТ. Сер. Физика радиац. поврежд. и радиац. матер., 16, № 2: 71 (1981).",
+				"tr":  "V. I. Sugakov, VANT. Ser. Fizika radiats. povrezhd. i radiats. mater., 16, No. 2: 71 (1981)."
+			},
+			{
+				"doi": "10.1002/pssb.2221260230",
+				"or":  "V. N. Rudko and V. I. Sugakov, phys. status solidi (b), 126, No. 2: 703 (1984).",
+				"tr":  "V. N. Rudko and V. I. Sugakov, phys. status solidi (b), 126, No. 2: 703 (1984)."
+			},
+			{
+				"doi": "10.1080/14786437308226888",
+				"or":  "K. Hiraga, Philos. Mag., 27, No. 6: 1301 (1973).",
+				"tr":  "K. Hiraga, Philos. Mag., 27, No. 6: 1301 (1973)."
+			},
+			{
+				"doi": "10.1016/0001-6160(74)90018-2",
+				"or":  "P. Jung and K. Trenginger, Acta Metall., 22, No. 8: 937 (1974).",
+				"tr":  "P. Jung and K. Trenginger, Acta Metall., 22, No. 8: 937 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "R. W. Cahn and P. Haasen, Physical Metallurgy (Amsterdam: North-Holland: 1996).",
+				"tr":  "R. W. Cahn and P. Haasen, Physical Metallurgy (Amsterdam: North-Holland: 1996)."
+			},
+			{
+				"doi": "10.1016/0022-3115(79)90621-4",
+				"or":  "K. Y. Liou, H. V. Smith, Jr., P. Wilkes, and G. L. Kulcinski, J. Nucl. Mater., 83, No. 2: 3352 (1979).",
+				"tr":  "K. Y. Liou, H. V. Smith, Jr., P. Wilkes, and G. L. Kulcinski, J. Nucl. Mater., 83, No. 2: 3352 (1979)."
+			},
+			{
+				"doi": "10.1520/STP35446S",
+				"or":  "B. L. Eyre and J. H. Evans, The Symposium on Effects of Radiation on Substructure and Mechanical Properties of Metals and Alloys (Los Angeles, CA, 26–28 June 1972) (Tallahassee, Florida: ASTM: 1973), p. 184.",
+				"tr":  "B. L. Eyre and J. H. Evans, The Symposium on Effects of Radiation on Substructure and Mechanical Properties of Metals and Alloys (Los Angeles, CA, 26–28 June 1972) (Tallahassee, Florida: ASTM: 1973), p. 184."
+			},
+			{
+				"doi": "10.1080/00337577308232262",
+				"or":  "J. L. Brimhall and G. L. Kulcinski, Radiat. Eff., 20, Nos. 1–2: 25 (1973).",
+				"tr":  "J. L. Brimhall and G. L. Kulcinski, Radiat. Eff., 20, Nos. 1–2: 25 (1973)."
+			},
+			{
+				"doi": "10.1016/0022-3115(73)90096-2",
+				"or":  "B. L. Eyre and A. F. Bartlett, J. Nucl. Mater., 47, No. 2: 143 (1973).",
+				"tr":  "B. L. Eyre and A. F. Bartlett, J. Nucl. Mater., 47, No. 2: 143 (1973)."
+			},
+			{
+				"doi": "10.1016/0036-9748(76)90262-3",
+				"or":  "J. H. Evans, Scr. Metall., 10, No. 6: 561 (1976).",
+				"tr":  "J. H. Evans, Scr. Metall., 10, No. 6: 561 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "V. N. Kuzovkov, E. A. Kotomin, G. Zvejnieks, K. D. Li, and L. M. Wang, Advanced in Materials Science Research (New York: Nova Science Publ. Inc.: 2011), vol. 2, p. 191.",
+				"tr":  "V. N. Kuzovkov, E. A. Kotomin, G. Zvejnieks, K. D. Li, and L. M. Wang, Advanced in Materials Science Research (New York: Nova Science Publ. Inc.: 2011), vol. 2, p. 191."
+			},
+			{
+				"doi": "10.1016/0022-3115(74)90179-2",
+				"or":  "J. L. Brimhall and W. P. Simonen, J. Nucl. Mater., 52, No. 2: 323 (1974).",
+				"tr":  "J. L. Brimhall and W. P. Simonen, J. Nucl. Mater., 52, No. 2: 323 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "J. F. Stubbins, Heavy Ion Induced Radiation Damage and Void Formation in Molybdenum and Its Alloys (PhD Thesis) (Cincinnati: University of Cincinnati: 1975).",
+				"tr":  "J. F. Stubbins, Heavy Ion Induced Radiation Damage and Void Formation in Molybdenum and Its Alloys (PhD Thesis) (Cincinnati: University of Cincinnati: 1975)."
+			},
+			{
+				"doi": "10.1016/0022-3115(74)90144-5",
+				"or":  "V. K. Sikka and J. Moteff, J. Nucl. Mater., 54, No. 2: 325 (1974).",
+				"tr":  "V. K. Sikka and J. Moteff, J. Nucl. Mater., 54, No. 2: 325 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Nakajima, S. Yoshida, Y. Kohno, and H. Matsui, J. Nucl. Mater., 191–194, part B: 952 (1992).",
+				"tr":  "H. Nakajima, S. Yoshida, Y. Kohno, and H. Matsui, J. Nucl. Mater., 191–194, part B: 952 (1992)."
+			},
+			{
+				"doi": "10.1016/0022-3115(81)90556-0",
+				"or":  "B. A. Loomis and S. B. Gerber, J. Nucl. Mater.,102, Nos. 1–2: 154 (1981).",
+				"tr":  "B. A. Loomis and S. B. Gerber, J. Nucl. Mater.,102, Nos. 1–2: 154 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Щербак, ВАНТ. Сер. Физика радиац. поврежд. и радиац. матер., 6, вып. 3: 27 (1979).",
+				"tr":  "V. I. Shcherbak, VANT. Ser. Fizika radiats. povrezhd. i radiats. mater., 6, vyp. 3: 27 (1979)."
+			},
+			{
+				"doi": "10.1016/0022-3115(96)80017-1",
+				"or":  "M. K. Miller, R. E. Stoller, and K. F. Russell, J. Nucl. Mater., 230, Nos. 2–3: 219 (1996).",
+				"tr":  "M. K. Miller, R. E. Stoller, and K. F. Russell, J. Nucl. Mater., 230, Nos. 2–3: 219 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Брык, ВАНТ. Сер. Физика радиац. поврежд. и радиац. матер., 77, № 2: 97 (2000).",
+				"tr":  "V. V. Bryk, VANT. Ser. Fizika radiats. povrezhd. i radiats. mater., 77, No. 2: 97 (2000)."
+			},
+			{
+				"doi": "10.1080/14786437308228921",
+				"or":  "J. E. Harbottle, Philos. Mag., 27, No. 1: 147 (1973).",
+				"tr":  "J. E. Harbottle, Philos. Mag., 27, No. 1: 147 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Колотушкин, А. А. Парфенов, Металлы, № 2: 1 (2010).",
+				"tr":  "V. P. Kolotushkin, A. A. Parfenov, Metally, No. 2: 1 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Брык, ВАНТ. Сер. Физика радиац. поврежд. и радиац. матер., 82, № 6: 165 (2002).",
+				"tr":  "V. V. Bryk, VANT. Ser. Fizika radiats. povrezhd. i radiats. mater., 82, No. 6: 165 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Stoneham, Proc. of an Inter. Conf. ‘Fundamental Aspects of Radiation Damages in Metals’ (Oct. 6–10, 1975, Gatlinburg, Tennessee, USA) (ERDA-CONF-751006P1: 1975), vol. 2, p. 1221–1235.",
+				"tr":  "A. M. Stoneham, Proc. of an Inter. Conf. 'Fundamental Aspects of Radiation Damages in Metals' (Oct. 6–10, 1975, Gatlinburg, Tennessee, USA) (ERDA-CONF-751006P1: 1975), vol. 2, p. 1221–1235."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Сугаков, П. А. Селищев, Физ. твердого тела, 28, вып. 10: 2921 (1986).",
+				"tr":  "V. I. Sugakov, P. A. Selishchev, Fiz. tverdogo tela, 28, vyp. 10: 2921 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. П. Гайдар, А. П. Долголенко, П. Г. Литовченко, ВАНТ. Сер. Физика радиац. поврежд. и радиац. матер., 94, № 2–4: 263 (2009).",
+				"tr":  "G. P. Gaydar, A. P. Dolgolenko, P. G. Litovchenko, VANT. Ser. Fizika radiats. povrezhd. i radiats. mater., 94, No. 2–4: 263 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Mallen and R. Bullough, Proc. of European Conf. ‘Voids Formed by Irradiation of Reactor Materials’ (Mar. 24–25, 1971, Reading Univ.) (London: British Nuclear Energy Society: 1971), p. 323.",
+				"tr":  "K. Mallen and R. Bullough, Proc. of European Conf. 'Voids Formed by Irradiation of Reactor Materials' (Mar. 24–25, 1971, Reading Univ.) (London: British Nuclear Energy Society: 1971), p. 323."
+			},
+			{
+				"doi": "10.1016/0036-9748(76)90312-4",
+				"or":  "R. Chang, Scr. Metall., 10, No. 9: 861 (1976).",
+				"tr":  "R. Chang, Scr. Metall., 10, No. 9: 861 (1976)."
+			},
+			{
+				"doi": "10.1016/0036-9748(76)90189-7",
+				"or":  "R. Chang, Scr. Metall., 10, No. 7: 611 (1976).",
+				"tr":  "R. Chang, Scr. Metall., 10, No. 7: 611 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Flocken and J. R. Hardy, Phys. Rev., 177, No. 1: 1054 (1986).",
+				"tr":  "W. Flocken and J. R. Hardy, Phys. Rev., 177, No. 1: 1054 (1986)."
+			},
+			{
+				"doi": "10.1016/0036-9748(73)90179-8",
+				"or":  "A. T. Winter, Scr. Metall., 7, No. 1: 49 (1973).",
+				"tr":  "A. T. Winter, Scr. Metall., 7, No. 1: 49 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Martin, J. Phys. Colloques, 38, No. C7: C7-419–C7-429 (1977).",
+				"tr":  "G. Martin, J. Phys. Colloques, 38, No. C7: C7-419–C7-429 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. А. Максимов, А. И. Рязанов, Физ. мет. металловед., 41, вып. 2: 284 (1976).",
+				"tr":  "L. A. Maksimov, A. I. Ryazanov, Fiz. met. metalloved., 41, vyp. 2: 284 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "A. J. E. Foreman, UK Atomic Energy Authority Harwell Report No. AERE-R-7135 (1972).",
+				"tr":  "A. J. E. Foreman, UK Atomic Energy Authority Harwell Report No. AERE-R-7135 (1972)."
+			},
+			{
+				"doi": "10.1016/0375-9601(72)90936-X",
+				"or":  "A. A. Lucas, Phys. Lett. A, 41, No. 4: 375 (1972).",
+				"tr":  "A. A. Lucas, Phys. Lett. A, 41, No. 4: 375 (1972)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.7.3527",
+				"or":  "A. A. Lucas, Phys. Rev. B, 7, No. 8: 3527 (1973).",
+				"tr":  "A. A. Lucas, Phys. Rev. B, 7, No. 8: 3527 (1973)."
+			},
+			{
+				"doi": "10.1063/1.322308",
+				"or":  "F. V. Nolfi, J. Appl. Phys., 47, No. 1: 24 (1976).",
+				"tr":  "F. V. Nolfi, J. Appl. Phys., 47, No. 1: 24 (1976)."
+			},
+			{
+				"doi": "10.1016/0036-9748(72)90209-8",
+				"or":  "L. M. Brown, Scr. Metall., 6, No. 5: 387 (1972).",
+				"tr":  "L. M. Brown, Scr. Metall., 6, No. 5: 387 (1972)."
+			},
+			{
+				"doi": "10.1088/0305-4608/1/6/311",
+				"or":  "A. M. Stoneham, J. Phys. F: Metal Phys., 1, No. 6:778 (1971).",
+				"tr":  "A. M. Stoneham, J. Phys. F: Metal Phys., 1, No. 6:778 (1971)."
+			},
+			{
+				"doi": "10.1016/0022-3115(83)90195-2",
+				"or":  "J. H. Evans, J. Nucl. Mater., 119, Nos. 2–3: 180 (1983).",
+				"tr":  "J. H. Evans, J. Nucl. Mater., 119, Nos. 2–3: 180 (1983)."
+			},
+			{
+				"doi": "10.1016/0022-3115(85)90044-3",
+				"or":  "C. H. Woo and W. J. Frank, J. Nucl. Mater., 137, No. 1: 7 (1985).",
+				"tr":  "C. H. Woo and W. J. Frank, J. Nucl. Mater., 137, No. 1: 7 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Красильников, В. Ф. Клепиков, С. Е. Савотченко, А. А. Пархоменко, ВАНТ. Сер. Физика радиац. поврежд. и радиац. матер., 88, № 5: 26 (2005).",
+				"tr":  "V. V. Krasil'nikov, V. F. Klepikov, S. E. Savotchenko, A. A. Parkhomenko, VANT. Ser. Fizika radiats. povrezhd. i radiats. mater., 88, No. 5: 26 (2005)."
+			},
+			{
+				"doi": "10.1080/00337578208222474",
+				"or":  "K. Krishan, Radiat. Eff., 66, Nos. 3–4: 121 (1982).",
+				"tr":  "K. Krishan, Radiat. Eff., 66, Nos. 3–4: 121 (1982)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.67.064103",
+				"or":  "D. Walgraef and N. M. Ghoiem, Phys. Rev. B, 67, No. 6: 064103 (2003).",
+				"tr":  "D. Walgraef and N. M. Ghoiem, Phys. Rev. B, 67, No. 6: 064103 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Конобеев, Тр. конф. ‘Реакторное материаловедение’ (29 мая–1 июня 1978) (Москва: ИНТИИАИ: 1978), т. 1, с. 296.",
+				"tr":  "Yu. V. Konobeev, Tr. konf. 'Reaktornoe materialovedenie' (29 maya–1 iyunya 1978) (Moskva: INTIIAI: 1978), t. 1, s. 296."
+			},
+			{
+				"doi": "10.1016/j.actamat.2004.12.029",
+				"or":  "Hui-Chia Yu and Wei Lu, Acta Mater., 53, No. 6: 1799 (2005).",
+				"tr":  "Hui-Chia Yu and Wei Lu, Acta Mater., 53, No. 6: 1799 (2005)."
+			},
+			{
+				"doi": "10.1143/JPSJ.45.1443",
+				"or":  "M. Imada, J. Phys. Soc. Jpn., 45: 1443 (1978).",
+				"tr":  "M. Imada, J. Phys. Soc. Jpn., 45: 1443 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Конобеев, Физ. твердого тела, 20, вып. 5: 1560 (1978).",
+				"tr":  "Yu. V. Konobeev, Fiz. tverdogo tela, 20, vyp. 5: 1560 (1978)."
+			},
+			{
+				"doi": "10.1016/0001-6160(71)90131-3",
+				"or":  "K. C. Russell, Acta Metall., 19, No. 8: 753 (1971).",
+				"tr":  "K. C. Russell, Acta Metall., 19, No. 8: 753 (1971)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.21.2122",
+				"or":  "G. Martin, Phys. Rev. B, 21, No. 6: 2122 (1980).",
+				"tr":  "G. Martin, Phys. Rev. B, 21, No. 6: 2122 (1980)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/SSP.3-4.321",
+				"or":  "C. Abromeit and G. Martin, Solid State Phenomena, 3–4: 321 (1991).",
+				"tr":  "C. Abromeit and G. Martin, Solid State Phenomena, 3–4: 321 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Елесин, А. И. Подливаев, Физ. мет. металловед., 81, № 5: 27 (1996).",
+				"tr":  "V. F. Elesin, A. I. Podlivaev, Fiz. met. metalloved., 81, No. 5: 27 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Елесин, Письма в ЖЭТФ, 59, вып. 7: 451 (1984).",
+				"tr":  "V. F. Elesin, Pis'ma v ZhETF, 59, vyp. 7: 451 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Емельянов, И. М. Панин, Физ. твердого тела, 39, № 11: 2029 (1997).",
+				"tr":  "V. I. Emel'yanov, I. M. Panin, Fiz. tverdogo tela, 39, No. 11: 2029 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Емельянов, И. Ф. Уварова, Металлофизика, 11, № 5: 101 (1989).",
+				"tr":  "V. I. Emel'yanov, I. F. Uvarova, Metallofizika, 11, No. 5: 101 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Х. Мирзоев, Современные лазерно-информационные и лазерные технологии (Шатура: Интерконтакт Наука: 2005), с. 62.",
+				"tr":  "F. Kh. Mirzoev, Sovremennye lazerno-informatsionnye i lazernye tekhnologii (Shatura: Interkontakt Nauka: 2005), s. 62."
+			},
+			{
+				"doi": "",
+				"or":  "В. Л. Орлов, А. В. Орлов, Ползуновский вестник, № 4-1: 136 (2005).",
+				"tr":  "V. L. Orlov, A. V. Orlov, Polzunovskiy vestnik, No. 4-1: 136 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Орлов, Научная сессия МИФИ, 14: 161 (2003).",
+				"tr":  "A. V. Orlov, Nauchnaya sessiya MIFI, 14: 161 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Михайловский, В. И. Сугаков, О. Н. Шевцова, П. Г. Литовченко, А. Я. Карпенко, Г. А. Вихлий, ВАНТ. Сер. Физика радиац. поврежд. и радиац. матер., 90, № 2: 55 (2007).",
+				"tr":  "V. V. Mikhaylovskiy, V. I. Sugakov, O. N. Shevtsova, P. G. Litovchenko, A. Ya. Karpenko, G. A. Vikhliy, VANT. Ser. Fizika radiats. povrezhd. i radiats. mater., 90, No. 2: 55 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "П. А. Селищев, Самоорганизация в радиационной физике (Киев: Аспект-Полиграф: 2004).",
+				"tr":  "P. A. Selishchev, Samoorganizatsiya v radiatsionnoy fizike (Kiev: Aspekt-Poligraf: 2004)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Сугаков, О сверхрешетках плотности дефектов в облучаемых кристаллах (Киев: 1984) (Препринт/АН УССР. Институт теоретической физики. ИТФ-84-70).",
+				"tr":  "V. I. Sugakov, O sverkhreshetkakh plotnosti defektov v obluchaemykh kristallakh (Kiev: 1984) (Preprint/AN USSR. Institut teoreticheskoy fiziki. ITF-84-70)."
+			},
+			{
+				"doi": "",
+				"or":  "П. А. Селищев, В. И. Сугаков, Физ. твердого тела, 30, № 9: 2611 (1998).",
+				"tr":  "P. A. Selishchev, V. I. Sugakov, Fiz. tverdogo tela, 30, No. 9: 2611 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "П. А. Селищев, Физ. и техн. полупроводников, 35, вып. 1: 11 (2001).",
+				"tr":  "P. A. Selishchev, Fiz. i tekhn. poluprovodnikov, 35, vyp. 1: 11 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Михайловский, К. С. Расселл, В. И. Сугаков, Физ. твердого тела, 42, вып. 3: 471 (2000).",
+				"tr":  "V. V. Mikhaylovskiy, K. S. Rassell, V. I. Sugakov, Fiz. tverdogo tela, 42, vyp. 3: 471 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Кривоглаз, Дифракция рентгеновских лучей и нейтронов в неидеальных кристаллах (Киев: Наукова думка: 1983).",
+				"tr":  "M. A. Krivoglaz, Difraktsiya rentgenovskikh luchey i neytronov v neideal'nykh kristallakh (Kiev: Naukova dumka: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Лейбфрид, Н. Бройер, Точечные дефекты в металлах (Москва: Мир: 1981).",
+				"tr":  "G. Leybfrid, N. Broyer, Tochechnye defekty v metallakh (Moskva: Mir: 1981)."
+			},
+			{
+				"doi": "",
+				"or":  "П. О. Селищев, Д. В. Щур, Вісник Київського університету. Сер. фізико-математичних наук, 1, № 2: 505 (1999).",
+				"tr":  "P. O. Selishchev, D. V. Shchur, Vіsnik Kyivs'kogo unіversitetu. Ser. fіziko-matematichnikh nauk, 1, No. 2: 505 (1999)."
+			}
+		]
+	}
+}

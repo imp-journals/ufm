@@ -1,0 +1,384 @@
+{
+	"_id":    "UFM.10.04.389",
+	"year":   2009,
+	"volume": 10,
+	"issue":  4,
+	"pages":  [389,414],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["19.05.2009"],
+	"PACS":   "61.72.-y, 62.20.F-, 64.70.kd, 81.40.Jj, 81.40.Lm, 81.70.Bt, 83.50.-v",
+	"title":   {
+		"ua": "Структурно-фазові перетворення у загартованій конструкційній сталі за деформації",
+		"en": "Structure-Phase Transformations in the Quenched Constructional Steel at Deformation",
+		"ru": "Структурно-фазовые превращения в закаленной конструкционной стали при деформации"
+	},
+	"abstract": {
+		"ua": "Методами просвітної дифракційної електронної мікроскопії та рентґеноструктурної аналізи вивчено процес пластичної деформації загартованої конструкційної сталі 38ХН3МФА. Виявлено стадійність деформаційної кривої за стиснення. Встановлено та проаналізовано місця локалізації деформації — канали деформації, що мають поперечні розміри 0,5 мкм, а поздовжні — кілька мікрон. Розміри фраґментів у каналах деформації складають 50–100 нм. Зі збільшенням ступеня деформації спостерігається зменшення поздовжніх розмірів кристалів мартенситу і збільшення густини мікродвійників, скалярної і надлишкової густини дислокацій, амплітуди далекосяжних полів напружень. Встановлено можливі місця локалізації атомів вуглецю в структурі сталі. Показано, що зі збільшенням ступеня деформації сумарна кількість атомів вуглецю, розташованих у твердих розчинах на основі $\\alpha$- або $\\gamma$-заліза, знижується, а на дефектах структури — збільшується.",
+		"en": "The process of plastic deformation of quenched constructional 38CrNi3MoV (0.38% C, < 1% Cr, 3% Ni, < 1% Mo, < 1% V) steel is studied by methods of transmission electron diffraction microscopy and X-ray structure analysis. The stages of deformation curves are revealed during the steel compression. Deformation localization places, namely, deformation channels having the transverse size of 0.5 $\\mu$m and longitudinal ones of some microns, are revealed and analysed. In deformation channels, there are fragments with sizes of 50-100 nm. Longitudinal fragment sizes of martensite crystals are decreased, and microtwins’ density, scalar and excess dislocation density, amplitude of long-range stress fields are increased with the deformation-degree growth. The possible places of carbon-atoms localization in the steel structure are determined. As shown, the total quantity of carbon atoms located in the solid solutions based on $\\alpha$- or $\\gamma$-Fe is increased, and it is decreased on the structure defects with the growth of deformation degree.",
+		"ru": "Методами просвечивающей дифракционной электронной микроскопии и рентгеноструктурного анализа изучен процесс пластической деформации закаленной конструкционной стали 38ХН3МФА. Выявлена стадийность деформационной кривой при сжатии. Установлены и проанализированы места локализации деформации — каналы деформации, имеющие поперечные размеры 0,5 мкм, а продольные — несколько микрон. Размеры фрагментов в каналах деформации составляют 50–100 нм. С увеличением степени деформации наблюдается уменьшение продольных размеров кристаллов мартенсита и увеличение плотности микродвойников, скалярной и избыточной плотности дислокаций, амплитуды дальнодействующих полей напряжений. Установлены возможные места локализации атомов углерода в структуре стали. Показано, что с увеличением степени деформации суммарное количество атомов углерода, расположенных в твердых растворах на основе $\\alpha$- или $\\gamma$-железа, снижается, а на дефектах структуры — увеличивается."
+	},
+	"keywords": {
+		"ua": "загартована сталь (криця), деформація, льокалізація вуглецю (Карбону)",
+		"en": "hardened steel, deformation, carbon localization",
+		"ru": "закаленная сталь, деформация, локализация углерода"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. Ф. Іванов", "en": "Yu. F. Ivanov", "ru": "Ю. Ф. Иванов"},
+			"OID": [408]
+		},
+		{
+			"AID": {"ua": "Є. В. Корнет", "en": "E. V. Cornet", "ru": "Е. В. Корнет"},
+			"OID": [407]
+		},
+		{
+			"AID": {"ua": "В. Є. Громов", "en": "V. E. Gromov", "ru": "В. Е. Громов"},
+			"OID": [407]
+		},
+		{
+			"AID": {"ua": "С. В. Коновалов", "en": "S. V. Konovalov", "ru": "С. В. Коновалов"},
+			"OID": [407]
+		}
+	],
+	"references": {
+		"count": 67,
+				"list":  [
+			{
+				"doi": "",
+				"or":  "М. Е. Блантер, Фазовые превращения при термической обработке стали (Москва: Металлургия: 1962).",
+				"tr":  "M. E. Blanter, Fazovye prevrashcheniya pri termicheskoy obrabotke stali (Moskva: Metallurgiya: 1962)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. Гудремон, Специальные стали (Москва: Металлургия: 1966), т. 1, 2.",
+				"tr":  "E. Gudremon, Spetsial'nye stali (Moskva: Metallurgiya: 1966), t. 1, 2."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Курдюмов, Л. М. Утевский, Р. И. Энтин, Превращения в железе и стали (Москва: Наука: 1977).",
+				"tr":  "V. G. Kurdyumov, L. M. Utevskiy, R. I. Entin, Prevrashcheniya v zheleze i stali (Moskva: Nauka: 1977)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Меськин, Основы легирования стали (Москва: Металлургия: 1964).",
+				"tr":  "V. S. Mes'kin, Osnovy legirovaniya stali (Moskva: Metallurgiya: 1964)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Лысак, Б. И. Николин, Физические основы термической обработки стали (Киев: Техника: 1975).",
+				"tr":  "L. I. Lysak, B. I. Nikolin, Fizicheskie osnovy termicheskoy obrabotki stali (Kiev: Tekhnika: 1975)."
+			},
+			{
+				"doi": "",
+				"or":  "Высоколегированные стали (ред. А. Г. Рахштадт) (Москва: Металлургия: 1969).",
+				"tr":  "Vysokolegirovannye stali (red. A. G. Rakhshtadt) (Moskva: Metallurgiya: 1969)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Новиков, Теория термической обработки металлов (Москва: Металлургия: 1978).",
+				"tr":  "I. I. Novikov, Teoriya termicheskoy obrabotki metallov (Moskva: Metallurgiya: 1978)."
+			},
+			{
+				"doi": "",
+				"or":  "Технология термической обработки стали (Москва: Металлургия: 1981).",
+				"tr":  "Tekhnologiya termicheskoy obrabotki stali (Moskva: Metallurgiya: 1981)."
+			},
+			{
+				"doi": "",
+				"or":  "Металловедение и термическая обработка стали: Справочное издание (Москва: Металлургия: 1983).",
+				"tr":  "Metallovedenie i termicheskaya obrabotka stali: Spravochnoe izdanie (Moskva: Metallurgiya: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Счастливцев, Д. А. Мирзаев, И. Л. Яковлева, Структура термически обработанной стали (Москва: Металлургия: 1994).",
+				"tr":  "V. M. Schastlivtsev, D. A. Mirzaev, I. L. Yakovleva, Struktura termicheski obrabotannoy stali (Moskva: Metallurgiya: 1994)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Л. Бернштейн, Л. М. Капуткина, С. Д. Прокошкин, Отпуск стали (Москва: МИСИС: 1997).",
+				"tr":  "M. L. Bernshteyn, L. M. Kaputkina, S. D. Prokoshkin, Otpusk stali (Moskva: MISIS: 1997)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Счастливцев, Д. А. Мирзаев, И. Л. Яковлева и др., Перлит в углеродистых сталях (Екатеринбург: УрО РАН: 2006).",
+				"tr":  "V. M. Schastlivtsev, D. A. Mirzaev, I. L. Yakovleva et al., Perlit v uglerodistykh stalyakh (Ekaterinburg: UrO RAN: 2006)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Л. Бернштейн, Структура деформированных металлов (Москва: Металлургия: 1977).",
+				"tr":  "M. L. Bernshteyn, Struktura deformirovannykh metallov (Moskva: Metallurgiya: 1977)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Л. Бернштейн, Термомеханическая обработка металлов и сплавов (Москва: Металлургия: 1968).",
+				"tr":  "M. L. Bernshteyn, Termomekhanicheskaya obrabotka metallov i splavov (Moskva: Metallurgiya: 1968)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Васильева, Деформационное упрочнение закаленных конструкционных сталей (Москва: Металлургия: 1981).",
+				"tr":  "A. G. Vasil'eva, Deformatsionnoe uprochnenie zakalennykh konstruktsionnykh staley (Moskva: Metallurgiya: 1981)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Л. Бернштейн, В. А. Займовский, Л. М. Капуткина, Термомеханическая обработка стали (Москва: Металлургия: 1983).",
+				"tr":  "M. L. Bernshteyn, V. A. Zaymovskiy, L. M. Kaputkina, Termomekhanicheskaya obrabotka stali (Moskva: Metallurgiya: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Голованенко, Н. М. Фонштейн, Двухфазные низколегированные стали (Москва: Металлургия: 1986).",
+				"tr":  "S. A. Golovanenko, N. M. Fonshteyn, Dvukhfaznye nizkolegirovannye stali (Moskva: Metallurgiya: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Б. Юрьев, В. Е. Громов, Б. М. Лебошкин и др., Формирование и эволюция структурно-фазовых состояний и свойства сталей в современных технологиях обработки давлением (Новосибирск: Наука: 2003).",
+				"tr":  "A. B. Yur'ev, V. E. Gromov, B. M. Leboshkin et al., Formirovanie i evolyutsiya strukturno-fazovykh sostoyaniy i svoystva staley v sovremennykh tekhnologiyakh obrabotki davleniem (Novosibirsk: Nauka: 2003)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Громов, Э. В. Козлов, В. И. Базайкин и др., Физика и механика волочения и объемной штамповки (Москва: Недра: 1997).",
+				"tr":  "V. E. Gromov, E. V. Kozlov, V. I. Bazaykin et al., Fizika i mekhanika volocheniya i ob\"emnoy shtampovki (Moskva: Nedra: 1997)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Б. Пикеринг, Физическое металловедение и обработка сталей (Москва: Металлургия: 1982).",
+				"tr":  "F. B. Pikering, Fizicheskoe metallovedenie i obrabotka staley (Moskva: Metallurgiya: 1982)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Тушинский, Теория и технология упрочнения металлических сплавов (Новосибирск: Наука: 1990).",
+				"tr":  "L. I. Tushinskiy, Teoriya i tekhnologiya uprochneniya metallicheskikh splavov (Novosibirsk: Nauka: 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Тушинский, А. А. Батаев, Л. Б. Тихомирова, Структура перлита и конструктивная прочность стали (Новосибирск: Наука: 1993).",
+				"tr":  "L. I. Tushinskiy, A. A. Bataev, L. B. Tikhomirova, Struktura perlita i konstruktivnaya prochnost' stali (Novosibirsk: Nauka: 1993)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Приданцев, Л. Н. Давыдова, И. А. Тамарина, Конструкционные стали: Справочник (Москва: Металлургия: 1980).",
+				"tr":  "M. V. Pridantsev, L. N. Davydova, I. A. Tamarina, Konstruktsionnye stali: Spravochnik (Moskva: Metallurgiya: 1980)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, В. Ф. Моисеев, Э. П. Печковский и др., Деформационное упрочнение и разрушение поликристаллических металлов (Киев: Наукова думка: 1987).",
+				"tr":  "V. I. Trefilov, V. F. Moiseev, E. P. Pechkovskiy et al., Deformatsionnoe uprochnenie i razrushenie polikristallicheskikh metallov (Kiev: Naukova dumka: 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Конева, Д. В. Лычагин, С. П. Жуковский и др., ФММ, 60, вып. 1: 171 (1985).",
+				"tr":  "N. A. Koneva, D. V. Lychagin, S. P. Zhukovskiy et al., Fizika Metallov Metalloved., 60, No. 1: 171 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. В. Козлов, Н. А. Попова, Ю. Ф. Иванов и др., Известия ВУЗов. Физика, № 10: 13 (1992).",
+				"tr":  "E. V. Kozlov, N. A. Popova, Yu. F. Ivanov et al., Izvestiya VUZov. Fizika, No. 10: 13 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Э. В. Козлов, Известия ВУЗов. Черная металлургия, № 8: 38 (1991).",
+				"tr":  "Yu. F. Ivanov, E. V. Kozlov, Izvestiya VUZov. Chernaya metallurgiya, No. 8: 38 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Э. В. Козлов, Термическая обработка и физика металлов, № 15: 27 (1990).",
+				"tr":  "Yu. F. Ivanov, E. V. Kozlov, Termicheskaya obrabotka i fizika metallov, No. 15: 27 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Э. В. Козлов, Известия ВУЗов. Черная металлургия, № 6: 50 (1991).",
+				"tr":  "Yu. F. Ivanov, E. V. Kozlov, Izvestiya VUZov. Chernaya metallurgiya, No. 6: 50 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Э. В. Козлов, ФММ, № 11: 202 (1991).",
+				"tr":  "Yu. F. Ivanov, E. V. Kozlov, Fizika Metallov Metalloved., No. 11: 202 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, ФММ, № 9: 57 (1992).",
+				"tr":  "Yu. F. Ivanov, Fizika Metallov Metalloved., No. 9: 57 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Известия ВУЗов. Черная металлургия, № 10: 52 (1995).",
+				"tr":  "Yu. F. Ivanov, Izvestiya VUZov. Chernaya metallurgiya, No. 10: 52 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Известия ВУЗов. Черная металлургия, № 12: 33 (1995).",
+				"tr":  "Yu. F. Ivanov, Izvestiya VUZov. Chernaya metallurgiya, No. 12: 33 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Э. В. Козлов, Материаловедение, № 11: 33 (2000).",
+				"tr":  "Yu. F. Ivanov, E. V. Kozlov, Materialovedenie, No. 11: 33 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Э. В. Козлов, Известия ВУЗов. Физика, 45, № 3: 5 (2002).",
+				"tr":  "Yu. F. Ivanov, E. V. Kozlov, Izvestiya VUZov. Fizika, 45, No. 3: 5 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "Эволюция дислокационной субструктуры, упрочнение и разрушение сплавов (Томск: Изд. ТГУ: 1992).",
+				"tr":  "Evolyutsiya dislokatsionnoy substruktury, uprochnenie i razrushenie splavov (Tomsk: Izd. TGU: 1992)."
+			},
+			{
+				"doi": "",
+				"or":  "Проблемы разработки конструкционных сплавов (Москва: Металлургия: 1980).",
+				"tr":  "Problemy razrabotki konstruktsionnykh splavov (Moskva: Metallurgiya: 1980)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Э. В. Козлов, Известия ВУЗов. Черная металлургия, № 12: 38 (1990).",
+				"tr":  "Yu. F. Ivanov, E. V. Kozlov, Izvestiya VUZov. Chernaya metallurgiya, No. 12: 38 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Э. В. Козлов, ФММ, № 10: 203 (1991).",
+				"tr":  "Yu. F. Ivanov, E. V. Kozlov, Fizika Metallov Metalloved., No. 10: 203 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "Дефекты кристаллической решетки и свойства металлов и сплавов (Тула: ТулПИ: 1992).",
+				"tr":  "Defekty kristallicheskoy reshetki i svoystva metallov i splavov (Tula: TulPI: 1992)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Громов, В. Е. Панин, Ю. Ф. Иванов и др., Металлофизика, 13, № 4: 9 (1991).",
+				"tr":  "V. E. Gromov, V. E. Panin, Yu. F. Ivanov et al., Metallofizika, 13, No. 4: 9 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Громов, Л. Б. Зуев, Э. В. Козлов, В. Я. Целлермаер, Электростимулированная пластичность металлов и сплавов (Москва: Недра: 1996).",
+				"tr":  "V. E. Gromov, L. B. Zuev, E. V. Kozlov, V. Ya. Tsellermaer, Elektrostimulirovannaya plastichnost' metallov i splavov (Moskva: Nedra: 1996)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, В. Е. Громов, Э. В. Козлов и др., Известия ВУЗов. Черная металлургия, № 6: 42 (1997).",
+				"tr":  "Yu. F. Ivanov, V. E. Gromov, E. V. Kozlov et al., Izvestiya VUZov. Chernaya metallurgiya, No. 6: 42 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Хирт, Р. Хови, Р. Николсон и др., Электронная микроскопия тонких кристаллов (Москва: Мир: 1968).",
+				"tr":  "P. Khirt, R. Khovi, R. Nikolson et al., Elektronnaya mikroskopiya tonkikh kristallov (Moskva: Mir: 1968)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Рыбин, В. А. Малышевский, В. Н. Олейник, ФММ, 42, вып. 2: 363 (1976).",
+				"tr":  "V. V. Rybin, V. A. Malyshevskiy, V. N. Oleynik, Fizika Metallov Metalloved., 42, No. 2: 363 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Давыдова, М. В. Дегтярев, В. И. Левит и др., ФММ, 60, вып. 2: 341 (1985).",
+				"tr":  "L. S. Davydova, M. V. Degtyarev, V. I. Levit et al., Fizika Metallov Metalloved., 60, No. 2: 341 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Давыдова, М. В. Дегтярев, Р. И. Кузнецов и др., ФММ, 61, вып. 2: 339 (1986).",
+				"tr":  "L. S. Davydova, M. V. Degtyarev, R. I. Kuznetsov et al., Fizika Metallov Metalloved., 61, No. 2: 339 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Панин, В. А. Лихачев, Ю. В. Гриняев, Структурные уровни деформации твердых тел (Новосибирск: Наука: 1985).",
+				"tr":  "V. E. Panin, V. A. Likhachev, Yu. V. Grinyaev, Strukturnye urovni deformatsii tverdykh tel (Novosibirsk: Nauka: 1985)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Рыбин, Большие пластические деформации и разрушение металлов (Москва: Металлургия: 1986).",
+				"tr":  "V. V. Rybin, Bol'shie plasticheskie deformatsii i razrushenie metallov (Moskva: Metallurgiya: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Эшелби, Континуальная теория дислокаций (Москва: ИИЛ: 1963).",
+				"tr":  "Dzh. Eshelbi, Kontinual'naya teoriya dislokatsiy (Moskva: IIL: 1963)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Финкель, Физические основы торможения разрушения (Москва: Металлургия: 1977).",
+				"tr":  "V. M. Finkel', Fizicheskie osnovy tormozheniya razrusheniya (Moskva: Metallurgiya: 1977)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Конева, Э. В. Козлов, Известия ВУЗов. Физика, № 8: 3 (1982).",
+				"tr":  "N. A. Koneva, E. V. Kozlov, Izvestiya VUZov. Fizika, No. 8: 3 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Владимиров, Физическая теория прочности и пластичности. Точечные дефекты. Упрочнение и возврат (Ленинград: ЛПИ: 1975).",
+				"tr":  "V. I. Vladimirov, Fizicheskaya teoriya prochnosti i plastichnosti. Tochechnye defekty. Uprochnenie i vozvrat (Leningrad: LPI: 1975)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Штремель, Прочность сплавов (Москва: МИСиС: 1999).",
+				"tr":  "M. A. Shtremel', Prochnost' splavov (Moskva: MISiS: 1999)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Конева, Э. В. Козлов, Л. И. Тришкина и др., Сб. трудов Международной конференции «Новые методы в физике и механике деформируемого твердого тела» (Томск: ТГУ: 1990), с. 83.",
+				"tr":  "N. A. Koneva, E. V. Kozlov, L. I. Trishkina et al., Sb. trudov Mezhdunarodnoy konferentsii «Novye metody v fizike i mekhanike deformiruemogo tverdogo tela» (Tomsk: TGU: 1990), s. 83."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, В. В. Целлермаер, Л. Н. Игнатенко и др., Материаловедение, № 1: 40 (2001).",
+				"tr":  "Yu. F. Ivanov, V. V. Tsellermaer, L. N. Ignatenko et al., Materialovedenie, No. 1: 40 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Конева, Э. В. Козлов, Вестник ТГАСУ, № 1: 21 (1999).",
+				"tr":  "N. A. Koneva, E. V. Kozlov, Vestnik TGASU, No. 1: 21 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Конева, Э. В. Козлов, Н. А. Попова и др., Структура, фазовые превращения и свойства нанокристаллических сплавов (Екатеринбург: УрО РАН: 1997), с. 125.",
+				"tr":  "N. A. Koneva, E. V. Kozlov, N. A. Popova et al., Struktura, fazovye prevrashcheniya i svoystva nanokristallicheskikh splavov (Ekaterinburg: UrO RAN: 1997), s. 125."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, С. А. Гладышев, Н. А. Попова и др., Взаимодействие дефектов кристаллической решетки и свойства: Сб. трудов (Тула: ТулПИ: 1986), с. 100.",
+				"tr":  "Yu. F. Ivanov, S. A. Gladyshev, N. A. Popova et al., Vzaimodeystvie defektov kristallicheskoy reshetki i svoystva: Sb. trudov (Tula: TulPI: 1986), s. 100."
+			},
+			{
+				"doi": "",
+				"or":  "G. Speich and P. R. Swann, J. Iron and Steel Inst., 203, No. 4: 480 (1695).",
+				"tr":  "G. Speich and P. R. Swann, J. Iron and Steel Inst., 203, No. 4: 480 (1695)."
+			},
+			{
+				"doi": "",
+				"or":  "B. V. N. Raj and G. Thomas, Proc. Int. Conf. ‘Martensite Transformation ICOMAT-1979’ (Cambridge: 1979), vol. 1, p.12.",
+				"tr":  "B. V. N. Raj and G. Thomas, Proc. Int. Conf. 'Martensite Transformation ICOMAT-1979' (Cambridge: 1979), vol. 1, p.12."
+			},
+			{
+				"doi": "",
+				"or":  "G. Speich, Trans. Met. Soc. AIME, 245, No. 10: 2553 (1969).",
+				"tr":  "G. Speich, Trans. Met. Soc. AIME, 245, No. 10: 2553 (1969)."
+			},
+			{
+				"doi": "10.1007/BF02813252",
+				"or":  "D. Kalich and E. M. Roberts, Met. Trans., 2, No. 10: 2783 (1971).",
+				"tr":  "D. Kalich and E. M. Roberts, Met. Trans., 2, No. 10: 2783 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "E. J. Fasiska and H. Wagenblat, Trans. Met. Soc. AIME, 239, No. 11: 1818 (1967).",
+				"tr":  "E. J. Fasiska and H. Wagenblat, Trans. Met. Soc. AIME, 239, No. 11: 1818 (1967)."
+			},
+			{
+				"doi": "10.1016/0036-9748(81)90216-7",
+				"or":  "S. J. Barnard, G. D. W. Smith, M. Saricaya et al., Scripta met., 15, No. 4: 387 (1981).",
+				"tr":  "S. J. Barnard, G. D. W. Smith, M. Saricaya et al., Scripta Met., 15, No. 4: 387 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "N. Ridley, H. Stuart, and L. Zwell, Trans. Met. Soc. AIME, 246, No. 8: 1834 (1969).",
+				"tr":  "N. Ridley, H. Stuart, and L. Zwell, Trans. Met. Soc. AIME, 246, No. 8: 1834 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Веселов, Е. З. Спектор, ФММ, 34, № 5: 895 (1972).",
+				"tr":  "S. I. Veselov, E. Z. Spektor, Fiz. Metallov Metalloved., 34, No. 5: 895 (1972)."
+			}
+		]
+	}
+}

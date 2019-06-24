@@ -1,0 +1,287 @@
+{
+	"_id":    "UFM.17.03.253",
+	"year":   2016,
+	"volume": 17,
+	"issue":  3,
+	"pages":  [253,296],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["16.03.2016"],
+	"PACS":   "61.72.Lk, 62.20.Qp, 81.40.Ef, 81.40.Np, 81.40.Pq, 81.65.Lp, 81.70.Bt",
+	"title":   {
+		"ua": "Деґрадація структури та властивостей металу рейок за тривалої експлуатації",
+		"en": "Degradation of Structure and Properties of Metal of Rails at the Long-Term Operation",
+		"ru": "Деградация структуры и свойств металла рельсов при длительной эксплуатации"
+	},
+	"abstract": {
+		"ua": "Методами оптичної, сканувальної, просвічувальної електронної дифракційної мікроскопії та міряння мікротвердости й трибологічних параметрів встановлено закономірності зміни структурно-фазових станів і дефектної субструктури поверхневих шарів рейок до 10 мм по центральній вісі й викружці після довготривалої експлуатації (перепущений тоннаж 500 і 1000 мільйонів тонн брутто). Показано, що швидкість зношення по центральній вісі збільшується в 3 і 3,4 рази при перепущеному тоннажі 500 і 1000 мільйонів тонн, відповідно, а коефіцієнт тертя понижується в 1,4 і 1,1 рази. За характером зламу й рівню дефектности виділено та проаналізовано 3 шари: поверхневий, перехідний та основний об’єм металу. Після 500 мільйонів тонн перепущеного тоннажу пластини цементиту повністю руйнуються та формуються частинки цементиту округлої форми розмірами 10–50 нм. Після 1000 мільйонів тонн відмічено протікання початкової стадії динамічної рекристалізації. Обговорено можливі причини спостережуваних закономірностей. Відзначено, що при експлуатації рейок можливий перебіг двох конкуруючих процесів. (1) Процес розрізання частинок цементиту з наступним винесенням їх в об’єм феритних зерен або пластин (у структурі перлиту). (2) Процес розрізання, наступного розчинення частинок цементиту, переходу атомів C на дислокації (атмосфери Коттрелла), перенесення атомів C дислокаціями в об’єм зерен (чи пластин) фериту з наступним утворенням нанорозмірних частинок цементиту. Деформаційне перетворення криці спричинює збільшення скалярної та надлишкової густини дислокацій, величини кривизни-скруту кристалічної ´ратниці й амплітуди внутрішніх полів напруг. Виявлено елементи структури, здатні являтися концентраторами напруг. Виконано кількісну аналізу механізмів зміцнення рейок на різній відстани від поверхні катання по центральній вісі і по выкружці після тривалої експлуатації. Показано, що зміцнення носить багатофакторний характер і обумовлено субструктурним зміцнення, викликаним формуванням нанорозмірних фрагментів; дисперсійним зміцненням частинками карбідної фази; зміцненням, обумовленим формуванням на дислокаціях атмосфер Коттрелла і Сузуки; внутрішніми полями напруг, що формуються усередині та міжфазовими границями.",
+		"en": "The regularities of changes in structure-phase states and defect substructure of rails surface layers up to 10 mm along the central axis and fillet following the long-term operation (passed tonnage 500 and 1000 millions of tons brutto) are determined by methods of optical, scanning, transmission electron diffraction microscopy and by measuring microhardness and tribological parameters. It is shown that wear rate along the central axis increased by 3 and 3.4 times at passed tonnage 500 and 1000 millions of tons, respectively, and friction factor decreased by 1.4 and 1.1 times. Three layers are isolated and analyzed: surface, transition and main volume of metal by the fracture behaviour and level of imperfection. The cementite plates destruct completely and cementite particles of round shape and 10–50 nm in size form after 500 millions of tons of passed tonnage. The starting stage of dynamic recrystallization is noticed to proceed after 1000 millions of tons. The possible reasons of the observed regularities are discussed. It is noticed that two competitive processes may proceed at rails operation. The first (1) one is process of cementite particle cutting followed by their carrying to volume of ferrite grains or plates (in pearlite structure). The second (2) one is process of cutting, subsequent dissolution of cementite particles, transition of C atoms on dislocations (Cottrell atmospheres), C atoms transfer by dislocations into volume of grains (or plates) of ferrite followed by the formation of cementite nanosized particles. Steel deformation transformation results in increase in scalar and excess dislocation density, curvature-torsion value of crystal lattice and amplitude of internal stress fields. The elements of structure capable of being stress concentrators are detected. Qualitative analysis of rails hardening mechanisms at different distance from tread surface along the central axis and along fillet after long-term operation is done. It is shown that hardening had a multi-factor character and was caused by substructure hardening and brought about by the formation of nanosized fragments; dispersion hardening of carbide phase particles; hardening caused by formation of Cottrell and Suzuki atmospheres on dislocations; internal stress fields being formed by inner- and inter-phase boundaries.",
+		"ru": "Методами оптической, сканирующей, просвечивающей электронной дифракционной микроскопии и измерения микротвёрдости и трибологических параметров установлены закономерности изменения структурно-фазовых состояний и дефектной субструктуры поверхностных слоев рельсов до 10 мм по центральной оси и выкружке после длительной эксплуатации (пропущенный тоннаж 500 и 1000 миллионов тонн брутто). Показано, что скорость износа по центральной оси увеличивается в 3 и 3,4 раза при пропущенном тоннаже 500 и 1000 миллионов тонн, соответственно, а коэффициент трения снижается в 1,4 и 1,1 раза. По характеру излома и уровню дефектности выделены и проанализированы 3 слоя: поверхностный, переходный и основной объём металла. После 500 миллионов тонн пропущенного тоннажа пластины цементита полностью разрушаются и формируются частицы цементита округлой формы размерами 10–50 нм. После 1000 миллионов тонн отмечено протекание начальной стадии динамической рекристаллизации. Обсуждены возможные причины наблюдаемых закономерностей. Отмечено, что при эксплуатации рельсов возможно протекание двух конкурирующих процессов. (1) Процесс разрезания частиц цементита с последующим выносом их в объём ферритных зёрен или пластин (в структуре перлита). (2) Процесс разрезания, последующего растворения частиц цементита, перехода атомов C на дислокации (атмосферы Коттрелла), перенос атомов C дислокациями в объём зёрен (или пластин) феррита с последующим формированием наноразмерных частиц цементита. Деформационное преобразование стали приводит к увеличению скалярной и избыточной плотности дислокаций, величины кривизны-кручения кристаллической решётки и амплитуды внутренних полей напряжений. Выявлены элементы структуры, способные являться концентраторами напряжений. Выполнен количественный анализ механизмов упрочнения рельсов на различном расстоянии от поверхности катания по центральной оси и по выкружке после длительной эксплуатации. Показано, что упрочнение носит многофакторный характер и обусловлено субструктурным упрочнением, вызванным формированием наноразмерных фрагментов; дисперсионным упрочнением частицами карбидной фазы; упрочнением, обусловленным формированием на дислокациях атмосфер Коттрелла и Сузуки; внутренними полями напряжений, формирующимися внутри- и межфазными границами."
+	},
+	"keywords": {
+		"ua": "структура, поверхня, рейки, експлуатація, фазовий склад, дефектна субструктура",
+		"en": "structure, surface, rails, phase composition, operation, defect substructure",
+		"ru": "структура, поверхность, рельсы, эксплуатация, фазовый состав, дефектная субструктура"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Є. Громов", "en": "V. E. Gromov", "ru": "В. Е. Громов"},
+			"OID": [407]
+		},
+		{
+			"AID": {"ua": "Ю. Ф. Іванов", "en": "Yu. F. Ivanov", "ru": "Ю. Ф. Иванов"},
+			"OID": [409, 408]
+		},
+		{
+			"AID": {"ua": "О. А. Перегудов", "en": "O. A. Peregudov", "ru": "О. А. Перегудов"},
+			"OID": [407]
+		},
+		{
+			"AID": {"ua": "К. В. Морозов", "en": "K. V. Morozov", "ru": "К. В. Морозов"},
+			"OID": [420]
+		},
+		{
+			"AID": {"ua": "А. П. Семін", "en": "A. P. Semin", "ru": "А. П. Семин"},
+			"OID": [407]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.15407/mfint.39.12.1599",
+				"cit": "V. E. Gromov, A. A. Yur’ev, Yu. F. Ivanov, S. V. Konovalov <i>et al.</i>, <a href=\"https://doi.org/10.15407/mfint.39.12.1599\">Metallofiz. Noveishie Tekhnol. <b>39</b>, 1599 (2018)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 45,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Е. А. Шур, Повреждения рельсов (Москва: Интекст: 2012).",
+				"tr":  "E. A. Shur, Povrezhdeniya Rel'sov [Rails' Damage] (Moscow: Intekst: 2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Шейнман, Трение и износ, 33, № 4: 413 (2012).",
+				"tr":  "E. Sheinman, Trenie i Iznos, 33, No. 4: 413 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Громов, А. Б. Юрьев, К. В. Морозов, Ю. Ф. Иванов, Микроструктура закалённых рельсов (Новокузнецк: ИнтерКузбасс: 2014).",
+				"tr":  "V. E. Gromov, A. B. Yuriev, K. V. Morozov, and Yu. F. Ivanov, Mikrostruktura Zakalennykh Rel'sov [Microstructure of Hardened Rails] (Novokuznetsk: InterKuzbass: 2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Кристиан, Железные дороги мира, № 10: 16 (2005) (пер. с англ.).",
+				"tr":  "J. Christian, Zheleznyye Dorogi Mira, No. 10: 16 (2005) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Григорович, А. С. Трушкникова, А. М. Арсенкин, С. С. Шибаев, А. К. Гарбер, Металлы, № 5: 72 (2006).",
+				"tr":  "K. V. Grigorovich, A. S. Trushknikova, A. M. Arsenkin, S. S. Shibaev, and A. K. Garber, Metally, No. 5: 72 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. В. Сталинский, Д. К. Нестеров, А. С. Рудюк, В. Е. Сапожков, Металлургическая и горнорудная промышленность, № 4: 64 (2009).",
+				"tr":  "D. V. Stalinskiy, D. K. Nesterov, A. S. Rudyuk, and V. E. Sapozhkov, Metallurgicheskaya i Gornorudnaya Promyshlennost', No. 4: 64 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. Ivanisenko and H. J. Fecht, Steel Tech., 3, No. 1: 19 (2008).",
+				"tr":  "Yu. Ivanisenko and H. J. Fecht, Steel Tech., 3, No. 1: 19 (2008)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2005.11.034",
+				"or":  "Yu. Ivanisenko, I. MacLaren, X. Sauvage, R. Z. Valiev, and H.-J. Fecht, Acta Mater., 54: 1659 (2006).",
+				"tr":  "Yu. Ivanisenko, I. MacLaren, X. Sauvage, R. Z. Valiev, and H. J. Fecht, Acta Mater., 54: 1659 (2006)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.539-543.4681",
+				"or":  "Yu. Ivanisenko, W. Lojkowski, and H.-J. Fecht, Materials Science Forum, 539–543: 4681 (2007).",
+				"tr":  "Yu. Ivanisenko, W. Lojkowski, and H. J. Fecht, Materials Science Forum, 539–543: 4681 (2007)."
+			},
+			{
+				"doi": "10.1016/j.pmatsci.2005.08.003",
+				"or":  "M. A. Meyers, A. Mishra, and D. J. Benson, Progress in Materials Science, 51: 427 (2006).",
+				"tr":  "M. A. Meyers, A. Mishra, and D. J. Benson, Progress in Materials Science, 51: 427 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Брандон, У. Каплан, Микроструктура материалов. Методы исследования и контроля (Москва: Техносфера: 2004) (пер. с англ.).",
+				"tr":  "D. Brandon and U. Kaplan, Mikrostruktura Materialov. Metody Issledovaniya i Kontrolya [Microstructure of Materials. Methods of Investigations and Control] (Moscow: Tekhnosfera: 2004) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. М. Утевский, Дифракционная электронная микроскопия в металловедении (Москва: Металлургия: 1973).",
+				"tr":  "L. M. Utevskiy, Difraktsionnaya Elektronnaya Mikroskopiya v Metallovedenii [Diffraction Electron Microscopy in Metallurgical Science] (Moscow: Metallurgiya: 1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Томас, М. Дж. Гориндж, Просвечивающая электронная микроскопия материалов (Москва: Наука: 1983) (пер. с англ.).",
+				"tr":  "G. Tomas and M. J. Goringe, Transmission Electron Microscopy of Metals (New York: Wiley: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Хрущов, Трение, износ и микротвёрдость материалов (Москва: Красанд: 2012).",
+				"tr":  "M. M. Khrushchov, Trenie, Iznos i Mikrotverdost' Materialov [Friction, Wear and Microhardness of Materials] (Moscow: Krasand: 2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Чернявский, Стереология в металловедении (Москва: Металлургия: 1977).",
+				"tr":  "V. S. Chernyavskiy, Stereologiya v Metallovedenii [Stereology in Metallurgical Science] (Moscow: Metallurgiya: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Салтыков, Стереометрическая металлография (Москва: Металлургия: 1970).",
+				"tr":  "S. A. Saltykov, Stereometricheskaya Metallografiya [Stereometric Metallography] (Moscow: Metallurgiya: 1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Хирш, А. Хови, Р. Николсон, Д. Пэшли, М. Уэлан, Электронная микроскопия тонких кристаллов (Москва: Мир: 1968) (пер. с англ.).",
+				"tr":  "P. Hirsh, A. Hovi, R. Nikolson, D. Pjeshli, and M. Ujelan, Elektronnaya Mikroskopiya Tonkih Kristallov [Electron Microscopy of Thin Crystals] (Moscow: Mir: 1968) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Эндрюс, Д. Дайсон, С. Кноун, Электронограммы и их интерпретация (Москва: Мир: 1970) (пер. с англ.).",
+				"tr":  "K. Endryus, D. Daiso, and S. Knoun, Elektronogrammy i Ikh Interpretatsiya [Electron-Diffraction Patterns and Their Interpretation] (Moscow: Mir: 1971) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Громов, Э. В. Козлов, В. И. Базайкин, В. Я. Целлермаер, Ю. Ф. Иванов, Физика и механика волочения и объемной штамповки (Москва: Недра: 1997).",
+				"tr":  "V. E. Gromov, Eh. V. Kozlov, V. I. Bazaykin, V. Ya. Cellermaer, and Yu. F. Ivanov, Fizika i Mekhanika Volocheniya i Ob'yomnoy Shtampovki [Physics and Mechanics of Drawing and Forging] (Moscow: Nedra: 1997) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Тушинский, А. А. Батаев, Л. Б. Тихомирова, Структура перлита и конструктивная прочность стали (Новосибирск: ВО Наука: 1993).",
+				"tr":  "L. I. Tushinskiy, A. A. Bataev, and L. B. Tikhomirova, Struktura Perlita i Konstruktivnaya Prochnost' Stali [Pearlite Structure and Structural Hardness of Steel] (Novosibirsk: VO Nauka: 1993) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Иванова, А. А. Шанявский, Количественная фрактография. Усталостное разрушение (Челябинск: Металлургия: 1988).",
+				"tr":  "V. S. Ivanova and A. A. Shanyavskiy, Kolichestvennaya Fraktografiya. Ustalostnoe Razrushenie [Quantitative Fractography. Fatigue Destruction] (Chelyabinsk: Metallurgiya: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Терентьев, Усталость металлических материалов (Москва: Наука: 2002).",
+				"tr":  "V. F. Terentiev, Ustalost' Metallicheskikh Materialov [Fatigue of Metallic Materials] (Moscow: Nauka: 2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Энгеле, Г. Клингеле, Растровая электронная микроскопия. Разрушение (Москва: Металлургия: 1986) (пер. с англ.).",
+				"tr":  "L. Engele and G. Klingele, Rastrovaya Elektronnaya Mikroskopiya. Razrushenie [Scanning Electron Microscopy. Fracture] (Moscow: Metallurgiya: 1986) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, Л. М. Утевский, Р. И. Энтин, Превращения в железе и стали (Москва: Наука: 1977).",
+				"tr":  "G. V. Kurdyumov, L. M. Utevskiy, and R. I. Entin, Prevrashheniya v Zheleze i Stali [Transformations in Iron and Steel] (Moscow: Nauka: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Е. В. Корнет, Э. В. Козлов, В. Е. Громов, Закаленная конструкционная сталь: Структура и механизмы упрочнения (Новокузнецк: Изд-во СибГИУ: 2010).",
+				"tr":  "Yu. F. Ivanov, E. V. Kornet, Eh. V. Kozlov, and V. E. Gromov, Zakalennaya Konstruktsionnaya Stal': Struktura i Mekhanizmy Uprochneniya [Hardened Structural Steel: Structure and Mechanisms of Hardening] (Novokuznetsk: Izdatelstvo SibGIU: 2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. З. Беленький, Б. М. Фарбер, М. И. Гольдштейн, Физика металлов и металловедение, 39, № 3: 403 (1975).",
+				"tr":  "B. Z. Belen'kiy, B. M. Farber, and M. I. Goldshtein, Fizika Metallov i Metallovedenie, 39, No. 3: 403 (1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Прнка, Металловедение и терм. обр. стали, № 7: 3 (1979).",
+				"tr":  "T. Prnka, Metallovedenie i Termicheskaya Obrobotka Stali, No. 7: 3 (1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, В. Е. Громов, Е. Н. Никитина, Бейнитная конструкционная сталь: структура и механизмы упрочнения (Новокузнецк: СибГИУ: 2015).",
+				"tr":  "Yu. F. Ivanov, V. E. Gromov, and E. N. Nikitina, Beinitnaya Konstruktsionnaya Stal': Struktura i Mekhanizmy Uprochneniya [Bainite Structural Steel: Structure and Mechanisms of Hardening] (Novokuznetsk: SibGIU: 2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, В. И. Моисеев, Э. П. Печковский, И. Д. Горная, А. Д. Васильев, Деформационное упрочение и разрушение поликристаллических металлов (Киев: Наукова думка: 1987).",
+				"tr":  "V. I. Trefilov, V. I. Moiseev, E. P. Pechkovskiy, I. D. Gornaya, and A. D. Vasiliev, Deformatsionnoe Uprochenie i Razrushenie Polikristallicheskikh Metallov [Strain Hardening and Destruction of Polycrystalline Metals] (Kiev: Naukova Dumka: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Статическая прочность и механика разрушения сталей: Сб. научных трудов (Ред. В. Даль, В. Антон) (Москва: Металлургия: 1986) (пер. с нем.).",
+				"tr":  "Staticheskaya Prochnot' i Mekhanika Razrusheniya Staley: Sbornik Nauchnyh Trudov [Static Strength and Mechanics of Steel Destruction: Collected Scientific Transactions] (Eds. V. Dal' and V. Anton) (Moscow: Metallurgiya: 1986) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, К. В. Морозов, О. А. Перегудов, В. Е. Громов, Н. А. Попова, Е. Н. Никоненко, Проблемы чёрной металлургии и материаловедения, № 3: 49 (2015).",
+				"tr":  "Yu. F. Ivanov, K. V. Morozov, O. A. Peregudov, V. E. Gromov, N. A. Popova, and E. N. Nikonenko, Problemy Chernoi Metallurgii i Materialovedeniya, No. 3: 49 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Громов, О. А. Перегудов, Ю. Ф. Иванов, К. В. Морозов, К. В. Алсараева, Вопросы материаловедения, № 3: 41 (2015).",
+				"tr":  "V. E. Gromov, O. A. Peregudov, Yu. F. Ivanov, K. V. Morozov, and K. V. Alsaraeva, Voprosy Materialovedeniya, No. 3: 41 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Громов, Ю. Ф. Иванов, К. В. Морозов, О. А. Перегудов, К. В. Алсараева, Н. А. Попова, Е. Н. Никоненко, Фундаментальные проблемы современного материаловедения, 12, № 2: 203 (2015).",
+				"tr":  "V. E. Gromov, Yu. F. Ivanov, K. V. Morozov, O. A. Peregudov, K. V. Alsaraeva, N. A. Popova, and E. N. Nikonenko, Fundamental'nye Problemy Sovremennogo Materialovedeniya, 12, No. 2: 203 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, В. Е. Громов, О. А. Перегудов, К. В. Морозов, А. Б. Юрьев, Изв. вузов. Чёрная металлургия, 58, № 4: 262 (2015).",
+				"tr":  "Yu. F. Ivanov, V. E. Gromov, O. A. Peregudov, K. V. Morozov, and A. B. Yuryev, Izvestiya Vuzov. Chernaya Metallurgiya, 58, No. 4: 262 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Перегудов, К. В. Морозов, В. Е. Громов, А. М. Глезер, Ю. Ф. Иванов, Деформация и разрушение материалов, № 11: 34 (2015).",
+				"tr":  "O. A. Peregudov, K. V. Morozov, V. E. Gromov, A. M. Glezer, and Yu. F. Ivanov, Deformatsiya i Razrushenie Materialov, No. 11: 34 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. И. Гольдштейн, Б. М. Фарбер, Дисперсионное упрочнение стали (Москва: Металлургия: 1979).",
+				"tr":  "M. I. Goldshtein and B. M. Farber, Dispersionnoe Uprochnenie Stali [Dispersion Hardening of Steel] (Moscow: Metallurgiya: 1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Штремель, Прочность сплавов. Часть II: Деформация (Москва: МИСиС: 1997).",
+				"tr":  "A. Shtremel, Prochnost' Splavov. Chast' II: Deformatsiya [Strength of Alloys. Part II: Deformation] (Moscow: MISiS: 1997) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Мак Лин, Механические свойства металлов (Москва: Металлургия: 1965) (пер. с англ.).",
+				"tr":  "D. Mac Lin, Mekhanicheskie Svoistva Metallov [Mechanical Properties of Metals] (Moscow: Metallurgiya: 1965) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Предводителев, Проблемы современной кристаллографии (Москва: Наука: 1975), с. 262.",
+				"tr":  "A. A. Predvoditelev, Problemy Sovremennoy Kristallografii [Problems of the Modern Crystallography] (Moscow: Nauka, 1975), p. 262 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "J. D. Embury, Strengthening Methods in Crystals (Eds. A. Kelly and R. B. Nicholson) (London: Applied Science Publishers: 1971), p. 331.",
+				"tr":  "J. D. Embury, Strengthening Methods in Crystals (Eds. A. Kelly and R. B. Nicholson) (London: Applied Science Publishers: 1971), p. 331."
+			},
+			{
+				"doi": "",
+				"or":  "V. E. Gromov, Yu. F. Ivanov, S. V. Vorobiev, and S. V. Konovalov, Fatigue of Steels Modified by High Intensity Electron Beams (Cambridge: CISP Ltd.: 2015).",
+				"tr":  "V. E. Gromov, Yu. F. Ivanov, S. V. Vorobiev, and S. V. Konovalov, Fatigue of Steels Modified by High Intensity Electron Beams (Cambridge: CISP Ltd.: 2015)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Конева, Э. В. Козлов, Структурные уровни пластической деформации и разрушения (Новосибирск: Наука, Сибирское отделение: 1990), с. 123.",
+				"tr":  "N. A. Koneva and Eh. V. Kozlov, Strukturnye Urovni Plasticheskoy Deformatsii i Razrusheniya [Structural Levels of Plastic Deformation and Destruction] (Novosibirsk: Nauka, Sibirskoe Otdelenie: 1990), p. 123 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Б. Пикеринг, Физическое металловедение и разработка сталей (Москва: Металлургия: 1982).",
+				"tr":  "F. B. Pikering, Fizicheskoe Metallovedenie i Razrabotka Staley [Physical Metallurgy and Steel Development] (Moscow: Metallurgiya: 1982) (Russian translation)."
+			},
+			{
+				"doi": "10.1088/0959-5309/52/1/312",
+				"or":  "N. F. Mott and F. R. N. Nabarro, Proc. Phys. Soc., 52, No. 1: 86 (1940).",
+				"tr":  "N. F. Mott and F. R. N. Nabarro, Proc. Phys. Soc., 52, No. 1: 86 (1940)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Бабичев, Н. А. Бабушкина, А. М. Братковский и др., Физические величины: Справочник (Ред. И. С. Григорьев, Е. 3. Мейлихов) (Москва: Энергоатомиздат: 1991).",
+				"tr":  "P. P. Babichev, N. A. Babushkina, A. M. Bratkovsky et al., Fizicheskie Velichiny: Spravochnik [Physical Magnitudes: Handbook] (Moscow: Energoatomizdat: 1991) (in Russian)."
+			}
+		]
+	}
+}

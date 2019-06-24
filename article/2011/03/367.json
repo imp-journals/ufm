@@ -1,0 +1,200 @@
+{
+	"_id":    "UFM.12.03.367",
+	"year":   2011,
+	"volume": 12,
+	"issue":  3,
+	"pages":  [367,382],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["22.10.2010"],
+	"PACS":   "46.50.+a, 62.20.F-, 62.20.M-, 62.23.-c, 62.25.Mn, 62.40.+i, 83.50.-v",
+	"title":   {
+		"ua": "Концентратори напружень і їхня роль у формуванні механічних властивостей полікристалів з нанорозмірними елементами структури",
+		"en": "Stress Raisers and Their Role in Formation of Mechanical Properties of Polycrystals with the Nanosize Components of Structure",
+		"ru": "Концентраторы напряжений и их роль в формировании механических свойств поликристаллов с наноразмерными элементами структуры"
+	},
+	"abstract": {
+		"ua": "В роботі на підставі узагальнень сучасних уявлень про закономірності формування властивостей моно- і полікристалічних матеріялів у межах відомих механізмів росту і релаксації напружень у вершинах концентраторів залежно від швидкости зміни прикладеного макроскопічного зусилля запропоновано модель, що дозволяє зв’язати характер поведінки їх механічних властивостей із зміною числа і потужности концентраторів напружень в усьому інтервалі розмірів параметрів їх структурних елементів. Розглянуто можливість використання Д’Алямберового принципу для опису пластичної деформації в термінах сучасних уявлень фізики металів про механізми її реалізації. При цьому точками взаємодії між частинами зразка або елементами його структури запропоновано вважати вершини концентраторів напружень. Визначено залежність діючої їх кількости від швидкости деформації, а також вказано особливості зміни темпу зростання напружень у вершинах концентраторів від їх кількости та потужности. В рамках Д’Алямберового принципу пластичну деформацію представлено у вигляді двох явищ, що розвиваються, – росту напружень у вершинах концентраторів на мікрорівні в процесі вибору найбільш послабленого перетину зразка та їхньої релаксації при втраті його механічної стійкости на макрорівні. Вказано на визначальну роль кількости концентраторів, їх виду та потужности в формуванні механічних властивостей.",
+		"en": "Applicability of the d’Alembert principle for the description of plastic deformation in terms of the modern conceptions of physics of metals is considered. It is offered to consider the stress concentrators as points of interaction between the parts of a sample or elements of its structure. The dependence of their actual quantity on the strain rate is determined, and features of change of stress-growth rate at concentrator peaks are described as function of their number and strength. Within the scope of the d’Alembert principle, the process of plastic deformation is represented as two progressive phenomena, namely, the growth of stresses in tops of concentrators at a microlevel during a choice of the weakest section of a sample and the stress relaxation in tops of actual concentrators because of the loss of mechanical stability at a macrolevel. The determining roles of a quantity of concentrators and their strength in formation of mechanical properties are specified.",
+		"ru": "В работе на основании анализа современных представлений о закономерностях формирования свойств моно- и поликристаллических материалов в рамках известных механизмов роста и релаксации напряжений в вершинах концентраторов в зависимости от скорости изменения приложенного макроскопического усилия предложена модель, позволяющая связать характер поведения их механических свойств с изменением числа и мощности концентраторов напряжений во всем интервале размерных параметров их структурных элементов. В основу предлагаемой модели положен принцип Д’Аламбера ($F_{i} = m_{i} w_{i} + P_{i}$), а роль «точек» взаимодействия между соседними элементами структуры играют вершины концентраторов напряжений, в которых, согласно данному закону механики, приложенная макроскопическая сила ($F_{i}$) может быть разложена на движущие, сообщающие точкам системы ускорение ($m_{i} w_{i}$), и потерянные ($P_{i}$), уравновешивающиеся противодействиями связей. Из сказанного сделан вывод о том, что общее количество концентраторов ($K$) может рассматриваться как число точек разложения макроскопического поля приложенного напряжения на различные по величине (напряжения $F_{і}$) составляющие, действующие внутри образца в вершинах соответствующих концентраторов и изменяющиеся в зависимости от скорости роста приложенной макроскопической силы ($F_{i}$), определяющей не только число действующих концентраторов, а и количество, и характер взаимодействия известных механизмов релаксации напряжений. Рассмотрены закономерности изменения слагаемых принципа Д’Аламбера при переходе от моно- к поликристаллическим структурным состояниям в свете реализующихся механизмов роста и релаксации напряжений. Продемонстрировано, что увеличение количества концентраторов в поликристаллах с наноразмерными структурами, сопровождающееся снижением их мощности, а соответственно, и скорости роста напряжений в вершинах, будет способствовать росту механических характеристик, указывая пути создания высокопрочных состояний. Рассмотрены модельные представления о развитии релаксационных процессов во всем интервале изменения размерных параметров структурных элементов металлических материалов, предсказывающие возможные смены ведущих механизмов релаксации напряжений в поликристаллических материалах при переходе к структурам с наноразмерными элементами."
+	},
+	"keywords": {
+		"ua": "концентратор напруг, мікромеханізми релаксації та росту напруг, швидкість росту напруг",
+		"en": "concentrator of stresses, micromechanisms of relaxation and growth of stresses, stress growth rate",
+		"ru": "концентратор напряжений, микромеханизмы релаксации и роста напряжений, скорость роста напряжений"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "П. Ю. Волосевич", "en": "P. Yu. Volosevych", "ru": "П. Ю. Волосевич"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  2,
+		"list":  [
+			{
+				"doi": "10.15407/mfint.39.02.0189",
+				"cit": "G. I. Prokopenko, B. M. Mordyuk, P. Yu. Volosevych, S. P. Vorona <i>et al.</i>, <a href=\"https://doi.org/10.15407/mfint.39.02.0189\">Metallofiz. Noveishie Tekhnol. <b>39</b>, 189 (2017)</a>."
+			},
+			{
+				"doi": "10.3103/S0967091215060145",
+				"cit": "P. Yu. Volosevich and A. V. Shiyan, <a href=\"https://doi.org/10.3103/S0967091215060145\">Steel Transl. <b>45</b>, 460 (2015)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 30,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Г. Нейбер, Концентрация напряжений (Москва–Ленинград: Гостехиздат: 1947) (пер. с нем).",
+				"tr":  "G. Neyber, Kontsentratsiya napryazheniy (Moskva–Leningrad: Gostekhizdat: 1947) (German translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Физический энциклопедический словарь. Т. 2 (Москва: Советская энциклопедия: 1962).",
+				"tr":  "Fizicheskiy entsiklopedicheskiy slovar'. T. 2 (Moskva: Sovetskaya entsiklopediya: 1962)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Т. Хан, Б. Л. Авербах, В. С. Оуэн, М. Коэн, Атомный механизм разрушения (Москва: Металлургиздат: 1963), с. 109 (пер. с англ.).",
+				"tr":  "Dzh. T. Khan, B. L. Averbakh, V. S. Ouen, M. Koen, Atomnyy mekhanizm razrusheniya (Moskva: Metallurgizdat: 1963), s. 109 (per. s angl.)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Орован, Атомный механизм разрушения (Москва: Металлургиздат: 1963), с. 170 (пер. с англ.).",
+				"tr":  "E. Orovan, Atomnyy mekhanizm razrusheniya (Moskva: Metallurgizdat: 1963), s. 170 (English translation)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Иванова, Л. К. Гордиенко, В. Н. Геминов и др., Роль дислокаций в упрочнении и разрушении металлов (Москва: Наука: 1965).",
+				"tr":  "V. S. Ivanova, L. K. Gordienko, V. N. Geminov et al., Rol' dislokatsiy v uprochnenii i razrushenii metallov (Moskva: Nauka: 1965)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Финкель, Физика разрушения (Москва: Металлургия: 1970).",
+				"tr":  "V. M. Finkel', Fizika razrusheniya (Moskva: Metallurgiya: 1970)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Хоникомб, Пластическая деформация металлов (Москва: Мир: 1972) (пер. с англ.).",
+				"tr":  "R. Khonikomb, Plasticheskaya deformatsiya metallov (Moskva: Mir: 1972) (English translation)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, Ю. В. Мильман, С. А. Фирстов, Физические основы прочности тугоплавких металлов (Киев: Наукова думка: 1975).",
+				"tr":  "V. I. Trefilov, Yu. V. Mil'man, S. A. Firstov, Fizicheskie osnovy prochnosti tugoplavkikh metallov (Kiev: Naukova dumka: 1975)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. С. Писаренко, А. А. Лебедев, Деформирование и прочность материалов при сложном напряженном состоянии (Киев: Наукова думка: 1976).",
+				"tr":  "G. S. Pisarenko, A. A. Lebedev, Deformirovanie i prochnost' materialov pri slozhnom napryazhennom sostoyanii (Kiev: Naukova dumka: 1976)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Нотт, Основы механики разрушения (Москва: Металлургия: 1978) (пер. с англ.).",
+				"tr":  "Dzh. Nott, Osnovy mekhaniki razrusheniya (Moskva: Metallurgiya: 1978) (English translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. А. Коппельман, Сопротивление сварных узлов хрупкому разрушению (Ленинград: Машиностроение: 1978).",
+				"tr":  "L. A. Koppel'man, Soprotivlenie svarnykh uzlov khrupkomu razrusheniyu (Leningrad: Mashinostroenie: 1978)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, В. Ф. Моисеев, Э. П. Печковский и др., Деформационное упрочнение и разрушение поликристаллических металлов (Киев: Наукова думка: 1979).",
+				"tr":  "V. I. Trefilov, V. F. Moiseev, E. P. Pechkovskiy et al., Deformatsionnoe uprochnenie i razrushenie polikristallicheskikh metallov (Kiev: Naukova Dumka: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Н. Романив, Вязкость разрушения конструкционных сталей (Москва: Металлургия: 1979).",
+				"tr":  "O. N. Romaniv, Vyazkost' razrusheniya konstruktsionnykh staley (Moskva: Metallurgiya: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Рыбин, А. Н. Орлов, В. Н. Перевезенцев, Границы зёрен в металлах (Москва: Металлургия: 1980).",
+				"tr":  "V. V. Rybin, A. N. Orlov, V. N. Perevezentsev, Granitsy zeren v metallakh (Moskva: Metallurgiya: 1980)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Косевич, В. М. Иевлев, Л. С. Палатник, А. И. Федоренко, Структура межкристаллитных и межфазных границ (Москва: Металлургия: 1980).",
+				"tr":  "V. M. Kosevich, V. M. Ievlev, L. S. Palatnik, A. I. Fedorenko, Struktura mezhkristallitnykh i mezhfaznykh granits (Moskva: Metallurgiya: 1980)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Я. Мешков, Физические основы разрушения стальных конструкций (Киев: Наукова думка: 1981).",
+				"tr":  "Yu. Ya. Meshkov, Fizicheskie osnovy razrusheniya stal'nykh konstruktsiy (Kiev: Naukova dumka: 1981)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Кайбышев, Р. 3. Валиев, В. Г. Хайруллин, Физ. мет. металловед., 56, вып. 3: 577 (1983).",
+				"tr":  "O. A. Kaybyshev, R. 3. Valiev, V. G. Khayrullin, Fiz. Met. Metalloved., 56, No. 3: 577 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Панин, В. А. Лихачёв, О. В. Гриняев, Структурные уровни деформации твердых тел (Москва: Наука: 1985).",
+				"tr":  "V. E. Panin, V. A. Likhachev, O. V. Grinyaev, Strukturnye urovni deformatsii tverdykh tel (Moskva: Nauka: 1985)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Моисеев, Хладноломкость ОЦК металлов и физическая интерпретация коэффициента К1с (Киев: 1995) (Препр./НАН Украины, Ин-т проблем материаловедения. № 95-8, 1995).",
+				"tr":  "V. F. Moiseev, Khladnolomkost' OTsK metallov i fizicheskaya interpretatsiya koeffitsienta K1s (Kiev: 1995) (Prepr./NAN Ukrainy, In-t problem materialovedeniya. No. 95-8, 1995)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Рыбин, Большие пластические деформации и разрушение металлов (Москва: Металлургия: 1986).",
+				"tr":  "V. V. Rybin, Bol'shie plasticheskie deformatsii i razrushenie metallov (Moskva: Metallurgiya: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Фирстов, Прогрессивные материалы и технологии (Киев: ИПМ НАНУ: 2003), т. 2.",
+				"tr":  "S. A. Firstov, Progressivnye materialy i tekhnologii (Kiev: IPM NANU: 2003), t. 2."
+			},
+			{
+				"doi": "10.1070/pu1999v042n09ABEH000563",
+				"or":  "Г. А. Малыгин, Успехи физ. наук, 169, № 9: 979 (1999).",
+				"tr":  "G. A. Malygin, Uspekhi Fiz. Nauk, 169, No. 9: 979 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Паршин, А. П. Петкова, Физика и химия обработки материалов, № 3: 79 (2000).",
+				"tr":  "A. M. Parshin, A. P. Petkova, Fizika i khimiya obrabotki materialov, No. 3: 79 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Ю. Волосевич, Ю. А. Гарасим, Н. И. Даниленко, В. М. Адеев, Д. И. Никоненко, Металлофиз. новейшие технол., 24, № 3: 413 (2002).",
+				"tr":  "P. Yu. Volosevich, Yu. A. Garasim, N. I. Danilenko, V. M. Adeev, D. I. Nikonenko, Metallofiz. Noveishie Tekhnol., 24, No. 3: 413 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. В. Сударикова, Неразрушающий контроль в производстве: Учеб. пособие. Ч. 1 (Санкт-Петербург: ГУАП: 2007).",
+				"tr":  "E. V. Sudarikova, Nerazrushayushchiy kontrol' v proizvodstve: Ucheb. posobie. Ch. 1 (Sankt-Peterburg: GUAP: 2007)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Котречко, А. В. Филатов, А. В. Овсянников, Металлофиз. новейшие технол., 26, № 11: 1475 (2004).",
+				"tr":  "S. A. Kotrechko, A. V. Filatov, A. V. Ovsyannikov, Metallofiz. Noveishie Tekhnol., 26, No. 11: 1475 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Ю. Волосевич, Металлофиз. новейшие технол., 29, № 10: 1393 (2007).",
+				"tr":  "P. Yu. Volosevich, Metallofiz. Noveishie Tekhnol., 29, No. 10: 1393 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Ю. Волосевич, 4а Міжнародна конференція «Механіка руйнування матеріалів і міцність конструкцій» (23–27 червня 2009, Львів), с. 93.",
+				"tr":  "P. Yu. Volosevich, 4a Mіzhnarodna konferentsіya \"Mekhanіka ruynuvannya materіalіv і mіtsnіst' konstruktsіy\" (23–27 June 2009, L'vіv), s. 93."
+			},
+			{
+				"doi": "",
+				"or":  "П. Ю. Волосевич, Металлофиз. новейшие технол., 32, № 3: 413 (2010).",
+				"tr":  "P. Yu. Volosevich, Metallofiz. Noveishie Tekhnol., 32, No. 3: 413 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Фирстов, Прогрессивные материалы и технологии (Киев: Академпериодика: 2003).",
+				"tr":  "S. A. Firstov, Progressivnye materialy i tekhnologii (Kiev: Akademperiodika: 2003)."
+			}
+		]
+	}
+}

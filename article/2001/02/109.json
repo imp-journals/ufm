@@ -1,0 +1,191 @@
+{
+	"_id":    "UFM.02.02.109",
+	"year":   2001,
+	"volume": 2,
+	"issue":  2,
+	"pages":  [109,129],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["03.05.2001"],
+	"PACS":   "71.15.Ap, 71.20.Be, 75.30.Kz, 75.50.Bb",
+	"title":   {
+		"ua": "Електронна структура таи магнетні властивості стопів системи Fe-Co",
+		"en": "Electronic Structure and Magnetic Properties of Alloys",
+		"ru": "Электронная структура и магнитные свойства сплавов системы Fe-Co"
+	},
+	"abstract": {
+		"ua": "Виконано порівняльний аналіз електронної структури і магнітних властивостей сплавів заміщення e$_{x}$Cr$_{1-x}$ двома методами: зонним методом суперкомірки в оберненому просторі і методом рекурсії в прямому просторі при різних концентраціях компонентів. В обох випадках використовувався один і той самий спін-поляризований екранований базис лінійних маффін-тін орбіталей у наближенні атомної сфери (TB–LMTO–ASA). Відомо, і в даній роботі це показано, що зонний метод дозволяє виконати повне самоузгодження, але не може виключити вплив періодичних граничних умов. Кластерний метод рекурсії, навпаки, не потребує трансляційної інваріантності, але в ньому важче виконати повне самоузгодження. Ці два методи взаємно доповнюють один одного і дозволяють отримати більше інформації при розрахунку електронної структури невпорядкованих систем. Основна відмінність зонного розрахунку від кластерного полягає в тому, що в останньому виникають локалізовані резонансні стани. В результаті розрахунку показано, що при зміні концентрації компонентів відбуваються істотні зміни в електронній і магнітній структурі сплавів системи Fe–Cr. Максимальні зміни відбуваються коли концентрація одного з компонентів наближається до 30%. Відзначається, що область магнітних фазових переходів співпадає з початком процесу розшарування в системі. Магнетизм зникає при концентрації хрому 70% і вище.",
+		"en": "The comparative analysis of electronic structure and magnetic properties of substitutional alloys Fe$_{x}$Cr$_{1-x}$ is performed by two methods — the band method of a supercell in reciprocal space and method of the recursion in direct space at different concentrations of components. In both cases, the same spin-polarized screened basis of linear muffin-tin orbitals within the atomic sphere approximation (TB–LMTO–ASA) is used. It is known, and in a given paper it is shown, that the band method allows to execute the full self-consistency, but can not eliminate the influence of periodic boundary conditions. On the contrary, the cluster method of recursion does not demand translation invariance, but within its framework it is more difficult to execute the full self-consistency. These two methods are mutually complementary and allow to obtain more information by calculation of electronic structure of disordered systems. The main difference of band calculation from cluster one is that within the latter there are localized resonance states. As a result of calculation, it is shown that with a change of concentration of components there are essential changes in electronic and magnetic structure of alloys of a system Fe–Cr. The maximum changes occur when the concentration of one of components verges towards 30%. It is noted that the area of magnetic phase transitions is congruent with the origin of phase immiscibility in a system. The magnetism disappears at a chromium concentration, which is equal to 70% and above.",
+		"ru": "Выполнен сравнительный анализ электронной структуры и магнитных свойств сплавов замещения Fe$_{x}$Cr$_{1-x}$ двумя методами: зонным методом суперячейки в обратном пространстве и методом рекурсии в прямом пространстве при различных концентрациях компонентов. В обоих случаях использовался один и тот же спин-поляризованный экранированный базис линейных маффин-тин орбиталей в приближении атомной сферы (TB–LMTO–ASA). Известно, и в данной работе это показано, что зонный метод позволяет выполнить полное самосогласование, но не может исключить влияние периодических граничных условий. Кластерный метод рекурсии, наоборот, не требует трансляционной инвариантности, но в нем труднее выполнить полное самосогласование. Эти два метода взаимно дополняют друг друга и позволяют получить больше информации при расчете электронной структуры неупорядоченных систем. Основное отличие зонного расчета от кластерного состоит в том, что в последнем возникают локализованные резонансные состояния. В результате расчета показано, что при изменении концентрации компонентов происходят существенные изменения в электронной и магнитной структуре сплавов системы Fe–Cr. Максимальные изменения происходят когда концентрация одного из компонентов приближается к 30%. Отмечается, что область магнитных фазовых переходов совпадает с началом процесса расслоения в системе. Магнетизм исчезает при концентрации хрома 70% и выше."
+	},
+	"keywords": {
+		"ua": "електронна та магнітна структури, магнетизм, розшарування, розрахунки в прямому й оберненому просторі, рекурсивний метод, «muffin-tin» наближення",
+		"en": "electronic and magnetic structures, magnetism, immiscibility, real and reciprocal space calculations, recursive method, «muffin-tin» approximation",
+		"ru": "электронная и магнитная структуры, магнетизм, расслоение, расчеты в прямом и обратном пространстве, рекурсионный метод, «muffin-tin» приближение"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. С. Мітрохін", "en": "Yu. S. Mitrokhin", "ru": "Ю. С. Митрохин"},
+			"OID": [458]
+		},
+		{
+			"AID": {"ua": "Т. М. Махнева", "en": "T. M. Makhneva", "ru": "Т. М. Махнева"},
+			"OID": [506]
+		}
+	],
+	"references": {
+		"count": 30,
+				"list":  [
+			{
+				"doi": "",
+				"or":  "A. J. Lena and M. F. Hawker, J. of Metals, 5: 607 (1954).",
+				"tr":  "A. J. Lena and M. F. Hawker, J. of Metals, 5: 607 (1954)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Дехтяр, Физ. мет. металловед., 18, вып. 6: 826 (1964).",
+				"tr":  "M. V. Dekhtyar, Fiz. met. metalloved., 18, No. 6: 826 (1964)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Cina and J. D. Lavender, J. of the Jron and Steel Inst., 6: 97 (1953).",
+				"tr":  "B. Cina and J. D. Lavender, J. of the Jron and Steel Inst., 6: 97 (1953)."
+			},
+			{
+				"doi": "10.1016/0039-6028(92)91048-G",
+				"or":  "J. M. Hyde, A. Cerezo et al., Surface Sci., 266: 370 (1992).",
+				"tr":  "J. M. Hyde, A. Cerezo et al., Surface Sci., 266: 370 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Курнаков, Изв. Сектора физ.-хим анализа, АН СССР, 9: 85 (1936).",
+				"tr":  "N. N. Kurnakov, Izv. Sektora fiz.-khim analiza, AN SSSR, 9: 85 (1936)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. З. Винтайкин, А. А. Лошманов, Физ. мет. металловед., 22, вып. 3: 473 (1966).",
+				"tr":  "E. Z. Vintaikin, A. A. Loshmanov, Fiz. met. metalloved., 22, No. 3: 473 (1966)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. З. Винтайкин, В. Ю. Колонцов, Материалы Симпозиума по металлургии и  металловедению 1968 года (Москва: 1971).",
+				"tr":  "E. Z. Vintaikin, V. Yu. Kolontsov, Materialy Simpoziuma po metallurgii i metallovedeniyu 1968 goda (Moskva: 1971)."
+			},
+			{
+				"doi": "10.1103/PhysRevA.11.1417",
+				"or":  "M. J. S. Langer, M. Baron, and H. D. Miller, Phys. Rev. A, 11, No. 4: 1417 (1975).",
+				"tr":  "M. J. S. Langer, M. Baron, and H. D. Miller, Phys. Rev. A, 11, No. 4: 1417 (1975)."
+			},
+			{
+				"doi": "10.1016/S0009-2614(99)00059-7",
+				"or":  "A. N. Andriotis, M. Menon, G. E. Froukadis, and J. E. Lowther, Chem. Phys. Lett., 301: 503 (1999).",
+				"tr":  "A. N. Andriotis, M. Menon, G. E. Froukadis, and J. E. Lowther, Chem. Phys. Lett., 301: 503 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRev.175.747",
+				"or":  "B. Velicky, S. Kirkpatrick, and H. Ehrenreich, Phys. Rev., 175: 747 (1968).",
+				"tr":  "B. Velicky, S. Kirkpatrick, and H. Ehrenreich, Phys. Rev., 175: 747 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Анисимов, В. Г. Вакс, Г. А. Суслопаров, Физ. тверд. тела, 32, №3: 916 (1990).",
+				"tr":  "V. I. Anisimov, V. G. Vaks, G. A. Susloparov, Fiz. Tverd. Tela, 32, No. 3: 916 (1990)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.49.285",
+				"or":  "J. Hufner, M. Tegze, and Ch. Becker, Phys. Rev. B, 49, No. 1: 285 (1994).",
+				"tr":  "J. Hufner, M. Tegze, and Ch. Becker, Phys. Rev. B, 49, No. 1: 285 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Haydock, The Recursion Solution of the Schrödinger Equation, in Solid State Physics (Ed. by F. Setz and D. Turnbull) (New York: Academic Press: 1980), vol. 35, p. 213–294.",
+				"tr":  "R. Haydock, The Recursion Solution of the Schrödinger Equation, in Solid State Physics (Ed. by F. Setz and D. Turnbull) (New York: Academic Press: 1980), vol. 35, p. 213–294."
+			},
+			{
+				"doi": "10.1103/PhysRevB.12.3060",
+				"or":  "O. K. Andersen, Phys. Rev. B, 12, No. 12: 3060 (1975).",
+				"tr":  "O. K. Andersen, Phys. Rev. B, 12, No. 12: 3060 (1975)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.53.2571",
+				"or":  "O. K. Andersen and O. Jepsen, Phys. Rev. Lett., 53: 2571 (1984).",
+				"tr":  "O. K. Andersen and O. Jepsen, Phys. Rev. Lett., 53: 2571 (1984)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.34.5253",
+				"or":  "O. K. Andersen, Z. Pawlowska, and O. Jepsen, Phys. Rev. B, 34: 5253 (1986).",
+				"tr":  "O. K. Andersen, Z. Pawlowska, and O. Jepsen, Phys. Rev. B, 34: 5253 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "O. K. Andersen, O. Jepsen, and D. Glotzel, in Highlights of Condensed-Matter Theory (Ed. by F. Bassani, F. Fumi, and M. P. Tosi) (New York: North-Holland: 1985).",
+				"tr":  "O. K. Andersen, O. Jepsen, and D. Glotzel, in Highlights of Condensed-Matter Theory (Ed. by F. Bassani, F. Fumi, and M. P. Tosi) (New York: North-Holland: 1985)."
+			},
+			{
+				"doi": "",
+				"or":  "O. K. Andersen, in The Electronic Structure of Complex Systems (Ed. by P. Phariseau and W. M. Temmerman) (New York: Plenum Publishing Corporation: 1984).",
+				"tr":  "O. K. Andersen, in The Electronic Structure of Complex Systems (Ed. by P. Phariseau and W. M. Temmerman) (New York: Plenum Publishing Corporation: 1984)."
+			},
+			{
+				"doi": "",
+				"or":  "O. K. Andersen, O. Jepsen, and M. Sob, in Electronic Band Structure and Its Applications (Ed. by M. Yussouff) (Berlin: Springer-Verlag: 1986).",
+				"tr":  "O. K. Andersen, O. Jepsen, and M. Sob, in Electronic Band Structure and Its Applications (Ed. by M. Yussouff) (Berlin: Springer-Verlag: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "H. L. Skriver, The LMTO Method (Berlin: Springer-Verlag: 1984).",
+				"tr":  "H. L. Skriver, The LMTO Method (Berlin: Springer-Verlag: 1984)."
+			},
+			{
+				"doi": "",
+				"or":  "U. Bath and L. Hedin, J. Phys., 5, No. 13: 1629 (1972).",
+				"tr":  "U. Bath and L. Hedin, J. Phys., 5, No. 13: 1629 (1972)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.44.3577",
+				"or":  "H. J. Nowak, O. K. Andersen, T. Fujiwara, O. Jepsen, and P. Vargas, Phys Rev. B, 44, No. 8: 3577 (1991).",
+				"tr":  "H. J. Nowak, O. K. Andersen, T. Fujiwara, O. Jepsen, and P. Vargas, Phys Rev. B, 44, No. 8: 3577 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "N. Beer and D. G. Pettifor, in The Electronic Structure of Complex Systems (Ed. by P. Phariseau, W. M. Tammerman) (New York: Plenum: 1983).",
+				"tr":  "N. Beer and D. G. Pettifor, in The Electronic Structure of Complex Systems (Ed. by P. Phariseau, W. M. Tammerman) (New York: Plenum: 1983)."
+			},
+			{
+				"doi": "10.1016/0010-4655(84)90163-2",
+				"or":  "C. M. M. Nex, Computer Phys. Comm., 34: 101 (1984).",
+				"tr":  "C. M. M. Nex, Computer Phys. Comm., 34: 101 (1984)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.30.6118",
+				"or":  "D. Vanderbilt and S. G. Louie, Phys. Rev. B, 30, 6118 (1984).",
+				"tr":  "D. Vanderbilt and S. G. Louie, Phys. Rev. B, 30, 6118 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. С. Митрохин, Самосогласованный расчет электронной структуры кластеров в прямом пространстве методом рекурсии. Программный комплекс RS–LMTO–ASA, Кластерные системы и материалы (Ижевск: 1997), с. 185–197.",
+				"tr":  "Yu. S. Mitrokhin, Samosoglasovannyi raschet elektronnoi struktury klasterov v pryamom prostranstve metodom rekursii. Programmnyi kompleks RS–LMTO–ASA, Klasternye sistemy i materialy (Izhevsk: 1997), s. 185–197."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Эренрейх, Л. Шварц, Электронная структура сплавов (Москва: Мир: 1979).",
+				"tr":  "G. Erenreikh, L. Shvarts, Elektronnaya struktura splavov (Moskva: Mir: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Вол, Строение и свойства двойных металлических систем (Москва: Физ.-мат. лит.: 1962), т. 2.",
+				"tr":  "A. E. Vol, Stroenie i svoistva dvoinykh metallicheskikh sistem (Moskva: Fiz.-Mat. Lit.: 1962), vol. 2."
+			},
+			{
+				"doi": "10.1103/PhysRevB.14.228",
+				"or":  "A. T. Aldrer, B. D. Rainfold, J. S. Kouvel, and T. J. Hicks, Phys. Rev. B, 14, No. 1: 228 (1976).",
+				"tr":  "A. T. Aldrer, B. D. Rainfold, J. S. Kouvel, and T. J. Hicks, Phys. Rev. B, 14, No. 1: 228 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. А. Дорофеев, А. З. Меньшиков, Г. А. Такзей, Физ. мет. металловед., 55, вып. 5: 948 (1983).",
+				"tr":  "Yu. A. Dorofeev, A. Z. Men'shikov, G. A. Takzei, Fiz. Met. Mmetalloved., 55, No. 5: 948 (1983)."
+			}
+		]
+	}
+}

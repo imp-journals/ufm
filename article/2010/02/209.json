@@ -1,0 +1,404 @@
+{
+	"_id":    "UFM.11.02.209",
+	"year":   2010,
+	"volume": 11,
+	"issue":  2,
+	"pages":  [209,247],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["27.01.2010"],
+	"PACS":   "62.20.Qp, 79.20.Eb, 81.15.Fg, 81.16.Mk, 81.40.Wx, 81.65.-b, 87.85.J-",
+	"title":   {
+		"ua": "Лазерна модифікація поверхні титанових імплантатів",
+		"en": "Laser-Assisted Modification of a Surface of Titanium Implants",
+		"ru": "Лазерная модификация поверхности титановых имплантатов"
+	},
+	"abstract": {
+		"ua": "Основними матеріялами для виготовлення дентальних і ортопедичних імплантатів є технічно чистий титан і його стопи. В даний час розвиваються різні методи обробки металевих поверхонь з метою поліпшення їх біосумісних властивостей і прискорення процесу загоєння титанових імплантатів. Ці методи ґрунтуються на морфологічній або біохемічній модифікації фізичних, хемічних і механічних властивостей, зокрема, зміні поверхневої енергії, поверхневого заряду, хемічного складу і топографії поверхні. В останні роки виник новий перспективний напрям, пов’язаний із застосуванням лазерної технології для обробки металевих матеріялів з метою поліпшення біосумісних, трибологічних і корозійних властивостей поверхні металевих імплантатів. За допомогою такої технології можна вирішити завдання модифікації комплексу поверхневих властивостей, зокрема, титанових імплантатів. У цьому огляді виконано аналізу робіт, присвячених дослідженням впливу лазерної обробки поверхні титанових імплантатів з точки зору різних аспектів проблеми біосумісности (експерименти in vitro та in vivo). Метою огляду є ознайомлення читачів з деякими роботами останніх років, виконаними зарубіжними авторами в області лазерної модифікації структури, фізико-хемічних і фізико-механічних властивостей поверхні титанових імплантатів, а також дослідження їх впливу на поведінку клітинних культур і взаємодії з кістковими тканинами. Пропонований читачеві огляд не претендує на повну аналізу всіх відомих публікацій в даній області. Головна мета огляду полягає в демонстрації найбільш успішних напрямів використання лазерного випромінення для підвищення комплексу біосумісних властивостей титану і його стопів.",
+		"en": "Basic materials for the dental and orthopaedic implants production are commercially pure titanium and titanium alloys. Currently, the different methods of the metallic-surface treatments are developed for the purpose of their biocompatible-properties improvement and acceleration of the healing process of titanium implants. These methods are based on the morphological or biochemical modification of physical, chemical and mechanical properties, in particular, changes of surface energy, surface charge, chemical composition, and surface topography. Lately, there is a new prospective area related to the use of laser technology for treatment of the metallic materials for the purpose of improvement of biocompatible, tribology and corrosive characteristics of metallic-implants surface. By such a technology, it is possible to solve a problem of the surface-properties complex modification, in particular, for titanium implants. In a given review, the analysis of works dealing with the researches of an influence of the laser treatment of titanium-implants surface with regard to different aspects of the biocompatibility problem (for in vitro and in vivo experiments) is carried out. The goal of this review is an acquaintance of readers with some works of the last years undertaken by foreign authors in area of the laser-assisted modification of a structure, physicochemical and physical-mechanical properties of a surface of titanium implants as well as researches of both their influence on the behaviour of cell cultures and their interplays with bone tissues. An offered review does not claim to be exhaustive analysis of all known publications in this area. The primary aim of this review lies in demonstration of the most successful areas of the laser-radiation application for increase of the biocompatible-properties complex of titanium implants.",
+		"ru": "Основными материалами для изготовления дентальных и ортопедических имплантатов являются технически чистый титан и его сплавы. В настоящее время развиваются различные методы обработки металлических поверхностей с целью улучшения их биосовместимых свойств и ускорения процесса заживления титановых имплантатов. Эти методы основаны на морфологической или биохимической модификации физических, химических и механических свойств, в частности, изменении поверхностной энергии, поверхностного заряда, химического состава и топографии поверхности. В последние годы возникло новое перспективное направление, связанное с применением лазерной технологии для обработки металлических материалов с целью улучшения биосовместимых, трибологических и коррозионных свойств поверхности металлических имплантатов. С помощью такой технологии можно решить задачи модификации комплекса поверхностных свойств, в частности, титановых имплантатов. В настоящем обзоре проведен анализ работ, посвященных исследованиям влияния лазерной обработки поверхности титановых имплантатов с точки зрения различных аспектов проблемы биосовместимости (эксперименты in vitro и in vivo). Целью обзора является ознакомление читателей с некоторыми работами последних лет, выполненными зарубежными авторами в области лазерной модификации структуры, физико-химических и физико-механических свойств поверхности титановых имплантатов, а также исследования их влияния на поведение клеточных культур и взаимодействия с костными тканями. Предлагаемый читателю обзор не претендует на полный анализ всех известных публикаций в данной области. Главная цель обзора заключается в демонстрации наиболее успешных направлений использования лазерного излучения для повышения комплекса биосовместимых свойств титана и его сплавов."
+	},
+	"keywords": {
+		"ua": "титан, імплантати, біосумісність, поверхня, лазерна обробка",
+		"en": "titanium, implants, biocompatibility, surface, laser processing",
+		"ru": "титан, имплантаты, биосовместимость, поверхность, лазерная обработка"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. О. Васильєв", "en": "M. O. Vasyliev", "ru": "М. А. Васильев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. М. Нищенко", "en": "M. M. Nyshchenko", "ru": "М. М. Нищенко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "П. О. Гурін", "en": "P. O. Gurin", "ru": "П. А. Гурин"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.15407/ujpe62.01.0020",
+				"cit": "O.O. Havryliuk and O.Yu. Semchuk, <a href=\"https://doi.org/10.15407/ujpe62.01.0020\">Ukr. J. Phys. <b>62</b>, 20 (2017)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 70,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. С. Онищенко, Р. Р. Ілик, Вісник стоматології, № 4: 716 (1997).",
+				"tr":  "V. S. Onishchenko, R. R. Іlik, Vіsnik stomatologії, No. 4: 716 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Р. Ілик, Современная стоматология, № 3: 62 (1998).",
+				"tr":  "R. R. Іlik, Sovremennaya stomatologiya, No. 3: 62 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Р. Ілик, Современная стоматология, № 3: 65 (1998).",
+				"tr":  "R. R. Іlik, Sovremennaya stomatologiya, No. 3: 65 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Потапчик, Ортопедия, травматология и протезирование, № 3: 34 (1998).",
+				"tr":  "A. M. Potapchik, Ortopediya, travmatologiya i protezirovanie, No. 3: 34 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Р. Ілик, Вісник стоматології, № 1: 55 (1999).",
+				"tr":  "R. R. Іlik, Vіsnik stomatologії, No. 1: 55 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Онищенко, Р. Р. Ілик, Новини стоматології, № 1: 16 (1999).",
+				"tr":  "V. S. Onishchenko, R. R. Іlik, Novini stomatologії, No. 1: 16 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Ю. Иванов, А. Ф. Бизяев, М. В. Ломакин и др., Стоматологическая имплантология (Москва: ГОУ ВУНМЦ МЗ РФ: 2000).",
+				"tr":  "S. Yu. Ivanov, A. F. Bizyaev, M. V. Lomakin et al., Stomatologicheskaya implantologiya (Moskva: GOU VUNMTs MZ RF: 2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. Заблоцкий, Імплантація в незнімному протезуванні (Львів: ГалДент: 2006).",
+				"tr":  "Ya. Zablotskii, Іmplantatsіya v neznіmnomu protezuvannі (L'vіv: GalDent: 2006)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Балабанников, Н. А. Ночевная, И. В. Гайдук, Стоматологическая имплантология (Москва: ГОУ ВУНМЦ МЗ РФ: 2000).",
+				"tr":  "S. A. Balabannikov, N. A. Nochevnaya, I. V. Gaiduk, Stomatologicheskaya implantologiya (Moskva: GOU VUNMTs MZ RF: 2000)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Л. Параскевич, Дентальная имплантология (Минск: ООО «Медицинское информационное агентство»: 2006).",
+				"tr":  "V. L. Paraskevich, Dental'naya implantologiya (Minsk: OOO \"Meditsinskoe informatsionnoe agentstvo\": 2006)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Ошкадеров, Материалы для медицины. Неорганическое материаловедение (Ред. Г. Г. Гнесин, В. В. Скороход) (Киев: Наукова думка: 2008), с. 629.",
+				"tr":  "S. P. Oshkaderov, Materialy dlya meditsiny. Neorganicheskoe materialovedenie (Red. G. G. Gnesin, V. V. Skorokhod) (Kiev: Naukova dumka: 2008), s. 629."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Иголкин, Титан, № 1: 86 (1993).",
+				"tr":  "A. I. Igolkin, Titan, No. 1: 86 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Прохончуков, А. И. Смирнов, В. И. Ребров и др., Стоматология, № 3: 43 (1999).",
+				"tr":  "A. A. Prokhonchukov, A. I. Smirnov, V. I. Rebrov et al., Stomatologiya, No. 3: 43 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Прохончуков, Н. А. Жижина, Лазеры в стоматологии (Москва: Медицина: 1986), с. 176.",
+				"tr":  "A. A. Prokhonchukov, N. A. Zhizhina, Lazery v stomatologii (Moskva: Meditsina: 1986), s. 176."
+			},
+			{
+				"doi": "",
+				"or":  "И. Я. Дехтяр, М. М. Нищенко, Ю. Н. Петров, Металлофизика, 68: 42 (1977).",
+				"tr":  "I. Ya. Dekhtyar, M. M. Nishchenko, Yu. N. Petrov, Metallofizika, 68: 42 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Я. Дехтяр, М. М. Нищенко, Металлофизика, 4: 29 (1982).",
+				"tr":  "I. Ya. Dekhtyar, M. M. Nishchenko, Metallofizika, 4: 29 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Нищенко, Металлофизика, 14: 39 (1993).",
+				"tr":  "M. M. Nishchenko, Metallofizika, 14: 39 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Нищенко, Б. П. Ковалюк, Ю. Н. Никифоров, Металлофиз. новейшие технол., 26, № 9: 1227 (2004).",
+				"tr":  "M. M. Nishchenko, B. P. Kovalyuk, Yu. N. Nikiforov, Metallofiz. Noveishie Tekhnol., 26, No. 9: 1227 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Нищенко, М. А. Васильев, С. И. Сидоренко, С. М. Волошко, Н. Ю. Вилкова, Металлофиз. новейшие технол., 23: 983 (2001).",
+				"tr":  "M. M. Nishchenko, M. A. Vasil'ev, S. I. Sidorenko, S. M. Voloshko, N. Yu. Vilkova, Metallofiz. Noveishie Tekhnol., 23: 983 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Нищенко, М. А. Васильев, С. И. Сидоренко, С. М. Волошко, Н. Ю. Вилкова, Металлофиз. новейшие технол., 24: 203 (2002).",
+				"tr":  "M. M. Nishchenko, M. A. Vasil'ev, S. I. Sidorenko, S. M. Voloshko, N. Yu. Vilkova, Metallofiz. Noveishie Tekhnol., 24: 203 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Нищенко, М. А. Васильев, С. И. Сидоренко, С. М. Волошко, Н. Ю. Вилкова, Металлофиз. новейшие технол., 25: 603 (2003).",
+				"tr":  "M. M. Nishchenko, M. A. Vasil'ev, S. I. Sidorenko, S. M. Voloshko, N. Yu. Vilkova, Metallofiz. Noveishie Tekhnol., 25: 603 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "М. О. Васильєв, П. А. Гурин, В. С. Філатова, Науковий вісник Ужгородського університету. Сер. Фізика, № 17: 87 (2005).",
+				"tr":  "M. O. Vasil'єv, P. A. Gurin, V. S. Fіlatova, Naukovii vіsnik Uzhgorods'kogo unіversitetu. Ser. Fіzika, No. 17: 87 (2005)."
+			},
+			{
+				"doi": "10.1016/S0169-4332(02)00461-0",
+				"or":  "E. Gyorgy, A. Perez del Pino, P. Serra et al., Appl. Surf. Sci., 197–198: 851 (2002).",
+				"tr":  "E. Gyorgy, A. Perez del Pino, P. Serra et al., Appl. Surf. Sci., 197–198: 851 (2002)."
+			},
+			{
+				"doi": "10.1016/S0142-9612(03)00318-1",
+				"or":  "M. Bereznaia, I. Pelsoczi, Z. Toth et al., Biomaterials, 24: 4197 (2003).",
+				"tr":  "M. Bereznaia, I. Pelsoczi, Z. Toth et al., Biomaterials, 24: 4197 (2003)."
+			},
+			{
+				"doi": "10.1016/j.vacuum.2006.01.016",
+				"or":  "M. Tsukamotoa, K. Asukab, H. Nakanoc et al., Vacuum, 80: 1346 (2006).",
+				"tr":  "M. Tsukamotoa, K. Asukab, H. Nakanoc et al., Vacuum, 80: 1346 (2006)."
+			},
+			{
+				"doi": "10.1016/j.actbio.2007.05.009",
+				"or":  "W. Xue, B. Vamsi Krishna, A. Bandyopadhyay, and S. Bose, Acta Biomaterialia, 3: 1007 (2007).",
+				"tr":  "W. Xue, B. Vamsi Krishna, A. Bandyopadhyay, and S. Bose, Acta Biomaterialia, 3: 1007 (2007)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2007.05.048",
+				"or":  "F. J. C. Braga and F. C. Rodrigo, Appl. Surf. Sci., 253: 9203 (2007).",
+				"tr":  "F. J. C. Braga and F. C. Rodrigo, Appl. Surf. Sci., 253: 9203 (2007)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2007.03.006",
+				"or":  "A. Y. Vorobyev and C. Guo, Appl. Surf. Sci., 253: 7272 (2007).",
+				"tr":  "A. Y. Vorobyev and C. Guo, Appl. Surf. Sci., 253: 7272 (2007)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2009.04.027",
+				"or":  "V. Oliveira, S. Ausset, and R. Vilar, Appl. Surf. Sci., 255: 7556 (2009).",
+				"tr":  "V. Oliveira, S. Ausset, and R. Vilar, Appl. Surf. Sci., 255: 7556 (2009)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2006.02.012",
+				"or":  "H. Li, S. Costil, V. Barnier et al., Surf. Coat. Technol., 201: 1383 (2006).",
+				"tr":  "H. Li, S. Costil, V. Barnier et al., Surf. Coat. Technol., 201: 1383 (2006)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2007.04.084",
+				"or":  "M. E. Khosroshahi, M. Mahmoodi, and J. Tavakoli, Appl. Surf. Sci., 253: 8772 (2007).",
+				"tr":  "M. E. Khosroshahi, M. Mahmoodi, and J. Tavakoli, Appl. Surf. Sci., 253: 8772 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Zielińskia, M. Jażdżewska, A. Narożniak-Łuksza, and W. Serbiński, J. Achievements in Materials and Manufacturing Engineering, 18: 123 (2006).",
+				"tr":  "A. Zielińskia, M. Jażdżewska, A. Narożniak-Łuksza, and W. Serbiński, J. Achievements in Materials and Manufacturing Engineering, 18: 123 (2006)."
+			},
+			{
+				"doi": "10.1016/j.msec.2008.05.002",
+				"or":  "A. Y. Fasasi, S. Mwenifumbo, N. Rahbar et al., Mater. Sci. Eng. C, 29: 5 (2009).",
+				"tr":  "A. Y. Fasasi, S. Mwenifumbo, N. Rahbar et al., Mater. Sci. Eng. C, 29: 5 (2009)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2005.01.165",
+				"or":  "L. Hao, J. Lawrence, and L. Li, Appl. Surf. Sci., 247: 602 (2005).",
+				"tr":  "L. Hao, J. Lawrence, and L. Li, Appl. Surf. Sci., 247: 602 (2005)."
+			},
+			{
+				"doi": "10.1016/j.biomaterials.2005.07.041",
+				"or":  "D. A. Hollandera, M. von Waltera, T. Wirtzb et al., Biomaterials, 27: 955 (2006).",
+				"tr":  "D. A. Hollandera, M. von Waltera, T. Wirtzb et al., Biomaterials, 27: 955 (2006)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2005.07.107",
+				"or":  "J. Lawrence, L. Hao, and H. R. Chew, Surf. Coat. Technol., 200: 5581 (2006).",
+				"tr":  "J. Lawrence, L. Hao, and H. R. Chew, Surf. Coat. Technol., 200: 5581 (2006)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2007.02.168",
+				"or":  "N. Mirhosseini, P. L. Crouse, M. J. J. Schmidth et al., Appl. Surf. Sci., 253: 7738 (2007).",
+				"tr":  "N. Mirhosseini, P. L. Crouse, M. J. J. Schmidth et al., Appl. Surf. Sci., 253: 7738 (2007)."
+			},
+			{
+				"doi": "10.1016/j.msec.2004.12.010",
+				"or":  "R. Banerjee, S. Nag, and H. L. Fraser, Mater. Sci. Eng. C, 25: 282 (2005).",
+				"tr":  "R. Banerjee, S. Nag, and H. L. Fraser, Mater. Sci. Eng. C, 25: 282 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "X. D. Zhang, C. Brice, D. W. Mahaffey et al., Scripta Mater., 44: 2419 (200).",
+				"tr":  "X. D. Zhang, C. Brice, D. W. Mahaffey et al., Scripta Mater., 44: 2419 (200)."
+			},
+			{
+				"doi": "10.1016/S1359-6462(01)01107-1",
+				"or":  "K. I. Schwendner, R. Banerjee, P. C. Collins et al., Scripta Mater., 45: 1123 (2001).",
+				"tr":  "K. I. Schwendner, R. Banerjee, P. C. Collins et al., Scripta Mater., 45: 1123 (2001)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(03)00299-5",
+				"or":  "R. Banerjee, P. C. Collins, A. Gen, and H. L. Fraser, Mater. Sci. Eng. A, 358: 343 (2003).",
+				"tr":  "R. Banerjee, P. C. Collins, A. Gen, and H. L. Fraser, Mater. Sci. Eng. A, 358: 343 (2003)."
+			},
+			{
+				"doi": "10.1016/j.actbio.2007.05.009",
+				"or":  "W. Xue, B. Vamsi Krishna, A. Bandyopadhyay, and S. Bose, Acta Biomaterialia., 3: 1007 (2007).",
+				"tr":  "W. Xue, B. Vamsi Krishna, A. Bandyopadhyay, and S. Bose, Acta Biomaterialia., 3: 1007 (2007)."
+			},
+			{
+				"doi": "10.1016/j.msec.2008.11.014",
+				"or":  "J. Chen, J. P. Ulerich, E. Abelev et al., Mater. Sci. Eng. C, 29: 1442 (2009).",
+				"tr":  "J. Chen, J. P. Ulerich, E. Abelev et al., Mater. Sci. Eng. C, 29: 1442 (2009)."
+			},
+			{
+				"doi": "10.1016/S0142-9612(02)00266-1",
+				"or":  "C. Hallgrena, H. Reimersb, D. Chakarovb et al., Biomaterials, 24: 701 (2003).",
+				"tr":  "C. Hallgrena, H. Reimersb, D. Chakarovb et al., Biomaterials, 24: 701 (2003)."
+			},
+			{
+				"doi": "10.1016/S0142-9612(03)00377-6",
+				"or":  "S.-A. Cho and S.-K. Jung, Biomaterials, 24: 4859 (2003).",
+				"tr":  "S.-A. Cho and S.-K. Jung, Biomaterials, 24: 4859 (2003)."
+			},
+			{
+				"doi": "10.1016/S0928-4931(02)00316-8",
+				"or":  "A. Karacsa, A. Joob Fancsaly, T. Divinyi et al., Mater. Sci. Eng. C, 23: 431 (2003).",
+				"tr":  "A. Karacsa, A. Joob Fancsaly, T. Divinyi et al., Mater. Sci. Eng. C, 23: 431 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Sh.-H. Hsu, B.-Sh. Liu, W.-H. Lin et al., Bio-Med. Mater. Eng., 17: 53 (2007).",
+				"tr":  "Sh.-H. Hsu, B.-Sh. Liu, W.-H. Lin et al., Bio-Med. Mater. Eng., 17: 53 (2007)."
+			},
+			{
+				"doi": "10.1016/S0169-4332(01)00769-3",
+				"or":  "G. Peto, A. Karacs, Z. Paszti et al., Appl. Surf. Sci., 186: 7 (2002).",
+				"tr":  "G. Peto, A. Karacs, Z. Paszti et al., Appl. Surf. Sci., 186: 7 (2002)."
+			},
+			{
+				"doi": "10.1016/j.jbiomech.2005.05.036",
+				"or":  "M. Muller, F.F. Hennig, T. Hothornc et al., J. Biomechanics, 39: 2123 (2006).",
+				"tr":  "M. Muller, F.F. Hennig, T. Hothornc et al., J. Biomechanics, 39: 2123 (2006)."
+			},
+			{
+				"doi": "10.1016/j.biomaterials.2003.11.002",
+				"or":  "H. E. Gotza, M. Muller, A. Emmelc et al., U. Biomaterials, 25: 4057 (2004).",
+				"tr":  "H. E. Gotza, M. Muller, A. Emmelc et al., U. Biomaterials, 25: 4057 (2004)."
+			},
+			{
+				"doi": "10.1007/s10856-009-3730-4",
+				"or":  "M. Rong, L. Zhou, Z. Gou et al., J. Mater. Sci.: Mater. Med., 20: 1721 (2009).",
+				"tr":  "M. Rong, L. Zhou, Z. Gou et al., J. Mater. Sci.: Mater. Med., 20: 1721 (2009)."
+			},
+			{
+				"doi": "10.1016/j.biomaterials.2004.11.020",
+				"or":  "N. Moritza, S. Arevab, J. Wolked, and T. Peltolaa, Biomaterials, 26: 4460 (2005).",
+				"tr":  "N. Moritza, S. Arevab, J. Wolked, and T. Peltolaa, Biomaterials, 26: 4460 (2005)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2008.06.018",
+				"or":  "K. Das, V. Krishna Balla, A. Bandyopadhyay, and S. Bose, Scripta Materialia, 59: 822 (2008).",
+				"tr":  "K. Das, V. Krishna Balla, A. Bandyopadhyay, and S. Bose, Scripta Materialia, 59: 822 (2008)."
+			},
+			{
+				"doi": "10.1016/S0142-9612(01)00327-1",
+				"or":  "J. M. Fernandez-Pradas, L. Cleries, G. Sardin, and J. L. Morenza, Biomaterials, 23: 1989 (2002).",
+				"tr":  "J. M. Fernandez-Pradas, L. Cleries, G. Sardin, and J. L. Morenza, Biomaterials, 23: 1989 (2002)."
+			},
+			{
+				"doi": "10.1016/j.dental.2004.12.003",
+				"or":  "O. Blinda, L. H. Kleinb, B. Daileya, and L. Jordan, Dent. Mater., 21: 1017 (2005).",
+				"tr":  "O. Blinda, L. H. Kleinb, B. Daileya, and L. Jordan, Dent. Mater., 21: 1017 (2005)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2007.02.172",
+				"or":  "N. Mirhosseini, P. L. Crouse, L. Li , and D. Garrod, Appl. Surf. Sci., 253: 7998 (2007).",
+				"tr":  "N. Mirhosseini, P. L. Crouse, L. Li, and D. Garrod, Appl. Surf. Sci., 253: 7998 (2007)."
+			},
+			{
+				"doi": "10.1016/j.actbio.2007.09.008",
+				"or":  "M. Roy, B. Vamsi Krishna, A. Bandyopadhyay, and S. Bose, Acta Biomaterialia, 4: 324 (2008).",
+				"tr":  "M. Roy, B. Vamsi Krishna, A. Bandyopadhyay, and S. Bose, Acta Biomaterialia, 4: 324 (2008)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2008.06.078",
+				"or":  "M. Zheng, D. Fan, X.-K. Li et al., Appl. Surf. Sci., 255: 426 (2008).",
+				"tr":  "M. Zheng, D. Fan, X.-K. Li et al., Appl. Surf. Sci., 255: 426 (2008)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2009.07.004",
+				"or":  "H. Katayama, M. Katto, and T. Nakayama, Surf. Coat. Technol., 204: 135 (2009).",
+				"tr":  "H. Katayama, M. Katto, and T. Nakayama, Surf. Coat. Technol., 204: 135 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Nakayama, M. Kuwata, and T. Matsutani, Chinese Journal of Laser B, 10: 1 (2001).",
+				"tr":  "T. Nakayama, M. Kuwata, and T. Matsutani, Chinese Journal of Laser B, 10: 1 (2001)."
+			},
+			{
+				"doi": "10.1016/S0169-4332(02)00411-7",
+				"or":  "M. Katto, M. Nakamura, T. Tanaka, and T. Nakayama, Appl. Surf. Sci., 197–198: 768 (2002).",
+				"tr":  "M. Katto, M. Nakamura, T. Tanaka, and T. Nakayama, Appl. Surf. Sci., 197–198: 768 (2002)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(03)00178-6",
+				"or":  "M. Katto, M. Nakamura, T. Tanaka et al., Surf. Coat. Technol., 169–170: 712 (2003).",
+				"tr":  "M. Katto, M. Nakamura, T. Tanaka et al., Surf. Coat. Technol., 169–170: 712 (2003)."
+			},
+			{
+				"doi": "10.1007/s00339-004-2813-9",
+				"or":  "T. Nakayama, T. Tanaka, Y. Tsumoto et al., Appl. Phys. A, 79: 833 (2004).",
+				"tr":  "T. Nakayama, T. Tanaka, Y. Tsumoto et al., Appl. Phys. A, 79: 833 (2004)."
+			},
+			{
+				"doi": "10.1541/ieejeiss.126.1283",
+				"or":  "H. Katayama, K. Ishibashi, M. Dodo et al., IEEJ Trans. EIS, 126: 1283 (2006).",
+				"tr":  "H. Katayama, K. Ishibashi, M. Dodo et al., IEEJ Trans. EIS, 126: 1283 (2006)."
+			},
+			{
+				"doi": "10.1016/S0169-4332(02)00447-6",
+				"or":  "A. Perez del Pino, P. Serra, and J. L. Morenza, Appl. Surf. Sci., 197–198: 887 (2002).",
+				"tr":  "A. Perez del Pino, P. Serra, and J. L. Morenza, Appl. Surf. Sci., 197–198: 887 (2002)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(02)00477-X",
+				"or":  "Z. Sun, I. Annergren, D. Pan, and T. A. Mai, Mater. Sci. Eng. A, 345: 293 (2003).",
+				"tr":  "Z. Sun, I. Annergren, D. Pan, and T. A. Mai, Mater. Sci. Eng. A, 345: 293 (2003)."
+			},
+			{
+				"doi": "10.1016/S0167-577X(01)00395-0",
+				"or":  "T. M. Yue, J. K. Yu, Z. Mei, and H. C. Man, Materials Letters, 52: 206 (2002).",
+				"tr":  "T. M. Yue, J. K. Yu, Z. Mei, and H. C. Man, Materials Letters, 52: 206 (2002)."
+			},
+			{
+				"doi": "10.1016/j.electacta.2008.01.086",
+				"or":  "N. Zaveri, M. Mahapatra, A. Deceuster et al., Electrochimica Acta, 53: 5022 (2008).",
+				"tr":  "N. Zaveri, M. Mahapatra, A. Deceuster et al., Electrochimica Acta, 53: 5022 (2008)."
+			},
+			{
+				"doi": "10.1016/j.triboint.2008.03.007",
+				"or":  "M. C. Marco de Lucas, L. Lavisse, and G. Pillon, Tribology International, 41: 985 (2008).",
+				"tr":  "M. C. Marco de Lucas, L. Lavisse, and G. Pillon, Tribology International, 41: 985 (2008)."
+			},
+			{
+				"doi": "10.1016/j.dental.2008.11.006",
+				"or":  "I. Watanabe, M. McBride, P. Newton, and K. S. Kurtz, Dent. Mater., 25: 629 (2009).",
+				"tr":  "I. Watanabe, M. McBride, P. Newton, and K. S. Kurtz, Dent. Mater., 25: 629 (2009)."
+			}
+		]
+	}
+}

@@ -1,0 +1,259 @@
+{
+	"_id":    "UFM.02.01.051",
+	"year":   2001,
+	"volume": 2,
+	"issue":  1,
+	"pages":  [51,84],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["08.09.2000"],
+	"PACS":   "61.10Dp, 61.10.Eq, 61.66.Fn, 61.72.Bb, 61.72.Ff, 61.72.Mm",
+	"title":   {
+		"ua": "Вплив двійникової мікроструктуриы кристалів з низькою тетрагональністю на дифрацію",
+		"en": "Influence of Twinning Microstructure of Crystals with Low Tetragonality on a X-Ray Diffraction",
+		"ru": "Влияние двойниковой микроструктуры кристаллов с низкой тетрагональностью на дифрацию"
+	},
+	"abstract": {
+		"ua": "Методом Монте Карло в кінематичному наближенні змодельовано розподіли інтенсивності рентгенівських променів, розсіяних монокристалами з тетрагональною граткою, які являють собою комплекс двійникових доменів, розділених паралельними когерентними границями. Розподіли товщин двійникових доменів моделювались з використанням геометричної, гаусової та нормально-логарифмічної функцій. При певних значеннях параметрів цих функцій виявлено «критичні» ефекти розсіяння, що являють собою перетворення тетрагонального дублету в одиночний пік або в мультиплет. Показано, що кожна з характеристик профілю тетрагонального дублета залежить від кількох параметрів, що характеризують двійникову мікроструктуру кристалу, а також ступеню тетрагональності.",
+		"en": "The intensity distributions of the X-rays scattered in the tetragonal single crystal, which represent a complex of the twin domains separated by the coherent parallel boundaries, are simulated. The calculations are performed by using the Monte Carlo method within the framework of a kinematical approach. The thickness distributions of the twin domains are defined according to the geometrical, Gaussian and log normal functions. ‘Critical’ effects of the X-ray scattering are found, namely there is transformation of the tetragonal doublet into singlet or multiplet. As demonstrated, each of characteristics of the tetragonal doublet profile depends on a few parameters of the twin microstructure of a crystal and cell tetragonality as well.",
+		"ru": "Методом Монте Карло в кинематическом приближении смоделированы распределения интенсивности рентгеновских лучей, рассеянных монокристаллами с тетрагональной решеткой, которые представляют собой комплекс двойниковых доменов, разделенных параллельными когерентными границами. Распределения толщин двойниковых доменов моделировались с использованием геометрической, гауссовой и нормально-логарифмической функций. При определенных значениях параметров этих функций выявлены «критические» эффекты рассеяния, заключающиеся в превращении тетрагонального дублета в одиночный пик или в мультиплет. Показано, что каждая из характеристик профиля тетрагонального дублета зависит от нескольких параметров, характеризующих двойниковую микроструктуру кристалла, а также от степени тетрагональности."
+	},
+	"keywords": {
+		"ua": "дифракція Рентґенових променів, дифузне розсіяння, тетрагональний кристал, двійники, сателіти",
+		"en": "X-ray diffraction, diffuse scattering, tetragonal crystal, twins, satellite",
+		"ru": "дифракция рентгеновских лучей, диффузное рассеяние, тетрагональный кристалл, двойники, сателлиты"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. І. Устінов", "en": "A. I. Ustinov", "ru": "А. И. Устинов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Л. О. Оліховська", "en": "L. O. Olikhovs'ka", "ru": "Л. А. Олиховская"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Ж.-К. Ниєпс", "en": "J.-C. Niepce", "ru": "Ж.-К. Ниепс"},
+			"OID": [505]
+		},
+		{
+			"AID": {"ua": "Ф. Бернар", "en": "F. Bernard", "ru": "Ф. Бернар"},
+			"OID": [505]
+		}
+	],
+	"references": {
+		"count": 42,
+				"list":  [
+			{
+				"doi": "",
+				"or":  "K. H. Salje, Phase Transitions in Ferroelastic and Co-Elastic Crystals (Cambridge: Cambridge University Press: 1993).",
+				"tr":  "K. H. Salje, Phase Transitions in Ferroelastic and Co-Elastic Crystals (Cambridge: Cambridge University Press: 1993)."
+			},
+			{
+				"doi": "",
+				"or":  "N. S. Afonnikova i dr., Fiz. tverd. tela, 29,vyp. 3: 813 (1987).",
+				"tr":  "N. S. Afonnikova i dr., Fiz. tverd. tela, 29,vyp. 3: 813 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "V.A.Zhirnov, ZhETF, 35, vyp. 5(11): 1175 (1958).",
+				"tr":  "V.A.Zhirnov, ZhETF, 35, vyp. 5(11): 1175 (1958)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.31.5984",
+				"or":  "A. E. Jacobs, Phys. Rev. B, 31, No. 9: 5984 (1985).",
+				"tr":  "A. E. Jacobs, Phys. Rev. B, 31, No. 9: 5984 (1985)."
+			},
+			{
+				"doi": "10.1016/0038-1098(90)90486-U",
+				"or":  "Yu. B. Gaididei, V. M. Loktev, and V. S. Nikolayev, Solid State Commun., 75, No. 6: 503 (1990).",
+				"tr":  "Yu. B. Gaididei, V. M. Loktev, and V. S. Nikolayev, Solid State Commun., 75, No. 6: 503 (1990)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.44.5",
+				"or":  "W. Cao and L. E. Cross, Phys. Rev. B, 44, No. 1: 8 (1991).",
+				"tr":  "W. Cao and L. E. Cross, Phys. Rev. B, 44, No. 1: 8 (1991)."
+			},
+			{
+				"doi": "10.1080/00150199508018454",
+				"or":  "W. Cao, Ferroelectrics, 172: 31 (1995).",
+				"tr":  "W. Cao, Ferroelectrics, 172: 31 (1995)."
+			},
+			{
+				"doi": "10.1002/pssa.2210410223",
+				"or":  "Ì. Yamamoto, K. Yagi, and G. Hanjo, Phys. Status Solidi, 41: 523 (1977).",
+				"tr":  "Ì. Yamamoto, K. Yagi, and G. Hanjo, Phys. Status Solidi, 41: 523 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Roucau, M. Tanaka, J. Toress, and R. Agroles, J. Microscopy, 4: 603 (1979).",
+				"tr":  "C. Roucau, M. Tanaka, J. Toress, and R. Agroles, J. Microscopy, 4: 603 (1979)."
+			},
+			{
+				"doi": "10.1111/j.1365-2818.1983.tb04188.x",
+				"or":  "C. Boulesteix, B. Yongui, G. Nihoul, and A. Barret, J. Microscopy, 129: 315 (1983).",
+				"tr":  "C. Boulesteix, B. Yongui, G. Nihoul, and A. Barret, J. Microscopy, 129: 315 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "N. S. Afonnikova i dr., Fiz. tverd. tela, 2, vyp. 11: 3201 (1985).",
+				"tr":  "N. S. Afonnikova i dr., Fiz. tverd. tela, 2, vyp. 11: 3201 (1985)."
+			},
+			{
+				"doi": "10.1088/0022-3719/19/4/022",
+				"or":  "S. R. Andrew and R. A. Cowley, J. Phys. C: Solid State Physics, 19: 615 (1986).",
+				"tr":  "S. R. Andrew and R. A. Cowley, J. Phys. C: Solid State Physics, 19: 615 (1986)."
+			},
+			{
+				"doi": "10.1080/00150198908018088",
+				"or":  "I. M. Shmyt’ko, V. Sh. Shekhtman, Y. A. Osipyan, and N. S. Afonikova, Ferroelectrics, 97: 151 (1989).",
+				"tr":  "I. M. Shmyt'ko, V. Sh. Shekhtman, Y. A. Osipyan, and N. S. Afonikova, Ferroelectrics, 97: 151 (1989)."
+			},
+			{
+				"doi": "10.1080/09500838908206435",
+				"or":  "Y. Zhu, M. Suenaga, and Y. Xu, Phil. Mag. Let., 60, No. 2: 51 (1989).",
+				"tr":  "Y. Zhu, M. Suenaga, and Y. Xu, Phil. Mag. Let., 60, No. 2: 51 (1989)."
+			},
+			{
+				"doi": "10.1063/1.101349",
+				"or":  "Y. Zhu, M. Suenaga, Y. Xu, R. L. Salatini, and R. Modenlaugh, Appl. Phys. Lett., 54, No. 4: 373 (1989).",
+				"tr":  "Y. Zhu, M. Suenaga, Y. Xu, R. L. Salatini, and R. Modenlaugh, Appl. Phys. Lett., 54, No. 4: 373 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. A. Osip'yan i dr., Fiz. tverd. tela, 31, vyp.1: 254 (1989).",
+				"tr":  "Yu. A. Osip'yan i dr., Fiz. tverd. tela, 31, vyp.1: 254 (1989)."
+			},
+			{
+				"doi": "10.1557/JMR.1990.1380",
+				"or":  "Y. Zhu, M. Suenaga, and Y. Xu, J. Mater. Res., 5, No. 7: 1380 (1990).",
+				"tr":  "Y. Zhu, M. Suenaga, and Y. Xu, J. Mater. Res., 5, No. 7: 1380 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Cao and G. R. Barsh, Phys. Rev. B, 4: 4334 (1990).",
+				"tr":  "W. Cao and G. R. Barsh, Phys. Rev. B, 4: 4334 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "N. S. Afonnikova i dr., Fiz. tverd. tela, 33, vyp. 2: 358 (1991).",
+				"tr":  "N. S. Afonnikova i dr., Fiz. tverd. tela, 33, vyp. 2: 358 (1991)."
+			},
+			{
+				"doi": "10.1016/0304-3991(92)90037-K",
+				"or":  "F. Tsai, V. Khiznichenko, and J. M. Cowley, Ultramicroscopy, 45: 55 (1992).",
+				"tr":  "F. Tsai, V. Khiznichenko, and J. M. Cowley, Ultramicroscopy, 45: 55 (1992)."
+			},
+			{
+				"doi": "10.1016/0921-4534(94)90333-6",
+				"or":  "J. Chrosch and E. K. H. Salije, Physica C, 225: 111 (1994).",
+				"tr":  "J. Chrosch and E. K. H. Salije, Physica C, 225: 111 (1994)."
+			},
+			{
+				"doi": "10.1080/01411599408200357",
+				"or":  "B. Wruck, E. K. H. Salije, M. Zhang, T. Abraham, and U. Bismayer, Phase Transitions, 48: 135 (1994).",
+				"tr":  "B. Wruck, E. K. H. Salije, M. Zhang, T. Abraham, and U. Bismayer, Phase Transitions, 48: 135 (1994)."
+			},
+			{
+				"doi": "10.1127/ejm/8/6/1301",
+				"or":  "S. Hayward, J. Chrosch, E. K. H. Salije, and M. Carpenter, European Journal of Min-eralogy, 8, No. 6: 1301 (1996).",
+				"tr":  "S. Hayward, J. Chrosch, E. K. H. Salije, and M. Carpenter, European Journal of Min-eralogy, 8, No. 6: 1301 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "N. Floquet, C. M. Valot, M. T. Mesnier, J. C. Niepce, L. Normand, A. Thorel, and R. Kilaas, J. Phys. III (France), 1997, 7: Ð. 1105.",
+				"tr":  "N. Floquet, C. M. Valot, M. T. Mesnier, J. C. Niepce, L. Normand, A. Thorel, and R. Kilaas, J. Phys. III (France), 1997, 7: Ð. 1105."
+			},
+			{
+				"doi": "",
+				"or":  "C. Kittel, Phys. Rev., 70: 695 (1946).",
+				"tr":  "C. Kittel, Phys. Rev., 70: 695 (1946)."
+			},
+			{
+				"doi": "10.1103/PhysRev.90.193",
+				"or":  "T. Mitsui and J. Furuichi, Phys. Rev., 90: 193 (1953).",
+				"tr":  "T. Mitsui and J. Furuichi, Phys. Rev., 90: 193 (1953)."
+			},
+			{
+				"doi": "10.1080/00150199008223825",
+				"or":  "G. Arlt, Ferroelectrics, 104: 217 (1990).",
+				"tr":  "G. Arlt, Ferroelectrics, 104: 217 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "E. V. Chenskii, Sov. Phys.—Solid State, 14: 1940 (1973).",
+				"tr":  "E. V. Chenskii, Sov. Phys.—Solid State, 14: 1940 (1973)."
+			},
+			{
+				"doi": "10.1111/j.1151-2916.1996.tb08547.x",
+				"or":  "H. I. Hsiang and Fu-Su. Yen, J. Am. Ceram. Soc., 79, No. 4: 1053 (1996).",
+				"tr":  "H. I. Hsiang and Fu-Su. Yen, J. Am. Ceram. Soc., 79, No. 4: 1053 (1996)."
+			},
+			{
+				"doi": "10.1088/0953-8984/8/42/019",
+				"or":  "C. J. Lu, S. B. Ren, H. M. Shen, J. S. Liu, and Y. N. Wang, J. Phys.: Condens. Mat-ter., 8: 8011 (1996).",
+				"tr":  "C. J. Lu, S. B. Ren, H. M. Shen, J. S. Liu, and Y. N. Wang, J. Phys.: Condens. Mat-ter., 8: 8011 (1996)."
+			},
+			{
+				"doi": "10.1016/0022-3697(96)00019-4",
+				"or":  "W. Cao and C. A. Randal, J. Phys. Chem. Solids, 53, No. 10: 1499 (1996).",
+				"tr":  "W. Cao and C. A. Randal, J. Phys. Chem. Solids, 53, No. 10: 1499 (1996)."
+			},
+			{
+				"doi": "10.1063/1.345505",
+				"or":  "V. S. Teodoroscu, E. C. Nistor, and S. V. Nistor, J. Appl. Phys., 67, No. 5: 2520 (1990).",
+				"tr":  "V. S. Teodoroscu, E. C. Nistor, and S. V. Nistor, J. Appl. Phys., 67, No. 5: 2520 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "D. A. Mirzaev, Metallofizika, 4, vyp. 5: 26 (1982).",
+				"tr":  "D. A. Mirzaev, Metallofizika, 4, vyp. 5: 26 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "A. I. Ustinov, L. A. Olikhovskaya, Metallofizika, 13, vyp. 10: 41 (1991).",
+				"tr":  "A. I. Ustinov, L. A. Olikhovskaya, Metallofizika, 13, vyp. 10: 41 (1991)."
+			},
+			{
+				"doi": "10.1080/00150199608224094",
+				"or":  "E. K. H. Salje and J. Chrosch, Ferroelectrics, 183: 85 (1996).",
+				"tr":  "E. K. H. Salje and J. Chrosch, Ferroelectrics, 183: 85 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "A. I. Ustinov, J.-C. Niepce, L. A. Olikhovska, and F. Bernard, Proc. 6th European Conference on Powder Diffraction (Budapest: 1998), p. 109 (1999).",
+				"tr":  "A. I. Ustinov, J.-C. Niepce, L. A. Olikhovska, and F. Bernard, Proc. 6th European Conference on Powder Diffraction (Budapest: 1998), p. 109 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "L. D. Landau, ZhETF, 7, vyp. 11: 1227 (1937).",
+				"tr":  "L. D. Landau, ZhETF, 7, vyp. 11: 1227 (1937)."
+			},
+			{
+				"doi": "",
+				"or":  "A. J. C. Wilson, Proc. R. Soc. London, 1941, A180: 277.",
+				"tr":  "A. J. C. Wilson, Proc. R. Soc. London, 1941, A180: 277."
+			},
+			{
+				"doi": "",
+				"or":  "A. Guinier, X-Ray Diffraction in Crystals, Imperfect Crystals, and Amorphous Bodies (New York: Dover Publications: 1994), Chpt. 7.",
+				"tr":  "A. Guinier, X-Ray Diffraction in Crystals, Imperfect Crystals, and Amorphous Bodies (New York: Dover Publications: 1994), Chpt. 7."
+			},
+			{
+				"doi": "10.1103/PhysRevB.34.3586",
+				"or":  "R. Berliner and S. A. Werner, Phys. Rev. B, 34: 3586 (1986).",
+				"tr":  "R. Berliner and S. A. Werner, Phys. Rev. B, 34: 3586 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "A. I. Bichinashvili i dr., Fiz. met. metalloved., 41, vyp. 1: 130 (1976).",
+				"tr":  "A. I. Bichinashvili i dr., Fiz. met. metalloved., 41, vyp. 1: 130 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "L. I. Lysak, Doklady AN SSSR, 22, vyp. 1: 76 (1975).",
+				"tr":  "L. I. Lysak, Doklady AN SSSR, 22, vyp. 1: 76 (1975)."
+			}
+		]
+	}
+}

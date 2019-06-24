@@ -1,0 +1,190 @@
+{
+	"_id":    "UFM.15.04.213",
+	"year":   2014,
+	"volume": 15,
+	"issue":  4,
+	"pages":  [213,234],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["30.09.2014"],
+	"PACS":   "61.72.Qq, 62.20.Qp, 68.37.-d, 81.15.Pq, 81.20.Vj, 81.40.Pq, 81.65.Lp",
+	"title":   {
+		"ua": "Структура та властивості зносостійких покриттів, натоплених електродуговою методою на крицю порошковими дротами",
+		"en": "Structure and Properties of the Wear-Resistant Coatings Fused on Steel with Flux Cored Wires by an Electric Arc Method",
+		"ru": "Структура и свойства износостойких покрытий, наплавленных электродуговым методом на сталь порошковыми проволоками"
+	},
+	"abstract": {
+		"ua": "Методами оптичної, просвітлювальної і сканувальної електронних мікроскопій, рентґеноструктурної аналізи, визначення мікротвердости, зносостійкости та коефіцієнта тертя досліджено структурно-фазові стани і механічні властивості покриттів, натоплених на мартенситну крицю Hardox 400 (0,18 С, 0,7 S, 1,6 Mn) зварювальними дротами діяметром 1,6 мм різного хемічного складу EnDOtec DO$^{*}$33 (2,06 С, 0,6 Si, 2,51 Mn, 13,5 Сr, 6,4Nb) EnDOtec DO$^{*}$30 (0,5 С, 0,4 S, 1,4 Mn, 1 Сr) і SK A 70-G (2,6 С, 0,6 Si, 1,7 Mn, 2,2 В, 14,8 Сr, 4,7 Nb). Формування натоплення на поверхні криці супроводжується утворенням багатошарової структури, шари якої розрізняються морфологією елементів субструктури. Об’єм натоплення характеризується наявністю мікропор і мікротріщин, що вказує на пружньо-напружений стан матеріялу. Джерелами тріщин є великі включення другої фази і дендрити кристалізації. Показано, що покриття мають більш високі мікротвердість (у 2–3 рази) і зносостійкість (у 2 рази), а коефіцієнт тертя — нижчий (у 1,2 рази), аніж у підложжя; мікротвердість наплавленого покриття лишається сталою по всій глибині до 4,0 мм. Зміцнення обумовлене формуванням субмікророзмірної та нанорозмірної структур, що містять частинки других фаз (Fe$_{3}$C, Fe$_{23}$(CB)$_{6}$, NbC, (FeSi)$_{3}$B, Cr$_{3}$C$_{2}$, Fe$_{3}$B, і Fe$_{3}$Si$_{0,97}$). Їх об’ємний вміст сягає 40%.",
+		"en": "The structural–phase states and mechanical properties of the coatings fused on Hardox 400 (0.18 С; 0.7 Si; 1.6 Mn) martensite steel with welding wires of 1.6 mm diameter and different chemical compositions EnDOtec DO$^{*}$33 (2.06 C; 0.6 Si; 2.51 Mn; 13.5 Cr; 6.4 Nb), EnDOtec DO$^{*}$30 (0.5 C; 0.4 Si; 1.4 Mn; 1 Cr), and SK A 70-G (2.6 C; 0.6 Si; 1.7 Mn; 2.2 B; 14.8 Cr; 4.7 Nb) are studied using the methods of optical, transmission and scanning electron microscopies, x-ray structural analysis, measurements of microhardness, wear resistance, and friction coefficient. The forming of deposit welding on the steel surface is accompanied with the formation of multilayer structure with different morphology of substructure elements. The deposit welding bulk is characterized by the micropore and microcrack presence that indicates the elastically stressed material state. The sources of the cracks appear due to the large inclusions of the second phase and crystallization dendrites. It is demonstrated that the coatings have much higher microhardness (by 2–3 times) and wear resistance (by 2 times) than the substrate has, while the friction coefficient is 1.2 times lower as compared with that for the substrate; the microhardness of fused coating is a constant along the whole depth up to 4.0 mm. The strengthening is caused by the formation of submicrosize and nanosize structures containing particles of the second phase (Fe$_{3}$C, Fe$_{23}$(CB)$_{6}$, NbC, (FeSi)$_{3}$B, Cr$_{3}$C$_{2}$, Fe$_{3}$B, and Fe$_{3}$Si$_{0,97}$). Their volume content reaches 40%.",
+		"ru": "Методами оптической, просвечивающей и сканирующей электронной микроскопии, рентгеноструктурного анализа, определения микротвёрдости, износостойкости и коэффициента трения исследованы структурно-фазовые состояния и механические свойства покрытий, наплавленных на мартенситную сталь Hardox 400 (0,18 С, 0,7 Si, 1,6 Mn) сварочными проволоками диаметром 1,6 мм разного химического состава EnDOtec DO$^{*}$33 (2,06 C, 0,6 Si, 2,51 Mn, 13,5 Cr, 6,4 Nb), EnDOtec DO$^{*}$30 (0,5 C, 0,4 Si, 1,4 Mn, 1 Cr) и SK A 70-G (2,6 C, 0,6 Si, 1,7 Mn, 2,2 B, 14,8 Cr, 4,7 Nb). Формирование наплавки на поверхности стали сопровождается созданием многослойной структуры, слои которой различаются морфологией элементов субструктуры. Объём наплавки характеризуется наличием микропор и микротрещин, что указывает на упруго-напряжённое состояние материала. Источниками трещин являются крупные включения второй фазы и дендриты кристаллизации. Показано, что покрытия имеют более высокие микротвёрдость (в 2–3 раза) и износостойкость (в 2 раза), а коэффициент трения — более низкий (в 1,2 раза), чем у подложки; микротвёрдость наплавленного покрытия остаётся неизменной по всей глубине до 4,0 мм. Упрочнение обусловлено формированием субмикроразмерной и наноразмерной структур, содержащих частицы вторых фаз (Fe$_{3}$C, Fe$_{23}$(CB)$_{6}$, NbC, (FeSi)$_{3}$B, Cr$_{3}$C$_{2}$, Fe$_{3}$B, and Fe$_{3}$Si$_{0,97}$). Их объёмное содержание достигает 40%."
+	},
+	"keywords": {
+		"ua": "-",
+		"en": "microstructure, wear-resistant coatings, surfacing, flux cored wire",
+		"ru": "микроструктура, износостойкие покрытия, наплавка,￼порошковая проволока"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Є. Громов", "en": "V. E. Gromov", "ru": "В. Е. Громов"},
+			"OID": [407]
+		},
+		{
+			"AID": {"ua": "Є. В. Капралов", "en": "E. V. Kapralov", "ru": "Е. В. Капралов"},
+			"OID": [407]
+		},
+		{
+			"AID": {"ua": "С. В. Райков", "en": "S. V. Raikov", "ru": "С. В. Райков"},
+			"OID": [407]
+		},
+		{
+			"AID": {"ua": "Ю. Ф. Іванов", "en": "Yu. F. Ivanov", "ru": "Ю. Ф. Иванов"},
+			"OID": [408, 409]
+		},
+		{
+			"AID": {"ua": "Є. А. Будовскіх", "en": "E. A. Budovskikh", "ru": "Е. А. Будовских"},
+			"OID": [407]
+		}
+	],
+	"cited_by": {
+		"count":  3,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.16.02.119",
+				"cit": "D. A. Romanov, V. E. Gromov, Е. А. Budovskikh and Yu. F. Ivanov, <a href=\"https://doi.org/10.15407/ufm.16.02.119\">Usp. Fiz. Met. <b>16</b>, 119 (2015)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.18.02.155",
+				"cit": "V. V. Kurylyak and G. I. Khimicheva, <a href=\"https://doi.org/10.15407/ufm.18.02.155\">Usp. Fiz. Met. <b>18</b>, 155 (2017)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.18.02.111",
+				"cit": "V. E. Kormyshev, V. E. Gromov, Yu. F. Ivanov and S. V. Konovalov, <a href=\"https://doi.org/10.15407/ufm.18.02.111\">Usp. Fiz. Met. <b>18</b>, 111 (2017)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 24,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "С. Коцаньда, Усталостное разрушение металлов (Москва: Металлургия: 1976) (пер. с польск.).",
+				"tr":  "S. Kocanda, Ustalostnoe Razrushenie Metallov [Fatigue Fracture of Metals] (Moscow: Metallurgy: 1976) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Е. Патон, Электрошлаковая сварка и наплавка (Москва: Машиностроение: 1980).",
+				"tr":  "B. E. Paton, Elektroshlakovaya Svarka i Naplavka [Electroslag Welding and Surfacing] (Moscow: Mashinostroenie: 1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. В. Молодых, А. С. Зенкин, Восстановление деталей машин (Москва: Машиностроение: 1989).",
+				"tr":  "N. V. Molodykh and A. S. Zenkin, Vosstanovlenie Detaley Mashin [Restoration of Machine Parts] (Moscow: Mashinostroenie: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Соснин, С. А. Ермаков, П. А. Тополянский, Плазменные технологии: руководство для инженеров (Санкт-Петербург: Изд-во СПбПУ: 2008).",
+				"tr":  "N. A. Sosnin, S. A. Ermakov, and P. A. Topolyanskiy, Plazmennyye Tekhnologii: Rukovodstvo dlya Inzhenerov [Plasma Technology: A Guide for Engineers] (St. Petersburg: Izd-vo SPbPU: 2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Хрущов, М. А. Бабичев, Е. С. Беркович, С. П. Козырев, Л. Б. Крапошина, Л. Ю. Пружанский, Износостойкость и структура твёрдых наплавок (Москва: Машиностроение: 1971).",
+				"tr":  "M. M. Khrushchov, M. A. Babichev, E. S. Berkovich, S. P. Kozyrev, L. B. Kraposhina, and L. Yu. Pruzhanskiy, Iznosostoykost' i Struktura Tverdykh Naplavok [Wear Resistance and Structure of Solid Weld Overlays] (Moscow: Mashinostroenie: 1971) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Крагельский, Трение и износ (Москва: Машиностроение:1968).",
+				"tr":  "I. V. Kragelskiy, Trenie i Iznos [Friction and Wear] (Moscow: Mashinostroenie: 1968) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Г. Соколов, Формирование композиционной структуры наплавленного металла для работы в условиях термосилового воздействия и разработка технологии ЭШН прессовых штампов и инструмента (Дисс. … д.т.н.; 05.03.06) (Волгоград: ВГТУ: 2007).",
+				"tr":  "N. G. Sokolov, Formirovanie Kompozitsionnoy Struktury Naplavlennogo Metalla dlya Raboty v Usloviyakh Termosilovogo Vozdeystviya i Razrabotka Tekhnologii EShN Pressovykh Shtampov i Instrumenta [Formation of the Composite Structure of Weld Metal to Work in a Thermopower Exposure and Development of Electroslag Hard-Facing Technology of Press Dies and Tools] (Disser. for … Dr. Tech. Sci.; 05.03.06) (Volgograd: VGTU: 2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Глезер, В. Е. Громов, Наноматериалы, созданные путём экстремальных воздействий (Новокузнецк: Типография СибГИУ: 2010).",
+				"tr":  "A. M. Glezer and V. E. Gromov, Nanomaterialy, Sozdannye Putem Ekstremal'nykh Vozdeystviy [Nanomaterials, Created by Extreme Influences] (Novokuznetsk: Typography SibGIU: 2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Глезер, В. Е. Громов, Ю. Ф. Иванов, Ю. П. Шаркеев, Наноматериалы: структура, свойства, применение. Серия «Фундаментальные проблемы современного материаловедения» (Новокузнецк: Изд-во «Интер-Кузбасс»: 2011).",
+				"tr":  "A. M. Glezer, V. E. Gromov, Yu. F. Ivanov, and Yu. P. Sharkeev, Nanomaterialy: Struktura, Svoystva, Primenenie. Seriya 'Fundamental'nye Problemy Sovremennogo Materialovedenia' [Nanomaterials: Structure, Properties, Application. A Series 'Basic Problems of Material Science'] (Novokuznetsk: 'Inter-Kuzbass': 2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Д. Борисов, Г. В. Краев, И. М. Полетика, Изв. ВУЗов: Физика, № 2: 70 (1992).",
+				"tr":  "M. D. Borisov, G. V. Kraev, and I. M. Poletika, Izv. VUZov: Fizika, No. 2: 70 (1992) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. С. Коноваленко, А. Ю. Смолин, С. Г. Псахье, Изв. ВУЗов: Физика, № 6: 48 (2005).",
+				"tr":  "I. S. Konovalenko, A. Yu. Smolin, and S. G. Psakh'ye, Izv. VUZov: Fizika, No. 6: 48 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. М. Полетика, М. Д. Борисов, Перспективные материалы, № 4: 78 (1995).",
+				"tr":  "I. M. Poletika and M. D. Borisov, Perspektivnye Materialy, No. 4: 78 (1995) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Попова, Износостойкость сплавов, восстановление и упрочнение деталей машин (Запорожье: Изд-во ОАО «Мотор Сич»: 2006).",
+				"tr":  "V. S. Popova, Iznosostoykost' Splavov, Vosstanovlenie i Uprochnenie Detaley Mashin [Wear Resistance of Alloys, Restoration and Strengthening of Machine Elements] (Zaporozh'ye: OAO 'Motor Sich': 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Х. Вашуль, Практическая металлография. Методы приготовления образцов (Москва: Металлургия: 1988) (пер. с нем.).",
+				"tr":  "H. Waschull, Prakticheskaya Metallografiya. Metody Prigotovleniya Obraztsov [Präparative Metallographie. Präparationstechnik für die Lichtmikroskopie] (Moscow: Metallurgiya: 1988) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Брандон, У. Каплан, Микроструктура материалов. Методы исследования и контроля (Москва: Техносфера: 2006) (пер. с англ.).",
+				"tr":  "D. Brandon and W. Kaplan, Mikrostruktura Materialov. Metody Issledovaniya i Kontrolya [Microstructural Characterization of Materials. Investigation and Control Methods] (Moscow: Tekhnosfera: 2006) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Криштал, И. С. Ясников, В. И. Полунин, Сканирующая электронная микроскопия и рентгеноспектральный микроанализ в примерах практического применения (Москва: Техносфера: 2009).",
+				"tr":  "M. M. Krishtal, I. S. Yasnikov, and V. I. Polunin, Skaniruyushchaya Elektronnaya Mikroskopiya i Rentgenospektral'nyy Mikroanaliz v Primerakh Prakticheskogo Primeneniya [Scanning Electron Microscopy and X-Ray Spectral Microanalysis in the Examples of Practical Application] (Moscow: Tekhnosfera: 2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. М. Утевский, Дифракционная электронная микроскопия в металловедении (Москва: Металлургия: 1973).",
+				"tr":  "L. M. Utevskiy, Difraktsionnaya Elektronnaya Mikroskopiya v Metallovedenii [The Diffraction Electron Microscopy in the Physical Metallurgy] (Moscow: Metallurgiya: 1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Эндрюс, Д. Дайсон, С. Киоун, Электронограммы и их интерпретация (Москва: Мир: 1971) (пер. с англ.).",
+				"tr":  "K. Andrews, D. Dyson, and S. Keown, Elektronogrammy i Ikh Interpretatsiya [Interpretation of Electron Diffraction Patterns] (Moscow: Mir: 1971) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Практические методы в электронной микроскопии (ред. О. М. Глоэр) (Ленинград: Машиностроение, Ленинградское отделение: 1980) (пер. с англ.).",
+				"tr":  "Prakticheskie Metody v Elektronnoy Mikroskopii [Practical Methods in Electron Microscopy] (Ed. A. M. Glauert) (Leningrad: Mashinostroenie, Leningrad Branch: 1980) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, Л. М. Утевский, Р. И. Энтин, Превращения в железе и стали (Москва: Наука: 1977).",
+				"tr":  "G. V. Kurdyumov, L. M. Utevskiy, and R. I. Entin, Prevrashcheniya v Zheleze i Stali [Transformations in Iron and Steel] (Moscow: Nauka: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, В. Ф. Моисеев, Э. П. Печковский, Деформационное упрочнение и разрушение поликристаллических металлов (Киев: Наукова думка: 1987).",
+				"tr":  "V. I. Trefilov, V. F. Moiseev, and Eh. P. Pechkovskiy, Deformatsionnoe Uprochnenie i Razrushenie Polikristallicheskikh Metallov [Strain Strengthening and Fracture of Polycrystalline Metals] (Kiev: Naukova Dumka: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. И. Гольдштейн, В. М. Фарбер, Дисперсионное упрочнение стали (Москва: Металлургия: 1979).",
+				"tr":  "M. I. Goldshtein and V. M. Farber, Dispersionnoe Uprochnenie Stali [Dispersion Steel Strengthening] (Moscow: Metallurgiya: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Самсонов, И. М. Винницкий, Тугоплавкие соединения (Москва: Металлургия: 1976).",
+				"tr":  "G. V. Samsonov and I. M. Vinnitskiy, Tugoplavkie Soedineniya [Refractory Compounds] (Moscow: Metallurgiya:1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Самсонов, Т. И. Серебрякова, В. А. Неронов, Бориды (Москва: Атомиздат: 1975).",
+				"tr":  "G. V. Samsonov, T. I. Serebryakova, and V. A. Neronov, Boridy [Borides] (Moscow: Atomizdat: 1975) (in Russian)."
+			}
+		]
+	}
+}

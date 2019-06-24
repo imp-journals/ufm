@@ -1,0 +1,621 @@
+{
+	"_id":    "UFM.02.04.281",
+	"year":   2001,
+	"volume": 2,
+	"issue":  4,
+	"pages":  [281,350],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["28.10.2001"],
+	"PACS":   "61.10.Dp, 61.10.Kw, 61.72.Ff, 02.30.Hq, 02.30.Mv, 02.30.Oz",
+	"title":   {
+		"ua": "Динамічна дифракція Рентґенових променів у надґратницях",
+		"en": "Dynamical Diffraction of X-Rays in Superlattices",
+		"ru": "Динамическая дифракция рентгеновских лучей в сверхрешётках"
+	},
+	"abstract": {
+		"ua": "Дано огляд робіт в області динамічного розсіювання рентгенівських променів у гетероепітаксіальних й акустичних надгратках. Розглянуто основні підходи до опису динамічної дифракції в металевих і напівпровідникових надгратках. Спеціальну увагу приділено формалізму зон стійких і нестійких рішень системи рівнянь Такаги для надграток. Даний формалізм заснований на методах якісної теорії диференціальних рівнянь. Викладено загальні якісні підходи до аналізу особливостей дифракції у надгратках різноманітних моделей, що засновані на концепції єдиної параметризації характеристик надгратки і хвильового поля. Формалізм зонних діаграм дозволив класифікувати параметри теорії динамічної дифракції у надгратках на «зовнішні» та «внутрішні». Розвинутий формалізм дозволяє визначати структурні характеристики надгратки за виглядом кривої дифракційного відбиття.",
+		"en": "The review of activities is held in the field of dynamical scattering of X-rays in heteroepitaxial and acoustic superlattices. The main approaches to the description of dynamical diffraction in metallic and semiconducting superlattices are reviewed. The special attention is given to a formalism of zones of the steady and unstable solutions of a set of Takagi equations for superlattices. The given formalism is based on methods of the qualitative theory of differential equations. The general qualitative approaches to the analysis of salient features of diffraction in superlattices of different models are explained; they are based on the concept of unified parametrization of the characteristics of a superlattice and wave field. The formalism of the zonal diagrams has allowed to categorize parameters of the theory of dynamic diffraction in superlattices on ‘external’ and ‘internal’ parameters. The advanced formalism allows to determine the structural characteristics of a superlattice by the form of diffraction-reflection curve.",
+		"ru": "Проведен обзор работ в области динамического рассеяния рентгеновских лучей в гетероэпитаксиальных и акустических сверхрешетках. Рассмотрены основные подходы к описанию динамической дифракции в металлических и полупроводниковых сверхрешетках. Специальное внимание уделено формализму зон устойчивых и неустойчивых решений системы уравнений Такаги для сверхрешеток. Данный формализм основан на методах качественной теории дифференциальных уравнений. Изложены общие качественные подходы к анализу особенностей дифракции в сверхрешетках различных моделей, которые основаны на концепции единой параметризации характеристик сверхрешетки и волнового поля. Формализм зонных диаграмм позволил классифицировать параметры теории динамической дифракции в сверхрешетках на «внешние» и «внутренние». Развитый формализм позволяет определять структурные характеристики сверхрешетки по виду кривой дифракционного отражения."
+	},
+	"keywords": {
+		"ua": "динамічне розсіяння Рентґенових променів, дифракційне відбиття, гетероепітаксіальна й акустична надґратниця",
+		"en": "X-ray dynamical scattering, diffraction reflection, heteroepitaxial and acoustic superlattices",
+		"ru": "динамическое рассеяние рентгеновских лучей, дифракционное отражение, гетероэпитаксиальная и акустическая сверхрешетки"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. А. Дишеков", "en": "A. A. Dyshekov", "ru": "А. А. Дышеков"},
+			"OID": [507]
+		},
+		{
+			"AID": {"ua": "Ю. П. Хапачев", "en": "Yu. P. Khapachev", "ru": "Ю. П. Хапачев"},
+			"OID": [507]
+		}
+	],
+	"references": {
+		"count": 116,
+				"list":  [
+			{
+				"doi": "",
+				"or":  "Ф. Н. Чуховский, Металлофизика, 2, № 6: 3 (1980).",
+				"tr":  "F. N. Chukhovskii, Metallofizika, 2, No. 6: 3 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Н. Чуховский, Металлофизика, 5, № 2: 3 (1981).",
+				"tr":  "F. N. Chukhovskii, Metallofizika, 5, No. 2: 3 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Р. Энтин, ЖЭТФ, 77, № 1(7): 214 (1979).",
+				"tr":  "I. R. Entin, ZhETF, 77, No. 1(7): 214 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "I. R. Entin, Acta Cryst. A, 37, Suppl. C: 266 (1981).",
+				"tr":  "I. R. Entin, Acta Cryst. A, 37, Suppl. C: 266 (1981)."
+			},
+			{
+				"doi": "10.1107/S0108767385000484",
+				"or":  "D. M. Vardanyan, H. M. Manoukyan, and H. M. Petrosyan, Acta Cryst. A, 41: 212 (1985).",
+				"tr":  "D. M. Vardanyan, H. M. Manoukyan, and H. M. Petrosyan, Acta Cryst. A, 41: 212 (1985)."
+			},
+			{
+				"doi": "10.1107/S0108767385000496",
+				"or":  "D. M. Vardanyan, H. M. Manoukyan, and H. M. Petrosyan, Acta Cryst. A, 41: 218 (1985).",
+				"tr":  "D. M. Vardanyan, H. M. Manoukyan, and H. M. Petrosyan, Acta Cryst. A, 41: 218 (1985)."
+			},
+			{
+				"doi": "10.1002/pssa.2210760229",
+				"or":  "Yu. N. Belyaev and A. V. Kolpakov, Phys. Stat. Sol. A, 76: 641 (1983).",
+				"tr":  "Yu. N. Belyaev and A. V. Kolpakov, Phys. Stat. Sol. A, 76: 641 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Колпаков, Дифракция рентгеновских лучей в кристаллах с одномерным изменением периода решетки (Москва: МГУ: 1988).",
+				"tr":  "A. V. Kolpakov, Difraktsiya rentgenovskikh luchei v kristallakh s odnomernym izmeneniem perioda reshetki (Moskva: MGU: 1988)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Колпаков, И. Р. Прудников, Дифракция рентгеновских лучей в сверхрешетках (Москва: МГУ: 1992).",
+				"tr":  "A. V. Kolpakov, I. R. Prudnikov, Difraktsiya rentgenovskikh luchei v sverkhreshetkakh (Moskva: MGU: 1992)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. П. Хапачев, Г. Ф. Кузнецов, Кристаллография, 28, вып. 1: 27 (1983).",
+				"tr":  "Yu. P. Khapachev, G. F. Kuznetsov, Kristallografiya, 28, No. 1: 27 (1983)."
+			},
+			{
+				"doi": "10.1002/pssb.2221200117",
+				"or":  "Yu. P. Khapachev, Phys. Stat. Sol. B, 120, 155 (1983).",
+				"tr":  "Yu. P. Khapachev, Phys. Stat. Sol. B, 120, 155 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. П. Хапачев, Теория дифракции рентгеновских лучей в многослойных кристаллических системах и ее применение к анализу гетероструктур и сверхрешеток (Дисс. … д-ра физ.-мат. н.) (Нальчик: КБГУ: 1990).",
+				"tr":  "Yu. P. Khapachev, Teoriya difraktsii rentgenovskikh luchei v mnogosloinykh kristallicheskikh sistemakh i ee primenenie k analizu geterostruktur i sverkhreshetok (Diss. … d-ra fiz.-mat. n.) (Nal'chik: KBGU: 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. П. Хапачев, Точное аналитическое решение задачи динамической дифракции в кристалле с переходным слоем, Сб.: Физика и химия поверхности (Нальчик: КБГУ: 1982), с. 36.",
+				"tr":  "Yu. P. Khapachev, Tochnoe analiticheskoe reshenie zadachi dinamicheskoi difraktsii v kristalle s perekhodnym sloem, Sb.: Fizika i khimiya poverkhnosti (Nal'chik: KBGU: 1982), s. 36."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. П. Хапачев, Ф. Н. Чуховский, ФТТ, 26, вып. 5: 1319 (1984).",
+				"tr":  "Yu. P. Khapachev, F. N. Chukhovskii, FTT, 26, No. 5: 1319 (1984)."
+			},
+			{
+				"doi": "10.1002/pssa.2210880106",
+				"or":  "F. N. Chukhovskii and Yu. P. Khapachev, Phys. Stat. Sol. A, 88, No. 1: 69 (1985).",
+				"tr":  "F. N. Chukhovskii and Yu. P. Khapachev, Phys. Stat. Sol. A, 88, No. 1: 69 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "Ш. Элаши, ТИИЭР, 64, № 12: 22 (1976).",
+				"tr":  "Sh. Elashi, TIIER, 64, No. 12: 22 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Беляков, Дифракционная оптика периодических сред сложной структуры (Москва: Наука: 1988).",
+				"tr":  "V. A. Belyakov, Difraktsionnaya optika periodicheskikh sred slozhnoi struktury (Moskva: Nauka: 1988)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Келдыш, ФТТ, 4, вып. 8: 2265 (1962).",
+				"tr":  "L. V. Keldysh, FTT, 4, No. 8: 2265 (1962)."
+			},
+			{
+				"doi": "10.1147/rd.141.0061",
+				"or":  "L. Esaki and R. Tsu, IBM J. Research and Development, 44, No. 1: 61 (1970).",
+				"tr":  "L. Esaki and R. Tsu, IBM J. Research and Development, 44, No. 1: 61 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Я. Шик, ФТП, 8, вып. 10: 1841 (1974).",
+				"tr":  "A. Ya. Shik, FTP, 8, No. 10: 1841 (1974)."
+			},
+			{
+				"doi": "10.3367/UFNr.0096.196809d.0061",
+				"or":  "В. А. Тавгер, В. Я. Демиховский, УФН, 96, вып. 1: 61 (1968).",
+				"tr":  "V. A. Tavger, V. Ya. Demikhovskii, UFN, 96, No. 1: 61 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Херман, Полупроводниковые сверхрешетки (Москва: Мир: 1989).",
+				"tr":  "M. Kherman, Poluprovodnikovye sverkhreshetki (Moskva: Mir: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Виноградов, Б. Я. Зельдович, Оптика и спектроскопия, 42, вып. 4: 709 (1977).",
+				"tr":  "A. V. Vinogradov, B. Ya. Zel'dovich, Optika i spektroskopiya, 42, No. 4: 709 (1977)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.51.2003",
+				"or":  "B. Abeles and T. Tiedje, Phys. Rev. Lett., 51, No. 21: 2003 (1983).",
+				"tr":  "B. Abeles and T. Tiedje, Phys. Rev. Lett., 51, No. 21: 2003 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Ogino and Y. Mizushima, Japan J. Appl. Phys., 22, No. 11: 1674 (1983).",
+				"tr":  "T. Ogino and Y. Mizushima, Japan J. Appl. Phys., 22, No. 11: 1674 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "Национальная конференция по применению рентгеновского, синхротронного излучений, нейтронов и электронов (Дубна: 1997), т. 1, т. 2, т. 3.",
+				"tr":  "Natsional'naya konferentsiya po primeneniyu rentgenovskogo, sinkhrotronnogo izluchenii, neitronov i elektronov (Dubna: 1997), vol. 1, vol. 2, vol. 3."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.44.1597",
+				"or":  "I. K. Schuller, Phys. Rev. Lett., 44, No. 24: 1597 (1980).",
+				"tr":  "I. K. Schuller, Phys. Rev. Lett., 44, No. 24: 1597 (1980)."
+			},
+			{
+				"doi": "10.1063/1.328613",
+				"or":  "K. E. Meyer, G. P. Felcher, S. K. Sinha, and I. K. Schuller, J. Appl. Phys., 52, No. 11: 6608 (1981).",
+				"tr":  "K. E. Meyer, G. P. Felcher, S. K. Sinha, and I. K. Schuller, J. Appl. Phys., 52, No. 11: 6608 (1981)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.27.7186",
+				"or":  "M. R. Khan, C. S. L. Chun, G. P. Felcher et al., Phys. Rev. B, 27, No. 12: 7186 (1983).",
+				"tr":  "M. R. Khan, C. S. L. Chun, G. P. Felcher et al., Phys. Rev. B, 27, No. 12: 7186 (1983)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.35.9337",
+				"or":  "B. M. Clemens and J. G. Gay, Phys. Rev. B, 35, No. 17: 9337 (1987).",
+				"tr":  "B. M. Clemens and J. G. Gay, Phys. Rev. B, 35, No. 17: 9337 (1987)."
+			},
+			{
+				"doi": "10.1016/0038-1098(88)90027-0",
+				"or":  "M. Onoda and M. Sato, Solid State Communs., 67, No. 8: 799 (1988).",
+				"tr":  "M. Onoda and M. Sato, Solid State Communs., 67, No. 8: 799 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Ariosa et al., Phys. Rev. B, 37, No. 5: 2415 (1988); ibid.: 2421.",
+				"tr":  "D. Ariosa et al., Phys. Rev. B, 37, No. 5: 2415 (1988); ibid.: 2421."
+			},
+			{
+				"doi": "10.1103/PhysRevB.38.3572",
+				"or":  "J.-P. Locquet, D. Neerinck, L. Stockman et al., Phys. Rev. B, 38, No. 5: 3572 (1988).",
+				"tr":  "J.-P. Locquet, D. Neerinck, L. Stockman et al., Phys. Rev. B, 38, No. 5: 3572 (1988)."
+			},
+			{
+				"doi": "10.1063/1.349731",
+				"or":  "L. V. Melo, I. Trindade, M. From, P. P. Freitas, N. Teixeira et al., J. Appl. Phys., 70, No. 12: 7370.",
+				"tr":  "L. V. Melo, I. Trindade, M. From, P. P. Freitas, N. Teixeira et al., J. Appl. Phys., 70, No. 12: 7370."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Н. Кютт, В. П. Улин, А. А. Дышеков, Ю. П. Хапачев, ЖТФ, 66, вып. 12: 39 (1996).",
+				"tr":  "R. N. Kyutt, V. P. Ulin, A. A. Dyshekov, Yu. P. Khapachev, ZhTF, 66, No. 12: 39 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "Ж. И. Алферов, Ю. В. Жиляев, Ю. В. Шмарцев, ФТП, 5, вып. 1: 196 (1971).",
+				"tr":  "Zh. I. Alferov, Yu. V. Zhilyaev, Yu. V. Shmartsev, FTP, 5, No. 1: 196 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "J. W. Mattwes and A. E. Blakeslee, J. of Cryst. Growth, 27, No. 1: 118 (1974).",
+				"tr":  "J. W. Mattwes and A. E. Blakeslee, J. of Cryst. Growth, 27, No. 1: 118 (1974)."
+			},
+			{
+				"doi": "10.1063/1.330615",
+				"or":  "G. C. Osbourn, J. Appl. Phys., 53, No. 10: 1586 (1982).",
+				"tr":  "G. C. Osbourn, J. Appl. Phys., 53, No. 10: 1586 (1982)."
+			},
+			{
+				"doi": "10.1116/1.572361",
+				"or":  "J. C. Bean, L. C. Feldman, A. T. Fiory et al., J. Vac. Sci. Technol. A, 2: 436 (1984).",
+				"tr":  "J. C. Bean, L. C. Feldman, A. T. Fiory et al., J. Vac. Sci. Technol. A, 2: 436 (1984)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.55.765",
+				"or":  "A. Ouzmard and J. C. Bean, Phys. Rev. Lett., 55, No. 7: 765 (1985).",
+				"tr":  "A. Ouzmard and J. C. Bean, Phys. Rev. Lett., 55, No. 7: 765 (1985)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.58.1123",
+				"or":  "D. M. Wood, S.-H. Wei, and A. Zunger, Phys. Rev. Lett., 58, No. 11: 1123 (1987).",
+				"tr":  "D. M. Wood, S.-H. Wei, and A. Zunger, Phys. Rev. Lett., 58, No. 11: 1123 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Елюхин, Л. П. Сорокина, Докл. АН СССР, 287, № 6: 1384 (1986).",
+				"tr":  "V. A. Elyukhin, L. P. Sorokina, Dokl. AN SSSR, 287, No. 6: 1384 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. П. Хапачев, А. А. Дышеков, А. Н. Багов, М. А. Галушко, Г. Ф. Кузнецов, Матер. конф. «Субструктурное упрочение металлов и дифракционные методы исследования» (Киев: Наукова думка: 1985), с. 198.",
+				"tr":  "Yu. P. Khapachev, A. A. Dyshekov, A. N. Bagov, M. A. Galushko, G. F. Kuznetsov, Mater. konf. «Substrukturnoe uprochenie metallov i difraktsionnye metody issledovaniya» (Kiev: Naukova dumka: 1985), s. 198."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. П. Хапачев, Ф. Н. Чуховский, Металлофизика, 9, № 4: 64 (1987).",
+				"tr":  "Yu. P. Khapachev, F. N. Chukhovskii, Metallofizika, 9, No. 4: 64 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. П. Хапачев, Ф. Н. Чуховский, ФТТ, 31, вып. 9: 76 (1989).",
+				"tr":  "Yu. P. Khapachev, F. N. Chukhovskii, FTT, 31, No. 9: 76 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. П. Хапачев, Ф. Н. Чуховский, Кристаллография, 34, вып. 3: 776 (1989).",
+				"tr":  "Yu. P. Khapachev, F. N. Chukhovskii, Kristallografiya, 34, No. 3: 776 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Якубович, В. М. Старжинский, Линейный дифференциальные уравнения с периодическими коэффициентами и их приложения (Москва: Наука: 1972).",
+				"tr":  "V. A. Yakubovich, V. M. Starzhinskii, Lineinyi differentsial'nye uravneniya s periodicheskimi koeffitsientami i ikh prilozheniya (Moskva: Nauka: 1972)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Бейтмен, А. Эрдейи, Высшие транцендентные функции. Эллиптические и автоморфные функции. Функции Ламе и Матье (Москва: Наука: 1967), т. 3.",
+				"tr":  "G. Beitmen, A. Erdeii, Vysshie trantsendentnye funktsii. Ellipticheskie i avtomorfnye funktsii. Funktsii Lame i Mat'e (Moskva: Nauka: 1967), t. 3."
+			},
+			{
+				"doi": "",
+				"or":  "D. de Fontaine, Metallurgical Soc. Conferences ‘Local Atomic Arrangements Studied by X-Ray Diffraction’ (New York, London, Paris: Gordon and Breach: 1966), vol. 36, p. 51.",
+				"tr":  "D. de Fontaine, Metallurgical Soc. Conferences 'Local Atomic Arrangements Studied by X-Ray Diffraction' (New York, London, Paris: Gordon and Breach: 1966), vol. 36, p. 51."
+			},
+			{
+				"doi": "",
+				"or":  "M. Korekawa, Theorie der Satellitenreflexe (München: Habilitionsschrift der Ludwig-Maximilian-Universität: 1967).",
+				"tr":  "M. Korekawa, Theorie der Satellitenreflexe (München: Habilitionsschrift der Ludwig-Maximilian-Universität: 1967)."
+			},
+			{
+				"doi": "10.1107/S0567739475001349",
+				"or":  "H. Böhm, Acta Cryst. A, 31, No. 7: 622 (1975).",
+				"tr":  "H. Bohm, Acta Cryst. A, 31, No. 7: 622 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Колпаков, Ю. П. Хапачев, Кристаллография, 18, вып. 3: 474 (1973).",
+				"tr":  "A. V. Kolpakov, Yu. P. Khapachev, Kristallografiya, 18, No. 3: 474 (1973)."
+			},
+			{
+				"doi": "10.1002/pssb.2220900216",
+				"or":  "I. R. Entin, Phys. Stat. Sol. B, 90, No. 2: 575 (1978).",
+				"tr":  "I. R. Entin, Phys. Stat. Sol. B, 90, No. 2: 575 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Тихонова, ФТТ, 9: 516 (1967).",
+				"tr":  "E. A. Tikhonova, FTT, 9: 516 (1967)."
+			},
+			{
+				"doi": "10.1107/S0567739468000227",
+				"or":  "A. M. Afanasev and Yu. Kagan, Acta Cryst. A, 24, No. 2: 163 (1968).",
+				"tr":  "A. M. Afanasev and Yu. Kagan, Acta Cryst. A, 24, No. 2: 163 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Джеймс, Оптические принципы дифракции рентгеновских лучей (Москва: Иностр. лит.: 1950).",
+				"tr":  "R. Dzheims, Opticheskie printsipy difraktsii rentgenovskikh luchei (Moskva: Inostr. lit.: 1950)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Бейтмен, А. Эрдейи, Высшие трансцендентные функции (Москва: Наука: 1974), т. 2.",
+				"tr":  "G. Beitmen, A. Erdeii, Vysshie transtsendentnye funktsii (Moskva: Nauka: 1974), t. 2."
+			},
+			{
+				"doi": "10.1002/pssb.19700420165",
+				"or":  "R. Kцhler, W. Mцhling, and H. Peibst, Phys. Stat. Sol. B, 42, No. 1: 75 (1970).",
+				"tr":  "R. Ktshler, W. Mtshling, and H. Peibst, Phys. Stat. Sol. B, 42, No. 1: 75 (1970)."
+			},
+			{
+				"doi": "10.1002/pssb.2220610113",
+				"or":  "R. Kцhler, W. Mцhling, and H. Peibst, Phys. Stat. Sol. B, 61, No. 1: 173 (1974).",
+				"tr":  "R. Ktshler, W. Mtshling, and H. Peibst, Phys. Stat. Sol. B, 61, No. 1: 173 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Kцhler, W. Mцhling, and H. Peibst, Phys. Stat. Sol. B, 61, No. 3: 439 (1974).",
+				"tr":  "R. Ktshler, W. Mtshling, and H. Peibst, Phys. Stat. Sol. B, 61, No. 3: 439 (1974)."
+			},
+			{
+				"doi": "10.1002/pssa.2210690206",
+				"or":  "D. M. Vardanyan and H. M. Manoukyan, Phys. Stat. Sol. A, 69, No. 2: 475 (1982).",
+				"tr":  "D. M. Vardanyan and H. M. Manoukyan, Phys. Stat. Sol. A, 69, No. 2: 475 (1982)."
+			},
+			{
+				"doi": "10.1002/pssa.2210790236",
+				"or":  "D. M. Vardanyan and H. M. Manoukyan, Phys. Stat. Sol. A, 79, No. 2: 617 (1983).",
+				"tr":  "D. M. Vardanyan and H. M. Manoukyan, Phys. Stat. Sol. A, 79, No. 2: 617 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Колпаков, Ю. Н. Беляев, Вестн. Моск. универ. Cер. 3: физ., астроном., 26, № 3: 91 (1985).",
+				"tr":  "A. V. Kolpakov, Yu. N. Belyaev, Vestn. Mosk. univer. Cer. 3: fiz., astronom., 26, No. 3: 91 (1985)."
+			},
+			{
+				"doi": "10.1107/S0108767387099343",
+				"or":  "D. M. Vardanyan and H. M. Petrosyan, Acta Cryst. A, 43, No. 2: 316 (1987).",
+				"tr":  "D. M. Vardanyan and H. M. Petrosyan, Acta Cryst. A, 43, No. 2: 316 (1987)."
+			},
+			{
+				"doi": "10.1107/S0108767386098768",
+				"or":  "W. Bartels, J. Hornstra, and D. J. Lobeek, Acta Cryst. A, 42, No. 3: 539 (1986).",
+				"tr":  "W. Bartels, J. Hornstra, and D. J. Lobeek, Acta Cryst. A, 42, No. 3: 539 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Арнольд, Обыкновенные дифференциальные уравнения (Москва: Наука: 1971).",
+				"tr":  "V. I. Arnol'd, Obyknovennye differentsial'nye uravneniya (Moskva: Nauka: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. П. Хапачев, А. А. Дышеков, ЖТФ, 54, вып. 4: 842 (1984).",
+				"tr":  "Yu. P. Khapachev, A. A. Dyshekov, ZhTF, 54, No. 4: 842 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. П. Хапачев, А. В. Колпаков, Г. Ф. Кузнецов, Р. Н. Кузьмин, Кристаллография, 24, вып. 3: 430 (1979).",
+				"tr":  "Yu. P. Khapachev, A. V. Kolpakov, G. F. Kuznetsov, R. N. Kuz'min, Kristallografiya, 24, No. 3: 430 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Кабутов, О. Е. Коробов, Г. Ф. Кузнецов и др., Кристаллография, 28, вып. 4: 647 (1983).",
+				"tr":  "K. Kabutov, O. E. Korobov, G. F. Kuznetsov i dr., Kristallografiya, 28, No. 4: 647 (1983)."
+			},
+			{
+				"doi": "10.1107/S0567739481001721",
+				"or":  "I. R. Entin and K. P. Assur, Acta Cryst. A, 37, No. 6: 769 (1981).",
+				"tr":  "I. R. Entin and K. P. Assur, Acta Cryst. A, 37, No. 6: 769 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "К. П. Ассур, И. Р. Энтин, ФТТ, 24, вып. 7: 2122 (1982).",
+				"tr":  "K. P. Assur, I. R. Entin, FTT, 24, No. 7: 2122 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Р. Энтин, И. А. Пучкова, ФТТ, 26, вып. 11: 3320 (1984).",
+				"tr":  "I. R. Entin, I. A. Puchkova, FTT, 26, No. 11: 3320 (1984)."
+			},
+			{
+				"doi": "10.1002/pssa.2211060104",
+				"or":  "I. R. Entin, Phys. Stat. Sol. A, 106, No. 1: 25 (1988).",
+				"tr":  "I. R. Entin, Phys. Stat. Sol. A, 106, No. 1: 25 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Р. Энтин, Динамические эффекты в акустооптике рентгеновских лучей и тепловых нейтронов (Дисс. … д-ра физ.-мат. н.) (Черноголовка: Инст. физ. тверд. тела: 1986).",
+				"tr":  "I. R. Entin, Dinamicheskie effekty v akustooptike rentgenovskikh luchei i teplovykh neitronov (Diss. … d-ra fiz.-mat. n.) (Chernogolovka: Inst. fiz. tverd. tela: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. Е. Уиттекер, Дж. Н. Ватсон, Курс современного анализа (Москва: Физматгиз: 1963), т. 2.",
+				"tr":  "E. E. Uitteker, Dzh. N. Vatson, Kurs sovremennogo analiza (Moskva: Fizmatgiz: 1963), t. 2."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. П. Хапачев, Теория рентгеновской дифракции в монокристаллических пленках переменного состава с квазипериодической структурой (Дисс. … канд. физ.-мат. н.) (Москва: МГУ: 1977).",
+				"tr":  "Yu. P. Khapachev, Teoriya rentgenovskoi difraktsii v monokristallicheskikh plenkakh peremennogo sostava s kvaziperiodicheskoi strukturoi (Diss. … kand. fiz.-mat. n.) (Moskva: MGU: 1977)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Колпаков, Ю. П. Хапачев, Р. Н. Кузьмин, Матер. Всесоюз. совещ. по многоволновому рассеянию рентгеновских лучей (Ереван: 1978), с. 153.",
+				"tr":  "A. V. Kolpakov, Yu. P. Khapachev, R. N. Kuz'min, Mater. Vsesoyuz. soveshch. po mnogovolnovomu rasseyaniyu rentgenovskikh luchei (Erevan: 1978), s. 153."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. П. Хапачев, А. А. Дышеков, Сб.: Поверхностные явления на границах конденсированных фаз (Нальчик: КБГУ: 1983), с. 169.",
+				"tr":  "Yu. P. Khapachev, A. A. Dyshekov, Sb.: Poverkhnostnye yavleniya na granitsakh kondensirovannykh faz (Nal'chik: KBGU: 1983), s. 169."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Дышеков, Ю. П. Хапачев, Металлофизика, 8, № 6: 15 (1986).",
+				"tr":  "A. A. Dyshekov, Yu. P. Khapachev, Metallofizika, 8, No. 6: 15 (1986)."
+			},
+			{
+				"doi": "10.1002/pssb.2221260103",
+				"or":  "Yu. P. Khapachev, A. A. Dyshekov, and D. S. Kiselev, Phys. Stat. Sol. B, 126, No. 1: 37 (1984).",
+				"tr":  "Yu. P. Khapachev, A. A. Dyshekov, and D. S. Kiselev, Phys. Stat. Sol. B, 126, No. 1: 37 (1984)."
+			},
+			{
+				"doi": "10.1063/1.325643",
+				"or":  "A. H. Eltoukhy and J. E. Greene, J. Appl. Phys., 50, No. 1: 505 (1979).",
+				"tr":  "A. H. Eltoukhy and J. E. Greene, J. Appl. Phys., 50, No. 1: 505 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Г. Конников, О. В. Коваленков, К. Ю. Погребицкий и др., ФТП, 21, вып. 10: 1745 (1987).",
+				"tr":  "S. G. Konnikov, O. V. Kovalenkov, K. Yu. Pogrebitskii i dr., FTP, 21, No. 10: 1745 (1987)."
+			},
+			{
+				"doi": "10.1107/S0021889884011286",
+				"or":  "J. Kervarec, M. Baudet, J. Caulet et al., J. Appl. Cryst., 17, No. 2: 196 (1984).",
+				"tr":  "J. Kervarec, M. Baudet, J. Caulet et al., J. Appl. Cryst., 17, No. 2: 196 (1984)."
+			},
+			{
+				"doi": "10.1063/1.334169",
+				"or":  "V. S. Speriosu and T. Vreeland, Jr., J. Appl. Phys., 56, No. 6: 1591 (1984).",
+				"tr":  "V. S. Speriosu and T. Vreeland, Jr., J. Appl. Phys., 56, No. 6: 1591 (1984)."
+			},
+			{
+				"doi": "10.1063/1.95190",
+				"or":  "V. S. Speriosu and M.-A. Nicolet, Appl. Phys. Lett., 45, No. 3: 223 (1984).",
+				"tr":  "V. S. Speriosu and M.-A. Nicolet, Appl. Phys. Lett., 45, No. 3: 223 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Андреева, С. Ф. Борисова, С. А. Степанов, Поверхность, № 4: 5 (1985).",
+				"tr":  "M. A. Andreeva, S. F. Borisova, S. A. Stepanov, Poverkhnost', No. 4: 5 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Афанасьев, П. А. Александров, Р. М. Имамов, Рентгеновская структурная диагностика в исследовании приповерхностных слоев монокристаллов (Москва: Наука: 1986).",
+				"tr":  "A. M. Afanas'ev, P. A. Aleksandrov, R. M. Imamov, Rentgenovskaya strukturnaya diagnostika v issledovanii pripoverkhnostnykh sloev monokristallov (Moskva: Nauka: 1986)."
+			},
+			{
+				"doi": "10.1002/pssa.2210880207",
+				"or":  "M. A. Andreeva, K. Rosette, and Yu. P. Khapachev, Phys. Stat. Sol. A, 88, No. 2: 455 (1985).",
+				"tr":  "M. A. Andreeva, K. Rosette, and Yu. P. Khapachev, Phys. Stat. Sol. A, 88, No. 2: 455 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Андреева, С. Ф. Борисова, Ю. П. Хапачев, Металлофизика, 8, № 5: 44 (1986).",
+				"tr":  "M. A. Andreeva, S. F. Borisova, Yu. P. Khapachev, Metallofizika, 8, No. 5: 44 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Андреева, А. А. Дышеков, Ю. П. Хапачев, Металлофиз. новейшие технол., 16, № 4: 22 (1994).",
+				"tr":  "M. A. Andreeva, A. A. Dyshekov, Yu. P. Khapachev, Metallofiz. noveishie tekhnol., 16, No. 4: 22 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Г. Меликян, Р. М. Имамов, Д. В. Новиков, ФТТ, 34, № 5: 1572 (1992).",
+				"tr":  "O. G. Melikyan, R. M. Imamov, D. V. Novikov, FTT, 34, No. 5: 1572 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Дышеков, Ю. П. Хапачев, Д. А. Тарасов, ФТТ, 38, Вып. 5: 1375 (1996).",
+				"tr":  "A. A. Dyshekov, Yu. P. Khapachev, D. A. Tarasov, FTT, 38, No. 5: 1375 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Р. Энтин, Письма в ЖЭТФ, 26, № 5: 392 (1977).",
+				"tr":  "I. R. Entin, Pis'ma v ZhETF, 26, No. 5: 392 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. П. Хапачев, Ф. Н. Чуховский, Металлофизика, 13, № 7: 65 (1991).",
+				"tr":  "Yu. P. Khapachev, F. N. Chukhovskii, Metallofizika, 13, No. 7: 65 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Колпаков, И. Р. Прудников, Вестн. Моск. универ. Cер. 3: физ., астроном., 32, № 4: 3 (1991).",
+				"tr":  "A. V. Kolpakov, I. R. Prudnikov, Vestn. Mosk. univer. Cer. 3: fiz., astronom., 32, No. 4: 3 (1991)."
+			},
+			{
+				"doi": "10.1080/08893119308032974",
+				"or":  "F. N. Chukhovskii and Yu. P. Khapachev, Crystal. Rev., 3: 257 (1993).",
+				"tr":  "F. N. Chukhovskii and Yu. P. Khapachev, Crystal. Rev., 3: 257 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Колпаков, Ю. П. Хапачев, Г. Ф. Кузнецов, Р. Н. Кузьмин, Кристаллография, 22, вып. 3: 473 (1977).",
+				"tr":  "A. V. Kolpakov, Yu. P. Khapachev, G. F. Kuznetsov, R. N. Kuz'min, Kristallografiya, 22, No. 3: 473 (1977)."
+			},
+			{
+				"doi": "10.1002/pssa.2210600207",
+				"or":  "R. N. Kyutt, P. V. Petrashen, and L. M. Sorokin, Phys. Stat. Sol. A, 60, No. 2: 381 (1980).",
+				"tr":  "R. N. Kyutt, P. V. Petrashen, and L. M. Sorokin, Phys. Stat. Sol. A, 60, No. 2: 381 (1980)."
+			},
+			{
+				"doi": "10.1107/S0365110X62003473",
+				"or":  "S. Takagi, Acta Cryst., 15: 1131 (1962).",
+				"tr":  "S. Takagi, Acta Cryst., 15: 1131 (1962)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Дышеков, Д. А. Тарасов, Ю. П. Хапачев, Письма в ЖТФ, 21, № 13: 6 (1995).",
+				"tr":  "A. A. Dyshekov, D. A. Tarasov, Yu. P. Khapachev, Pis'ma v ZhTF, 21, No. 13: 6 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Dyshekov, Yu. P. Khapachev, and D. A. Tarasov, Book of Abstracts of 16th European Crystallographic Meeting (Moscow, 14–19 August 1995), p. 18.",
+				"tr":  "A. A. Dyshekov, Yu. P. Khapachev, and D. A. Tarasov, Book of Abstracts of 16th European Crystallographic Meeting (Moscow, 14–19 August 1995), p. 18."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. П. Хапачев, А. В. Колпаков, Acta Cryst. A, 34, Part S4: 230 (1978).",
+				"tr":  "Yu. P. Khapachev, A. V. Kolpakov, Acta Cryst. A, 34, Part S4: 230 (1978)."
+			},
+			{
+				"doi": "10.1007/BF03041013",
+				"or":  "A. A. Dyshekov, Yu. P. Khapachev, and D. A. Tarasov, Il Nuovo Cimento, 19: 531 (1997).",
+				"tr":  "A. A. Dyshekov, Yu. P. Khapachev, and D. A. Tarasov, Il Nuovo Cimento, 19: 531 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Дышеков, Ю. П. Хапачев, Д. А. Тарасов, Поверхность, № 10: 5 (1997).",
+				"tr":  "A. A. Dyshekov, Yu. P. Khapachev, D. A. Tarasov, Poverkhnost', No. 10: 5 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Dyshekov, Yu. P. Khapachev, and D. A. Tarasov, Surface Investigation, 12: 425 (1997).",
+				"tr":  "A. A. Dyshekov, Yu. P. Khapachev, and D. A. Tarasov, Surface Investigation, 12: 425 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Дышеков, Ю. П. Хапачев, Д. А. Тарасов, ФТТ, 38, вып. 5: 1375 (1996).",
+				"tr":  "A. A. Dyshekov, Yu. P. Khapachev, D. A. Tarasov, FTT, 38, No. 5: 1375 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Dyshekov, Yu. P. Khapachev, and D. A. Tarasov, Поверхность, № 3–4: 206 (1996).",
+				"tr":  "A. A. Dyshekov, Yu. P. Khapachev, and D. A. Tarasov, Poverkhnost', No. 3–4: 206 (1996)."
+			},
+			{
+				"doi": "10.1109/JQE.1986.1073162",
+				"or":  "L. Esaki, IEEE Journal of Quantum Electronics, 22, No. 9: 1611 (1986).",
+				"tr":  "L. Esaki, IEEE Journal of Quantum Electronics, 22, No. 9: 1611 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Найфэ, Методы возмущений (Москва: Наука: 1976).",
+				"tr":  "A. Naife, Metody vozmushchenii (Moskva: Nauka: 1976)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. А. Тарасов, Ю. П. Хапачев, А. А. Дышеков, Тез. докл. Нац. конф. по применению рентгеновского, синхротронного излучений, нейтронов и электронов для исследования материалов (Дубна: 1997).",
+				"tr":  "D. A. Tarasov, Yu. P. Khapachev, A. A. Dyshekov, Tez. dokl. Nats. konf. po primeneniyu rentgenovskogo, sinkhrotronnogo izluchenii, neitronov i elektronov dlya issledovaniya materialov (Dubna: 1997)."
+			},
+			{
+				"doi": "",
+				"or":  "D. A. Tarasov, Yu. P. Khapachev, and A. A. Dyshekov, Programme and Abstracts of IV European Conference on High-Resolution X-Ray Diffraction and Topography ‘XTOP 98’ (1998), p. 3.13.",
+				"tr":  "D. A. Tarasov, Yu. P. Khapachev, and A. A. Dyshekov, Programme and Abstracts of IV European Conference on High-Resolution X-Ray Diffraction and Topography 'XTOP 98' (1998), p. 3.13."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. P. Khapachev and A. A. Dyshekov, Programme and Abstracts of IV European Conference on High-Resolution X-Ray Diffraction and Topography ‘XTOP 98’ (1998), p. 3.50.",
+				"tr":  "Yu. P. Khapachev and A. A. Dyshekov, Programme and Abstracts of IV European Conference on High-Resolution X-Ray Diffraction and Topography 'XTOP 98' (1998), p. 3.50."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Дышеков, Ю. П. Хапачев, Поверхность, № 2: 101 (1999).",
+				"tr":  "A. A. Dyshekov, Yu. P. Khapachev, Poverkhnost', No. 2: 101 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Дышеков, Ю. П. Хапачев, Тезисы II Нац. конф. по применению рентгеновского, синхротронного излучений, нейтронов и электронов для исследования материалов (Москва: 1999).",
+				"tr":  "A. A. Dyshekov, Yu. P. Khapachev, Tezisy II Nats. konf. po primeneniyu rentgenovskogo, sinkhrotronnogo izluchenii, neitronov i elektronov dlya issledovaniya materialov (Moskva: 1999)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. П. Демидович, Лекции по математической теории устойчивости (Москва: Наука: 1967).",
+				"tr":  "B. P. Demidovich, Lektsii po matematicheskoi teorii ustoichivosti (Moskva: Nauka: 1967)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Дышеков, Ю. П. Хапачев, Поверхность, № 3: 20 (1998).",
+				"tr":  "A. A. Dyshekov, Yu. P. Khapachev, Poverkhnost', No. 3: 20 (1998)."
+			}
+		]
+	}
+}

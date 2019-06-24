@@ -1,0 +1,255 @@
+{
+	"_id":    "UFM.09.02.171",
+	"year":   2008,
+	"volume": 9,
+	"issue":  2,
+	"pages":  [171,193],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["26.05.2008"],
+	"PACS":   "43.40.Qi,61.82.-d,62.20.-x,62.80.+f,74.25.Ld,74.72.Bk,81.05.-t,81.40.-z",
+	"title":   {
+		"ua": "Розвиток у ННЦ «ХФТІ» метод скерованої зміни структури й властивостей конструкційних матеріялів при активізації релаксаційних процесів: огляд, присвячений вісімдесятиліттю Національного наукового центра «Харківський фізико-технічний інститут»",
+		"en": "Development of Methods of the Directional Structural Change and Properties of Constructional Materials by Stimulation of Relaxation Processes in the NSC ‘KhPhTI’: The Review Dedicated to the 80th Anniversary of the National Scientific Centre ‘Kharkiv Physicotechnical Institute’",
+		"ru": "Развитие в ННЦ «ХФТИ» методов направленного изменения структуры и свойств конструкционных материалов при активизации релаксационных процессов: обзор, посвященный 80-летию Национального научного центра «Харьковский физико-технический институт»"
+	},
+	"abstract": {
+		"ua": "В огляді описано розроблені в ННЦ «ХФТІ» нові методи і фізичні механізми дії температурно-силових, магнетних і ультразвукових полів на структурний стан ріжних конструкційних матеріялів на основі перехідних елементів для активізації релаксаційних процесів. Одержано структурні стани, що забезпечують скеровану зміну фізико-механічних властивостей і формування в металах, стопах і композиційних матеріялах заданого комплексу експлуатаційних характеристик.",
+		"en": "In the review, new methods and physical mechanisms of influence of temperature–force, magnetic and ultrasonic fields on a structural state of various constructional materials based on transition elements for activization of relaxation processes are described, which were developed in the National Scientific Centre ‘the Kharkiv Physicotechnical Institute’. The structural states providing directed change of physicomechanical properties and formation of the set complex of operational characteristics in metals, alloys and composite materials are obtained.",
+		"ru": "В обзоре описаны разработанные в ННЦ «ХФТИ» новые методы и физические механизмы воздействия температурно-силовых, магнитных и ультразвуковых полей на структурное состояние различных конструкционных материалов на основе переходных элементов для активизации релаксационных процессов. Получены структурные состояния, обеспечивающие направленное изменение физико-механических свойств и формирование в металлах, сплавах и композиционных материалах заданного комплекса эксплуатационных характеристик."
+	},
+	"keywords": {
+		"ua": "конструкційні матеріяли, програмований вплив, структура, релаксація, фізико-механічні властивості",
+		"en": "constructional materials, programmed impact, structure, relaxation, physical and mechanical properties",
+		"ru": "конструкционные материалы, программированное воздействие, структура, релаксация, физико-механические свойства"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. М. Неклюдов", "en": "I. M. Neklyudov", "ru": "И. М. Неклюдов"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "В. І. Соколенко", "en": "V. I. Sokolenko", "ru": "В. И. Соколенко"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "В. М. Нетьосов", "en": "V. M. Netyosov", "ru": "В. М. Нетёсов"},
+			"OID": [3]
+		}
+	],
+	"references": {
+		"count": 42,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Р. И. Гарбер, И. А. Гиндин, И. М. Неклюдов, Авторское свидетельство СССР № 161793 (Бюллетень № 8, 1964).",
+				"tr":  "R. I. Garber, I. A. Gindin, I. M. Neklyudov, Avtorskoe svidetel'stvo USSR No. 161793 (Byulleten' No. 8, 1964)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Гиндин, И. М. Неклюдов, Физика программного упрочнения (Киев: Наукова думка: 1979).",
+				"tr":  "I. A. Gindin, I. M. Neklyudov, Fizika programmnogo uprochneniya (Kiev: Naukova Dumka: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "Цирконий в атомной промышленности (Москва: Госкомитет по использованию атомной энергии в СССР: 1979), вып. 2, 3.",
+				"tr":  "Tsirkoniy v atomnoy promyshlennosti (Moskva: Goskomitet po ispol'zovaniyu atomnoy energii v SSSR: 1979), No. 2, 3."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Гиндин, Л. А. Чиркина, В. С. Оковит, В. М. Нетесов, Металлофизика, 6: 65a (1984).",
+				"tr":  "I. A. Gindin, L. A. Chirkina, V. S. Okovit, V. M. Netesov, Metallofizika, 6: 65 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Нетесов, А. А. Яес, Л. А. Чиркина, Вопросы атомной науки и техники, серия: Общая и ядерная физика, вып. 2 (16): 4 (1986).",
+				"tr":  "V. M. Netesov, A. A. Yaes, L. A. Chirkina, Voprosy atomnoy nauki i tekhniki, seriya: Obshchaya i yadernaya fizika, No. 2 (16): 4 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Гиндин, И. М. Неклюдов, В. М. Нетесов, О. Т. Розумный, Металлофизика, вып. 69: 88 (1977).",
+				"tr":  "I. A. Gindin, I. M. Neklyudov, V. M. Netesov, O. T. Rozumnyy, Metallofizika, No. 69: 88 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Гиндин, И. М. Неклюдов, В. М. Нетесов, М. П. Старолат, Авторское свидетельство СССР № 502051 (Бюллетень № 5, 1976).",
+				"tr":  "I. A. Gindin, I. M. Neklyudov, V. M. Netesov, M. P. Starolat, Avtorskoe svidetel'stvo SSSR No. 502051 (Byulleten' No. 5, 1976)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Гиндин, О. И. Волчок, И. М. Неклюдов, ФТТ, 17, № 3: 655 (1975).",
+				"tr":  "I. A. Gindin, O. I. Volchok, I. M. Neklyudov, Phys. Solid State, 17, No. 3: 655 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "О. И. Волчок, Г. Н. Малик, В. С. Оковит, Л. А. Чиркина, Вопросы атомной науки и техники, серия: Ядерно-физические исследования (теория и эксперимент), вып. 7 (7): 40 (1989).",
+				"tr":  "O. I. Volchok, G. N. Malik, V. S. Okovit, L. A. Chirkina, Voprosy atomnoy nauki i tekhniki, seriya: Yaderno-fizicheskie issledovaniya (teoriya i eksperiment), No. 7 (7): 40 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Кулемин, Ультразвук и диффузия в металлах (Москва: Металлургия: 1978).",
+				"tr":  "A. V. Kulemin, Ul'trazvuk i diffuziya v metallakh (Moskva: Metallurgiya: 1978)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Г. Лазарев, Л. С. Лазарева, О. Н. Овчаренко, А. А. Мацакова, ЖЭТФ, 43, вып. 6: 2309 (1962).",
+				"tr":  "B. G. Lazarev, L. S. Lazareva, O. N. Ovcharenko, A. A. Matsakova, ZhETF, 43, No. 6: 2309 (1962)."
+			},
+			{
+				"doi": "10.1007/978-1-4613-9859-2_62",
+				"or":  "G. Rupp, Adv. Cryog. Eng. Mater, 26: 522 (1980).",
+				"tr":  "G. Rupp, Adv. Cryog. Eng. Mater, 26: 522 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "C. B. Muller and E. J. Saur, Adv. Cryog. Eng, 9: 338 (1964).",
+				"tr":  "C. B. Muller and E. J. Saur, Adv. Cryog. Eng, 9: 338 (1964)."
+			},
+			{
+				"doi": "10.1016/0011-2275(81)90234-4",
+				"or":  "G. Rupp, Cryogenics, 21, No 10: 619 (1981).",
+				"tr":  "G. Rupp, Cryogenics, 21, No 10: 619 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Н. Малик, В. И. Соколенко, Я. Д. Стародубов, М. А. Тихоновский и др., Вопросы атомной науки и техники, серия: Ядерно-физические исследования (теория и эксперимент), вып. 2 (23): 64 (1992).",
+				"tr":  "G. N. Malik, V. I. Sokolenko, Ya. D. Starodubov, M. A. Tikhonovskiy et al., Voprosy atomnoy nauki i tekhniki, seriya: Yaderno-fizicheskie issledovaniya (teoriya i eksperiment), No. 2 (23): 64 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Sokolenko, Ya. D. Starodubov, G. N. Malik, M. A. Tikhonovskij et al., Cryogenics, 32, ICMC Suppl.: 637 (1992).",
+				"tr":  "V. I. Sokolenko, Ya. D. Starodubov, G. N. Malik, M. A. Tikhonovskiy et al., Cryogenics, 32, ICMC Suppl.: 637 (1992)."
+			},
+			{
+				"doi": "10.1007/978-1-4613-3542-9_30",
+				"or":  "E. J. Kramer, Adv. Cryog. Eng. Mater., 28: 307 (1982).",
+				"tr":  "E. J. Kramer, Adv. Cryog. Eng. Mater., 28: 307 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Горбатенко, М. Б. Лазарева, В. И. Соколенко, Вопросы атомной науки и техники, серия: Вакуум, чистые материалы, сверхпроводники, вып. 1 (17): 42 (2008).",
+				"tr":  "V. M. Gorbatenko, M. B. Lazareva, V. I. Sokolenko, Voprosy atomnoy nauki i tekhniki, seriya: Vakuum, chistye materialy, sverkhprovodniki, No. 1 (17): 42 (2008)."
+			},
+			{
+				"doi": "10.1063/1.1739131",
+				"or":  "С. В. Лубенец, В. Д. Нацик, Л. С. Фоменко, ФНТ, 30, № 5: 467 (2004).",
+				"tr":  "S. V. Lubenets, V. D. Natsik, L. S. Fomenko, Fizika Nizkikh Temperatur, 30, No. 5: 467 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Бобров, И. И. Зверькова, А. П. Иванов, А. Н. Изотов и др., ФТТ, 32, № 3: 826 (1990).",
+				"tr":  "V. S. Bobrov, I. I. Zver'kova, A. P. Ivanov, A. N. Izotov et al., Phys. Solid State, 32, No. 3: 826 (1990)."
+			},
+			{
+				"doi": "10.1016/0921-4534(94)91233-5",
+				"or":  "V. I. Sokolenko, Ya. D. Starodubov, and G. N. Malik, Physica C, 235–240: 3413 (1994).",
+				"tr":  "V. I. Sokolenko, Ya. D. Starodubov, and G. N. Malik, Physica C, 235–240: 3413 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Sokolenko, Ya. D. Starodubov, and G. N. Malik, Fourth Euro-Ceramics. High-Tc Superconductors (Eds. F. Barone, D. Fiorani, and A. Tampieri) (Gruppo Edit Faenca Editrice: 1995), vol. 6, part 1, p. 353.",
+				"tr":  "V. I. Sokolenko, Ya. D. Starodubov, and G. N. Malik, Fourth Euro-Ceramics. High-Tc Superconductors (Eds. F. Barone, D. Fiorani, and A. Tampieri) (Gruppo Edit Faenca Editrice: 1995), vol. 6, part 1, p. 353."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Оковит, В. И. Соколенко, Я. Д. Стародубов, Л. А. Чиркина и др., Вопросы атомной науки и техники, серия: Вакуум, чистые материалы, сверхпроводники, вып. 6 (14): 81 (2004).",
+				"tr":  "V. S. Okovit, V. I. Sokolenko, Ya. D. Starodubov, L. A. Chirkina et al., Voprosy atomnoy nauki i tekhniki, seriya: Vakuum, chistye materialy, sverkhprovodniki, No. 6 (14): 81 (2004)."
+			},
+			{
+				"doi": "10.1063/1.94584",
+				"or":  "J. J. Croat, J. F. Herbst, R. W. Lee, and F. E. Pinkerton, Appl. Phys. Lett., 44, No. 1: 148 (1984).",
+				"tr":  "J. J. Croat, J. F. Herbst, R. W. Lee, and F. E. Pinkerton, Appl. Phys. Lett., 44, No. 1: 148 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Rodewald and M. Katter, Proc. 18th Workshop ‘Нigh Performance Magnets & Their Applications’ (Annecy, France, 2004) (Еds. N. M. Dempsey and P. de Rango) (2004), vol. 2, р. 486.",
+				"tr":  "W. Rodewald and M. Katter, Proc. 18th Workshop 'Nigh Performance Magnets & Their Applications' (Annecy, France, 2004) (Eds. N. M. Dempsey and P. de Rango) (2004), vol. 2, r. 486."
+			},
+			{
+				"doi": "10.1103/PhysRevB.29.4176",
+				"or":  "H. J. Ferbst, J. J. Croat, F. E. Pinkerton, and W. В. Yelon, Phys. Rev. B, 29, No. 7: 4176 (1984).",
+				"tr":  "H. J. Ferbst, J. J. Croat, F. E. Pinkerton, and W. V. Yelon, Phys. Rev. B, 29, No. 7: 4176 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "П. А. Березняк, Г. Н. Малик, В. С. Оковит, В. И. Соколенко и др., Вопросы атомной науки и техники, серия: Вакуум, чистые материалы, сверхпроводники, вып. 6 (14): 107 (2004).",
+				"tr":  "P. A. Bereznyak, G. N. Malik, V. S. Okovit, V. I. Sokolenko et al., Voprosy atomnoy nauki i tekhniki, seriya: Vakuum, chistye materialy, sverkhprovodniki, No. 6 (14): 107 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, Ю. В. Мильман, С. А. Фирстов, Физические основы прочности тугоплавких металлов (Киев: Наукова думка: 1975).",
+				"tr":  "V. I. Trefilov, Yu. V. Mil'man, S. A. Firstov, Fizicheskie osnovy prochnosti tugoplavkikh metallov (Kiev: Naukova dumka: 1975)."
+			},
+			{
+				"doi": "",
+				"or":  "Тезисы докл. конф. «Разработка и применение хрома и его сплавов в промышленности» (Ред. В. И. Трефилов) (Киев: ИПМ АН УССР: 1984).",
+				"tr":  "Abstracts Conf. \"Razrabotka i primenenie khroma i ego splavov v promyshlennosti\" (Ed. V. I. Trefilov) (Kiev: IPM AN USSR: 1984)."
+			},
+			{
+				"doi": "",
+				"or":  "Конструкционные сплавы хрома: Cб. науч. трудов (Ред. В. И. Трефилов) (Киев: Наукова думка: 1986).",
+				"tr":  "Konstruktsionnye splavy khroma: Collected Scientific Transactions (Ed. V. I. Trefilov) (Kiev: Naukova dumka: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, Фазовые переходы в кристаллах с магнитной структурой (Киев: Наукова думка: 1989).",
+				"tr":  "A. I. Mitsek, Fazovye perekhody v kristallakh s magnitnoy strukturoy (Kiev: Naukova Dumka: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Вонсовский, Магнетизм. Магнитные свойства диа-, пара-, ферро-, антиферро-, ферримагнетиков (Москва: Наука, 1971).",
+				"tr":  "S. V. Vonsovskiy, Magnetizm. Magnitnye svoystva dia-, para-, ferro-, antiferro-, ferrimagnetikov (Moskva: Nauka, 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Ракицкий, В. Ф. Горбань, Г. А. Григорьева, Ю. Е. Зубец и др., О выборе режимов прессования слитков сплава ВХ-2К. Конструкционные сплавы хрома (Киев: Наукова думка: 1986), с. 126.",
+				"tr":  "A. N. Rakitskiy, V. F. Gorban', G. A. Grigor'eva, Yu. E. Zubets et al., O vybore rezhimov pressovaniya slitkov splava VKh-2K. Konstruktsionnye splavy khroma (Kiev: Naukova dumka: 1986), s. 126."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Белецкий, Ю. Е. Зубец, Л. С. Иголкина, А. Н. Ракицкий и др., Исследование режимов термической обработки листов из сплава ВХ-2К. Конструкционные сплавы хрома (Киев: Наукова думка: 1986), с. 193.",
+				"tr":  "Yu. I. Beletskiy, Yu. E. Zubets, L. S. Igolkina, A. N. Rakitskiy et al., Issledovanie rezhimov termicheskoy obrabotki listov iz splava VKh-2K. Konstruktsionnye splavy khroma (Kiev: Naukova dumka: 1986), s. 193."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Головкин, В. Н. Быков, В. Ю. Панченко, Е. М. Иванюшкин, Металлофизика, 10, № 3: 3 (1988).",
+				"tr":  "V. S. Golovkin, V. N. Bykov, V. Yu. Panchenko, E. M. Ivanyushkin, Metallofizika, 10, No. 3: 3 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "О. И. Запорожец, Л. В. Тихонов, УФЖ, 24, № 7: 990 (1979).",
+				"tr":  "O. I. Zaporozhets, L. V. Tikhonov, Ukrainian Journal of Physics, 24, No. 7: 990 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "И. М. Неклюдов, В. И. Соколенко, Я. Д. Стародубов, Деформация и разрушение материалов, № 3: 41 (2005).",
+				"tr":  "I. M. Neklyudov, V. I. Sokolenko, Ya. D. Starodubov, Deformatsiya i razrushenie materialov, No. 3: 41 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "И. М. Неклюдов, Я. Д. Стародубов, В. И. Соколенко, УФЖ, 50, № 8А: А113 (2005).",
+				"tr":  "I. M. Neklyudov, Ya. D. Starodubov, V. I. Sokolenko, Ukrainian Journal of Physics, 50, No. 8A: A113 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лихачев, ФТТ, 3, вып. 6: 1827 (1961).",
+				"tr":  "V. A. Likhachev, Phys. Solid State, 3, No. 6: 1827 (1961)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Ю. Зубец, Л. С. Иголкина, А. А. Оноприенко, Ю. А. Перлович и др., Тез. докл. Всесоюз. научно-технич. совещания «Исследование и разработка и применение хрома и его сплавов в промышленности» (Ред. В. И. Трефилов) (Киев: ИПМ АН УССР: 1984), с. 81.",
+				"tr":  "E. Yu. Zubets, L. S. Igolkina, A. A. Onoprienko, Yu. A. Perlovich et al., Abstracts of all-USSR Scientific-Technical Meeting \"Issledovanie i razrabotka i primenenie khroma i ego splavov v promyshlennosti\" (Ed. V. I. Trefilov) (Kiev: IPM AN USSR: 1984), s. 81."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Е. Зубец, Е. А. Григорьева, В. А. Манилов, В. А. Пискарев и др., Исследование режимов получения пластичных листов из сплава ВХ-2К. Конструкционные сплавы хрома (Киев: Наукова думка: 1986), с. 143.",
+				"tr":  "E. E. Zubets, E. A. Grigor'eva, V. A. Manilov, V. A. Piskarev et al., Issledovanie rezhimov polucheniya plastichnykh listov iz splava VKh-2K. Konstruktsionnye splavy khroma (Kiev: Naukova dumka: 1986), s. 143."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Екобори , Физика и механика разрушения и прочности твердых тел (Москва: Металлургия:1971) (пер. с англ.).",
+				"tr":  "T. Ekobori , Fizika i mekhanika razrusheniya i prochnosti tverdykh tel (Moskva: Metallurgiya:1971) (Russian translation)."
+			}
+		]
+	}
+}

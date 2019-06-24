@@ -1,0 +1,210 @@
+{
+	"_id":    "UFM.17.04.375",
+	"year":   2016,
+	"volume": 17,
+	"issue":  4,
+	"pages":  [375,399],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["26.09.2016"],
+	"PACS":   "06.60.Jn, 46.40.Cd, 62.50.Ef, 83.50.-v, 87.55.Qr",
+	"title":   {
+		"ua": "Обґрунтування застосування комплексно-кількісних метод задля оцінювання якостей матеріялів за умов високошвидкісного навантаження",
+		"en": "Justification of Application of Complex-Quantitative Methods for an Estimation of Qualities of Materials in the Conditions of a High-Speed Load",
+		"ru": "Обоснование применения комплексно-количественных методов для оценки качеств материалов в условиях высокоскоростной нагрузки"
+	},
+	"abstract": {
+		"ua": "У зв’язку з тим, що в сучасній метрологічній базі даних відсутня чітка методика оцінювання якости матеріялів за умов ударних і високошвидкісних навантажень, у даній роботі нами було проведено й представлено аналізу динамічних властивостей металевих матеріялів за умов імпульсних навантажень. Показано, що ударні навантаження характеризують матеріял з точки зору динамічних властивостей (тобто характеристик руйнування) є ключовими і домінуючими в умовах імпульсних навантажень, а отже найбільшою мірою характеризують якість матеріялів за умов високошвидкісних навантажень. На основі проведеної аналізи метод оцінювання якости матеріялів, а також аналізи їх поведінки за умов ударного навантаження зроблено висновок про те, що основними і визначальними характеристиками їх якости є динамічні характеристики. На основі цих характеристик побудовано систему показників якости навантажених матеріялів. Аналіза результатів сучасних методик оцінювання якости об’єктів за умов ударних навантажень засвідчила наявність проблем внаслідок неякісного оцінювання матеріялів. Продемонстровано, що результати аналізи експериментальних метод випробування матеріялів ударним способом, основних характеристик і параметрів впливають на кінцеві властивості матеріялів. На основі наведених аргументів ми сформулювали основний принцип підходу, який визначає для навантажених матеріялів основні критерії їх якости (динамічні характеристики). Аналізуючи сучасний досвід у застосуванні комплексно-кількісних методик, зроблено вибір найбільш прийнятних метод оцінювання матеріялів за умов високошвидкісного навантаження. Представлений перелік матеріялів сприяє вирішенню проблеми створення альтернативного механізму оцінювання якости навантажених матеріялів (поряд з експертним шляхом). Комплексно-кількісні методи найбільшою мірою є підхожими задля використання їх в експериментальних випробуваннях, є наочними і легко відтворюваними. За наявности рекомендацій щодо застосування даних метод останні можна легко впровадити у виробництві і навчальному процесі.",
+		"en": "Due to the fact that in the modern metrological database there is no clear methodology for estimating quality of materials under the conditions of shock and high-speed loads, in this work the analysis of dynamic properties of metallic materials at the impulsive loads is carried out and presented. It is shown that shock loads characterize material on a viewpoint of dynamic properties (i.e. fracture characteristics) are key and dominant at the impulsive loads. This means that shock loads characterize the quality of materials under the high-speed loads. Based on the analysis of the methods of assessment of the quality of materials, as well as the analysis of their behaviour in the conditions of shock load, it concluded that the main and governing characteristics defining their quality are the dynamic characteristics. Based on these characteristics, a system of indicators of the quality of the loaded materials is constructed. The analysis of results of the modern methods for assessing quality of objects in conditions of impact loads has shown series of problems due to the low-quality assessment of the materials. It is demonstrated that the results of the analysis of experimental methods for testing of materials via impact way, the basic characteristics and parameters affect the final properties of the materials. Based on the adduced arguments, we formulated the basic approach principle defining the main criteria of the loaded materials’ quantity (dynamical characteristics). Analysing contemporary experience in the using of complex-quantitative methods, the most suitable methods for assessment of materials under the conditions of high load are selected. Presented list of materials contributed to the solution of the problem of creating an alternative mechanism for evaluating the quality of the loaded materials (along with expert way). Complex-quantitative methods are the best suited for use in experimental tests, and are obvious and easily reproducible. If there are recommendations on application of the methods, the latter can be easily implemented in the production and education process.",
+		"ru": "В связи с тем, что в современной метрологической базе данных отсутствует чёткая методика оценки качества материалов в условиях ударных и высокоскоростных нагрузок в данной работе нами был проведен и представлен анализ динамических свойств металлических материалов в условиях импульсных нагрузок. Показано, что ударные нагрузки характеризуют материал с точки зрения динамических свойств (то есть характеристик разрушения) являются ключевыми и доминирующими в условиях импульсных нагрузок, а значит, в наибольшей степени характеризуют качество материалов в условиях высокоскоростных нагрузок. На основе проведенного анализа методов оценки качества материалов, а также анализа их поведения в условиях ударной нагрузки сделан вывод о том, что основными и определяющими характеристиками их качества являются динамические характеристики. На основе этих характеристик построена система показателей качества нагруженных материалов. Анализ результатов современных методик оценки качества объектов в условиях ударных нагрузок засвидетельствовал наличие ряда проблем вследствие некачественной оценки материалов. Продемонстрировано, что результаты анализа экспериментальных методов испытания материалов ударным способом, основных характеристик и параметров влияют на конечные свойства материалов. На основе приведённых аргументов мы сформулировали основной принцип подхода, который определяет для нагруженных материалов основные критерии их качества (динамические характеристики). Анализируя современный опыт в применении комплексно-количественных методик, сделан выбор наиболее приемлемых методов оценки материалов в условиях высокоскоростного нагрузки. Представленный перечень материалов способствует решению проблемы создания альтернативного механизма оценки качества нагруженных материалов (наряду с экспертным путём). Комплексно-количественные методы в наибольшей степени подходят для использования их в экспериментальных испытаниях, являются наглядными и легко воспроизводимым. При наличии рекомендаций по применению данных методов последние можно легко внедрить на производстве и учебном процессе."
+	},
+	"keywords": {
+		"ua": "комплексно-кількісні методи, високошвидкісне навантаження, система оцінювання якости матеріялів",
+		"en": "Complex-quantitative method, high-speed load, the system for evaluating the quality of materials",
+		"ru": "комплексно-количественные методы, высокоскоростная нагрузка, система оценки качества материалов"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Куриляк", "en": "V. V. Kurylyak", "ru": "В. В. Куриляк"},
+			"OID": [244]
+		},
+		{
+			"AID": {"ua": "Г. І. Хімічева", "en": "G. I. Khimicheva", "ru": "А. И. Химичева"},
+			"OID": [244]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.18.02.155",
+				"cit": "V. V. Kurylyak and G. I. Khimicheva, <a href=\"https://doi.org/10.15407/ufm.18.02.155\">Usp. Fiz. Met. <b>18</b>, 155 (2017)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 32,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "﻿1. М. А. Кривоглаз, Металлы, электроны, решётка (Киев: Наукова думка: 1975), с. 355.",
+				"tr":  "M. A. Krivoglaz, Metally, Ehlektrony, Reshetka [Metals, Electrons, Lattice] (Kiev: Naukova Dumka: 1975), p. 355 (in Russian)."
+			},
+			{
+				"doi": "10.1007/978-3-642-74291-0",
+				"or":  "M. A. Krivoglaz, X-Ray and Neutron Diffraction in Nonideal Crystals (Berlin: Springer: 1996).",
+				"tr":  "M. A. Krivoglaz, X-Ray and Neutron Diffraction in Nonideal Crystals (Berlin: Springer: 1996)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, Е. А. Тихонова, Физика металлов и металловедение, 24, № 3: 385 (1967).",
+				"tr":  "V. B. Molodkin and E. A. Tikhonova, Fizika Metallov i Metallovedenie, 24, No. 3: 385 (1967) (in Russian)."
+			},
+			{
+				"doi": "https:/doi.org/10.1016/S0966-9795(03)00174-2.",
+				"or":  "V. A. Tatarenko and T. M. Radchenko, Intermetallics, 11, Nos. 11–12: 1319 (2003).",
+				"tr":  "V. A. Tatarenko and T. M. Radchenko, Intermetallics, 11, Nos. 11–12: 1319 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "T. M. Radchenko, V. A. Tatarenko, and S. M. Bokoch, Металлофизика и новейшие технологии, 28, № 12: 1699 (2006)",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, and S. M. Bokoch, Metallofizika i Noveishie Tekhnologii, 28, No. 12: 1699 (2006); arXiv:1406.0147."
+			},
+			{
+				"doi": "http://ufm.imp.kiev.ua/en/abstract/v03/i02/111.html",
+				"or":  "В. А. Татаренко, Т. М. Радченко, Успехи физики металлов, 3, № 2: 111 (2002).",
+				"tr":  "V. A. Tatarenko and T. M. Radchenko, Uspehi Fiziki Metallov, 3, No. 2: 111 (2002) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Татаренко, Т. М. Радченко, В. М. Надутов, Металлофизика и новейшие технологии, 25, № 10: 1303 (2003).",
+				"tr":  "V. A. Tatarenko, T. M. Radchenko, and V. M. Nadutov, Metallofizika i Noveishie Tekhnologii, 25, No. 10: 1303 (2003) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/ufm.11.01.095",
+				"or":  "І. Ю. Сагалянов, Ю. І. Прилуцький, Т. М. Радченко, В. А. Татаренко, Успехи физики металлов, 11, № 1: 95 (2010).",
+				"tr":  "I. Yu. Sagalyanov, Yu. I. Prylutskyy, T. M. Radchenko, and V. A. Tatarenko, Uspehi Fiziki Metallov, 11, No. 1: 95 (2010) (in Ukrainian)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/SSP.138.283",
+				"or":  "T. M. Radchenko, V. A. Tatarenko, and H. Zapolsky, Solid State Phenomena, 138: 283 (2008).",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, and H. Zapolsky, Solid State Phenomena, 138: 283 (2008)."
+			},
+			{
+				"doi": "10.15407/ufm.09.01.001",
+				"or":  "Т. М. Радченко, В. А. Татаренко, Успехи физики металлов, 9, № 1: 1 (2008).",
+				"tr":  "T. M. Radchenko and V. A. Tatarenko, Uspehi Fiziki Metallov, 9, No. 1: 1 (2008) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.physleta.2014.05.022",
+				"or":  "T. M. Radchenko, V. A. Tatarenko, I. Yu. Sagalianov, and Yu. I. Prylutskyy, Phys. Lett. A, 378: 2270 (2014).",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, I. Yu. Sagalianov, and Yu. I. Prylutskyy, Phys. Lett. A, 378: 2270 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, Физика металлов и металловедение, 25, № 3: 410 (1968).",
+				"tr":  "V. B. Molodkin, Fizika Metallov i Metallovedenie, 25, No. 3: 410 (1968) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, Физика металлов и металловедение, 27, № 4: 582 (1969); В. Б. Молодкин, Металлофизика, 2, № 1: 3 (1980).",
+				"tr":  "V. B. Molodkin, Fizika Metallov i Metallovedenie, 27, No. 4: 582 (1969) (in Russian); V. B. Molodkin, Metallofizika, 2, No. 1: 3 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Химичева, В. В. Курыляк, Восточно-европейский журнал передових технологий, 5, № 1 (77): 70 (2015).",
+				"tr":  "A. I. Himicheva and V. V. Kurylyak, Eastern-European Journal of Enterprise Technologies, 5, No. 1 (77): 70 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Куриляк, Г. І. Хімічева, Вісник національного технічного університету «Харківський політехнічний інститут». Серія «Проблеми механічного приводу», № 35 (1144): 80 (2015).",
+				"tr":  "V. V. Kurylyak and G. I. Khimicheva, Bulletin of the National Technical University ‘Kharkiv Polytechnic Institute’. Series ‘Problems of Mechanical Drive», No. 35 (1144): 80 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. І. Хімічева, В. В. Куриляк, Вісник Київського національного університету технологій і дизайну, № 6 (92): 67 (2015).",
+				"tr":  "G. I. Khimicheva and V. V. Kurylyak, Bulletin of the Kyiv National University of Technologies and Design, No. 6 (92): 67 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. І. Хімічева, В. В. Куриляк, Вісник національного технічного університету «Харківський політехнічний інститут». Серія «Нові рішення в сучасних технологіях», № 62 (1171): 40 (2015).",
+				"tr":  "G. I. Khimicheva and V. V. Kurylyak, Bulletin of the National Technical University ‘Kharkiv Polytechnic Institute’. Series ‘New Solutions in Modern Technologies’, No. 62 (1171): 40 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. І. Хімічева, В. В. Куриляк, Вісник Чернігівського державного технічного університету. Серія «Технічні науки», № 2 (78): 76 (2015).",
+				"tr":  "G. I. Khimicheva and V. V. Kurylyak, Visnyk of Chernihiv State Technological University. Series ‘Technical Sciences’, No. 2 (78): 76 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Куриляк, Технологічний аудит та резерви виробництва, № 4 (3): 53 (2016).",
+				"tr":  "V. V. Kurylyak, Technology Audit and Production Reserves, No. 4 (3): 53 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. І. Хімічева, В. В. Куриляк, Вісник національного технічного універси-тету «Харківський політехнічний інститут», № 25 (1197): 125 (2016).",
+				"tr":  "A. I. Khimicheva and V. V. Kurylyak, Bulletin of the National Technical University ‘Kharkiv Polytechnic Institute’. Series ‘New Solutions in Modern Technologies’, No. 25 (1197): 125 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, М. В. Ковальчук, И. М. Карнаухов, В. Ф. Мачулин, В. Е. Сторижко, Э. Х. Мухамеджанов, А. И. Низкова, С. В. Лизунова, Е. Н. Кисловский, С. И. Олиховский, Б. В. Шелудченко, С. В. Дмитриев, Е. С. Скакунова, В. В. Молодкин, В. В. Лизунов, В. А. Бушуев, Р. Н. Кютт, Б. С. Карамурзов, А. А. Дышеков, Т. И. Оранова, Ю. П. Хапачев, Основы динамической высокоразрешающей дифрактометрии функциональных материалов (Нальчик: Кабардино-Балкарский Университет: 2013).",
+				"tr":  "V. B. Molodkin, M. V. Koval’chuk, I. M. Karnaukhov, V. F. Machulin, V. E. Storizhko, E. Kh. Mukhamedzhanov, A. I. Nizkova, S. V. Lizunova, E. N. Kislovskii, S. I. Olikhovskii, B. V. Sheludchenko, S. V. Dmitriev, E. S. Skakunova, V. V. Molodkin, V. V. Lizunov, V. A. Bushuev, R. N. Kyutt, B. S. Karamurzov, A. A. Dyshekov, T. I. Oranova, and Yu. P. Khapachev, Osnovy Dinamicheskoy Vysokorazreshayushchey Difraktometrii Funktsional’nykh Materialov [Basis of Dynamical High-Resolution Diffraction of Functional Materials] (Nalchik: Kabardino-Balkarsky University: 2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, М. В. Ковальчук, И. М. Карнаухов, В. Е. Сторижко, С. В. Лизунова, С. В. Дмитриев, А. И. Низкова, Е. Н. Кисловский, В. В. Молодкин, Е. В. Первак, А. А. Катасонов, В. В. Лизунов, Е. С. Скакунова, Б. С. Карамурзов, А. А. Дышеков, А. Н. Багов, Т. И. Оранова, Ю. П. Хапачев, Основы интегральной многопараметрической диффузнодинамической дифрактометрии (Нальчик: Кабардино-Балкарский Университет: 2013).",
+				"tr":  "V. B. Molodkin, M. V. Koval’chuk, I. M. Karnaukhov, V. E. Storizhko, S. V. Lizunova, S. V. Dmitriev, A. I. Nizkova, E. N. Kislovskii, V. V. Molodkin, E. V. Pervak, A. A. Katasonov, V. V. Lizunov, E. S. Skakunova, B. S. Karamurzov, A. A. Dyshekov, A. N. Bagov, T. I. Oranova, and Yu. P. Khapachev, Osnovy Integral’noy Mnogoparametricheskoy Diffuznodinamicheskoy Difraktometrii [Basis of Integral Multiparameter Diffusion-Dynamical Diffractometry] (Nalchik: Kabardino-Balkarsky University: 2013) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.36.07.0857.",
+				"or":  "В. В. Лизунов, В. Б. Молодкин, С. В. Лизунова, Н. Г. Толмачев, Е. С. Скакунова, С. В. Дмитриев, Б. В. Шелудченко, С. М. Бровчук, Л. Н. Скапа, Р. В. Лехняк, Металлофизика и новейшие технологии, 36, № 7: 857 (2014).",
+				"tr":  "V. V. Lizunov, V. B. Molodkin, S. V. Lizunova, M. G. Tolmachyov, O. S. Skakunova, S. V. Dmitriev, B. V. Sheludchenko, S. M. Brovchuk, L. M. Skapa, R. V. Lekhnyak, and K. V. Fuzik, Metallofizika i Noveishie Tekhnologii, 36, No. 7: 857 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.15.02.055",
+				"or":  "В. В. Лизунов, В. Б. Молодкин, С. В. Лизунова, Н. Г. Толмачев, Е. С. Скакунова, С. В. Дмитриев, Б. В. Шелудченко, С. М. Бровчук,Л. Н. Скапа,Р. В. Лехняк, В. В. Молодкин, Е. В. Фузик, Успехи физики металлов, 15, № 2: 55 (2014).",
+				"tr":  "V. V. Lizunov, V. B. Molodkin, S. V. Lizunova, N. G. Tolmachev, O. S. Skakunova, S. V. Dmitriev, B. V. Sheludchenko, S. M. Brovchuk, L. M. Skapa, R. V. Lekhnyak, V. V. Molodkin, K. V. Fuzik, Uspehi Fiziki Metallov, 15, № 2: 55 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.1134/S1063783411110102",
+				"or":  "S. G. Jabarov, D. P. Kozlenko, S. E. Kichanov, A. V. Belushkin, B. N. Savenko, R. Z. Mextieva, and C. Lathe, Physics of Solid State, 53, No. 11: 2300 (2011).",
+				"tr":  "S. G. Jabarov, D. P. Kozlenko, S. E. Kichanov, A. V. Belushkin, B. N. Savenko, R. Z. Mextieva, and C. Lathe, Physics of Solid State, 53, No. 11: 2300 (2011)."
+			},
+			{
+				"doi": "10.1134/S1063783414040180",
+				"or":  "R. Z. Mekhdieva, E. V. Lukin, S. E. Kichanov, D. P. Kozlenko, S. H. Jabarov, T. N. Dang, A. I. Mammadov, and B. N. Savenko, Physics of Solid State, 56, No. 4: 765 (2014).",
+				"tr":  "R. Z. Mekhdieva, E. V. Lukin, S. E. Kichanov, D. P. Kozlenko, S. H. Jabarov, T. N. Dang, A. I. Mammadov, and B. N. Savenko, Physics of Solid State, 56, No. 4: 765 (2014)."
+			},
+			{
+				"doi": "10.1016/S0254-0584(98)00262-4",
+				"or":  "H. S. Potdar, S. B. Deshpande, and S. K. Date, Mater. Chem. Phys., 58: 121 (1999).",
+				"tr":  "H. S. Potdar, S. B. Deshpande, and S. K. Date, Mater. Chem. Phys., 58: 121 (1999)."
+			},
+			{
+				"doi": "10.1111/j.1151-2916.2003.tb03307.x",
+				"or":  "H. Xu and L. Gao, J. Am. Ceram. Soc., 86: 203 (2003).",
+				"tr":  "H. Xu and L. Gao, J. Am. Ceram. Soc., 86: 203 (2003)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2006.09.023",
+				"or":  "L. Wang, L. Liu, D. Xue, H. Kang, and C. Liu, J. Alloys & Compounds, 440: 78 (2007).",
+				"tr":  "L. Wang, L. Liu, D. Xue, H. Kang, and C. Liu, J. Alloys & Compounds, 440: 78 (2007)."
+			},
+			{
+				"doi": "10.1063/1.1328762",
+				"or":  "M. K. Lee, T. K. Nath, C. B. Eoma, M. C. Smoak, and F. Tsui, App. Phys. Lett., 77, No. 22: 3547 (2000).",
+				"tr":  "M. K. Lee, T. K. Nath, C. B. Eoma, M. C. Smoak, and F. Tsui, App. Phys. Lett., 77, No. 22: 3547 (2000)."
+			},
+			{
+				"doi": "10.12693/APhysPolA.115.808",
+				"or":  "Z. Lazerevic, N. Romcevic, M. Vijatovic, N. Paunovic, M. Romcevic, B. Stojanovic, and Z. Dohcevic-Mitrovic, Acta Phys. Pol. A, 115, No. 4: 808 (2009).",
+				"tr":  "Z. Lazerevic, N. Romcevic, M. Vijatovic, N. Paunovic, M. Romcevic, B. Stojanovic, and Z. Dohcevic-Mitrovic, Acta Phys. Pol. A, 115, No. 4: 808 (2009)."
+			},
+			{
+				"doi": "10.1016/S0038-1098(03)00503-9",
+				"or":  "K. Tkacz-Smiecz, A. Kolezynski, and W. S. Ptak, Solid State Communications, 127: 557 (2003).",
+				"tr":  "K. Tkacz-Smiecz, A. Kolezynski, and W. S. Ptak, Solid State Communications, 127: 557 (2003)."
+			}
+		]
+	}
+}

@@ -1,0 +1,381 @@
+{
+	"_id":    "UFM.12.02.183",
+	"year":   2011,
+	"volume": 12,
+	"issue":  2,
+	"pages":  [183,207],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["08.02.2011"],
+	"PACS":   "68.37.Hk, 71.45.Gm, 73.20.Mf, 73.22.Lp, 79.20.Uv, 82.80.Pv",
+	"title":   {
+		"ua": "Елементарні збудження електронів у приповерхневій області аморфного та відпаленого стопу Fe$_{73,6}$Cu$_{1}$Nb$_{2,4}$Si$_{15,8}$B$_{7,2}$",
+		"en": "Elementary Excitations of Electrons in Surficial Region of the Amorphous and Annealed Fe$_{73.6}$Cu$_{1}$Nb$_{2.4}$Si$_{15.8}$B$_{7.2}$",
+		"ru": "Элементарные возбуждения электронов в приповерхностной области аморфного и отожжённого сплава Fe$_{73,6}$Cu$_{1}$Nb$_{2,4}$Si$_{15,8}$B$_{7,2}$"
+	},
+	"abstract": {
+		"ua": "Методою спектроскопії характеристичних втрат енергії електронів досліджено електронні стани поверхні аморфного та відпаленого стопу Fe$_{73,6}$Cu$_1$Nb$_{2,4}$Si$_{15,8}$B$_{7,2}$ (FINEMET) і його компонентів. Характеристичні втрати електронів вимірювалися зміною енергії жмута первинних електронів $Е_{0}$ від 150 до 650 еВ. Спектри характеристичних втрат енергії складалися з основних піків, яких інтерпретували як такі, що відповідають поверхневим й об’ємним плазмонам, їх модам, міжзонним переходам та йонізаційним втратам. З’ясовано, що виміряні енергії збудження плазмонів не відповідають розрахованим значенням згідно з класичною теорією колективних збуджень у твердому тілі. Для всіх зразків спостерігалися зміни інтенсивности ліній поверхневих та об’ємних плазмонів в залежності від енергії первинних електронів $Е_{0}$.",
+		"en": "Electron energy loss spectroscopy is used at investigation of the electron states of amorphous and annealed Fe$_{73.6}$Cu$_{1}$Nb$_{2.4}$Si$_{15.8}$B$_{7.2}$ alloy surface and alloy components. Electron energy losses are measured at changing of the primary electron beam energies $Е_{0}$ from 150 to 650 eV. The characteristic energy loss spectra consist of main peaks, which are interpreted as corresponding to the surface and bulk plasmons, combination surface and bulk loss, high harmonics of plasma losses, interband transitions, and ionization of core levels. The measured energies for the plasmon excitations are found to be in disagreement with values calculated according to the classical theory of the collective excitations in solids. Changes in the intensity lines of surface and bulk plasmons are observed for all specimens depending on primary electron energy $Е_{0}$.",
+		"ru": "Методом спектроскопии характеристических потерь энергии электронов исследованы состояния электронов поверхности аморфного и отожжённого сплава Fe$_{73,6}$Cu$_1$Nb$_{2,4}$Si$_{15,8}$B$_{7,2}$ (FINEMET) и его компонентов. Характеристические потери электронов измерялись в интервале энергии пучка первичных электронов $Е_{0}$ от 150 до 650 эВ. Спектры характеристических потерь состояли из пиков, которые интерпретировались как соответствующие поверхностным и объёмным плазмонам, их модам, межзонным переходам и ионизационным потерям. Установлено, что измеренные энергии возбуждения плазмонов отличаются от результатов, полученных в рамках классической теории коллективных возбуждений в твёрдом теле. Для всех образцов наблюдались изменения интенсивности линий поверхностных и объёмных плазмонов в зависимости от энергии первичных электронов $Е_{0}$."
+	},
+	"keywords": {
+		"ua": "аморфний стоп Fe$_{73,6}$Cu$_1$Nb$_{2,4}$Si$_{15,8}$B$_{7,2}$, поверхня, спектроскопія характеристичних втрат енергії електронів, плазмони, йонізаційні втрати",
+		"en": "amorphous Fe$_{73.6}$Cu$_{1}$Nb$_{2.4}$Si$_{15.8}$B$_{7.2}$ alloy, surface, spectroscopy of characteristic electron energy losses, plasmons, ionization losses",
+		"ru": "аморфный сплав Fe$_{73,6}$Cu$_1$Nb$_{2,4}$Si$_{15,8}$B$_{7,2}$, поверхность, спектроскопия характеристических потерь энергии электронов, плазмоны, ионизационные потери"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. О. Тіньков", "en": "V. O. Tin’kov", "ru": "В. А. Тиньков"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. С. Ходаківський", "en": "A. S. Khodakivs’kyi", "ru": "А. С. Ходаковский"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 68,
+		"list":  [
+			{
+				"doi": "10.1063/1.342149",
+				"or":  "Y. Yoshizawa, S. Oguma, and K. Yamauchi, J. Appl. Phys., 64: 6044 (1988).",
+				"tr":  "Y. Yoshizawa, S. Oguma, and K. Yamauchi, J. Appl. Phys., 64: 6044 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Herzer, Nanocrystalline Soft Magnetic Alloys: Handbook of Magnetic Materials (Ed. K. H. J. Bushow) (Amsterdam: Elsevier Science: 1997).",
+				"tr":  "G. Herzer, Nanocrystalline Soft Magnetic Alloys: Handbook of Magnetic Materials (Ed. K. H. J. Bushow) (Amsterdam: Elsevier Science: 1997)."
+			},
+			{
+				"doi": "10.1016/j.susc.2006.06.028",
+				"or":  "S. P. Chenakin, M. A. Vasylyev, G. G. Galstyan, and N. Kruse, Surf. Sci., 600: 3394 (2006).",
+				"tr":  "S. P. Chenakin, M. A. Vasylyev, G. G. Galstyan, and N. Kruse, Surf. Sci., 600: 3394 (2006)."
+			},
+			{
+				"doi": "10.1002/sia.3012",
+				"or":  "S. P. Chenakin, G. G. Galstyan, A. B. Tolstogouzov, and N. Kruse, Surf. Interface Anal., 41: 231 (2009).",
+				"tr":  "S. P. Chenakin, G. G. Galstyan, A. B. Tolstogouzov, and N. Kruse, Surf. Interface Anal., 41: 231 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Surface and Thin Film Analysis Principles, Instrumentation, Applications (Eds. H. Bubert and H. Jenett) (Weinheim: Wiley-VCH Verlag GmbH: 2002).",
+				"tr":  "Surface and Thin Film Analysis Principles, Instrumentation, Applications (Eds. H. Bubert and H. Jenett) (Weinheim: Wiley-VCH Verlag GmbH: 2002)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Ibach, Electron Energy Loss Spectroscopy and Surface Vibrations (New York: Academic Press: 1982).",
+				"tr":  "H. Ibach, Electron Energy Loss Spectroscopy and Surface Vibrations (New York: Academic Press: 1982)."
+			},
+			{
+				"doi": "10.1016/0042-207X(87)90261-2",
+				"or":  "M. A. Vasil’ev and S. D. Gorodetsky, Vacuum, 37: 723 (1987).",
+				"tr":  "M. A. Vasil'ev and S. D. Gorodetsky, Vacuum, 37: 723 (1987)."
+			},
+			{
+				"doi": "10.1016/j.elspec.2007.03.015",
+				"or":  "M. A. Vasylyev, V. A. Tinkov, and B. E. Nieuwenhuys, J. Electron Spectrosc. Relat. Phenom., 159: 63 (2007).",
+				"tr":  "M. A. Vasylyev, V. A. Tinkov, and B. E. Nieuwenhuys, J. Electron Spectrosc. Relat. Phenom., 159: 63 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Pines, Elementary Excitations in Solids (New York: Benjamin Press: 1963).",
+				"tr":  "D. Pines, Elementary Excitations in Solids (New York: Benjamin Press: 1963)."
+			},
+			{
+				"doi": "10.1002/sia.740010103",
+				"or":  "M. P. Seah and W. A. Dench, Surf. Interface Anal., 1, No. 1: 2 (1979).",
+				"tr":  "M. P. Seah and W. A. Dench, Surf. Interface Anal., 1, No. 1: 2 (1979)."
+			},
+			{
+				"doi": "10.1063/1.556035",
+				"or":  "C. J. Powell and A. Jablonski, J. Phys. Chem. Ref. Data, 28, No. 1: 19 (1999).",
+				"tr":  "C. J. Powell and A. Jablonski, J. Phys. Chem. Ref. Data, 28, No. 1: 19 (1999)."
+			},
+			{
+				"doi": "10.1007/BFb0048317",
+				"or":  "H. Raether, Surface Plasmon on Smooth and Rough Surface and Grating (Berlin: Springer-Verlag: 1986).",
+				"tr":  "H. Raether, Surface Plasmon on Smooth and Rough Surface and Grating (Berlin: Springer-Verlag: 1986)."
+			},
+			{
+				"doi": "10.1088/0370-1328/76/6/306",
+				"or":  "J. L. Robins and J. B. Swan, Proc. Phys. Soc., 76: 875 (1960).",
+				"tr":  "J. L. Robins and J. B. Swan, Proc. Phys. Soc., 76: 875 (1960)."
+			},
+			{
+				"doi": "",
+				"or":  "E. A. Bakulin, M. M. Bredov, and V. A. Vasiliev, Sov. Phys. Solid State, 13: 3114 (1972).",
+				"tr":  "E. A. Bakulin, M. M. Bredov, and V. A. Vasiliev, Sov. Phys. Solid State, 13: 3114 (1972)."
+			},
+			{
+				"doi": "10.1080/14786437308228917",
+				"or":  "D. L. Misell and A. J. Atkins, Phil. Mag., 27: 95 (1973).",
+				"tr":  "D. L. Misell and A. J. Atkins, Phil. Mag., 27: 95 (1973)."
+			},
+			{
+				"doi": "10.1002/pssb.2220640212",
+				"or":  "C. Wehekel and B. Gauthé, Phys. Stat. Sol. B, 64: 515 (1974).",
+				"tr":  "C. Wehekel and B. Gauthé, Phys. Stat. Sol. B, 64: 515 (1974)."
+			},
+			{
+				"doi": "10.1088/0305-4608/11/10/001",
+				"or":  "B. Egert and G. Panzner, J. Phys. F: Metal Phys., 11: L233 (1981).",
+				"tr":  "B. Egert and G. Panzner, J. Phys. F: Metal Phys., 11: L233 (1981)."
+			},
+			{
+				"doi": "10.1016/0039-6028(82)90052-8",
+				"or":  "P. N. Ross and K. A. Gaugler, Surf. Sci., 122: L579 (1982).",
+				"tr":  "P. N. Ross and K. A. Gaugler, Surf. Sci., 122: L579 (1982)."
+			},
+			{
+				"doi": "10.1088/0953-8984/3/12/023",
+				"or":  "G. N. Raikar and S. M. Thurgate, J. Phys.: Condens. Matter, 3: 1931 (1991).",
+				"tr":  "G. N. Raikar and S. M. Thurgate, J. Phys.: Condens. Matter, 3: 1931 (1991)."
+			},
+			{
+				"doi": "10.1002/sia.740190152",
+				"or":  "F. Yubero and S. Tougaard, Surf. Interface Anal., 19: 269 (1992).",
+				"tr":  "F. Yubero and S. Tougaard, Surf. Interface Anal., 19: 269 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "W. S. M. Werner, Surf. Sci., 26: 588 (2005).",
+				"tr":  "W. S. M. Werner, Surf. Sci., 26: 588 (2005)."
+			},
+			{
+				"doi": "10.1016/j.susc.2007.03.001",
+				"or":  "W. S. M. Werner, Surf. Sci., 601: 2125 (2007).",
+				"tr":  "W. S. M. Werner, Surf. Sci., 601: 2125 (2007)."
+			},
+			{
+				"doi": "10.1016/0375-9601(73)90350-2",
+				"or":  "J. E. Rowe and S. B. Christman, Phys. Lett. A, 43: 377 (1973).",
+				"tr":  "J. E. Rowe and S. B. Christman, Phys. Lett. A, 43: 377 (1973)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.35.107",
+				"or":  "A. Koma and R. Ludeke, Phys. Rev. Lett., 35: 107 (1975).",
+				"tr":  "A. Koma and R. Ludeke, Phys. Rev. Lett., 35: 107 (1975)."
+			},
+			{
+				"doi": "10.1016/0039-6028(75)90309-X",
+				"or":  "J. E. Rowe, H. Ibach, and H. Froitzheim, Surf. Sci., 48: 44 (1975).",
+				"tr":  "J. E. Rowe, H. Ibach, and H. Froitzheim, Surf. Sci., 48: 44 (1975)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.12.64",
+				"or":  "C. H. Chen, J. Silcox, and R. Vincent, Phys. Rev. B, 12: 64 (1975).",
+				"tr":  "C. H. Chen, J. Silcox, and R. Vincent, Phys. Rev. B, 12: 64 (1975)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.40.1293",
+				"or":  "J. Stiebling and H. Raether, Phys. Rev. Lett., 40: 1293 (1978).",
+				"tr":  "J. Stiebling and H. Raether, Phys. Rev. Lett., 40: 1293 (1978)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.24.2069",
+				"or":  "K. J. Gruntz, L. Ley, and R. L. Johnson, Phys. Rev. B, 24: 2069 (1981).",
+				"tr":  "K. J. Gruntz, L. Ley, and R. L. Johnson, Phys. Rev. B, 24: 2069 (1981)."
+			},
+			{
+				"doi": "10.1016/j.susc.2006.07.043",
+				"or":  "M. Dapor, Surf. Sci., 600: 4728 (2006).",
+				"tr":  "M. Dapor, Surf. Sci., 600: 4728 (2006)."
+			},
+			{
+				"doi": "10.1016/j.mee.2006.10.083",
+				"or":  "G. Nicotra, C. Bongiorno, L. Caristia et al., Microelectronic Eng., 84: 486 (2007).",
+				"tr":  "G. Nicotra, C. Bongiorno, L. Caristia et al., Microelectronic Eng., 84: 486 (2007)."
+			},
+			{
+				"doi": "10.1016/S0042-207X(01)00481-X",
+				"or":  "E. Paparazzo, L. Moretto, and M. Brolatti, Vacuum, 65: 193 (2002).",
+				"tr":  "E. Paparazzo, L. Moretto, and M. Brolatti, Vacuum, 65: 193 (2002)."
+			},
+			{
+				"doi": "10.1016/S0039-6028(02)02684-5",
+				"or":  "W. S. M. Werner, Surf. Sci., 526: L159 (2003).",
+				"tr":  "W. S. M. Werner, Surf. Sci., 526: L159 (2003)."
+			},
+			{
+				"doi": "10.1002/sia.1774",
+				"or":  "S. Tougaard and F. Yubero, Surf. Interface Anal., 36: 824 (2004).",
+				"tr":  "S. Tougaard and F. Yubero, Surf. Interface Anal., 36: 824 (2004)."
+			},
+			{
+				"doi": "10.1016/j.susc.2006.08.020",
+				"or":  "Y. Yu, Z. Tang, Y. Jiang, K. Wu, and E. Wang, Surf. Sci., 600: 4966 (2006).",
+				"tr":  "Y. Yu, Z. Tang, Y. Jiang, K. Wu, and E. Wang, Surf. Sci., 600: 4966 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "W. S. M. Werner, L. Kövér, S. Egri et al., Surf. Sci., 585 (2005).",
+				"tr":  "W. S. M. Werner, L. Kövér, S. Egri et al., Surf. Sci., 585 (2005)."
+			},
+			{
+				"doi": "10.1063/1.1653016",
+				"or":  "H. E. Bishop and J. C. Riviére, Appl. Phys. Lett., 16: 21 (1970).",
+				"tr":  "H. E. Bishop and J. C. Riviére, Appl. Phys. Lett., 16: 21 (1970)."
+			},
+			{
+				"doi": "10.1098/rsta.1986.0075",
+				"or":  "J. M. Thomas, T. G. Sparrow, M. K. Uppal, and B. G. Wlliams, Phil. Trans. R. Soc. Lond. A, 318: 259 (1986).",
+				"tr":  "J. M. Thomas, T. G. Sparrow, M. K. Uppal, and B. G. Wlliams, Phil. Trans. R. Soc. Lond. A, 318: 259 (1986)."
+			},
+			{
+				"doi": "10.1071/PH680811",
+				"or":  "M. J. Lynch and J. B. Swan, Aust. J. Phys., 21: 811 (1968).",
+				"tr":  "M. J. Lynch and J. B. Swan, Aust. J. Phys., 21: 811 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Zashkvara, M. I. Korsunskii, V. S. Red’kin, and V. E. Masyagin, Sov. Phys. Solid State, 11: 3083 (1970).",
+				"tr":  "V. V. Zashkvara, M. I. Korsunskii, V. S. Red'kin, and V. E. Masyagin, Sov. Phys. Solid State, 11: 3083 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Zashkvara, M. I. Korsunskii, V. S. Red’kin, and K. Sh. Chokin, Sov. Phys. Solid State, 14: 1891 (1973).",
+				"tr":  "V. V. Zashkvara, M. I. Korsunskii, V. S. Red'kin, and K. Sh. Chokin, Sov. Phys. Solid State, 14: 1891 (1973)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.7.4311",
+				"or":  "J. H. Weaver, D. W. Lynch, and C. G. Olson, Phys. Rev. B, 7: 4311 (1973).",
+				"tr":  "J. H. Weaver, D. W. Lynch, and C. G. Olson, Phys. Rev. B, 7: 4311 (1973)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.20.1855",
+				"or":  "W. K. Schubert and E. L. Wolf, Phys. Rev. B, 20: 1855 (1979).",
+				"tr":  "W. K. Schubert and E. L. Wolf, Phys. Rev. B, 20: 1855 (1979)."
+			},
+			{
+				"doi": "10.1016/S0042-207X(98)00023-2",
+				"or":  "I. Stará, S. Zuber, B. Gruzza, and V. Matolín, Vacuum, 50: 89 (1998).",
+				"tr":  "I. Stará, S. Zuber, B. Gruzza, and V. Matolín, Vacuum, 50: 89 (1998)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2008.01.072",
+				"or":  "M. A. Vasylyev, V. A. Tinkov, and P. A. Gurin, Appl. Surf. Sci., 254: 4671 (2008).",
+				"tr":  "M. A. Vasylyev, V. A. Tinkov, and P. A. Gurin, Appl. Surf. Sci., 254: 4671 (2008)."
+			},
+			{
+				"doi": "10.1142/S0218625X08011809",
+				"or":  "M. A. Vasylyev and V. A. Tinkov, Surf. Rev. Lett., 15, No. 5: 635 (2008).",
+				"tr":  "M. A. Vasylyev and V. A. Tinkov, Surf. Rev. Lett., 15, No. 5: 635 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRev.106.874",
+				"or":  "R. H. Ritchie, Phys. Rev., 106: 874 (1957).",
+				"tr":  "R. H. Ritchie, Phys. Rev., 106: 874 (1957)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Raether, Excitation of Plasmons and Interband Transitions by Electrons. Springer Tracts in Modern Physics. Vol. 88 (Berlin: Springer-Verlag: 1980).",
+				"tr":  "H. Raether, Excitation of Plasmons and Interband Transitions by Electrons. Springer Tracts in Modern Physics. Vol. 88 (Berlin: Springer-Verlag: 1980)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Глезер, Б. В. Молотилов, Структура и механические свойства аморфных сплавов (Москва: Металлургия: 1992).",
+				"tr":  "A. M. Glezer, B. V. Molotilov, Struktura i mehanicheskie svojstva amorfnyh splavov (Moskva: Metallurgija: 1992)."
+			},
+			{
+				"doi": "10.1134/1.1307053",
+				"or":  "V. I. Betekhtin, E. L. Gyulikhandanov, A. G. Kadomtsev et al., Phys. Solid State, 42, No. 8: 1460 (2000).",
+				"tr":  "V. I. Betekhtin, E. L. Gyulikhandanov, A. G. Kadomtsev et al., Phys. Solid State, 42, No. 8: 1460 (2000)."
+			},
+			{
+				"doi": "10.1007/BF01304201",
+				"or":  "V. E. Korsukov and A. S. Lukyanenko, Z. Phys. B, 53: 143 (1983).",
+				"tr":  "V. E. Korsukov and A. S. Lukyanenko, Z. Phys. B, 53: 143 (1983)."
+			},
+			{
+				"doi": "10.1016/0039-6028(75)90343-X",
+				"or":  "A. D. Boardman, B. V. Paranjape, and R. Teshima, Surf. Sci., 49: 275 (1975).",
+				"tr":  "A. D. Boardman, B. V. Paranjape, and R. Teshima, Surf. Sci., 49: 275 (1975)."
+			},
+			{
+				"doi": "10.1016/0039-6028(75)90320-9",
+				"or":  "B. B. Dasgupta, P. Kumar, and D. E. Beck, Surf. Sci., 48: 241 (1975).",
+				"tr":  "B. B. Dasgupta, P. Kumar, and D. E. Beck, Surf. Sci., 48: 241 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "P. A. Dowben and A. Miller, Surface Segregation Phenomena (Boca Raton, FL: CRC Press: 1990).",
+				"tr":  "P. A. Dowben and A. Miller, Surface Segregation Phenomena (Boca Raton, FL: CRC Press: 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. И. Носкова, В. В. Сериков, А. А. Глазер и др., ФММ, 7: 80 (1992).",
+				"tr":  "N. I. Noskova, V. V. Serikov, A. A. Glazer et al., Fizika Metallov i Metalloved., 7: 80 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. И. Носкова, Е. Г. Пономарева, ФММ, 82, № 5: 163 (1996).",
+				"tr":  "N. I. Noskova, E. G. Ponomareva, Fizika Metallov i Metalloved., 82, No. 5: 163 (1996)."
+			},
+			{
+				"doi": "10.1088/0953-8984/8/21/015",
+				"or":  "T. Graf, M. Kopcewicz, and J. Hesse, J. Phys.: Condens. Matter, 8: 3897 (1996).",
+				"tr":  "T. Graf, M. Kopcewicz, and J. Hesse, J. Phys.: Condens. Matter, 8: 3897 (1996)."
+			},
+			{
+				"doi": "10.1088/0508-3443/14/2/314",
+				"or":  "O. Klemperer and J. P. G. Shepherd, Brit. J. Appl. Phys., 14: 89 (1963).",
+				"tr":  "O. Klemperer and J. P. G. Shepherd, Brit. J. Appl. Phys., 14: 89 (1963)."
+			},
+			{
+				"doi": "10.1080/14786436808227306",
+				"or":  "D. R. Spalding and A. J. F. Metherell, Phil. Mag., 18: 41 (1968).",
+				"tr":  "D. R. Spalding and A. J. F. Metherell, Phil. Mag., 18: 41 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "E. A. Bakulin, M. M. Bredov, and V. A. Vasiliev, Sov. Phys. Solid State, 14: 2430 (1972).",
+				"tr":  "E. A. Bakulin, M. M. Bredov, and V. A. Vasiliev, Sov. Phys. Solid State, 14: 2430 (1972)."
+			},
+			{
+				"doi": "10.1016/0375-9601(86)90395-6",
+				"or":  "J. L. Verger-Gaugry, P. Guyot, and M. Audier, Phys. Lett. A, 117: 307 (1986).",
+				"tr":  "J. L. Verger-Gaugry, P. Guyot, and M. Audier, Phys. Lett. A, 117: 307 (1986)."
+			},
+			{
+				"doi": "10.1088/0370-1328/91/3/305",
+				"or":  "J. Thirlwell, Proc. Phys. Soc., 91: 552 (1967).",
+				"tr":  "J. Thirlwell, Proc. Phys. Soc., 91: 552 (1967)."
+			},
+			{
+				"doi": "10.1063/1.1661178",
+				"or":  "G. W. Simmons and E. J. Scheibner, J. Appl. Phys., 43: 693 (1992).",
+				"tr":  "G. W. Simmons and E. J. Scheibner, J. Appl. Phys., 43: 693 (1992)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.22.4764",
+				"or":  "V. E. Henrich, G. Dresselhaus, and H. L. Zeiger, Phys. Rev. B, 22: 4764 (1980).",
+				"tr":  "V. E. Henrich, G. Dresselhaus, and H. L. Zeiger, Phys. Rev. B, 22: 4764 (1980)."
+			},
+			{
+				"doi": "10.1016/S0969-806X(03)00293-7",
+				"or":  "T. Yu. Popik, V. M. Feyer, O. B. Shpenik, and Yu. V. Popik, Rad. Phys. Chem., 68: 251 (2003).",
+				"tr":  "T. Yu. Popik, V. M. Feyer, O. B. Shpenik, and Yu. V. Popik, Rad. Phys. Chem., 68: 251 (2003)."
+			},
+			{
+				"doi": "10.1116/1.1315209",
+				"or":  "R. L. Gerlach, J. Vac. Sci. Technol., 8: 599 (1971).",
+				"tr":  "R. L. Gerlach, J. Vac. Sci. Technol., 8: 599 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Siegbahn, C. Nordling, A. Fahlman et al., ESCA: Atomic, Molecular and Solid State Structure Studied by Means of Electron Spectroscopy (Uppsala: Almqvist and Wiksells: 1965).",
+				"tr":  "K. Siegbahn, C. Nordling, A. Fahlman et al., ESCA: Atomic, Molecular and Solid State Structure Studied by Means of Electron Spectroscopy (Uppsala: Almqvist and Wiksells: 1965)."
+			},
+			{
+				"doi": "10.1098/rsta.1982.0049",
+				"or":  "R. F. Egerton, Phil. Trans. R. Soc. Lond. A, 305: 521 (1982).",
+				"tr":  "R. F. Egerton, Phil. Trans. R. Soc. Lond. A, 305: 521 (1982)."
+			},
+			{
+				"doi": "10.1016/j.vacuum.2008.12.001",
+				"or":  "V. A. Tinkov, M. A. Vasylyev, and P. A. Gurin, Vacuum, 83: 1014 (2009).",
+				"tr":  "V. A. Tinkov, M. A. Vasylyev, and P. A. Gurin, Vacuum, 83: 1014 (2009)."
+			}
+		]
+	}
+}

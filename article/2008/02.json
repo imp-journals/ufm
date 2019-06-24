@@ -1,0 +1,35 @@
+{
+	"year":   2008,
+	"volume": 9,
+	"issue":  2,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [171,193],
+			"title": {
+				"ua": "Розвиток у ННЦ «ХФТІ» метод скерованої зміни структури й властивостей конструкційних матеріялів при активізації релаксаційних процесів: огляд, присвячений вісімдесятиліттю Національного наукового центра «Харківський фізико-технічний інститут»",
+				"en": "Development of Methods of the Directional Structural Change and Properties of Constructional Materials by Stimulation of Relaxation Processes in the NSC ‘KhPhTI’: The Review Dedicated to the 80th Anniversary of the National Scientific Centre ‘Kharkiv Physicotechnical Institute’",
+				"ru": "Развитие в ННЦ «ХФТИ» методов направленного изменения структуры и свойств конструкционных материалов при активизации релаксационных процессов: обзор, посвященный 80-летию Национального научного центра «Харьковский физико-технический институт»"
+			},
+			"autors": {
+				"ua": "І. М. Неклюдов, В. І. Соколенко, В. М. Нетьосов",
+				"en": "I. M. Neklyudov, V. I. Sokolenko, and V. M. Netyosov",
+				"ru": "И. М. Неклюдов, В. И. Соколенко, В. М. Нетёсов"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [195,258],
+			"title": {
+				"ua": "Фазові й структурні перетворення в стопах на основі моноалюмініду ніклю",
+				"en": "Phase and Structural Transformations in the Alloys Based on Monoaluminide of Nickel",
+				"ru": "Фазовые и структурные превращения в сплавах на основе моноалюминида никеля"
+			},
+			"autors": {
+				"ua": "С. В. Косіцин, І. І. Косіцина",
+				"en": "S. V. Kositsyn and I. I. Kositsyna",
+				"ru": "С. В. Косицын, И. И. Косицына"
+			}
+		}
+	]
+}

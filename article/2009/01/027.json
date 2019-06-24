@@ -1,0 +1,518 @@
+{
+	"_id":    "UFM.10.01.027",
+	"year":   2009,
+	"volume": 10,
+	"issue":  1,
+	"pages":  [27,102],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["06.03.2009", "26.03.2009"],
+	"PACS":   "05.40.-a, 05.45.-a, 05.70.Fh, 05.70.Ln, 64.60.-i, 64.75.Nx, 81.30.-t",
+	"title":   {
+		"ua": "Детерміністична і стохастична динаміка в спинодальнім розпаді бінарної системи",
+		"en": "Deterministic and Stochastic Dynamics in Spinodal Decomposition of a Binary System",
+		"ru": "Детерминистическая и стохастическая динамика в спинодальном распаде бинарной системы"
+	},
+	"abstract": {
+		"ua": "Розвинуто модель дифузії та фазового розшарування, який враховує гіперболічну релаксацію дифузійного потоку. Такий «гіперболічний модель» призводить до «гіперболічного» рівнання щодо формування модульованих структур при спинодальнім розпаді в системах, охолоджених нижче критичної температури. Аналітичні результати для гіперболічного моделю спинодального розпаду порівнюються із відповідними результатами, що випливають з класичної теорії Кана—Хіллярда. За допомогою чисельного моделювання показано, що еволюція системи в гіперболічнім моделю призводить до різкої міжфазної межі у порівнянні з обчисленнями за параболічним модельом Кана−Хіллярда. З розглядом процесів фазового розшарування в стохастичних системах із залежною від поля концентрації рухливістю та внутрішнім мультиплікативним шумом вивчається динаміка спинодального розпаду для параболічного та гіперболічного моделів. Показано, що закон зростання розмірів зерен може бути узагальнений введенням у розгляд внутрішніх флюктуацій, залежних від поля концентрації. Для дослідження стаціонарної картини (функції розподілу, біфуркаційних та фазових діяграм) розвинуто теорію середнього поля, в рамках якої встановлено, що відповідні перетворення носять реверсивний характер. Показано, що опис процесу фазового розшарування у стохастичних системах із внутрішнім шумом забезпечується використанням теорії ентропійнокерованих фазових переходів.",
+		"en": "A model for diffusion and phase separation, which takes into account hyperbolic relaxation of the solute diffusion flux, is developed. Such a ‘hyperbolic model’ provides analysis of ‘hyperbolic evolution’ of patterns in spinodal decomposition in systems supercooled below critical temperature. Analytical results for the hyperbolic model of spinodal decomposition are summarized in comparison with outcomes of classic Cahn−Hilliard theory. Numeric modelling shows that the hyperbolic evolution leads to sharper boundary between two structures of a decomposed system in comparison with prediction of parabolic equation given by the theory of Cahn and Hilliard. Considering phase separation processes in stochastic systems with a field-dependent mobility and an internal multiplicative noise, we study dynamics of spinodal decomposition for parabolic and hyperbolic models separately. It is that the domain growth law is generalized when internal fluctuations are introduced into the model. A mean field approach is carried out in order to obtain the stationary probability, bifurcation and phase diagrams displaying re-entrant phase transitions. We relate our approach to entropy-driven phase-transitions theory.",
+		"ru": "В работе развита модель для описания диффузии и фазового расслоения, которая учитывает гиперболическую релаксацию диффузионного потока. Такая «гиперболическая модель» приводит к гиперболическому уравнению описания формирования модулированных структур при спинодальном распаде в системах, охлажденных ниже критической температуры. Аналитические результаты для гиперболической модели спинодального распада сравниваются с соответствующими результатами, следующими из классической теории Кана—Хилларда. С помощью численного моделирования показано, что эволюция системы в гиперболической модели приводит к резким межфазным границам в сравнении с вычислениями согласно параболической модели Кана—Хилларда. При рассмотрении процессов фазового расслоения в стохастических системах с зависимой от поля концентрации подвижностью и внутренним мультипликативным шумом изучена динамика спинодального распада для параболической и гиперболической моделей. Показано, что закон роста размеров зерен может быть обобщен введением в рассмотрение внутренних флуктуаций, зависимых от поля концентрации. Для исследования стационарной картины (функции распределения, бифуркационных и фазовых диаграмм) развита теория среднего поля, в рамках которой установлено, что соответствующие превращения носят реверсивный характер. Показано, что описание процесса фазового расслоения в стохастических системах с внутренним шумом обеспечивается использованием теории энтропийноуправляемых фазовых переходов."
+	},
+	"keywords": {
+		"ua": "спинодаль, дифузія, релаксація, модель, рідина, структурний фактор, стохастичні системи",
+		"en": "spinodal, diffusion, relaxation, model, liquid, structure factor, stochastic systems",
+		"ru": "спинодаль, диффузия, релаксация, модель, жидкость, структурный фактор, стохастические системы"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Д. О. Харченко", "en": "D. O. Kharchenko", "ru": "Д. О. Харченко"},
+			"OID": [17]
+		},
+		{
+			"AID": {"ua": "П. К. Галенко", "en": "P. K. Galenko", "ru": "П. К. Галенко"},
+			"OID": [456, 457]
+		},
+		{
+			"AID": {"ua": "В. Г. Лебедєв", "en": "V. G. Lebedev", "ru": "В. Г. Лебедев"},
+			"OID": [458]
+		}
+	],
+	"cited_by": {
+		"count":  2,
+		"list":  [
+			{
+				"doi": "10.1016/j.actamat.2012.10.010",
+				"cit": "E. Davidoff, P.K. Galenko, D.M. Herlach, M. Kolbe <i>et al.</i>, <a href=\"https://doi.org/10.1016/j.actamat.2012.10.010\">Acta Materialia <b>61</b>, 1078 (2013)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.13.02.101",
+				"cit": "D. O. Kharchenko, I. O. Lysenko and V. O. Kharchenko, <a href=\"https://doi.org/10.15407/ufm.13.02.101\">Usp. Fiz. Met. <b>13</b>, 101 (2012)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 92,
+		"list":  [
+			{
+				"doi": "10.1021/ma960486x",
+				"or":  "H. Jinnai, T. Hashimoto, D. Lee, and S.-H. Chen, Macromolecules, 30: 130 (1997).",
+				"tr":  "H. Jinnai, T. Hashimoto, D. Lee, and S.-H. Chen, Macromolecules, 30: 130 (1997)."
+			},
+			{
+				"doi": "10.1088/0953-8984/8/25A/007",
+				"or":  "F. Mallamace, N. Micali, and S. Trusso, J. Phys.: Condens. Matter, 8: A81 (1996).",
+				"tr":  "F. Mallamace, N. Micali, and S. Trusso, J. Phys.: Condens. Matter, 8: A81 (1996)."
+			},
+			{
+				"doi": "10.1070/PU2006v049n06ABEH003175",
+				"or":  "N. F. Bunkin, A. V. Lobeev, and G. A. Lyakhov, Usp. Fiz. Nauk, 167: 1070 (1997) (Physics–Uspekhi, 40: 1090 (1997)); Yu. I. Ustinovshchikov and B. E. Pushkarev, Usp. Fiz. Nauk, 176: 611 (2006) (Physics–Uspekhi, 49: 593 (2006)).",
+				"tr":  "N. F. Bunkin, A. V. Lobeev, and G. A. Lyakhov, Usp. Fiz. Nauk, 167: 1070 (1997) (Physics–Uspekhi, 40: 1090 (1997)); Yu. I. Ustinovshchikov and B. E. Pushkarev, Usp. Fiz. Nauk, 176: 611 (2006) (Physics–Uspekhi, 49: 593 (2006))."
+			},
+			{
+				"doi": "10.1007/978-3-642-82761-7_9",
+				"or":  "D. Beysens, Materials Sciences in Space (Eds. B. Feuerbacher, H. Hamacher, and R. J. Naumann) (Berlin: Springer: 1986), p. 191.",
+				"tr":  "D. Beysens, Materials Sciences in Space (Eds. B. Feuerbacher, H. Hamacher, and R. J. Naumann) (Berlin: Springer: 1986), p. 191."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.78.2787",
+				"or":  "J. Mainville, Y. S. Yang, K. R. Elder, M. Sutton, K. F. Ludwig, and G. B. Sephenson, Phys. Rev. Lett., 78: 258 (1997).",
+				"tr":  "J. Mainville, Y. S. Yang, K. R. Elder, M. Sutton, K. F. Ludwig, and G. B. Sephenson, Phys. Rev. Lett., 78: 258 (1997)."
+			},
+			{
+				"doi": "10.1070/PU2006v049n06ABEH003175",
+				"or":  "Yu. I. Ustinovshchikov and B. E. Pushkarev, Usp. Fiz. Nauk, 176: 611 (2006) (Physics–Uspekhi, 49: 593 (2006)).",
+				"tr":  "Yu. I. Ustinovshchikov and B. E. Pushkarev, Usp. Fiz. Nauk, 176: 611 (2006) (Physics–Uspekhi, 49: 593 (2006))."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.71.1573",
+				"or":  "J. S. Langer and M. Baron, Annals of Physics, 78: 421 (1973); J. P. Donley and J. S. Langer, Phys. Rev. Lett., 71: 1573 (1993).",
+				"tr":  "J. S. Langer and M. Baron, Annals of Physics, 78: 421 (1973); J. P. Donley and J. S. Langer, Phys. Rev. Lett., 71: 1573 (1993)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.43.5747",
+				"or":  "G. F. Mazenko, Phys. Rev. B, 43: 5747 (1991).",
+				"tr":  "G. F. Mazenko, Phys. Rev. B, 43: 5747 (1991)."
+			},
+			{
+				"doi": "10.1063/1.445747",
+				"or":  "K. Binder, C. Billotet, and P. Mirold, Zeitschrift für Physik B–Condensed Matter, 30: 183 (1978); K. Binder, J. of Chemical Physics, 79: 6387 (1983).",
+				"tr":  "K. Binder, C. Billotet, and P. Mirold, Zeitschrift für Physik B–Condensed Matter, 30: 183 (1978); K. Binder, J. of Chemical Physics, 79: 6387 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Binder and P. Fratzl, Phase Transformations in Materials (Ed. G. Kostorz) (Weinheim: Wiley: 2001), p. 409.",
+				"tr":  "K. Binder and P. Fratzl, Phase Transformations in Materials (Ed. G. Kostorz) (Weinheim: Wiley: 2001), p. 409."
+			},
+			{
+				"doi": "",
+				"or":  "V. L. Ginzburg and L. D. Landau, JETP, 20: 1064 (1950).",
+				"tr":  "V. L. Ginzburg and L. D. Landau, JETP, 20: 1064 (1950)."
+			},
+			{
+				"doi": "10.1063/1.1744102",
+				"or":  "J. W. Cahn and J. E. Hilliard, J. Chem. Phys., 28: 258 (1958).",
+				"tr":  "J. W. Cahn and J. E. Hilliard, J. Chem. Phys., 28: 258 (1958)."
+			},
+			{
+				"doi": "10.1016/0001-6160(61)90182-1",
+				"or":  "J. W. Cahn, Acta Metall., 9: 795 (1961).",
+				"tr":  "J. W. Cahn, Acta Metall., 9: 795 (1961)."
+			},
+			{
+				"doi": "",
+				"or":  "J. W. Cahn, Trans. Metall. Soc. AIME, 242: 166 (1968).",
+				"tr":  "J. W. Cahn, Trans. Metall. Soc. AIME, 242: 166 (1968)."
+			},
+			{
+				"doi": "10.1070/PU1979v022n06ABEH005571",
+				"or":  "V. P. Skripov and A. V. Skripov, Usp. Fiz. Nauk, 128: 193 (1979) (Sov. Phys. Usp., 22: 389 (1979)).",
+				"tr":  "V. P. Skripov and A. V. Skripov, Usp. Fiz. Nauk, 128: 193 (1979) (Sov. Phys. Usp., 22: 389 (1979))."
+			},
+			{
+				"doi": "10.1103/PhysRevE.52.3821",
+				"or":  "S. Bastea and J. L. Lebovitz, Phys. Rev. E, 52: 3821, (1995).",
+				"tr":  "S. Bastea and J. L. Lebovitz, Phys. Rev. E, 52: 3821, (1995)."
+			},
+			{
+				"doi": "10.1063/1.481847",
+				"or":  "B. Liu, H. Zhang, and Y. Yang, J. Chem. Phys., 113: 719, (2000).",
+				"tr":  "B. Liu, H. Zhang, and Y. Yang, J. Chem. Phys., 113: 719, (2000)."
+			},
+			{
+				"doi": "10.1063/1.451190",
+				"or":  "K. Binder, H. L. Frish, and J. Jäckle, J. Chem Phys., 85: 1505 (1986).",
+				"tr":  "K. Binder, H. L. Frish, and J. Jäckle, J. Chem Phys., 85: 1505 (1986)."
+			},
+			{
+				"doi": "10.1016/S0375-9601(01)00489-3",
+				"or":  "P. Galenko, Phys. Lett. A, 287: 190 (2001).",
+				"tr":  "P. Galenko, Phys. Lett. A, 287: 190 (2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.71.046125",
+				"or":  "P. Galenko and D. Jou, Phys. Rev. E, 71: 046125 (2005).",
+				"tr":  "P. Galenko and D. Jou, Phys. Rev. E, 71: 046125 (2005)."
+			},
+			{
+				"doi": "10.1007/978-3-642-56565-6",
+				"or":  "D. Jou, J. Casas-Vazquez, and G. Lebon, Extended Irreversible Thermodynamics (Berlin: Springer: 2001).",
+				"tr":  "D. Jou, J. Casas-Vazquez, and G. Lebon, Extended Irreversible Thermodynamics (Berlin: Springer: 2001)."
+			},
+			{
+				"doi": "10.1007/s00028-003-0074-2",
+				"or":  "M. Grasselli and V. Pata, J. Evolution Equations, 4: 27 (2004).",
+				"tr":  "M. Grasselli and V. Pata, J. Evolution Equations, 4: 27 (2004)."
+			},
+			{
+				"doi": "10.1016/j.jmaa.2005.03.029",
+				"or":  "S. Gatti, M. Grasselli, A. Miranville, and V. Pata, J. Math. Anal. Appl., 312: 230 (2005).",
+				"tr":  "S. Gatti, M. Grasselli, A. Miranville, and V. Pata, J. Math. Anal. Appl., 312: 230 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Grasselli, G. Schimperna, and S. Zelik, arXiv:0804.0988v1 [math.AP].",
+				"tr":  "M. Grasselli, G. Schimperna, and S. Zelik, arXiv:0804.0988v1 [math.AP]."
+			},
+			{
+				"doi": "10.1142/S0218202507001978",
+				"or":  "A. Segatti, Math. Models Methods Appl. Sci., 17, No. 3: 411 (2007).",
+				"tr":  "A. Segatti, Math. Models Methods Appl. Sci., 17, No. 3: 411 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.55.343",
+				"or":  "P. Galenko and S. Sobolev, Phys. Rev. E, 55: 343 (1997).",
+				"tr":  "P. Galenko and S. Sobolev, Phys. Rev. E, 55: 343 (1997)."
+			},
+			{
+				"doi": "10.1016/S0375-9601(97)00562-8",
+				"or":  "P. K. Galenko and D. A. Danilov, Phys. Lett. A, 235: 271 (1997).",
+				"tr":  "P. K. Galenko and D. A. Danilov, Phys. Lett. A, 235: 271 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "L. D. Landau and E. M. Lifshitz, Fluid Mechanics (Addison Wesley: 1958).",
+				"tr":  "L. D. Landau and E. M. Lifshitz, Fluid Mechanics (Addison Wesley: 1958)."
+			},
+			{
+				"doi": "10.1016/0375-9601(79)90652-2",
+				"or":  "D. Jou and J. M. Rubi, Phys. Lett. A, 72: 78 (1979).",
+				"tr":  "D. Jou and J. M. Rubi, Phys. Lett. A, 72: 78 (1979)."
+			},
+			{
+				"doi": "10.1016/0378-4371(80)90091-6",
+				"or":  "D. Jou and C. Perez-Garsia, Physica A, 104: 3320 (1980).",
+				"tr":  "D. Jou and C. Perez-Garsia, Physica A, 104: 3320 (1980)."
+			},
+			{
+				"doi": "10.1016/0378-4371(81)90045-5",
+				"or":  "D. Jou, J. E. Llebot, and J. Casas-Vazquez, Physica A, 109: 208 (1981).",
+				"tr":  "D. Jou, J. E. Llebot, and J. Casas-Vazquez, Physica A, 109: 208 (1981)."
+			},
+			{
+				"doi": "10.1016/S0375-9601(97)00660-9",
+				"or":  "H. Kleinert and S. V. Shabanov, Phys. Lett. A, 235: 105 (1997).",
+				"tr":  "H. Kleinert and S. V. Shabanov, Phys. Lett. A, 235: 105 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Ibanes, J. Garcia-Ojalvo, R. Toral, and J. M. Sancho, Lecture Notes in Physics (Berlin: Springer-Verlag: 2000), vol. 557, p. 247.",
+				"tr":  "M. Ibanes, J. Garcia-Ojalvo, R. Toral, and J. M. Sancho, Lecture Notes in Physics (Berlin: Springer-Verlag: 2000), vol. 557, p. 247."
+			},
+			{
+				"doi": "10.1016/S0167-2789(97)00286-8",
+				"or":  "J. M. Sancho, J. Garcia-Ojalvo, and H. Guo, Physica D, 113: 331 (1998).",
+				"tr":  "J. M. Sancho, J. Garcia-Ojalvo, and H. Guo, Physica D, 113: 331 (1998)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.73.3395",
+				"or":  "C. Van der Broeck, Phys. Rev. Lett., 73: 3395 (1994).",
+				"tr":  "C. Van der Broeck, Phys. Rev. Lett., 73: 3395 (1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.55.4084",
+				"or":  "C. Van der Broeck, J. M. R. Parrondo, R. Toral, and R. Kawai, Phys. Rev. E, 55: 4084 (1997).",
+				"tr":  "C. Van der Broeck, J. M. R. Parrondo, R. Toral, and R. Kawai, Phys. Rev. E, 55: 4084 (1997)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.60.3597",
+				"or":  "M. Ibanes, J. Garcia-Ojalvo, R. Toral, and J. M. Sancho, Phys. Rev. E, 60: 3597 (1999).",
+				"tr":  "M. Ibanes, J. Garcia-Ojalvo, R. Toral, and J. M. Sancho, Phys. Rev. E, 60: 3597 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Buceta, M. Ibanes, J. M. Sancho, and K. Lindenberg, arXiv:cond-mat/0211181.",
+				"tr":  "J. Buceta, M. Ibanes, J. M. Sancho, and K. Lindenberg, arXiv:cond-mat/0211181."
+			},
+			{
+				"doi": "10.1088/0965-0393/8/1/306",
+				"or":  "P. K. Galenko and M. D. Krivilyov, Modelling Simul. Mater. Sci. Eng., 8: 67 (2000).",
+				"tr":  "P. K. Galenko and M. D. Krivilyov, Modelling Simul. Mater. Sci. Eng., 8: 67 (2000)."
+			},
+			{
+				"doi": "10.1016/j.physa.2005.10.027",
+				"or":  "D. Jou and P. Galenko, Physica A, 399: 149 (2006).",
+				"tr":  "D. Jou and P. Galenko, Physica A, 399: 149 (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.65.144103",
+				"or":  "P. Galenko, Phys. Rev. B, 65: 144103 (2002).",
+				"tr":  "P. Galenko, Phys. Rev. B, 65: 144103 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "J. P. Boon and S. Yip, Molecular Hydrodynamics (New York: McGraw Hill: 1970).",
+				"tr":  "J. P. Boon and S. Yip, Molecular Hydrodynamics (New York: McGraw Hill: 1970)."
+			},
+			{
+				"doi": "",
+				"or":  "H. B. Callen, Thermodynamics (New York: Wiley: 1960).",
+				"tr":  "H. B. Callen, Thermodynamics (New York: Wiley: 1960)."
+			},
+			{
+				"doi": "10.1016/S0378-4371(97)00530-X",
+				"or":  "R. Luzzi, A. R. Vasconcellos, J. Casas-Vazquez, and D. Jou, Physica A, 248: 111 (1998).",
+				"tr":  "R. Luzzi, A. R. Vasconcellos, J. Casas-Vazquez, and D. Jou, Physica A, 248: 111 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Galenko and D. Jou, Proceedings of Joint European Thermodynamics Conference IX (Eds. B. Guy and D. Tondeur) (Saint-Etienne: Ecole Nationale Superieure des Mines: 2007), p. 75.",
+				"tr":  "P. Galenko and D. Jou, Proceedings of Joint European Thermodynamics Conference IX (Eds. B. Guy and D. Tondeur) (Saint-Etienne: Ecole Nationale Superieure des Mines: 2007), p. 75."
+			},
+			{
+				"doi": "10.1088/0034-4885/66/11/R03",
+				"or":  "J. Casas-Vazquez and D. Jou, Rep. Prog. Phys., 66: 1937 (2003).",
+				"tr":  "J. Casas-Vazquez and D. Jou, Rep. Prog. Phys., 66: 1937 (2003)."
+			},
+			{
+				"doi": "10.1080/09500830701395127",
+				"or":  "P. Galenko and V. Lebedev, Phil. Mag. Lett., 87: 821 (2007).",
+				"tr":  "P. Galenko and V. Lebedev, Phil. Mag. Lett., 87: 821 (2007)."
+			},
+			{
+				"doi": "10.1016/j.physleta.2007.08.070",
+				"or":  "P. Galenko and V. Lebedev, Phys. Lett. A, 372: 985 (2008).",
+				"tr":  "P. Galenko and V. Lebedev, Phys. Lett. A, 372: 985 (2008)."
+			},
+			{
+				"doi": "10.1016/j.physa.2009.04.003",
+				"or":  "P. Galenko and D. Jou, Physica A, 388: 3113 (2009).",
+				"tr":  "P. Galenko and D. Jou, Physica A, 388: 3113 (2009)."
+			},
+			{
+				"doi": "10.1002/mma.590",
+				"or":  "A. Miranville and S. Zelik, Math. Methods Appl. Sci., 28: 709 (2005).",
+				"tr":  "A. Miranville and S. Zelik, Math. Methods Appl. Sci., 28: 709 (2005)."
+			},
+			{
+				"doi": "10.4310/DPDE.2008.v5.n1.a2",
+				"or":  "C. Gal, Dyn. Partial Differ. Equ., 5: 39 (2008).",
+				"tr":  "C. Gal, Dyn. Partial Differ. Equ., 5: 39 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Galenko and V. Lebedev, The International Journal of Thermodynamics, 11: 21 (2008).",
+				"tr":  "P. Galenko and V. Lebedev, The International Journal of Thermodynamics, 11: 21 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.65.144103",
+				"or":  "P. Galenko, Phys. Rev. B, 65: 144103 (2002).",
+				"tr":  "P. Galenko, Phys. Rev. B, 65: 144103 (2002)."
+			},
+			{
+				"doi": "10.1016/0001-6160(61)90155-9",
+				"or":  "M. Hillert, Acta Metall., 9: 525 (1961).",
+				"tr":  "M. Hillert, Acta Metall., 9: 525 (1961)."
+			},
+			{
+				"doi": "10.1134/S002136400719006X",
+				"or":  "P. Galenko and V. Lebedev, Pis’ma Zh. Eksp. Teor. Phys., 86: 525 (1990) (JETP Lett., 86: 458 (2007)).",
+				"tr":  "P. Galenko and V. Lebedev, Pis'ma Zh. Eksp. Teor. Phys., 86: 525 (1990) (JETP Lett., 86: 458 (2007))."
+			},
+			{
+				"doi": "10.1016/0022-3093(70)90195-X",
+				"or":  "N. S. Andreev, G. G. Boiko, and N. A. Bokov, J. Non-Cryst. Solids, 5: 41 (1970).",
+				"tr":  "N. S. Andreev, G. G. Boiko, and N. A. Bokov, J. Non-Cryst. Solids, 5: 41 (1970)."
+			},
+			{
+				"doi": "10.1039/df9705000135",
+				"or":  "N. S. Andreev and E. A. Porai-Koshits, Discuss. Faraday Soc., 50: 135 (1970).",
+				"tr":  "N. S. Andreev and E. A. Porai-Koshits, Discuss. Faraday Soc., 50: 135 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "E. P. Feldman and L. I. Stefanovich, Zh. Eksp. Teor. Fiz., 98: 1695 (1990) (Sov. Phys. JETP, 71: 951 (1990)).",
+				"tr":  "E. P. Feldman and L. I. Stefanovich, Zh. Eksp. Teor. Fiz., 98: 1695 (1990) (Sov. Phys. JETP, 71: 951 (1990))."
+			},
+			{
+				"doi": "10.1016/0001-6160(70)90144-6",
+				"or":  "H. E. Cook, J. Chem. Solids, 30: 2427 (1969); H. E. Cook, Acta. Metall., 18: 297 (1970).",
+				"tr":  "H. E. Cook, J. Chem. Solids, 30: 2427 (1969); H. E. Cook, Acta. Metall., 18: 297 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Horsthemke and R. Lefever, Noise-Induced Transitions (Berlin: Springer-Verlag: 1984).",
+				"tr":  "W. Horsthemke and R. Lefever, Noise-Induced Transitions (Berlin: Springer-Verlag: 1984)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Risken, The Fokker–Planck Equation (Berlin: Springer-Verlag: 1989).",
+				"tr":  "H. Risken, The Fokker–Planck Equation (Berlin: Springer-Verlag: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "C. W. Gradiner, Handbook of Stochastic Methods (Berlin: Springer-Verlag: 1985).",
+				"tr":  "C. W. Gradiner, Handbook of Stochastic Methods (Berlin: Springer-Verlag: 1985)."
+			},
+			{
+				"doi": "10.1016/S0378-4371(00)00601-4",
+				"or":  "A. I. Olemskoi and D. O. Kharchenko, Physica A, 293: 178 (2001).",
+				"tr":  "A. I. Olemskoi and D. O. Kharchenko, Physica A, 293: 178 (2001)."
+			},
+			{
+				"doi": "10.1140/epjb/e2002-00266-x",
+				"or":  "D. O. Kharchenko and S. V. Kohan, Eur. Phys. J. B, 29: 97 (2002).",
+				"tr":  "D. O. Kharchenko and S. V. Kohan, Eur. Phys. J. B, 29: 97 (2002)."
+			},
+			{
+				"doi": "10.1038/373033a0",
+				"or":  "K. Wiesenfeld and F. Moss, Nature, 373: 33 (1995).",
+				"tr":  "K. Wiesenfeld and F. Moss, Nature, 373: 33 (1995)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.70.223",
+				"or":  "L. Gammaitoni, P. Hänggi, P. Jung, and F. Marchesoni, Rev. Mod. Phys., 70: 223 (1998).",
+				"tr":  "L. Gammaitoni, P. Hänggi, P. Jung, and F. Marchesoni, Rev. Mod. Phys., 70: 223 (1998)."
+			},
+			{
+				"doi": "10.1007/978-1-4612-1536-3",
+				"or":  "J. Garcia-Ojalvo and J. M. Sancho, Noise in Spatially Extended Systems (New York: Springer-Verlag: 1999).",
+				"tr":  "J. Garcia-Ojalvo and J. M. Sancho, Noise in Spatially Extended Systems (New York: Springer-Verlag: 1999)."
+			},
+			{
+				"doi": "10.1016/S0378-4371(02)00577-0",
+				"or":  "D. O. Kharchenko, Physica A, 308: 113 (2002).",
+				"tr":  "D. O. Kharchenko, Physica A, 308: 113 (2002)."
+			},
+			{
+				"doi": "10.1140/epjb/e2003-00112-9",
+				"or":  "D. O. Kharchenko and I. A. Knyaz’, Eur. Phys. J. B, 32: 375 (2003).",
+				"tr":  "D. O. Kharchenko and I. A. Knyaz', Eur. Phys. J. B, 32: 375 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.71.041101",
+				"or":  "A. I. Olemskoi, D. O. Kharchenko, and I. A. Knyaz’, Phys. Rev. E, 71: 041101 (2005).",
+				"tr":  "A. I. Olemskoi, D. O. Kharchenko, and I. A. Knyaz', Phys. Rev. E, 71: 041101 (2005)."
+			},
+			{
+				"doi": "10.1016/0378-4371(95)00350-9",
+				"or":  "J. M. R. Parrondo, C. Van der Broeck, J. Buceta, and F. J. de la Rubia, Physica A, 224: 153 (1996).",
+				"tr":  "J. M. R. Parrondo, C. Van der Broeck, J. Buceta, and F. J. de la Rubia, Physica A, 224: 153 (1996)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.79.829",
+				"or":  "F. Sagués, J. M. Sancho, and J. Garcia-Ojalvo, Rev. Mod. Phys., 79: 829 (2007).",
+				"tr":  "F. Sagués, J. M. Sancho, and J. Garcia-Ojalvo, Rev. Mod. Phys., 79: 829 (2007)."
+			},
+			{
+				"doi": "10.1016/j.physrep.2003.10.015",
+				"or":  "B. Linder, J. Garcia-Ojalvo, A. Neiman, and L. Shimansky-Geier, Phys. Rep., 392: 321 (2004).",
+				"tr":  "B. Linder, J. Garcia-Ojalvo, A. Neiman, and L. Shimansky-Geier, Phys. Rep., 392: 321 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.78.274",
+				"or":  "Y. Tu, G. Grinstein, and M. A. Munoz, Phys. Rev. Lett., 78: 224 (1997).",
+				"tr":  "Y. Tu, G. Grinstein, and M. A. Munoz, Phys. Rev. Lett., 78: 224 (1997)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.57.R2495",
+				"or":  "W. Genovese, M. A. Munoz, and J. M. Sancho, Phys. Rev. E, 57: R2495 (1998).",
+				"tr":  "W. Genovese, M. A. Munoz, and J. M. Sancho, Phys. Rev. E, 57: R2495 (1998)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.87.020601",
+				"or":  "M. Ibanes, J. Garcia-Ojalvo, R. Toral, and J. M. Sancho, Phys. Rev. Lett., 87: 020601 (2001).",
+				"tr":  "M. Ibanes, J. Garcia-Ojalvo, R. Toral, and J. M. Sancho, Phys. Rev. Lett., 87: 020601 (2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.69.021107",
+				"or":  "B. von Haeften, G. Izús, S. Mangioni, A. D. Sánchez, and H. S. Wio, Phys. Rev. E, 69: 021107 (2004).",
+				"tr":  "B. von Haeften, G. Izús, S. Mangioni, A. D. Sánchez, and H. S. Wio, Phys. Rev. E, 69: 021107 (2004)."
+			},
+			{
+				"doi": "10.15407/ufm.06.01.001",
+				"or":  "D. O. Kharchenko, Usp. Fiz. Met., 6: 1 (2005).",
+				"tr":  "D. O. Kharchenko, Usp. Fiz. Met., 6: 1 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "E. A. Novikov, Sov. Phys. JETP, 20: 1290 (1965).",
+				"tr":  "E. A. Novikov, Sov. Phys. JETP, 20: 1290 (1965)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.69.011102",
+				"or":  "J. Buceta and K. Lindenberg, Phys. Rev. E, 69: 011102 (2004).",
+				"tr":  "J. Buceta and K. Lindenberg, Phys. Rev. E, 69: 011102 (2004)."
+			},
+			{
+				"doi": "10.1140/epjb/e2008-00035-y",
+				"or":  "D. O. Kharchenko and A. V. Dvornichenko, Eur. Phys. J. B, 61: 95 (2008).",
+				"tr":  "D. O. Kharchenko and A. V. Dvornichenko, Eur. Phys. J. B, 61: 95 (2008)."
+			},
+			{
+				"doi": "10.1016/j.physa.2008.05.041",
+				"or":  "D. O. Kharchenko and A. V. Dvornichenko, Physica A, 387: 5342 (2008).",
+				"tr":  "D. O. Kharchenko and A. V. Dvornichenko, Physica A, 387: 5342 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "S. van Gemmert, G. T. Barkema, and S. Puri, arXiv:cond-mat/0501196.",
+				"tr":  "S. van Gemmert, G. T. Barkema, and S. Puri, arXiv:cond-mat/0501196."
+			},
+			{
+				"doi": "10.1209/epl/i1998-00217-9",
+				"or":  "J. Garcia-Ojalvo, A. M. Lacasta, J. M. Sancho, and R. Toral, Europhys. Lett., 42: 125 (1998).",
+				"tr":  "J. Garcia-Ojalvo, A. M. Lacasta, J. M. Sancho, and R. Toral, Europhys. Lett., 42: 125 (1998)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.48.125",
+				"or":  "L. Ramirez-Piscina, J. M. Sancho, and A. Hernandez-Machado, Phys. Rev. B, 48: 125 (1993).",
+				"tr":  "L. Ramirez-Piscina, J. M. Sancho, and A. Hernandez-Machado, Phys. Rev. B, 48: 125 (1993)."
+			},
+			{
+				"doi": "10.1016/0022-3697(61)90054-3",
+				"or":  "I. M. Lifshitz and V. V. Slyozov, J. Phys. Chem. Solids, 19: 35 (1961).",
+				"tr":  "I. M. Lifshitz and V. V. Slyozov, J. Phys. Chem. Solids, 19: 35 (1961)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.59.213",
+				"or":  "C. L. Emmott and A. J. Bray, Phys. Rev. E, 59: 213 (1999).",
+				"tr":  "C. L. Emmott and A. J. Bray, Phys. Rev. E, 59: 213 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "J. M. Sancho, A. Hernandez-Machado, L. Ramirez-Piscina, and A. M. Lacasta, Acta Phys. Polonica B, 24: 733 (1993).",
+				"tr":  "J. M. Sancho, A. Hernandez-Machado, L. Ramirez-Piscina, and A. M. Lacasta, Acta Phys. Polonica B, 24: 733 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "J. D. Gunton, M. San Miguel, and P. S. Sahni, Phase Transtions and Critical Phenomena (New York: Academic Press: 1983), vol. 8.",
+				"tr":  "J. D. Gunton, M. San Miguel, and P. S. Sahni, Phase Transtions and Critical Phenomena (New York: Academic Press: 1983), vol. 8."
+			},
+			{
+				"doi": "",
+				"or":  "D. O. Kharchenko, A. V. Dvornichenko, and I. A. Lysenko, Ukr. Jour. of Phys., 53, No. 9: 917 (2008).",
+				"tr":  "D. O. Kharchenko, A. V. Dvornichenko, and I. A. Lysenko, Ukr. Jour. of Phys., 53, No. 9: 917 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "S. De Groot and P. Mazur, Non-Equilibrium Thermodynamics (Amsterdam: 1962).",
+				"tr":  "S. De Groot and P. Mazur, Non-Equilibrium Thermodynamics (Amsterdam: 1962)."
+			},
+			{
+				"doi": "",
+				"or":  "N. G. Van Kampen, Stochastic Processes in Physics and Chemistry (Amsterdam: 1992).",
+				"tr":  "N. G. Van Kampen, Stochastic Processes in Physics and Chemistry (Amsterdam: 1992)."
+			}
+		]
+	}
+}

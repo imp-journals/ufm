@@ -1,0 +1,233 @@
+{
+	"_id":    "UFM.18.02.177",
+	"year":   2017,
+	"volume": 18,
+	"issue":  2,
+	"pages":  [177,204],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["28.02.2017", "27.03.2017"],
+	"PACS":   "07.85.Jy, 61.05.C-, 61.05.cf, 61.05.cp, 61.72.Dd, 61.72.J-, 81.70.Ex",
+	"title":   {
+		"ua": "Фізична природа та нові можливості використання ефектів асиметрії азимутальної залежности повної інтеґральної інтенсивности динамічної дифракції для діягностики кристалів з порушеним поверхневим шаром і дефектами",
+		"en": "The Physical Nature and New Capabilities of Use of Effects of Asymmetry of Azimuthal Dependence of Total Integrated Intensity of Dynamical Diffraction for Diagnostics of Crystals with the Disturbed Surface Layer and Defects",
+		"ru": "Физическая природа и новые возможности использования эффектов асимметрии азимутальной зависимости полной интегральной интенсивности динамической дифракции для диагностики кристаллов с нарушенным поверхностным слоем и дефектами"
+	},
+	"abstract": {
+		"ua": "Обговорюються результати виявлення та розкриття фізичної природи нового ефекту асиметрії азимутальної залежности повної інтеґральної інтенсивности динамічної дифракції (ПІІДД) Рентґенових променів за рахунок не порушеного поверхневого шару (ППШ), що описано авторами в попередній роботі, а великих дефектів (сумірних із довжиною екстинкції Рентґенових променів). Такий новий ефект асиметрії зумовлено зменшенням дифузної складової ПІІДД за рахунок повного в області Бреґґового піку відбивання цієї складової, відносний внесок якого збільшується зі зростанням розміру дефектів. При цьому така асиметрія, як виявилося, має протилежний знак у порівнянні з викликаною ППШ, що принципово поліпшує діягностичні функціональні можливості при спільному використанні цих ефектів. Обговорюються також результати створення на основі виявлених двох ефектів асиметрії методи багатопараметричної діягностики одночасно і товщини ППШ, і характеристик дефектів без обмежень на їх розміри та кількість їх типів.",
+		"en": "We discuss results of detection and discovery of the physical nature of a new effect of azimuthal dependence asymmetry of the total integrated intensity of dynamical diffraction (TIIDD) of X-rays not due to the disturbed surface layer (DSL) that was described in a previous work of authors, but due to the large defects (commensurable with extinction length of X-ray). Such a new asymmetry effect is caused by decreasing of TIIDD diffusion component due to its total reflection (in the region of the Bragg peak), relative contribution of which increases with growth of the defect sizes. Such asymmetry has an opposite sing in comparison with one caused by the DSL that essentially improves the diagnostic functional possibilities at a joint using of these effects. We also discuss results of creation of the multiparameter diagnostics method (based on the two revealed asymmetry effects) for determination simultaneously of both the DSL thickness and the defects’ characteristics without restrictions on their sizes and on number of their types.",
+		"ru": "Обсуждаются результаты обнаружения и раскрытия физической природы нового эффекта асимметрии азимутальной зависимости полной интегральной интенсивности динамической дифракции (ПИИДД) рентгеновских лучей за счёт не нарушенного поверхностного слоя (НПС), что описано авторами в предыдущей работе, а крупных дефектов (соизмеримых с длиной экстинкции рентгеновских лучей). Такой новый эффект асимметрии обусловлен уменьшением диффузной составляющей ПИИДД за счёт полного в области брэгговского пика отражения этой составляющей, относительный вклад которого увеличивается с ростом размера дефектов. При этом такая асимметрия оказалась имеющей противоположный знак в сравнении с вызванной НПС, что принципиально улучшает диагностические функциональные возможности при совместном использовании этих эффектов. Обсуждаются также результаты создания на основе обнаруженных двух эффектов асимметрии метода многопараметрической диагностики одновременно и толщины НПС, и характеристик дефектов без ограничений на их размеры и количество их типов."
+	},
+	"keywords": {
+		"ua": "Рентґенові промені, повна інтеґральна інтенсивність, динамічна дифракція, порушений поверхневий шар, великі дефекти, асиметрія азимутальної залежности",
+		"en": "X-ray, total integrated intensity, dynamical diffraction, disturbed surface layer, large microdefects, asymmetry of azimuthal dependence",
+		"ru": "рентгеновские лучи, полная интегральная интенсивность, динамическая дифракция, нарушенный поверхностный слой, крупные дефекты, асимметрия азимутальной зависимости"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Б. Молодкін", "en": "V. B. Molodkin", "ru": "В. Б. Молодкин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Г. І. Низкова", "en": "H. I. Nizkova", "ru": "А. И. Низкова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Є. І. Богданов", "en": "Ye. I. Bogdanov", "ru": "Е. И. Богданов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. Й. Оліховський", "en": "S. I. Olikhovskii", "ru": "С. И. Олиховский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. В. Дмітрієв", "en": "S. V. Dmitriev", "ru": "С. В. Дмитриев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. Г. Толмачов", "en": "M. G. Tolmachev", "ru": "Н. Г. Толмачев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. В. Лізунов", "en": "V. V. Lizunov", "ru": "В. В. Лизунов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Я. В. Василик", "en": "Ya. V. Vasylyk", "ru": "Я. В. Василик"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. Г. Карпов", "en": "A. G. Karpov", "ru": "А. Г. Карпов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. Г. Войток", "en": "O. G. Voytok", "ru": "О. Г. Войток"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 32,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, А. И. Низкова, Е. И. Богданов, В. В. Лизунов, Н. Г. Толмачев, С. В. Дмитриев, Я. В. Василик, А. Г. Карпов, О. Г. Войток, Металлофиз. новейшие технол., 39, № 6 (2017) (в печати).",
+				"tr":  "V. B. Molodkin, A. I. Nizkova, E. I. Bogdanov, V. V. Lizunov, N. G. Tolmachev, S. V. Dmitriev, Ya. V. Vasylyk, A. G. Karpov, and O. G. Voityuk, Metallofiz. Noveishie Tekhnol., 39, No. 6 (2017) (to be published)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, С. И. Олиховский, С. В. Дмитриев, Е. Г. Лень, Е. В. Первак, Б. В. Шелудченко, Металлофиз. новейшие технол., 27, № 12: 1659 (2005).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, S. V. Dmitriev, E. G. Len, E. V. Pervak, and B. V. Sheludchenko, Metallofiz. Noveishie Tekhnol., 27, No. 12: 1659 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Ратников, Р. Н. Кютт, Журнал технической физики, 55, № 2: 391 (1985).",
+				"tr":  "V. V. Ratnikov and R. N. Kyutt, Zhurnal Tekhnicheskoi Fiziki, 55, No. 2: 391 (1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Немошкаленко, В. Б. Молодкин, Е. Н. Кисловский, М. Т. Когут, А. И. Низкова, Е. Н. Гаврилова, С. И. Олиховский, О. В. Сульженко, Металлофиз. новейшие технол., 16, № 2: 48 (1994).",
+				"tr":  "V. V. Nemoshkalenko, V. B. Molodkin, E. N. Kislovskii, M. T. Kogut, A. I. Nizkova, E. N. Gavrilova, S. I. Olikhovskii, and O. V. Sul’zhenko, Metallofiz. Noveishie Tekhnol., 16, No. 2: 48 (1994) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, С. В. Дмитриев, Е. В. Первак, А. А. Белоцкая, А. И. Низкова, Металлофиз. новейшие технол., 28, № 8: 1055 (2006).",
+				"tr":  "V. B. Molodkin, S. V. Dmitriev, E. V. Pervak, A. A. Belotskaya, and A. I. Nizkova, Metallofiz. Noveishie Tekhnol., 28, No. 8: 1055 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, А. И. Низкова, С. В. Дмитриев, А. А. Белоцкая, М. Т. Когут, А. И. Гранкина, Е. И. Богданов, И. И. Рудницкая, О. Г. Гимчинский, И. И. Московка, В. Н. Венгер, Металлофиз. новейшие технол., 28, № 8: 1041 (2006).",
+				"tr":  "V. B. Molodkin, A. I. Nizkova, S. V. Dmitriev, A. A. Belotskaya, M. T. Kogut, A. I. Grankina, E. I. Bogdanov, I. I. Rudnitskaya, O. G. Gimchinskiy, I. I. Moskovka, and V. N. Venger, Metallofiz. Noveishie Tekhnol., 28, No. 8: 1041 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Низкова, Динамические эффекты в интегральной рентгеновской дифрактометрии неидеальных кристаллов (Автореферат дисс. докт. физ.-мат. наук (Киев: Институт металлофизики им. Г. В. Курдюмова НАН Украины: 2004).",
+				"tr":  "A. I. Nizkova, Dinamicheskie Effekty v Integral’noi Rentgenovskoi Difraktometrii Neideal’nykh Kristallov [Dynamic Effects in Integrated X-Ray Diffractometry of Non-Ideal Crystals] (Thesis of Disser. for Dr. Phys.-Math. Sci.) (Kyiv: G. V. Kurdyumov Institute for Metal Physics, N.A.S. of Ukraine: 2004) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Кривоглаз, Дифракция рентгеновских лучей и нейтронов в неидеальных кристаллах (Киев: Наукова думка: 1983).",
+				"tr":  "M. A. Krivoglaz, Difraktsiya Rentgenovskikh Luchei i Neitronov v Neideal’nykh Kristallakh [X-Ray and Neutron Diffraction in Non-Ideal Crystals] (Kiev: Naukova Dumka: 1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "P. H. Dederichs, Phys. Status Solidi, 23: 377 (1967).",
+				"tr":  "P. H. Dederichs, Phys. Status Solidi, 23: 377 (1967)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Ратников, Э. К. Ковьев, Л. М. Сорокин, Физика твердого тела, 26, № 7: 2155 (1984).",
+				"tr":  "V. V. Ratnikov, Eh. K. Kov’ev, and L. M. Sorokin, Fizika Tverdogo Tela, 26, No. 7: 2155 (1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Ратников, Л. М. Сорокин, Физика твердого тела, 26, № 11: 3445 (1984).",
+				"tr":  "V. V. Ratnikov and L. M. Sorokin, Fizika Tverdogo Tela, 26, No. 11: 3445 (1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Бейзер, Основные представления современной физики (Москва: Атомиздат: 1973).",
+				"tr":  "Arthur Beiser, Perspectives of Modern Physics (New York–St. Louis–San Francisco–Toronto–London–Sydney: McGraw-Hill Book Company, Inc.: 1969)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, В. В. Немошкаленко, А. И. Низкова, С. И. Олиховский, Е. В. Первак, Дж. Е. Айс, Б. К. Ларсон, Интегральная рентгеновская дифрактометрия несовершенных монокристаллов при совместном использовании геометрий, дифракций по Лауэ и Бреггу, а также жесткого и мягкого рентгеновских излучений, Препринт UNSC 1 (Институт металлофизики им. Г. В. Курдюмова НАН Украины, Оук-Риджская Национальная Лабаратория США: 1998).",
+				"tr":  "V. B. Molodkin, V. V. Nemoshkalenko, A. I. Nizkova, S. I. Olikhovskii, E. V. Pervak, G. E. Ice, and B. C. Larson, Integral’naya Rentgenovskaya Difraktometriya Nesovershennykh Monokristallov pri Sovmestnom Ispol’zovanii Geometriy, Difraktsiy po Laue i Braggu, a takzhe Zhestkogo i Miagkogo Rentgenovskikh Izlucheniy [Integrated X-Ray Diffractometry of Imperfect Monocrystals at the Sharing Geometry, Laue and Bragg Diffractions, and Also Hard and Soft X-Ray Radiations], Preprint UNSC 1 (G. V. Kurdyumov Institute for Metal Physics of N.A.S. of Ukraine, Oak Ridge National Laboratory of U.S.A.: 1998) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, В. В. Немошкаленко, А. И. Низкова, С. И. Олиховский, Е. В Первак, А. И. Гранкина, Дж. Е. Айс, Б. К. Ларсон, Металлофиз. новейшие технол., 22, № 3: 3 (2000).",
+				"tr":  "V. B. Molodkin, V. V. Nemoshkalenko, A. I. Nizkova, S. I. Olikhovskii, E. V Pervak, A. I. Grankina, G. E. Ice, and B. C. Larson, Metallofiz. Noveishie Tekhnol., 22, No. 3: 3 (2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, Е. А. Тихонова, Физика металлов и металловед., 24: 385 (1967).",
+				"tr":  "V. B. Molodkin and E. A. Tikhonova, Fizika Metallov i Metalloved., 24: 385 (1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, Физика металлов и металловед., 27, № 4: 582 (1969).",
+				"tr":  "V. B. Molodkin, Fizika Metallov i Metalloved., 27, No. 4: 582 (1969) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, С. И. Олиховский, М. Е. Осиновский, Металлофизика, 5, № 5: 3 (1983).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, and M. E. Osinovskii, Metallofizika, 5, No. 5: 3 (1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, Классификация дефектов кристалла по их влиянию на дифракцию излучений в рамках динамической теории рассеяния, Препринт ИМФ 76.4 (Киев: 1976).",
+				"tr":  "V. B. Molodkin, Klassifikatsiya Defektov Kristalla po Ikh Vliyaniyu na Difraktsiyu Izlucheniy v Ramkakh Dinamicheskoi Teorii Rasseyaniya [Classification of Ceystal Defects by Their Influence on Radiation Diffraction within the Dynamical Scattering Theory], Preprint IMF 76.4 (Kiev: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Дмитриев, Динамическая теория экстикционных эффектов диффузного рассеяния, (Дисс. канд. физ.-мат. наук) (Киев: Институт металлофизики им. Г. В. Курдюмова НАН Украины: 2006).",
+				"tr":  "S. V. Dmitriev, Dinamicheskaya Teoriya Ehkstinktsionnykh Ehffektov Diffuznogo Rasseyaniya [Dynamical Theory of Extinction Effects of Diffuse Scattering] (Disser. for Cand. Phys.-Math. Sci.) (Kyiv: G. V. Kurdyumov Institute for Metal Physics, N.A.S. of Ukraine: 2006) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Даценко, В. Б. Молодкин, М. Е. Осиновский, Динамическое рассеяние рентгеновских лучей реальными кристаллами (Киев: Наукова думка: 1988).",
+				"tr":  "L. I. Datsenko, V. B. Molodkin, and M. E. Osinovskiy, Dinamicheskoe Rasseyanie Rentgenovskikh Luchei Real’nymi Kristallami [Dynamical Scattering of X-Ray by Real Crystals] (Kiev: Naukova Dumka: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Кривоглаз, Физика металлов и металловед., 12: 465 (1961).",
+				"tr":  "M. A. Krivoglaz, Fizika Metallov i Metalloved., 12: 465 (1961) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Krivoglaz, Diffuse Scattering of X-Ray and Neutrons by Fluctuations (Berlin: Springer: 1996).",
+				"tr":  "M. A. Krivoglaz, Diffuse Scattering of X-Ray and Neutrons by Fluctuations (Berlin: Springer: 1996)."
+			},
+			{
+				"doi": "10.1007/978-3-642-74291-0",
+				"or":  "M. A. Krivoglaz, X-Ray and Neutron Diffraction in Nonideal Crystals (Berlin: Springer: 1996).",
+				"tr":  "M. A. Krivoglaz, X-Ray and Neutron Diffraction in Nonideal Crystals (Berlin: Springer: 1996)."
+			},
+			{
+				"doi": "10.1002/1521-3951(200205)231:1%3c199::AID-PSSB199%3e3.0.CO;2-Y",
+				"or":  "S. I. Olikhovskii, V. B. Molodkin, E. N. Kislovskii, E. G. Len, and E. V. Pervak, Phys. Status Solidi B, 231, No. 1: 199 (2002).",
+				"tr":  "S. I. Olikhovskii, V. B. Molodkin, E. N. Kislovskii, E. G. Len, and E. V. Pervak, Phys. Status Solidi B, 231, No. 1: 199 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, С. И. Олиховский, С. В. Дмитриев, Е. Г. Лень, Е. В. Первак, Металлофиз. новейшие технол., 28, № 7: 947 (2006).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, S. V. Dmitriev, E. G. Len, and E. V. Pervak, Metallofiz. Noveishie Tekhnol., 28, No. 7: 947 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, М. В. Ковальчук, В. Б. Молодкин, В. Л. Носик, В. Ф. Мачулин, С. И. Олиховский, А. И. Низкова, С. В. Дмитриев, А. А. Белоцкая, Е. И. Богданов, Я. В. Василик, А. И. Гранкина, М. Т. Когут, В. В. Молодкин, Е. В. Первак, И. И. Рудницкая, Металлофиз. новейшие технол., 32, № 10: 1301 (2010).",
+				"tr":  "A. P. Shpak, M. V. Kovalchuk, V. B. Molodkin, V. L. Nosik, V. F. Machulin, S. I. Olikhovskii, A. I. Nizkova, S. V. Dmitriev, A. A. Belotskaya, E. I. Bogdanov, Ya. V. Vasilik, A. I. Grankina, M. T. Kogut, V. V. Molodkin, E. V. Pervak, and I. I. Rudnitskaya, Metallofiz. Noveishie Tekhnol., 32, No. 10: 1301 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, А. И. Низкова, С. И. Олиховский, В. Ф. Мазанко, Е. И. Богданов, С. Е. Богданов, А. И. Гранкина, М. Т. Когут, В. П. Кривицкий, Ю. Н. Прасолов, Металлофиз. новейшие технол., 24, № 4: 521 (2002).",
+				"tr":  "V. B. Molodkin, A. I. Nizkova, S. I. Olikhovskii, V. F. Mazanko, E. I. Bogdanov, S. E. Bogdanov, A. I. Grankina, M. T. Kogut, V. P. Krivitskii, Yu. N. Prasolov, Metallofiz. Noveishie Tekhnol., 24, No. 4: 521 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, А. И. Низкова, С. И. Олиховский, В. Ф. Мазанко, Е. И. Богданов, С. Е. Богданов, А. И. Гранкина, С. В. Дмитриев, Т. Е. Корочкова, М. Т. Когут, Ю. Н. Прасолов, Металлофиз. новейшие технол., 24, № 5: 585 (2002).",
+				"tr":  "V. B. Molodkin, A. I. Nizkova, S. I. Olikhovskii, V. F. Mazanko, E. I. Bogdanov, S. E. Bogdanov, A. I. Grankina, S. V. Dmitriev, T. E. Korochkova, M. T. Kogut, and Yu. N. Prasolov, Metallofiz. Noveishie Tekhnol., 24, No. 5: 585 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, А. И. Низкова, С. И. Олиховский, В. Ф. Мазанко, Е. И. Богданов, С. Е. Богданов, А. И. Гранкина, С. В. Дмитриев, Т. Е. Корочкова, М. Т. Когут, Ю. Н. Прасолов, Металлофиз. новейшие технол., 24, № 7: 969 (2002).",
+				"tr":  "V. B. Molodkin, A. I. Nizkova, S. I. Olikhovskii, V. F. Mazanko, E. I. Bogdanov, S. E. Bogdanov, A. I. Grankina, S. V. Dmitriev, T. E. Korochkova, M. T. Kogut, and Yu. N. Prasolov, Metallofiz. Noveishie Tekhnol., 24, No. 7: 969 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, А. И. Низкова, С. И. Олиховский, В. Ф. Мазанко, Е. И. Богданов, С. Е. Богданов, А. И. Гранкина, С. В. Дмитриев, Т. Е. Корочкова, М. Т. Когут, Ю. Н. Прасолов, И. И. Рудницкая, Металлофиз. новейшие технол., 24, № 8: 1089 (2002).",
+				"tr":  "V. B. Molodkin, A. I. Nizkova, S. I. Olikhovskii, V. F. Mazanko, E. I. Bogdanov, S. E. Bogdanov, A. I. Grankina, S. V. Dmitriev, T. E. Korochkova, M. T. Kogut, Yu. N. Prasolov, and I. I. Rudnitskaya, Metallofiz. Noveishie Tekhnol., 24, No. 8: 1089 (2002) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.05.01.051",
+				"or":  "А. П. Шпак, В. Б. Молодкин, А. И. Низкова, Успехи физ. мет., 5: 51 (2004).",
+				"tr":  "A. P. Shpak, V. B. Molodkin, and A. I. Nizkova, Usp. Fiz. Met., 5: 51 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, А. И. Низкова, С. И. Олиховский, В. Ф. Мазанко, Е. И. Богданов, С. Е. Богданов, А. И. Гранкина, С. В. Дмитриев, В. М. Попов, Т. Е. Корочкова, М. Т. Когут, Ю. Н. Прасолов, И. И. Рудницкая, В. Н. Венгер, Металлофиз. новейшие технол., 28, № 5: 601 (2006).",
+				"tr":  "V. B. Molodkin, A. I. Nizkova, S. I. Olikhovskii, V. F. Mazanko, E. I. Bogdanov, S. E. Bogdanov, A. I. Grankina, S. V. Dmitriev, V. M. Popov, T. E. Korochkova, M. T. Kogut, Yu. N. Prasolov, I. I. Rudnitskaya, and V. N. Venger, Metallofiz. Noveishie Tekhnol., 28, No. 5: 601 (2006) (in Russian)."
+			}
+		]
+	}
+}

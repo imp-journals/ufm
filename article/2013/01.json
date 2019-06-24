@@ -1,0 +1,63 @@
+{
+	"year":   2013,
+	"volume": 14,
+	"issue":  1,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [1,32],
+			"title": {
+				"ua": "Зміна магнетних характеристик магнетних нано­плівок та керування спіновим струмом за допомогою лазерного випромінення",
+				"en": "Change of Magnetic Characteristics of Magnetic Nanofilms and Control of a Spin Current by means of a Laser Radiation",
+				"ru": "Изменение магнитных характеристик магнитных нанопленок и управление спиновым током с помощью лазерного излучения"
+			},
+			"autors": {
+				"ua": "М. М. Крупа, І. В. Шарай",
+				"en": "M. M. Krupa and I. V. Sharai",
+				"ru": "Н. Н. Крупа, И. В. Шарай"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [33,66],
+			"title": {
+				"ua": "Автоматизований широкодіапазонний магнетометер для магнетної фазової аналізи стопів: розробка та застосування",
+				"en": "The Automated Wide-Range Magnetometer for the Magnetic Phase Analysis of Alloys: Development and Application",
+				"ru": "Автоматизированный широкодиапазонный магнитометр для магнитного фазового анализа: разработка и применение"
+			},
+			"autors": {
+				"ua": "З. А. Дурягіна, Р. Л. Голяка, А. К. Борисюк",
+				"en": "Z. A. Duryagina, R. L. Holyaka, and A. K. Borysyuk",
+				"ru": "З. А. Дурягина, Р. Л. Голяка, А. К. Борисюк"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [67,83],
+			"title": {
+				"ua": "Масштабні рівні структурно-фазових станів і втомна тривкість рейкової сталі після електронно-жмутової обробки",
+				"en": "Scale Levels of the Structure–Phase States and Fatigue Life of a Rail Steel after Electron-Beam Treatment",
+				"ru": "Масштабные уровни структурно-фазовых состояний и усталостная долговечность рельсовой стали после электронно-пучковой обработки"
+			},
+			"autors": {
+				"ua": "В. Є. Громов, Ю. Ф. Іванов, В. А. Грішунін, С. В. Райков, С. В. Коновалов",
+				"en": "V. E. Gromov, Yu. F. Ivanov, V. A. Grishunin, S. V. Raykov, and S. V. Konovalov",
+				"ru": "В. Е. Громов, Ю. Ф. Иванов, В. А. Гришунин, С. В. Райков, С. В. Коновалов"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [85,106],
+			"title": {
+				"ua": "Властивості поверхонь тертя пари бронза-сталь",
+				"en": "Properties of Friction Surfaces of the Bronze-Steel Pair",
+				"ru": "Свойства поверхностей трения пары бронза-сталь"
+			},
+			"autors": {
+				"ua": "М. В. Кіндрачук, О. О. Міщук, А. П. Данілов, Ю. Л. Хлєвна",
+				"en": "M. V. Kindrachuk, O. A. Mishchuk, A. P. Danilov, and Yu. L. Khlevna",
+				"ru": "М. В. Киндрачук, О. А. Мищук, А. П. Данилов, Ю. Л. Хлевна"
+			}
+		}
+	]
+}

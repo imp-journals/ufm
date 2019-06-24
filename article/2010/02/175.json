@@ -1,0 +1,232 @@
+{
+	"_id":    "UFM.11.02.175",
+	"year":   2010,
+	"volume": 11,
+	"issue":  2,
+	"pages":  [175,207],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["25.01.2010"],
+	"PACS":   "07.85.Jy, 61.05.cf, 61.05.cm, 61.80.-x, 68.37.Lp, 68.65.Ac, 81.15.Jj",
+	"title":   {
+		"ua": "Йонно-променеве перемішування у шарових системах",
+		"en": "Ion-Beam Mixing in Layered Systems",
+		"ru": "Ионно-лучевое перемешивание в слоистых системах"
+	},
+	"abstract": {
+		"ua": "При малих дозах опромінення (йонами He+ до $\\Phi \\leq 5\\cdot10^{20}$ йон/м$^2$ та йонами Ar$^{+}$ до $\\Phi \\leq 1,3\\cdot10^{18}$ йон/м$^2$) товщина силіцидних фаз на міжфазних межах поділу Mo-на-Si і Si-на-Mo збільшується однаково і лінійно з дозою опромінення. Середній атомовий склад аморфних перемішаних зон відповідає стопу MoSi$_{8,2}$ і MoSi$_{3,9}$ при опроміненні йонами He$^{+}$ і Ar$^{+}$ відповідно. При збільшенні дози опромінення спостерігається зменшення густини аморфних перемішаних зон. На температурній залежності йонно-променевого перемішування багатошарових структур Mo/Si, опромінених йонами He$^{+}$, спостерігаються дві ділянки: 1 – слабкої залежности ($T_{опр} \\leq 260°C$), 2 – сильної залежности ($T_{опр} > 260°C$) від температури опромінення. Енергія активації йонно-променевого перемішування на зазначених ділянках складає $Q_{1} \\approx 0,02$ еВ і $Q_{2} \\approx 0,5$ еВ відповідно. Особливості йонно-променевого перемішування пояснюються на основі перемішування у каскадах зіткнень.",
+		"en": "Thickness of silicide phases at Mo-on-Si and Si-on-Мо interfaces increases identically and linearly with a dose of irradiation at the small doses (by He$^{+}$ ions to $\\Phi \\leq 5\\cdot10^{20}$ ion/m$^2$ and Ar$^{+}$ ions to $\\Phi \\leq 1.3\\cdot10^{18}$ ion/m$^2$). Mean atomic composition of amorphous intermixed zones corresponds to alloys of MoSi$_{8.2}$ and MoSi$_{3.9}$ compositions under the irradiation by He$^{+}$ and Ar$^{+}$ ions, respectively. Density of the amorphous intermixed areas decreases when the irradiation dose increases. There are two areas corresponding to weak dependence ($T_{irr} \\leq 260°C$) and strong dependence ($T_{irr} > 260°C$) of ion-beam mixing of Mo/Si multilayered structures irradiated by He$^{+}$ on irradiation temperature. Activation energies of the ion-beam mixing are equal $Q_{1} \\approx 0.02$ eV и $Q_{2} \\approx 0.5$ for the indicated areas, respectively. The features of the ion-beam mixing are explained by mixing in collision subcascades.",
+		"ru": "При малых дозах облучения (ионами He$^{+}$ до $\\Phi \\leq 5\\cdot10^{20}$ ион/м$^2$ и ионами Ar$^{+}$ до $\\Phi \\leq 1,3\\cdot10^{18}$ ион/м$^2$) толщина силицидных фаз на межфазных границах раздела Mo-на-Si и Si-на-Mo увеличивается одинаково и линейно с дозой облучения. Средний атомный состав аморфных перемешанных зон соответствует сплаву состава MoSi$_{8,2}$ и MoSi$_{3,9}$ при облучении ионами He$^{+}$ и Ar$^{+}$ соответственно. При увеличении дозы облучения наблюдается уменьшение плотности аморфных перемешанных зон. На температурной зависимости ионно-лучевого перемешивания многослойных структур Mo/Si, облученных ионами He$^{+}$, наблюдаются два участка: 1 – слабой зависимости ($T_{обл} \\leq 260°C$), 2 – сильной зависимости ($T_{обл} > 260°C$) от температуры облучения. Энергии активации ионно-лучевого перемешивания для указанных участков составляют $Q_{1} \\approx 0,02$ эВ и $Q_{2} \\approx 0,5$ эВ соответственно. Особенности ионно-лучевого перемешивания объясняются на основе перемешивания в субкаскадах столкновений."
+	},
+	"keywords": {
+		"ua": "багатошарова періодична структура, йонно-променеве перемішування, каскад зіткнень, малокутова Рентґенова дифрактометрія, електронна мікроскопія",
+		"en": "multilayer periodic structure, ion-beam mixing, collision cascade, small-angle X-ray diffractometry, electron microscopy",
+		"ru": "многослойная периодическая структура, ионно-лучевое перемешивание, каскад столкновений, малоугловая рентгеновская дифрактометрия, электронная микроскопия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Є. М. Зубарєв", "en": "E. M. Zubarev", "ru": "Е. Н. Зубарев"},
+			"OID": [216]
+		}
+	],
+	"references": {
+		"count": 39,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "М. Томпсон, Дефекты и радиационные повреждения в металлах (Москва: Мир: 1971).",
+				"tr":  "M. Tompson, Defekty i radiatsionnye povrezhdeniya v metallakh (Moskva: Mir: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Зеленский, И. М. Неклюдов, Л. С. Ожигов и др., Некоторые проблемы физики радиационных повреждений материалов (Киев: Наукова думка: 1979).",
+				"tr":  "V. F. Zelenskii, I. M. Neklyudov, L. S. Ozhigov et al., Nekotorye problemy fiziki radiatsionnykh povrezhdenii materialov (Kiev: Naukova dumka: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Кирсанов, А. Л. Суворов, Ю. В. Трушин, Процессы радиационного дефектообразования в металлах (Москва: Энергоатомиздат: 1985).",
+				"tr":  "V. V. Kirsanov, A. L. Suvorov, Yu. V. Trushin, Protsessy radiatsionnogo defektoobrazovaniya v metallakh (Moskva: Energoatomizdat: 1985)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ф. Буренков, Ф. Ф. Комаров, М. А. Кумахов и др., Пространственные распределения энергии, выделенной в каскадах атомных столкновений (Москва: Энергоатомиздат: 1985).",
+				"tr":  "A. F. Burenkov, F. F. Komarov, M. A. Kumakhov et al., Prostranstvennye raspredeleniya energii, vydelennoi v kaskadakh atomnykh stolknovenii (Moskva: Energoatomizdat: 1985)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Ф. Комаров, А. П. Новиков, А. Ф. Буренков, Ионная имплантация (Минск: Университетское: 1994).",
+				"tr":  "F. F. Komarov, A. P. Novikov, A. F. Burenkov, Ionnaya implantatsiya (Minsk: Universitetskoe: 1994)."
+			},
+			{
+				"doi": "",
+				"or":  "F. Ziegler, J. P. Biersack, and U. Littmark, The Stopping and Range of Ions in Solids (New York: Pergamon Press: 1999).",
+				"tr":  "F. Ziegler, J. P. Biersack, and U. Littmark, The Stopping and Range of Ions in Solids (New York: Pergamon Press: 1999)."
+			},
+			{
+				"doi": "10.1016/0029-554X(81)90668-6",
+				"or":  "P. Sigmund and A. Gras-Marti, Nucl. Instrum. Math., 182–183: 25 (1981).",
+				"tr":  "P. Sigmund and A. Gras-Marti, Nucl. Instrum. Math., 182–183: 25 (1981)."
+			},
+			{
+				"doi": "10.1016/0927-796X(94)90005-1",
+				"or":  "M. Nastasi and J. W. Mayer, Mat. Sci. Eng., R12: 1 (1994).",
+				"tr":  "M. Nastasi and J. W. Mayer, Mat. Sci. Eng., R12: 1 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Ф. Комаров, Ионная имплантация в металлы (Москва: Металлургия: 1990).",
+				"tr":  "F. F. Komarov, Ionnaya implantatsiya v metally (Moskva: Metallurgiya: 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "H. H. Andersen, Appl. Phys. A, 18, No. 2: 131 (1979).",
+				"tr":  "H. H. Andersen, Appl. Phys. A, 18, No. 2: 131 (1979)."
+			},
+			{
+				"doi": "10.1080/00337576908234453",
+				"or":  "P. Sigmund, Radit. Eff., 1, No. 1: 15 (1969).",
+				"tr":  "P. Sigmund, Radit. Eff., 1, No. 1: 15 (1969)."
+			},
+			{
+				"doi": "10.1063/1.95163",
+				"or":  "Y.-T. Cheng, M. Van Rossum, M.-A. Nicolet et al., Appl. Phys. Lett., 45, No. 2: 185 (1984).",
+				"tr":  "Y.-T. Cheng, M. Van Rossum, M.-A. Nicolet et al., Appl. Phys. Lett., 45, No. 2: 185 (1984)."
+			},
+			{
+				"doi": "10.1063/1.95557",
+				"or":  "M. Van Rossum, Y.-T. Cheng, M.-A. Nicolet et al., Appl. Phys. Lett., 46, No. 6: 610 (1985).",
+				"tr":  "M. Van Rossum, Y.-T. Cheng, M.-A. Nicolet et al., Appl. Phys. Lett., 46, No. 6: 610 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "I. A. Fenn-Tye and A. D. Marwick, Nucl. Instrum. Math. B, 18, No. 1–6: 236 (1987).",
+				"tr":  "I. A. Fenn-Tye and A. D. Marwick, Nucl. Instrum. Math. B, 18, No. 1–6: 236 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Géza, R. Heiner, and M. Wolfhard, Nucl. Instrum. Math. B, 39, No. 1–4: 268 (1989).",
+				"tr":  "V. Géza, R. Heiner, and M. Wolfhard, Nucl. Instrum. Math. B, 39, No. 1–4: 268 (1989)."
+			},
+			{
+				"doi": "10.1016/0029-554X(81)90666-2",
+				"or":  "J. W. Mayer, B. Y. Tsaur, S. S. Lau et al., Nucl. Instrum. Math., 182–183: 1 (1981).",
+				"tr":  "J. W. Mayer, B. Y. Tsaur, S. S. Lau et al., Nucl. Instrum. Math., 182–183: 1 (1981)."
+			},
+			{
+				"doi": "10.1063/1.97901",
+				"or":  "K. Tao, C. A. Hewett, S. S. Lau et al., Appl. Phys. Lett., 50, No. 19: 1343 (1987).",
+				"tr":  "K. Tao, C. A. Hewett, S. S. Lau et al., Appl. Phys. Lett., 50, No. 19: 1343 (1987)."
+			},
+			{
+				"doi": "10.1063/1.335809",
+				"or":  "K. Affolter, X.-A. Zhao, and M. A. Nicolet, J. Appl. Phys., 58, No. 8: 3087 (1985).",
+				"tr":  "K. Affolter, X.-A. Zhao, and M. A. Nicolet, J. Appl. Phys., 58, No. 8: 3087 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. С. Данилин, В. К. Сырчин, Магнетронные распылительные системы (Москва: Радио и связь: 1982).",
+				"tr":  "B. S. Danilin, V. K. Syrchin, Magnetronnye raspylitel'nye sistemy (Moskva: Radio i svyaz': 1982)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Чечетенко, Е. В. Савченко, Я. М. Фогель и др., Оптика и спектроскопия, 22, № 4: 626 (1969).",
+				"tr":  "V. V. Chechetenko, E. V. Savchenko, Ya. M. Fogel' et al., Optika i spektroskopiya, 22, No. 4: 626 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Виноградов, Зеркальная рентгеновская оптика (Ленинград: Машиностроение: 1989).",
+				"tr":  "A. V. Vinogradov, Zerkal'naya rentgenovskaya optika (Leningrad: Mashinostroenie: 1989)."
+			},
+			{
+				"doi": "10.1117/12.7973929",
+				"or":  "T. W. Barbee, Optical Engineering, 25, No. 8: 899 (1986).",
+				"tr":  "T. W. Barbee, Optical Engineering, 25, No. 8: 899 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Л. Воронов, Е. Н. Зубарев, В. В. Кондратенко и др., Металлофиз. новейшие технол., 26, № 6: 753 (2004).",
+				"tr":  "D. L. Voronov, E. N. Zubarev, V. V. Kondratenko et al., Metallofiz. Noveishie Tekhnol., 26, No. 6: 753 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Л. Воронов, А. Ю. Девизенко, Е. Н. Зубарев и др., Физическая инженерия поверхности, 2, № 1: 1 (2004).",
+				"tr":  "D. L. Voronov, A. Yu. Devizenko, E. N. Zubarev et al., Fizicheskaya inzheneriya poverkhnosti, 2, No. 1: 1 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Пеньков, Е. Н. Зубарев, О. В. Польцева и др., Вопросы атомной науки и техники. Сер. Физика радиационных повреждений и радиационное материаловедение, 89, № 4: 157 (2006).",
+				"tr":  "A. V. Pen'kov, E. N. Zubarev, O. V. Pol'tseva et al., Voprosy atomnoi nauki i tekhniki. Ser. Fizika radiatsionnykh povrezhdenii i radiatsionnoe materialovedenie, 89, No. 4: 157 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Пеньков, Д. Л. Воронов, Е. Н. Зубарев и др., Известия РАН. Сер. Физическая, 70, № 6: 917 (2006).",
+				"tr":  "A. V. Pen'kov, D. L. Voronov, E. N. Zubarev et al., Izvestiya RAN. Ser. Fizicheskaya, 70, No. 6: 917 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Н. Зубарев, В. В. Кондратенко, Ю. П. Першин и др., Материалы IX Всесоюзной конференции «Взаимодействие атомных частиц с твердым телом–1989» (Москва: 1989), т. 2, с. 87.",
+				"tr":  "E. N. Zubarev, V. V. Kondratenko, Yu. P. Pershin et al., Materialy IX Vsesoyuznoi konferentsii «Vzaimodeistvie atomnykh chastits s tverdym telom–1989» (Moskva: 1989), t. 2, s. 87."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Н. Зубарев, В.В. Кондратенко, Ю. П. Першин и др., Материалы X Всесоюзной конференции «Взаимодействие ионов с поверхностью–1991» (Звенигород: 1991), т. 1, с.174.",
+				"tr":  "E. N. Zubarev, V.V. Kondratenko, Yu. P. Pershin et al., Materialy X Vsesoyuznoi konferentsii «Vzaimodeistvie ionov s poverkhnost'yu–1991» (Zvenigorod: 1991), t. 1, s.174."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Ганн, Е. Н.Зубарев, В. В. Кондратенко и др., Материалы XII Международной конференции «Взаимодействие ионов с поверхностью–1995» (Звенигород: 1995), т. 2, с.191.",
+				"tr":  "V. V. Gann, E. N.Zubarev, V. V. Kondratenko et al., Materialy XII Mezhdunarodnoi konferentsii «Vzaimodeistvie ionov s poverkhnost'yu–1995» (Zvenigorod: 1995), t. 2, s.191."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Л. Воронов, Е. Н. Зубарев, В. В. Кондратенко и др., Материалы V Международной конференции «Нелинейные процессы и проблемы самоорганизации в современном материаловедении–2004» (Воронеж: 2004), т. 1, с. 93.",
+				"tr":  "D. L. Voronov, E. N. Zubarev, V. V. Kondratenko et al., Materialy V Mezhdunarodnoi konferentsii «Nelineinye protsessy i problemy samoorganizatsii v sovremennom materialovedenii–2004» (Voronezh: 2004), t. 1, s. 93."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Пеньков, Д. Л. Воронов, Е. Н. Зубарев и др., Материалы XVII Международной конференции «Взаимодействие ионов с поверхностью–ВИП 2005» (Звенигород: 2005), т. 2, с. 44.",
+				"tr":  "A. V. Pen'kov, D. L. Voronov, E. N. Zubarev et al., Materialy XVII Mezhdunarodnoi konferentsii «Vzaimodeistvie ionov s poverkhnost'yu–VIP 2005» (Zvenigorod: 2005), t. 2, s. 44."
+			},
+			{
+				"doi": "",
+				"or":  "A. V. Penkov, D. L. Voronov, A.Y u. Devizenko et al., Func. Mater., 12, No. 4: 750 (2005).",
+				"tr":  "A. V. Penkov, D. L. Voronov, A.Y u. Devizenko et al., Func. Mater., 12, No. 4: 750 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "O. Yu. Devizenko, D. L. Voronov, V. V. Kondratenko et al., Abstr. Int. Conf. ‘Crystal Materials–2005’ (Kharkov: 2005), p. 211.",
+				"tr":  "O. Yu. Devizenko, D. L. Voronov, V. V. Kondratenko et al., Abstr. Int. Conf. 'Crystal Materials–2005' (Kharkov: 2005), p. 211."
+			},
+			{
+				"doi": "10.1016/j.tsf.2007.01.012",
+				"or":  "E. N. Zubarev, A. V. Zhurba, V. V. Kondratenko et al., Thin Solid Films, 515: 7011 (2007).",
+				"tr":  "E. N. Zubarev, A. V. Zhurba, V. V. Kondratenko et al., Thin Solid Films, 515: 7011 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "E. N. Zubarev, V. V. Kondratenko, V. A. Sevryukova et al., Books Abstr. ‘12th International Conference on Thin Films’ (Bratislava: 2002), p.212.",
+				"tr":  "E. N. Zubarev, V. V. Kondratenko, V. A. Sevryukova et al., Books Abstr. '12th International Conference on Thin Films' (Bratislava: 2002), p.212."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Н. Зубарев, А. А. Козьма, А. Н. Стеценко и др., Вопросы атомной науки и техники. Сер. Физика радиационных повреждений и радиационное материаловедение, 2 (40): 20 (1987).",
+				"tr":  "E. N. Zubarev, A. A. Koz'ma, A. N. Stetsenko et al., Voprosy atomnoi nauki i tekhniki. Ser. Fizika radiatsionnykh povrezhdenii i radiatsionnoe materialovedenie, 2 (40): 20 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Н. Зубарев, В. П. Мельник, В. В. Кондратенко и др., Металлофиз. новейшие технол., 29, № 12: 1555 (2007).",
+				"tr":  "E. N. Zubarev, V. P. Mel'nik, V. V. Kondratenko et al., Metallofiz. Noveishie Tekhnol., 29, No. 12: 1555 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Пеньков, Д. Л. Воронов, Е. Н. Зубарев и др., Металлофиз. новейшие технол., 28, № 2: 183 (2006).",
+				"tr":  "A. V. Pen'kov, D. L. Voronov, E. N. Zubarev et al., Metallofiz. Noveishie Tekhnol., 28, No. 2: 183 (2006)."
+			},
+			{
+				"doi": "10.1063/1.338025",
+				"or":  "R. W. Bene, J. Appl. Phys., 61, No. 5: 1826 (1987).",
+				"tr":  "R. W. Bene, J. Appl. Phys., 61, No. 5: 1826 (1987)."
+			}
+		]
+	}
+}

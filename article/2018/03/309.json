@@ -1,0 +1,246 @@
+{
+	"_id":    "UFM.19.03.309",
+	"year":   2018,
+	"volume": 19,
+	"issue":  3,
+	"pages":  [309,336],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["10.07.2018", "26.07.2018"],
+	"PACS":   "61.66.Dk, 61.72.Ff, 61.72.Hh, 62.20.M-, 68.37.Hk, 68.55.jd, 81.05.Bx, 81.10.Fq, 81.20.Hy, 81.40.Ef, 81.40.Jj, 81.40.Np, 81.70.Bt, 83.50.Uv, 83.60.Pq",
+	"title":   {
+		"ua": "Вплив мікроструктури, способу та швидкости деформації на механічну поведінку стопів Ti–6Al–4V і Ti–1,5Al–6,8Mo–4,5Fe, виготовлених електронно-променевим топленням",
+		"en": "Effect of Microstructure, Deformation Mode and Rate on Mechanical Behaviour of Electron-Beam Melted Ti–6Al–4V and Ti–1.5Al–6.8Mo–4.5Fe Alloys",
+		"ru": "Влияние микроструктуры, способа и скорости деформации на механическое поведение сплавов Ti–6Al–4V и Ti–1,5Al–6,8Mo–4,5Fe, приготовленных электронно-лучевой плавкой"
+	},
+	"abstract": {
+		"ua": "На прикладі двох промислових економно леґованих титанових стопів, — малолеґованого $\\alpha$+$\\beta$-стопу Ti–6Al–4V (мас.%) і метастабільного $\\beta$-стопу Ti–1,5Al–6,8Mo–4,5Fe, — виготовлених одноразовим електронно-променевим топленням з проміжною ємністю, вивчено вплив формованої за подальших (термомеханічного та термічного) оброблянь мікроструктури на механічну поведінку (виражену через енергію деформації $U_{D$}) при випробуваннях з різними швидкостями деформації та балістичну стійкість. Встановлено, що найменша залежність $U_{D}$ від швидкости деформації відповідає стопу Ti–6Al–4V, відпаленого за температури двофазної $\\alpha$+$\\beta$-области, в той час як цей же стоп із пластинчастою мікроструктурою (після відпалювання в однофазній $\\alpha$+$\\beta$-області), як і стоп Ti–1,5Al–6,8Mo–4,5Fe у різних структурних станах, характеризується інтенсивним пониженням величини $U_{D}$ з ростом швидкости деформації. Окрім того, тільки відпалений за температури двофазної $\\alpha$+$\\beta$-области матеріял після випробувань на триточковий вигин характеризувався тим, що для кожної швидкости деформації величина $U_{D}$ дорівнювала сумі аналогічних характеристик, одержаних випробуваннями на розтягання та стискання. При наступних балістичних випробуваннях пластин цих стопів різної товщини було встановлено, що найліпша балістична стійкість відповідає матеріялам, які характеризуються великими значеннями $U_{D}$ та меншою її чутливістю до швидкости деформації. Детально обговорюється пошкодження стопів при випробуваннях різних типів з точки зору ймовірних механізмів деформації та руйнування.",
+		"en": "Two commercial cost-efficient titanium alloys — a low-alloyed $\\alpha$+$\\beta$-Ti–6Al–4V (mass.%) and a metastable $\\beta$-alloy Ti–1.5Al–6.8Mo–4.5Fe melted with a single electron-beam cold hearth melting approach — are employed in a present study as program materials. The influence of microstructure formed by means of the subsequent thermomechanical and heat treatments on both the mechanical behaviour (evaluated by the deformation energy, $U_{D}$) when tested using standard methods with different deformation rates and the ballistic resistance of plate materials is investigated. As revealed, the weakest dependence of $U_{D}$ on the strain rate corresponds to Ti–6Al–4V alloy with microstructure morphology close to globular one, whereas in the same alloy with a lamellar microstructure (annealed in a single-phase $\\beta$-field) as well as in Ti–1.5Al–6.8Mo–4.5Fe alloy with various microstructures, $U_{D}$ values significantly depend on the rate of deformation. Moreover, only after annealing at a temperature of the two-phase $\\alpha$+$\\beta$ field, the $U_{D}$ value for Ti–6Al–4V upon three-point flexure at varying deformation rate is equal to the sum of the corresponding values obtained under tension and compression. During subsequent ballistic tests of plates of different thicknesses, it is established that the best ballistic impact resistance corresponds to the materials with higher $U_{D}$ values and lower strain-rate sensitivity. The damage of alloys during all types of testing is discussed in detail in terms of possible mechanisms of deformation and fracture.",
+		"ru": "На примере двух промышленных экономно легированных титановых сплавов, — малолегированного $\\alpha$+$\\beta$-сплава Тi–6Al–4V (масс.%) и метастабильного $\\beta$-сплава Ti–1,5Al–6,8Mo–4,5Fe, — приготовленных однократной электроннолучевой плавкой с промежуточной ёмкостью, изучено влияние формируемой при последующих (термомеханической и термической) обработках микроструктуры на механическое поведение (выраженное через энергию деформации $U_{D}$) при испытаниях с разными скоростями деформации и баллистическую стойкость. Установлено, что наименьшая зависимость $U_{D}$} от скорости деформации соответствует сплаву Ti–6Al–4V с близкой к глобулярной морфологией микроструктуры, в то время как этот же сплав с пластинчатой микроструктурой (после отжига в однофазной $\\beta$-области), как и сплав Ti–1,5Al–6,8Mo–4,5Fe в различных структурных состояниях, характеризуется интенсивным снижением величины $U_{D}$ с ростом скорости деформации. Кроме того, только отожжённый при температуре двухфазной $\\alpha$+$\\beta$-области материал после испытаний на трёхточечный изгиб характеризовался тем, что для каждой скорости деформации величина $U_{D}$ была равна сумме аналогичных характеристик, полученных испытаниями на растяжение и сжатие. При последующих баллистических испытаниях пластин этих сплавов различной толщины было установлено, что наилучшая баллистическая стойкость соответствует материалам, характеризуемым большими значениями $U_{D}$ и меньшей её чувствительностью к скорости деформации. Подробно обсуждается повреждение сплавов при испытаниях разных типов с точки зрения вероятных механизмов деформации и разрушения."
+	},
+	"keywords": {
+		"ua": "титанові стопи, мікроструктура, механічні властивості, механічна поведінка, швидкості деформації, енергія деформації, балістичні випробування",
+		"en": "titanium alloys, microstructure, mechanical properties, mechanical behaviour, deformation rates, deformation energy, ballistic tests",
+		"ru": "титановые сплавы, микроструктура, механические свойства, механическое поведение, скорости деформации, энергия деформации, баллистические испытания"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. М. Івасишин", "en": "O. M. Ivasishin", "ru": "О. М. Ивасишин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. В. Ахонін", "en": "S. V. Akhonin", "ru": "С. В. Ахонин"},
+			"OID": [5]
+		},
+		{
+			"AID": {"ua": "Д. Г. Саввакін", "en": "D. G. Savvakin", "ru": "Д. Г. Саввакин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. О. Березос", "en": "V. A. Berezos", "ru": "В. А. Березос"},
+			"OID": [5]
+		},
+		{
+			"AID": {"ua": "В. І. Бондарчук", "en": "V. I. Bondarchuk", "ru": "В. И. Бондарчук"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. О. Стасюк", "en": "O. O. Stasyuk", "ru": "А. А. Стасюк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "П. Є. Марковський", "en": "P. E. Markovsky", "ru": "П. Е. Марковский"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 37,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "I. Weiss, R. Srinivasan, P. J. Bania, D. Eylon, and S. L. Semiatin, Advances in the Science and Technology of Titanium Alloy Processing: Proc. Int. Symposium Sponsored by the TMS Titanium and Shaping and Forming Held at the 125th TMS Annual Meeting and Exhibition in Anaheim (California, February 5–8, 1996) (Warrendale, PA: TMS: 1997).",
+				"tr":  "I. Weiss, R. Srinivasan, P. J. Bania, D. Eylon, and S. L. Semiatin, Advances in the Science and Technology of Titanium Alloy Processing: Proc. Int. Symposium Sponsored by the TMS Titanium and Shaping and Forming Held at the 125th TMS Annual Meeting and Exhibition in Anaheim (California, February 5–8, 1996) (Warrendale, PA: TMS: 1997)."
+			},
+			{
+				"doi": "10.1007/978-3-540-73036-1",
+				"or":  "G. Luetjering and J. C. Williams, Titanium (Berlin: Springer-Verlag: 2007).",
+				"tr":  "G. Luetjering and J. C. Williams, Titanium (Berlin: Springer-Verlag: 2007)."
+			},
+			{
+				"doi": "10.1361/105994905x75448",
+				"or":  "R. R. Boyer and R. D. Briggs, J. Mater. Eng. Perform., 14, Iss. 6: 681 (2005).",
+				"tr":  "R. R. Boyer and R. D. Briggs, J. Mater. Eng. Perform., 14, Iss. 6: 681 (2005)."
+			},
+			{
+				"doi": "10.15407/ufm.17.04.343",
+				"or":  "L. O. Chirkina, M. B. Lazareva, V. I. Sokolenko, V. S. Okovyt, and V. V. Kalynovsky, Usp. Fiz. Met., 17, No. 4: 343 (2016).",
+				"tr":  "L. O. Chirkina, M. B. Lazareva, V. I. Sokolenko, V. S. Okovyt, and V. V. Kalynovsky, Usp. Fiz. Met., 17, No. 4: 343 (2016)."
+			},
+			{
+				"doi": "10.15407/ufm.17.01.001",
+				"or":  "A. D. Pogrebnjak, O. M. Ivasishin, and V. M. Beresnev, Usp. Fiz. Met., 17, No. 1: 1 (2016).",
+				"tr":  "A. D. Pogrebnjak, O. M. Ivasishin, and V. M. Beresnev, Usp. Fiz. Met., 17, No. 1: 1 (2016)."
+			},
+			{
+				"doi": "10.15407/ufm.16.03.175",
+				"or":  "V. E. Gromov, K. V. Sosnin, Yu. F. Ivanov, and O. A. Semina, Usp. Fiz. Met., 16, No. 3: 175 (2015).",
+				"tr":  "V. E. Gromov, K. V. Sosnin, Yu. F. Ivanov, and O. A. Semina, Usp. Fiz. Met., 16, No. 3: 175 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "See https://boomsupersonic.com.",
+				"tr":  "See https://boomsupersonic.com."
+			},
+			{
+				"doi": "",
+				"or":  "M. Prampolini and Y. Coraboeuf, Ultra-Rapid Air Vehicle and Related Method for Aerial Locomotion: United States Patent No. 9079661B2 (Published July 14, 2015).",
+				"tr":  "M. Prampolini and Y. Coraboeuf, Ultra-Rapid Air Vehicle and Related Method for Aerial Locomotion: United States Patent No. 9079661B2 (Published July 14, 2015)."
+			},
+			{
+				"doi": "10.1361/105994905x75457",
+				"or":  "J. Fanning, J. Mater. Eng. Perform., 14, Iss. 6: 686 (2005).",
+				"tr":  "J. Fanning, J. Mater. Eng. Perform., 14, Iss. 6: 686 (2005)."
+			},
+			{
+				"doi": "10.1007/s11837-001-0144-2",
+				"or":  "J. S. Montgomery and M. G. Y. Wells, JOM, 53, Iss. 4: 29 (2001).",
+				"tr":  "J. S. Montgomery and M. G. Y. Wells, JOM, 53, Iss. 4: 29 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Fanning, Proc. of the 11th World Conference on Titanium) (June 3–7, 2007, Kyoto, Japan) (Kyoto: The Japan Institute of Metals: 2007), p. 487.",
+				"tr":  "J. Fanning, Proc. of the 11th World Conference on Titanium) (June 3–7, 2007, Kyoto, Japan) (Kyoto: The Japan Institute of Metals: 2007), p. 487."
+			},
+			{
+				"doi": "10.1016/j.ijimpeng.2015.06.017",
+				"or":  "C. Zheng, F. Wang, and X. Cheng, Int. J. Impact Eng., 85: 161 (2015).",
+				"tr":  "C. Zheng, F. Wang, and X. Cheng, Int. J. Impact Eng., 85: 161 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "M. S. Burins, J. S. Hansen, J. I. Paige, and P. C. Turner, The Effect of Thermo-Mechanical Processing on the Ballistic Limit Velocity of Extra Low Interstitial Titanium Alloy Ti–6Al–4V (Army Research Laboratory Report ARL-MR-486: July 2000).",
+				"tr":  "M. S. Burins, J. S. Hansen, J. I. Paige, and P. C. Turner, The Effect of Thermo-Mechanical Processing on the Ballistic Limit Velocity of Extra Low Interstitial Titanium Alloy Ti–6Al–4V (Army Research Laboratory Report ARL-MR-486: July 2000)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2011.11.030",
+				"or":  "B. B. Singh, G. Sukumar, A. Bhattacharjee, K. S. Kumar, T. B. Bhat, and A. K. Gogia, Materials and Design, 36: 640 (2012).",
+				"tr":  "B. B. Singh, G. Sukumar, A. Bhattacharjee, K. S. Kumar, T. B. Bhat, and A. K. Gogia, Materials and Design, 36: 640 (2012)."
+			},
+			{
+				"doi": "10.1016/j.msea.2014.04.032",
+				"or":  "C. Zheng, F. Wang, X. Cheng, K. Fu, J. Liu, Y. Wang, T. Liu, and Z. Zhu, Mater. Sci. Eng.: A, 608: 53 (2014).",
+				"tr":  "C. Zheng, F. Wang, X. Cheng, K. Fu, J. Liu, Y. Wang, T. Liu, and Z. Zhu, Mater. Sci. Eng.: A, 608: 53 (2014)."
+			},
+			{
+				"doi": "10.1016/j.msea.2013.12.007",
+				"or":  "K. Sun, X. Yu, C. Tan, H. Ma, F. Wang, and H. Cai, Mater. Sci. Eng.: A, 595: 247 (2014).",
+				"tr":  "K. Sun, X. Yu, C. Tan, H. Ma, F. Wang, and H. Cai, Mater. Sci. Eng.: A, 595: 247 (2014)."
+			},
+			{
+				"doi": "10.1016/j.ijimpeng.2012.11.002",
+				"or":  "G. Sukumar, B. B. Singh, A. Bhattacharjee, K. S. Kumar, and A. K. Gogia, Int. J. Impact Eng., 54: 149 (2013).",
+				"tr":  "G. Sukumar, B. B. Singh, A. Bhattacharjee, K. S. Kumar, and A. K. Gogia, Int. J. Impact Eng., 54: 149 (2013)."
+			},
+			{
+				"doi": "10.1016/j.ijimpeng.2015.06.017",
+				"or":  "C. Zheng, F. Wang, X. Cheng, J. Liu, K. Fu, T. Liu, Z. Zhu, K. Yang, M. Peng, and D. Jin, Int. J. Impact Eng., 85: 161 (2015).",
+				"tr":  "C. Zheng, F. Wang, X. Cheng, J. Liu, K. Fu, T. Liu, Z. Zhu, K. Yang, M. Peng, and D. Jin, Int. J. Impact Eng., 85: 161 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "T. L. Jones, Ballistic Performance of Titanium Alloys: Ti–6Al–4V Versus Russian Titanium (Army Research Laboratory Report ARL-CR-0533: February 2004).",
+				"tr":  "T. L. Jones, Ballistic Performance of Titanium Alloys: Ti–6Al–4V Versus Russian Titanium (Army Research Laboratory Report ARL-CR-0533: February 2004)."
+			},
+			{
+				"doi": "10.1016/j.msea.2015.08.009",
+				"or":  "P. E. Markovsky, V. I. Bondarchuk, and O. M. Herasymchuk, Mater. Sci. Eng.: A, 645: 150 (2015).",
+				"tr":  "P. E. Markovsky, V. I. Bondarchuk, and O. M. Herasymchuk, Mater. Sci. Eng.: A, 645: 150 (2015)."
+			},
+			{
+				"doi": "10.1007/s11665-017-2781-9",
+				"or":  "P. E. Markovsky and V. I. Bondarchuk, J. Mater. Eng. Perform., 26, Iss. 7: 3431 (2017).",
+				"tr":  "P. E. Markovsky and V. I. Bondarchuk, J. Mater. Eng. Perform., 26, Iss. 7: 3431 (2017)."
+			},
+			{
+				"doi": "",
+				"or":  "P. E. Markovsky, Mechanical Behavior of Titanium Alloys under Different Conditions of Loading, Key Eng. Mater., 2018 (in press).",
+				"tr":  "P. E. Markovsky, Mechanical Behavior of Titanium Alloys under Different Conditions of Loading, Key Eng. Mater., 2018 (in press)."
+			},
+			{
+				"doi": "10.1007/BF02914684",
+				"or":  "J. S. Montgomery, M. G. H. Wells, B. Roopchand, and J. W. Ogilvy, JOM, 49, Iss. 5: 45 (1997).",
+				"tr":  "J. S. Montgomery, M. G. H. Wells, B. Roopchand, and J. W. Ogilvy, JOM, 49, Iss. 5: 45 (1997)."
+			},
+			{
+				"doi": "10.1007/s11837-001-0144-2",
+				"or":  "J. S. Montgomery and M. G. H. Wells, JOM, 53, Iss. 4: 29 (2001).",
+				"tr":  "J. S. Montgomery and M. G. H. Wells, JOM, 53, Iss. 4: 29 (2001)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2009.10.015",
+				"or":  "P. E. Markovsky and S. L. Semiatin, J. Mater. Process. Technol., 210, Iss. 3: 518 (2010).",
+				"tr":  "P. E. Markovsky and S. L. Semiatin, J. Mater. Process. Technol., 210, Iss. 3: 518 (2010)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/KEM.436.185",
+				"or":  "P. E. Markovsky, Key Eng. Mater., 436: 185 (2010).",
+				"tr":  "P. E. Markovsky, Key Eng. Mater., 436: 185 (2010)."
+			},
+			{
+				"doi": "10.1016/j.msea.2010.12.002",
+				"or":  "P. E. Markovsky and S. L. Semiatin, Mater. Sci. Eng.: A, 528, Iss. 7–8: 3079 (2011).",
+				"tr":  "P. E. Markovsky and S. L. Semiatin, Mater. Sci. Eng.: A, 528, Iss. 7–8: 3079 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "S. V. Akhonin, V. А. Berezos, А. N. Pikulin, А. Yu. Severin, and А. G. Yerokhin, Sovrem. Elektrometall., No. 1: 10 (2017) (in Russian).",
+				"tr":  "S. V. Akhonin, V. А. Berezos, А. N. Pikulin, А. Yu. Severin, and А. G. Yerokhin, Sovrem. Elektrometall., No. 1: 10 (2017) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(02)00518-X",
+				"or":  "A. N. Kalinyuk, N. P. Trigub, V. N. Zamkov, O. M. Ivasishin, P. E. Markovsky, R. V. Teliovich, and S. L. Semiatin, Mat. Sci. Eng.: A, 346, Iss. 1–2: 178 (2003).",
+				"tr":  "A. N. Kalinyuk, N. P. Trigub, V. N. Zamkov, O. M. Ivasishin, P. E. Markovsky, R. V. Teliovich, and S. L. Semiatin, Mat. Sci. Eng.: A, 346, Iss. 1–2: 178 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "S. V. Akhonin, P. E. Markovsky, V. А. Berezos, O. O. Stasyuk, and А. Yu. Severin, Sovrem. Elektrometall., No. 1: 9 (2018) (in Russian).",
+				"tr":  "S. V. Akhonin, P. E. Markovsky, V. А. Berezos, O. O. Stasyuk, and А. Yu. Severin, Sovrem. Elektrometall., No. 1: 9 (2018) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "See https://www.imp.kiev.ua/download/development/MVI_1884.MOV.",
+				"tr":  "See https://www.imp.kiev.ua/download/development/MVI_1884.MOV."
+			},
+			{
+				"doi": "",
+				"or":  "O. M. Ivasishin and P. E. Markovsky, JOM, 48, Iss. 7: 48 (1996).",
+				"tr":  "O. M. Ivasishin and P. E. Markovsky, JOM, 48, Iss. 7: 48 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "O. M. Ivasishin, P. E. Markovsky, Yu. V. Matviychuk, and P. Allen, Proc. of the 9th World Conf. Titanium’99: Science and Technology (St.-Petersburg, Russia, CRISM ‘Prometey’: 2000), vol. 1, p. 505.",
+				"tr":  "O. M. Ivasishin, P. E. Markovsky, Yu. V. Matviychuk, and P. Allen, Proc. of the 9th World Conf. Titanium’99: Science and Technology (St.-Petersburg, Russia, CRISM ‘Prometey’: 2000), vol. 1, p. 505."
+			},
+			{
+				"doi": "10.1016/j.msea.2012.09.024",
+				"or":  "P. E. Markovsky, V. I. Bondarchuk, and Yu. V. Matviychuk, Mater. Sci. Eng.: A, 559: 782 (2013).",
+				"tr":  "P. E. Markovsky, V. I. Bondarchuk, and Yu. V. Matviychuk, Mater. Sci. Eng.: A, 559: 782 (2013)."
+			},
+			{
+				"doi": "10.15407/mfint.38.07.0935",
+				"or":  "P. E. Markovsky, V. I. Bondarchuk, O. V. Shepotinnyk, and I. M. Gavrysh, Metallofiz. Noveishie Tekhnol., 38, No. 7: 935 (2016).",
+				"tr":  "P. E. Markovsky, V. I. Bondarchuk, O. V. Shepotinnyk, and I. M. Gavrysh, Metallofiz. Noveishie Tekhnol., 38, No. 7: 935 (2016)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2013.09.122",
+				"or":  "Q. V. Viet, A. A. Gazder, P. E. Markovsky, A. A. Saleh, O. M. Ivasishin, and E. V. Pereloma, J. Alloys and Compounds, 585: 245 (2014).",
+				"tr":  "Q. V. Viet, A. A. Gazder, P. E. Markovsky, A. A. Saleh, O. M. Ivasishin, and E. V. Pereloma, J. Alloys and Compounds, 585: 245 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "P. E. Markovsky, Metallofiz. Noveishie Tekhnol., 31: 511 (2009).",
+				"tr":  "P. E. Markovsky, Metallofiz. Noveishie Tekhnol., 31: 511 (2009)."
+			}
+		]
+	}
+}

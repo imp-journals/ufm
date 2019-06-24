@@ -1,0 +1,238 @@
+{
+	"_id":    "UFM.07.04.189",
+	"year":   2006,
+	"volume": 7,
+	"issue":  4,
+	"pages":  [189,241],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["19.04.2006"],
+	"PACS":   "61.72.Lk, 74.72.Bk, 74.76.Bz, 81.15.Cd, 81.15.Fg, 81.40.Rs, 85.25.-j",
+	"title":   {
+		"ua": "Фізико-технологічні основи осадження тонких ВТНП-плівок YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$",
+		"en": "Physicotechnological Principles of Deposition of Thin High-T$_{c}$ Superconducting Films of YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$",
+		"ru": "Физико-технологические основы осаждения тонких ВТСП-плёнок YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$"
+	},
+	"abstract": {
+		"ua": "Виконано ретельні теоретичні й експериментальні дослідження та модернізацію окремих процесів лазерної та магнетронної метод осадження з метою створення YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$ плівок та бар’єрних шарів CeO$_{2}$ з контрольованою кристалічною структурою і високими надпровідними властивостями плівок YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$. У результаті роботи розроблено фізико-технологічні основи процесу одержання надпровідних плівок YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$ на діелектричних (сапфірових) підложжях із використанням бар’єрного шару CeO$_{2}$, як методою двопроменевого лазерного осадження, так і магнетронного розпорошення. Виконано оптимізацію технологічних режимів осадження плівок обома методами. Показано, що за оптимальних умов осадження можна одержувати епітаксійні плівки YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$ з контрольованою наноструктурою, як методою імпульсного лазерного осадження, так і методою магнетронного розпорошення. При цьому можливо контрольовно змінювати надпровідні властивості ВТНП-плівок YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$, як за струмонесною спроможністю, так і за поверхневим імпедансом на надвисоких частотах. Густина критичного струму надпровідних плівок в залежности від кількости лінійних дефектів (крайових дисльокацій) може коливатися від $7\\cdot10^6$ A/см$^2$ при 77 К у нульовому магнетному полі для густини лінійних дефектів близько $10^{11}$ см$^{−2}$ до $×10^5$ A/см$^2$ у таких самих умовах міряння для густини лінійних дефектів близько $10^{10}$ см$^{−2}$. В той же час поверхневий опір для тих самих плівок, міряний при 77 К на частоті 135 ГГц, в залежности від густини лінійних дефектів змінюється від 160 мОм до 115 мОм, відповідно. Розроблені технології надалі можуть використовуватися для виготовлення плівкових НВЧ-фільтрів у мобільному, стільниковому та супутниковому зв’язку, а також для створення довгомірних, так називаних покритих провідників із високою струмонесною здатністю в сильних магнетних полях для електротехнічних застосувань та у мережах електропередач.",
+		"en": "The careful experimental and theoretical studies followed by a subsequent improvement of high-$T_c$ superconducting YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$ films’ and buffer CeO$_{2}$ layers’ deposition technologies with a use of laser and magnetron deposition techniques are carried out in order to obtain СеО$_2$-buffered high-$T_c$ superconducting YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$ films with a controllable crystalline structure and high superconducting properties. As a result of this work, the physical and technological backgrounds of the deposition processes of perfect YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$ films on dielectric (sapphire) substrates with a use of buffer CeO$_{2}$ layers are developed for both two-beam laser and magnetron deposition techniques. The optimization of technological regimes is performed for both these deposition methods. As shown, at optimal conditions, it is possible to obtain epitaxial YBCO films with a controllable nanostructure by the use of both laser and magnetron deposition techniques. This gives in turn a possibility to change in a controllable way the main electrodynamical characteristics of superconducting YBCO films such as critical-current density and microwave surface impedance. In particular, our experiments revealed that the critical-current density, $J_c$, of YBCO films (77 K) strongly depends on the density of linear defects (edge dislocations) and can vary within the range of $10^5—7\\cdot10^6$ A/cm$^2$ when the edge-dislocations’ density varies within the range of $10^{10}—10^{11}$ cm$^{−2}$. The microwave surface resistance, Rs(77 K, 135 GHz), for this range of dislocation densities varies within the interval of 115—160 m$\\Omega$, respectively. The elaborated technologies of epitaxial YBCO films’ deposition can be used for production of HTSC-film microwave filters, which are of great interest for applications in the cellular and satellite telecommunication as well as for production of conducting elements with a large current-carrying capability for electrotechnical purposes.",
+		"ru": "Проведены тщательные теоретические и экспериментальные исследования и модернизация отдельных процессов лазерного и магнетронного методов осаждения с целью создания YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$ пленок и барьерных слоев СеО$_2$ с контролируемой кристаллической структурой и высокими сверхпроводящими свойствами пленок YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$. В результате работы разработаны физико-технологические основы получения сверхпроводящих пленок YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$ на диэлектрических (сапфировых) подложках с использованием барьерного слоя CeO$_{2}$, как методом двухлучевого лазерного осаждения, так и магнетронного распыления. Проведена оптимизация технологических режимов осаждения пленок обоими методами. Показано, что при оптимальных условиях осаждения можно получать эпитаксиальные пленки YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$ с контролируемой наноструктурой, как методом импульсного лазерного осаждения, так и методом магнетронного распыления. При этом возможно контролируемо изменять сверхпроводящие свойства ВТСП-пленок YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$, как по токонесущей способности, так и по поверхностному импедансу на сверхвысоких частотах. Плотность критического тока сверхпроводящих пленок в зависимости от количества линейных дефектов (краевых дислокаций) может колебаться от $7\\cdot10^6$ A/см$^2$ при 77 К в нулевом магнитном поле для плотности линейных дефектов около $10^{11}$ см$^{−2}$ до $×10^5$ A/см$^2$ в таких же условиях измерения для плотности линейных дефектов около $10^{10}$ см$^{−2}$. В то же время поверхностное сопротивление для тех же пленок, измеренное при 77 К на частоте 135 ГГц, в зависимости от плотности линейных дефектов изменяется от 160 мОм до 115 мОм, соответственно. Разработанные технологии в дальнейшем могут использоваться для изготовления пленочных СВЧ-фильтров в мобильной, сотовой и спутниковой связи, а также для создания длинномерных, так называемых покрытых проводников с высокой токонесущей способностью в сильных магнитных полях для электротехнических применений и в сетях электропередач."
+	},
+	"keywords": {
+		"ua": "лазерне осадження, магнетронне розпорошення, YBCO-плівки, бар’єрні шари, структура, густина критичного струму, поверхневий опір",
+		"en": "laser deposition, magnetron deposition, YBCO films, barrier layers, structure, critical current density, surface resistance",
+		"ru": "лазерное осаждение, магнетронное распыление, YBCO-плёнки, барьерные слои, структура, плотность критического тока, поверхностное сопротивление"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. С. Фліс", "en": "V. S. Flis", "ru": "В. С. Флис"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Пан", "en": "V. M. Pan", "ru": "В. М. Пан"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. А. Комашко", "en": "V. A. Komashko", "ru": "В. А. Комашко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. О. Москалюк", "en": "V. O. Moskalyuk", "ru": "В. О. Москалюк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "І. І. Пешко", "en": "I. I. Peshko", "ru": "И. И. Пешко"},
+			"OID": [25]
+		}
+	],
+	"references": {
+		"count": 37,
+				"list":  [
+			{
+				"doi": "",
+				"or":  "С. И. Анисимов, Я. А. Имас, Г. С. Романов, Ю. В. Ходыко, Действие излучения большой мощности на металлы (Ред. А. М. Бонч-Бруевич, М. А. Ельяшевич) (Москва: Наука: 1970), с. 272.",
+				"tr":  "S. I. Anisimov, Ya. A. Imas, G. S. Romanov, Yu. V. Khodyko, Deystvie izlucheniya bol'shoy moshchnosti na metally (Red. A. M. Bonch-Bruevich, M. A. El'yashevich) (Moskva: Nauka: 1970), s. 272."
+			},
+			{
+				"doi": "10.1063/1.1708034",
+				"or":  "D. W. Gregg and S. J. Thomas, J. Appl. Phys., 37, No. 12: 4313 (1966).",
+				"tr":  "D. W. Gregg and S. J. Thomas, J. Appl. Phys., 37, No. 12: 4313 (1966)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Langer, G. Tonon, F. Floux, and A. Ducauze, IEEE J., QE-2, No. 9: 499 (1966).",
+				"tr":  "P. Langer, G. Tonon, F. Floux, and A. Ducauze, IEEE J., QE-2, No. 9: 499 (1966)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.41.8843",
+				"or":  "R. K. Singh and J. Narayan, Phys. Rev. B, 41, No. 13: 8843 (1990).",
+				"tr":  "R. K. Singh and J. Narayan, Phys. Rev. B, 41, No. 13: 8843 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Bernal, J. F. Ready, and L. P. Levine, Phys. Letts., 19, No. 8: 645 (1966).",
+				"tr":  "E. Bernal, J. F. Ready, and L. P. Levine, Phys. Letts., 19, No. 8: 645 (1966)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.23.2923",
+				"or":  "R. F. Wood and G. E. Giles, Phys. Rev. B, 23, No. 6: 2923 (1981).",
+				"tr":  "R. F. Wood and G. E. Giles, Phys. Rev. B, 23, No. 6: 2923 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "A. E. Bell, RCA Review, 40: 295 (1979).",
+				"tr":  "A. E. Bell, RCA Review, 40: 295 (1979)."
+			},
+			{
+				"doi": "10.1063/1.99673",
+				"or":  "T. Venkateson, X. D. Wu, A. Inam, and J. B. Wachtman, Appl. Phys. Lett., 52, No. 14: 1193 (1988).",
+				"tr":  "T. Venkateson, X. D. Wu, A. Inam, and J. B. Wachtman, Appl. Phys. Lett., 52, No. 14: 1193 (1988)."
+			},
+			{
+				"doi": "10.1063/1.101553",
+				"or":  "J. P. Zheng, Z. Q. Huang, D. T. Shaw, and H. S. Kwok, Appl. Phys. Lett., 54, No. 3: 280 (1989).",
+				"tr":  "J. P. Zheng, Z. Q. Huang, D. T. Shaw, and H. S. Kwok, Appl. Phys. Lett., 54, No. 3: 280 (1989)."
+			},
+			{
+				"doi": "10.1063/1.113959",
+				"or":  "Z. Trajanovic, L. Senapati, R. P. Sharma, and T. Venkatesan, Appl. Phys. Lett., 66, No. 18: 2418 (1995).",
+				"tr":  "Z. Trajanovic, L. Senapati, R. P. Sharma, and T. Venkatesan, Appl. Phys. Lett., 66, No. 18: 2418 (1995)."
+			},
+			{
+				"doi": "10.1063/1.107951",
+				"or":  "B. Holzapfel, B. Roas, L. Schultz, P. Bauer et al., Appl. Phys. Lett., 61, No. 26: 3178 (1992).",
+				"tr":  "B. Holzapfel, B. Roas, L. Schultz, P. Bauer et al., Appl. Phys. Lett., 61, No. 26: 3178 (1992)."
+			},
+			{
+				"doi": "10.1063/1.113264",
+				"or":  "E. V. Peshen, A. V. Varlashkin, S. I. Krasnosvobodtsev, B. Brunner et al., Appl. Phys. Lett., 66, No. 17: 2292 (1995).",
+				"tr":  "E. V. Peshen, A. V. Varlashkin, S. I. Krasnosvobodtsev, B. Brunner et al., Appl. Phys. Lett., 66, No. 17: 2292 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "M. D. Strikovsky, E. B. Klyuenkov, S. V. Gaponov, J. Schubert et al., Appl. Phys. Lett., 63, No. 8: 1146 (1993).",
+				"tr":  "M. D. Strikovsky, E. B. Klyuenkov, S. V. Gaponov, J. Schubert et al., Appl. Phys. Lett., 63, No. 8: 1146 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "Z. Trajanovic, S. Choopun, R.P. Sharma, and T. Venkatesan, Appl. Phys. Lett., 70, No. 25: 3461 (1997).",
+				"tr":  "Z. Trajanovic, S. Choopun, R.P. Sharma, and T. Venkatesan, Appl. Phys. Lett., 70, No. 25: 3461 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "F. Müller, K. Mann, P. Simon et al., Proc. SPIE, OEL’93: 1858 (1993).",
+				"tr":  "F. Müller, K. Mann, P. Simon et al., Proc. SPIE, OEL'93: 1858 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "H. S. Kwok, Thin Solid Films, 218: 177 (1992).",
+				"tr":  "H. S. Kwok, Thin Solid Films, 218: 177 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Lorenz, H. Hochmuth, D. Natusch et al., IEEE Trans. on Appl. Supercond., 7, No. 2: 1240 (1997).",
+				"tr":  "M. Lorenz, H. Hochmuth, D. Natusch et al., IEEE Trans. on Appl. Supercond., 7, No. 2: 1240 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "H. S. Kwok, P. Mattocks, L. Shi, X. W. Wang et al., Appl. Phys. Lett., 52, No. 21: 1825 (1988).",
+				"tr":  "H. S. Kwok, P. Mattocks, L. Shi, X. W. Wang et al., Appl. Phys. Lett., 52, No. 21: 1825 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Lynds, B. R. Weinberger, G. G. Peterson, and H. A. Krasinski, Appl. Phys. Lett., 52, No. 4: 320 (1988).",
+				"tr":  "L. Lynds, B. R. Weinberger, G. G. Peterson, and H. A. Krasinski, Appl. Phys. Lett., 52, No. 4: 320 (1988)."
+			},
+			{
+				"doi": "10.1063/1.100477",
+				"or":  "Q. Y. Ying, D. T. Shaw, and H. S. Kwok, Appl. Phys. Lett., 53, No. 18: 1762 (1988).",
+				"tr":  "Q. Y. Ying, D. T. Shaw, and H. S. Kwok, Appl. Phys. Lett., 53, No. 18: 1762 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Piquero, P. M. Mejias, and R. Martinez-Herrero, Opt. Commun., 107: 179 (1994).",
+				"tr":  "G. Piquero, P. M. Mejias, and R. Martinez-Herrero, Opt. Commun., 107: 179 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "BK Periodic library: CD CHIP, No. 12 (1998).",
+				"tr":  "BK Periodic library: CD CHIP, No. 12 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. И. Коротеев, И. Л. Шумай, Физика мощного лазерного излучения (Москва: Наука: 1991), с. 310.",
+				"tr":  "N. I. Koroteev, I. L. Shumay, Fizika moshchnogo lazernogo izlucheniya (Moskva: Nauka: 1991), s. 310."
+			},
+			{
+				"doi": "",
+				"or":  "E. G. Erichson, Laser Focus, No. 4: 16 (1970).",
+				"tr":  "E. G. Erichson, Laser Focus, No. 4: 16 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Каминский, Г. Р. Вердун, В. Коешнер, Ф. А. Кузнецов и др., Кв. электроника, 19, № 10: 941 (1992).",
+				"tr":  "A. A. Kaminskiy, G. R. Verdun, V. Koeshner, F. A. Kuznetsov i dr., Kv. elektronika, 19, No. 10: 941 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "M. W. Denhoff and J. P. McCaffrey, J. Appl. Phys., 70: 3986 (1991).",
+				"tr":  "M. W. Denhoff and J. P. McCaffrey, J. Appl. Phys., 70: 3986 (1991)."
+			},
+			{
+				"doi": "10.1063/1.104994",
+				"or":  "X. D. Wu, R. C. Dye, R. E. Münchausen, S. R. Foltyn et al., Appl. Phys. Lett., 58: 2165 (1991).",
+				"tr":  "X. D. Wu, R. C. Dye, R. E. Münchausen, S. R. Foltyn et al., Appl. Phys. Lett., 58: 2165 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Merchant, R. D. Jacowitz, K. Tibbs, R. C. Taber, and S. S. Laderman, Appl. Phys. Lett., 60: 763 (1992).",
+				"tr":  "P. Merchant, R. D. Jacowitz, K. Tibbs, R. C. Taber, and S. S. Laderman, Appl. Phys. Lett., 60: 763 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Wördenweber, J. Einfeld, R. Kutzner, A. G. Zaitsev et al., IEEE Trans. Appl. Supercond., 9: 2486 (1999).",
+				"tr":  "R. Wördenweber, J. Einfeld, R. Kutzner, A. G. Zaitsev et al., IEEE Trans. Appl. Supercond., 9: 2486 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "R. K. Hollmann, O. G. Vendik, A. G. Zaitsev, and B. T. Melekh, Supercond. Sci. Technol., 7: 609 (1994).",
+				"tr":  "R. K. Hollmann, O. G. Vendik, A. G. Zaitsev, and B. T. Melekh, Supercond. Sci. Technol., 7: 609 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "A. G. Zaitsev, R. Wördenweber, G. Ockenfuß, R. Kutoier et al., IEEE Trans. Appl. Supercond., 7: 1482 (1997).",
+				"tr":  "A. G. Zaitsev, R. Wördenweber, G. Ockenfuß, R. Kutoier et al., IEEE Trans. Appl. Supercond., 7: 1482 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "K. D. Develos, M. Kusunoki, and S. Ohshima, Jap. J. Appl. Phys., 37: 6161 (1998).",
+				"tr":  "K. D. Develos, M. Kusunoki, and S. Ohshima, Jap. J. Appl. Phys., 37: 6161 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "R.-J. Lin, L.-J. Chen, L.-J. Lin, Y.-C. Yu, W. Wang, and E. K. Lin, Jap. J. Appl. Phys., 35: 5805 (1996).",
+				"tr":  "R.-J. Lin, L.-J. Chen, L.-J. Lin, Y.-C. Yu, W. Wang, and E. K. Lin, Jap. J. Appl. Phys., 35: 5805 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "J. H. Lee, W. I. Yang, H. J. Kwon, V. A. Komashko, and S. Y. Lee, Supercond. Sci. Technol., 13: 989 (2000).",
+				"tr":  "J. H. Lee, W. I. Yang, H. J. Kwon, V. A. Komashko, and S. Y. Lee, Supercond. Sci. Technol., 13: 989 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Conder, J. Karpinski, E. Kaldis et al., Physica C., 196: 164 (1992).",
+				"tr":  "K. Conder, J. Karpinski, E. Kaldis et al., Physica C., 196: 164 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Pan, V. S. Flis, O. P. Karasevska, V. I. Matsui et al., J. Supercond. Inc. Novel Magn., 14: 109 (2001).",
+				"tr":  "V. M. Pan, V. S. Flis, O. P. Karasevska, V. I. Matsui et al., J. Supercond. Inc. Novel Magn., 14: 109 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Komashko, A. G. Popov, V. L. Svetchnikov, A.V. Pronin et al., Supercond. Sci. Technol., 12: 1 (1999).",
+				"tr":  "V. A. Komashko, A. G. Popov, V. L. Svetchnikov, A.V. Pronin et al., Supercond. Sci. Technol., 12: 1 (1999)."
+			}
+		]
+	}
+}

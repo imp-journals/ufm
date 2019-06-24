@@ -1,0 +1,223 @@
+{
+	"_id":    "UFM.12.02.241",
+	"year":   2011,
+	"volume": 12,
+	"issue":  2,
+	"pages":  [241,268],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["19.08.2010"],
+	"PACS":   "61.72.Ff, 61.72.Lk, 62.20.F-, 62.20.Qp, 81.30.Kf, 81.40.Lm, 83.50.Uv",
+	"title":   {
+		"ua": "Закономірності та механізми термомеханічного зміцнювання прокату з маловуглецевої криці",
+		"en": "Regularities and Mechanisms of Thermomechanical Hardening of Rolled Low-Carbon Steel",
+		"ru": "Закономерности и механизмы термомеханического упрочнения проката на малоуглеродистой стали"
+	},
+	"abstract": {
+		"ua": "Представлено результати досліджень фізичної природи термомеханічного зміцнення двотавра зі сталі 09Г2С. Встановлено кількісні закономірності формування структури, фазового складу, дефектної субструктури і механічних властивостей у різних перерізах двотавра за прискореного охолоджування за різними режимами. Методами просвітлювальної дифракційної електронної мікроскопії виявлено формування ґрадієнтних структурно-фазових станів, для яких характерною є закономірна зміна за перерізом типів і параметрів дислокаційної субструктури, середніх розмірів частинок цементиту та фраґментів $\\alpha$-фази нанорозмірного діяпазону. Встановлено, що основними причинами, відповідальними за підвищення міцности зміцненого шару, є субструктурні й деформаційні механізми, обумовлені формуванням мартенситу та бейніту. Внесок цих механізмів є реґульованою величиною, що істотно залежить від режиму обробки сталі.",
+		"en": "The results of investigations of physical nature of the 09G2S steel (0.1% C, 1% Mn, 2% Si) H-beam thermomechanical strengthening are presented. The quantitative regularities of formation of the structure, phase composition, defect substructure, and mechanical properties in different H-beam cross sections under accelerated cooling in different regimes are revealed. The gradient structure—phase states formation is characterized by the regular change of dislocation substructure types and parameters, average cementiteparticles sizes and nanosize-range $\\alpha$-phase fragments on cross section are revealed by methods of transmission electron-diffraction microscopy. As revealed, the substructure and deformation mechanisms depending on the martensite and bainite formation are the main causes responsible for the hardened layer strength increase. These mechanisms contribution is a regulated value, and it depends on the steel treatment regime essentially.",
+		"ru": "Представлены результаты исследований физической природы термомеханического упрочнения двутавра из стали 09Г2С. Установлены количественные закономерности формирования структуры, фазового состава, дефектной субструктуры и механических свойств в разных сечениях двутавра при ускоренном охлаждении в разных режимах. Методами просвечивающей электронной дифракционной микроскопии выявлено формирование градиентных структурно-фазовых состояний, характеризующихся закономерным изменением по сечению типов и параметров дислокационной субструктуры, средних размеров частиц цементита и фрагментов $\\alpha$-фазы наноразмерного диапазона. Установлено, что основными причинами, ответственными за повышение прочности упрочненного слоя, являются субструктурные и деформационные механизмы, обусловленные формированием мартенсита и бейнита. Вклад этих механизмов является регулируемой величиной и существенно зависит от режима обработки стали."
+	},
+	"keywords": {
+		"ua": "структурно-фазові стани, дислокаційна субструктура, механізми зміцнення",
+		"en": "structural and phase states, dislocation substructure, hardening mechanisms",
+		"ru": "структурно-фазовые состояния, дислокационная субструктура, механизмы упрочнения"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Є. Громов", "en": "V. E. Gromov", "ru": "В. Е. Громов"},
+			"OID": [407]
+		},
+		{
+			"AID": {"ua": "Ю. Ф. Іванов", "en": "Yu. F. Ivanov", "ru": "Ю. Ф. Иванов"},
+			"OID": [408]
+		},
+		{
+			"AID": {"ua": "О. Ю. Єфімов", "en": "O. Yu. Efimov", "ru": "О. Ю. Ефимов"},
+			"OID": [420]
+		},
+		{
+			"AID": {"ua": "А. Б. Юрьєв", "en": "A. B. Yur’ev", "ru": "А. Б. Юрьев"},
+			"OID": [420]
+		},
+		{
+			"AID": {"ua": "С. В. Коновалов", "en": "S. V. Konovalov", "ru": "С. В. Коновалов"},
+			"OID": [407]
+		}
+	],
+	"references": {
+		"count": 35,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "А. Б. Юрьев, Термомеханическое упрочнение строительной арматуры (Новосибирск: Наука: 2006).",
+				"tr":  "A. B. Yur'ev, Termomekhanicheskoe uprochnenie stroitel'noy armatury (Novosibirsk: Nauka: 2006)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Ю. Ефимов, Структурно-фазовые состояния и технология производства упрочненной стальной арматуры и чугунных валков (Новокузнецк: Новокузнецкий полиграфический комбинат: 2008).",
+				"tr":  "O. Yu. Efimov, Strukturno-fazovye sostoyaniya i tekhnologiya proizvodstva uprochnennoy stal'noy armatury i chugunnykh valkov (Novokuznetsk: Novokuznetskiy poligraficheskiy kombinat: 2008)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Ю. Ефимов, А. Б. Юрьев, В. Е. Громов и др., Изв. вузов. Черная металлургия, № 2: 54 (2007).",
+				"tr":  "O. Yu. Efimov, A. B. Yur'ev, V. E. Gromov et al., Izvestiya Visshikh Uchebnykh Zavedenii. Chernaya Metallurgiya [Izvestiya. Ferrous Metallurgy], No. 2: 54 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. М. Утевский, Дифракционная электронная микроскопия в металловедении (Москва: Металлургия: 1973).",
+				"tr":  "L. M. Utevskiy, Difraktsionnaya elektronnaya mikroskopiya v metallovedenii (Moskva: Metallurgiya: 1973)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Эндрюс, Д. Дайсон, С. Киоун, Электронограммы и их интерпретация (Москва: Мир: 1971).",
+				"tr":  "K. Endryus, D. Dayson, S. Kioun, Elektronogrammy i ikh interpretatsiya (Moskva: Mir: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Конева, Э. В. Козлов, Изв. вузов. Физика, № 8: 3 (1982).",
+				"tr":  "N. A. Koneva, E. V. Kozlov, Izv. vuzov. Fizika, No. 8: 3 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Конева, Д. В. Лычагин, С. П. Жуковский и др., ФММ, 60, вып. 1: 171 (1985).",
+				"tr":  "N. A. Koneva, D. V. Lychagin, S. P. Zhukovskiy et al., Fizika Metallov i Metalloved., 60, vyp. 1: 171 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Глаголев, Геометрические методы количественного анализа агрегатов под микроскопом (Львов: Госгеолитиздат: 1941).",
+				"tr":  "A. A. Glagolev, Geometricheskie metody kolichestvennogo analiza agregatov pod mikroskopom (L'vov: Gosgeolitizdat: 1941)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Хирш, А. Хови, Р. Николсон и др., Электронная микроскопия тонких кристаллов (Москва: Мир: 1968).",
+				"tr":  "P. Khirsh, A. Khovi, R. Nikolson et al., Elektronnaya mikroskopiya tonkikh kristallov (Moskva: Mir: 1968)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Салтыков, Стереометрическая металлография (Москва: Металлургия: 1970).",
+				"tr":  "S. A. Saltykov, Stereometricheskaya metallografiya (Moskva: Metallurgiya: 1970)."
+			},
+			{
+				"doi": "",
+				"or":  "К. С. Чернявский, Стереология в металловедении (Москва: Металлургия: 1977).",
+				"tr":  "K. S. Chernyavskiy, Stereologiya v metallovedenii (Moskva: Metallurgiya: 1977)."
+			},
+			{
+				"doi": "",
+				"or":  "М. И. Гольдштейн, В. М. Фарбер, Дисперсионное упрочнение стали (Москва: Металлургия: 1979).",
+				"tr":  "M. I. Gol'dshteyn, V. M. Farber, Dispersionnoe uprochnenie stali (Moskva: Metallurgiya: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Г. Белов, В. Я. Чинокалов, Л. М. Полторацкий и др., Проблемы черной металлургии и материаловедения, № 3: 62 (2009).",
+				"tr":  "E. G. Belov, V. Ya. Chinokalov, L. M. Poltoratskiy et al., Problemy chernoy metallurgii i materialovedeniya, No. 3: 62 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Костерев, О. Ю. Ефимов, Ю. Ф. Иванов и др., Изв. вузов. Черная металлургия, № 12: 43 (2010).",
+				"tr":  "V. B. Kosterev, O. Yu. Efimov, Yu. F. Ivanov et al., Izvestiya Visshikh Uchebnykh Zavedenii. Chernaya Metallurgiya [Izvestiya. Ferrous Metallurgy], No. 12: 43 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Костерев, В. Е. Громов, Ю. Ф. Иванов и др., Деформация и разрушение материалов, № 12: 23 (2010).",
+				"tr":  "V. B. Kosterev, V. E. Gromov, Yu. F. Ivanov et al., Deformatsiya i razrushenie materialov, No. 12: 23 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Костерев, В. Е. Громов, Ю. Ф. Иванов и др., Заготовительные производства в машиностроении, № 2: 47 (2011).",
+				"tr":  "V. B. Kosterev, V. E. Gromov, Yu. F. Ivanov et al., Zagotovitel'nye proizvodstva v mashinostroenii, No. 2: 47 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Счастливцев, Д. А. Мирзаев, И. Л. Яковлева, Структура термически обработанной стали (Москва: Металлургия: 1994).",
+				"tr":  "V. M. Schastlivtsev, D. A. Mirzaev, I. L. Yakovleva, Struktura termicheski obrabotannoy stali (Moskva: Metallurgiya: 1994)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ю. Калетин, В. М. Счастливцев, Н. Т. Карева и др., ФММ, 56, вып. 2: 366 (1983).",
+				"tr":  "A. Yu. Kaletin, V. M. Schastlivtsev, N. T. Kareva et al., Fizika Metallov i Metalloved., 56, vyp. 2: 366 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "М. И. Гольдштейн, Б. М. Фарбер, Дисперсионное упрочнение стали (Москва: Металлургия: 1979).",
+				"tr":  "M. I. Gol'dshteyn, B. M. Farber, Dispersionnoe uprochnenie stali (Moskva: Metallurgiya: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Б. Пикеринг, Физическое металловедение и обработка сталей (Москва: Металлургия: 1982).",
+				"tr":  "F. B. Pikering, Fizicheskoe metallovedenie i obrabotka staley (Moskva: Metallurgiya: 1982)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Е. В. Корнет, Э. В. Козлов и др., Закаленная конструкционная сталь: структура и механизмы упрочнения (Новокузнецк: СибГИУ: 2010).",
+				"tr":  "Yu. F. Ivanov, E. V. Kornet, E. V. Kozlov et al., Zakalennaya konstruktsionnaya stal': struktura i mekhanizmy uprochneniya (Novokuznetsk: SibGIU: 2010)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, С. А. Фирстов, Ю. В. Мильман, Физические основы прочности тугоплавких металлов (Киев: Наукова думка: 1975).",
+				"tr":  "V. I. Trefilov, S. A. Firstov, Yu. V. Mil'man, Fizicheskie osnovy prochnosti tugoplavkikh metallov (Kiev: Naukova dumka: 1975)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Мак Лин, Механические свойства металлов (Москва: Металлургия: 1965).",
+				"tr":  "Dzh. Mak Lin, Mekhanicheskie svoystva metallov (Moskva: Metallurgiya: 1965)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Ф. Эшби, О напряжении Орована. Физика прочности и пластичности (Москва: Металлургия: 1972).",
+				"tr":  "I. F. Eshbi, O napryazhenii Orovana. Fizika prochnosti i plastichnosti (Moskva: Metallurgiya: 1972)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Б. Хирш, Ф. Дж. Хэмпфри, Пластическая деформация двухфазных сплавов, содержащих малые недеформируемые частицы. Физика прочности и пластичности (Москва: Металлургия: 1972).",
+				"tr":  "P. B. Khirsh, F. Dzh. Khempfri, Plasticheskaya deformatsiya dvukhfaznykh splavov, soderzhashchikh malye nedeformiruemye chastitsy. Fizika prochnosti i plastichnosti (Moskva: Metallurgiya: 1972)."
+			},
+			{
+				"doi": "",
+				"or":  "A. J. E. Foreman and M. I. Maki, Phil. Mag., 14, No. 9: 911 (1966).",
+				"tr":  "A. J. E. Foreman and M. I. Maki, Phil. Mag., 14, No. 9: 911 (1966)."
+			},
+			{
+				"doi": "",
+				"or":  "Ж. Фридель, Дислокации (Москва: Мир: 1967).",
+				"tr":  "Zh. Fridel', Dislokatsii (Moskva: Mir: 1967)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Хаазен, Физическое металловедение (Москва: Мир: 1968).",
+				"tr":  "P. Khaazen, Fizicheskoe metallovedenie (Moskva: Mir: 1968)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Фляйшер, У. Хиббард, Структура и механические свойства металлов (Москва: Металлургия: 1967).",
+				"tr":  "R. Flyaysher, U. Khibbard, Struktura i mekhanicheskie svoystva metallov (Moskva: Metallurgiya: 1967)."
+			},
+			{
+				"doi": "",
+				"or":  "P. G. Winchell and M. Cohen, Solid Solution Strengthening of Martensite by Carbon. Electron Microscopy and Strength of Crystals (New York–London: 1963).",
+				"tr":  "P. G. Winchell and M. Cohen, Solid Solution Strengthening of Martensite by Carbon. Electron Microscopy and Strength of Crystals (New York–London: 1963)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Л. Бернштейн, В. А. Займовский, Л. М. Капуткина, Термомеханическая обработка стали (Москва: Металлургия: 1983).",
+				"tr":  "M. L. Bernshteyn, V. A. Zaymovskiy, L. M. Kaputkina, Termomekhanicheskaya obrabotka stali (Moskva: Metallurgiya: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Тушинский, Теория и технология упрочнения металлических сплавов (Новосибирск: Наука. Сиб. отд.: 1990).",
+				"tr":  "L. I. Tushinskiy, Teoriya i tekhnologiya uprochneniya metallicheskikh splavov (Novosibirsk: Nauka. Sib. otd.: 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, Л. М. Утевский, Р. И. Энтин, Превращения в железе и стали (Москва: Наука: 1977).",
+				"tr":  "G. V. Kurdyumov, L. M. Utevskiy, R. I. Entin, Prevrashcheniya v zheleze i stali (Moskva: Nauka: 1977)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Петров, Дефекты и бездиффузионное превращение в стали (Киев: Наукова думка: 1978).",
+				"tr":  "Yu. N. Petrov, Defekty i bezdiffuzionnoe prevrashchenie v stali (Kiev: Naukova dumka: 1978)."
+			}
+		]
+	}
+}

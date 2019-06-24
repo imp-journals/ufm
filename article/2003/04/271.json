@@ -1,0 +1,187 @@
+{
+	"_id":    "UFM.04.04.271",
+	"year":   2003,
+	"volume": 4,
+	"issue":  4,
+	"pages":  [271,302],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["15.10.2003"],
+	"PACS":   "61.46.+w, 62.20.Qp, 62.25.+g, 68.37.-d, 81.07.-b, 81.16.Rf, 81.40.Pq",
+	"title":   {
+		"ua": "Вплив активних елементів робочого середовища та зовнішніх впливів на фізичну природу і механізм формування наноструктурних зносостійких матеріялів у зоні контакту металів за тертя",
+		"en": "Influence of Active Elements of a Operated Medium and External Actions on the Physical Nature and Mechanism of Formation of Nanostructured Wear-Resistant Materials in Zone of Contact of Metals at Friction",
+		"ru": "Влияние активных элементов рабочей среды и внешних воздействий на физическую природу и механизм формирования наноструктурных износостойких материалов в зоне контакта металлов при трении"
+	},
+	"abstract": {
+		"ua": "Методами локального рентгеноспектрального аналізу, проникаючої електронної та оптичної мікроскопії, рентгенівської, фотоелектронної й оже-електронної спектроскопії, динамічного проникнення індентора досліджено наноструктурні матеріали, які утворюються при структурно-фазових перетвореннях у поверхневих шарах металів при терті в середовищах з активними хімічними елементами та додатковим зовнішнім впливом імпульсами струму. Показано, що наноструктурні шари металу з високими фізико-механічними характеристиками та стійкістю до термічних впливів, які знижують коефіцієнт тертя та ступень зносу металевих систем, формуються на поверхні тертя лише при певному співвідношенні хімічних елементів вихідних сплавів та додаткових легуючих елементів. їхнім джерелом можуть бути як вихідні сплави, так і робоче середовище, активні хімічні елементи якого здатні інтенсивно насичувати деформовані тертям мікрооб’єми матеріалу поверхні і суттєво впливати на їхні властивості та поведінку. Установлено, що насичення деформованого при терті металу активними хімічними елементами мастильних рідин знижує енергію переходу контактуючих мікрооб’ємів матеріалу у квазірідкий структурно-нестійкий стан, при якому формуються наноструктурні поверхневі шари. Показано, що завдяки імпульсам струму можливо досягти критичну потужність зовнішнього впливу, при якій має місце якісна зміна стану металу, прилеглого до плям контакту, та утворення наноструктурного шару тертя, електронна та атомна структура якого дозволяють досягти стану аномально низького коефіцієнта тертя.",
+		"en": "Nanostructural materials, which are formed in structural phase transformations within the metal surface layers due to the friction in active mediums with active chemical elements and additional external influence of current pulses, are investigated by methods of local x-ray analysis, transmission electron and optical microscopies, x-ray, photoelectron (XPS), and Auger electron spectroscopies, mechanical testing by dynamical penetration of indenter. As shown, nanostructural metal layers with high physicomechanical characteristics and heat fastness, which decrease the friction coefficient and rate of wear of metal systems, are formed on the friction surfaces only at special ratio of initial-alloys’ chemical elements and additional alloying elements. Both initial alloys and operated environment with active chemical elements, which are able to intensively saturate the surface material microvolumes deformed by friction and sufficiently influence to their behaviour, could be their source. As revealed, the saturation of a metal deformed by friction with active chemical lubricant-liquid elements decreases the energy of transition of contacting material microvolumes into quasi-liquid structure-unstable state, in which nanostructural surface layers are formed. As shown, applying current pulses provides the possibility to reach the critical power of external influences, at which a qualitative state change of metal bonded to the contact spots occurs with forming of nanostructural friction layer having electronic and atomic structures, which allow reaching an abnormal low friction coefficient.",
+		"ru": "Методами локального рентгеноспектрального анализа, просвечивающей электронной и оптической микроскопии, рентгеновской, фотоэлектронной и оже-электронной спектроскопии, динамического внедрения индентора исследованы наноструктурные материалы, образующиеся в результате структурно-фазовых превращений в поверхностных слоях металлов при трении в активных средах и дополнительных внешних воздействий импульсами тока. Показано, что наноструктурные материалы с высокими физико-механическими характеристиками и устойчивостью к термическим воздействиям, снижающие коэффициент трения и степень износа металлических систем, формируются на поверхностях трения только при определенном соотношении химических элементов исходных сплавов и дополнительных легирующих элементов. Их источником могут быть как исходные сплавы, так и рабочая среда, активные химические элементы которой способны интенсивно насыщать деформированные трением микрообъемы материала поверхности и существенно влиять на их свойства и поведение. Установлено, что насыщение деформированного при трении металла активными химическими элементами смазочных жидкостей снижает энергию перехода контактирующих микрообъемов материала в квазижидкое структурно-неустойчивое состояние, при котором формируются наноструктурные поверхностные слои. Показано, что благодаря импульсам тока можно достичь значения критической мощности внешних воздействий, при котором происходит качественное изменение состояния металла, прилегающего к пятнам контакта, и образование наноструктурного слоя трения, электронная и атомная структура которого обеспечивают состояние аномально низкого коэффициента трения."
+	},
+	"keywords": {
+		"ua": "наноструктура, тертя, мастильно-охолодні рідини, електронна структура, мікроструктура, фазовий стан",
+		"en": "nanostructure, friction, lubrication-cooling liquids, electronic structure, microstructure, phase state",
+		"ru": "наноструктура, трение, смазочно-охлаждающие жидкости, электронная структура, микроструктура, фазовый состав"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Горський", "en": "V. V. Gors’ky", "ru": "В. В. Горский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. М. Грипачевський", "en": "O. M. Grypachevs’ky", "ru": "А. Н. Грипачевский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. В. Тихонович", "en": "V. V. Tykhonovych", "ru": "В. В. Тихонович"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Уваров", "en": "V. M. Uvarov", "ru": "В. Н. Уваров"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  2,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.12.02.209",
+				"cit": "V. V. Tykhonovych and V. M. Uvarov, <a href=\"https://doi.org/10.15407/ufm.12.02.209\">Usp. Fiz. Met. <b>12</b>, 209 (2011)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.07.03.173",
+				"cit": "Yu. M. Petrov, M. O. Vasiliev, L. M. Trofimova and V. S. Filatova, <a href=\"https://doi.org/10.15407/ufm.07.03.173\">Usp. Fiz. Met. <b>7</b>, 173 (2006)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 25,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. В. Горский, Е. К. Иванова, Распределение температур в контактной зоне сталей при трении (Киев: 1984) (Препр./АН УССР. Ин-т металлофизики, 12.84).",
+				"tr":  "V. V. Gorskiy, E. K. Ivanova, Raspredelenie temperatur v kontaktnoy zone staley pri trenii (Kiev: 1984) (Prepr./AN USSR. In-t metallofiziki, 12.84)."
+			},
+			{
+				"doi": "10.1016/0001-6160(78)90021-4",
+				"or":  "V. V. Nemoshkalenko, V. V. Gorskii, E. K. Ivanova et al., Acta Metal., 26: 705 (1978).",
+				"tr":  "V. V. Nemoshkalenko, V. V. Gorskii, E. K. Ivanova et al., Acta Metal., 26: 705 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Горский, Е. К. Иванова, А. Б. Гончаренко, Ю. Н. Иващенко, ФММ, 53, вып. 3: 554 (1982).",
+				"tr":  "V. V. Gorskiy, E. K. Ivanova, A. B. Goncharenko, Yu. N. Ivashchenko, FMM, 53, No. 3: 554 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Горский, В. В. Тихонович, Металлофизика, 9, № 1: 46 (1987).",
+				"tr":  "V. V. Gorskiy, V. V. Tikhonovich, Metallofizika, 9, No. 1: 46 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Горский, А. Н. Чубенко, И. А. Якубцов, Металлофизика, 9, № 2: 116 (1987).",
+				"tr":  "V. V. Gorskiy, A. N. Chubenko, I. A. Yakubtsov, Metallofizika, 9, No. 2: 116 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Немошкаленко, В. В. Горский, В. В. Тихонович, И. А. Якубцов, Металлофизика, 6, № 6: 93 (1984).",
+				"tr":  "V. V. Nemoshkalenko, V. V. Gorskiy, V. V. Tikhonovich, I. A. Yakubtsov, Metallofizika, 6, No. 6: 93 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Горский, А. Н. Грипачевский, В. В. Немошкаленко и др., Металлофизика, 9, № 5: 73 (1987).",
+				"tr":  "V. V. Gorskiy, A. N. Gripachevskiy, V. V. Nemoshkalenko et al., Metallofizika, 9, No. 5: 73 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Горский, Физическая природа и свойства легированных кислородом сплавов Ме–Ме–О в зоне контакта металлов при трении (Дис. ... д-ра физ.-мат. наук) (Киев: ИМФ АН УССР: 1989). ДСП.",
+				"tr":  "V. V. Gorskiy, Fizicheskaya priroda i svoystva legirovannykh kislorodom splavov Me–Me–O v zone kontakta metallov pri trenii (Dis. ... d-ra fiz.-mat. nauk) (Kiev: IMF AN USSR: 1989). DSP."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00271-F",
+				"or":  "V. V. Gorsky, A. H. Gripachevsky, V. V. Nemoshkalenko et al., Nano Struc. Mater., 5, No. 6 (1995).",
+				"tr":  "V. V. Gorsky, A. H. Gripachevsky, V. V. Nemoshkalenko et al., Nano Struc. Mater., 5, No. 6 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Немошкаленко, А. Н. Чубенко, И. В. Журавлев, Металлофизика, 15, № 1: 88 (1993).",
+				"tr":  "V. V. Nemoshkalenko, A. N. Chubenko, I. V. Zhuravlev, Metallofizika, 15, No. 1: 88 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Немошкаленко, А. Н. Чубенко, И. В. Журавлев, Металлофизика, 15, № 2: 57 (1993).",
+				"tr":  "V. V. Nemoshkalenko, A. N. Chubenko, I. V. Zhuravlev, Metallofizika, 15, No. 2: 57 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Немошкаленко, Ю. Ф. Швадский, И. В. Журавлев, Металлофизика, 16, № 1: 23 (1994).",
+				"tr":  "V. V. Nemoshkalenko, Yu. F. Shvadskiy, I. V. Zhuravlev, Metallofizika, 16, No. 1: 23 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Г. Алексеев, А. В. Щеглова, Трение и износ, 4, № 2: 189 (1983).",
+				"tr":  "P. G. Alekseev, A. V. Shcheglova, Trenie i iznos, 4, No. 2: 189 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Д. Щукин, Е. А. Амелина, Л. А. Кочанова, В. И. Савенко, Трение и износ, 11, № 2: 247 (1990).",
+				"tr":  "E. D. Shchukin, E. A. Amelina, L. A. Kochanova, V. I. Savenko, Trenie i iznos, 11, No. 2: 247 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. С. Цикунов, В. А. Батырев, А. Н. Грипачевский и др., Пакет программ для обработки результатов количественного рентгеноспектрального микроанализа методом ZAF на мини-ЭВМ (Киев: 1981) (Препр./АН УССР. Ин-т металлофизики, 81.16).",
+				"tr":  "N. S. Tsikunov, V. A. Batyrev, A. N. Gripachevskiy et al., Paket programm dlya obrabotki rezul'tatov kolichestvennogo rentgenospektral'nogo mikroanaliza metodom ZAF na mini-EVM (Kiev: 1981) (Prepr./AN USSR. In-t metallofiziki, 81.16)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Булычев, В. П. Алехин, А. П. Терновский, Физическая и химическая обработка материалов, № 2: 58 (1976).",
+				"tr":  "S. I. Bulychev, V. P. Alekhin, A. P. Ternovskiy, Fizicheskaya i khimicheskaya obrabotka materialov, No. 2: 58 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Х. Шоршоров, С. И. Булычев, В. П. Алехин, Методические рекомендации по исследованию физико-механических свойств материалов непрерывным вдавливанием наконечника (Москва: ИМет АН СССР: 1980).",
+				"tr":  "M. Kh. Shorshorov, S. I. Bulychev, V. P. Alekhin, Metodicheskie rekomendatsii po issledovaniyu fiziko-mekhanicheskikh svoystv materialov nepreryvnym vdavlivaniem nakonechnika (Moskva: IMet AN SSSR: 1980)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Галанов, О. Н. Григорьев, Ю. В. Мильман, И. П. Рагозин, Проблемы прочности, № 11: 93 (1983).",
+				"tr":  "B. A. Galanov, O. N. Grigor'ev, Yu. V. Mil'man, I. P. Ragozin, Problemy prochnosti, No. 11: 93 (1983)."
+			},
+			{
+				"doi": "10.1016/0167-5729(82)90003-6",
+				"or":  "К. Wandelt, Surface Science Reports, 2, No. 1: 120 (1982).",
+				"tr":  "K. Wandelt, Surface Science Reports, 2, No. 1: 120 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Нефедов, Рентгеноэлектронная спектроскопия химических соединений: Справочник (Москва: Химия: 1984).",
+				"tr":  "V. I. Nefedov, Rentgenoelektronnaya spektroskopiya khimicheskikh soedineniy: Spravochnik (Moskva: Khimiya: 1984)."
+			},
+			{
+				"doi": "",
+				"or":  "X-Ray Powder Data File (Philadelphia: ASTM: 1960).",
+				"tr":  "X-Ray Powder Data File (Philadelphia: ASTM: 1960)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Эндрюс, Д. Дайсон, С. Кноун, Электронограммы и их интерпретация (Москва: Мир: 1971).",
+				"tr":  "K. Endryus, D. Dayson, S. Knoun, Elektronogrammy i ikh interpretatsiya (Moskva: Mir: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Горелик, Л. Н. Расторгуев, Ю. А. Скаков, Рентгенографический и электроннооптический анализ (Москва: Металлургия: 1970).",
+				"tr":  "S. S. Gorelik, L. N. Rastorguev, Yu. A. Skakov, Rentgenograficheskiy i elektronnoopticheskiy analiz (Moskva: Metallurgiya: 1970)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Шанк, Структуры двойных сплавов (Москва: Металлургия: 1973).",
+				"tr":  "F. Shank, Struktury dvoynykh splavov (Moskva: Metallurgiya: 1973)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Немошкаленко и др., Рентгеновские эмиссионные спектры сульфидов металлов первого большого периода (Киев: 1974) (Препр./АН УССР. Ин-т металлофизики, 74.8).",
+				"tr":  "V. V. Nemoshkalenko et al., Rentgenovskie emissionnye spektry sul'fidov metallov pervogo bol'shogo perioda (Kiev: 1974) (Prepr./AN USSR. In-t metallofiziki, 74.8)."
+			}
+		]
+	}
+}

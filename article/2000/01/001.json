@@ -1,0 +1,36 @@
+{
+	"_id":    "UFM.01.01.001",
+	"year":   2000,
+	"volume": 1,
+	"issue":  1,
+	"pages":  [1,1],
+	"type":   2,
+	"lang":   "ru",
+	"date":   [""],
+	"PACS":   "",
+	"title":   {
+		"ua": "До авторів та читачів журналу «Успехи физики металлов»",
+		"en": "For authors and readers of the journal 'Uspehi Fiziki Metallov'",
+		"ru": "К авторам и читателям журнала «Успехи физики металлов»"
+	},
+	"abstract": {
+		"ua": "",
+		"en": "",
+		"ru": ""
+	},
+	"keywords": {
+		"ua": "",
+		"en": "",
+		"ru": ""
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Б. Є. Патон", "en": "B. E. Paton", "ru": "Б. Е. Патон"},
+			"OID": []
+		}
+	],
+	"references": {
+		"count": 0,
+		"list":  []
+	}
+}

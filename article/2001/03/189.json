@@ -1,0 +1,484 @@
+{
+	"_id":    "UFM.02.03.189",
+	"year":   2001,
+	"volume": 2,
+	"issue":  3,
+	"pages":  [189,263],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["30.11.2001"],
+	"PACS":   "05.45.Df, 05.70.Ln, 61.72.Yx, 64.60.Ak, 83.20.Hn, 83.50.-v",
+	"title":   {
+		"ua": "Синергетика пластичної деформації",
+		"en": "Synergetics of Plastic Deformation",
+		"ru": "Синергетика пластической деформации"
+	},
+	"abstract": {
+		"ua": "Досліджено процес розвинутої пластичної деформації, при якому густина дефектів настільки велика, що стають істотними колективні ефекти. На основі поняття про перебудову потенційного рельєфу викладено польову теорію надпластичного стану типу смуги Людерса. Показано, що при напругах, які перевищують критичну границю, дислокаційно-вакансійний ансамбль переходить до автокаталітичного режиму розмноження. Досліджено процес взаємних перетворень дислокацій і орієнтаційних меж, при якому пластична деформація може виявляти періодичний характер. Розглянуто умови появи хвиль пластичної деформації. В межах фрактальних уявлень викладено картину утворення й еволюції ієрархічних дефектних структур, що виникають в процесі повзучості твердого тіла. Проведено узагальнення на довільний режим деформування.",
+		"en": "The process of the developed plastic deformation is studied when defects density is so high that collective effects play key role. On the basis of conception of rearrangable potential relief, the field theory of the superplastic-state type of the Lüders band is stated. At stress more than a critical threshold, the dislocation-vacancy ensemble is shown to pass to an autocatalytic regime of defects’ reproduction. For ensemble of dislocations and orientation boundaries, the process of mutual transformations is treated when plastic deformation may be periodical in nature. The conditions of appearance of the plastic-deformation waves are studied. Within the framework of the fractal concept, the picture of nucleation and evolution of hierarchical defect structures is stated for the creep of solids. A generalization to arbitrary regime of deformation is made.",
+		"ru": "Исследован процесс развитой пластической деформации, при котором плотность дефектов настолько велика, что становятся существенными коллективные эффекты. На основе понятия о перестраиваемом потенциальном рельефе изложена полевая теория сверхпластического состояния типа полосы Людерса. Показано, что при напряжениях, превосходящих критический предел, дислокационно-вакансионный ансамбль переходит в автокаталитический режим размножения. Исследован процесс взаимных превращений дислокаций и ориентационных границ, при котором пластическая деформация может проявлять периодический характер. Рассмотрены условия появления волн пластической деформации. В рамках фрактальных представлений изложена картина образования и эволюции иерархических дефектных структур, возникающих в процессе ползучести твердого тела. Проведено обобщение на произвольный режим деформирования."
+	},
+	"keywords": {
+		"ua": "деформація, напруження, дефект, система Лоренца, фрактал",
+		"en": "deformation, stress, defect, Lorentz system, fractal",
+		"ru": "деформация, напряжения, дефект, система Лоренца, фрактал"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Олємськой", "en": "O. I. Olemskoi", "ru": "А. И. Олемской"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "А. В. Хоменко", "en": "A. V. Khomenko", "ru": "А. В. Хоменко"},
+			"OID": [208]
+		}
+	],
+	"cited_by": {
+		"count":  2,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.03.03.237",
+				"cit": "L. B. Zuev, V. I. Danilov and B. S. Semukhin, <a href=\"https://doi.org/10.15407/ufm.03.03.237\">Usp. Fiz. Met. <b>3</b>, 237 (2002)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.06.01.001",
+				"cit": "D. O. Kharchenko, <a href=\"https://doi.org/10.15407/ufm.06.01.001\">Usp. Fiz. Met. <b>6</b>, 1 (2005)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 86,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Р. Хоникомб, Пластическая деформация металлов (Москва: Мир: 1972).",
+				"tr":  "R. Khonikomb, Plasticheskaya deformatsiya metallov (Moskva: Mir: 1972)."
+			},
+			{
+				"doi": "",
+				"or":  "Ж. П. Пуарье, Высокотемпературная пластичность кристаллических тел (Москва: Металлургия: 1982).",
+				"tr":  "Zh. P. Puar'e, Vysokotemperaturnaya plastichnost' kristallicheskikh tel (Moskva: Metallurgiya: 1982)."
+			},
+			{
+				"doi": "",
+				"or":  "Ван Бюрен, Дефекты в кристаллах (Москва: ИЛ: 1962).",
+				"tr":  "Van Byuren, Defekty v kristallakh (Moskva: IL: 1962)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Дамаск, Дж. Динс, Точечные дефекты в металлах (Москва: Мир: 1966).",
+				"tr":  "A. Damask, Dzh. Dins, Tochechnye defekty v metallakh (Moskva: Mir: 1966)."
+			},
+			{
+				"doi": "",
+				"or":  "Ж. Фридель, Дислокации (Москва: Мир: 1967).",
+				"tr":  "Zh. Fridel', Dislokatsii (Moskva: Mir: 1967)."
+			},
+			{
+				"doi": "",
+				"or":  "Физическое металловедение, выпуск 3: Дефекты кристаллического строения. Механические свойства металлов и сплавов (Под ред. Р. Кана) (Москва: Мир: 1968).",
+				"tr":  "Fizicheskoe metallovedenie, vypusk 3: Defekty kristallicheskogo stroeniya. Mekhanicheskie svoistva metallov i splavov (Pod red. R. Kana) (Moskva: Mir: 1968)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. Д. Вишняков, Дефекты упаковки в кристаллической структуре (Москва: Металлургия: 1970).",
+				"tr":  "Ya. D. Vishnyakov, Defekty upakovki v kristallicheskoi strukture (Moskva: Metallurgiya: 1970)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Косевич, Основы механики кристаллической решетки (Москва: Наука: 1972).",
+				"tr":  "A. M. Kosevich, Osnovy mekhaniki kristallicheskoi reshetki (Moskva: Nauka: 1972)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Хирт, И. Лоте, Теория дислокаций (Москва: Атомиздат: 1972).",
+				"tr":  "Dzh. Khirt, I. Lote, Teoriya dislokatsii (Moskva: Atomizdat: 1972)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. И. Смирнов, Дислокационная структура и упрочнение кристаллов (Ленинград: Наука: 1981).",
+				"tr":  "B. I. Smirnov, Dislokatsionnaya struktura i uprochnenie kristallov (Leningrad: Nauka: 1981)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Владимиров, А. Е. Романов, Дисклинации в кристаллах (Ленинград: Наука: 1986).",
+				"tr":  "V. I. Vladimirov, A. E. Romanov, Disklinatsii v kristallakh (Leningrad: Nauka: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Де Вит, Континуальная теория дисклинаций (Москва: Мир: 1977).",
+				"tr":  "R. De Vit, Kontinual'naya teoriya disklinatsii (Moskva: Mir: 1977)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Орлов, В. Н. Перевезенцев, В. В. Рыбин, Границы зерен в металлах (Москва: Металлургия: 1980).",
+				"tr":  "A. N. Orlov, V. N. Perevezentsev, V. V. Rybin, Granitsy zeren v metallakh (Moskva: Metallurgiya: 1980)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Kadic and D. G. B. Edelen, A Gauge Theory of Dislocatons and Disclinations, in: Lecture Notes in Physics (Berlin, Heidelberg, New York: Springer–Verlag: 1983), vol. 174.",
+				"tr":  "A. Kadic and D. G. B. Edelen, A Gauge Theory of Dislocatons and Disclinations, in: Lecture Notes in Physics (Berlin, Heidelberg, New York: Springer–Verlag: 1983), vol. 174."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Рыбин, Большие пластические деформации и разрушение металлов (Москва: Металлургия: 1985).",
+				"tr":  "V. V. Rybin, Bol'shie plasticheskie deformatsii i razrushenie metallov (Moskva: Metallurgiya: 1985)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Панин, В. А. Лихачев, Ю. В. Гриняев, Структурные уровни деформации твердых тел (Новосибирск: Наука: 1985).",
+				"tr":  "V. E. Panin, V. A. Likhachev, Yu. V. Grinyaev, Strukturnye urovni deformatsii tverdykh tel (Novosibirsk: Nauka: 1985)."
+			},
+			{
+				"doi": "",
+				"or":  "H. E. Stanley, Introduction to Phase Transitions and Critical Phenomena (Oxford: Clarendon Press: 1971).",
+				"tr":  "H. E. Stanley, Introduction to Phase Transitions and Critical Phenomena (Oxford: Clarendon Press: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "L. D. Landau and E. M. Lifshitz, Statistical Physics (Oxford: Pergamon Press: 1980).",
+				"tr":  "L. D. Landau and E. M. Lifshitz, Statistical Physics (Oxford: Pergamon Press: 1980)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Гетзе, Фазовые переходы жидкость–стекло (Москва: Наука: 1991).",
+				"tr":  "V. Getze, Fazovye perekhody zhidkost'–steklo (Moskva: Nauka: 1991)."
+			},
+			{
+				"doi": "",
+				"or":  "A. D. Bruce and R. A. Cowley, Structural Phase Transitions (London: Taylor and Francis Ltd.: 1981).",
+				"tr":  "A. D. Bruce and R. A. Cowley, Structural Phase Transitions (London: Taylor and Francis Ltd.: 1981)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Кривоглаз, Диффузное рассеяние рентгеновских лучей и нейтронов на флуктуационных неоднородностях в неидеальных кристаллах (Киев: Наукова думка: 1984).",
+				"tr":  "M. A. Krivoglaz, Diffuznoe rasseyanie rentgenovskikh luchei i neitronov na fluktuatsionnykh neodnorodnostyakh v neideal'nykh kristallakh (Kiev: Naukova dumka: 1984)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Forster, Hydrodynamic Fluctuations, Broken Symmetry, and Correlation Functions (Reading: Benjamin W. A. Inc.: 1975).",
+				"tr":  "D. Forster, Hydrodynamic Fluctuations, Broken Symmetry, and Correlation Functions (Reading: Benjamin W. A. Inc.: 1975)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Статистическая физика (Москва: Наука: 1978), ч. 2.",
+				"tr":  "L. D. Landau, E. M. Lifshits, Statisticheskaya fizika (Moskva: Nauka: 1978), ch. 2."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Н. Зубарев, Неравновесная статистическая термодинамика (Москва: Наука: 1971).",
+				"tr":  "D. N. Zubarev, Neravnovesnaya statisticheskaya termodinamika (Moskva: Nauka: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Барьяхтар, В. Н. Криворучко, Д. А. Яблонский, Функции Грина в теории магнетизма (Киев: Наукова думка: 1984).",
+				"tr":  "V. G. Bar'yakhtar, V. N. Krivoruchko, D. A. Yablonskii, Funktsii Grina v teorii magnetizma (Kiev: Naukova dumka: 1984)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Абрикосов, Л.П. Горьков, И.Е. Дзялошинский, Методы квантовой теории поля в статистической физике (Москва: ГИФМЛ: 1962).",
+				"tr":  "A. A. Abrikosov, L.P. Gor'kov, I.E. Dzyaloshinskii, Metody kvantovoi teorii polya v statisticheskoi fizike (Moskva: GIFML: 1962)."
+			},
+			{
+				"doi": "10.1080/00018738200101438",
+				"or":  "R. G. Palmer, Adv. Phys., 31: 669 (1982).",
+				"tr":  "R. G. Palmer, Adv. Phys., 31: 669 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Katsnelson and A. I. Olemskoi, Microscopic Theory of Inhomogeneous Structures (Moscow: Mir Publishers: 1990).",
+				"tr":  "A. A. Katsnelson and A. I. Olemskoi, Microscopic Theory of Inhomogeneous Structures (Moscow: Mir Publishers: 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "A. I. Olemskoi, Theory of Structure Transformations in Non-Equilibrium Condensed Matter (New York: NOVA Science: 1999).",
+				"tr":  "A. I. Olemskoi, Theory of Structure Transformations in Non-Equilibrium Condensed Matter (New York: NOVA Science: 1999)."
+			},
+			{
+				"doi": "",
+				"or":  "Glassy Metals (Eds. H.-J. Guntherodt, H. Beck) (Berlin, Heidelberg, New York: Springer–Verlag: 1981).",
+				"tr":  "Glassy Metals (Eds. H.-J. Guntherodt, H. Beck) (Berlin, Heidelberg, New York: Springer–Verlag: 1981)."
+			},
+			{
+				"doi": "",
+				"or":  "Metallic Glasses (Eds. J. J. Hillman and H. J. Limy) (Metal Park, Ohio: American Society for Metals: 1978).",
+				"tr":  "Metallic Glasses (Eds. J. J. Hillman and H. J. Limy) (Metal Park, Ohio: American Society for Metals: 1978)."
+			},
+			{
+				"doi": "",
+				"or":  "Новости ФТТ, вып. 9: Точечные дефекты в твердых телах (Москва: Мир: 1979).",
+				"tr":  "Novosti FTT, vyp. 9: Tochechnye defekty v tverdykh telakh (Moskva: Mir: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Бугаев, В. А. Татаренко, Взаимодействие и распределение атомов в сплавах внедрения на основе плотноупакованных металлов (Киев: Наукова думка: 1989).",
+				"tr":  "V. N. Bugaev, V. A. Tatarenko, Vzaimodeistvie i raspredelenie atomov v splavakh vnedreniya na osnove plotnoupakovannykh metallov (Kiev: Naukova dumka: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Барьяхтар, А. И. Олемской, ФТТ, 33: 2705 (1991).",
+				"tr":  "V. G. Bar'yakhtar, A. I. Olemskoi, FTT, 33: 2705 (1991)."
+			},
+			{
+				"doi": "10.1002/qua.560240302",
+				"or":  "E. H. Lieb, Int. J. Quant. Chem., 34: 243 (1983).",
+				"tr":  "E. H. Lieb, Int. J. Quant. Chem., 34: 243 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Heine, M. L. Cohen, and D. Weaire, Solid State Physics (New York, London: Academic Press: 1970), vol. 24.",
+				"tr":  "V. Heine, M. L. Cohen, and D. Weaire, Solid State Physics (New York, London: Academic Press: 1970), vol. 24."
+			},
+			{
+				"doi": "",
+				"or":  "Monte Carlo Method in Statistical Physics (Ed. K. Binder) (Berlin, Heidelberg, New York: Springer–Verlag: 1979).",
+				"tr":  "Monte Carlo Method in Statistical Physics (Ed. K. Binder) (Berlin, Heidelberg, New York: Springer–Verlag: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Теория поля (Москва: Наука: 1988).",
+				"tr":  "L. D. Landau, E. M. Lifshits, Teoriya polya (Moskva: Nauka: 1988)."
+			},
+			{
+				"doi": "",
+				"or":  "Н.Н. Боголюбов, Д.В. Ширков, Введение в теорию квантовых полей (Москва: Наука: 1976).",
+				"tr":  "N.N. Bogolyubov, D.V. Shirkov, Vvedenie v teoriyu kvantovykh polei (Moskva: Nauka: 1976)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Ахиезер, С. В. Пелетминский, Поля и фундаментальные взаимодействия (Киев: Наукова думка: 1986).",
+				"tr":  "A. I. Akhiezer, S. V. Peletminskii, Polya i fundamental'nye vzaimodeistviya (Kiev: Naukova dumka: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Zinn-Justin, Quantum Field Theory and Critical Phenomena (Oxford: Clarendon Press: 1993).",
+				"tr":  "J. Zinn-Justin, Quantum Field Theory and Critical Phenomena (Oxford: Clarendon Press: 1993)."
+			},
+			{
+				"doi": "",
+				"or":  "D. R. Tilley and J. Tilley, Superfluidity and Superconductivity (New York, etc.: Van Nostrand Reinhold Company: 1974).",
+				"tr":  "D. R. Tilley and J. Tilley, Superfluidity and Superconductivity (New York, etc.: Van Nostrand Reinhold Company: 1974)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Косевич, Б. А. Иванов, А. С. Ковалев, Нелинейные волны намагниченности. Динамические и топологические солитоны (Киев: Наукова думка: 1983).",
+				"tr":  "A. M. Kosevich, B. A. Ivanov, A. S. Kovalev, Nelineinye volny namagnichennosti. Dinamicheskie i topologicheskie solitony (Kiev: Naukova dumka: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. В. Зельдович, Ю. П. Райзер, Физика ударных волн и высокотемпературных гидродинамических явлений (Москва: Наука: 1966).",
+				"tr":  "Ya. V. Zel'dovich, Yu. P. Raizer, Fizika udarnykh voln i vysokotemperaturnykh gidrodinamicheskikh yavlenii (Moskva: Nauka: 1966)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Коротаев, А. Н. Тюменцев, В. Ч. Гончиков, А. И. Олемской, Изв. вузов. Физика, 34, № 3: 81 (1991).",
+				"tr":  "A. D. Korotaev, A. N. Tyumentsev, V. Ch. Gonchikov, A. I. Olemskoi, Izv. vuzov. Fizika, 34, № 3: 81 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Тюменцев, А. Д. Коротаев, В. Ч. Гончиков и др., Сб.: Экспериментальное исследование и теоретическое описание дисклинаций (Ленинград: Наука: 1984).",
+				"tr":  "A. N. Tyumentsev, A. D. Korotaev, V. Ch. Gonchikov i dr., Sb.: Eksperimental'noe issledovanie i teoreticheskoe opisanie disklinatsii (Leningrad: Nauka: 1984)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ч. Гончиков, А. Н. Вергазов, А. Д. Коротаев, А. Н. Тюменцев, ФММ, 64: 170 (1987).",
+				"tr":  "V. Ch. Gonchikov, A. N. Vergazov, A. D. Korotaev, A. N. Tyumentsev, FMM, 64: 170 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ч. Гончиков, А. Н. Тюменцев, А. Д. Коротаев и др., ФММ, 63: 598 (1987).",
+				"tr":  "V. Ch. Gonchikov, A. N. Tyumentsev, A. D. Korotaev i dr., FMM, 63: 598 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ч. Гончиков, А. Д. Коротаев, А. Н. Тюменцев, В сб.: Высокочистые и монокристаллические металлические материалы (Москва: Наука: 1987), с. 161.",
+				"tr":  "V. Ch. Gonchikov, A. D. Korotaev, A. N. Tyumentsev, V sb.: Vysokochistye i monokristallicheskie metallicheskie materialy (Moskva: Nauka: 1987), s. 161."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Тюменцев, В. Ч. Гончиков, А. Д. Коротаев и др., ФММ, 67: 591 (1989).",
+				"tr":  "A. N. Tyumentsev, V. Ch. Gonchikov, A. D. Korotaev i dr., FMM, 67: 591 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Владимиров, Физическая природа разрушения металлов (Москва: Металлургия: 1985).",
+				"tr":  "V. I. Vladimirov, Fizicheskaya priroda razrusheniya metallov (Moskva: Metallurgiya: 1985)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ч. Гончиков, Ю. П. Пинжин, А. Н. Тюменцев и др., ФММ, 62: 384 (1986).",
+				"tr":  "V. Ch. Gonchikov, Yu. P. Pinzhin, A. N. Tyumentsev i dr., FMM, 62: 384 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, В. Ф. Моисеев, Э. П. Печковский и др., Деформационное упрочнение и разрушение поликристаллических металлов (Киев: Наукова думка: 1987).",
+				"tr":  "V. I. Trefilov, V. F. Moiseev, E. P. Pechkovskii i dr., Deformatsionnoe uprochnenie i razrushenie polikristallicheskikh metallov (Kiev: Naukova dumka: 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Кобытев, Л. Е. Попов, Сб.: Структура и пластическое поведение сплавов (Томск: 1983).",
+				"tr":  "V. S. Kobytev, L. E. Popov, Sb.: Struktura i plasticheskoe povedenie splavov (Tomsk: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Андронов, А. А. Витт, С. Э. Хайкин, Теория колебаний (Москва: Наука: 1981).",
+				"tr":  "A. A. Andronov, A. A. Vitt, S. E. Khaikin, Teoriya kolebanii (Moskva: Nauka: 1981)."
+			},
+			{
+				"doi": "10.1007/978-3-642-88338-5",
+				"or":  "H. Haken, Synergetics (Berlin, Heidelberg, New York: Springer–Verlag: 1983).",
+				"tr":  "H. Haken, Synergetics (Berlin, Heidelberg, New York: Springer–Verlag: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Л. Бонч-Бруевич, И. П. Звягин, А. Г. Миронов, Доменная электрическая неустойчивость в полупроводниках (Москва: Наука: 1972).",
+				"tr":  "V. L. Bonch-Bruevich, I. P. Zvyagin, A. G. Mironov, Domennaya elektricheskaya neustoichivost' v poluprovodnikakh (Moskva: Nauka: 1972)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Gilmore, Catastrophe Theory for Scientists and Engineers (New York, Chichester, Brisbane, Toronto: John Wiley and Sons: 1981).",
+				"tr":  "R. Gilmore, Catastrophe Theory for Scientists and Engineers (New York, Chichester, Brisbane, Toronto: John Wiley and Sons: 1981)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. И. Главацкая, Структурные превращения при прокатке и последующих отжигах монокристаллов никеля (Дис. ... канд. физ. -мат. наук) (Киев: ИМФ АН УССР: 1988).",
+				"tr":  "N. I. Glavatskaya, Strukturnye prevrashcheniya pri prokatke i posleduyushchikh otzhigakh monokristallov nikelya (Dis. ... kand. fiz. -mat. nauk) (Kiev: IMF AN USSR: 1988)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. И. Барабаш, М. А. Кривоглаз, К. П. Рябошапка, ФММ, 41: 33 (1976).",
+				"tr":  "R. I. Barabash, M. A. Krivoglaz, K. P. Ryaboshapka, FMM, 41: 33 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Олемской, Н. И. Главацкая, Сб.: Проблемы нелинейной механики деформируемого твердого тела (Свердловск: Изд-во АН СССР: 1990), с. 124.",
+				"tr":  "A. I. Olemskoi, N. I. Glavatskaya, Sb.: Problemy nelineinoi mekhaniki deformiruemogo tverdogo tela (Sverdlovsk: Izd-vo AN SSSR: 1990), s. 124."
+			},
+			{
+				"doi": "",
+				"or":  "В. Вольтерра, Математическая теория борьбы за существование (Москва: Наука: 1975).",
+				"tr":  "V. Vol'terra, Matematicheskaya teoriya bor'by za sushchestvovanie (Moskva: Nauka: 1975)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. К. Барахтин, В. И. Владимиров, С. А. Иванов, И. А. Овидько, А. Е. Романов, ФММ, 63: 1185 (1987).",
+				"tr":  "B. K. Barakhtin, V. I. Vladimirov, S. A. Ivanov, I. A. Ovid'ko, A. E. Romanov, FMM, 63: 1185 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Олемской, А. В. Хоменко, ЖЭТФ, 110: 2144 (1996).",
+				"tr":  "A. I. Olemskoi, A. V. Khomenko, ZhETF, 110: 2144 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Горелик, Рекристаллизация металлов и сплавов (Москва: Металлургия: 1978).",
+				"tr":  "S. S. Gorelik, Rekristallizatsiya metallov i splavov (Moskva: Metallurgiya: 1978)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Панин, Л. Б. Зуев, В. И. Данилов, Н. М. Мних, ФММ, 66: 1005 (1988).",
+				"tr":  "V. E. Panin, L. B. Zuev, V. I. Danilov, N. M. Mnikh, FMM, 66: 1005 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Теория упругости (Москва: Наука: 1987).",
+				"tr":  "L. D. Landau, E. M. Lifshits, Teoriya uprugosti (Moskva: Nauka: 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Фролов, В. Е. Панин, Л. Б. Зуев, Н. А. Махутов, В. И. Данилов, Н. М. Мних, Изв. вузов. Физика, № 2: 17 (1990).",
+				"tr":  "K. V. Frolov, V. E. Panin, L. B. Zuev, N. A. Makhutov, V. I. Danilov, N. M. Mnikh, Izv. vuzov. Fizika, № 2: 17 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Мак Лин, Механические свойства металлов (Москва: Металлургия: 1965).",
+				"tr":  "D. Mak Lin, Mekhanicheskie svoistva metallov (Moskva: Metallurgiya: 1965)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Кольский, Волны напряжений в твердых телах (Москва: ИЛ: 1955).",
+				"tr":  "G. Kol'skii, Volny napryazhenii v tverdykh telakh (Moskva: IL: 1955)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Олемской, А. В. Хоменко, Изв. вузов. Физика, № 6: 3 (1996).",
+				"tr":  "A. I. Olemskoi, A. V. Khomenko, Izv. vuzov. Fizika, № 6: 3 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Гидродинамика (Москва: Наука: 1988).",
+				"tr":  "L. D. Landau, E. M. Lifshits, Gidrodinamika (Moskva: Nauka: 1988)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Олемской, ФТТ, 30: 3384 (1988).",
+				"tr":  "A. I. Olemskoi, FTT, 30: 3384 (1988)."
+			},
+			{
+				"doi": "10.1051/jphys:01984004505084300",
+				"or":  "M. Mezard, G. Parisi, N. Sourlas, G. Toulouse, and M. Virasoro, J. Physique, 45: 843 (1984).",
+				"tr":  "M. Mezard, G. Parisi, N. Sourlas, G. Toulouse, and M. Virasoro, J. Physique, 45: 843 (1984)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.58.801",
+				"or":  "K. Binder and A. P. Young, Rev. Mod. Phys., 58: 801 (1986).",
+				"tr":  "K. Binder and A. P. Young, Rev. Mod. Phys., 58: 801 (1986)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.17.4384",
+				"or":  "S. Kirkpatrick and D. Sherrington, Phys. Rev. B, 17: 4384 (1978).",
+				"tr":  "S. Kirkpatrick and D. Sherrington, Phys. Rev. B, 17: 4384 (1978)."
+			},
+			{
+				"doi": "10.1088/0305-4470/11/5/028",
+				"or":  "J. R. L. De Almeida and D. J. Thouless, J. Phys. A, 11: 983 (1978).",
+				"tr":  "J. R. L. De Almeida and D. J. Thouless, J. Phys. A, 11: 983 (1978)."
+			},
+			{
+				"doi": "10.1080/14786437708235992",
+				"or":  "D. J. Thouless, P. W. Anderson, and R. G. Palmer, Phil. Mag., 35: 593 (1977).",
+				"tr":  "D. J. Thouless, P. W. Anderson, and R. G. Palmer, Phil. Mag., 35: 593 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "Vik. S. Dotsenko, J. Phys. C, 18: 6023 (1985).",
+				"tr":  "Vik. S. Dotsenko, J. Phys. C, 18: 6023 (1985)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.55.1634",
+				"or":  "A. T. Ogielski, Phys. Rev. Lett., 55: 1634 (1986).",
+				"tr":  "A. T. Ogielski, Phys. Rev. Lett., 55: 1634 (1986)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.53.958",
+				"or":  "R. G. Palmer, D. L. Stein, E. Abrahams, and P. W. Anderson, Phys. Rev. Lett., 53: 958 (1984).",
+				"tr":  "R. G. Palmer, D. L. Stein, E. Abrahams, and P. W. Anderson, Phys. Rev. Lett., 53: 958 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Олемской, В. А. Петрунин, Изв. вузов. Физика, 30, № 1: 82 (1987).",
+				"tr":  "A. I. Olemskoi, V. A. Petrunin, Izv. vuzov. Fizika, 30, № 1: 82 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "B. B. Mandelbrot, The Fractal Geometry of Nature (San Francisco: Freeman: 1982).",
+				"tr":  "B. B. Mandelbrot, The Fractal Geometry of Nature (San Francisco: Freeman: 1982)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Олемской, Ю. И. Паскаль, Проявление неравновесности и неэргодичности при мартенситном превращении (Препр. № 30 Томского филиала СО АН СССР, Томск: 1988).",
+				"tr":  "A. I. Olemskoi, Yu. I. Paskal', Proyavlenie neravnovesnosti i neergodichnosti pri martensitnom prevrashchenii (Prepr. No. 30 Tomskogo filiala SO AN SSSR, Tomsk: 1988)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Олемской, ФММ, 68: 56 (1989).",
+				"tr":  "A. I. Olemskoi, FMM, 68: 56 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Venkataraman, Fluctuations and Mechanical Relaxations. Proc. of Int. Sch. Phys. Enrico Fermi (Course 82: Mechanical and Technical Behaviour of Metallic Materials: 1982), p. 278.",
+				"tr":  "G. Venkataraman, Fluctuations and Mechanical Relaxations. Proc. of Int. Sch. Phys. Enrico Fermi (Course 82: Mechanical and Technical Behaviour of Metallic Materials: 1982), p. 278."
+			}
+		]
+	}
+}

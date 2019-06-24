@@ -1,0 +1,156 @@
+{
+	"_id":    "UFM.11.01.061",
+	"year":   2010,
+	"volume": 11,
+	"issue":  1,
+	"pages":  [61,94],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["15.06.2009"],
+	"PACS":   "75.10.Dg, 75.30.Et, 75.30.Gw, 75.30.Kz, 75.30.Mb, 75.60.Ch, 75.80.+q",
+	"title":   {
+		"ua": "Локально-ковалентний модель магнетизму $4f$-металів",
+		"en": "Locally-Covalent Model of Magnetism of $4f$-Metals",
+		"ru": "Локально-ковалентная модель магнетизма $4f$-металлов"
+	},
+	"abstract": {
+		"ua": "Електронна структура рідкісноземельних $4f$-металів (РЗМ) розраховується в зображенні багатоелектронних операторних спінорів (БЕОС). Льокалізовані $4f$-електрони (БЕОС $F_r^n$ , $n=1-7$) мають спін $S_r$ (спіновий фактор БЕОС $c_{rS\\sigma}$) і орбітальний момент $L_r$ (фактор БЕОС $\\nu_{rL}$). Збуджувані на ковалентні зв’язки $5d$-електрони (БЕОС $D_r = \\{d_{r\\sigma l} c_{rS\\sigma} \\nu_{rL}\\}$) з амплітудою $\\xi_D$ хвильової функції створюють також обмін $4f$—$5d$—$4f$ між йонами. Умови льокалізації ($d_r \\overline{d_r} = 1 = F_r \\overline{F_r}$) визначають БЕОС та їхнє вторинне квантування методою Боголюбових Ґрінових функцій. Спонтанна намагнетованість $M_s$ і феромагнетна анізотропія (ФМА) виражаються через кутовий момент $J_r$ (или $J_T =  \\langle J_r^z \\rangle $). Мала величина $T_c (T_N) \\cong 10^2$ K важких РЗМ (крім Gd) визначається розморожуванням $s_r$, $l_r$ и $\\xi_D^2 \\ll 1$ ковалентних $5d$-електронів. Їхні флюктуації хемічних зв’язків (ФХЗ) $E_k^D = \\Gamma k^2$ зменшують енергію магнона $E_k^m = 2AJk^2 + \\mu(B_A + B)$ на $\\Delta E^m = -\\Delta Ak$ ($\\Delta A \\propto T^2$). Поле ФМА ($B_A > 0$) стабілізує ФМ-фазу при $T < T_{0c} \\cong 10^2$ K. При $T > T_{0c}$ немонотонна функція $E^m(k)$ змінює знак при $k = k_0 = Q_c \\propto (T -  T_{0c})$. Дестабілізована ФМ-фаза переходить у гелікоїд з вектором $Q_c(T) \\cong 0,1$ для Tb, Dy, Ho. Прикладання магнетного поля $B = B_c \\propto (T - T_{0c}) \\cong 1$ Тл викликає метамагнетний перехід першого роду в ФМ-фазу. Обмінний інтеґрал $A(S, L)$ складається зі спінової та орбітальної частин за рахунок розморожування $s_r$ або $l_r$. Механізм кристалічного поля (КП — CF) для ФМА розраховується як відштовхування «ефективних зарядів» ($\\propto F_r \\overline{D_r}$). ГЩУ-деформація ($\\propto u_{zz} \\cong −10^{−2}$) кубічної ґратниці виокремлює анізотропні частини КП ($\\propto s_r^z S_r^z$ і $l_r^z L_r^z $). Їхні внески до констант ФМА ($K_1^{CF}, ...$) залежать від Хундового обміну ($A_D$) і спін-орбіти $\\lambda$. Їхнє вираження через фактор Лянде $g$ (при переході до форми ($J_r^z J_R^z$)) виділяє критичне значення $g = 5/4$. При $g < 5/4$ константа $K_1^{CF}$ ($> 0$ для Tb, Dy, Ho) змінює знак ($K_1^{CF} < 0$ для Er, Tm). Відповідно змінюється знак експериментальної константи ФМА ($K_1^{exp} = -(K_1^{CF} + 2K_2^{CF})$). Аналогічний розрахунок феромагнетної магнетострикції (ФМС) у механізмі КП дає також великі параметри ФМС ($\\Lambda \\cong 10$ эрг/см$^3$) та їхні константи $\\hat{\\lambda} \\cong 10$. Анізотропія «гігантської ФМС» кубічного TbFe$_2$ (та інших аналогічних інтерметалідів) пояснюється сильним зв’язком Fe–Tb–Fe вздовж [111], що дає $\\lambda_{111} \\ll |\\lambda_{100}|$. Особливий випадок — Gd ($n = 7$, $L = 0$, стійка напівзаповнена $4f$-оболонка). При слабкому розморожуванні $s_r$ і $l_r$ внесок КП до ФМА малий. Конкуруючий внесок ковалентного члену ФМА (такої ж величини, але протилежного знаку), сильно залежного від $T$, завдяки ефектам екранування, створює немонотонність $K_1^{exp}(T)$ і складну МФД. Велике розчинення водню в РЗМ пояснюється сильними ковалентними Me–H-зв’язками. Система MeH$_x$ ($x > 1$), за рахунок ФХЗ, має сильну залежність $x_0(T)$ у рівновазі ($x = x_0$). Зростання електроопору $R(x)$ із зростанням $x$ пояснюється зміною поверхні Фермі поблизу перетину зонного спектру з ФХЗ. З’являється лінійна частина закону його дисперсії $\\tilde{\\varepsilon}(k) \\propto k$. Падає DOS($\\varepsilon_F$) і змінюються МФД, теплові та інші властивості. Запропоновано модель кубітів на основі нанодоменів гелікоїда.",
+		"en": "The electronic structure of rare-earth $4f$-metals (REM) is calculated within the many-electron operator spinors (MEOS) representation. Localized $4f$-electrons (MEOS $F_r^n$ , $n=1-7$) have spin $S_r$ (MEOS spin factor is $c_{rS\\sigma}$) and orbital moment $L_r$ (MEOS factor is $\\nu_{rL}$). The $5d$-electrons exited on covalent bonds (MEOS is $D_r = \\{d_{r\\sigma l} c_{rS\\sigma} \\nu_{rL}\\}$) with amplitude $\\xi_D$ of wave function create the $4f$—$5d$—$4f$ exchange between ions. Localization conditions ($d_r \\overline{d_r} = 1 = F_r \\overline{F_r}$) define MEOS and their secondary quantization by the Bogolyubov Green functions’ method. Spontaneous magnetization, $M_s$, and ferromagnetic anisotropy (FMA) are expressed through the angular moment $J_r$ (or $J_T =  \\langle J_r^z \\rangle $). The small value of $T_c (T_N) \\cong 10^2$ K for heavy REM (except Gd) is defined by unfreezing of $s_r$, $l_r$ and $\\xi_D^2 \\ll 1$ of covalent $5d$-electrons. Their chemical bond fluctuations (CBF) $E_k^D = \\Gamma k^2$ decrease magnon energy $E_k^m = 2AJk^2 + \\mu(B_A + B)$ by $\\Delta E^m = -\\Delta Ak$ ($\\Delta A \\propto T^2$). FMA field ($B_A > 0$) stabilizes FM phase at $T < T_{0c} \\cong 10^2$ K. When $T > T_{0c}$, the nonmonotonic $E^m(k)$ function changes its sign at $k = k_0 = Q_c \\propto (T -  T_{0c})$. Destabilized FM phase transforms in helicoid with vector $Q_c(T) \\cong 0,1$ for Tb, Dy, Ho. Application of magnetic field, $B = B_c \\propto (T - T_{0c}) \\cong 1$ T, causes the first-kind metamagnetic transition into FM phase. Exchange integral, $A(S, L)$, is composed from spin and orbital parts owing to $s_r$ or $l_r$ unfreezing. Crystal field (CF) mechanism for FMA is calculated as repulsion of ‘effective charges’ ($\\propto F_r \\overline{D_r}$). H.C.P. deformation ($\\propto u_{zz} \\cong −10^{−2}$) of cubic lattice separates CF anisotropic parts ($\\propto s_r^z S_r^z$ and $l_r^z L_r^z $). Their contributions into FMA constants ($K_1^{CF}, ...$) depend on the Hund exchange ($A_D$) and on the spin–orbit coupling, $\\lambda$. Their expression through the Lande’s $g$-factor (at transition to ($J_r^z J_R^z$)) form) separates critical value $g = 5/4$. When $g < 5/4$, constant $K_1^{CF}$ ($> 0$ for Tb, Dy, Ho) changes its sign ($K_1^{CF} < 0$ for Er, Tm. The sign of experimental FMA constant ($K_1^{exp} = -(K_1^{CF} + 2K_2^{CF})$) changes accordingly. Analogous calculation of ferromagnetic magnetostriction (FMS) within the CF mechanism gives also large FMS parameters ($\\Lambda \\cong 10$ эрг/см$^3$) and their constants, $\\hat{\\lambda} \\cong 10$. Anisotropy of ‘giant FMS’ of cubic TbFe$_2$ (and other analogous intermetallides) is explained by strong Fe–Tb–Fe bonds along [111] that gives $\\lambda_{111} \\ll |\\lambda_{100}|$. Particular case is Gd ($n = 7$, $L = 0$, stable half-filled $4f$-shell). The CF contribution into FMA is small at weak sr and lr unfreezing. Competing contribution of covalent FMA term (of the same value, but opposite sign) with strong dependence on $T$ creates $K_1^{exp}(T)$ nonmonotony and complex MPD owing to screening effects. Large absorption of hydrogen in REM is explained by strong covalent Me–H bonds. MeH$_x$ system ($x > 1$) has strong dependence $x_0(T)$ in equilibrium ($x = x_0$) owing to CBF. Growth of electrical resistance, $R(x)$, with $x$ growth is explained by change of the Fermi surface near crossing of band spectrum with CBF. The linear part of its dispersion law, $\\tilde{\\varepsilon}(k) \\propto k$, appears. DOS($\\varepsilon_F$) decreases; the MPD, thermal and other properties change. The model of q-bit is proposed and based on helicoid nanodomains",
+		"ru": "Электронная структура редкоземельных $4f$-металлов (РЗМ) рассчитывается в представлении многоэлектронных операторных спиноров (МЭОС). Локализованные $4f$-электроны (МЭОС $F_r^n$ , $n=1-7$) имеют спин $S_r$ (спиновый фактор МЭОС $c_{rS\\sigma}$) и орбитальный момент $L_r$ (фактор МЭОС $\\nu_{rL}$). Возбуждаемые на ковалентные связи $5d$-электроны (МЭОС $D_r = \\{d_{r\\sigma l} c_{rS\\sigma} \\nu_{rL}\\}$) с амплитудой $\\xi_D$ волновой функции создают также обмен $4f$—$5d$—$4f$ между ионами. Условия локализации ($d_r \\overline{d_r} = 1 = F_r \\overline{F_r}$) строго определяют МЭОС и их вторичное квантование методом боголюбовских функций Грина. Спонтанная намагниченность $M_s$ и ферромагнитная анизотропия (ФМА) выражаются через угловой момент $J_r$ (или $J_T =  \\langle J_r^z \\rangle $). Малая величина $T_c (T_N) \\cong 10^2$ K тяжёлых РЗМ (кроме Gd) определяется размораживанием $s_r$, $l_r$ и $\\xi_D^2 \\ll 1$ ковалентных $5d$-электронов. Их флуктуации химических связей (ФХС) $E_k^D = \\Gamma k^2$ уменьшают энергию магнона $E_k^m = 2AJk^2 + \\mu(B_A + B)$ на $\\Delta E^m = -\\Delta Ak$ ($\\Delta A \\propto T^2$). Поле ФМА ($B_A > 0$) стабилизирует ФМ-фазу при $T < T_{0c} \\cong 10^2$ K. При $T > T_{0c}$ немонотонная функция $E^m(k)$ изменяет знак при $k = k_0 = Q_c \\propto (T -  T_{0c})$. Дестабилизированная ФМ-фаза переходит в геликоид с вектором $Q_c(T) \\cong 0,1$ для Tb, Dy, Ho. Приложение магнитного поля $B = B_c \\propto (T - T_{0c}) \\cong 1$ Тл вызывает метамагнитный переход первого рода в ФМ-фазу. Обменный интеграл $A(S, L)$ слагается из спиновой и орбитальной частей за счёт размораживания $s_r$ или $l_r$. Механизм кристаллического поля (КП – CF) для ФМА рассчитывается как отталкивание «эффективных зарядов» ($\\propto F_r \\overline{D_r}$). ГПУ-деформация ($\\propto u_{zz} \\cong −10^{−2}$) кубической решётки выделяет анизотропные части КП ($\\propto s_r^z S_r^z$ и $l_r^z L_r^z $). Их вклады в константы ФМА ($K_1^{CF}, ...$) зависят от обмена Хунда ($A_D$) и спин-орбиты $\\lambda$. Их выражение через фактор Ланде $g$ (при переходе к форме ($J_r^z J_R^z$)) выделяет критическое значение $g = 5/4$. При $g < 5/4$ константа $K_1^{CF}$ ($> 0$ для Tb, Dy, Ho) меняет знак ($K_1^{CF} < 0$ для Er, Tm). Соответственно изменяется знак экспериментальной константы ФМА ($K_1^{exp} = -(K_1^{CF} + 2K_2^{CF})$). Аналогичный расчёт ферромагнитной магнитострикции (ФМС) в механизме КП даёт также большие параметры ФМС ($\\Lambda \\cong 10$ эрг/см$^3$) и их константы $\\hat{\\lambda} \\cong 10$. Анизотропия «гигантской ФМС» кубического TbFe$_2$ (и других аналогичных интерметаллидов) объясняется сильной связью Fe—Tb—Fe вдоль [111], что даёт $\\lambda_{111} \\ll |\\lambda_{100}|$. Особый случай – Gd ($n = 7$, $L = 0$, устойчивая наполовину заполненная $4f$-оболочка). При слабом размораживании $s_r$ и $l_r$ вклад КП в ФМА мал. Конкурирующий вклад ковалентного члена ФМА (такой же величины, но обратного знака), сильно зависящий от $T$, благодаря эффектам экранирования, создает немонотонность $K_1^{exp}(T)$ и сложную МФД. Большое растворение водорода в РЗМ объясняется сильными ковалентными Me—H-связями. Система MeH$_x$ ($x > 1$), за счет ФХС, имеет сильную зависимость $x_0(T)$ в равновесии ($x = x_0$). Рост электросопротивления $R(x)$ с ростом $x$ объясняется изменением поверхности Ферми вблизи пересечения зонного спектра с ФХС. Появляется линейная часть закона его дисперсии $\\tilde{\\varepsilon}(k) \\propto k$. Падает DOS($\\varepsilon_F$) и изменяются МФД, тепловые и другие свойства. Предлагается модель кубитов на основе нанодоменов геликоида."
+	},
+	"keywords": {
+		"ua": "ковалентні зв'язки та їх флюктуації (ФХЗ), багатоелектронні операторні спінори (БЕОС), магнетна фазова діяграма (МФД), розчин водню, кубіт",
+		"en": "covalent bonds and their fluctuations, many-electron operator spinors, magnetic phase diagram, hydrogen dissolution, cubit",
+		"ru": "ковалентные связи и их флуктуации (ФХС), многоэлектронные операторные спиноры (МЭОС), магнитная фазовая диаграмма (МФД), растворение водорода, кубит"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Міцек", "en": "O. I. Mitsek", "ru": "А. И. Мицек"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.13.04.345",
+				"cit": "O. I. Mitsek, <a href=\"https://doi.org/10.15407/ufm.13.04.345\">Usp. Fiz. Met. <b>13</b>, 345 (2012)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 22,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "С. В. Вонсовский, Магнетизм (Москва: Наука: 1971).",
+				"tr":  "S. V. Vonsovskii, Magnetizm (Moskva: Nauka: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Тейлор, М. Дарби, Физика редкоземельных соединений (Москва: Мир: 1974).",
+				"tr":  "K. Teilor, M. Darbi, Fizika redkozemel'nykh soedinenii (Moskva: Mir: 1974)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. П. Ирхин, В. Ю. Ирхин, Электронное строение и физические свойства переходных металлов (Свердловск: Изд-во Урал. гос. ун-та: 1989).",
+				"tr":  "Yu. P. Irkhin, V. Yu. Irkhin, Elektronnoe stroenie i fizicheskie svoistva perekhodnykh metallov (Sverdlovsk: Izd-vo Ural. gos. un-ta: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, Успехи физики металлов, 6, № 3: 233 (2005).",
+				"tr":  "A. I. Mitsek, Uspehi Fiziki Metallov, 6, No. 3: 233 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, В. Н. Пушкарь, Металлофиз. новейшие технол., 30, №12: 1591 (2008).",
+				"tr":  "A. I. Mitsek, V. N. Pushkar', Metallofiz. Noveishie Tekhnol., 30, No.12: 1591 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, Фазовые переходы в кристаллах с магнитной структурой (Киев: Наукова думка: 1989).",
+				"tr":  "A. I. Mitsek, Fazovye perekhody v kristallakh s magnitnoi strukturoi (Kiev: Naukova dumka: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Coqblin, The electronic structure of Rare-Earth Metals and Alloys: The Magnetic Heavy Rare Earth (London: Academic Press: 1977).",
+				"tr":  "B. Coqblin, The electronic structure of Rare-Earth Metals and Alloys: The Magnetic Heavy Rare Earth (London: Academic Press: 1977)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, В. Н. Пушкарь, Реальные кристаллы с магнитным порядком (Киев: Наукова думка: 1978).",
+				"tr":  "A. I. Mitsek, V. N. Pushkar', Real'nye kristally s magnitnym poryadkom (Kiev: Naukova dumka: 1978)."
+			},
+			{
+				"doi": "",
+				"or":  "К. П. Белов, Магнитострикционные явления и их технические приложения (Москва: Наука: 1987).",
+				"tr":  "K. P. Belov, Magnitostriktsionnye yavleniya i ikh tekhnicheskie prilozheniya (Moskva: Nauka: 1987)."
+			},
+			{
+				"doi": "10.3367/UFNr.0120.197611c.0393",
+				"or":  "А. В. Дерягин, УФН, 120, № 3: 393 (1976).",
+				"tr":  "A. V. Deryagin, Uspekhi Fiz. Nauk, 120, No. 3: 393 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, В. Н. Пушкарь, Металлофиз. новейшие технол., 31, № 7: 881 (2009).",
+				"tr":  "A. I. Mitsek, V. N. Pushkar', Metallofiz. Noveishie Tekhnol., 31, No. 7: 881 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, Металлофиз. новейшие технол., 26, № 5: 591 (2004).",
+				"tr":  "A. I. Mitsek, Metallofiz. Noveishie Tekhnol., 26, No. 5: 591 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, Металлофиз. новейшие технол., 26, № 2: 141 (2004).",
+				"tr":  "A. I. Mitsek, Metallofiz. Noveishie Tekhnol., 26, No. 2: 141 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, Металлофиз. новейшие технол., 26, № 7: 911 (2004).",
+				"tr":  "A. I. Mitsek, Metallofiz. Noveishie Tekhnol., 26, No. 7: 911 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Шульце, Металлофизика (Москва: Мир: 1971).",
+				"tr":  "G. Shul'tse, Metallofizika (Moskva: Mir: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Вонсовский, Я. С. Шур, Ферромагнетизм (Москва: Гос. изд-во техн.-теор. лит.: 1948).",
+				"tr":  "S. V. Vonsovskii, Ya. S. Shur, Ferromagnetizm (Moskva: Gos. izd-vo tekhn.-teor. lit.: 1948)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Туров, А. И. Мицек, ЖЭТФ, 37, № 4 (10): 1127 (1959).",
+				"tr":  "E. A. Turov, A. I. Mitsek, ZhETF, 37, No. 4 (10): 1127 (1959)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Туров, А. И. Мицек, ЖЭТФ, 38, № 6 (12): 1847 (1960).",
+				"tr":  "E. A. Turov, A. I. Mitsek, ZhETF, 38, No. 6 (12): 1847 (1960)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Шматко, Ю. В. Усов, Структура и свойства металлов и сплавов. Электрические и магнитные свойства металлов и сплавов (Киев: Наукова думка: 1987).",
+				"tr":  "O. A. Shmatko, Yu. V. Usov, Struktura i svoistva metallov i splavov. Elektricheskie i magnitnye svoistva metallov i splavov (Kiev: Naukova dumka: 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, Металлофиз. новейшие технол., 26, № 12: 1553 (2004).",
+				"tr":  "A. I. Mitsek, Metallofiz. Noveishie Tekhnol., 26, No. 12: 1553 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, Металлофиз. новейшие технол., 31, № 5: 579 (2009).",
+				"tr":  "A. I. Mitsek, Metallofiz. Noveishie Tekhnol., 31, No. 5: 579 (2009)."
+			},
+			{
+				"doi": "10.1007/3-540-54668-5",
+				"or":  "Hydrogen in Intermetallic Compounds. II (Berlin: Springer-Verlag: 1992).",
+				"tr":  "Hydrogen in Intermetallic Compounds. II (Berlin: Springer-Verlag: 1992)."
+			}
+		]
+	}
+}

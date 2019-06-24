@@ -1,0 +1,21 @@
+{
+	"year":   2003,
+	"volume": 4,
+	"issue":  2,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [81,122],
+			"title": {
+				"ua": "Взаємна дифузія у потрійних системах з двофазними областями: підходи та моделі",
+				"en": "Interdiffusion in Ternary Systems with Two-Phase Zones—Approaches and Models",
+				"ru": "Взаимная диффузия в тройных системах с двухфазными областями: подходы и модели"
+			},
+			"autors": {
+				"ua": "Ю. О. Ляшенко",
+				"en": "Yu. O. Lyashenko",
+				"ru": "Ю. А. Ляшенко"
+			}
+		}
+	]
+}

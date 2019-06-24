@@ -1,0 +1,75 @@
+{
+	"_id":    "UFM.15.03.101",
+	"year":   2014,
+	"volume": 15,
+	"issue":  3,
+	"pages":  [101,120],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["23.06.2014"],
+	"PACS":   "07.55.Ge, 75.50.Cc, 75.60.Jk, 75.70.Kw, 75.78.Fg, 75.85.+t, 85.80.Jm",
+	"title":   {
+		"ua": "Малогабаритні датчики магнетного поля на основі тонкої фолії з аморфних кобальтових стопів ММ-3Сo, ММ-5Со і мартенситних кристалів NiMnGa",
+		"en": "Compact Magnetic-Field Sensors Based on a Thin Foil of Amorphous MM-3Co or MM-5Сo Cobalt Alloys and Martensitic NiMnGa Crystals",
+		"ru": "Малогабаритные датчики магнитного поля на основе тонкой фольги из аморфных кобальтовых сплавов ММ-3Со, ММ-5Со и мартенситных кристаллов NiMnGa"
+	},
+	"abstract": {
+		"ua": "Задача створення малогабаритних високочутливих давачів магнетного поля, які працюють у широкому діяпазоні частот і амплітуд вимірюваних полів, мають вузьку діяграму спрямованости й малий коефіцієнт температурного дрейфу, є актуальною та вимагає пошуку нових магнетних матеріялів і розробки нових принципів побудови таких давачів. У даній роботі представлено результати з розробки малогабаритних високочутливих ферозондових давачів з магнетним осердям із аморфної фолії кобальтового стопу ММ-3Со і ММ-5Со, а також магнетоелектричних давачів на основі мартенситних монокристалів NiMnGa. Ферозондові давачі мають високу чутливість $k > 0,1$ В/Е за низького рівня власних шумів $\\gamma < 10^{-9}$ нТ/Гц і можуть використовуватися для міряння напрямку та величини магнетного поля в широкій спектральній області змінного магнетного поля від 0 до 10$^6$ Гц. Магнетоелектричні давачі за чутливости $k > 0,01$ В/Е уможливлюють проводити міряння середніх і сильних магнетних полів одночасно за двома координатами в досить широкому діяпазоні частот.",
+		"en": "The problem of poiesis of compact highly-sensitive magnetic-field sensors operating in a wide range of frequencies and amplitudes of the measured fields as well as having both a narrow radiation pattern and a low-temperature drift is actual and requires search for new magnetic materials and development of new principles of such sensors. The results on the development of compact highly-sensitive fluxgate sensors with magnetic core of amorphous foil of the MM-3Co and MM-5Co cobalt alloys and magnetoelectric sensors based on the martensitic single crystal NiMnGa are presented in this paper. The fluxgate sensors have high sensitivity, $k > 0.1$ V/Oe, with a low threshold of sensitivity, $\\gamma < 10^{-9}$ nT/Hz, and can be used to measure both the direction and the magnitude of magnetic field in a wide range of the alternating magnetic-field spectrum from 0 to 106 Hz. The magnetoelectric sensors with sensitivity $k > 0.01$ V/Oe allow us to measure the magnetic field of medium and high values simultaneously on two coordinates in a quite wide range of frequencies.",
+		"ru": "Задача создания малогабаритных высокочувствительных датчиков магнитного поля, работающих в широком диапазоне частот и амплитуд измеряемых полей, а также имеющих узкую диаграмму направленности и малый коэффициент температурного дрейфа, является актуальной и требует поиска новых магнитных материалов и разработки новых принципов построения таких датчиков. В данной работе представлены результаты по разработке малогабаритных высокочувствительных феррозондовых датчиков с магнитным сердечником из аморфной ленты кобальтового сплава ММ-3Со и ММ-5Со, а также магнитоэлектрических датчиков на основе мартенситных монокристаллов NiMnGa. Феррозондовые датчики на основе аморфной ленты имеют высокую чувствительность $k > 0,1$ В/Э при низком уровне собственных шумов $\\gamma < 10^{-9}$ нТ/Гц и могут использоваться для измерения направления и величины магнитного поля в широкой спектральной области переменного магнитного поля от 0 до 10$^6$ Гц. Магнитоэлектрические датчики при чувствительности $k > 0,01$ В/Э позволяют проводить измерения магнитного поля средней и большой величины одновременно по двум координатам в достаточно широком диапазоне частот."
+	},
+	"keywords": {
+		"ua": "-",
+		"en": "magnetic-field sensor, amorphous foil, ferroprobe, martensite crystal",
+		"ru": "датчик магнитного поля, аморфная фольга, феррозонд, мартенситный кристалл"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. М. Крупа", "en": "M. M. Krupa", "ru": "Н. Н. Крупа"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "Ю. Б. Скирта", "en": "Yu. B. Skirta", "ru": "Ю. Б. Скирта"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "І. В. Шарай", "en": "I. V. Sharai", "ru": "И. В. Шарай"},
+			"OID": [7]
+		}
+	],
+	"references": {
+		"count": 6,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Н. Н. Крупа, Ю. Б. Скирта, А. А. Дейна, Магнитометр: Патент Украины № 106276. МПК G01R 33/05 (2006.01) (Опубликовано 11 августа 2014. Бюл. № 15).",
+				"tr":  "M. M. Krupa, Yu. B. Skirta, and O. A. Deina, Magnitometr: Patent 106276 UA. IPC G01R 33/05 (2006.01) (Published 11 August 2014. Bull. No. 15) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Афанасьев, Феррозондовые приборы (Ленинград: Энергоатомиздат: 1986), с. 188.",
+				"tr":  "Yu. V. Afanas'ev, Ferrozondovyye Pribory [Fluxgate Devices] (Leningrad: Energoatomizdat: 1986), P. 188 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Крупа, Ю. Б. Скирта, И. В. Шарай, Магнитоэлектрический датчик магнитного поля: Патент Украины № 106286. МПК G01R 33/00 (2014.01) (Опубликовано 11 августа 2014. Бюл. № 15).",
+				"tr":  "M. M. Krupa, Yu. B. Skirta, and I. V. Sharai, Magnitoelektricheskiy Datchik Magnitnogo Polya [Magnetic Field Magnetoelectric Sensor]: Patent 106286 UA. IPC G01R 33/00 (2014.01) (Published 11 August 2014. Bull. No. 15) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. И. Бичурин, Ю. В. Килиба, Датчик постоянного магнитного поля: Патент РФ № 2244318. МПК G01R 33/02 (Опубликовано 10 января 2005).",
+				"tr":  "M. I. Bychurin and Yu. V. Kiliba, Datchik Postoyannogo Magnitnogo Polya [A Constant Magnetic Field Magnetoelectric Sensor]: Patent 2244318 RU. IPC G01R 33/02 (Published 10 January 2005) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S1359-6462(03)00219-7",
+				"or":  "P. Mullner, V. A. Chernenko, and G. Kostorz, Scr. Mater., 49: 129 (2003).",
+				"tr":  "P. Mullner, V. A. Chernenko, and G. Kostorz, Scr. Mater., 49: 129 (2003)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2007.10.028",
+				"or":  "V. L’vov, S. Kustov, and E. Cesar, Acta Mater., 56: 802 (2008).",
+				"tr":  "V. L'vov, S. Kustov, and E. Cesar, Acta Mater., 56: 802 (2008)."
+			}
+		]
+	}
+}

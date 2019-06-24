@@ -1,0 +1,1935 @@
+{
+	"_id":    "UFM.09.01.001",
+	"year":   2008,
+	"volume": 9,
+	"issue":  1,
+	"pages":  [1,170],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["04.03.2008"],
+	"PACS":   "61.50.Ks, 62.50.-p, 64.60.Cn, 75.50.Bb, 81.30.-t, 91.35.-x, 91.67.gb",
+	"title":   {
+		"ua": "Стопи Fe–Ni за високих тисків і температур: статистична термодинаміка та кінетика атомового порядку типу $L1_{2}$ або $D0_{19}$",
+		"en": "Fe–Ni Alloys at High Pressures and Temperatures: Statistical Thermodynamics and Kinetics of the $L1_{2}$ or $D0_{19}$ Atomic Order",
+		"ru": "Сплавы Fe–Ni при высоких давлениях и температурах: статистическая термодинамика и кинетика атомного порядка типа $L1_{2}$ или $D0_{19}$"
+	},
+	"abstract": {
+		"ua": "Оглянуто кристалічні структури стопів Fe—Ni за екстремальних умов (зокрема, типу стану всередині ядра Землі) – високих тиску $p$ і температури $T$. Проаналізовано роль магнетних ефектів у атомовім впорядкуванні, взаємочин атомового й магнетного порядків та вплив тиску на магнетні властивості стопів Fe—Ni: точку Кюрі $T_{C}$, фазовий перехід феромагнетик—антиферомагнетик, інварний ефект. Із застосуванням наближення самоузгодженого поля розглянуто статистично-термодинамічний модель ГЦК-стопів заміщення з обома магнетними компонентами (в рамках якого визначено енергетичні параметри їх обмінних взаємодій та енергії «змішання») і моделі кінетики релаксації близького й далекого порядків пермалою (за нульового $p$). Зовнішній тиск в статистично-термодинамічнім і кінетичнім моделях впорядкування за типом L1$_{2}$ або D0$_{19}$ враховано для двох випадків: коли залежність об’єму стопу $V$ від параметра далекого порядку $\\eta$ й складу є слабкою чи то суттєвою, тобто коли нею можна або ж не можна знехтувати відповідно. Якщо $V$ слабко залежить від $\\eta$ і складу, то $p$ не впливає на стрибок $\\Delta\\eta|T_{K}$; тиск лише зсуває точку фазового перетворення лад—безлад $T_{K}$ в бік високих або низьких значень $T$, залежно від знаків параметрів, яких визначено у моделю. Залежності $T_{K}(p)$, $\\eta(p)$ можуть бути немонотонними, тобто є можливою поява двох різних точок фазових перетворень лад—безлад. Якщо ж $V$ суттєво залежить від $\\eta$ і складу, то $\\Delta\\eta|T_{K}$ не єс талим: зростає або спадає з підвищенням $p$. Залежність $T_{K}(p)$ є майже лінійною чи то нелінійною за низьких або високих значень $p$ відповідно. Тиск може сприяти атомовому впорядкуванню або ж «пригнічувати» його, змінювати рід фазового перетворення й симетрію кристалічної ґратниці стопу, що пов’язано з перетворенням її з тетрагональної у ромбоедричну структуру. Обговорено дані експериментів щодо характеристик (мікро)неоднорідної будови інвару Fe—Ni та означено можливі теоретичні підходи для пояснення їх суперечности.",
+		"en": "Crystal structures of Fe—Ni alloys in extreme conditions (particularly, such as a state of the Earth’s interior core) at high pressure, $p$, and temperature, $T$, are reviewed. A role of magnetic effects in atomic ordering, interplay between the atomic and magnetic orders, and pressure effects on magnetic properties of Fe—Ni alloys (Curie temperature, $T_{C}$}, ferromagnetic—antiferromagnetic phase transition, Invar effect) are analysed. Statistical-thermodynamic model of f.c.c. substitutional alloys with both magnetic components (within the framework of which, energy parameters of their exchange interactions and ‘interchange’ energy are determined) as well as models of kinetics of a relaxation of both shortrange and long-range atomic orders of Permalloy at zero pressure are considered with use of the self-consistent field approximation. External pressure is taken into account in statistical-thermodynamic and kinetic models of L1$_{2}$- or D0$_{19}$-type orderings for two cases, namely when dependences of volume of a sample of an alloy, $V$, on the long-range order parameter, $\\eta$, and composition are weak or essential, i.e. when it is possible or it is impossible to neglect them, respectively. If this $V$ weakly depends on $\\eta$ and composition, pressure does not influence $\\Delta\\eta|T_{K}$–jump of the long-range order parameter. Pressure only displaces a point of the order—disorder phase transformation, $T_{K}$, aside high or low values of $T$, depending on signs of those parameters, which characterize model. The $T_{K}(p)$ and $\\eta(p)$ dependences can be nonmonotonic, i.e. occurrence of two different points of order—disorder phase transformations appears possibly. If $V$ essentially depends on $\\eta$ and composition, $\\Delta\\eta|T_{K}$ is not a constant and can increase or decrease with increase of $p$. Dependence $T_{K}(p)$ is almost linear or nonlinear at low or high values of $p$, respectively. Pressure can promote atomic ordering or suppress it, change a kind of phase transition and symmetry of a crystal lattice of an alloy because of its transformation from tetragonal structure into rhombohedral one. The experimental data concerning characteristics of a (micro)heterogeneous structure of Fe—Ni Invar are discussed, and possible theoretical approaches for an explanation of their discrepancy are elucidated.",
+		"ru": "Дан обзор кристаллических структур сплавов Fe—Ni в экстремальных условиях (в частности, типа состояния внутри ядра Земли) – высоких давлении $p$ и температуре $T$. Проанализированы роль магнитных эффектов при атомном упорядочении, взаимное влияние атомного и магнитного порядков, а также влияние давления на магнитные свойства сплавов Fe—Ni: температуру Кюри $T_{C}$, фазовый переход ферромагнетик—антиферромагнетик, инварный эффект. С использованием приближения самосогласованного поля рассмотрены статистико-термодинамическая модель ГЦК-сплавов замещения с обоими магнитными компонентами (в рамках которой определены энергетические параметры их обменных взаимодействий и энергии «смешения»), а также модели кинетики релаксации ближнего и дальнего порядков пермаллоя (при нулевом $p$). Внешнее давление в статистико-термодинамической и кинетической моделях упорядочения по типу L1$_{2}$ или D0$_{19}$ учтено для двух случаев: когда зависимость объёма сплава $V$ от параметра дальнего порядка $\\eta$ и состава является слабой либо существенной, т.е. когда ею можно или же нельзя пренебречь соответственно. Если $V$ слабо зависит от $\\eta$ и состава, то $p$ не влияет на скачок $\\Delta\\eta|T_{K}$; давление лишь смещает точку фазового превращения порядок—беспорядок $T_{K}$ в сторону высоких или низких значений $T$, в зависимости от знаков параметров, входящих в модель. Зависимости $T_{K}(p)$, $\\eta(p)$ могут быть немонотонными, т.е. возможно появление двух разных точек фазовых превращений порядок—беспорядок. Если $V$ существеннозависитотηисостава,то $\\Delta\\eta|T_{K}$ не является постоянным, увеличиваясь или уменьшаясь с повышением $p$. Зависимость $T_{K}(p)$ является почти линейной либо нелинейной при низких или высоких значениях $p$ соответственно. Давление может способствовать атомному упорядочению или «подавлять» его, изменять род фазового перехода и симметрию кристаллической решётки сплава в связи с превращением её из тетрагональной в ромбоэдрическую структуру. Обсуждены данные экспериментов, касающиеся характеристик (микро)неоднородного строения инвара Fe—Ni, и обозначены возможные теоретические подходы для объяснения их противоречивости."
+	},
+	"keywords": {
+		"ua": "стопи Fe—Ni, фазове перетворення лад—безлад, вплив тиску на впорядкування атомів, кінетика релаксації порядку, магнетна взаємодія атомів заміщення, неоднорідність інвару, структура і властивості ядра Землі",
+		"en": "Fe–Ni alloys, order–disorder phase transition, pressure influence on atomic ordering, kinetics of order relaxation, magnetic interaction of substitutional atoms, heterogeneity of invar, structure and properties of Earth core",
+		"ru": "сплавы Fe—Ni, фазовое превращение порядок—беспорядок, влияние давления на упорядочение атомов, кинетика релаксации порядка, магнитное взаимодействие атомов замещения, неоднородность инвара, структура и свойства ядра Земли"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Т. М. Радченко", "en": "T. M. Radchenko", "ru": "Т. М. Радченко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. А. Татаренко", "en": "V. A. Tatarenko", "ru": "В. А. Татаренко"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  6,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.11.04.413",
+				"cit": "S. M. Bokoch and V. A. Tatarenko, <a href=\"https://doi.org/10.15407/ufm.11.04.413\">Usp. Fiz. Met. <b>11</b>, 413 (2010)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.18.01.059",
+				"cit": "P. P. Gorbyk, M. V. Abramov, I. V. Dubrovin, S. M. Makhno <i>et al.</i>, <a href=\"https://doi.org/10.15407/ufm.18.01.059\">Usp. Fiz. Met. <b>18</b>, 59 (2017)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.11.03.313",
+				"cit": "I. V. Vernyhora, S. M. Bokoch and V. A. Tatarenko, <a href=\"https://doi.org/10.15407/ufm.11.03.313\">Usp. Fiz. Met. <b>11</b>, 313 (2010)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.17.04.375",
+				"cit": "V. V. Kurylyak and G. I. Khimicheva, <a href=\"https://doi.org/10.15407/ufm.17.04.375\">Usp. Fiz. Met. <b>17</b>, 375 (2016)</a>."
+			},
+			{
+				"doi": "10.5402/2012/917836",
+				"cit": "I. V. Vernyhora, V. A. Tatarenko and S. M. Bokoch, <a href=\"https://doi.org/10.5402/2012/917836\">ISRN Thermodynamics <b>2012</b>, 1 (2012)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.18.02.155",
+				"cit": "V. V. Kurylyak and G. I. Khimicheva, <a href=\"https://doi.org/10.15407/ufm.18.02.155\">Usp. Fiz. Met. <b>18</b>, 155 (2017)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 373,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "С. В. Старенченко, Э. В. Козлов, В. А. Старенченко, Закономерности термического фазового перехода порядок–беспорядок в сплавах со сверхструктурами L12, L12(M), L12(MM), D1a (Томск: НТЛ: 2007).",
+				"tr":  "S. V. Starenchenko, E. V. Kozlov, V. A. Starenchenko, Zakonomernosti termicheskogo fazovogo perekhoda poryadok–besporyadok v splavakh so sverkhstrukturami L12, L12(M), L12(MM), D1a (Tomsk: NTL: 2007)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Смирнов, Упорядочение сплавов при высоких давлениях, Металлы, электроны, решётка (Киев: Наукова думка: 1975), сс. 28–47.",
+				"tr":  "A. A. Smirnov, Uporyadochenie splavov pri vysokikh davleniyakh, Metally, elektrony, reshetka (Kiev: Naukova dumka: 1975), pp. 28–47."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Ч. Никс, В. Шокли, Превращения в сплавах, УФН, 20, № 3: 344–409 (1938).",
+				"tr":  "F. Ch. Niks, V. Shokli, Prevrashcheniya v splavakh, Uspekhi Fiz. Nauk., 20, No. 3: 344–409 (1938)."
+			},
+			{
+				"doi": "10.3367/UFNr.0020.193808c.0536",
+				"or":  "Ф. Ч. Никс, В. Шокли, Превращения в сплавах, УФН, 20, № 4: 536–586 (1938).",
+				"tr":  "F. Ch. Niks, V. Shokli, Prevrashcheniya v splavakh, Uspekhi Fiz. Nauk., 20, No. 4: 536–586 (1938)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Кривоглаз, А. А. Смирнов, Теория упорядочивающихся сплавов (Москва: Физматгиз: 1958).",
+				"tr":  "M. A. Krivoglaz, A. A. Smirnov, Teoriya uporyadochivayushchikhsya splavov (Moskva: Fizmatgiz: 1958)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Муто, Ю. Такаги, Теория явлений упорядочения в сплавах (Москва: Иностр. лит.: 1959).",
+				"tr":  "T. Muto, Yu. Takagi, Teoriya yavleniy uporyadocheniya v splavakh (Moskva: Inostr. lit.: 1959)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Смирнов, Молекулярно-кинетическая теория металлов (Москва: Наука: 1966).",
+				"tr":  "A. A. Smirnov, Molekulyarno-kineticheskaya teoriya metallov (Moskva: Nauka: 1966)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Смирнов, Обобщенная теория упорядочения сплавов (Киев: Наукова думка: 1986).",
+				"tr":  "A. A. Smirnov, Obobshchennaya teoriya uporyadocheniya splavov (Kiev: Naukova dumka: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Смирнов, Теория вакансий в металлах и сплавах и ее применение к сплавам вычитания (Киев: Наукова думка: 1993).",
+				"tr":  "A. A. Smirnov, Teoriya vakansiy v metallakh i splavakh i ee primenenie k splavam vychitaniya (Kiev: Naukova dumka: 1993)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Гинье, Неоднородные металлические твердые растворы (Москва: ИЛ: 1962).",
+				"tr":  "A. Gin'e, Neodnorodnye metallicheskie tverdye rastvory (Moskva: IL: 1962)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Кестер, Ближнее упорядочение и ближнее расслоение в твердых растворах, Тонкая структура твердых растворов (Москва: Металлургия: 1968), сс. 196–220.",
+				"tr":  "V. Kester, Blizhnee uporyadochenie i blizhnee rassloenie v tverdykh rastvorakh, Tonkaya struktura tverdykh rastvorov (Moskva: Metallurgiya: 1968), pp. 196–220."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Иверонова, А. А. Кацнельсон, Ближний порядок в твердых растворах (Москва: Наука: 1977).",
+				"tr":  "V. I. Iveronova, A. A. Katsnel'son, Blizhniy poryadok v tverdykh rastvorakh (Moskva: Nauka: 1977)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Хачатурян, Теория фазовых превращений и структура твердых растворов (Москва: Наука: 1974).",
+				"tr":  "A. G. Khachaturyan, Teoriya fazovykh prevrashcheniy i struktura tverdykh rastvorov (Moskva: Nauka: 1974)."
+			},
+			{
+				"doi": "",
+				"or":  "A. G. Khachaturyan, Theory of Structural Transformations in Solids (New York: John Wiley & Sons Inc.: 1983).",
+				"tr":  "A. G. Khachaturyan, Theory of Structural Transformations in Solids (New York: John Wiley & Sons Inc.: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. А. Скаков, А. М. Глезер, Упорядочение и внутрифазовые превращения, Итоги науки и техники. Металловедение и термическая обработка (Москва: ВИНИТИ: 1975), сс. 5–72.",
+				"tr":  "Yu. A. Skakov, A. M. Glezer, Uporyadochenie i vnutrifazovye prevrashcheniya, Itogi nauki i tekhniki. Metallovedenie i termicheskaya obrabotka (Moskva: VINITI: 1975), ss. 5–72."
+			},
+			{
+				"doi": "",
+				"or":  "Н. М. Матвеева, Э. В. Козлов, Упорядоченные фазы в металлических системах (Москва: Наука: 1989).",
+				"tr":  "N. M. Matveeva, E. V. Kozlov, Uporyadochennye fazy v metallicheskikh sistemakh (Moskva: Nauka: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. В. Козлов, В. М. Дементьев, Н. М. Кормин, Д. М. Штерн, Структуры и стабильность упорядоченных фаз (Томск: Изд-во Томского университета: 1994).",
+				"tr":  "E. V. Kozlov, V. M. Dementyev, N. M. Kormin, D. M. Shtern, Struktury i stabil'nost' uporyadochennykh faz (Tomsk: Izd-vo Tomskogo universiteta: 1994)."
+			},
+			{
+				"doi": "10.1002/pssa.2210720102",
+				"or":  "F. Reynaud, Order–Disorder Transition in Substitutional Solid Solution, Phys. Stat. Sol. A, 72: 11–60 (1982).",
+				"tr":  "F. Reynaud, Order–Disorder Transition in Substitutional Solid Solution, Phys. Stat. Sol. A, 72: 11–60 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "L. E. Tanner and H. J. Leamy, The Microstructure of Order–Disorder Transitions, Order–Disorder Transformation in Alloys (Ed. H. Warlimont) (Berlin: 1974), pp. 180–239.",
+				"tr":  "L. E. Tanner and H. J. Leamy, The Microstructure of Order–Disorder Transitions, Order–Disorder Transformation in Alloys (Ed. H. Warlimont) (Berlin: 1974), pp. 180–239."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Гусев, А. А. Ремпель, Термодинамика структурных вакансий в нестехиометрических фазах внедрения (Свердловск: УНЦ АН СССР: 1987).",
+				"tr":  "A. I. Gusev, A. A. Rempel', Termodinamika strukturnykh vakansiy v nestekhiometricheskikh fazakh vnedreniya (Sverdlovsk: UNTs AN SSSR: 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Гусев, А. А. Ремпель, Структурные фазовые переходы в нестехиометрических соединениях (Москва: Наука: 1988).",
+				"tr":  "A. I. Gusev, A. A. Rempel', Strukturnye fazovye perekhody v nestekhiometricheskikh soedineniyakh (Moskva: Nauka: 1988)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Потекаев, И. И. Наумов, В. В. Кулагина В. Н. Удодов, О.И. Великохатный, С. В. Еремеев, Естественные длиннопериодические наноструктуры (Томск: НТЛ: 2002).",
+				"tr":  "A. I. Potekaev, I. I. Naumov, V. V. Kulagina V. N. Udodov, O.I. Velikokhatnyy, S. V. Eremeev, Estestvennye dlinnoperiodicheskie nanostruktury (Tomsk: NTL: 2002)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Бондар, В. М. Великанова, В. М. Даниленко и др., Стабильность фаз и фазовые равновесия в сплавах переходных металлов (Киев: Наукова думка: 1991).",
+				"tr":  "A. A. Bondar, V. M. Velikanova, V. M. Danilenko et al., Stabil'nost' faz i fazovye ravnovesiya v splavakh perekhodnykh metallov (Kiev: Naukova dumka: 1991)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Бугаев, В. А. Татаренко, Взаимодействие и распределение атомов в сплавах внедрения на основе плотноупакованных металлов (Киев: Наукова думка: 1989).",
+				"tr":  "V. N. Bugaev, V. A. Tatarenko, Vzaimodeystvie i raspredelenie atomov v splavakh vnedreniya na osnove plotnoupakovannykh metallov (Kiev: Naukova dumka: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Татаренко, Т. М. Радченко, Прямі й непрямі методи аналізу міжатомної взаємодії та кінетики релаксації близького порядку в щільно впакованих твердих розчинах заміщення (втілення), Успехи физики металлов, 3, № 2: 111–236 (2002).",
+				"tr":  "V. A. Tatarenko, T. M. Radchenko, Pryami y nepryami metodi analizu mizhatomnoi vzaiemodii ta kinetiki relaksatsii bliz'kogo poryadku v shchil'no vpakovanikh tverdikh rozchinakh zamishchennya (vtilennya), Uspehi Fiziki Metallov, 3, No. 2: 111–236 (2002)."
+			},
+			{
+				"doi": "10.1016/j.physrep.2003.10.005",
+				"or":  "V. G. Vaks, Kinetics of Phase Separation and Ordering in Alloys, Physics Reports, 391, Nos. 3–6: 157–242 (2004).",
+				"tr":  "V. G. Vaks, Kinetics of Phase Separation and Ordering in Alloys, Physics Reports, 391, Nos. 3–6: 157–242 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Guttman, Order–Disorder Phenomenon in Metals, Solid State Physics (Eds. F. Seitz and D. Turnbull) (New York: Academic Press Inc.: 1956), p. 145.",
+				"tr":  "L. Guttman, Order–Disorder Phenomenon in Metals, Solid State Physics (Eds. F. Seitz and D. Turnbull) (New York: Academic Press Inc.: 1956), p. 145."
+			},
+			{
+				"doi": "",
+				"or":  "S. Ogawa, M. Hirabayashi, D. Watanabe, and H. Iwasaki, Long-Period Ordered Alloys (Tokyo: Agne Gijutsu Center Inc.: 1997).",
+				"tr":  "S. Ogawa, M. Hirabayashi, D. Watanabe, and H. Iwasaki, Long-Period Ordered Alloys (Tokyo: Agne Gijutsu Center Inc.: 1997)."
+			},
+			{
+				"doi": "10.1098/rsta.1982.0063",
+				"or":  "O. L. Anderson, The Earth’s Core and the Phase Diagram of Iron, Phil. Trans. Roy. Soc. Lond. A, 306: 21–35 (1982).",
+				"tr":  "O. L. Anderson, The Earth's Core and the Phase Diagram of Iron, Phil. Trans. Roy. Soc. Lond. A, 306: 21–35 (1982)."
+			},
+			{
+				"doi": "10.1098/rsta.1999.0497",
+				"or":  "L. Vočadlo and D. Dobson, The Earth’s Deep Interior: Advances in Theory and Experiment, Phil. Trans. Roy. Soc. Lond. A, 357: 3335–3357 (1999).",
+				"tr":  "L. Vočadlo and D. Dobson, The Earth's Deep Interior: Advances in Theory and Experiment, Phil. Trans. Roy. Soc. Lond. A, 357: 3335–3357 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "From Crust to Core. Geomaterials Research at Bayerisches Geoinstitut (Ed. F. Seifert) (Bayreuth: Druckerei Heinz Neubert Gmbh: 2004).",
+				"tr":  "From Crust to Core. Geomaterials Research at Bayerisches Geoinstitut (Ed. F. Seifert) (Bayreuth: Druckerei Heinz Neubert Gmbh: 2004)."
+			},
+			{
+				"doi": "",
+				"or":  "W. F. McDonough, Compositional Model for the Earth’s Core, The Mantle and Core (Ed. R. Carlson) (Oxford: Elsevier/Pergamon: 2003), pp. 547–568.",
+				"tr":  "W. F. McDonough, Compositional Model for the Earth's Core, The Mantle and Core (Ed. R. Carlson) (Oxford: Elsevier/Pergamon: 2003), pp. 547–568."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Анисичкин, Ударно-волновые данные как доказательство присутствия углерода в ядре и нижней мантии Земли, ФГВ, 36, № 4: 108–114 (2000).",
+				"tr":  "V. F. Anisichkin, Udarno-volnovye dannye kak dokazatel'stvo prisutstviya ugleroda v yadre i nizhney mantii Zemli, FGV, 36, No. 4: 108–114 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "С. М. Караханов, С. А. Бордзиловский, А. И. Туркин, В. Ф. Анисичкин, Измерение скорости звука в смесях железа с алмазом, Труды международной конференции ‘Shock Waves in Condensed Matter’ (Санкт-Петербург: 2002), cc. 127–129.",
+				"tr":  "S. M. Karakhanov, S. A. Bordzilovskiy, A. I. Turkin, V. F. Anisichkin, Izmerenie skorosti zvuka v smesyakh zheleza s almazom, Trudy mezhdunarodnoy konferentsii 'Shock Waves in Condensed Matter' (Sankt-Peterburg: 2002), cc. 127–129."
+			},
+			{
+				"doi": "",
+				"or":  "Information at http://www.sbras.ru/win/sbras/rep/rep2002/t1-2/50/50.htm.",
+				"tr":  "Information at http://www.sbras.ru/win/sbras/rep/rep2002/t1-2/50/50.htm."
+			},
+			{
+				"doi": "",
+				"or":  "А. К. Борисова, С. С. Грацианова, С. И. Олевский и др., Прецизионные сплавы с особыми свойствами теплового расширения и упругости (Москва: Изд-во Стандартов: 1972).",
+				"tr":  "A. K. Borisova, S. S. Gratsianova, S. I. Olevskiy et al., Pretsizionnye splavy s osobymi svoystvami teplovogo rasshireniya i uprugosti (Moskva: Izd-vo Standartov: 1972)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Г. Лифшиц, В. С. Крапоткин, Я. Л. Линецкий, Физические свойства металлов и сплавов (Металлургия: Москва: 1980).",
+				"tr":  "B. G. Lifshits, V. S. Krapotkin, Ya. L. Linetskiy, Fizicheskie svoystva metallov i splavov (Metallurgiya: Moskva: 1980)."
+			},
+			{
+				"doi": "",
+				"or":  "Прецизионные сплавы (Ред. Б. В. Молотилов) (Наука: Москва: 1983).",
+				"tr":  "Pretsizionnye splavy (Red. B. V. Molotilov) (Nauka: Moskva: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Захаров, Физика прецизионных сплавов с особыми тепловыми свойствами (Металлургия: Москва: 1986).",
+				"tr":  "A. I. Zakharov, Fizika pretsizionnykh splavov s osobymi teplovymi svoystvami (Metallurgiya: Moskva: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. В. Молотилов, В. И. Маторин, Принципы конструирования новых функциональных материалов, Сталь, № 8: 92–94 (2004).",
+				"tr":  "B. V. Molotilov, V. I. Matorin, Printsipy konstruirovaniya novykh funktsional'nykh materialov, Stal', No. 8: 92–94 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Stixrude and J. M. Brown, The Earth’s Core, Mineralogy. Mineralogical Society of America (Washington, DC: 1998), pp. 261–282.",
+				"tr":  "L. Stixrude and J. M. Brown, The Earth's Core, Mineralogy. Mineralogical Society of America (Washington, DC: 1998), pp. 261–282."
+			},
+			{
+				"doi": "",
+				"or":  "R. J. Hemley and H. K. Mao, In-Situ Studies of Iron under Pressure: New Windows on the Earth’s Core, Inter. Geol. Rev., 43: 1–30 (2001).",
+				"tr":  "R. J. Hemley and H. K. Mao, In-Situ Studies of Iron under Pressure: New Windows on the Earth's Core, Inter. Geol. Rev., 43: 1–30 (2001)."
+			},
+			{
+				"doi": "10.1029/97GL03776",
+				"or":  "G. Shen, H. K. Mao, R. J. Hemley, T. S. Duffy, and M. L. Rivers, Melting and Crystal Structure of Iron at High Pressures and Temperatures, Geophys. Res. Lett., 25: 373–376 (1998).",
+				"tr":  "G. Shen, H. K. Mao, R. J. Hemley, T. S. Duffy, and M. L. Rivers, Melting and Crystal Structure of Iron at High Pressures and Temperatures, Geophys. Res. Lett., 25: 373–376 (1998)."
+			},
+			{
+				"doi": "10.1126/science.145.3631.483",
+				"or":  "T. Takahashi and W. A. Bassett, A High Pressure Polymorph of Iron, Science, 145: 483–486 (1964).",
+				"tr":  "T. Takahashi and W. A. Bassett, A High Pressure Polymorph of Iron, Science, 145: 483–486 (1964)."
+			},
+			{
+				"doi": "10.1016/j.pepi.2003.06.005",
+				"or":  "Y. Ma, M. Somayazulu, G. Shen, H. Mao, J. Shu, and R. J. Hemley, In-Situ X-Ray Diffraction Studies of Iron to Earth-Core Conditions, Phys. Earth Planet Int., 143–144: 455–467 (2004).",
+				"tr":  "Y. Ma, M. Somayazulu, G. Shen, H. Mao, J. Shu, and R. J. Hemley, In-Situ X-Ray Diffraction Studies of Iron to Earth-Core Conditions, Phys. Earth Planet Int., 143–144: 455–467 (2004)."
+			},
+			{
+				"doi": "10.1126/science.278.5339.831",
+				"or":  "D. Andrault, G. Fiquet, M. Kunz, F. Visocekas, and D. Häusermann, The Orthorhombic Structure of Iron: An In Situ Study at High Temperature and High Pressure, Science, 278: 831–834 (1997).",
+				"tr":  "D. Andrault, G. Fiquet, M. Kunz, F. Visocekas, and D. Häusermann, The Orthorhombic Structure of Iron: An In Situ Study at High Temperature and High Pressure, Science, 278: 831–834 (1997)."
+			},
+			{
+				"doi": "10.1038/363534a0",
+				"or":  "R. Boehler, Temperature in the Earth’s Core From the Melting Point Measurements of Iron at High Static Pressures, Nature, 363: 534–536 (1993).",
+				"tr":  "R. Boehler, Temperature in the Earth's Core From the Melting Point Measurements of Iron at High Static Pressures, Nature, 363: 534–536 (1993)."
+			},
+			{
+				"doi": "10.1029/96GL02258",
+				"or":  "S. K. Saxena, L. S. Dubrovinsky, and P. Häggkvist, X-Ray Evidence for the New Phase of β-Iron at High Temperature and High Pressure, Geophys. Res. Lett., 23: 2441–2444 (1996).",
+				"tr":  "S. K. Saxena, L. S. Dubrovinsky, and P. Häggkvist, X-Ray Evidence for the New Phase of β-Iron at High Temperature and High Pressure, Geophys. Res. Lett., 23: 2441–2444 (1996)."
+			},
+			{
+				"doi": "10.1029/97JB01641",
+				"or":  "O. L. Anderson and A. Duba, Experimental Melting Curve of Iron Revisited. J. Geophys. Res., 102: 22659–22669 (1997).",
+				"tr":  "O. L. Anderson and A. Duba, Experimental Melting Curve of Iron Revisited. J. Geophys. Res., 102: 22659–22669 (1997)."
+			},
+			{
+				"doi": "10.1029/JB095iB13p21709",
+				"or":  "W. A. Bassett and M. S. Weathers, Stability of the Body-Centred Cubic Phase of Iron—a Thermodynamic Analysis, J. Geophys. Res., 95: 21709–21711 (1990).",
+				"tr":  "W. A. Bassett and M. S. Weathers, Stability of the Body-Centred Cubic Phase of Iron—a Thermodynamic Analysis, J. Geophys. Res., 95: 21709–21711 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Matsui, Molecular Dynamics Study of Iron at Earth’s Inner Core Conditions, AIP Conf. Proc. (American Institute of Physics: 1993), pp. 887–891.",
+				"tr":  "M. Matsui, Molecular Dynamics Study of Iron at Earth's Inner Core Conditions, AIP Conf. Proc. (American Institute of Physics: 1993), pp. 887–891."
+			},
+			{
+				"doi": "",
+				"or":  "L. Vočadlo, G. de Wijs, G. Kresse, M. J. Gillan, and G. D. Price, First Principles Calculations on Crystalline and Liquid Iron at Earth’s Core Conditions: in Solid-State Chemistry—New Opportunities from Computer Simulations, Faraday Discussions, No. 106: 205–217 (1997).",
+				"tr":  "L. Vočadlo, G. de Wijs, G. Kresse, M. J. Gillan, and G. D. Price, First Principles Calculations on Crystalline and Liquid Iron at Earth's Core Conditions: in Solid-State Chemistry—New Opportunities from Computer Simulations, Faraday Discussions, No. 106: 205–217 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "J. H. Nguyen and N. C. Holmes, Iron Sound Velocities in Shock Wave Experiments up to 400 GPa, AGU Abstracts 79: T21D-06 (1998).",
+				"tr":  "J. H. Nguyen and N. C. Holmes, Iron Sound Velocities in Shock Wave Experiments up to 400 GPa, AGU Abstracts 79: T21D-06 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Steinle-Neumann, L. Stixrude, and R. E. Cohen, Physical Properties of Iron in the Inner Core, AGU Geodynamics Series Book on ‘Core Structure, Dynamics, and Rotation’ (Eds. V. Dehant et al.); http://arxiv.org/abs/physics/0204055v1",
+				"tr":  "G. Steinle-Neumann, L. Stixrude, and R. E. Cohen, Physical Properties of Iron in the Inner Core, AGU Geodynamics Series Book on 'Core Structure, Dynamics, and Rotation' (Eds. V. Dehant et al.); http://arxiv.org/abs/physics/0204055v1"
+			},
+			{
+				"doi": "10.1016/j.pepi.2005.06.003",
+				"or":  "C. M. S. Gannarelli, D. Alfè and M. J. Gillan, The Axial Ratio of HCP Iron at the Conditions of the Earth’s Inner Core, Phys. Earth Planet Int., 152: 67–77 (2005).",
+				"tr":  "C. M. S. Gannarelli, D. Alfè and M. J. Gillan, The Axial Ratio of HCP Iron at the Conditions of the Earth's Inner Core, Phys. Earth Planet Int., 152: 67–77 (2005)."
+			},
+			{
+				"doi": "10.1029/JB095iB13p21737",
+				"or":  "H. K. Mao, Y. Wu, L. C. Chen, J. F. Shu, and A. P. Jephcoat, Static Compression of Iron to 300 GPa and Fe0.8Ni0.2 Alloy to 260 GPa: Implications for Composition of the Core, J. Geophys. Res., 95: 21737–21742 (1990).",
+				"tr":  "H. K. Mao, Y. Wu, L. C. Chen, J. F. Shu, and A. P. Jephcoat, Static Compression of Iron to 300 GPa and Fe0.8Ni0.2 Alloy to 260 GPa: Implications for Composition of the Core, J. Geophys. Res., 95: 21737–21742 (1990)."
+			},
+			{
+				"doi": "10.1029/JB093iB07p07741",
+				"or":  "E. Huang, W. A. Basset, and M. S. Weathers, Phase Relationships of Fe–Ni Alloys at High Pressures and Temperatures, J. Geophys. Res., 93: 7741–7746 (1988).",
+				"tr":  "E. Huang, W. A. Basset, and M. S. Weathers, Phase Relationships of Fe–Ni Alloys at High Pressures and Temperatures, J. Geophys. Res., 93: 7741–7746 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "J. F. Lin, D. L. Heinz, A. J. Campbell, J. M. Devine, W. L. Mao, and G. Shen, Iron–Nickel Alloy in Earth’s Core, Geophys. Res. Lett., 29, No. 10: 109-1–3 (2002).",
+				"tr":  "J. F. Lin, D. L. Heinz, A. J. Campbell, J. M. Devine, W. L. Mao, and G. Shen, Iron–Nickel Alloy in Earth's Core, Geophys. Res. Lett., 29, No. 10: 109-1–3 (2002)."
+			},
+			{
+				"doi": "10.1029/92JB00020",
+				"or":  "E. Huang, W. A. Basset, and M. S. Weathers, Phase Diagram and Elastic Properties of Fe–30%Ni Alloy by Synchrotron, J. Geophys. Res., 97: 4497–4502 (1992).",
+				"tr":  "E. Huang, W. A. Basset, and M. S. Weathers, Phase Diagram and Elastic Properties of Fe–30%Ni Alloy by Synchrotron, J. Geophys. Res., 97: 4497–4502 (1992)."
+			},
+			{
+				"doi": "10.1016/j.pepi.2005.11.002",
+				"or":  "W. L. Mao, A. J. Campbell, D. L. Heinz, and G. Shen, Phase Relations of Fe–Ni Alloys at High Pressure and Temperature, Phys. Earth Planet Int., 155: 146–151 (2006).",
+				"tr":  "W. L. Mao, A. J. Campbell, D. L. Heinz, and G. Shen, Phase Relations of Fe–Ni Alloys at High Pressure and Temperature, Phys. Earth Planet Int., 155: 146–151 (2006)."
+			},
+			{
+				"doi": "10.1038/nature01954",
+				"or":  "A. B. Belonoshko, R. Ahuja, and B. Johansson, Stability of the Body-Centered-Cubic Phase of Iron in the Earth’s Inner Core, Nature, 424: 1032–1034 (2003).",
+				"tr":  "A. B. Belonoshko, R. Ahuja, and B. Johansson, Stability of the Body-Centered-Cubic Phase of Iron in the Earth's Inner Core, Nature, 424: 1032–1034 (2003)."
+			},
+			{
+				"doi": "10.1038/nature01829",
+				"or":  "L. Vočadlo, D. Alfe, M. J. Gillan, I. G. Wood, J. P. Brodholt, and G. D. Price, Possible Thermal and Chemical Stabilization of Body-Centred-Cubic Iron in the Earth’s Core, Nature, 424: 536–526 (2003).",
+				"tr":  "L. Vočadlo, D. Alfe, M. J. Gillan, I. G. Wood, J. P. Brodholt, and G. D. Price, Possible Thermal and Chemical Stabilization of Body-Centred-Cubic Iron in the Earth's Core, Nature, 424: 536–526 (2003)."
+			},
+			{
+				"doi": "10.1016/j.epsl.2006.05.028",
+				"or":  "L. Vočadlo, D. Dobson, and I. G. Wood, An Ab Initio Study of Nickel Substitution into Iron, Earth Planet. Sci. Lett, 248: 147–152 (2006).",
+				"tr":  "L. Vočadlo, D. Dobson, and I. G. Wood, An Ab Initio Study of Nickel Substitution into Iron, Earth Planet. Sci. Lett, 248: 147–152 (2006)."
+			},
+			{
+				"doi": "10.1126/science.1142105",
+				"or":  "L. Dubrovinsky, N. Dubrovinskaia, O. Narygina, I. Kantor, A. Kuznetsov, V. B. Prakapenka, L. Vitos, B. Johansson, A. S. Mikhaylushkin, S. I. Simak, and I. A. Abrikosov, Body-Centered Cubic Iron–Nickel Alloy in Earth’s Core, Science, 316: 1880–1883 (2007).",
+				"tr":  "L. Dubrovinsky, N. Dubrovinskaia, O. Narygina, I. Kantor, A. Kuznetsov, V. B. Prakapenka, L. Vitos, B. Johansson, A. S. Mikhaylushkin, S. I. Simak, and I. A. Abrikosov, Body-Centered Cubic Iron–Nickel Alloy in Earth's Core, Science, 316: 1880–1883 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.92.185701",
+				"or":  "G. Shen, V. B. Prakapenka, M. L. Rivers, and S. R. Sutton, Structure of Liquid Iron at Pressures up to 58 GPa, Phys. Rev. Lett., 92, No. 18: 185701-1–4 (2004).",
+				"tr":  "G. Shen, V. B. Prakapenka, M. L. Rivers, and S. R. Sutton, Structure of Liquid Iron at Pressures up to 58 GPa, Phys. Rev. Lett., 92, No. 18: 185701-1–4 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.60.791",
+				"or":  "G. Steinle-Neumann, L. Stixrude, and R. E. Cohen, First Principles Elastic Constants for H.C.P. Transition Metals Fe, Co and Re at High Pressure, Phys. Rev. B, 60: 791–799 (1999).",
+				"tr":  "G. Steinle-Neumann, L. Stixrude, and R. E. Cohen, First Principles Elastic Constants for H.C.P. Transition Metals Fe, Co and Re at High Pressure, Phys. Rev. B, 60: 791–799 (1999)."
+			},
+			{
+				"doi": "10.1016/j.pepi.2004.02.002",
+				"or":  "R. E. Cohen and S. Mukherjee, Non-Collinear Magnetism in Iron at High Pressures, Phys. Earth Planet Int., 143–144: 445–453 (2004).",
+				"tr":  "R. E. Cohen and S. Mukherjee, Non-Collinear Magnetism in Iron at High Pressures, Phys. Earth Planet Int., 143–144: 445–453 (2004)."
+			},
+			{
+				"doi": "10.1088/0953-8984/16/14/020",
+				"or":  "G. Steinle-Neumann, R. E. Cohen, and L. Stixrude, Magnetism in Iron as a Function of Pressure, J. Phys.: Condens. Matter, 16: S1109–S1119 (2004).",
+				"tr":  "G. Steinle-Neumann, R. E. Cohen, and L. Stixrude, Magnetism in Iron as a Function of Pressure, J. Phys.: Condens. Matter, 16: S1109–S1119 (2004)."
+			},
+			{
+				"doi": "10.1073/pnas.2237239100",
+				"or":  "G. Steinle-Neumann, L. Stixrude, and R. E. Cohen, Magnetism in Dense Hexagonal Iron, Proc. Natl. Acad. Sci., 101: 33–36 (2004).",
+				"tr":  "G. Steinle-Neumann, L. Stixrude, and R. E. Cohen, Magnetism in Dense Hexagonal Iron, Proc. Natl. Acad. Sci., 101: 33–36 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Я. Шиняев, Фазовые превращения и свойства сплавов при высоком давлении (Москва: Наука: 1973).",
+				"tr":  "A. Ya. Shinyaev, Fazovye prevrashcheniya i svoystva splavov pri vysokom davlenii (Moskva: Nauka: 1973)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.84.1720",
+				"or":  "L. S. Dubrovinsky, S. K. Saxena, F. Tutti, S. Rekhi, and T. LeBehan, In Situ X-Ray Study of Thermal Expansion and Phase Transition of Iron at Multimegabar Pressure, Phys. Rev. Lett., 84, No. 8: 1720–1723 (2000).",
+				"tr":  "L. S. Dubrovinsky, S. K. Saxena, F. Tutti, S. Rekhi, and T. LeBehan, In Situ X-Ray Study of Thermal Expansion and Phase Transition of Iron at Multimegabar Pressure, Phys. Rev. Lett., 84, No. 8: 1720–1723 (2000)."
+			},
+			{
+				"doi": "10.1007/978-1-4020-2102-2_24",
+				"or":  "L. Dubrovinsky and N. Dubrovinskaia, High-Pressure Crystallography at Elevated Temperatures: Experimental Approach, High Pressure Crystallography. NATO Series II. Mathematics, Physics and Chemistry (Eds. A. Katrusiak and P. McMillan) (Dordrecht: Kluwer Academic: 2004), pp. 393–410.",
+				"tr":  "L. Dubrovinsky and N. Dubrovinskaia, High-Pressure Crystallography at Elevated Temperatures: Experimental Approach, High Pressure Crystallography. NATO Series II. Mathematics, Physics and Chemistry (Eds. A. Katrusiak and P. McMillan) (Dordrecht: Kluwer Academic: 2004), pp. 393–410."
+			},
+			{
+				"doi": "",
+				"or":  "Supporting Online Material on Science online: http://www.sciencemag.org/cgi/content/full/316/5833/1880/DC1",
+				"tr":  "Supporting Online Material on Science online: http://www.sciencemag.org/cgi/content/full/316/5833/1880/DC1"
+			},
+			{
+				"doi": "10.1029/JB091iB07p07485",
+				"or":  "J. M. Brown and R. G. McQueen, Phase Transitions, Grüneisen Parameter, and Elasticity for Shocked Iron Between 77 GPa and 400 GPa, J. Geophys. Res., 91, No. B7: 7485–7494 (1986).",
+				"tr":  "J. M. Brown and R. G. McQueen, Phase Transitions, Grüneisen Parameter, and Elasticity for Shocked Iron Between 77 GPa and 400 GPa, J. Geophys. Res., 91, No. B7: 7485–7494 (1986)."
+			},
+			{
+				"doi": "10.1029/2001GL013759",
+				"or":  "J. M. Brown, The Equation of State for Iron to 450 GPa: Another High Pressure Phase? Geophys. Res. Lett., 28, No. 22: 4339–4342 (2001).",
+				"tr":  "J. M. Brown, The Equation of State for Iron to 450 GPa: Another High Pressure Phase? Geophys. Res. Lett., 28, No. 22: 4339–4342 (2001)."
+			},
+			{
+				"doi": "10.1038/nature01954",
+				"or":  "A. B. Belonoshko, R. Ahuja, and B. Johansson, Stability of the Body-Centred-Cubic Phase of Iron in the Earth’s Inner Core, Nature, 424: 1032–1034 (2003).",
+				"tr":  "A. B. Belonoshko, R. Ahuja, and B. Johansson, Stability of the Body-Centred-Cubic Phase of Iron in the Earth's Inner Core, Nature, 424: 1032–1034 (2003)."
+			},
+			{
+				"doi": "10.1126/science.1066932",
+				"or":  "J. F. Lin, D. L. Heinz, A. J. Campbell, J. M. Devine, and G. Shen, Iron–Silicon Alloy in the Earth’s Core, Science, 295: 313–315 (2002).",
+				"tr":  "J. F. Lin, D. L. Heinz, A. J. Campbell, J. M. Devine, and G. Shen, Iron–Silicon Alloy in the Earth's Core, Science, 295: 313–315 (2002)."
+			},
+			{
+				"doi": "10.1038/35092536",
+				"or":  "G. Steinle-Neumann, L. Stixrude, R. E. Cohen, and O. Gulseren, Elasticity of Iron at the Temperature of the Earth’s Inner Core, Nature, 413: 57–60 (2001).",
+				"tr":  "G. Steinle-Neumann, L. Stixrude, R. E. Cohen, and O. Gulseren, Elasticity of Iron at the Temperature of the Earth's Inner Core, Nature, 413: 57–60 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "A. E. Krasovskii, Elastic and Thermal Properties of FeNi3 Alloy under Earth’s Inner Core Conditions, Ukr. J. Phys., 50, No. 8: 836-842 (2005).",
+				"tr":  "A. E. Krasovskii, Elastic and Thermal Properties of FeNi3 Alloy under Earth's Inner Core Conditions, Ukr. J. Phys., 50, No. 8: 836-842 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.79.214112",
+				"or":  "C. Asker, L. Vitos, and I. A. Abrikosov, Elastic Constants and Anisotropy in FeNi Alloys at High Pressures from First-Principles Calculations, Phys. Rev. B (2009) (у друку).",
+				"tr":  "C. Asker, L. Vitos, and I. A. Abrikosov, Elastic Constants and Anisotropy in FeNi Alloys at High Pressures from First-Principles Calculations, Phys. Rev B, 79: 214112 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Л. Седов, Антиферромагнетизм гамма-железа. Проблема инвара (Москва: Наука: 1987).",
+				"tr":  "V. L. Sedov, Antiferromagnetizm gamma-zheleza. Problema invara (Moskva: Nauka: 1987)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(97)01076-7",
+				"or":  "V. L. Sedov and O. A. Tsigel’nik, Magnetic Moments of Iron Atoms in Invar Fe–Ni Alloys, J. Magn. Magn. Mater., 183, Nos. 1–2: 117–126 (1998).",
+				"tr":  "V. L. Sedov and O. A. Tsigel'nik, Magnetic Moments of Iron Atoms in Invar Fe–Ni Alloys, J. Magn. Magn. Mater., 183, Nos. 1–2: 117–126 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Даниленко, Д. Р. Риздвянецкий, А. А. Смирнов, Упорядочение ферромагнитных сплавов с гранецентрированной кубической решеткой, Физ. мет. металловед., 15, № 2: 194–202 (1963).",
+				"tr":  "V. M. Danilenko, D. R. Rizdvyanetskiy, A. A. Smirnov, Uporyadochenie ferromagnitnykh splavov s granetsentrirovannoy kubicheskoy reshetkoy, Fiz. Met. Metalloved., 15, No. 2: 194–202 (1963)."
+			},
+			{
+				"doi": "10.1088/0022-3719/13/9/017",
+				"or":  "J. L. Moran-Lopez and L. M. Falicov, Ferromagnetism and Spatial Long-Range Order in Binary Alloys, J. Phys. C: Solid State Phys., 13, No. 9: 1715–1723 (1980).",
+				"tr":  "J. L. Moran-Lopez and L. M. Falicov, Ferromagnetism and Spatial Long-Range Order in Binary Alloys, J. Phys. C: Solid State Phys., 13, No. 9: 1715–1723 (1980)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.24.5270",
+				"or":  "F. Mejía-Lira, J. Urías, and J. L. Morán-López, Order–Disorder Transformation in Ferromagnetic Binary Alloys, Phys. Rev. B, 24, No. 9: 5270–5276 (1981).",
+				"tr":  "F. Mejía-Lira, J. Urías, and J. L. Morán-López, Order–Disorder Transformation in Ferromagnetic Binary Alloys, Phys. Rev. B, 24, No. 9: 5270–5276 (1981)."
+			},
+			{
+				"doi": "10.1002/pssb.2220460131",
+				"or":  "S. F. Dubinin, S. K. Sidorov, and E. Z. Valiev, Magnetic Properties and the Invar Effect of Iron-Nickel Alloys, Phys. Stat. Sol. (b), 46, No. 1: 337–344 (1971).",
+				"tr":  "S. F. Dubinin, S. K. Sidorov, and E. Z. Valiev, Magnetic Properties and the Invar Effect of Iron-Nickel Alloys, Phys. Stat. Sol. (b), 46, No. 1: 337–344 (1971)."
+			},
+			{
+				"doi": "10.1002/pssb.19660160240",
+				"or":  "S. K. Sidorov and A. V. Doroshenko, On the Magnetic Structure of Some Alloys of Transition Metals, Phys. Stat. Sol., 16, No. 2: 737–744 (1966).",
+				"tr":  "S. K. Sidorov and A. V. Doroshenko, On the Magnetic Structure of Some Alloys of Transition Metals, Phys. Stat. Sol., 16, No. 2: 737–744 (1966)."
+			},
+			{
+				"doi": "10.1016/0378-4363(81)91004-4",
+				"or":  "G. Inden, The Role of Magnetism in the Calculation of Phase Diagrams, Physica B, 103, No. 1: 82–100 (1981).",
+				"tr":  "G. Inden, The Role of Magnetism in the Calculation of Phase Diagrams, Physica B, 103, No. 1: 82–100 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Inden, Alloy Phase Diagrams (Eds. L. H. Bennett, T. B. Massalski, and B. C. Giessen) (New York: North-Holland: 1983), p. 175.",
+				"tr":  "G. Inden, Alloy Phase Diagrams (Eds. L. H. Bennett, T. B. Massalski, and B. C. Giessen) (New York: North-Holland: 1983), p. 175."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Инден, Диаграммы фаз в сплавах (Ред. Л. Беннет, Т. Массалски, Б. Гиссен) (Москва: Мир: 1986), сс. 114–127, 260 (пер. с англ.).",
+				"tr":  "G. Inden, Diagrammy faz v splavakh (Red. L. Bennet, T. Massalski, B. Gissen) (Moskva: Mir: 1986), ss. 114–127, 260 (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Crangle and G. C. Hallam, Proc. Roy. Soc. A, The Magnetization of Face-Centred Cubic and Body-Centred Cubic Iron–Nickel Alloys, 272: 119–132 (1963).",
+				"tr":  "J. Crangle and G. C. Hallam, Proc. Roy. Soc. A, The Magnetization of Face-Centred Cubic and Body-Centred Cubic Iron–Nickel Alloys, 272: 119–132 (1963)."
+			},
+			{
+				"doi": "10.1002/pssa.2210340263",
+				"or":  "J. Ray and G. Chandra, Concentration Dependence of Curie Points of Some Magnetic Binary Alloys, Phys. Stat. Sol. (a), 34: K169–K172 (1976).",
+				"tr":  "J. Ray and G. Chandra, Concentration Dependence of Curie Points of Some Magnetic Binary Alloys, Phys. Stat. Sol. (a), 34: K169–K172 (1976)."
+			},
+			{
+				"doi": "10.1143/JPSJ.32.104",
+				"or":  "T. Odagaki and T. Yamamoto, Magnetic Moment of Binary gamma-Alloys at 0 K, J. Phys. Soc. Japan, 32, No. 1: 104–109 (1972).",
+				"tr":  "T. Odagaki and T. Yamamoto, Magnetic Moment of Binary gamma-Alloys at 0 K, J. Phys. Soc. Japan, 32, No. 1: 104–109 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Калинин, В. А. Корняков, О. А. Хоменко, Ф. Н. Дунаев, Е. Е. Юрчиков, О магнитных свойствах легированных Fe–Ni-сплавов, имеющих гранецентрированную кубическую решётку, Изв. АН СССР. Сер. физ., 36, № 7: 1602–1605 (1972).",
+				"tr":  "V. M. Kalinin, V. A. Kornyakov, O. A. Khomenko, F. N. Dunaev, E. E. Yurchikov, O magnitnykh svoystvakh legirovannykh Fe–Ni-splavov, imeyushchikh granetsentrirovannuyu kubicheskuyu reshetku, Izv. AN SSSR. Ser. fiz., 36, No. 7: 1602–1605 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "M. F. Collins, R. V. Jones, and R. D. Lowde, J. Phys. Soc. Japan, 17, Suppl. B-III: 19 (1962).",
+				"tr":  "M. F. Collins, R. V. Jones, and R. D. Lowde, J. Phys. Soc. Japan, 17, Suppl. B-III: 19 (1962)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. И. Кондорский, Л. Н. Федотов, Зависимость магнитного насыщения от температуры для бинарных железо-никелевых сплавов в области низких температур, Изв. АН СССР. Сер. физ., 16, № 4: 432–448 (1952).",
+				"tr":  "E. I. Kondorskiy, L. N. Fedotov, Zavisimost' magnitnogo nasyshcheniya ot temperatury dlya binarnykh zhelezo-nikelevykh splavov v oblasti nizkikh temperatur, Izv. AN SSSR. Ser. fiz., 16, No. 4: 432–448 (1952)."
+			},
+			{
+				"doi": "10.1103/PhysRev.97.304",
+				"or":  "G. K. Shull and M. K. Wilkinson, Neutron Diffraction Studies of the Magnetic Structure of Alloys of Transition Elements, Phys. Rev., 97, No. 2: 304–310 (1955).",
+				"tr":  "G. K. Shull and M. K. Wilkinson, Neutron Diffraction Studies of the Magnetic Structure of Alloys of Transition Elements, Phys. Rev., 97, No. 2: 304–310 (1955)."
+			},
+			{
+				"doi": "10.1143/JPSJ.19.237",
+				"or":  "Y. Bando, The Magnetization of Face Centered Cubic Iron–Nickel Alloys in the Vicinity of Invar Region (Short Notes), J. Phys. Soc. Japan, 19: 237–237 (1964).",
+				"tr":  "Y. Bando, The Magnetization of Face Centered Cubic Iron–Nickel Alloys in the Vicinity of Invar Region (Short Notes), J. Phys. Soc. Japan, 19: 237–237 (1964)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.13.227",
+				"or":  "H. R. Child and J. W. Cable, Temperature Dependence of the Magnetic-Moment Distribution Around Impurities in Iron, Phys. Rev. B, 13, No. 1: 227–235 (1976).",
+				"tr":  "H. R. Child and J. W. Cable, Temperature Dependence of the Magnetic-Moment Distribution Around Impurities in Iron, Phys. Rev. B, 13, No. 1: 227–235 (1976)."
+			},
+			{
+				"doi": "10.1080/14786436308211141",
+				"or":  "M. F. Collins and J. B. Forsyth, The Magnetic mMoment Distribution in Some Transition Metal Alloys, Phil. Mag., 8, No. 87: 401–410 (1963).",
+				"tr":  "M. F. Collins and J. B. Forsyth, The Magnetic mMoment Distribution in Some Transition Metal Alloys, Phil. Mag., 8, No. 87: 401–410 (1963)."
+			},
+			{
+				"doi": "10.1143/JPSJ.37.570",
+				"or":  "M. Nishi, Y. Nakai, and N. Kunitomi, Magnetic Moments in Fe–Ni Alloys (Short Notes), J. Phys. Soc. Japan, 37: 570–570 (1974).",
+				"tr":  "M. Nishi, Y. Nakai, and N. Kunitomi, Magnetic Moments in Fe–Ni Alloys (Short Notes), J. Phys. Soc. Japan, 37: 570–570 (1974)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.7.2005",
+				"or":  "J. W. Cable and E. O. Wollan, Magnetic-Moment Distribution in Ni–Fe and Au–Fe Alloys, Phys. Rev. B, 7, No. 5: 2005–2016 (1973).",
+				"tr":  "J. W. Cable and E. O. Wollan, Magnetic-Moment Distribution in Ni–Fe and Au–Fe Alloys, Phys. Rev. B, 7, No. 5: 2005–2016 (1973)."
+			},
+			{
+				"doi": "10.1063/1.1729431",
+				"or":  "G. G. Low and M. F. Collins, Magnetic Moment Distributions in Dilute Nickel Alloys, J. Appl. Phys., 34, No. 4: 1195–1199 (1963).",
+				"tr":  "G. G. Low and M. F. Collins, Magnetic Moment Distributions in Dilute Nickel Alloys, J. Appl. Phys., 34, No. 4: 1195–1199 (1963)."
+			},
+			{
+				"doi": "10.1016/0304-8853(79)90176-8",
+				"or":  "Y. Ito, J. Akimitsu, M. Matsui, and S. Chikazumi, Magnetic Form Factor of Fe0.66Ni0.34 Invar Alloy, J. Magn. Magn. Mater., 10, Nos. 2–3: 194–196 (1979).",
+				"tr":  "Y. Ito, J. Akimitsu, M. Matsui, and S. Chikazumi, Magnetic Form Factor of Fe0.66Ni0.34 Invar Alloy, J. Magn. Magn. Mater., 10, Nos. 2–3: 194–196 (1979)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.9.2381",
+				"or":  "R. A. Reck, Local Magnetic Moments and g in Fe–Ni Alloys, Phys. Rev. B, 9, No. 5: 2381–2385 (1974).",
+				"tr":  "R. A. Reck, Local Magnetic Moments and g' in Fe–Ni Alloys, Phys. Rev. B, 9, No. 5: 2381–2385 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "Physics and Applications of Invar Alloys. Honda Memorial Series on Materials Science. No. 3 (Tokyo: Maruzen Company: 1978).",
+				"tr":  "Physics and Applications of Invar Alloys. Honda Memorial Series on Materials Science. No. 3 (Tokyo: Maruzen Company: 1978)."
+			},
+			{
+				"doi": "10.1063/1.330267",
+				"or":  "J. W. Cable and W. E. Brundage, Magnetic Moment Distribution in Fe0.6860Ni0.32, J. Appl. Phys., 53, No. 11: 8085–8087 (1982).",
+				"tr":  "J. W. Cable and W. E. Brundage, Magnetic Moment Distribution in Fe0.6860Ni0.32, J. Appl. Phys., 53, No. 11: 8085–8087 (1982)."
+			},
+			{
+				"doi": "10.1088/0305-4608/16/5/005",
+				"or":  "P. J. Lawrence and P. L. Rossiter, Chemical and Magnetic Interactions in FCC Fe–Ni Alloys Using the Cluster Variation Method, J. Phys. F: Metal Phys., 16, No. 5: 543–556 (1986).",
+				"tr":  "P. J. Lawrence and P. L. Rossiter, Chemical and Magnetic Interactions in FCC Fe–Ni Alloys Using the Cluster Variation Method, J. Phys. F: Metal Phys., 16, No. 5: 543–556 (1986)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.82.2911",
+				"or":  "J. L. Robertson, G. E. Ice, C. J. Sparks, X. Jiang, P. Zschack, F. Bley, S. Lefebvre, and M. Bessiere, Local Atomic Arrangements in Fe63.2Ni36.8 Invar from Diffuse X-Ray Scattering Measurements, Phys. Rev. Lett., 82, No. 14: 2911–2914 (1999).",
+				"tr":  "J. L. Robertson, G. E. Ice, C. J. Sparks, X. Jiang, P. Zschack, F. Bley, S. Lefebvre, and M. Bessiere, Local Atomic Arrangements in Fe63.2Ni36.8 Invar from Diffuse X-Ray Scattering Measurements, Phys. Rev. Lett., 82, No. 14: 2911–2914 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.54.3211",
+				"or":  "X. Jiang, G. E. Ice, C. J. Sparks, L. Robertson, and P. Zschack, Local Atomic Order and Individual Pair Displacements of Fe46.5Ni53.5 and Fe22.5Ni77.5 from Diffuse X-Ray Scattering Studies, Phys. Rev. B, 54, No. 5: 3211–3226 (1996).",
+				"tr":  "X. Jiang, G. E. Ice, C. J. Sparks, L. Robertson, and P. Zschack, Local Atomic Order and Individual Pair Displacements of Fe46.5Ni53.5 and Fe22.5Ni77.5 from Diffuse X-Ray Scattering Studies, Phys. Rev. B, 54, No. 5: 3211–3226 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Heck, Magnetic Materials and Their Applications (London: Butterworths: 1974), p. 201.",
+				"tr":  "C. Heck, Magnetic Materials and Their Applications (London: Butterworths: 1974), p. 201."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Лариков, Ю. В. Усов, Термодинамические свойства железоникелевых сплавов (Препринт ИМФ 78.5) (Киев: ИМФ АН УССР: 1978).",
+				"tr":  "L. N. Larikov, Yu. V. Usov, Termodinamicheskie svoystva zhelezonikelevykh splavov (Preprint IMF 78.5) (Kiev: IMF AN USSR: 1978)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(03)00287-7",
+				"or":  "M. Matsushita, S. Endo, K. Miura, and F. Ono, Pressure Induced Magnetic Phase Transition in Fe–Ni Invar Alloy, J. Magn. Magn. Mater., 265, No. 3: 352–356 (2003).",
+				"tr":  "M. Matsushita, S. Endo, K. Miura, and F. Ono, Pressure Induced Magnetic Phase Transition in Fe–Ni Invar Alloy, J. Magn. Magn. Mater., 265, No. 3: 352–356 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Якимов, Г. Ф. Торба, В. В. Литвинцев, Зависимость обменного взаимодействия от межатомного расстояния в железо-никелевых сплавах,  Физ. мет. металловед., 47, № 1: 67–71 (1979).",
+				"tr":  "I. I. Yakimov, G. F. Torba, V. V. Litvintsev, Zavisimost' obmennogo vzaimodeystviya ot mezhatomnogo rasstoyaniya v zhelezo-nikelevykh splavakh, Fiz. Met. Metalloved., 47, No. 1: 67–71 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "А. З. Меньшиков, Е. Е. Юрчиков, Изв. АН СССР. Сер. физ., 36, № 7: 1463–1467 (1972).",
+				"tr":  "A. Z. Men'shikov, E. E. Yurchikov, Izv. AN SSSR. Ser. fiz., 36, No. 7: 1463–1467 (1972)."
+			},
+			{
+				"doi": "10.1002/pssb.19680260239",
+				"or":  "I. F. Bolling, A. Arrott, and R. H. Richman, Curie Temperatures and the Effect of Carbon in Face-Centered Cubic Iron–Nickel Alloys, Phys. Stat. Sol., 26, No. 2: 743–750 (1968).",
+				"tr":  "I. F. Bolling, A. Arrott, and R. H. Richman, Curie Temperatures and the Effect of Carbon in Face-Centered Cubic Iron–Nickel Alloys, Phys. Stat. Sol., 26, No. 2: 743–750 (1968)."
+			},
+			{
+				"doi": "10.1002/pssa.2210340263",
+				"or":  "J. Ray and G. Chandra, Concentration Dependence of Curie Points of Some Magnetic Binary Alloys, Phys. Stat. Sol. (a), 34, No. 2: K169–K172 (1976).",
+				"tr":  "J. Ray and G. Chandra, Concentration Dependence of Curie Points of Some Magnetic Binary Alloys, Phys. Stat. Sol. (a), 34, No. 2: K169–K172 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "Белов К. П. Магнитные превращения (Москва: Физматгиз: 1959).",
+				"tr":  "Belov K. P. Magnitnye prevrashcheniya (Moskva: Fizmatgiz: 1959)."
+			},
+			{
+				"doi": "10.1007/BF02450180",
+				"or":  "A. Ferro-Milone, I. Ortalli, and G. P. Soardo, Curie Temperature of Ni–Fe Alloys in the Region 24–35% Ni from Mössbauer Experiments, Nuovo Cimento D, 1: 18–20 (1982).",
+				"tr":  "A. Ferro-Milone, I. Ortalli, and G. P. Soardo, Curie Temperature of Ni–Fe Alloys in the Region 24–35% Ni from Mössbauer Experiments, Nuovo Cimento D, 1: 18–20 (1982)."
+			},
+			{
+				"doi": "10.1143/JPSJ.27.542",
+				"or":  "H. Asano, Magnetism of γ Fe–Ni Invar Alloys with Low Nickel Concentration, J. Phys. Soc. Japan, 27, No. 3: 542 (1969).",
+				"tr":  "H. Asano, Magnetism of γ Fe–Ni Invar Alloys with Low Nickel Concentration, J. Phys. Soc. Japan, 27, No. 3: 542 (1969)."
+			},
+			{
+				"doi": "10.1103/PhysRev.141.376",
+				"or":  "J. G. Dash, B. D. Dunlap, and D. G. Howard, Internal Field of Fe57 in Nickel from 77 K to the Curie Point, Phys. Rev., 141, No. 1: 376–378 (1966).",
+				"tr":  "J. G. Dash, B. D. Dunlap, and D. G. Howard, Internal Field of Fe57 in Nickel from 77 K to the Curie Point, Phys. Rev., 141, No. 1: 376–378 (1966)."
+			},
+			{
+				"doi": "",
+				"or":  "Физика твердого тела: Энциклопедический словарь. В 2-х т. (Ред. В. Г. Барьяхтар, В. Л. Винецкий и др.), т. 1, с. 296.",
+				"tr":  "Fizika tverdogo tela: Entsiklopedicheskiy slovar'. V 2-kh t. (Red. V. G. Bar'yakhtar, V. L. Vinetskiy et al.), vol. 1, p. 296."
+			},
+			{
+				"doi": "",
+				"or":  "D. L. Williamson, W. Keune, and U. Gonzer, Труды Международной конференции по магнетизму МКМ-73 (Москва: Наука: 1974), т. 1 (2), с. 246.",
+				"tr":  "D. L. Williamson, W. Keune, and U. Gonzer, Trudy Mezhdunarodnoy konferentsii po magnetizmu MKM-73 (Moskva: Nauka: 1974), vol. 1 (2), p. 246."
+			},
+			{
+				"doi": "10.1103/PhysRevB.52.188",
+				"or":  "M. Schröter, H. Ebert, H. Akai, P. Entel, E. Hoffmann, and G. G. Reddy, First Principles Investigations of Atomic Disorder Effects on Magnetic and Structural Instabilities in Transition-Metal Alloys, Phys. Rev. B, 52, No. 1: 188–209 (1995).",
+				"tr":  "M. Schröter, H. Ebert, H. Akai, P. Entel, E. Hoffmann, and G. G. Reddy, First Principles Investigations of Atomic Disorder Effects on Magnetic and Structural Instabilities in Transition-Metal Alloys, Phys. Rev. B, 52, No. 1: 188–209 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Hansen, Constitution of Binary Alloys (2nd ed.) (New York: McGraw-Hill: 1958).",
+				"tr":  "M. Hansen, Constitution of Binary Alloys (2nd ed.) (New York: McGraw-Hill: 1958)."
+			},
+			{
+				"doi": "10.1063/1.1656337",
+				"or":  "S. Chikazumi, T. Mizoguchi, N. Yamaguchi, and P. Beckwith, The Invar Problem, J. Appl. Phys., 39, No. 2: 939–944 (1968).",
+				"tr":  "S. Chikazumi, T. Mizoguchi, N. Yamaguchi, and P. Beckwith, The Invar Problem, J. Appl. Phys., 39, No. 2: 939–944 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Acet, T. Schneider, and E. F. Wassermann, Magnetic Aspects of Martensitic Transformations in Fe–Ni Alloys, J. Phys. (France) IV, 5, No. C2: C2-105–109 (1995).",
+				"tr":  "M. Acet, T. Schneider, and E. F. Wassermann, Magnetic Aspects of Martensitic Transformations in Fe–Ni Alloys, J. Phys. (France) IV, 5, No. C2: C2-105–109 (1995)."
+			},
+			{
+				"doi": "10.1063/1.335075",
+				"or":  "T. Miyazaki, Y. Ando, and M. Takahashi, Spin Glass in Fe–Ni Invar Alloys, J. Appl. Phys., 57, No. 8: 3456–3460 (1985).",
+				"tr":  "T. Miyazaki, Y. Ando, and M. Takahashi, Spin Glass in Fe–Ni Invar Alloys, J. Appl. Phys., 57, No. 8: 3456–3460 (1985)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.61.475",
+				"or":  "W. A. A. Macedo and W. Keune, Magnetism of FCC-Fe(100) Films on Cu(100) Investigated In Situ by Conversion-Electron Mössbauer Spectroscopy in Ultrahigh Vacuum, Phys. Rev. Lett., 61, No. 4: 475–468 (1988).",
+				"tr":  "W. A. A. Macedo and W. Keune, Magnetism of FCC-Fe(100) Films on Cu(100) Investigated In Situ by Conversion-Electron Mössbauer Spectroscopy in Ultrahigh Vacuum, Phys. Rev. Lett., 61, No. 4: 475–468 (1988)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.50.3532",
+				"or":  "A. Onodera, Y. Tsunoda, N. Kunitomi, O. A. Pringle, R. M. Nicklow, and R. Moon, Neutron-Diffraction Study of gamma-Fe at High Pressure, Phys. Rev. B, 50, No. 6: 3532–3535 (1994).",
+				"tr":  "A. Onodera, Y. Tsunoda, N. Kunitomi, O. A. Pringle, R. M. Nicklow, and R. Moon, Neutron-Diffraction Study of gamma-Fe at High Pressure, Phys. Rev. B, 50, No. 6: 3532–3535 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Чечерников, Об антиферромагнетизме железо-никелевых сплавов, ЖЭТФ, 42, № 4: 956–958 (1962).",
+				"tr":  "V. I. Chechernikov, Ob antiferromagnetizme zhelezo-nikelevykh splavov, ZhETF, 42, No. 4: 956–958 (1962)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Weiss and G. Foex, J. de Physique, 1: 805–814 (1911).",
+				"tr":  "P. Weiss and G. Foex, J. de Physique, 1: 805–814 (1911)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Вонсовский, Магнетизм (Москва: Наука: 1971).",
+				"tr":  "S. V. Vonsovskiy, Magnetizm (Moskva: Nauka: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Смарт, Эффективное поле в теории магнетизма (Москва: Мир: 1968) (пер. с англ.)",
+				"tr":  "Dzh. Smart, Effektivnoe pole v teorii magnetizma (Moskva: Mir: 1968) (Russian translation)"
+			},
+			{
+				"doi": "10.1016/0375-9601(72)90652-4",
+				"or":  "W. F. Schlosser, The Temperature Dependence of the Magnetic Moment of Iron, Nickel and Invar for T/TC < 0.5, Phys. Lett. A, 40, No. 3: 195–196 (1972).",
+				"tr":  "W. F. Schlosser, The Temperature Dependence of the Magnetic Moment of Iron, Nickel and Invar for T/TC < 0.5, Phys. Lett. A, 40, No. 3: 195–196 (1972)."
+			},
+			{
+				"doi": "10.1016/0304-8853(79)90007-6",
+				"or":  "Y. Nakamura, K. Sumiyama, and M. Shiga, Fe–Pt Invar Alloys—Homogeneous Strong Ferromagnets, J. Magn. Magn. Mater., 12, No. 2: 127–134 (1979).",
+				"tr":  "Y. Nakamura, K. Sumiyama, and M. Shiga, Fe–Pt Invar Alloys—Homogeneous Strong Ferromagnets, J. Magn. Magn. Mater., 12, No. 2: 127–134 (1979)."
+			},
+			{
+				"doi": "10.1016/0304-8853(79)90326-3",
+				"or":  "K. Sumiyama, M. Shiga, and Y. Nakamura, Magnetovolume Effects in Fe–Pt Invar Alloys, J. Magn. Magn. Mater., 12, No. 1: 1–3 (1979).",
+				"tr":  "K. Sumiyama, M. Shiga, and Y. Nakamura, Magnetovolume Effects in Fe–Pt Invar Alloys, J. Magn. Magn. Mater., 12, No. 1: 1–3 (1979)."
+			},
+			{
+				"doi": "10.1088/0953-8984/3/2/002",
+				"or":  "M. R. Gallas and J. A. H. da Jornada, Effect of Annealing Processes on the Curie Temperature of Fe–Ni Invar Alloys, J. Phys.: Condens. Matter, 3: 155–162 (1991).",
+				"tr":  "M. R. Gallas and J. A. H. da Jornada, Effect of Annealing Processes on the Curie Temperature of Fe–Ni Invar Alloys, J. Phys.: Condens. Matter, 3: 155–162 (1991)."
+			},
+			{
+				"doi": "10.1016/0304-8853(79)90165-3",
+				"or":  "A. Chamberod, J. Langier, and J. M. Penisson, Electron Irradiation Effects on Iron–Nickel Invar Alloys, J. Mag. Magn. Mater., 10, Nos. 2–3: 139–144 (1979).",
+				"tr":  "A. Chamberod, J. Langier, and J. M. Penisson, Electron Irradiation Effects on Iron–Nickel Invar Alloys, J. Mag. Magn. Mater., 10, Nos. 2–3: 139–144 (1979)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(99)00213-9",
+				"or":  "Yu. V. Baldokhin, V. V. Tcherdyntsev, S. D. Kaloshkin, G. A. Kochetov, and Yu. A. Pustov, Transformations and Fine Magnetic Structure of Mechanically Alloyed Fe–Ni Alloys, J. Magn. Magn. Mater., 203, Nos. 1–3: 313–315 (1999).",
+				"tr":  "Yu. V. Baldokhin, V. V. Tcherdyntsev, S. D. Kaloshkin, G. A. Kochetov, and Yu. A. Pustov, Transformations and Fine Magnetic Structure of Mechanically Alloyed Fe–Ni Alloys, J. Magn. Magn. Mater., 203, Nos. 1–3: 313–315 (1999)."
+			},
+			{
+				"doi": "10.1016/S0022-3093(01)00575-0",
+				"or":  "S. D. Kaloshkin, V. V. Tcherdyntsev, Yu. V. Baldokhin, I. A. Tomilin, and E. V. Shelekhov, Mechanically Alloyed Low-Nickel Austenite Fe–Ni Phase: Evidence of Single-Phase Paramagnetic State, J. Non-Cryst. Solids, 287: 329–333 (2001).",
+				"tr":  "S. D. Kaloshkin, V. V. Tcherdyntsev, Yu. V. Baldokhin, I. A. Tomilin, and E. V. Shelekhov, Mechanically Alloyed Low-Nickel Austenite Fe–Ni Phase: Evidence of Single-Phase Paramagnetic State, J. Non-Cryst. Solids, 287: 329–333 (2001)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2004.03.036",
+				"or":  "Y. A. Abdu, T. Ericsson, and H. Annersten, Coexisting Antiferromagnetism and Ferromagnetism in Mechanically Alloyed Fe-Rich Fe–Ni Alloys: Implications Regarding the Fe–Ni Phase Diagram Below 400°C, J. Magn. Magn. Mater., 280, Nos. 2–3: 395–403 (2004).",
+				"tr":  "Y. A. Abdu, T. Ericsson, and H. Annersten, Coexisting Antiferromagnetism and Ferromagnetism in Mechanically Alloyed Fe-Rich Fe–Ni Alloys: Implications Regarding the Fe–Ni Phase Diagram Below 400°C, J. Magn. Magn. Mater., 280, Nos. 2–3: 395–403 (2004)."
+			},
+			{
+				"doi": "10.1016/S0022-3697(71)80339-6",
+				"or":  "W. F. Schlosser, A Model for the Invar Alloys and the Fe–Ni System, J. Phys. Chem. Solids, 32, No. 5: 939–949 (1971).",
+				"tr":  "W. F. Schlosser, A Model for the Invar Alloys and the Fe–Ni System, J. Phys. Chem. Solids, 32, No. 5: 939–949 (1971)."
+			},
+			{
+				"doi": "10.1063/1.1660399",
+				"or":  "W. F. Schlosser, Occurrence of Invar Anomalies in Binary Alloys of Fe with Ni, Pd, Pt, and Mn, J. Appl. Phys., 42, No. 4: 1700–1701 (1971).",
+				"tr":  "W. F. Schlosser, Occurrence of Invar Anomalies in Binary Alloys of Fe with Ni, Pd, Pt, and Mn, J. Appl. Phys., 42, No. 4: 1700–1701 (1971)."
+			},
+			{
+				"doi": "10.1016/0304-8853(83)90173-7",
+				"or":  "H. Morita, Y. Tanji, H. Hiroyoshi, and Y. Nakagawa, Neutron Irradiation Effects on Magnetic Properties of Iron–Nickel Invar Alloys, J. Magn. Magn. Mater., 31–34, Part 1: 107–108 (1983).",
+				"tr":  "H. Morita, Y. Tanji, H. Hiroyoshi, and Y. Nakagawa, Neutron Irradiation Effects on Magnetic Properties of Iron–Nickel Invar Alloys, J. Magn. Magn. Mater., 31–34, Part 1: 107–108 (1983)."
+			},
+			{
+				"doi": "10.1016/0304-8853(78)90160-9",
+				"or":  "M. Roth, A. Chamberod, and L. Billard, Short Range Order in a 70–30 FeNi Alloy, J. Magn. Magn. Mater., 7, Nos. 1–4: 104–106 (1978).",
+				"tr":  "M. Roth, A. Chamberod, and L. Billard, Short Range Order in a 70–30 FeNi Alloy, J. Magn. Magn. Mater., 7, Nos. 1–4: 104–106 (1978)."
+			},
+			{
+				"doi": "10.1088/0305-4608/15/3/023",
+				"or":  "H. Franco and H. R. Rechenberg, A Mössbauer Study of the Miscibility Gap in Iron–Nickel Invar Alloys, J. Phys. F: Metal Phys., 15, No. 3: 719–725 (1985).",
+				"tr":  "H. Franco and H. R. Rechenberg, A Mössbauer Study of the Miscibility Gap in Iron–Nickel Invar Alloys, J. Phys. F: Metal Phys., 15, No. 3: 719–725 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Гоманьков, Тонкая кристаллическая и атомная магнитная структура сплавов на основе системы железо–никель (Автореф. диссертации на соискание уч. степ. д-ра физ.-мат. наук) (Москва: ЦНИИЧерМет: 1980).",
+				"tr":  "V. I. Goman'kov, Tonkaya kristallicheskaya i atomnaya magnitnaya struktura splavov na osnove sistemy zhelezo–nikel' (Avtoref. dissertatsii na soiskanie uch. step. d-ra fiz.-mat. nauk) (Moskva: TsNIICherMet: 1980)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Колубаев, Атомное и магнитное упорядочение в сплавах с гранецентрированной кубической решёткой (Автореф. диссертации на соискание уч. степ. канд. физ.-мат. наук) (Томск: ТГУ: 1978).",
+				"tr":  "A. V. Kolubaev, Atomnoe i magnitnoe uporyadochenie v splavakh s granetsentrirovannoy kubicheskoy reshetkoy (Avtoref. dissertatsii na soiskanie uch. step. kand. fiz.-mat. nauk) (Tomsk: TGU: 1978)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Гоманьков, Е. В. Козис, И. М. Пузей, Е. И. Мальцев, Нейтронографическое исследование ближнего атомного порядка в системе никель–железо, Докл. IV Всесоюз. совещ. по упорядочению атомов и его влиянию на свойства сплавов (Томск: ТГУ: 1974), ч. I, с. 164–168.",
+				"tr":  "V. I. Goman'kov, E. V. Kozis, I. M. Puzey, E. I. Mal'tsev, Neytronograficheskoe issledovanie blizhnego atomnogo poryadka v sisteme nikel'–zhelezo, Dokl. IV Vsesoyuz. soveshch. po uporyadocheniyu atomov i ego vliyaniyu na svoystva splavov (Tomsk: TGU: 1974), ch. I, s. 164–168."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Гоманьков, И. М. Пузей, А. А. Лошманов, Е. И. Мальцев, Дальний порядок в сплавах системы Ni–Fe, Изв. АН СССР. Металлы, № 1: 160–163 (1971).",
+				"tr":  "V. I. Goman'kov, I. M. Puzey, A. A. Loshmanov, E. I. Mal'tsev, Dal'niy poryadok v splavakh sistemy Ni–Fe, Izv. AN SSSR. Metally, No. 1: 160–163 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Гаврилюк, В. М. Надутов, Влияние распределения атомов углерода на квадрупольное взаимодействие в Fe–Ni–C аустените, Физ. мет. металловед., 55, № 3: 520–527 (1983).",
+				"tr":  "V. G. Gavrilyuk, V. M. Nadutov, Vliyanie raspredeleniya atomov ugleroda na kvadrupol'noe vzaimodeystvie v Fe–Ni–C austenite, Fiz. Met. Metalloved., 55, No. 3: 520–527 (1983)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.76.014420",
+				"or":  "A. V. Ruban, S. Khmelevskyi, P. Mohn, and B. Johansson, Magnetic State, Magnetovolume Effects, and Atomic Order in Fe65Ni35 Invar Alloy: a First Principles Study, Phys. Rev. B, 76, No. 1: 014420-1–014420-9 (2007).",
+				"tr":  "A. V. Ruban, S. Khmelevskyi, P. Mohn, and B. Johansson, Magnetic State, Magnetovolume Effects, and Atomic Order in Fe65Ni35 Invar Alloy: a First Principles Study, Phys. Rev. B, 76, No. 1: 014420-1–014420-9 (2007)."
+			},
+			{
+				"doi": "10.1107/S0567739480000010",
+				"or":  "S. Lefebvre, F. Bley, M. Bessiere, and M. Fayard, Short-Range Order in Ni3Fe, Acta Cryst., A36: 1–7 (1980).",
+				"tr":  "S. Lefebvre, F. Bley, M. Bessiere, and M. Fayard, Short-Range Order in Ni3Fe, Acta Cryst., A36: 1–7 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "А. З. Меньшиков, В. Е. Архипов, А. И. Захаров, С. К. Сидоров, Атомная корреляция в инварных железоникелевых сплавах, Физ. мет. металловед., 34, № 2: 309–315 (1972).",
+				"tr":  "A. Z. Men'shikov, V. E. Arkhipov, A. I. Zakharov, S. K. Sidorov, Atomnaya korrelyatsiya v invarnykh zhelezonikelevykh splavakh, Fiz. Met. Metalloved., 34, No. 2: 309–315 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Садчиков, И. М. Пузей, Об образовании сверхструктуры типа L10 в системе Fe–Ni, Физ. мет. металловед., 56, № 4: 829–831 (1983).",
+				"tr":  "V. V. Sadchikov, I. M. Puzey, Ob obrazovanii sverkhstruktury tipa L10 v sisteme Fe–Ni, Fiz. Met. Metalloved., 56, No. 4: 829–831 (1983)."
+			},
+			{
+				"doi": "10.1016/0375-9601(71)90286-6",
+				"or":  "G. Hausch and H. Warlimont, Structural Inhomogeneity in Fe–Ni Invar Alloys Studied by Electron Diffraction, Phys. Lett. A, 36, No. 5: 415–416 (1971).",
+				"tr":  "G. Hausch and H. Warlimont, Structural Inhomogeneity in Fe–Ni Invar Alloys Studied by Electron Diffraction, Phys. Lett. A, 36, No. 5: 415–416 (1971)."
+			},
+			{
+				"doi": "10.1016/0001-6160(73)90197-1",
+				"or":  "G. Hausch and H. Warlimont, Single Crystalline Elastic Constants of Ferromagnetic Face Centered Cubic Fe–Ni Invar Alloys, Acta Metall., 21, No. 4: 401–414 (1973).",
+				"tr":  "G. Hausch and H. Warlimont, Single Crystalline Elastic Constants of Ferromagnetic Face Centered Cubic Fe–Ni Invar Alloys, Acta Metall., 21, No. 4: 401–414 (1973)."
+			},
+			{
+				"doi": "10.1016/0304-8853(79)90163-X",
+				"or":  "A. P. Miodownik, The Invar Behaviour of Iron–Nickel–Platinum Alloys, J. Magn. Magn. Mater., 10, Nos. 2–3: 126–135 (1979).",
+				"tr":  "A. P. Miodownik, The Invar Behaviour of Iron–Nickel–Platinum Alloys, J. Magn. Magn. Mater., 10, Nos. 2–3: 126–135 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Лысак, С. А. Артемюк, Ю. М. Полищук, Влияние атомного упорядочения на структуру вторичного мартенсита, Физ. мет. металловед., 35, № 5: 1098–1101 (1973).",
+				"tr":  "L. I. Lysak, S. A. Artemyuk, Yu. M. Polishchuk, Vliyanie atomnogo uporyadocheniya na strukturu vtorichnogo martensita, Fiz. Met. Metalloved., 35, No. 5: 1098–1101 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Л. Грузин, Ю. Л. Родионов, Е. С. Мачурин, О. С. Сарсенбин, Влияние облучения электронами и деформации на мартенситное превращение в сплавах железо–никель, Докл. АН СССР, 228, № 3: 590–592 (1976).",
+				"tr":  "P. L. Gruzin, Yu. L. Rodionov, E. S. Machurin, O. S. Sarsenbin, Vliyanie oblucheniya elektronami i deformatsii na martensitnoe prevrashchenie v splavakh zhelezo–nikel', Dokl. AN SSSR, 228, No. 3: 590–592 (1976)."
+			},
+			{
+				"doi": "10.1002/pssa.2210730224",
+				"or":  "R. A. Jago and P. L. Rossiter, A Re-Examination of Long-Range Ordering at Fe–25 at.% Ni, Phys. Stat. Sol. (a), 73, No. 2: 497–502 (1982).",
+				"tr":  "R. A. Jago and P. L. Rossiter, A Re-Examination of Long-Range Ordering at Fe–25 at.% Ni, Phys. Stat. Sol. (a), 73, No. 2: 497–502 (1982)."
+			},
+			{
+				"doi": "10.1002/pssa.2210680157",
+				"or":  "J. A. Tsoukalas, On the Atomic Ordering of Fe-Rich, Fe(1–x)Ni(x) Binary Alloys, Phys. Stat. Sol. (a), 68: K67–K70 (1981).",
+				"tr":  "J. A. Tsoukalas, On the Atomic Ordering of Fe-Rich, Fe(1–x)Ni(x) Binary Alloys, Phys. Stat. Sol. (a), 68: K67–K70 (1981)."
+			},
+			{
+				"doi": "10.1016/0025-5408(84)90260-5",
+				"or":  "J. A. Tsoukalas, K. Eftimiades, Th. Karakostas, and J. G. Antonopoulos, On the Structural and Transport Properties of the Ni–Fe Invar Alloy System, Mater. Res. Bull., 19, No. 11: 1463–1469 (1984).",
+				"tr":  "J. A. Tsoukalas, K. Eftimiades, Th. Karakostas, and J. G. Antonopoulos, On the Structural and Transport Properties of the Ni–Fe Invar Alloy System, Mater. Res. Bull., 19, No. 11: 1463–1469 (1984)."
+			},
+			{
+				"doi": "10.1007/BF02667589",
+				"or":  "K. B. Reuter, D. B. Williams, and J. I. Goldstein, Determination of the Fe–Ni Phase Diagram Below 400°C, Metall. Trans. A, 20, No. 4: 719–725 (1989).",
+				"tr":  "K. B. Reuter, D. B. Williams, and J. I. Goldstein, Determination of the Fe–Ni Phase Diagram Below 400°C, Metall. Trans. A, 20, No. 4: 719–725 (1989)."
+			},
+			{
+				"doi": "10.1590/S0103-50532008000200005",
+				"or":  "R. B. Scorzelli, Meteorites: Messengers from the Outer Space, J. Braz. Chem. Soc., 19, No. 2: 226–231 (2008).",
+				"tr":  "R. B. Scorzelli, Meteorites: Messengers from the Outer Space, J. Braz. Chem. Soc., 19, No. 2: 226–231 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. В. Козлов, А. С. Тайлашев, Д. М. Штерн, А. А. Клопотов, Превращение порядок–беспорядок в сплаве Ni3Fe, Изв. вузов СССР. Физика, № 5: 32–39 (1977).",
+				"tr":  "E. V. Kozlov, A. S. Taylashev, D. M. Shtern, A. A. Klopotov, Prevrashchenie poryadok–besporyadok v splave Ni3Fe, Izv. vuzov SSSR. Fizika, No. 5: 32–39 (1977)."
+			},
+			{
+				"doi": "10.1088/0370-1328/84/1/309",
+				"or":  "M. Hatherly, K. Hirukawa, R. D. Lowde, J. F. Mallett, M. W. Stringfellow, B. H. Torrie, Spin Wave Energies and Exchange Parameters in Iron–Nickel Alloys, Proc. Phys. Soc., 84, No. 1: 55–62 (1964).",
+				"tr":  "M. Hatherly, K. Hirukawa, R. D. Lowde, J. F. Mallett, M. W. Stringfellow, B. H. Torrie, Spin Wave Energies and Exchange Parameters in Iron–Nickel Alloys, Proc. Phys. Soc., 84, No. 1: 55–62 (1964)."
+			},
+			{
+				"doi": "",
+				"or":  "С. К. Сидоров, А. В. Дорошенко, О магнитной структуре сплавов Ni–Fe, имеющих гранецентрированную кубическую решетку, Физ. мет. металловед., 19, № 5: 786–788 (1965).",
+				"tr":  "S. K. Sidorov, A. V. Doroshenko, O magnitnoy strukture splavov Ni–Fe, imeyushchikh granetsentrirovannuyu kubicheskuyu reshetku, Fiz. Met. Metalloved., 19, No. 5: 786–788 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. З. Валиев, А. В. Дорошенко, С. К. Сидоров, Ю. М. Никулин, С. Г. Теплоухов, Магнитная структура неупорядоченных сплавов систем никель–марганец и железо–никель–марганец в окрестности концентрации c0(0°К), Физ. мет. металловед., 38, № 5: 993–1000 (1974).",
+				"tr":  "E. Z. Valiev, A. V. Doroshenko, S. K. Sidorov, Yu. M. Nikulin, S. G. Teploukhov, Magnitnaya struktura neuporyadochennykh splavov sistem nikel'–marganets i zhelezo–nikel'–marganets v okrestnosti kontsentratsii c0(0°K), Fiz. Met. Metalloved., 38, No. 5: 993–1000 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "С. К. Сидоров, А. З. Меньшиков, В. А. Казанцев, Средний магнитный момент атомов в сплавах железо–палладий с ГЦК решеткой, Физ. мет. металловед., 34, № 4: 749–752 (1972).",
+				"tr":  "S. K. Sidorov, A. Z. Men'shikov, V. A. Kazantsev, Sredniy magnitnyy moment atomov v splavakh zhelezo–palladiy s GTsK reshetkoy, Fiz. Met. Metalloved., 34, No. 4: 749–752 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "А. З. Меньшиков, Ю. А. Дорофеев, В. А. Казанцев, С. К. Сидоров, Магнитная структура упорядоченных железоплатиновых сплавов, Физ. мет. металловед., 38, № 3: 505–518 (1974).",
+				"tr":  "A. Z. Men'shikov, Yu. A. Dorofeev, V. A. Kazantsev, S. K. Sidorov, Magnitnaya struktura uporyadochennykh zhelezoplatinovykh splavov, Fiz. Met. Metalloved., 38, No. 3: 505–518 (1974)."
+			},
+			{
+				"doi": "10.1016/0304-8853(77)90159-7",
+				"or":  "A. Z. Menshikov, Invar Effect by Local Moment Model, J. Magn. Magn. Mater., 5, No. 3: 188–195 (1977).",
+				"tr":  "A. Z. Menshikov, Invar Effect by Local Moment Model, J. Magn. Magn. Mater., 5, No. 3: 188–195 (1977)."
+			},
+			{
+				"doi": "10.1016/0304-8853(79)90178-1",
+				"or":  "A. Z. Menshikov, Local Moment Model for the Invar Effect, J. Magn. Magn. Mater., 10, Nos. 2–3: 205–213 (1979).",
+				"tr":  "A. Z. Menshikov, Local Moment Model for the Invar Effect, J. Magn. Magn. Mater., 10, Nos. 2–3: 205–213 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "С. К. Сидоров, Феноменологическая теория намагниченности сплавов со смешанным обменным взаимодействием, Физ. мет. металловед., 45, № 3: 532–546 (1978).",
+				"tr":  "S. K. Sidorov, Fenomenologicheskaya teoriya namagnichennosti splavov so smeshannym obmennym vzaimodeystviem, Fiz. Met. Metalloved., 45, No. 3: 532–546 (1978)."
+			},
+			{
+				"doi": "10.1007/BF01507947",
+				"or":  "J. B. Müller and J. Hesse, A Model for Magnetic Abnormalies of Fe–Ni Invar Alloys. I. Macroscopic Magnetic Properties, Z. Phys. B, 54, No. 1: 35–42 (1983).",
+				"tr":  "J. B. Müller and J. Hesse, A Model for Magnetic Abnormalies of Fe–Ni Invar Alloys. I. Macroscopic Magnetic Properties, Z. Phys. B, 54, No. 1: 35–42 (1983)."
+			},
+			{
+				"doi": "10.1007/BF01507948",
+				"or":  "J. B. Müller and J. Hesse, A Model for Magnetic Abnormalies of Fe–Ni Invar Alloys. II. Microscopic Properties, Z. Phys. B, 54, No. 1: 43–48 (1983).",
+				"tr":  "J. B. Müller and J. Hesse, A Model for Magnetic Abnormalies of Fe–Ni Invar Alloys. II. Microscopic Properties, Z. Phys. B, 54, No. 1: 43–48 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Архипов, А. З. Меньшиков, С. К. Сидоров, Эффект малоуглового рассеяния нейтронов в железо-никелевых сплавах, Письма в ЖЭТФ, 12, № 7: 356–359 (1970).",
+				"tr":  "V. E. Arkhipov, A. Z. Men'shikov, S. K. Sidorov, Effekt malouglovogo rasseyaniya neytronov v zhelezo-nikelevykh splavakh, Pis'ma v ZhETF, 12, No. 7: 356–359 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "А. З. Меньшиков, В. А. Шестаков, С. К. Сидоров, Критическое рассеяние нейтронов в инварных железо-никелевых сплавах, ЖЭТФ, 70: 163–171 (1976).",
+				"tr":  "A. Z. Men'shikov, V. A. Shestakov, S. K. Sidorov, Kriticheskoe rasseyanie neytronov v invarnykh zhelezo-nikelevykh splavakh, ZhETF, 70: 163–171 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "А. З. Меньшиков, В. А. Шестаков, Магнитные неоднородности в инварных железоникелевых сплавах, Физ. мет. металловед., 43, № 4: 722–733 (1977).",
+				"tr":  "A. Z. Men'shikov, V. A. Shestakov, Magnitnye neodnorodnosti v invarnykh zhelezonikelevykh splavakh, Fiz. Met. Metalloved., 43, No. 4: 722–733 (1977)."
+			},
+			{
+				"doi": "10.1016/0304-8853(94)01700-X",
+				"or":  "M. Dubé, P. R. L. Heron, D. G. Rancourt, Local Moment Magnetism of FCC Fe–Ni Alloys. I. Cluster-Method Mean Field Theory, J. Magn. Magn. Mater., 147, Nos. 1–2: 122–132 (1995).",
+				"tr":  "M. Dubé, P. R. L. Heron, D. G. Rancourt, Local Moment Magnetism of FCC Fe–Ni Alloys. I. Cluster-Method Mean Field Theory, J. Magn. Magn. Mater., 147, Nos. 1–2: 122–132 (1995)."
+			},
+			{
+				"doi": "10.1016/0304-8853(94)01691-7",
+				"or":  "M.-Z. Dang, M. Dubé, D. G. Rancourt, Local Moment Magnetism of FCC Fe–Ni Alloys. II. Ising Approximation Monte Carlo, J. Magn. Magn. Mater., 147, Nos. 1–2: 133–140 (1995).",
+				"tr":  "M.-Z. Dang, M. Dubé, D. G. Rancourt, Local Moment Magnetism of FCC Fe–Ni Alloys. II. Ising Approximation Monte Carlo, J. Magn. Magn. Mater., 147, Nos. 1–2: 133–140 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "А. З. Меньшиков, Н. Н. Кузьмин, С. К. Сидоров, Ю. А. Дорофеев, Обменное взаимодействие в сплавах Fe–Ni, Fe–Pd и Fe–Pt, Физ. тверд. тела, 16, № 11: 3347–3352 (1974).",
+				"tr":  "A. Z. Men'shikov, N. N. Kuz'min, S. K. Sidorov, Yu. A. Dorofeev, Obmennoe vzaimodeystvie v splavakh Fe–Ni, Fe–Pd i Fe–Pt, Fiz. Tverd. Tela, 16, No. 11: 3347–3352 (1974)."
+			},
+			{
+				"doi": "10.1143/JPSJ.35.1635",
+				"or":  "T. Maeda, H. Yamauchi, H. Watanabe, Spin Wave Resonance and Exchange Parameters in FCC Fe–Ni Alloys, J. Phys. Soc. Japan, 35, No. 6: 1635–1642 (1973).",
+				"tr":  "T. Maeda, H. Yamauchi, H. Watanabe, Spin Wave Resonance and Exchange Parameters in FCC Fe–Ni Alloys, J. Phys. Soc. Japan, 35, No. 6: 1635–1642 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Семеновская, Изучение термодинамических и диффузионных свойств бинарных твердых растворов методом диффузного рассеяния рентгеновских лучей (Диссер. … д-ра физ.-мат. наук) (Киев: ИМФ АН УССР: 1976).",
+				"tr":  "S. V. Semenovskaya, Izuchenie termodinamicheskikh i diffuzionnykh svoystv binarnykh tverdykh rastvorov metodom diffuznogo rasseyaniya rentgenovskikh luchey (Disser. … d-ra fiz.-mat. nauk) (Kiev: IMF AN USSR: 1976)."
+			},
+			{
+				"doi": "10.1002/pssb.2220640134",
+				"or":  "S. V. Semenovskaya, The Application of X-Ray Diffuse Scattering to the Calculation of the Fe–Al Equilibrium Diagram, Phys. stat. sol. (b), 64, No. 1: 291–303 (1974).",
+				"tr":  "S. V. Semenovskaya, The Application of X-Ray Diffuse Scattering to the Calculation of the Fe–Al Equilibrium Diagram, Phys. stat. sol. (b), 64, No. 1: 291–303 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Лариков, Ю. В. Усов, Т. В. Ефимова, С. В. Золкина, Влияние атомного упорядочения на температуру Кюри и намагниченность насыщения в Fe–Ni (ГЦК) сплавах инварной области, Материалы VI Всесоюз. совещ. «Упорядочение атомов и его влияние на свойства сплавов» (17–19 окт. 1978, Киев) (Киев: Наукова думка: 1979), сс. 204–207.",
+				"tr":  "L. N. Larikov, Yu. V. Usov, T. V. Efimova, S. V. Zolkina, Vliyanie atomnogo uporyadocheniya na temperaturu Kyuri i namagnichennost' nasyshcheniya v Fe–Ni (GTsK) splavakh invarnoy oblasti, Materialy VI Vsesoyuz. soveshch. «Uporyadochenie atomov i ego vliyanie na svoystva splavov» (17–19 okt. 1978, Kiev) (Kiev: Naukova dumka: 1979), ss. 204–207."
+			},
+			{
+				"doi": "10.1016/0022-3697(63)90045-3",
+				"or":  "C. R. Houska, A Theoretical Treatment of Atomic Configurations Found in Some Iron–Aluminum Solid Solutions, J. Phys. Chem. Solids, 24, No. 1: 95–107 (1963).",
+				"tr":  "C. R. Houska, A Theoretical Treatment of Atomic Configurations Found in Some Iron–Aluminum Solid Solutions, J. Phys. Chem. Solids, 24, No. 1: 95–107 (1963)."
+			},
+			{
+				"doi": "10.1016/0038-1098(74)90146-X",
+				"or":  "T. W. McDaniel and C. L. Foiles, Paramagnetic Curie Temperature in Dilute Magnetic alloys: Influence of Order–Disorder Transitions, Solid State Commun., 14, No. 9: 835–839 (1974).",
+				"tr":  "T. W. McDaniel and C. L. Foiles, Paramagnetic Curie Temperature in Dilute Magnetic alloys: Influence of Order–Disorder Transitions, Solid State Commun., 14, No. 9: 835–839 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Пынько, Л. В. Живаева, А. С. Комалов, Коэрцитивная сила и атомное упорядочение в эпитаксиальных пленках сплава железо–палладий, Физ. мет. металловед., 42, № 1: 63–67 (1976).",
+				"tr":  "V. G. Pyn'ko, L. V. Zhivaeva, A. S. Komalov, Koertsitivnaya sila i atomnoe uporyadochenie v epitaksial'nykh plenkakh splava zhelezo–palladiy, Fiz. Met. Metalloved., 42, No. 1: 63–67 (1976)."
+			},
+			{
+				"doi": "10.1002/pssa.2210630248",
+				"or":  "V. G. Pyn’ko, A. S. Komalov, and L. V. Ivaeva, Influence of Atomic Order on Magnetic Properties of Fe–Pd and Fe–Pt Films, Phys. Stat. Sol. (a), 63: K127–K130.",
+				"tr":  "V. G. Pyn'ko, A. S. Komalov, and L. V. Ivaeva, Influence of Atomic Order on Magnetic Properties of Fe–Pd and Fe–Pt Films, Phys. Stat. Sol. (a), 63: K127–K130."
+			},
+			{
+				"doi": "10.1088/0305-4608/14/1/020",
+				"or":  "V. Pierron-Bohnes, I. Mirebeau, E. Balanzat, and M. C. Cadeville, Evidence of a Coupling Between Magnetic and Chemical Interactions in FeV Alloys: metallurgical aspects, J. Phys. F: Metal Phys., 14, No. 1: 197–210 (1984).",
+				"tr":  "V. Pierron-Bohnes, I. Mirebeau, E. Balanzat, and M. C. Cadeville, Evidence of a Coupling Between Magnetic and Chemical Interactions in FeV Alloys: metallurgical aspects, J. Phys. F: Metal Phys., 14, No. 1: 197–210 (1984)."
+			},
+			{
+				"doi": "10.1080/14786443109461810",
+				"or":  "L. H. Adams and J. W. Green, Phil. Mag., 12: 361 (1931).",
+				"tr":  "L. H. Adams and J. W. Green, Phil. Mag., 12: 361 (1931)."
+			},
+			{
+				"doi": "",
+				"or":  "R. L. Steinberger, Magnetic Properties of Iron–Nickel Alloys Under Hydrostatic Pressure (Ph.D. Thesis—American Doctoral Dissertations) (Harvard University: 1932).",
+				"tr":  "R. L. Steinberger, Magnetic Properties of Iron–Nickel Alloys Under Hydrostatic Pressure (Ph.D. Thesis—American Doctoral Dissertations) (Harvard University: 1932)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Ebert and A. Kussmann, Physika, 38: 437 (1937).",
+				"tr":  "H. Ebert and A. Kussmann, Physika, 38: 437 (1937)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Michels and S. R. de Groot, Physika, 16: 249 (1950).",
+				"tr":  "A. Michels and S. R. de Groot, Physika, 16: 249 (1950)."
+			},
+			{
+				"doi": "10.1103/PhysRev.93.384",
+				"or":  "L. Patrick, The Change of Ferromagnetic Curie Points with Hydrostatic Pressure, Phys. Rev., 93, No. 3: 384–392 (1954).",
+				"tr":  "L. Patrick, The Change of Ferromagnetic Curie Points with Hydrostatic Pressure, Phys. Rev., 93, No. 3: 384–392 (1954)."
+			},
+			{
+				"doi": "10.1051/anphys/196613010093",
+				"or":  "D. Bloch, Ann. Phys. (Paris), 14: 93 (1965).",
+				"tr":  "D. Bloch, Ann. Phys. (Paris), 14: 93 (1965)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.6.4194",
+				"or":  "D. L. Williamson, S. Bukshpan, and R. Ingalls, Search for Magnetic Ordering in HCP Iron, Phys. Rev. B, 6, No. 11: 4194–4206 (1972).",
+				"tr":  "D. L. Williamson, S. Bukshpan, and R. Ingalls, Search for Magnetic Ordering in HCP Iron, Phys. Rev. B, 6, No. 11: 4194–4206 (1972)."
+			},
+			{
+				"doi": "10.1103/PhysRev.154.438",
+				"or":  "D. B. McWhan and A. L. Stevens, Magnetic Properties of Some Rare-Earth Alloys at High Pressure, Phys. Rev., 154, No. 2: 438–445 (1967).",
+				"tr":  "D. B. McWhan and A. L. Stevens, Magnetic Properties of Some Rare-Earth Alloys at High Pressure, Phys. Rev., 154, No. 2: 438–445 (1967)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.28.749",
+				"or":  "D. R. Rhiger and R. Ingalls, Evidence for Antiferromagnetism for Invar at Pressures, Phys. Rev. Lett., 28, No. 12: 749–753 (1972).",
+				"tr":  "D. R. Rhiger and R. Ingalls, Evidence for Antiferromagnetism for Invar at Pressures, Phys. Rev. Lett., 28, No. 12: 749–753 (1972)."
+			},
+			{
+				"doi": "10.1016/0038-1098(66)90027-5",
+				"or":  "J. M. Leger, C. Susse, R. Epain, and B. Vodar, Variation de la Temperature de Curie du Nickel Sous l’Effet de la Pression Jusqu’a 60 Kilobars, Solid State Commun., 4 , No. 5: 197–199 (1966) (in French).",
+				"tr":  "J. M. Leger, C. Susse, R. Epain, and B. Vodar, Variation de la Temperature de Curie du Nickel Sous l'Effet de la Pression Jusqu'a 60 Kilobars, Solid State Commun., 4, No. 5: 197–199 (1966) (in French)."
+			},
+			{
+				"doi": "10.1016/0038-1098(66)90411-X",
+				"or":  "J. M. Leger, C. Susse, and B. Vodar, Proprietes Magnetiques du Fer et de l’Invar Sous Hautes Pressions, Solid State Commun., 4, No. 10: 503–505 (1966) (in French).",
+				"tr":  "J. M. Leger, C. Susse, and B. Vodar, Proprietes Magnetiques du Fer et de l'Invar Sous Hautes Pressions, Solid State Commun., 4, No. 10: 503–505 (1966) (in French)."
+			},
+			{
+				"doi": "10.1016/0038-1098(67)90366-3",
+				"or":  "J. M. Leger, C. Susse, and B. Vodar, Variation de la Temperature de Curie du Cobalt et de Six Alliages Fer–Nickel en Fonction de la Pression, Solid State Commun., 5, No. 9: 755–758 (1967) (in French).",
+				"tr":  "J. M. Leger, C. Susse, and B. Vodar, Variation de la Temperature de Curie du Cobalt et de Six Alliages Fer–Nickel en Fonction de la Pression, Solid State Commun., 5, No. 9: 755–758 (1967) (in French)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.6.4250",
+				"or":  "J. M. Leger, C. Loriers-Susse, and B. Vodar, Pressure Effects on the Curie Temperatures of Transition Metals and Alloys, Phys. Rev. B, 6, No. 11: 4250–4261 (1972).",
+				"tr":  "J. M. Leger, C. Loriers-Susse, and B. Vodar, Pressure Effects on the Curie Temperatures of Transition Metals and Alloys, Phys. Rev. B, 6, No. 11: 4250–4261 (1972)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.86.4851",
+				"or":  "L. Dubrovinsky, N. Dubrovinskaia, I. A. Abrikosov, M. Vennström, F. Westman, S. Carlson, M. van Schilfgaarde, and B. Johansson, Pressure-Induced Invar Effect in Fe–Ni Alloys, Phys. Rev. Lett., 88, No. 21: 4851–4854 (2001).",
+				"tr":  "L. Dubrovinsky, N. Dubrovinskaia, I. A. Abrikosov, M. Vennström, F. Westman, S. Carlson, M. van Schilfgaarde, and B. Johansson, Pressure-Induced Invar Effect in Fe–Ni Alloys, Phys. Rev. Lett., 88, No. 21: 4851–4854 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "R. E. Cohen and S. Gramsch, G. Steinle-Neumann, and L. Stixrude, Importance of Magnetism in Phase Stability, Equations of State, and Elasticity, Proceedings of the International School of Physics Enrico Fermi. Vol. CXLVII. High-Pressure Phenomena (Eds. R. J. Hemley, M. Bernasconi, L. Ulivi, and G. Chiarotti) (Washington, DC: IOS Press: 2003), pp. 215–238; http://arxiv.org/abs/cond-mat/0110025v5.",
+				"tr":  "R. E. Cohen and S. Gramsch, G. Steinle-Neumann, and L. Stixrude, Importance of Magnetism in Phase Stability, Equations of State, and Elasticity, Proceedings of the International School of Physics Enrico Fermi. Vol. CXLVII. High-Pressure Phenomena (Eds. R. J. Hemley, M. Bernasconi, L. Ulivi, and G. Chiarotti) (Washington, DC: IOS Press: 2003), pp. 215–238; http://arxiv.org/abs/cond-mat/0110025v5."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2005.02.065",
+				"or":  "Y. Matsushima, N. Q. Sun, H. Kanamitsu, M. Matsushita, A. Iwase, Y. Chimi, N. Ishikawa, T. Kambara, and F. Ono, Pressure Dependence of the Irradiation-Induced Ferromagnetism in Fe–Ni Invar Alloys, J. Magn. Magn. Mater., 298, No. 1: 14–18 (2006).",
+				"tr":  "Y. Matsushima, N. Q. Sun, H. Kanamitsu, M. Matsushita, A. Iwase, Y. Chimi, N. Ishikawa, T. Kambara, and F. Ono, Pressure Dependence of the Irradiation-Induced Ferromagnetism in Fe–Ni Invar Alloys, J. Magn. Magn. Mater., 298, No. 1: 14–18 (2006)."
+			},
+			{
+				"doi": "10.1088/0953-8984/14/44/429",
+				"or":  "S. Wei, R. Duraj, R. Zach, M. Matsushita, A. Takahashi, H. Inoue, F. Ono, H. Maeta, A. Iwase, and S. Endo, The Effect of Pressure on the Curie Temperature in Fe–Ni Invar Mechanical Alloys, J. Phys.: Condens. Matter., 14: 11081–11084 (2002).",
+				"tr":  "S. Wei, R. Duraj, R. Zach, M. Matsushita, A. Takahashi, H. Inoue, F. Ono, H. Maeta, A. Iwase, and S. Endo, The Effect of Pressure on the Curie Temperature in Fe–Ni Invar Mechanical Alloys, J. Phys.: Condens. Matter., 14: 11081–11084 (2002)."
+			},
+			{
+				"doi": "10.1016/0304-8853(79)90168-9",
+				"or":  "O. Yamada, I. Nakai, H. Fujiwara, and F. Ono, High-Field Susceptibility and Magnetization in Fe–Ni Invar Alloys, J. Magn. Magn. Mater., 10, Nos. 2–3: 155–156 (1979).",
+				"tr":  "O. Yamada, I. Nakai, H. Fujiwara, and F. Ono, High-Field Susceptibility and Magnetization in Fe–Ni Invar Alloys, J. Magn. Magn. Mater., 10, Nos. 2–3: 155–156 (1979)."
+			},
+			{
+				"doi": "10.1016/0304-8853(80)90253-X",
+				"or":  "O. Yamada, F. Ono, I. Nakai, and H. Fujiwara, Explanation of Fe–Ni Invar Anomalies by Itinerant Electron Magnetism, J. Magn. Magn. Mater., 15–18, Part 3: 1199–1200 (1980).",
+				"tr":  "O. Yamada, F. Ono, I. Nakai, and H. Fujiwara, Explanation of Fe–Ni Invar Anomalies by Itinerant Electron Magnetism, J. Magn. Magn. Mater., 15–18, Part 3: 1199–1200 (1980)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.35.4796",
+				"or":  "M. M. Abd-Elmeguid, U. Hobuss, H. Micklitz, B. Huck, and J. Hesse, Nature of the Magnetic Ground State in Fe–Ni Invar Alloys, Phys. Rev. B, 35, No. 10: 4796–4800 (1987).",
+				"tr":  "M. M. Abd-Elmeguid, U. Hobuss, H. Micklitz, B. Huck, and J. Hesse, Nature of the Magnetic Ground State in Fe–Ni Invar Alloys, Phys. Rev. B, 35, No. 10: 4796–4800 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "M. M. Abd-Elmeguid, B. Schleede, and H. Micklitz, Pressure-Induced Antiferromagnetism in FCC Fe–Ni Invar Alloys, J. Magn. Magn. Mater., 72, No. 3.2: 253–257 (1988).",
+				"tr":  "M. M. Abd-Elmeguid, B. Schleede, and H. Micklitz, Pressure-Induced Antiferromagnetism in FCC Fe–Ni Invar Alloys, J. Magn. Magn. Mater., 72, No. 3.2: 253–257 (1988)."
+			},
+			{
+				"doi": "10.1088/0305-4608/6/6/015",
+				"or":  "G. Hausch, Low Temperature Acoustic Relaxation Effect in Fe–Ni and Fe–Pt Invar Alloys, J. Phys. F: Metal Phys., 6, No. 6: (1976).",
+				"tr":  "G. Hausch, Low Temperature Acoustic Relaxation Effect in Fe–Ni and Fe–Pt Invar Alloys, J. Phys. F: Metal Phys., 6, No. 6: (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "D. G. Rancourt, H. H. A. Smit, and R. C. Thiel, Metastable Compositionally and Magnetically Modulated State of Fe–Ni Invar and the Associated Super-Moment Dynamics from Mössbauer Spectroscopy, J. Magn. Magn. Mater., 66, No. 1.2: 121–152 (1987).",
+				"tr":  "D. G. Rancourt, H. H. A. Smit, and R. C. Thiel, Metastable Compositionally and Magnetically Modulated State of Fe–Ni Invar and the Associated Super-Moment Dynamics from Mössbauer Spectroscopy, J. Magn. Magn. Mater., 66, No. 1.2: 121–152 (1987)."
+			},
+			{
+				"doi": "10.1016/0304-8853(89)90260-6",
+				"or":  "D. G. Rancourt, S. Chehab, and G. Lamarche, Reentrant Magnetism, Antiferromagnetism, and Domain Wall Pinning in Nominally Ferromagnetic Fe–Ni Invar, J. Magn. Magn. Mater., 78, No. 2: 129–152 (1989).",
+				"tr":  "D. G. Rancourt, S. Chehab, and G. Lamarche, Reentrant Magnetism, Antiferromagnetism, and Domain Wall Pinning in Nominally Ferromagnetic Fe–Ni Invar, J. Magn. Magn. Mater., 78, No. 2: 129–152 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "I. Abrikosov, L. Dubrovinsky, and N. Dubrovinskaia, Pressure Induced Invar Effect in Fe–Ni Alloys: Theory and Experiment, APS Meetings. March Meeting (2003); http://flux.aps.org/meetings/YR03/MAR03/baps/abs/S6740009.html",
+				"tr":  "I. Abrikosov, L. Dubrovinsky, and N. Dubrovinskaia, Pressure Induced Invar Effect in Fe–Ni Alloys: Theory and Experiment, APS Meetings. March Meeting (2003); http://flux.aps.org/meetings/YR03/MAR03/baps/abs/S6740009.html"
+			},
+			{
+				"doi": "10.1016/S0168-583X(02)02055-4",
+				"or":  "A. Iwase, Y. Hamatani, Y. Mukumoto, N. Ishikawa, Y. Chimi, T. Kambara, C. Müller, R. Neumann, and F. Ono, Anomalous Shift of Curie Temperature in Iron–Nickel Invar Alloys by High-Energy Heavy Ion Irradiation, Nucl. Instrum. Meth. Phys. Res. B, 209: 323–328 (2003).",
+				"tr":  "A. Iwase, Y. Hamatani, Y. Mukumoto, N. Ishikawa, Y. Chimi, T. Kambara, C. Müller, R. Neumann, and F. Ono, Anomalous Shift of Curie Temperature in Iron–Nickel Invar Alloys by High-Energy Heavy Ion Irradiation, Nucl. Instrum. Meth. Phys. Res. B, 209: 323–328 (2003)."
+			},
+			{
+				"doi": "10.1016/S0168-583X(03)00748-1",
+				"or":  "F. Ono, Y. Hamatani, Y. Mukumoto, S. Komatsu, N. Ishikawa, Y. Chimi, A. Iwase, T. Kambara, C. Müller, and R. Neumann, Modification of Fe–Ni Invar Alloys by High-Energy Ion Beams, Nucl. Instrum. Meth. Phys. Res. B, 206: 295–298 (2003).",
+				"tr":  "F. Ono, Y. Hamatani, Y. Mukumoto, S. Komatsu, N. Ishikawa, Y. Chimi, A. Iwase, T. Kambara, C. Müller, and R. Neumann, Modification of Fe–Ni Invar Alloys by High-Energy Ion Beams, Nucl. Instrum. Meth. Phys. Res. B, 206: 295–298 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "F. Ono, Y. Matsushima, Y. Chimi, N. Ishikawa, T. Kambara, and A. Iwase, Irradiation-Induced Ferromagnetism in Fe-Based Invar Alloys with High-Energy Heavy Ions, J. Magn. Magn. Mater., 310, No. 2, Part 2: 1864–1865 (2007).",
+				"tr":  "F. Ono, Y. Matsushima, Y. Chimi, N. Ishikawa, T. Kambara, and A. Iwase, Irradiation-Induced Ferromagnetism in Fe-Based Invar Alloys with High-Energy Heavy Ions, J. Magn. Magn. Mater., 310, No. 2, Part 2: 1864–1865 (2007)."
+			},
+			{
+				"doi": "10.1016/0921-4526(92)90081-3",
+				"or":  "F. Ono, M. Asano, R. Tanaka, S. Nakamichi, and S. Endo, Pressure Dependence of the High Field Susceptibility in Fe–Ni Invar Alloys, Physica B, 177: 127–131 (1992).",
+				"tr":  "F. Ono, M. Asano, R. Tanaka, S. Nakamichi, and S. Endo, Pressure Dependence of the High Field Susceptibility in Fe–Ni Invar Alloys, Physica B, 177: 127–131 (1992)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.43.3318",
+				"or":  "P. Mohn, K. Schwarz, and D. Wagner, Magnetoelastic Anomalies in Fe–Ni Invar Alloys, Phys. Rev. B, 43, No. 4: 3318–3324 (1993).",
+				"tr":  "P. Mohn, K. Schwarz, and D. Wagner, Magnetoelastic Anomalies in Fe–Ni Invar Alloys, Phys. Rev. B, 43, No. 4: 3318–3324 (1993)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.97.087202",
+				"or":  "A. B. Papandrew, M. S. Lucas, R. Stevens, I. Halevy, and B. Fultz, Absence of Magnetism in HCP Iron–Nickel at 11 K, Phys. Rev. Lett., 97, No. 8: 087202-1–087202-4 (2006).",
+				"tr":  "A. B. Papandrew, M. S. Lucas, R. Stevens, I. Halevy, and B. Fultz, Absence of Magnetism in HCP Iron–Nickel at 11 K, Phys. Rev. Lett., 97, No. 8: 087202-1–4 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Kaufmann, E. V. Clougherty, and R. J. Weiss, The Lattice Stability of Metals—III. Iron, Acta Metall., 11, No. 11: 323–335 (1963).",
+				"tr":  "L. Kaufmann, E. V. Clougherty, and R. J. Weiss, The Lattice Stability of Metals—III. Iron, Acta Metall., 11, No. 11: 323–335 (1963)."
+			},
+			{
+				"doi": "",
+				"or":  "G. C. Kennedy and R. C. Newton, Solid–Liquid and Solid–Solid Phase Transitions in Some Pure Metals at High Temperatures and Pressures, Solids Under Pressure (Ed. W. Paul) (New York: McGraw-Hill: 1962), pp. 163–178.",
+				"tr":  "G. C. Kennedy and R. C. Newton, Solid–Liquid and Solid–Solid Phase Transitions in Some Pure Metals at High Temperatures and Pressures, Solids Under Pressure (Ed. W. Paul) (New York: McGraw-Hill: 1962), pp. 163–178."
+			},
+			{
+				"doi": "10.1063/1.1717076",
+				"or":  "W. F. Claussen, Detection of the alpha–gamma Iron Phase Transformation by Differential Thermal Conductivity Analysis, Rev. Sci. Instrum., 31, No. 8: 878–881 (1960).",
+				"tr":  "W. F. Claussen, Detection of the alpha–gamma Iron Phase Transformation by Differential Thermal Conductivity Analysis, Rev. Sci. Instrum., 31, No. 8: 878–881 (1960)."
+			},
+			{
+				"doi": "10.1088/0022-3719/2/1/309",
+				"or":  "E. P. Wohlfarth, Forced Magnetostriction in the Band Model of Magnetism J. Phys. C: Sol. St. Phys., 2, No. 1: 68–74 (1969).",
+				"tr":  "E. P. Wohlfarth, Forced Magnetostriction in the Band Model of Magnetism J. Phys. C: Sol. St. Phys., 2, No. 1: 68–74 (1969)."
+			},
+			{
+				"doi": "10.1088/0370-1328/82/2/314",
+				"or":  "R. J. Weiss, The Origin of the ‘Invar’ Effect, Proc. Phys. Soc. (London), 82: 281–288 (1963).",
+				"tr":  "R. J. Weiss, The Origin of the 'Invar' Effect, Proc. Phys. Soc. (London), 82: 281–288 (1963)."
+			},
+			{
+				"doi": "10.1143/JPSJ.51.767",
+				"or":  "H. Hasegawa, A Theory of Magneto-Volume Effects of Itinerant-Electron Magnets. II. Pressure Dependence of the Critical Temperature,  J. Phys. Soc. Japan, 51, No. 3: 767–775 (1982).",
+				"tr":  "H. Hasegawa, A Theory of Magneto-Volume Effects of Itinerant-Electron Magnets. II. Pressure Dependence of the Critical Temperature, J. Phys. Soc. Japan, 51, No. 3: 767–775 (1982)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.51.1058",
+				"or":  "I. A. Abrikosov, O. Eriksson, P. Soderlind, H. L. Skriver, and B. Johansson, Theoretical Aspects of Fe(c)Ni(1–c) Invar Alloy, Phys. Rev. B, 51, No. 2: 1058–1063 (1995).",
+				"tr":  "I. A. Abrikosov, O. Eriksson, P. Soderlind, H. L. Skriver, and B. Johansson, Theoretical Aspects of Fe(c)Ni(1–c) Invar Alloy, Phys. Rev. B, 51, No. 2: 1058–1063 (1995)."
+			},
+			{
+				"doi": "10.1038/21848",
+				"or":  "M. van Schilfgaarde, I. A. Abrikosov, and B. Johansson, Origin of the Invar Effect in Iron–Nickel Alloys, Nature, 400: 46–49 (1999).",
+				"tr":  "M. van Schilfgaarde, I. A. Abrikosov, and B. Johansson, Origin of the Invar Effect in Iron–Nickel Alloys, Nature, 400: 46–49 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.34.1784",
+				"or":  "V. L. Moruzzi, P. M. Marcus, K. Schwarz, and P. Mohn, Ferromagnetic Phases of BCC and FCC Fe, Co, and Ni, Phys. Rev. B, 34, No. 3: 1784–1791 (1986).",
+				"tr":  "V. L. Moruzzi, P. M. Marcus, K. Schwarz, and P. Mohn, Ferromagnetic Phases of BCC and FCC Fe, Co, and Ni, Phys. Rev. B, 34, No. 3: 1784–1791 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Endo, T. Nishino, and F. Ono, Science and Technology of High Pressure (Ed. M. H. Manghani) (India: University Press: 2000), p. 771.",
+				"tr":  "S. Endo, T. Nishino, and F. Ono, Science and Technology of High Pressure (Ed. M. H. Manghani) (India: University Press: 2000), p. 771."
+			},
+			{
+				"doi": "10.1016/S0304-8853(03)00648-6",
+				"or":  "M. Matsushita, S. Endo, K. Miura, and F. Ono, Pressure-Induced Change of the Magnetic State in Ordered Fe–Pt Invar Alloy, J. Magn. Magn. Mater., 269: 393–397 (2004).",
+				"tr":  "M. Matsushita, S. Endo, K. Miura, and F. Ono, Pressure-Induced Change of the Magnetic State in Ordered Fe–Pt Invar Alloy, J. Magn. Magn. Mater., 269: 393–397 (2004)."
+			},
+			{
+				"doi": "10.1088/0305-4608/17/1/003",
+				"or":  "P. Mohn, D. Wagner, and E. P. Wohlfarth, Magnetoelastic Anomalies due to Spin Fluctuations in Weakly Itinerant Ferromagnetic Systems, J. Phys. F: Metal Phys., 17: L13 (1987).",
+				"tr":  "P. Mohn, D. Wagner, and E. P. Wohlfarth, Magnetoelastic Anomalies due to Spin Fluctuations in Weakly Itinerant Ferromagnetic Systems, J. Phys. F: Metal Phys., 17: L13 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Р. Риздвянецкий, О влиянии давления на фазовые переходы в ферромагнитных и антиферромагнитных упорядочивающихся сплавах, Укр. физ. журн., 14, № 10: 1630–1634 (1969).",
+				"tr":  "D. R. Rizdvyanetskiy, O vliyanii davleniya na fazovye perekhody v ferromagnitnykh i antiferromagnitnykh uporyadochivayushchikhsya splavakh, Ukrainian Physical Journal, 14, No. 10: 1630–1634 (1969)."
+			},
+			{
+				"doi": "10.1016/0375-9601(81)90311-X",
+				"or":  "K. Kübler, Magnetic Moments of Ferromagnetic and Antiferromagnetic BCC and FCC Iron, Phys. Lett., A81, No. 1: 81–83 (1981).",
+				"tr":  "K. Kübler, Magnetic Moments of Ferromagnetic and Antiferromagnetic BCC and FCC Iron, Phys. Lett., A81, No. 1: 81–83 (1981)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.28.5419",
+				"or":  "D. Bagayoko and J. Callaway, Lattice-Parameter Dependence of Ferromagnetism in BCC and FCC Iron, Phys. Rev. B, 28, No. 10: 5419–5422 (1983).",
+				"tr":  "D. Bagayoko and J. Callaway, Lattice-Parameter Dependence of Ferromagnetism in BCC and FCC Iron, Phys. Rev. B, 28, No. 10: 5419–5422 (1983)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.54.1852",
+				"or":  "C. S. Wang, B. M. Klein, and H. Krakauer, Theory of Magnetic and Structural Ordering in Iron, Phys. Rev. Lett., 54, No. 16: 1852–1855 (1985).",
+				"tr":  "C. S. Wang, B. M. Klein, and H. Krakauer, Theory of Magnetic and Structural Ordering in Iron, Phys. Rev. Lett., 54, No. 16: 1852–1855 (1985)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.56.2096",
+				"or":  "F. J. Pinski, J. Staunton, B. L. Gyorffy, D. D. Johnson, and G. M. Stocks, Ferromagnetism versus Antiferromagnetism in Face-Centered Cubic Iron, Phys. Rev. Lett., 56, No: 19: 2096–2099 (1986).",
+				"tr":  "F. J. Pinski, J. Staunton, B. L. Gyorffy, D. D. Johnson, and G. M. Stocks, Ferromagnetism versus Antiferromagnetism in Face-Centered Cubic Iron, Phys. Rev. Lett., 56, No: 19: 2096–2099 (1986)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.59.419",
+				"or":  "P. James, O. Eriksson, B. Johansson, and I. A. Abrikosov, Calculated Magnetic Properties of Binary Alloys Between Fe, Co, Ni and Cu, Phys. Rev. B, 59, No. 1: 419 (1999).",
+				"tr":  "P. James, O. Eriksson, B. Johansson, and I. A. Abrikosov, Calculated Magnetic Properties of Binary Alloys Between Fe, Co, Ni and Cu, Phys. Rev. B, 59, No. 1: 419 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.44.12348",
+				"or":  "J. Goniakowski and M. Podgorny, Antiferromagnetism in Hexagonal Chromium, Manganese, and Iron, Phys. Rev. B, 44, No. 22: 12348–12352 (1991).",
+				"tr":  "J. Goniakowski and M. Podgorny, Antiferromagnetism in Hexagonal Chromium, Manganese, and Iron, Phys. Rev. B, 44, No. 22: 12348–12352 (1991)."
+			},
+			{
+				"doi": "10.1143/JPSJ.31.102",
+				"or":  "H. Ohno and M. Mekata, Antiferromagnetism in HCP Iron–Manganese Alloys, J. Phys. Soc. Japan, 31, No. 1: 102–108 (1971).",
+				"tr":  "H. Ohno and M. Mekata, Antiferromagnetism in HCP Iron–Manganese Alloys, J. Phys. Soc. Japan, 31, No. 1: 102–108 (1971)."
+			},
+			{
+				"doi": "10.1143/JPSJ.31.92",
+				"or":  "H. Ohno, Antiferromagnetism in HCP Iron–Ruthenium and HCP Iron–Osmium Alloys, J. Phys. Soc. Japan, 31, No. 1: 92–101 (1971).",
+				"tr":  "H. Ohno, Antiferromagnetism in HCP Iron–Ruthenium and HCP Iron–Osmium Alloys, J. Phys. Soc. Japan, 31, No. 1: 92–101 (1971)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.50.6442",
+				"or":  "L. Stixrude, R. E. Cohen, and D. J. Singh, Iron at High Pressure: Linearized-Augmented-Plane-Wave Computations in the Generalized-Gradient Approximation, Phys. Rev. B, 50, No. 9: 6442–6445 (1994).",
+				"tr":  "L. Stixrude, R. E. Cohen, and D. J. Singh, Iron at High Pressure: Linearized-Augmented-Plane-Wave Computations in the Generalized-Gradient Approximation, Phys. Rev. B, 50, No. 9: 6442–6445 (1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.67.180405",
+				"or":  "V. Thakor, J. B. Staunton, J. Poulter, S. Ostanin, B. Ginatempo, and E. Bruno, Ab Initio Calculations of Incommensurate Antiferromagnetic Spin Fluctuations in HCP Iron under Pressure, Phys. Rev. B, 67, No. 18: 180405-1–4 (2003).",
+				"tr":  "V. Thakor, J. B. Staunton, J. Poulter, S. Ostanin, B. Ginatempo, and E. Bruno, Ab Initio Calculations of Incommensurate Antiferromagnetic Spin Fluctuations in HCP Iron under Pressure, Phys. Rev. B, 67, No. 18: 180405-1–4 (2003)."
+			},
+			{
+				"doi": "10.1063/1.1722359",
+				"or":  "D. Bancroft, E. Peterson, and S. Minshall, Polymorphism of Iron at High Pressure, J. Appl. Phys., 27, No. 3: 291–298 (1956).",
+				"tr":  "D. Bancroft, E. Peterson, and S. Minshall, Polymorphism of Iron at High Pressure, J. Appl. Phys., 27, No. 3: 291–298 (1956)."
+			},
+			{
+				"doi": "10.1063/1.330745",
+				"or":  "G. Cort, R. Taylor, and J. Willis, Search for Magnetism in HCP epsilon-Fe, J. Appl. Phys., 53, No. 3: 2064–2066 (1982).",
+				"tr":  "G. Cort, R. Taylor, and J. Willis, Search for Magnetism in HCP epsilon-Fe, J. Appl. Phys., 53, No. 3: 2064–2066 (1982)."
+			},
+			{
+				"doi": "10.1088/0953-8984/14/44/446",
+				"or":  "S. Nasu, T. Sasaki, T. Kawakami, T. Tsutsui, and S. Endo, Mössbauer Study of epsilon-Fe under an External Magnetic Field, J. Phys. Condens. Matter, 14, No. 44: 11167–11171 (2002).",
+				"tr":  "S. Nasu, T. Sasaki, T. Kawakami, T. Tsutsui, and S. Endo, Mössbauer Study of epsilon-Fe under an External Magnetic Field, J. Phys. Condens. Matter, 14, No. 44: 11167–11171 (2002)."
+			},
+			{
+				"doi": "10.1063/1.330289",
+				"or":  "R. Taylor, G. Cort, and J. Willis, Internal Magnetic Fields in HCP-Iron, J. Appl. Phys., 53, No. 11: 8199–8202 (1982).",
+				"tr":  "R. Taylor, G. Cort, and J. Willis, Internal Magnetic Fields in HCP-Iron, J. Appl. Phys., 53, No. 11: 8199–8202 (1982)."
+			},
+			{
+				"doi": "10.1126/science.288.5471.1626",
+				"or":  "S. Merkel, A. Goncharov, H. Mao, P. Gillet, and R. Hemley, Raman Spectroscopy of Iron to 152 Gigapascals: Implications for Earth’s Inner Core, Science, 288: 1626–1629 (2000).",
+				"tr":  "S. Merkel, A. Goncharov, H. Mao, P. Gillet, and R. Hemley, Raman Spectroscopy of Iron to 152 Gigapascals: Implications for Earth's Inner Core, Science, 288: 1626–1629 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Steinle-Neumann, L. Stixrude, R. E. Cohen, and B. Kiefer, Evidence of Local Magnetic Order in HCP Iron from Raman Mode Splitting, http://arxiv.org/PS_cache/cond-mat/pdf/0111/0111487v1.pdf (2001).",
+				"tr":  "G. Steinle-Neumann, L. Stixrude, R. E. Cohen, and B. Kiefer, Evidence of Local Magnetic Order in HCP Iron from Raman Mode Splitting, http://arxiv.org/PS_cache/cond-mat/pdf/0111/0111487v1.pdf (2001)."
+			},
+			{
+				"doi": "10.1038/35085536",
+				"or":  "K. Shimizu, T. Kimura, S. Furomoto, K. Takeda, K. Kontani, Y. Onuki, and K. Amaya, Superconductivity in the Non-Magnetic State of Iron under Pressure, Nature, 412: 316–317 (2001).",
+				"tr":  "K. Shimizu, T. Kimura, S. Furomoto, K. Takeda, K. Kontani, Y. Onuki, and K. Amaya, Superconductivity in the Non-Magnetic State of Iron under Pressure, Nature, 412: 316–317 (2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.4.4081",
+				"or":  "M. Stearns, Origin of the Hyperfine Fields in Pure Fe and at Solute Atoms in Fe, Phys. Rev. B, 4, No. 11: 4081–4091 (1971).",
+				"tr":  "M. Stearns, Origin of the Hyperfine Fields in Pure Fe and at Solute Atoms in Fe, Phys. Rev. B, 4, No. 11: 4081–4091 (1971)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.28.178",
+				"or":  "I. Vincze and G. Grüner, Temperature Dependence of the Hyperfine Field at Iron Atoms near 3d Impurities, Phys. Rev. Lett., 28, No. 3: 178–181 (1972).",
+				"tr":  "I. Vincze and G. Grüner, Temperature Dependence of the Hyperfine Field at Iron Atoms near 3d Impurities, Phys. Rev. Lett., 28, No. 3: 178–181 (1972)."
+			},
+			{
+				"doi": "10.1088/0305-4608/3/3/023",
+				"or":  "I. Vincze and I. Campbell, Mössbauer Measurements in Iron Based Alloys with Transition Metals J. Phys. F: Metal Phys., 3: 647–663 (1973).",
+				"tr":  "I. Vincze and I. Campbell, Mössbauer Measurements in Iron Based Alloys with Transition Metals J. Phys. F: Metal Phys., 3: 647–663 (1973)."
+			},
+			{
+				"doi": "10.1016/0375-9601(70)90134-9",
+				"or":  "P. C. Riedi, The Temperature Dependence of the Local Magnetization of FeNi Alloys, Phys. Lett. A, 33, No. 5: 273–274 (1970).",
+				"tr":  "P. C. Riedi, The Temperature Dependence of the Local Magnetization of FeNi Alloys, Phys. Lett. A, 33, No. 5: 273–274 (1970)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.8.5243",
+				"or":  "P. C. Riedi, Temperature Dependence of the Hyperfine Field and Hyperfine Coupling Constant of Iron, Phys. Rev. B, 8, No. 11: 5243–5246 (1973).",
+				"tr":  "P. C. Riedi, Temperature Dependence of the Hyperfine Field and Hyperfine Coupling Constant of Iron, Phys. Rev. B, 8, No. 11: 5243–5246 (1973)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.34.4480",
+				"or":  "B. Fultz and J. W. Morris, Jr., Temperature Dependence of Hyperfine Magnetic Fields in Fe–Ni, Phys. Rev. B, 34, No. 7: 4480–4489 (1986).",
+				"tr":  "B. Fultz and J. W. Morris, Jr., Temperature Dependence of Hyperfine Magnetic Fields in Fe–Ni, Phys. Rev. B, 34, No. 7: 4480–4489 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "I. I. Mazin, D. A. Papaconstantopoulos, and M. J. Mehl, Superconductivity in Compressed Iron: Role of Spin Fluctuations, Phys. Rev. B, 65, No. 10: 100511(R)-1–100511(R)-4 (2002).",
+				"tr":  "I. I. Mazin, D. A. Papaconstantopoulos, and M. J. Mehl, Superconductivity in Compressed Iron: Role of Spin Fluctuations, Phys. Rev. B, 65, No. 10: 100511(R)-1–100511(R)-4 (2002)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.67.153106",
+				"or":  "A. G. Petukhov, I. I. Mazin, L. Chioncel, and A. I. Lichtenstein, Correlated Metals and the LDA+U Method, Phys. Rev. B, 67, No. 15: 153106-1–153106-4 (2003).",
+				"tr":  "A. G. Petukhov, I. I. Mazin, L. Chioncel, and A. I. Lichtenstein, Correlated Metals and the LDA+U Method, Phys. Rev. B, 67, No. 15: 153106-1–153106-4 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.80.2929",
+				"or":  "R. Moessner and J. T. Chalker, Properties of a Classical Spin Liquid: The Heisenberg Pyrochlore Antiferromagnet, Phys. Rev. Lett., 80, No. 13: 2929–2932 (1998).",
+				"tr":  "R. Moessner and J. T. Chalker, Properties of a Classical Spin Liquid: The Heisenberg Pyrochlore Antiferromagnet, Phys. Rev. Lett., 80, No. 13: 2929–2932 (1998)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.85.3504",
+				"or":  "S. Dunsiger, J. S. Gardner, J. A. Chakhalian, A. L. Cornelius, M. Jaime, R. F. Kiefl, R. Movshovich, W. A. MacFarlane, R. I. Miller, J. E. Sonier, and B. D. Gaulin, Low Temperature Spin Dynamics of the Geometrically Frustrated Antiferromagnetic Garnet Gd3Ga5O12, Phys. Rev. Lett., 85, No. 16: 3504–3507 (2000).",
+				"tr":  "S. Dunsiger, J. S. Gardner, J. A. Chakhalian, A. L. Cornelius, M. Jaime, R. F. Kiefl, R. Movshovich, W. A. MacFarlane, R. I. Miller, J. E. Sonier, and B. D. Gaulin, Low Temperature Spin Dynamics of the Geometrically Frustrated Antiferromagnetic Garnet Gd3Ga5O12, Phys. Rev. Lett., 85, No. 16: 3504–3507 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Тябликов, Методы квантовой теории магнетизма (Москва: Наука: 1975).",
+				"tr":  "S. V. Tyablikov, Metody kvantovoy teorii magnetizma (Moskva: Nauka: 1975)."
+			},
+			{
+				"doi": "10.1007/BF02649918",
+				"or":  "L. J. Swartzendruber, V. P. Itkin, and C. B. Alcock, The Fe–Ni (Iron–Nickel) System, J. Phase Equilibria, 12, No. 3: 288–312 (1991).",
+				"tr":  "L. J. Swartzendruber, V. P. Itkin, and C. B. Alcock, The Fe–Ni (Iron–Nickel) System, J. Phase Equilibria, 12, No. 3: 288–312 (1991)."
+			},
+			{
+				"doi": "10.1016/0001-6160(88)90231-3",
+				"or":  "F. Bley, Z. Amilius, and S. Lefebvre, Wave Vector Dependent Kinetics of Short-Range Ordering in 62Ni0.765Fe0.235, Studied by Neutron Diffuse Scattering, Acta Metall., 36, No. 7: 1643–1652 (1988).",
+				"tr":  "F. Bley, Z. Amilius, and S. Lefebvre, Wave Vector Dependent Kinetics of Short-Range Ordering in 62Ni0.765Fe0.235, Studied by Neutron Diffuse Scattering, Acta Metall., 36, No. 7: 1643–1652 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Я. Георгиева, О. П. Максимова, О влиянии углерода на точку Кюри аустенита железоникелевых сплавов, Физ. мет. металловед., 24, № 3: 574–576 (1967).",
+				"tr":  "I. Ya. Georgieva, O. P. Maksimova, O vliyanii ugleroda na tochku Kyuri austenita zhelezonikelevykh splavov, Fiz. Met. Metalloved., 24, No. 3: 574–576 (1967)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Nadutov, Ye. O. Svystunov, T. V. Yefimova, and A. V. Gorbatov, Material Research in Atomic Scale by Mössbauer Spectroscopy (Eds. M. Mashlan, M. Miglierini, and P. Schaal) (NATO Science Series, II. Mathematics, Physics and Chemistry) (Dordrecht: Kluwer Academic Publishers: 2003), vol. 94, p. 105–116.",
+				"tr":  "V. M. Nadutov, Ye. O. Svystunov, T. V. Yefimova, and A. V. Gorbatov, Material Research in Atomic Scale by Mössbauer Spectroscopy (Eds. M. Mashlan, M. Miglierini, and P. Schaal) (NATO Science Series, II. Mathematics, Physics and Chemistry) (Dordrecht: Kluwer Academic Publishers: 2003), vol. 94, p. 105–116."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Надутов, Є. О. Свистунов, Вплив C на термічне розширення ГЦК Fe–Ni сплавів, Металлофиз. новейшие технол., 24, № 12: 1639–1649 (2002).",
+				"tr":  "V. M. Nadutov, Ye. O. Svistunov, Vpliv C na termichne rozshirennya GTsK Fe–Ni splaviv, Metallofiz. Noveishie Tekhnol., 24, No. 12: 1639–1649 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Кривоглаз, Диффузное рассеяние рентгеновских лучей и нейтронов на флуктуационных неоднородностях в неидеальных кристаллах (Киев: Наукова думка: 1984).",
+				"tr":  "M. A. Krivoglaz, Diffuznoe rasseyanie rentgenovskikh luchey i neytronov na fluktuatsionnykh neodnorodnostyakh v neideal'nykh kristallakh (Kiev: Naukova dumka: 1984)."
+			},
+			{
+				"doi": "10.1103/PhysRev.142.418",
+				"or":  "P. C. Clapp and S. C. Moss, Correlation Functions of Disordered Binary Alloys. I, Phys. Rev., 142: 418 (1966).",
+				"tr":  "P. C. Clapp and S. C. Moss, Correlation Functions of Disordered Binary Alloys. I, Phys. Rev., 142: 418 (1966)."
+			},
+			{
+				"doi": "10.1103/PhysRev.171.754",
+				"or":  "P. C. Clapp and S. C. Moss, Correlation Functions of Disordered Binary Alloys. II, Phys. Rev., 171: 754 (1968).",
+				"tr":  "P. C. Clapp and S. C. Moss, Correlation Functions of Disordered Binary Alloys. II, Phys. Rev., 171: 754 (1968)."
+			},
+			{
+				"doi": "10.1007/978-1-4899-6443-4_1",
+				"or":  "R. Brout, Phase Transitions (New York–Amsterdam: University of Brussels: 1965).",
+				"tr":  "R. Brout, Phase Transitions (New York–Amsterdam: University of Brussels: 1965)."
+			},
+			{
+				"doi": "10.1103/PhysRev.171.754",
+				"or":  "P. C. Clapp and S. C. Moss, Correlation Functions of Disordered Binary Alloys. III, Phys. Rev., 171: 764 (1968).",
+				"tr":  "P. C. Clapp and S. C. Moss, Correlation Functions of Disordered Binary Alloys. III, Phys. Rev., 171: 764 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Tatarenko, S. M. Bokoch, V. M. Nadutov, T. M. Radchenko, and Y. B. Park, Semi-Empirical Parameterization of Interatomic Interactions and Kinetics of the Atomic Ordering in Ni–Fe–C Permalloys and Elinvars, Defect and Diffusion Forum, 280–281: 29–78 (2008).",
+				"tr":  "V. A. Tatarenko, S. M. Bokoch, V. M. Nadutov, T. M. Radchenko, and Y. B. Park, Semi-Empirical Parameterization of Interatomic Interactions and Kinetics of the Atomic Ordering in Ni–Fe–C Permalloys and Elinvars, Defect and Diffusion Forum, 280–281: 29–78 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Смирнов, И. А. Стоянов, Влияние внедренных атомов на упорядочение сплава, Физ. мет. металловед., 2, № 3: 524–530 (1956).",
+				"tr":  "A. A. Smirnov, I. A. Stoyanov, Vliyanie vnedrennykh atomov na uporyadochenie splava, Fiz. Met. Metalloved., 2, No. 3: 524–530 (1956)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Бугаев, З. А. Матысина, М. И. Милян, В. А. Татаренко, Упорядочение атомов в бинарном сплаве замещения с ГЦК решеткой при наличии примеси внедрения, Изв. вузов. Физика. 26, № 7: 90–96 (1983).",
+				"tr":  "V. N. Bugaev, Z. A. Matysina, M. I. Milyan, V. A. Tatarenko, Uporyadochenie atomov v binarnom splave zameshcheniya s GTsK reshetkoy pri nalichii primesi vnedreniya, Izv. vuzov. Fizika. 26, No. 7: 90–96 (1983)."
+			},
+			{
+				"doi": "10.1007/978-3-642-78765-2",
+				"or":  "M. A. Krivoglaz, Diffuse Scattering of X-Rays and Neutrons—Fluctuations in Solids (Berlin: Springer: 1996).",
+				"tr":  "M. A. Krivoglaz, Diffuse Scattering of X-Rays and Neutrons—Fluctuations in Solids (Berlin: Springer: 1996)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Татаренко, Т. М. Радченко, Параметри кінетики релаксації близького порядку й взаємодії атомів в бінарних ГЦК-твердих розчинах заміщення за даними про часову еволюцію дифузного розсіяння випромінювань, Металлофиз. новейшие технол., 24, № 10: 1335–1350 (2002).",
+				"tr":  "V. A. Tatarenko, T. M. Radchenko, Parametri kinetiki relaksatsii bliz'kogo poryadku y vzaiemodii atomiv v binarnikh GTsK-tverdikh rozchinakh zamishchennya za danimi pro chasovu evolyutsiyu difuznogo rozsiyannya viprominyuvan', Metallofiz. Noveishie Tekhnol., 24, No. 10: 1335–1350 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Tatarenko and T. M. Radchenko, Diffusive Relaxation of Parameters of the Short-Range Order and Time Evolution of Diffuse Scattering of Radiations in Solid Solutions, Defect and Diffusion Forum, 194–199, Part 1: 183–188 (2001).",
+				"tr":  "V. A. Tatarenko and T. M. Radchenko, Diffusive Relaxation of Parameters of the Short-Range Order and Time Evolution of Diffuse Scattering of Radiations in Solid Solutions, Defect and Diffusion Forum, 194–199, Part 1: 183–188 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Tatarenko and T. M. Radchenko, Wave-Vector Dependent Kinetics of Short-Range Ordering in Binary Solid Solutions Studied by Diffuse Scattering of Radiation, Вісник Черкаського університету. Сер.: Фізико-математичні науки, 37–38: 249–255 (2001–2002).",
+				"tr":  "V. A. Tatarenko and T. M. Radchenko, Wave-Vector Dependent Kinetics of Short-Range Ordering in Binary Solid Solutions Studied by Diffuse Scattering of Radiation, Visnik Cherkas'kogo universitetu. Ser.: Fiziko-matematichni nauki, 37–38: 249–255 (2001–2002)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. М. Радченко, Кінетика близького порядку та еволюція картини розсіяння випромінювань і електроопору в щільно впакованих твердих розчинах (Дисер. на здобуття наукового ступеня канд. фіз.-мат. наук) (Київ: Інститут металофізики ім. Г. В. Курдюмова НАН України: 2003).",
+				"tr":  "T. M. Radchenko, Short-Range Order Kinetics and Evolution of the Radiation-Scattering Pattern and Electrical Resistivity in Close-Packed Solid Solutions (Thesis for Cand. of Phys.-Math. Sciences—PhD) (Kyiv: G. V. Kurdyumov Institute for Metal Physics, National Academy of Sciences of Ukraine: 2003)."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Наумова, С. В. Семеновская, Я. С. Уманский, Изучение элементарных актов диффузии методом диффузного рассеяния рентгеновских лучей, Физ. твёрд. тела, 12, № 4: 975–982 (1970).",
+				"tr":  "M. M. Naumova, S. V. Semenovskaya, Ya. S. Umanskiy, Izuchenie elementarnykh aktov diffuzii metodom diffuznogo rasseyaniya rentgenovskikh luchey, Fiz. Tverd. Tela, 12, No. 4: 975–982 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "С. М. Бокоч, Н. П. Кулиш, В. А. Татаренко, Т. М. Радченко, Кинетика ближнего упорядочения твердых растворов замещения (по данным о рассеянии разного типа волн). II. Параметры атомной микродиффузии в ГЦК-Ni–Mo, Металлофиз. новейшие технол., 26, № 4: 541–558 (2004).",
+				"tr":  "S. M. Bokoch, N. P. Kulish, V. A. Tatarenko, T. M. Radchenko, Kinetika blizhnego uporyadocheniya tverdykh rastvorov zameshcheniya (po dannym o rasseyanii raznogo tipa voln). II. Parametry atomnoy mikrodiffuzii v GTsK-Ni–Mo, Metallofiz. Noveishie Tekhnol., 26, No. 4: 541–558 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "T. M. Radchenko, V. A. Tatarenko, S. M. Bokoch, and M. P. Kulish, Microscopic Approach to the Evaluation of Diffusion Coefficients for Substitutional F.C.C. Solid Solutions, Proc. of the 1st Int’l Conf. on Diffusion in Solids and Liquids—‘DSL-2005’ (Aveiro, Portugal, 6–8 July, 2005) (Eds. A. Öchsner, J. Grácio, and F. Barlat) (Aveiro: University of Aveiro: 2005). vol. 2, p. 591–596.",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, S. M. Bokoch, and M. P. Kulish, Microscopic Approach to the Evaluation of Diffusion Coefficients for Substitutional F.C.C. Solid Solutions, Proc. of the 1st Int'l Conf. on Diffusion in Solids and Liquids—'DSL-2005' (Aveiro, Portugal, 6–8 July, 2005) (Eds. A. Öchsner, J. Grácio, and F. Barlat) (Aveiro: University of Aveiro: 2005). vol. 2, p. 591–596."
+			},
+			{
+				"doi": "",
+				"or":  "S. M. Bokoch, M. P. Kulish, T. M. Radchenko, and V. A. Tatarenko, Parameters of Microdiffusion in F.C.C.-Ni–Mo Solid Solution, Proc. of the 1st Int’l Conf. on Diffusion in Solids and Liquids—“DSL-2005” (Aveiro, Portugal, 6–8 July, 2005) (Eds. A. Öchsner, J. Grácio, and F. Barlat) (Aveiro: University of Aveiro: 2005). vol. 1, p. 57–62.",
+				"tr":  "S. M. Bokoch, M. P. Kulish, T. M. Radchenko, and V. A. Tatarenko, Parameters of Microdiffusion in F.C.C.-Ni–Mo Solid Solution, Proc. of the 1st Int'l Conf. on Diffusion in Solids and Liquids—\"DSL-2005\" (Aveiro, Portugal, 6–8 July, 2005) (Eds. A. Öchsner, J. Grácio, and F. Barlat) (Aveiro: University of Aveiro: 2005). vol. 1, p. 57–62."
+			},
+			{
+				"doi": "",
+				"or":  "T. M. Radchenko, V. A. Tatarenko, and S. M. Bokoch, Calculation of Diffusivities in Ordering F.C.C. Alloy by the Kinetic Data about Short- and Long-Range Order Parameter’s Relaxation, Diffusion Fundamentals, 2: 57.1–57.2 (2005) (Open-Access Online Journal for the Basic Principles of Diffusion Theory, Experiment and Application: http://www.uni-leipzig.de/diffusion/journal/pdf/volume2/diff_fund_2(2005)57.pdf).",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, and S. M. Bokoch, Calculation of Diffusivities in Ordering F.C.C. Alloy by the Kinetic Data about Short- and Long-Range Order Parameter's Relaxation, Diffusion Fundamentals, 2: 57.1–57.2 (2005) (Open-Access Online Journal for the Basic Principles of Diffusion Theory, Experiment and Application: http://www.uni-leipzig.de/diffusion/journal/pdf/volume2/diff_fund_2(2005)57.pdf)."
+			},
+			{
+				"doi": "10.1016/0001-6160(77)90128-6",
+				"or":  "A. Caplain and W. Chambron, Energies de Formation et de Migration des Lacunes dans Les Alliages Fer–Nickel de Structure C.F.C. par la Methode de l’Anisotropie Magnetique Induite, Acta metall., 25, No. 9: 1001–1011 (1977) (in French).",
+				"tr":  "A. Caplain and W. Chambron, Energies de Formation et de Migration des Lacunes dans Les Alliages Fer–Nickel de Structure C.F.C. par la Methode de l'Anisotropie Magnetique Induite, Acta metall., 25, No. 9: 1001–1011 (1977) (in French)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.44.4681",
+				"or":  "L.-Q. Chen and A. G. Khachaturyan, Formation of Virtual Ordered States Along a Phase-Decomposition Path, Phys. Rev. B, 44, No. 9: 4681–4684 (1991).",
+				"tr":  "L.-Q. Chen and A. G. Khachaturyan, Formation of Virtual Ordered States Along a Phase-Decomposition Path, Phys. Rev. B, 44, No. 9: 4681–4684 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Q. Chen and A. G. Khachaturyan, Computer Simulation of Simultaneous Ordering, Decomposition and Strain-Induced Coarsening, Kinetics of Ordering Transformations in Metals (Eds. H. Chen and V. K. Vasudevan) (Warrendale, Pennsylvania: TMS: 1992), pp. 197–206.",
+				"tr":  "L. Q. Chen and A. G. Khachaturyan, Computer Simulation of Simultaneous Ordering, Decomposition and Strain-Induced Coarsening, Kinetics of Ordering Transformations in Metals (Eds. H. Chen and V. K. Vasudevan) (Warrendale, Pennsylvania: TMS: 1992), pp. 197–206."
+			},
+			{
+				"doi": "10.1103/PhysRevB.46.5899",
+				"or":  "L.-Q. Chen and A. G. Khachaturyan, Kinetics of Virtual Phase Formation During of Ordered Intermetallics, Phys. Rev. B, 46, No. 10: 5899–5905 (1992).",
+				"tr":  "L.-Q. Chen and A. G. Khachaturyan, Kinetics of Virtual Phase Formation During of Ordered Intermetallics, Phys. Rev. B, 46, No. 10: 5899–5905 (1992)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(96)00137-1",
+				"or":  "R. Poduri and L.-Q. Chen, Computer Simulation of the Kinetics of Order–Disorder and Phase Separation During Precipitation of delta-prime (Al3Li) in Al–Li Alloys, Acta Mater., 45, No. 1: 245–255 (1997).",
+				"tr":  "R. Poduri and L.-Q. Chen, Computer Simulation of the Kinetics of Order–Disorder and Phase Separation During Precipitation of delta-prime (Al3Li) in Al–Li Alloys, Acta Mater., 45, No. 1: 245–255 (1997)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(97)00335-2",
+				"or":  "R. Poduri and L.-Q. Chen, Computer Simulation of Atomic Ordering and Compositional Clustering in the Pseudobinary Ni3Al–Ni3V System, Acta Mater., 46, No. 5: 1719–1729 (1998).",
+				"tr":  "R. Poduri and L.-Q. Chen, Computer Simulation of Atomic Ordering and Compositional Clustering in the Pseudobinary Ni3Al–Ni3V System, Acta Mater., 46, No. 5: 1719–1729 (1998)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(98)00015-9",
+				"or":  "Y. Wang, D. Banerjee, C. C. Su, and A. G. Khachaturyan, Field Kinetic Model and Computer Simulation of Precipitation of L12 Ordered Intermetallics From F.C.C. Solid Solution, Acta Mater., 46, No. 9: 2983–3001 (1998).",
+				"tr":  "Y. Wang, D. Banerjee, C. C. Su, and A. G. Khachaturyan, Field Kinetic Model and Computer Simulation of Precipitation of L12 Ordered Intermetallics From F.C.C. Solid Solution, Acta Mater., 46, No. 9: 2983–3001 (1998)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(99)00107-X",
+				"or":  "G. Rubin and A. G. Khachaturyan, Three-Dimensional Model of Precipitation of Ordered Intermetallics, Acta Mater., 47, No. 7: 1995–2002 (1999).",
+				"tr":  "G. Rubin and A. G. Khachaturyan, Three-Dimensional Model of Precipitation of Ordered Intermetallics, Acta Mater., 47, No. 7: 1995–2002 (1999)."
+			},
+			{
+				"doi": "10.1039/B605834E",
+				"or":  "M. Nastar and V. Barbe, A Self-Consistent Mean Field Theory for Diffusion in Alloys, Faraday Discuss., 134: 331–342 (2007).",
+				"tr":  "M. Nastar and V. Barbe, A Self-Consistent Mean Field Theory for Diffusion in Alloys, Faraday Discuss., 134: 331–342 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Гоманьков, И. М. Пузей, М. Н. Рукосуев, Процессы упорядочения в Ni3Fe, Республиканский межведомственный сборник «Металлофизика». Вып. 20: Упорядочение атомов и его влияние на свойства сплавов (Киев: Наукова думка: 1968), сс. 105–108.",
+				"tr":  "V. I. Goman'kov, I. M. Puzey, M. N. Rukosuev, Protsessy uporyadocheniya v Ni3Fe, Respublikanskiy mezhvedomstvennyy sbornik «Metallofizika». No. 20: Uporyadochenie atomov i ego vliyanie na svoystva splavov (Kiev: Naukova dumka: 1968), ss. 105–108."
+			},
+			{
+				"doi": "",
+				"or":  "T. M. Radchenko, V. A. Tatarenko, and S. M. Bokoch, Diffusivities and Kinetics of Short-Range and Long-Range Orderings in Ni–Fe Permalloys, Металлофиз. новейшие технол., 28, № 12: 1699–1720 (2006).",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, and S. M. Bokoch, Diffusivities and Kinetics of Short-Range and Long-Range Orderings in Ni–Fe Permalloys, Metallofiz. Noveishie Tekhnol., 28, No. 12: 1699–1720 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "T. M. Radchenko, V. A. Tatarenko, and H. Zapolsky, Diffusional Atomic-Ordering Kinetics of Close-Packed Solid Solutions: Models for L12 and D019 Phases, Diffusion Fundamentals, 6: 30.1–30.2 (2007) (Open-Access Online Journal for the Basic Principles of Diffusion Theory, Experiment and Application: http://www.uni-leipzig.de/diffusion/journal/pdf/volume6/diff_fund_6(2007)30.pdf).",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, and H. Zapolsky, Diffusional Atomic-Ordering Kinetics of Close-Packed Solid Solutions: Models for L12 and D019 Phases, Diffusion Fundamentals, 6: 30.1–30.2 (2007) (Open-Access Online Journal for the Basic Principles of Diffusion Theory, Experiment and Application: http://www.uni-leipzig.de/diffusion/journal/pdf/volume6/diff_fund_6(2007)30.pdf)."
+			},
+			{
+				"doi": "",
+				"or":  "T. M. Radchenko and V. A. Tatarenko, Atomic-Ordering Kinetics and Diffusivities in Ni–Fe Permalloy, Defect and Diffusion Forum, 273–276: 525–530 (2008).",
+				"tr":  "T. M. Radchenko and V. A. Tatarenko, Atomic-Ordering Kinetics and Diffusivities in Ni–Fe Permalloy, Defect and Diffusion Forum, 273–276: 525–530 (2008)."
+			},
+			{
+				"doi": "10.2138/am-1996-9-1001",
+				"or":  "R. Hazen and A. Navrodsky, Effects of Pressure on Order–Disorder Reactions, American Mineralogist, 81: 1021–1035 (1996).",
+				"tr":  "R. Hazen and A. Navrodsky, Effects of Pressure on Order–Disorder Reactions, American Mineralogist, 81: 1021–1035 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "А. К. Канюка, В. И. Рыжков, А. A. Смирнов, О влиянии давления на упорядочение сплавов с гранецентрированной кубической решёткой типа AuCu3, Республиканский межведомственный сборник «Металлофизика». Сер.: Фазовые превращения в металлах и сплавах (Киев: Наукова думка: 1965), сс. 22–29.",
+				"tr":  "A. K. Kanyuka, V. I. Ryzhkov, A. A. Smirnov, O vliyanii davleniya na uporyadochenie splavov s granetsentrirovannoy kubicheskoy reshetkoy tipa AuCu3, Respublikanskiy mezhvedomstvennyy sbornik «Metallofizika». Ser.: Fazovye prevrashcheniya v metallakh i splavakh (Kiev: Naukova dumka: 1965), ss. 22–29."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Гейченко, А. К. Канюка, A. A. Смирнов, Теория упорядочения сплавов типа Au–Cu, учитывающая зависимость параметров решётки от давления, состава и параметра дальнего порядка, Физ. мет. металловед., 31, № 3: 469–477 (1971).",
+				"tr":  "V. V. Geychenko, A. K. Kanyuka, A. A. Smirnov, Teoriya uporyadocheniya splavov tipa Au–Cu, uchityvayushchaya zavisimost' parametrov reshetki ot davleniya, sostava i parametra dal'nego poryadka, Fiz. Met. Metalloved., 31, No. 3: 469–477 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "A. К. Канюка, A. A. Смирнов, Теория упорядочения сплавов типа Au–Cu и Cu–Pt под давлением, Докл. IV Всесоюзного совещ. по упорядочению атомов и его влиянию на свойства сплавов (Томск: ТГУ: 1974), ч. I, сс. 103–108.",
+				"tr":  "A. K. Kanyuka, A. A. Smirnov, Teoriya uporyadocheniya splavov tipa Au–Cu i Cu–Pt pod davleniem, Dokl. IV Vsesoyuznogo soveshch. po uporyadocheniyu atomov i ego vliyaniyu na svoystva splavov (Tomsk: TGU: 1974), ch. I, ss. 103–108."
+			},
+			{
+				"doi": "",
+				"or":  "A. К. Канюка, В. И. Рыжков, A. A. Смирнов, Теория упорядочения сплавов типа CuPt под давлением, Физ. мет. металловед., 40, № 5: 950–957 (1975).",
+				"tr":  "A. K. Kanyuka, V. I. Ryzhkov, A. A. Smirnov, Teoriya uporyadocheniya splavov tipa CuPt pod davleniem, Fiz. Met. Metalloved., 40, No. 5: 950–957 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "A. К. Канюка, Влияние статических напряжений на упорядочение сплавов типа AuCu, Физ. мет. металловед., 41, № 5: 920–924 (1976).",
+				"tr":  "A. K. Kanyuka, Vliyanie staticheskikh napryazheniy na uporyadochenie splavov tipa AuCu, Fiz. Met. Metalloved., 41, No. 5: 920–924 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "A. К. Канюка, Влияние статических напряжений на упорядочение сплавов типа CuPt, Физ. мет. металловед., 43, № 3: 493–497 (1977).",
+				"tr":  "A. K. Kanyuka, Vliyanie staticheskikh napryazheniy na uporyadochenie splavov tipa CuPt, Fiz. Met. Metalloved., 43, No. 3: 493–497 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "A. К. Канюка, О возможном виде фазовой диаграммы давление–температура сплава CuPt, Укр. физ. журн., 22, № 9: 1566–1568 (1977).",
+				"tr":  "A. K. Kanyuka, O vozmozhnom vide fazovoy diagrammy davlenie–temperatura splava CuPt, Ukrainian Physical Journal, 22, No. 9: 1566–1568 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Geychenko, A. K. Kanyuka, V. I. Ryzhkov, and A. A. Smirnov, The Effect of Pressure on Phase Diagrams of Ordering Alloys and on Some Features of Order–Disorder Transition, High Temperature–High Pressure, 9: 640–641 (1977).",
+				"tr":  "V. V. Geychenko, A. K. Kanyuka, V. I. Ryzhkov, and A. A. Smirnov, The Effect of Pressure on Phase Diagrams of Ordering Alloys and on Some Features of Order–Disorder Transition, High Temperature–High Pressure, 9: 640–641 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "А. К. Канюка, Влияние статических напряжений на упорядочение сплавов типа CrNi2, Физ. мет. металловед., 45, № 3: 589–598 (1978).",
+				"tr":  "A. K. Kanyuka, Vliyanie staticheskikh napryazheniy na uporyadochenie splavov tipa CrNi2, Fiz. Met. Metalloved., 45, No. 3: 589–598 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Рыжков, А. А. Смирнов, О влиянии давления на упорядочение сплавов, Физ. мет. металловед., 18, № 5: 670–677 (1964).",
+				"tr":  "V. I. Ryzhkov, A. A. Smirnov, O vliyanii davleniya na uporyadochenie splavov, Fiz. Met. Metalloved., 18, No. 5: 670–677 (1964)."
+			},
+			{
+				"doi": "",
+				"or":  "З. А. Матысина, А. А. Смирнов, К теории упорядочения сплавов с параметром решётки, зависящим от состава и степени порядка, Вопросы физики металлов и металловедения (Киев: Наукова думка: 1964), сс. 136–147.",
+				"tr":  "Z. A. Matysina, A. A. Smirnov, K teorii uporyadocheniya splavov s parametrom reshetki, zavisyashchim ot sostava i stepeni poryadka, Voprosy fiziki metallov i metallovedeniya (Kiev: Naukova dumka: 1964), ss. 136–147."
+			},
+			{
+				"doi": "",
+				"or":  "А. К. Канюка, A. A. Смирнов, Теория влияния давления на упорядочение сплавов, учитывающая зависимость объема от степени дальнего порядка, Физ. мет. металловед., 24, № 6: 989–997 (1967).",
+				"tr":  "A. K. Kanyuka, A. A. Smirnov, Teoriya vliyaniya davleniya na uporyadochenie splavov, uchityvayushchaya zavisimost' ob'yema ot stepeni dal'nego poryadka, Fiz. Met. Metalloved., 24, No. 6: 989–997 (1967)."
+			},
+			{
+				"doi": "10.1063/1.1708937",
+				"or":  "M. C. Frandzblau and R. B. Gordon, The Order–Disorder Transformation in Cu3Au at High Pressure, J. Appl. Phys., 38, No. 1: 103–110 (1967).",
+				"tr":  "M. C. Frandzblau and R. B. Gordon, The Order–Disorder Transformation in Cu3Au at High Pressure, J. Appl. Phys., 38, No. 1: 103–110 (1967)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Ф. Жоровков, Симметрийный анализ сверхструктур замещения в гексагональной плотноупакованной решётке, Известия вузов. Физика (Деп. в ВИНИТИ 11.03.91 № 1023-B91) (Томск: 1991).",
+				"tr":  "M. F. Zhorovkov, Simmetriynyy analiz sverkhstruktur zameshcheniya v geksagonal'noy plotnoupakovannoy reshetke, Izvestiya vuzov. Fizika (Dep. v VINITI 11.03.91 No. 1023-B91) (Tomsk: 1991)."
+			},
+			{
+				"doi": "10.1002/pssb.2220680137",
+				"or":  "M. F. Zhorovkov, D. L. Fuks, and V. E. Panin, The Electronic Structure and Phase Diagrams of Binary Alloys with Complex Lattices: I. The Application of Static Concentration Waves and Pseudopotential Methods for Calculating the Phase Diagrams, Phys. Stat. Sol. B, 68, No. 1: 379–385 (1975).",
+				"tr":  "M. F. Zhorovkov, D. L. Fuks, and V. E. Panin, The Electronic Structure and Phase Diagrams of Binary Alloys with Complex Lattices: I. The Application of Static Concentration Waves and Pseudopotential Methods for Calculating the Phase Diagrams, Phys. Stat. Sol. B, 68, No. 1: 379–385 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "М. И. Соловьева, Д. М. Штерн, Теоретическое предсказание структур ГПУ бинарных упорядоченных фаз, Изв. вузов. Физика, № 6: 90–94 (1990).",
+				"tr":  "M. I. Solov'eva, D. M. Shtern, Teoreticheskoe predskazanie struktur GPU binarnykh uporyadochennykh faz, Izv. vuzov. Fizika, No. 6: 90–94 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "К. С. Баррет, Т. Б. Массальски, Структура металлов. В 2-х т. (Москва: Металлургия: 1984) (пер. с англ.).",
+				"tr":  "K. S. Barret, T. B. Massal'ski, Struktura metallov. (Moskva: Metallurgiya: 1984) (Russian translation)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2006.12.149",
+				"or":  "T. M. Radchenko, V. A. Tatarenko, H. Zapolsky, and D. Blavette, Statistical-Thermodynamic Description of the Order–Disorder Transformation of D019-Type Phase in Ti–Al Alloy, J. of Alloys and Compounds, 452: 122–126 (2008).",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, H. Zapolsky, and D. Blavette, Statistical-Thermodynamic Description of the Order–Disorder Transformation of D019-Type Phase in Ti–Al Alloy, J. of Alloys and Compounds, 452: 122–126 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "T. M. Radchenko, V. A. Tatarenko, and H. Zapolsky, Kinetics of D019-Type Long-Range Atomic Ordering in H.C.P. Substitutional Alloys, Фундаментальные проблемы современного материаловедения, 4, № 1: 104–110 (2007).",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, and H. Zapolsky, Kinetics of D019-Type Long-Range Atomic Ordering in H.C.P. Substitutional Alloys, Fundamental'nye problemy sovremennogo materialovedeniya, 4, No. 1: 104–110 (2007)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/SSP.138.283",
+				"or":  "T. M. Radchenko, V. A. Tatarenko, and H. Zapolsky, Statistical-Thermo¬dynamics and Ordering Kinetics of D019-Type Phase: Application of the Models for H.C.P.-Ti–Al Alloy, Solid State Phenomena, 138: 283–302 (2008).",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, and H. Zapolsky, Statistical-Thermodynamics and Ordering Kinetics of D019-Type Phase: Application of the Models for H.C.P.-Ti–Al Alloy, Solid State Phenomena, 138: 283–302 (2008)."
+			},
+			{
+				"doi": "10.1016/S0966-9795(03)00174-2",
+				"or":  "V. A. Tatarenko and T. M. Radchenko, The Application of Radiation Diffuse Scattering to the Calculation of Phase Diagrams of F.C.C. Substitutional Alloys, Intermetallics, 11, Nos. 11–12: 1319–1326 (2003).",
+				"tr":  "V. A. Tatarenko and T. M. Radchenko, The Application of Radiation Diffuse Scattering to the Calculation of Phase Diagrams of F.C.C. Substitutional Alloys, Intermetallics, 11, Nos. 11–12: 1319–1326 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Татаренко, Т. М. Радченко, В. М. Надутов, Параметри міжатомової взаємодії в ГЦК-сплаві заміщення Ni–Fe за експериментальними даними про магнітні характеристики та рівноважні значення інтенсивності дифузного розсіяння випромінювань, Металлофиз. новейшие технол., 25, № 10: 1303–1319 (2003).",
+				"tr":  "V. A. Tatarenko, T. M. Radchenko, V. M. Nadutov, Parametri mizhatomovoi vzaiemodii v GTsK-splavi zamishchennya Ni–Fe za eksperimental'nimi danimi pro magnitni kharakteristiki ta rivnovazhni znachennya intensivnosti difuznogo rozsiyannya viprominyuvan', Metallofiz. Noveishie Tekhnol., 25, No. 10: 1303–1319 (2003)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2005.05.001",
+				"or":  "Y. Mishin, M. J. Mehl, and D. A. Papaconstantopoulos, Phase Stability in the Fe–Ni System: Investigation by First-Principles Calculations and Atomistic Simulations, Acta Mater., 53, No. 15: 4029–4041 (2005).",
+				"tr":  "Y. Mishin, M. J. Mehl, and D. A. Papaconstantopoulos, Phase Stability in the Fe–Ni System: Investigation by First-Principles Calculations and Atomistic Simulations, Acta Mater., 53, No. 15: 4029–4041 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.68.024102",
+				"or":  "R. R. Zope and Y. Mishin, Interatomic Potentials for Atomistic Simulations of the Ti–Al System, Phys. Rev. B, 68: 024102-1–024102-14 (2003).",
+				"tr":  "R. R. Zope and Y. Mishin, Interatomic Potentials for Atomistic Simulations of the Ti–Al System, Phys. Rev. B, 68: 024102-1–024102-14 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.65.224114",
+				"or":  "Y. Mishin, M. J. Mehl, and D. A. Papaconstantopoulos, Embedded-Atom Potential for B2-NiAl, Phys. Rev. B, 65, No. 22: 224114 (2002).",
+				"tr":  "Y. Mishin, M. J. Mehl, and D. A. Papaconstantopoulos, Embedded-Atom Potential for B2-NiAl, Phys. Rev. B, 65, No. 22: 224114 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Рыжков, А. А. Смирнов, Влияние давления на упорядочение в сплавах с гексагональной плотноупакованной кристаллической решёткой, Республиканский межведомственный сборник «Металлофизика». Вып. 20: Упорядочение атомов и его влияние на свойства сплавов (Киев: Наукова думка: 1968), сс. 83–87.",
+				"tr":  "V. I. Ryzhkov, A. A. Smirnov, Vliyanie davleniya na uporyadochenie v splavakh s geksagonal'noy plotnoupakovannoy kristallicheskoy reshetkoy, Respublikanskiy mezhvedomstvennyy sbornik «Metallofizika». No. 20: Uporyadochenie atomov i ego vliyanie na svoystva splavov (Kiev: Naukova dumka: 1968), pp. 83–87."
+			},
+			{
+				"doi": "",
+				"or":  "З. А. Матисіна, А. А. Смірнов, До теорії упорядкування сплавів з гексагональною щільноупакованою кристалічною решіткою, Укр. физ. журн., 5, № 4: 458–471 (1960).",
+				"tr":  "Z. A. Matisina, A. A. Smirnov, Do teorii uporyadkuvannya splaviv z geksagonal'noyu shchil'noupakovanoyu kristalichnoyu reshitkoyu, Ukrainian Physical Journal, 5, No. 4: 458–471 (1960)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Гейченко, В. И. Рыжков, Теория упорядочения сплавов с гексагональной плотноупакованной решёткой, Вопр. физики металлов и металловедения, № 18: 155–162 (1964).",
+				"tr":  "V. V. Geychenko, V. I. Ryzhkov, Teoriya uporyadocheniya splavov s geksagonal'noy plotnoupakovannoy reshetkoy, Vopr. fiziki metallov i metallovedeniya, No. 18: 155–162 (1964)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. П. Гражданкина, А. А. Смирнов, Ю. С. Берсенев, Исследование влияния высокого давления на упорядочение сплавов MgCd3 и CdMg3, Республиканский межведомственный сборник «Металлофизика». Вып. 20: Упорядочение атомов и его влияние на свойства сплавов (Киев: Наукова думка: 1968), сс. 88–90.",
+				"tr":  "N. P. Grazhdankina, A. A. Smirnov, Yu. S. Bersenev, Issledovanie vliyaniya vysokogo davleniya na uporyadochenie splavov MgCd3 i CdMg3, Respublikanskiy mezhvedomstvennyy sbornik 'Metallofizika'. No. 20: Uporyadochenie atomov i ego vliyanie na svoystva splavov (Kiev: Naukova dumka: 1968), pp. 88–90."
+			},
+			{
+				"doi": "",
+				"or":  "Н. П. Гражданкина, Особенности барического коэффициента электросопротивления веществ со спиновым упорядочением, ЖЭТФ, 48, № 5: 1257–1261 (1965).",
+				"tr":  "N. P. Grazhdankina, Osobennosti baricheskogo koeffitsienta elektrosoprotivleniya veshchestv so spinovym uporyadocheniem, ZhETF, 48, No. 5: 1257–1261 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Гейченко, В. І. Рижков, Теорія впорядкування в сплавах з гранецентрованими кубічними гратами, Укр. физ. журн., 8, № 11: 1223–1233 (1963).",
+				"tr":  "V. V. Geychenko, V. I. Rizhkov, Teoriya vporyadkuvannya v splavakh z granetsentrovanimi kubichnimi gratami, Ukrainian Physical Journal, 8, No. 11: 1223–1233 (1963)."
+			},
+			{
+				"doi": "",
+				"or":  "А. К. Канюка, А. А. Смирнов, О влиянии давления на упорядочение сплавов типа Fe–Al, Укр. физ. журн., 14, № 10: 1626–1629 (1969).",
+				"tr":  "A. K. Kanyuka, A. A. Smirnov, O vliyanii davleniya na uporyadochenie splavov tipa Fe–Al, Ukrainian Physical Journal, 14, No. 10: 1626–1629 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. З. Валиев, Феноменологическая теория магнитоупругого взаимодействия в инварах и элинварах, УФН, 161, № 8: 87128 (1991).",
+				"tr":  "E. Z. Valiev, Fenomenologicheskaya teoriya magnitouprugogo vzaimodeystviya v invarakh i elinvarakh, Uspekhi Fiz. Nauk., 161, No. 8: 87128 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ю. Бодряков, А. А. Повзнер, Инварное и коварное поведение простых ферромагнетиков: термодинамическое моделирование, Журн. техн. физ., 77, № 2: 65–71 (2007).",
+				"tr":  "V. Yu. Bodryakov, A. A. Povzner, Invarnoe i kovarnoe povedenie prostykh ferromagnetikov: termodinamicheskoe modelirovanie, Zhurn. tekhn. fiz., 77, No. 2: 65–71 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ю. Бодряков, Элинварное поведение простых ферромагнетиков: термодинамическое моделирование, Журн. техн. физ., 77, № 8: 54–61 (2007).",
+				"tr":  "V. Yu. Bodryakov, Elinvarnoe povedenie prostykh ferromagnetikov: termodinamicheskoe modelirovanie, Zhurn. tekhn. fiz., 77, No. 8: 54–61 (2007)."
+			},
+			{
+				"doi": "10.1007/BF02656528",
+				"or":  "K. C. Russell and F. A. Garner, Radiation as a Tool in Understanding Phase Transformations, Metallurgical and Materials Transactions A, 21, No. 4: 1073–1082 (1990).",
+				"tr":  "K. C. Russell and F. A. Garner, Radiation as a Tool in Understanding Phase Transformations, Metallurgical and Materials Transactions A, 21, No. 4: 1073–1082 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "K. C. Russel and F. A. Garner, Thermal and Irradiation-Induced Phase Separation in Fe–Ni Based Invar-Type Alloys, Metallurgical and Materialals Transaction A, 23, No. 7: 1963–1976 (1992).",
+				"tr":  "K. C. Russel and F. A. Garner, Thermal and Irradiation-Induced Phase Separation in Fe–Ni Based Invar-Type Alloys, Metallurgical and Materialals Transaction A, 23, No. 7: 1963–1976 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "K. C. Russell and F. A. Garner, Theoretical Analysis of Phase Transformations in Fe-Ni Invar-Type Alloys, Proceedings of TMS Symposium on Physical Metallurgy of Controlled Expansion Invar-Type Alloys (Las Vegas, NV: 1989), pp. 25–46.",
+				"tr":  "K. C. Russell and F. A. Garner, Theoretical Analysis of Phase Transformations in Fe-Ni Invar-Type Alloys, Proceedings of TMS Symposium on Physical Metallurgy of Controlled Expansion Invar-Type Alloys (Las Vegas, NV: 1989), pp. 25–46."
+			},
+			{
+				"doi": "",
+				"or":  "E. F. Wassermann, Ferromagnetic Materials V (Eds. K. H. J. Buschow and E. P. Wohlfarth) (Amsterdam: North Holland: 1990), pp. 237–321.",
+				"tr":  "E. F. Wassermann, Ferromagnetic Materials V (Eds. K. H. J. Buschow and E. P. Wohlfarth) (Amsterdam: North Holland: 1990), pp. 237–321."
+			},
+			{
+				"doi": "10.1016/0022-5088(88)90261-5",
+				"or":  "A. Wiedenmann, W. Wagner, and H. Wollenberger, Metastability of Fe–34 at.% Ni Invar Alloys Above 600°C, Journal of the Less-Common Metals, 145: 47–53 (1988).",
+				"tr":  "A. Wiedenmann, W. Wagner, and H. Wollenberger, Metastability of Fe–34 at.% Ni Invar Alloys Above 600°C, Journal of the Less-Common Metals, 145: 47–53 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Abromeit and G. Ananthakrishna, Fe–Ni Invar Alloy: an Example of Fractal Decomposition? Вопросы атомной науки и техники. Сер.: Физика радиационных повреждений и радиационное материаловедение, № 3(86): 32–37 (2005).",
+				"tr":  "C. Abromeit and G. Ananthakrishna, Fe–Ni Invar Alloy: an Example of Fractal Decomposition? Voprosy atomnoy nauki i tekhniki. Ser.: Fizika radiatsionnykh povrezhdeniy i radiatsionnoe materialovedenie, No. 3(86): 32–37 (2005)."
+			},
+			{
+				"doi": "10.1143/JPSJ.27.536",
+				"or":  "S. Kachi and H. Asano, Concentration Fluctuations and Anomalous Properties of the Invar Alloy J. Phys. Soc. Japan, 27, No. 3: 536–541 (1969).",
+				"tr":  "S. Kachi and H. Asano, Concentration Fluctuations and Anomalous Properties of the Invar Alloy J. Phys. Soc. Japan, 27, No. 3: 536–541 (1969)."
+			},
+			{
+				"doi": "10.1063/1.1984733",
+				"or":  "E. I. Kondorsky and V. L. Sedov, Antiferromagnetism of Iron in Face-Centered Crystalline Lattice and the Causes of Anomalies in Invar Physical Properties, J. Appl. Phys., 31: 331S (1960).",
+				"tr":  "E. I. Kondorsky and V. L. Sedov, Antiferromagnetism of Iron in Face-Centered Crystalline Lattice and the Causes of Anomalies in Invar Physical Properties, J. Appl. Phys., 31: 331S (1960)."
+			},
+			{
+				"doi": "10.1143/JPSJ.45.1244",
+				"or":  "Y. Tanji, H. Moriya, and Y. Nakagawa, Anomalous Concentration Dependence of Thermoelectric Power of Fe–Ni (FCC) Alloys at High Temperatures, J. Phys. Soc. Japan, 45, No. 4: 1244–1248 (1978).",
+				"tr":  "Y. Tanji, H. Moriya, and Y. Nakagawa, Anomalous Concentration Dependence of Thermoelectric Power of Fe–Ni (FCC) Alloys at High Temperatures, J. Phys. Soc. Japan, 45, No. 4: 1244–1248 (1978)."
+			},
+			{
+				"doi": "10.1002/pssa.2210560213",
+				"or":  "Y. Tanji, Y. Nakagawa, Y. Saito, K. Nishimura, and K. Nakatsuka, Anomalous Thermodynamic Properties of Iron–Nickel (F.C.C.) Alloys, Phys. Stat. Sol. (a), 56, No. 2: 513–519 (1979).",
+				"tr":  "Y. Tanji, Y. Nakagawa, Y. Saito, K. Nishimura, and K. Nakatsuka, Anomalous Thermodynamic Properties of Iron–Nickel (F.C.C.) Alloys, Phys. Stat. Sol. (a), 56, No. 2: 513–519 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Becker (Thesis of Disser. for Ph.D.) (Duisburg University: 1990).",
+				"tr":  "E. Becker (Thesis of Disser. for Ph.D.) (Duisburg University: 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "O. Kubaschewski, K. N. Geiger, and K. Hack, The Thermochemical Properties of Iron–Nickel Alloys, Z. Metallkunde, 68, No. 5: 337–341 (1977).",
+				"tr":  "O. Kubaschewski, K. N. Geiger, and K. Hack, The Thermochemical Properties of Iron–Nickel Alloys, Z. Metallkunde, 68, No. 5: 337–341 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "A. V. Jain and M. E. Lipschutz, Shock History of Iron Meteorites and Their Parent Bodies: A Review, Chem. Erde, 30: 199–216 (1971).",
+				"tr":  "A. V. Jain and M. E. Lipschutz, Shock History of Iron Meteorites and Their Parent Bodies: A Review, Chem. Erde, 30: 199–216 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "J. I. Goldstein, D. B. Williams, J. Zhang, and R. Clarke, Invar Alloys: Information from the Study of Iron Meteorites, Physical Metallurgy of Controlled Expansion Invar-Type Alloys (Eds. K. C. Russell and D. F. Smith) (Warrendale, USA: The Minerals, Metals & Materials Society: 1990).",
+				"tr":  "J. I. Goldstein, D. B. Williams, J. Zhang, and R. Clarke, Invar Alloys: Information from the Study of Iron Meteorites, Physical Metallurgy of Controlled Expansion Invar-Type Alloys (Eds. K. C. Russell and D. F. Smith) (Warrendale, USA: The Minerals, Metals & Materials Society: 1990)."
+			},
+			{
+				"doi": "10.1088/0305-4608/17/9/024",
+				"or":  "R. S. Scorzelli, I. S. Azevedo, J. Danon, and M. A. Meyers, Mössbauer Study of Shock-Induced Effect in the Ordered Alloy Fe50Ni50 in Meteorites, J. Phys. F: Metal Phys., 17: 1993–1997 (1987).",
+				"tr":  "R. S. Scorzelli, I. S. Azevedo, J. Danon, and M. A. Meyers, Mössbauer Study of Shock-Induced Effect in the Ordered Alloy Fe50Ni50 in Meteorites, J. Phys. F: Metal Phys., 17: 1993–1997 (1987)."
+			},
+			{
+				"doi": "10.1038/284537a0",
+				"or":  "J. Danon, R. B. Scorzelli, I. Souza-Azevedo, J. Laugier, and A. Chamberod, Santa Catharina Meteorite and Phase Composition of Irradiated Fe–Ni Invar Alloys, Nature, 284: 537–538 (1980).",
+				"tr":  "J. Danon, R. B. Scorzelli, I. Souza-Azevedo, J. Laugier, and A. Chamberod, Santa Catharina Meteorite and Phase Composition of Irradiated Fe–Ni Invar Alloys, Nature, 284: 537–538 (1980)."
+			},
+			{
+				"doi": "10.1007/BF02063786",
+				"or":  "R. B. Scorzelli, R. A. Pereira, C. A. C. Perez, and A. A. R. Fernandes, Phase Composition and Structure of Fe–Ni Alloys in a Unique Antarctic Meteorite Yamato, Hyperfine Interactions, 94, No. 1: 2343–2347 (2005).",
+				"tr":  "R. B. Scorzelli, R. A. Pereira, C. A. C. Perez, and A. A. R. Fernandes, Phase Composition and Structure of Fe–Ni Alloys in a Unique Antarctic Meteorite Yamato, Hyperfine Interactions, 94, No. 1: 2343–2347 (2005)."
+			},
+			{
+				"doi": "10.1038/281469a0",
+				"or":  "J. Danon, R. B. Scorzelli, I. Souza Azevedo, and M. Christophe-Michel-Lévy, Iron–Nickel Superstructure in Metal Particles of Chondrites, Nature, 281: 469–471 (1979).",
+				"tr":  "J. Danon, R. B. Scorzelli, I. Souza Azevedo, and M. Christophe-Michel-Lévy, Iron–Nickel Superstructure in Metal Particles of Chondrites, Nature, 281: 469–471 (1979)."
+			},
+			{
+				"doi": "10.1051/jphyscol:19801136",
+				"or":  "J. Danon, R. B. Scorzelli, and I. S. Azevedo, Mössbauer Studies of the Fe–Ni Ordered Phase (Superstructure L10) in Meteorites, J. de Phys. Colloq., 41, No. C1: 363–364 (1980).",
+				"tr":  "J. Danon, R. B. Scorzelli, and I. S. Azevedo, Mössbauer Studies of the Fe–Ni Ordered Phase (Superstructure L10) in Meteorites, J. de Phys. Colloq., 41, No. C1: 363–364 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Danon, R. B. Scorzelli, I. S. Azevedo et al., C. r. hebd. Séanc. Acad. Sci. Paris, 287: 199–201 (1978).",
+				"tr":  "J. Danon, R. B. Scorzelli, I. S. Azevedo et al., C. r. hebd. Séanc. Acad. Sci. Paris, 287: 199–201 (1978)."
+			},
+			{
+				"doi": "10.1038/273453a0",
+				"or":  "J. F. Albertsen, G. B. Jensen, and J. M. Knudsen, Structure of Taenite in Two Iron Meteorites, Nature, 273: 453–454 (1978).",
+				"tr":  "J. F. Albertsen, G. B. Jensen, and J. M. Knudsen, Structure of Taenite in Two Iron Meteorites, Nature, 273: 453–454 (1978)."
+			},
+			{
+				"doi": "10.1038/277283a0",
+				"or":  "J. Danon, R. Scorzelli, I. Souzaazevedo, W. Curvello, J. F. Albertsen, and J. M. Knudsen, Iron–Nickel 50–50 Superstructure in the Santa-Catharina Meteorite, Nature, 277, No. 5694: 283–284 (1979).",
+				"tr":  "J. Danon, R. Scorzelli, I. Souzaazevedo, W. Curvello, J. F. Albertsen, and J. M. Knudsen, Iron–Nickel 50–50 Superstructure in the Santa-Catharina Meteorite, Nature, 277, No. 5694: 283–284 (1979)."
+			},
+			{
+				"doi": "10.1557/JMR.1997.0014",
+				"or":  "Q. Li, A. Wiedenmann, and H. Wollenberger, Fractal Morphologies from Decomposition of Fe–Ni-Invar Alloys, J. Mater. Res., 12, No. 1: 83–92 (1997).",
+				"tr":  "Q. Li, A. Wiedenmann, and H. Wollenberger, Fractal Morphologies from Decomposition of Fe–Ni-Invar Alloys, J. Mater. Res., 12, No. 1: 83–92 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "F. A. Garner, H. R. Brager, R. A. Dodd, and T. Lauritzen, Ion-Induced Spinodal-Like Decomposition of Fe–Ni–Cr Invar Alloys, J. Nucl. Inst. Meth., B16, No. 2, 3: 244–250 (1986).",
+				"tr":  "F. A. Garner, H. R. Brager, R. A. Dodd, and T. Lauritzen, Ion-Induced Spinodal-Like Decomposition of Fe–Ni–Cr Invar Alloys, J. Nucl. Inst. Meth., B16, No. 2, 3: 244–250 (1986)."
+			},
+			{
+				"doi": "10.1016/0001-6160(86)90096-9",
+				"or":  "C. Abromeit and K. Krishan, Influence of Irradiation on the Spinodal Decomposition of a Concentrated Alloy, Acta Metall., 34, No. 8: 1515–1524 (1986).",
+				"tr":  "C. Abromeit and K. Krishan, Influence of Irradiation on the Spinodal Decomposition of a Concentrated Alloy, Acta Metall., 34, No. 8: 1515–1524 (1986)."
+			},
+			{
+				"doi": "10.1016/S0022-3115(98)00712-0",
+				"or":  "C. Abromeit and G. Martin, Dynamical Phase Changes Induced by Point Defect Fluxes under Irradiation, J. Nucl. Mater., 271–272: 251–255 (1999).",
+				"tr":  "C. Abromeit and G. Martin, Dynamical Phase Changes Induced by Point Defect Fluxes under Irradiation, J. Nucl. Mater., 271–272: 251–255 (1999)."
+			},
+			{
+				"doi": "10.1016/0921-4526(92)90470-D",
+				"or":  "A. Wiedenmann, Q. Li, W. Wagner, and W. Petry, Fractal Aggregation in Fe–Ni Alloys During High Temperature Annealing, Physica B, 180–181: 793–794 (1992).",
+				"tr":  "A. Wiedenmann, Q. Li, W. Wagner, and W. Petry, Fractal Aggregation in Fe–Ni Alloys During High Temperature Annealing, Physica B, 180–181: 793–794 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Wiedenmann, W. Wagner, and H. Wollenberger, Physical Metallurgy of Controlled Expansion Invar-Type Alloys (Eds. K. C. Russell and D. F. Smith) (Warrendale, USA: The Minerals, Metals & Materials Society: 1990), p. 47.",
+				"tr":  "A. Wiedenmann, W. Wagner, and H. Wollenberger, Physical Metallurgy of Controlled Expansion Invar-Type Alloys (Eds. K. C. Russell and D. F. Smith) (Warrendale, USA: The Minerals, Metals & Materials Society: 1990), p. 47."
+			},
+			{
+				"doi": "10.1016/0036-9748(89)90459-6",
+				"or":  "A. Wiedenmann, W. Wagner, and H. Wollenberger, Thermal Decomposition of Fe–34 at.% Ni between 625°C and 725°C, Scripta Metall., 23, No. 4: 603–605 (1989).",
+				"tr":  "A. Wiedenmann, W. Wagner, and H. Wollenberger, Thermal Decomposition of Fe–34 at.% Ni between 625°C and 725°C, Scripta Metall., 23, No. 4: 603–605 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Е. Данилов, В. Л. Арбузов, В. В. Сагарадзе, В. А. Шабашов, Вопросы атомной науки и техники. Сер.: Физика радиационных повреждений и радиационное материаловедение, № 5(88): 22–25 (2005).",
+				"tr":  "S. E. Danilov, V. L. Arbuzov, V. V. Sagaradze, V. A. Shabashov, Voprosy atomnoy nauki i tekhniki. Ser.: Fizika radiatsionnykh povrezhdeniy i radiatsionnoe materialovedenie, No. 5(88): 22–25 (2005)."
+			},
+			{
+				"doi": "10.1016/0022-3115(93)90105-8",
+				"or":  "F. A. Garner, J. M. McCarthy, K. C. Russell, and J. J. Hoyt, Spinodal-Like Decomposition of Fe–35Ni and Fe–Cr–35Ni Alloys During Irradiation or Thermal Aging, J. Nucl. Mater., 205: 411–425 (1993).",
+				"tr":  "F. A. Garner, J. M. McCarthy, K. C. Russell, and J. J. Hoyt, Spinodal-Like Decomposition of Fe–35Ni and Fe–Cr–35Ni Alloys During Irradiation or Thermal Aging, J. Nucl. Mater., 205: 411–425 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "R. A. Dodd, F. A. Garner, J.-J. Kai, T. Lauritzen, and W. G. Johnston, Spinodal-Like Decomposition and Swelling-Induced by Ion Irradiation in Simple Fe–Ni and Fe–Ni–Cr Alloys, Thirteenth International Symposium ‘Effects of Radiation on Materials’. Part 1: Radiation-Induced Changes in Microstructure—ASTM STP 955 (Eds. F. A. Garner, N. H. Packan, and A. S. Kumar) (Philadelphia, PA: ASTM: 1987), pp. 788–804.",
+				"tr":  "R. A. Dodd, F. A. Garner, J.-J. Kai, T. Lauritzen, and W. G. Johnston, Spinodal-Like Decomposition and Swelling-Induced by Ion Irradiation in Simple Fe–Ni and Fe–Ni–Cr Alloys, Thirteenth International Symposium 'Effects of Radiation on Materials'. Part 1: Radiation-Induced Changes in Microstructure—ASTM STP 955 (Eds. F. A. Garner, N. H. Packan, and A. S. Kumar) (Philadelphia, PA: ASTM: 1987), pp. 788–804."
+			},
+			{
+				"doi": "",
+				"or":  "F. A. Garner, H. R. Brager, and J. M. McCarthy, Neutron-Induced Spinodal-Like Decomposition of Fe–Ni and Fe–Ni–Cr Alloys, Thirteenth International Symposium ‘Effects of Radiation on Materials’. Part 1: Radiation-Induced Changes in Microstructure—ASTM STP 955 (Eds. F. A. Garner, N. H. Packan, and A. S. Kumar) (Philadelphia, PA: ASTM: 1987), pp. 775–787.",
+				"tr":  "F. A. Garner, H. R. Brager, and J. M. McCarthy, Neutron-Induced Spinodal-Like Decomposition of Fe–Ni and Fe–Ni–Cr Alloys, Thirteenth International Symposium 'Effects of Radiation on Materials'. Part 1: Radiation-Induced Changes in Microstructure—ASTM STP 955 (Eds. F. A. Garner, N. H. Packan, and A. S. Kumar) (Philadelphia, PA: ASTM: 1987), pp. 775–787."
+			},
+			{
+				"doi": "",
+				"or":  "Я. И. Френкель, Введение в теорию металлов (Ленинград: Наука: 1972).",
+				"tr":  "Ya. I. Frenkel', Vvedenie v teoriyu metallov (Leningrad: Nauka: 1972)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Кривоглаз, Термодинамически равновесные гетерогенные состояния сплавов, Физ. мет. металловед., 66, № 6: 1045–1072 (1988).",
+				"tr":  "M. A. Krivoglaz, Termodinamicheski ravnovesnye geterogennye sostoyaniya splavov, Fiz. Met. Metalloved., 66, No. 6: 1045–1072 (1988)."
+			},
+			{
+				"doi": "10.1016/0370-1573(91)90074-V",
+				"or":  "V. I. Yukalov, Phase Transitions and Heterophase Fluctuations, Physics Reports, 208, No. 6: 395–489 (1991).",
+				"tr":  "V. I. Yukalov, Phase Transitions and Heterophase Fluctuations, Physics Reports, 208, No. 6: 395–489 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "А. К. Канюка, Теория упорядочения сплавов с ОЦК решеткой типа beta-латуни под давлением с учетом корреляции, Физ. мет. металловед., 31, № 3: 478–485 (1971).",
+				"tr":  "A. K. Kanyuka, Teoriya uporyadocheniya splavov s OTsK reshetkoy tipa beta-latuni pod davleniem s uchetom korrelyatsii, Fiz. Met. Metalloved., 31, No. 3: 478–485 (1971)."
+			}
+		]
+	}
+}

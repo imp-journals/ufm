@@ -1,0 +1,468 @@
+{
+	"_id":    "UFM.14.03.275",
+	"year":   2013,
+	"volume": 14,
+	"issue":  3,
+	"pages":  [275,318],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["27.06.2013"],
+	"PACS":   "05.65.+b, 61.72.Bb, 62.20.F-, 81.10.Aj, 81.40.Lm, 83.60.-a, 83.50.-v",
+	"title":   {
+		"ua": "Самоорганізація кристалів при пластичній деформації",
+		"en": "Self-Organization of Crystals During the Plastic Deformation",
+		"ru": "Самоорганизация кристаллов при пластической деформации"
+	},
+	"abstract": {
+		"ua": "Розглянуто можливість самоорганізації кристалів під час пластичної деформації у вигляді елементів штабової структури — MBs і SBs. Вони сприяють продовженню деформації при гальмуванні дислокаційного ковзання шляхом переходу до гідродинамічної течії (ГТ) речовини всередині цих елементів. Показано відмінності властивостей MBs і SBs, з однієї сторони, та елементів релаксаційної структури (комірок, полігонів, рекристалізованих зерен) — з іншої. Запропоновано синергетичний модель утворення MBs і теоретично показано, що локалізована в MBs і SBs гідродинамічна течія може забезпечити формозміну кристалу, що функціонально збігається з тим, що спостерігається експериментально.",
+		"en": "We consider possibility of the self-organization of crystals during the plastic deformation in the form of band-structure elements—MBs and SBs. They contribute to prolongation of the deformation under the dislocation slide braking whereby the hydrodynamic flow within the MBs and SBs. The distinctions between the properties of MBs and SBs, on the one hand, and elements of relaxation structure (cells, polygonal structure, and recrystallized grains), on the other one, are shown. The synergetic model of MBs formation is proposed. Authors reveal the localized in MBs and SBs hydrodynamic flow to ensure the crystal forming, which functionally agrees with experimentally observed data.",
+		"ru": "Рассмотрена возможность самоорганизации кристаллов при пластической деформации в виде элементов полосовой структуры — MBs и SBs. Они способствуют продолжению деформации при торможении дислокационного скольжения путём перехода к гидродинамическому течению (ГТ) вещества внутри этих элементов. Показано различие свойств MBs и SBs, с одной стороны, и элементов релаксационной структуры (ячеек, полигонов, рекристаллизованных зёрен) — с другой. Предложена синергетическая модель образования MBs и теоретически показано, что локализованное в MBs и SBs ГТ может обеспечить формоизменение кристалла, функционально совпадающее с тем, которое наблюдается экспериментально."
+	},
+	"keywords": {
+		"ua": "самоорганізація, пластична деформація, гідродинамична пластична течія, рекристалізація, монокристал, мікросмуги, наномасштаб, деформаційний рельєф, скейлінг, трансмісійна електронна мікроскопія, рентґенівська гармонічна аналіза",
+		"en": "self-organization, plastic deformation, hydrodynamic plastic flow, recrystallization, monocrystal, nanoscale, deformation relief, scaling, transmission electron microscopy, microstrips, X-ray harmonic analysis",
+		"ru": "самоорганизация, пластическая деформация, гидродинамическое пластическое течение, рекристаллизация, монокристалл, микрополосы, наномасштаб, деформационный рельеф, скейлинг, трансмиссионная электронная микроскопия, рентгеновский гармонический анализ"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. Е. Засимчук", "en": "O. Eh. Zasymchuk", "ru": "Е. Э. Засимчук"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. І. Засимчук", "en": "V. I. Zasymchuk", "ru": "В. И. Засимчук"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. В. Турчак", "en": "T. V. Turchak", "ru": "Т. В. Турчак"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  2,
+		"list":  [
+			{
+				"doi": "10.1007/s11665-017-2564-3",
+				"cit": "E. Zasimchuk, T. Turchak, A. Baskova, N. Chausov <i>et al.</i>, <a href=\"https://doi.org/10.1007/s11665-017-2564-3\">J. of Materi Eng and Perform <b>26</b>, 1293 (2017)</a>."
+			},
+			{
+				"doi": "10.15407/mfint.39.10.1435",
+				"cit": "V. I. Zasimchuk, O. E. Zasimchuk and O. S. Gatsenko, <a href=\"https://doi.org/10.15407/mfint.39.10.1435\">Metallofiz. Noveishie Tekhnol. <b>39</b>, 1435 (2017)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 82,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Г. Николис, И. Пригожин, Самоорганизация в неравновесных системах (Москва: Мир: 1979).",
+				"tr":  "G. Nicolis and I. Prigogine, Samoorganizatsiya v Neravnovesnykh Sistemakh [Self-Organization in Nonequilibrium Systems] (Moscow: Mir: 1979) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Гленсдорф, И. Пригожин, Термодинамическая теория структуры, устойчивости и флуктуаций (Москва: Мир: 1973).",
+				"tr":  "P. Glansdorff and I. Prigogine, Termodinamicheskaya Teoriya Struktury, Ustoichivosti i Fluktuatsiy [Thermodynamic Theory of Structure, Stability and Fluctuations] (Moscow: Mir: 1973) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Хакен, Синергетика (Москва: Мир: 1980).",
+				"tr":  "H. Haken, Sinergetika [Synergetics] (Moscow: Mir: 1980) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Эбелинг, Образование структур при необратимых процессах (Москва: Мир: 1979).",
+				"tr":  "W. Ebeling, Obrazovanie Struktur pri Neobratimykh Protsessakh [Strukturbildung bei Irreversiblen Prozessen] (Moscow: Mir: 1979) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "V. U. Essman, phys. status solidi, 12: 723 (1965).",
+				"tr":  "V. U. Essman, phys. status solidi, 12: 723 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Ahlborn and D. Sayer, Z. Metallkd., 59, No. 4: 658 (1968).",
+				"tr":  "H. Ahlborn and D. Sayer, Z. Metallkd., 59, No. 4: 658 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Grewen, T. Noda, and D. Sauer, Z. Metallkd., 68, No. 4: 260 (1977).",
+				"tr":  "J. Grewen, T. Noda, and D. Sauer, Z. Metallkd., 68, No. 4: 260 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "A. S. Malin and M. Hatherly, Z. Metallkd., 13, No. 8: 463 (1979).",
+				"tr":  "A. S. Malin and M. Hatherly, Z. Metallkd., 13, No. 8: 463 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "A. S. Malin, J. Huber, and M. Hatherly, Z. Metallkd., 72, No. 5: 310 (1981).",
+				"tr":  "A. S. Malin, J. Huber, and M. Hatherly, Z. Metallkd., 72, No. 5: 310 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Hu, Recovery and Recrystallization of Metals (New York: Metallurgical Society of AIME: 1962).",
+				"tr":  "H. Hu, Recovery and Recrystallization of Metals (New York: Metallurgical Society of AIME: 1962)."
+			},
+			{
+				"doi": "10.1016/0001-6160(78)90167-0",
+				"or":  "T. Tabata, S. Yamanaka, and H. Fuijita, Acta Metall., 26, No. 3: 405 (1978).",
+				"tr":  "T. Tabata, S. Yamanaka, and H. Fuijita, Acta Metall., 26, No. 3: 405 (1978)."
+			},
+			{
+				"doi": "10.1016/0036-9748(84)90415-0",
+				"or":  "L. Anand, Scr. Metall., 18, No. 5: 423 (1984).",
+				"tr":  "L. Anand, Scr. Metall., 18, No. 5: 423 (1984)."
+			},
+			{
+				"doi": "10.1016/0001-6160(86)90259-2",
+				"or":  "A. Korbel, J. D. Embury, M. Hatherly, P. L. Martin, and H. W. Erbslon, Acta Metall., 34, No. 10: 1999 (1986).",
+				"tr":  "A. Korbel, J. D. Embury, M. Hatherly, P. L. Martin, and H. W. Erbslon, Acta Metall., 34, No. 10: 1999 (1986)."
+			},
+			{
+				"doi": "10.1016/0921-5093(90)90186-7",
+				"or":  "E. E. Zasimchuk and L. I. Markashova, Mater. Sci. Eng. A, 127, No. 1: 33 (1990).",
+				"tr":  "E. E. Zasimchuk and L. I. Markashova, Mater. Sci. Eng. A, 127, No. 1: 33 (1990)."
+			},
+			{
+				"doi": "10.1007/s11665-008-9327-0",
+				"or":  "E. Zasimchuk, Yu. Gordienko, L. Markashova, and T. Turchak, J. Mater. Sci. Eng. Perf., 18, No. 7: 947 (2009).",
+				"tr":  "E. Zasimchuk, Yu. Gordienko, L. Markashova, and T. Turchak, J. Mater. Sci. Eng. Perf., 18, No. 7: 947 (2009)."
+			},
+			{
+				"doi": "10.1016/j.ijplas.2008.10.003",
+				"or":  "H. Paul, A. Morawiec, J. H. Driver, and E. Bouzy, Int. J. Plast., 25, No. 8: 1588 (2009).",
+				"tr":  "H. Paul, A. Morawiec, J. H. Driver, and E. Bouzy, Int. J. Plast., 25, No. 8: 1588 (2009)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2009.03.035",
+				"or":  "O. Dmitrieva, P. W. Dondl, S. Muller, and D. Raabe, Acta Mater., 57, No. 12: 3439 (2009).",
+				"tr":  "O. Dmitrieva, P. W. Dondl, S. Muller, and D. Raabe, Acta Mater., 57, No. 12: 3439 (2009)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(00)01803-7",
+				"or":  "M. Richert, H. P. Stüwe, and J. Richert, Mat. Sci. Eng. A, 301, No. 2: 237 (2001).",
+				"tr":  "M. Richert, H. P. Stüwe, and J. Richert, Mat. Sci. Eng. A, 301, No. 2: 237 (2001)."
+			},
+			{
+				"doi": "10.1016/j.ijplas.2008.04.009",
+				"or":  "T. Ohashi, R. I. Barabash, J. W. L. Pang, G. E. Ice, and O. M. Barabash, Int. J. Plast., 25, No. 5: 920 (2009).",
+				"tr":  "T. Ohashi, R. I. Barabash, J. W. L. Pang, G. E. Ice, and O. M. Barabash, Int. J. Plast., 25, No. 5: 920 (2009)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2007.06.048",
+				"or":  "D. Dorner, Y. Adachi, and K. Tsuzaki, Scr. Mater., 57, No. 8: 775 (2007).",
+				"tr":  "D. Dorner, Y. Adachi, and K. Tsuzaki, Scr. Mater., 57, No. 8: 775 (2007)."
+			},
+			{
+				"doi": "10.1016/j.ijplas.2009.01.002",
+				"or":  "R. I. Barabash, G. E. Ice, M. Kumar, J. Ilavsky, and J. Belak, Int. J. Plast., 25, No. 8: 2081 (2009).",
+				"tr":  "R. I. Barabash, G. E. Ice, M. Kumar, J. Ilavsky, and J. Belak, Int. J. Plast., 25, No. 8: 2081 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Zh. Liang, Ch. Junzhou, Ya. Shoujie, Sh. Wenzhou, and D. Sheng, Mater. Sci. Eng. A, 504, Nos. 1–2: 55 (2009).",
+				"tr":  "Zh. Liang, Ch. Junzhou, Ya. Shoujie, Sh. Wenzhou, and D. Sheng, Mater. Sci. Eng. A, 504, Nos. 1–2: 55 (2009)."
+			},
+			{
+				"doi": "10.1016/0001-6160(62)90083-4",
+				"or":  "Hsun Hu, Acta Metall., 10, No. 11: 1112 (1962).",
+				"tr":  "Hsun Hu, Acta Metall., 10, No. 11: 1112 (1962)."
+			},
+			{
+				"doi": "10.1016/0001-6160(62)90075-5",
+				"or":  "J. L. Walter and E. F. Koch, Acta Metall., 10, No. 11: 1059 (1962).",
+				"tr":  "J. L. Walter and E. F. Koch, Acta Metall., 10, No. 11: 1059 (1962)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(00)01639-7",
+				"or":  "E. V. Nesterova, B. Bacroix, and C. Teodosiu, Mater. Sci. Eng. A, 309–310: 495 (2001).",
+				"tr":  "E. V. Nesterova, B. Bacroix, and C. Teodosiu, Mater. Sci. Eng. A, 309–310: 495 (2001)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(01)01191-1",
+				"or":  "N. Hansen, X. Huang, and D. A. Hughes, Mater. Sci. Eng. A, 317, Nos. 1–2: 3 (2001).",
+				"tr":  "N. Hansen, X. Huang, and D. A. Hughes, Mater. Sci. Eng. A, 317, Nos. 1–2: 3 (2001)."
+			},
+			{
+				"doi": "10.1016/j.msea.2004.05.029",
+				"or":  "G. A. Li, L. Zhen, and H. T. Li, Mater. Sci. Eng. A, 384, Nos. 1–2: 12 (2004).",
+				"tr":  "G. A. Li, L. Zhen, and H. T. Li, Mater. Sci. Eng. A, 384, Nos. 1–2: 12 (2004)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(98)00229-8",
+				"or":  "Q. Liu, J. D. Juul, and N. Hansen, Acta Mater., 46, No. 16: 5819 (1998).",
+				"tr":  "Q. Liu, J. D. Juul, and N. Hansen, Acta Mater., 46, No. 16: 5819 (1998)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2007.08.012",
+				"or":  "M. Z. Quadir, N. Matescu, L. Bassman, W. Xu, and M. Ferry, Scr. Mater., 57, No. 11: 977 (2007).",
+				"tr":  "M. Z. Quadir, N. Matescu, L. Bassman, W. Xu, and M. Ferry, Scr. Mater., 57, No. 11: 977 (2007)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2006.06.056",
+				"or":  "K. Shen and B. J. Duggan, Acta Mater., 55, No. 4: 1137 (2007).",
+				"tr":  "K. Shen and B. J. Duggan, Acta Mater., 55, No. 4: 1137 (2007)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(02)00082-5",
+				"or":  "Z. J. Liu and Q. Liu, Mater. Sci. Eng. A, 338, Nos. 1–2: 237 (2002).",
+				"tr":  "Z. J. Liu and Q. Liu, Mater. Sci. Eng. A, 338, Nos. 1–2: 237 (2002)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2003.08.037",
+				"or":  "Z. J. Li, A. Godfrey, and Q. Liu, Acta Mater., 52, No. 1: 149 (2004).",
+				"tr":  "Z. J. Li, A. Godfrey, and Q. Liu, Acta Mater., 52, No. 1: 149 (2004)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.07.155",
+				"or":  "I. V. Alexandrov, R. G. Chembarisova, and V. D. Sitdikov, Mater. Sci. Eng. A, 463, Nos. 1–2: 27 (2007).",
+				"tr":  "I. V. Alexandrov, R. G. Chembarisova, and V. D. Sitdikov, Mater. Sci. Eng. A, 463, Nos. 1–2: 27 (2007)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(01)01019-X",
+				"or":  "X. Huang, A. Borrego, and W. Pantleon, Mater. Sci. Eng. A, 319–321: 237 (2001).",
+				"tr":  "X. Huang, A. Borrego, and W. Pantleon, Mater. Sci. Eng. A, 319–321: 237 (2001)."
+			},
+			{
+				"doi": "10.1023/A:1017973432592",
+				"or":  "F. J. Humphreys, J. Mater. Sci., 36: 3833 (2001).",
+				"tr":  "F. J. Humphreys, J. Mater. Sci., 36: 3833 (2001)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2007.06.032",
+				"or":  "F. J. Humphreys and P. S. Bate, Acta Mater., 55, No. 16: 5630 (2007).",
+				"tr":  "F. J. Humphreys and P. S. Bate, Acta Mater., 55, No. 16: 5630 (2007)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(02)00513-X",
+				"or":  "P. J. Hurley and F. J. Humphreys, Acta Mater., 51, No. 4: 1087 (2003).",
+				"tr":  "P. J. Hurley and F. J. Humphreys, Acta Mater., 51, No. 4: 1087 (2003)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(03)00111-3",
+				"or":  "J. Ch. Glez and J. H. Driver, Acta Mater., 51, No. 10: 2989 (2003).",
+				"tr":  "J. Ch. Glez and J. H. Driver, Acta Mater., 51, No. 10: 2989 (2003)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2012.08.003",
+				"or":  "N. Afrin, M. Z. Quadir, W. Xu, and M. Ferry, Acta Mater., 60, No. 18: 6288 (2012).",
+				"tr":  "N. Afrin, M. Z. Quadir, W. Xu, and M. Ferry, Acta Mater., 60, No. 18: 6288 (2012)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2010.01.034",
+				"or":  "A. Albou, J. H. Driver, and C. Maurice, Acta Mater., 58, No. 8: 3022 (2010).",
+				"tr":  "A. Albou, J. H. Driver, and C. Maurice, Acta Mater., 58, No. 8: 3022 (2010)."
+			},
+			{
+				"doi": "10.1016/j.pmatsci.2005.08.003",
+				"or":  "M. A. Meyers, A. Mishra, and D. J. Benson, Prog. Mater. Sci., 51, No. 4: 427 (2006).",
+				"tr":  "M. A. Meyers, A. Mishra, and D. J. Benson, Prog. Mater. Sci., 51, No. 4: 427 (2006)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(01)01160-1",
+				"or":  "M. A. Meyers, V. F. Nesterenko, J. C. LaSalvia, and Qing Xue, Mater. Sci. Eng. A, 317, Nos. 1–2: 204 (2001).",
+				"tr":  "M. A. Meyers, V. F. Nesterenko, J. C. LaSalvia, and Qing Xue, Mater. Sci. Eng. A, 317, Nos. 1–2: 204 (2001)."
+			},
+			{
+				"doi": "10.1016/j.ijplas.2007.11.004",
+				"or":  "M. N. Shiekhelsouk, V. Favier, K. Inal, and M. Cherkaoui, Int. J. Plast., 25, No. 1: 105 (2009).",
+				"tr":  "M. N. Shiekhelsouk, V. Favier, K. Inal, and M. Cherkaoui, Int. J. Plast., 25, No. 1: 105 (2009)."
+			},
+			{
+				"doi": "10.1016/j.ijplas.2005.01.003",
+				"or":  "R. C. Batra and Z. G. Wei, Int. J. Plast., 22, No. 1: 1 (2006).",
+				"tr":  "R. C. Batra and Z. G. Wei, Int. J. Plast., 22, No. 1: 1 (2006)."
+			},
+			{
+				"doi": "10.1016/j.ijplas.2006.03.014",
+				"or":  "M. Kuroda and V. Tvergaard, Int. J. Plast., 23, No. 2: 244 (2007).",
+				"tr":  "M. Kuroda and V. Tvergaard, Int. J. Plast., 23, No. 2: 244 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Иверонова, Г. П. Ревкевич, Теория рассеяния рентгеновских лучей (Москва: Изд. Моск. ун-та: 1972).",
+				"tr":  "V. I. Iveronova and G. P. Revkevich, Teoriya Rasseyaniya Rentgenovskikh Luchey [Theory of X-Ray Scattering] (Moscow: Moscow Univ. Publ.: 1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Горелик, Л. Н. Расторгуев, Ю. А. Скаков, Рентгенографический и электронно-оптический анализ (Москва: Металлургия: 1970).",
+				"tr":  "S. S. Gorelik and L. N. Rastorguyev, and Yu. A. Skakov, Rentgenograficheskiy i Ehlektronno-Opticheskiy Analiz [Roentgenographic and Electron-Optical Analysis] (Moscow: Metallurgiya: 1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Э. Засимчук, В. И. Засимчук, Р. Г. Гонтарева, Т. В. Турчак, Л. В. Тарасенко, Доповіді НАН України, № 10: 91 (2007).",
+				"tr":  "E. Eh. Zasimchuk, V. I. Zasimchuk, R. G. Gontareva, T. V. Turchak, and L. V. Tarasenko, Dopovidi NAN Ukrainy, No. 10: 91 (2007) (in Russian)."
+			},
+			{
+				"doi": "10.1107/S0021889804003140",
+				"or":  "I. Lucks, P. Lamparter, and E. J. Mittemeijer, J. Appl. Cryst., 37, No. 2: 300 (2004).",
+				"tr":  "I. Lucks, P. Lamparter, and E. J. Mittemeijer, J. Appl. Cryst., 37, No. 2: 300 (2004)."
+			},
+			{
+				"doi": "10.1002/adem.200600138",
+				"or":  "Yu. Gordienko, R. G. Gontareva, J. S. Schreiber, E. E. Zasimchuk, and I. K. Zasimchuk, Adv. Eng. Mater., 8, No. 10: 957 (2006).",
+				"tr":  "Yu. Gordienko, R. G. Gontareva, J. S. Schreiber, E. E. Zasimchuk, and I. K. Zasimchuk, Adv. Eng. Mater., 8, No. 10: 957 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "E. E. Zasimchuk, Yu. G. Gordienko, R. G. Gontareva, and I. K. Zasimchuk, J. Mater. Eng. Performance, 12, No. 10: 69 (2003).",
+				"tr":  "E. E. Zasimchuk, Yu. G. Gordienko, R. G. Gontareva, and I. K. Zasimchuk, J. Mater. Eng. Performance, 12, No. 10: 69 (2003)."
+			},
+			{
+				"doi": "10.1023/A:1022274615129",
+				"or":  "Yu. G. Gordienko, E. E. Zasimchuk, and R. G. Gontareva, J. Mater. Sci. Lett., 22, No. 3: 241 (2003).",
+				"tr":  "Yu. G. Gordienko, E. E. Zasimchuk, and R. G. Gontareva, J. Mater. Sci. Lett., 22, No. 3: 241 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Э. Засимчук, Р. Г. Гонтарева, А. И. Баскова, Н. Г. Чаусов, В. Хуцайлюк, Металлофиз. новейшие технол., 34, № 4: 509 (2012).",
+				"tr":  "E. Eh. Zasimchuk, R. G. Gontareva, A. I. Baskova, N. G. Chausov, V. Khutsailiuk, Metallofiz. Noveishie Tekhnol., 34, No. 4: 509 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Федер, Фракталы (Москва: Мир: 1991).",
+				"tr":  "J. Feder, Fraktaly [Fractals] (Moscow: Mir: 1991) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Мандельброт, Фрактальная геометрия природы (Москва: Институт компьютерных исследований: 2002).",
+				"tr":  "B. Mandelbrot, Fraktal'naya Geometriya Prirody [The Fractal Geometry of Nature] (Moscow: Institut Komp'yuternykh Issledovaniy: 2002) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Засимчук, И. Ярматов, Физическая мезомеханика, 12, № 3: 55 (2009).",
+				"tr":  "E. Zasimchuk and I. Yarmatov, Fizicheskaya Mezomekhanika, 12, No. 3: 55 (2009) (in Russian)."
+			},
+			{
+				"doi": "10.1080/01418619408242540",
+				"or":  "Yu. Gordienko and E. Zasimchuk, Phil. Mag. A, 70, No. 1: 99 (1994).",
+				"tr":  "Yu. Gordienko and E. Zasimchuk, Phil. Mag. A, 70, No. 1: 99 (1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.81.4664",
+				"or":  "D. A. Hughes, D. C. Chrzan, Q. Liu, and N. Hansen, Phys. Rev. Lett., 81, No. 21: 4664 (1998).",
+				"tr":  "D. A. Hughes, D. C. Chrzan, Q. Liu, and N. Hansen, Phys. Rev. Lett., 81, No. 21: 4664 (1998)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(99)00474-7",
+				"or":  "A. Godfrey and D. A. Hughes, Acta Mater., 48: 1897 (2000).",
+				"tr":  "A. Godfrey and D. A. Hughes, Acta Mater., 48: 1897 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.67.184107",
+				"or":  "J. P. Sethna and V. R. Coffman, Phys. Rev. B, 67: 184107 (2003).",
+				"tr":  "J. P. Sethna and V. R. Coffman, Phys. Rev. B, 67: 184107 (2003)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(00)01629-4",
+				"or":  "F. Szekely, I. Groma, and J. X. Lendvai, Mater. Sci. Eng. A, 309–310: 352 (2001).",
+				"tr":  "F. Szekely, I. Groma, and J. X. Lendvai, Mater. Sci. Eng. A, 309–310: 352 (2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.87.135503",
+				"or":  "D. A. Hughes and N. Hansen, Phys. Rev. Lett., 87, No. 13: 135503 (2001).",
+				"tr":  "D. A. Hughes and N. Hansen, Phys. Rev. Lett., 87, No. 13: 135503 (2001)."
+			},
+			{
+				"doi": "10.1088/0305-4470/26/22/006",
+				"or":  "C. Sagui, A. M. Somoza, C. Roland, and R. C. Desai, J. Phys. A: Math. Gen., 26: 1163 (1993).",
+				"tr":  "C. Sagui, A. M. Somoza, C. Roland, and R. C. Desai, J. Phys. A: Math. Gen., 26: 1163 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Э. Засимчук, Ю. Г. Гордиенко, В. И. Прудникова, Т. В. Турчак, Металлофиз. новейшие технол., 27, № 5: 595 (2005).",
+				"tr":  "E. Eh. Zasimchuk, Yu. G. Gordienko, V. I. Prudnikova, and Т. V. Turchak, Metallofiz. Noveishie Tekhnol., 27, No. 5: 595 (2005) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(00)01616-6",
+				"or":  "N. S. Kisel and V. P. Kisel, Mater. Sci. Eng. A, 309–310: 97 (2001).",
+				"tr":  "N. S. Kisel and V. P. Kisel, Mater. Sci. Eng. A, 309–310: 97 (2001)."
+			},
+			{
+				"doi": "10.1016/0921-5093(93)90692-8",
+				"or":  "V. P. Kisel, Mater. Sci. Eng. A, 164, Nos. 1–2: 356 (1993).",
+				"tr":  "V. P. Kisel, Mater. Sci. Eng. A, 164, Nos. 1–2: 356 (1993)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.93.125502",
+				"or":  "M. Koslowski, R. LeSar, and R. Thomson, Phys. Rev. Lett., 93, No. 12: 125502 (2004).",
+				"tr":  "M. Koslowski, R. LeSar, and R. Thomson, Phys. Rev. Lett., 93, No. 12: 125502 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Э. Засимчук, Т. В. Турчак, Металлофиз. новейшие технол., 28, № 4: 421 (2006).",
+				"tr":  "E. Eh. Zasimchuk and Т. V. Turchak, Metallofiz. Noveishie Tekhnol., 28, No. 4: 421 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Э. Засимчук, Л. И. Маркашова, Т. В. Турчак, Н. Г. Чаусов, А. П. Пилипенко, В. Н. Параца, Физическая мезомеханика, 12, № 2: 77 (2009).",
+				"tr":  "E. Eh. Zasimchuk, L. I. Markashova, Т. V. Turchak, N. H. Chausov, А. P. Pilipenko, and V. N. Paratsa, Fizicheskaia Mezomekhanika, 12, No. 2: 77 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Чаусов, Е. Засимчук, Л. Маркашова, В. Вильдеман, Т. Турчак, А. Пилипенко, В. Параца, Техническая диагностика и неразрушающий контроль, 4: 54 (2008).",
+				"tr":  "N. Chausov, Е. Zasimchuk, L. Markashova, V. Vil’deman, Т. Turchak, А. Pilipenko, and V. Paratsa, Tekhnicheskaia Diagnostika i Nerazrushayushchiy Kontrol’, 4: 54 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Е. Засимчук, В. Ф. Мазанко, Р. Г. Гонтарева, Л. В. Тарасенко, Проблемы прочности, № 4: 128 (2007).",
+				"tr":  "О. Еh. Zasimchuk, V. F. Mazanko, R. G. Gontareva, and L. V. Tarasenko, Problemy Prochnosti, No. 4: 128 (2007) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Э. Засимчук, В. И. Исайчев, ДАН СССР, 296, № 2: 369 (1987).",
+				"tr":  "Е. Eh. Zasimchuk and V. I. Isaychev, Doklady AN SSSR, 296, No. 2: 369 (1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лихачев, В. Е. Панин, Е. Э. Засимчук и др., Кооперативные деформационные процессы и локализация деформации (Киев: Наукова думка: 1989).",
+				"tr":  "V. А. Likhachyov, V. Е. Panin, Е. Eh. Zasimchuk et al., Korporativnyye Deformatsionnyye Protsessy i Lokalizatsiya Deformatsii [Corporate Deformation Processes and Localization of Deformation] (Kiev: Naukova Dumka: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Н. Белякова, Е. Э. Засимчук, Ю. Г. Гордиенко, Металлофиз. новейшие технол., 21, № 4: 59 (1999).",
+				"tr":  "M. N. Belikova, Е. Eh. Zasimchuk, Yu. G. Gordienko, Metallofiz. Noveishie Tekhnol., 21, No. 4: 59 (1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Э. Засимчук, В. И. Засимчук, Металлофиз. новейшие технол., 28, № 6: 803 (2006).",
+				"tr":  "Е. Eh. Zasimchuk and V. I. Zasimchuk, Metallofiz. Noveishie Tekhnol., 28, No. 6: 803 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. C. Damask and G. J. Dienes, Point Defects in Metals (New York: Gordon and Breach: 1963).",
+				"tr":  "A. C. Damask and G. J. Dienes, Point Defects in Metals (New York: Gordon and Breach: 1963)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Косевич, Основы механики кристаллической решётки (Москва: Наука: 1972).",
+				"tr":  "A. M. Kosevich, Osnovy Mekhaniki Kristallicheskoy Reshyotki [Fundamentals of Mechanics of Crystal Lattice] (Moscow: Nauka: 1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Хаяси, Нелинейные колебания в физических системах (Москва: Мир: 1968).",
+				"tr":  "Ch. Hayashi, Nelineynyye Kolebaniya v Fizicheskikh Sistemakh [Nonlinear Oscillations in Physical Systems] (Moscow: Mir: 1968) (Russian translation)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(02)00685-8",
+				"or":  "M. Kiritani, Mater. Sci. Eng. A, 350, Nos. 1–2: 1 (2003).",
+				"tr":  "M. Kiritani, Mater. Sci. Eng. A, 350, Nos. 1–2: 1 (2003)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(02)00693-7",
+				"or":  "M. Komatsu, Y. Matsukawa, K. Yasunaga, and M. Kiritani, Mater. Sci. Eng. A, 350, Nos. 1–2: 29 (2003).",
+				"tr":  "M. Komatsu, Y. Matsukawa, K. Yasunaga, and M. Kiritani, Mater. Sci. Eng. A, 350, Nos. 1–2: 29 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Теоретическая физика. Том VI. Гидродинамика (Москва: Наука: 1988).",
+				"tr":  "L. D. Landau, Е. М. Lifshits, Teoreticheskaya Fizika. VI. Hydrodinamika [Theoretical Physics. Vol. VI. Hydrodynamics] (Moscow: Nauka: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Бернер, Г. Кронмюллер, Пластическая деформация монокристаллов (Москва: Мир: 1969).",
+				"tr":  "R. Berner and H. Kronmüller, Plasticheskaya Deformatsiya Monokristallov [Plastische Verfomung von Einkristallen] (Moscow: Mir: 1969) (Russian translation)."
+			}
+		]
+	}
+}

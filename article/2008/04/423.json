@@ -1,0 +1,101 @@
+{
+	"_id":    "UFM.09.04.423",
+	"year":   2008,
+	"volume": 9,
+	"issue":  4,
+	"pages":  [423,450],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["05.05.2008"],
+	"PACS":   "01.60.+q, 01.65.+g, 81.05.Bx, 81.20.-n, 81.30.-t, 81.40.-z, 81.70.-q",
+	"title":   {
+		"ua": "Про внесок В. Н. Гріднєва й В. Д. Садовського в розвиток робіт у галузі фазових і структурних перетворень в сталях і стопах у нерівноважних умовах",
+		"en": "On V. N. Gridnev’s and V. D. Sadovskiy’s Contribution to Development of Works in the Field of Phase and Structural Transformations in Steels and Alloys under Nonequilibrium Conditions",
+		"ru": "О вкладе В. Н. Гриднева и В. Д. Садовского в развитие работ в области фазовых и структурных превращений в сталях и сплавах в неравновесных условиях"
+	},
+	"abstract": {
+		"ua": "Важливою вимогою, що висувається до конструкційних матеріялів масового використання, є їх надійність у виробі, що забезпечується оптимізацією властивостей їх міцности та пластичности, а також економічністю та екологічною чистотою технологічних процесів їх обробки. Вирішити це завдання в рамках єдиного комплексу організаційно-технічних заходів можливо лише на підставі глибокого наукового дослідження внутрішньої природи металу, закономірностей формування його структури при всіх технологічних операціях його виробництва та зв’язку цієї структури з властивостями готового виробу.",
+		"en": "An important requirement applied to construction materials of mass use is their reliability in a product, provided by optimization of their strength and plasticity properties, and economy and ecological cleanness of their treatment technological processes. The solution of this problem within the framework of the single complex of the organizational and technical activities is possible only on the basis of a deep scientific research of internal nature of metal, principles of the metal-structure formation during all technological operations of metal fabrication and connection of this structure with properties of the finished product.",
+		"ru": "Важнейшим требованием, предъявляемым к конструкционным материалам массового применения, является их надежность в изделии, что обеспечивается оптимизацией свойств их прочности и пластичности, а также экономичность и экологическая чистота технологических процессов их обработки. Решить эту задачу в рамках единого комплекса организационно-технических мероприятий можно лишь на основании глубокого научного исследования внутренней природы металла, закономерностей формирования его структуры при всех технологических операциях его производства и связи этой структуры со свойствами готового изделия."
+	},
+	"keywords": {
+		"ua": "фазові та структурні перетворення, термообробка, конструкційні матеріяли, міцність, пластичність, мікро- та макронапруги",
+		"en": "phase and structural transformations, thermal treatment, constructional materials, strength, plasticity, micro- and macrostresses",
+		"ru": "фазовые и структурные превращения, термообработка, конструкционные материалы, прочность, пластичность, микро- и макронапряжения"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. П. Ошкадьоров", "en": "S. P. Oshkadyorov", "ru": "С. П. Ошкадеров"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.12.02.269",
+				"cit": "S. P. Oshkadyorov, <a href=\"https://doi.org/10.15407/ufm.12.02.269\">Usp. Fiz. Met. <b>12</b>, 269 (2011)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 11,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. Н. Гриднев, Ю. Я. Мешков, В. И. Трефилов, С. П. Ошкадеров, Физические основы электротермического упрочнения стали (Киев: Наукова думка: 1973).",
+				"tr":  "V. N. Gridnev, Yu. Ya. Meshkov, V. I. Trefilov, S. P. Oshkaderov, Fizicheskie osnovy elektrotermicheskogo uprochneniya stali (Kiev: Naukova dumka: 1973)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Гриднев, Ю. Я. Мешков, С. П. Ошкадеров, Н. Ф. Черненко, Технологические основы электротермической обработки стали (Киев: Наукова думка: 1977).",
+				"tr":  "V. N. Gridnev, Yu. Ya. Meshkov, S. P. Oshkaderov, N. F. Chernenko, Tekhnologicheskie osnovy elektrotermicheskoy obrabotki stali (Kiev: Naukova dumka: 1977)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Д. Садовский, Структурная наследственность в стали (Москва: Металлургия: 1973). (Удостоена Золотой медали Академии Наук СССР им. Д. К. Чернова, 1976 г.).",
+				"tr":  "V. D. Sadovskiy, Strukturnaya nasledstvennost' v stali [Structural heredity in steel] (Moskva: Metallurgiya: 1973)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Астапчик, Термокинетика рекристаллизации (Минск: Наука и техника: 1968).",
+				"tr":  "S. A. Astapchik, Termokinetika rekristallizatsii [Thermocinetics of recrystallization] (Minsk: Nauka i tekhnika: 1968)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Гордиенко, А. А. Шипко, Структурные и фазовые превращения в титановых сплавах при быстром нагреве (Минск: Наука и техника: 1976).",
+				"tr":  "A. I. Gordienko, A. A. Shipko, Strukturnye i fazovye prevrashcheniya v titanovykh splavakh pri bystrom nagreve [Structural and phase transformations in titanium alloys with rapid heating] (Minsk: Nauka i tekhnika: 1976)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Астапчик, Н. М. Бодяко, Электротермообработка сплавов с особыми свойствами (Минск: Наука и техника: 1977).",
+				"tr":  "S. A. Astapchik, N. M. Bodyako, Elektrotermoobrabotka splavov s osobymi svoystvami [Electrothermal treatment of alloys with special properties] (Minsk: Nauka i tekhnika: 1977)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Я. Мешков, Физические основы разрушения стальных конструкций (Киев: Наукова думка: 1981).",
+				"tr":  "Yu. Ya. Meshkov, Fizicheskie osnovy razrusheniya stal'nykh konstruktsiy [The physical basis for the destruction of steel structures] (Kiev: Naukova dumka: 1981)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Я. Мешков, Г. А. Пахаренко, Структура металла и хрупкость стальных изделий (Киев: Наукова думка: 1985).",
+				"tr":  "Yu. Ya. Meshkov, G. A. Pakharenko, Struktura metalla i khrupkost' stal'nykh izdeliy [Structure of metal and brittleness of steel products] (Kiev: Naukova dumka: 1985)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Н. Белянин, Промышленные роботы (Москва: Машиностроитель: 1975).",
+				"tr":  "P. N. Belyanin, Promyshlennye roboty [Industry robots] (Moskva: Mashinostroitel': 1975)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Н. Белянин, Гибкие производственные комплексы (Москва: Машиностроитель: 1984).",
+				"tr":  "P. N. Belyanin, Gibkie proizvodstvennye kompleksy [Flexible production complexes] (Moskva: Mashinostroitel': 1984)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Гриднев, О. М. Ивасишин, С. П. Ошкадеров, Физические основы скоростного термоупрочнения титановых сплавов (Киев: Наукова думка: 1986) (Отмечена премией К. Д. Синельникова, 1986 г.).",
+				"tr":  "V. N. Gridnev, O. M. Ivasishin, S. P. Oshkaderov, Fizicheskie osnovy skorostnogo termouprochneniya titanovykh splavov [Physical basis of high-speed thermal hardening of titanium alloys] (Kiev: Naukova dumka: 1986)."
+			}
+		]
+	}
+}

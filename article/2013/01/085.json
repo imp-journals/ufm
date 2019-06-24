@@ -1,0 +1,174 @@
+{
+	"_id":    "UFM.14.01.085",
+	"year":   2013,
+	"volume": 14,
+	"issue":  1,
+	"pages":  [85,106],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["20.12.2012"],
+	"PACS":   "06.60.Vz, 62.20.Qp, 68.35.Af, 68.37.Hk, 81.40.Pq, 81.65.Lp, 81.70.Jb",
+	"title":   {
+		"ua": "Властивості поверхонь тертя пари бронза-сталь",
+		"en": "Properties of Friction Surfaces of the Bronze-Steel Pair",
+		"ru": "Свойства поверхностей трения пары бронза-сталь"
+	},
+	"abstract": {
+		"ua": "",
+		"en": "By the methods of microprobe Auger-electron spectroscopy, X-ray energy dispersive microanalysis, scanning electron and optical microscopy, the conjugate microregions of friction surfaces between bronze and steel are investigated. The latter are obtained near and in the conditions of the known effect of the ‘selective transfer’ of elements in the friction contact zone. New data about the creation mechanism and properties of the surface ‘protective lubricating film’ on the bronze are obtained.",
+		"ru": "Методами электронной микрозондовой оже-спектроскопии, рентгеновского энергодисперсионного микроанализа, растровой электронной и оптической микроскопии исследованы сопряжённые микроучастки поверхностей трения бронзы и стали, полученные как вблизи, так и непосредственно при условиях протекания известного эффекта «избирательного переноса» элементов контактной зоны трения. Получены новые данные о механизме образования и свойствах поверхностной «сервовитной плёнки» на бронзе."
+	},
+	"keywords": {
+		"ua": "бронза, сталь (криця), тертя, карбіди, навуглецювання",
+		"en": "bronze, steel, friction, carbide, hydrogen saturation",
+		"ru": "бронза, сталь, трение, карбиды, наводораживание"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. В. Кіндрачук", "en": "M. V. Kindrachuk", "ru": "М. В. Киндрачук"},
+			"OID": [205]
+		},
+		{
+			"AID": {"ua": "О. О. Міщук", "en": "O. A. Mishchuk", "ru": "О. А. Мищук"},
+			"OID": [180]
+		},
+		{
+			"AID": {"ua": "А. П. Данілов", "en": "A. P. Danilov", "ru": "А. П. Данилов"},
+			"OID": [205]
+		},
+		{
+			"AID": {"ua": "Ю. Л. Хлєвна", "en": "Yu. L. Khlevna", "ru": "Ю. Л. Хлевна"},
+			"OID": [205]
+		}
+	],
+	"references": {
+		"count": 25,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Б. И. Костецкий, И. Г. Носовский, А. К. Караулов и др., Поверхностная прочность материалов при трении (Киев: Техніка: 1976).",
+				"tr":  "B. I. Kosteckiy, I. G. Nosovskiy, A. K. Karaulov et al., Poverhnostnaja prochnost' materialov pri trenii (Kiev: Tekhnіka: 1976)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Кіндрачук, В. Ф. Лабунець, М. І. Пашечко, Є. В. Корбут, Трибологія (Киев: НАУ-друк : 2009).",
+				"tr":  "M. V. Kіndrachuk, V. F. Labunec', M. І. Pashechko, Eh. V. Korbut, Tribologіja (Kiev: NAU-druk : 2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Н. Гаркунов, И. В. Крагельский, Открытие № 41. Эффект избирательного переноса при трении (эффект безызносности) (Бюл. изобрет.: № 17: 5) (1965).",
+				"tr":  "D. N. Garkunov, I. V. Kragel'skij, Otkrytie No. 41. Jeffekt izbiratel'nogo perenosa pri trenii (jeffekt bezyznosnosti) (Byul. izobret.: No. 17: 5) (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Гришин, Ю. С. Викторова, И. Г. Фукс и др., Химия и технология топлив и масел, № 4: 40 (1989).",
+				"tr":  "N. N. Grishin, Ju. S. Viktorova, I. G. Fuks et al., Himija i tehnologija topliv i masel, No. 4: 40 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Н. Гаркунов, Триботехника (Москва: Машиностроение: 1985); Д. Н. Гаркунов, Триботехника (износ и безызносность) (4-е изд., перераб. и доп.) (Москва: МСХА: 2001).",
+				"tr":  "D. N. Garkunov, Tribotehnika (Moskva: Mashinostroenie: 1985); D. N. Garkunov, Tribotehnika (iznos i bezyznosnost') (4-e izd., pererab. i dop.) (Moskva: MSHA: 2001)."
+			},
+			{
+				"doi": "10.1016/0043-1648(83)90252-1",
+				"or":  "P. Heilmann, J. Don, T. C. Sun, W. A. Glaeser, Wear, 91: 171 (1983).",
+				"tr":  "P. Heilmann, J. Don, T. C. Sun, W. A. Glaeser, Wear, 91: 171 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Бриггс, М. П. Сих, Анализ поверхности методами оже- и рентгеновской фотоэлектронной спектроскопии (Москва: Мир: 1987).",
+				"tr":  "D. Briggs, M. P. Sih, Analiz poverhnosti metodami ozhe- i rentgenovskoj fotojelektronnoj spektroskopii (Moskva: Mir: 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "О. О. Міщук, А. В. Богайчук, Проблеми тертя та зношування: Наук.-техн. зб. (Київ: НАУ-друк), 54: 121 (2010).",
+				"tr":  "O. O. Mіshhuk, A. V. Bogajchuk, Problemi tertja ta znoshuvannja: Nauk.-tehn. zb. (Kiev: NAU-druk), 54: 121 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Дубняков, Проблемы трения и изнашивания: Науч.-техн. сб. (Киев: Техника), 16: 53 (1979).",
+				"tr":  "V. N. Dubnjakov, Problemy trenija i iznashivanija: Nauch.-tehn. sb. (Kiev: Tekhnika), 16: 53 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Дубняков, Проблемы трения и изнашивания: Науч.-техн. сб. (Киев: Техника), 18: 64 (1980).",
+				"tr":  "V. N. Dubnjakov, Problemy trenija i iznashivanija: Nauch.-tehn. sb. (Kiev: Tekhnika), 18: 64 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Мищук, Легирование поверхности металлов при трении под влиянием органических поверхностно-активных веществ (Дис. … канд. физ.-мат. наук) (Киев: 1996).",
+				"tr":  "O. A. Mishhuk, Legirovanie poverhnosti metallov pri trenii pod vlijaniem organicheskih poverhnostno-aktivnyh veshhestv (Dis. … kand. fiz.-mat. nauk) (Kiev: 1996)."
+			},
+			{
+				"doi": "",
+				"or":  "О. О. Міщук, В. І. Дзюба, Л. І. Коваль та ін., Проблеми тертя та зношування: Наук.-техн. зб. (Київ: НАУ-друк), 57: 256 (2012).",
+				"tr":  "O. O. Mіshhuk, V. І. Dzyuba, L. І. Koval' et al., Problemi tertja ta znoshuvannja: Nauk.-tehn. zb. (Kyiv: NAU-druk), 57: 256 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Schell, P. Heilmann, and D. A. Rigney, Wear, 75: 205 (1982).",
+				"tr":  "J. Schell, P. Heilmann, and D. A. Rigney, Wear, 75: 205 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Кіндрачук, Ю. А. Куницький, О. І. Дудка та ін., Структуроутворення та формування триботехнічних властивостей евтектичних покриттів (Київ: Вища школа: 1997).",
+				"tr":  "M. V. Kіndrachuk, Yu. A. Kunitskiy, O. І. Dudka et al., Strukturoutvorennja ta formuvannja tribotehnіchnih vlastivostej evtektichnih pokrittіv (Kiїv: Vishha shkola: 1997)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Киндрачук, Ю. Я. Душек, М. В. Лучка, Порошковая металлургия, № 9/10: 56 (1994).",
+				"tr":  "M. V. Kindrachuk, Yu. Ya. Dushek, M. V. Luchka, Poroshkovaja metallurgija, No. 9/10: 56 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Шевеля, В. П. Олександренко, Трибохимия и реология износостойкости (Хмельницкий: ХНУ: 2006).",
+				"tr":  "V. V. Shevelya, V. P. Oleksandrenko, Tribohimija i reologija iznosostojkosti (Khmelnytskyy: KhNU: 2006)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Ф. Люксютов, А. Г. Наумовец, В. Л. Покровский, Двумерные кристаллы (Киев: Наукова думка: 1988).",
+				"tr":  "I. F. Lyuksyutov, A. G. Naumovets, V. L. Pokrovskiy, Dvumernye kristally (Kiev: Naukova dumka: 1988)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. С. Макаров, Изоморфизм атомов в кристаллах (Москва: Атомиздат: 1973).",
+				"tr":  "E. S. Makarov, Izomorfizm atomov v kristallah (Moskva: Atomizdat: 1973)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. В. Козлов, Н. А. Попова, Л. Н. Игнатенко и др., Известия ВУЗов: Физика, № 3: 72 (2002).",
+				"tr":  "Je. V. Kozlov, N. A. Popova, L. N. Ignatenko et al., Izvestija VUZov: Fizika, No. 3: 72 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. М. Лахтин, Металловедение и термическая обработка металлов (Москва: Металлургия: 1979).",
+				"tr":  "Ju. M. Lahtin, Metallovedenie i termicheskaja obrabotka metallov (Moskva: Metallurgija: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Козырев, В. Н. Дубняков, М. Н. Добычин, Проблемы трения и изнашивания: Науч.-техн. сб. (Киев: Техника), 19: 13 (1981).",
+				"tr":  "S. P. Kozyrev, V. N. Dubnyakov, M. N. Dobychin, Problemy trenija i iznashivanija: Nauch.-tehn. sb. (Kiev: Tehnika), 19: 13 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Чуприна, Порошковая металлургия, № 5/6: 90 (1995).",
+				"tr":  "V. G. Chuprina, Poroshkovaya metallurgiya, No. 5/6: 90 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Я. Тонтегоде, Е. В. Рутьков, Успехи физических наук, 163, № 11: 57 (1993).",
+				"tr":  "A. Ja. Tontegode, E. V. Rut'kov, Uspehi Fiz. Nauk, 163, No. 11: 57 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Олемской, В. Н. Борисюк, О. В. Ющенко, Т. И. Жиленко, Металлофиз. новейшие технол., 34, № 1: 87 (2012).",
+				"tr":  "A. I. Olemskoj, V. N. Borisyuk, O. V. Jushhenko, T. I. Zhilenko, Metallofiz. Noveishie Tekhnol., 34, No. 1: 87 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Ажажа, В. Я. Свердлов, А. Н. Ладыгин и др., Металлофиз. новейшие технол., 32, № 4: 549 (2010).",
+				"tr":  "V. M. Azhazha, V. Ja. Sverdlov, A. N. Ladygin et al., Metallofiz. Noveishie Tekhnol., 32, No. 4: 549 (2010)."
+			}
+		]
+	}
+}

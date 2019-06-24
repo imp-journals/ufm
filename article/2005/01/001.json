@@ -1,0 +1,361 @@
+{
+	"_id":    "UFM.06.01.001",
+	"year":   2005,
+	"volume": 6,
+	"issue":  1,
+	"pages":  [1,54],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["06.04.2004"],
+	"PACS":   "05.40.Ca, 05.45.Df, 05.65.+b, 05.70.Fh, 45.70.Ht, 64.60.Ak",
+	"title":   {
+		"ua": "Самоорганізація конденсованого середовища у флуктуаційному оточенні",
+		"en": "Self-Organization of Condensed Matter in Fluctuating Environment",
+		"ru": "Самоорганизация конденсированной среды во флуктуационном окружении"
+	},
+	"abstract": {
+		"ua": "Представлено синергетичну концепцію пластичної деформації із урахуванням взаємодії між дефектами, в рамках якої досліджуються фазові переходи. Розглянуто картину якісної перебудови структури конденсованого середовища при наявності флюктуацій у 0-вимірних та розподілених системах. Показано, що система здатна зазнавати реверсивні переходи із зростанням інтенсивности флюктуацій, дифузійної складової та зовнішніх параметрів типу деформації. В рамках синергетичного підходу на основі Льоренцової системи розглянуто картину вибухової кристалізації, яка споріднена процесам формування лавин. З'ясовано співвідношення між показником в розподілі за розмірами лавин, фрактальною вимірністю фазового простору, характеристиками флюктуацій, числом керуючих рівнань, динамічним показником, параметром неадитивности. Показано, що режим самоорганізованої критичности тісно пов'язаний із процесами аномальної дифузії.",
+		"en": "A synergetic conception of plastic deformation is presented allowing for the defects’ interplay resulting in a phase transition. A qualitative-reconstruction pattern of imperfect condensed-matter structure in the presence of fluctuations in both 0-dimensional and distributed (extended) systems is considered. As shown, the system undergoes the reversible phase transitions under the increasing intensity of fluctuations, diffusion constituent and deformation-type external parameters. Within the framework of the synergetic approach based on the Lorenz system, a pattern of explosive crystallization is shown to be scripting the same way as the avalanches formation. The relationships are set between the exponent of a size distribution of avalanches, the fractal dimension of a phase space, characteristics of noise, the number of governing equations, the dynamical exponent, and the non-additivity parameter. As shown, the regime of self-organized criticality is associated with an anomalous diffusion processes.",
+		"ru": "Представлена синергетическая концепция пластической деформации, учитывающая взаимодействия между дефектами, в рамках которой исследуются фазовые переходы. Рассмотрена картина качественной перестройки структуры конденсированной среды при наличии флуктуаций в 0-мерных и распределенных системах. Показано, что система способна претерпевать реверсивные фазовые переходы с возрастанием интенсивности флуктуаций, диффузионной составляющей и внешних параметров типа деформации. В рамках синергетического подхода на основе системы Лоренца рассмотрена картина взрывной кристаллизации, протекающей по сценарию процессов лавинообразования. Установлены соотношения между показателями распределения лавин по размерам, фрактальной размерностью фазового пространства, характеристиками флуктуаций, числом управляющих уравнений, динамическим показателем и параметром неаддитивности. Показано, что режим самоорганизованной критичности тесно связан с процессами аномальной диффузии."
+	},
+	"keywords": {
+		"ua": "спричинені шумом фазові перетворення, параметр порядку, самоорганізована критичність, фрактальна розмірність, аномальна дифузія",
+		"en": "noise-induced phase transitions, order parameter, self-organized criticality, fractal dimension, anomalous diffusion",
+		"ru": "вызванные шумом фазовые превращения, параметр порядка, самоорганизованная критичность, фрактальная размерность, аномальная диффузия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Д. О. Харченко", "en": "D. O. Kharchenko", "ru": "Д. О. Харченко"},
+			"OID": [208]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.10.01.027",
+				"cit": "D. O. Kharchenko, P. K. Galenko and V. G. Lebedev, <a href=\"https://doi.org/10.15407/ufm.10.01.027\">Usp. Fiz. Met. <b>10</b>, 27 (2009)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 63,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "G. Nicolis and I. Prigogine, Self-Organization in Nonequilibrium Systems (New York, London, Sydney, Toronto: A Wiley-Interscience Publ., John Wiley & Sons: 1977).",
+				"tr":  "G. Nicolis and I. Prigogine, Self-Organization in Nonequilibrium Systems (New York, London, Sydney, Toronto: A Wiley-Interscience Publ., John Wiley & Sons: 1977)."
+			},
+			{
+				"doi": "10.1007/978-3-642-88338-5",
+				"or":  "H. Haken, Synergetics—An Introduction (Berlin, Heidelberg, New York: Springer-Verlag: 1983).",
+				"tr":  "H. Haken, Synergetics—An Introduction (Berlin, Heidelberg, New York: Springer-Verlag: 1983)."
+			},
+			{
+				"doi": "10.1007/978-3-662-02377-8",
+				"or":  "C. W. Gardiner, Handbook of Stochastic Methods (Berlin: Springer-Verlag: 1983).",
+				"tr":  "C. W. Gardiner, Handbook of Stochastic Methods (Berlin: Springer-Verlag: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Horsthemke and R. Lefever, Noise-Induced Transitions (Berlin: Springer-Verlag: 1984).",
+				"tr":  "W. Horsthemke and R. Lefever, Noise-Induced Transitions (Berlin: Springer-Verlag: 1984)."
+			},
+			{
+				"doi": "10.1007/978-1-4612-1536-3",
+				"or":  "J. Garcia-Ojalvo and J. M. Sancho, Noise in Spatially Extended Systems (New York: Springer-Verlag: 1999).",
+				"tr":  "J. Garcia-Ojalvo and J. M. Sancho, Noise in Spatially Extended Systems (New York: Springer-Verlag: 1999)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Bak, How Nature Works: the Science of Self-Organized Criticality (Oxford: Oxford University Press: 1997).",
+				"tr":  "P. Bak, How Nature Works: the Science of Self-Organized Criticality (Oxford: Oxford University Press: 1997)."
+			},
+			{
+				"doi": "10.1017/CBO9780511622717",
+				"or":  "H. J. Jensen, Self-Organized Criticality. Emergent Complex Behaviour in Physical and Biological Systems. Cambridge Lecture Notes in Physics (Cambridge: Cambridge University Press: 1998).",
+				"tr":  "H. J. Jensen, Self-Organized Criticality. Emergent Complex Behaviour in Physical and Biological Systems. Cambridge Lecture Notes in Physics (Cambridge: Cambridge University Press: 1998)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Feder, Fractals (New York: Plenum: 1989).",
+				"tr":  "J. Feder, Fractals (New York: Plenum: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "Applications of Fractional Calculus in Physics (Ed. R. Hilfer) (Singapore: World Scientific: 2000).",
+				"tr":  "Applications of Fractional Calculus in Physics (Ed. R. Hilfer) (Singapore: World Scientific: 2000)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Rubin, Bol’shie Plasticheskie Deformatsii i Razrushenie Metallov (Large Plastic Deformations and Failure of Metals) (Moscow: Metallurgiya: 1985) (in Russian).",
+				"tr":  "V. V. Rubin, Bol'shie Plasticheskie Deformatsii i Razrushenie Metallov (Large Plastic Deformations and Failure of Metals) (Moscow: Metallurgiya: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. E. Panin, V. A. Likhachyov, and Yu. V. Grinyayev, Strukturnyye Urovni Deformatsii Tvyordykh Tel (Structural Levels of Deformation of Condensed Matter) (Novosibirsk: Nauka: 1985) (in Russian).",
+				"tr":  "V. E. Panin, V. A. Likhachyov, and Yu. V. Grinyayev, Strukturnyye Urovni Deformatsii Tvyordykh Tel (Structural Levels of Deformation of Condensed Matter) (Novosibirsk: Nauka: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. P. Skripov and V. P. Koverda, Spontannaya Kristallizatsiya Pereokhlazhdyonnykh Zhydkostej (Spontaneous Crystallization of Supercooled Liquids) (Moscow: Nauka: 1984) (in Russian).",
+				"tr":  "V. P. Skripov and V. P. Koverda, Spontannaya Kristallizatsiya Pereokhlazhdyonnykh Zhydkostej (Spontaneous Crystallization of Supercooled Liquids) (Moscow: Nauka: 1984) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0378-4371(89)90034-4",
+				"or":  "S. F. Edwards and R. B. S. Oakeshott, Physica A, 157: 1080 (1989).",
+				"tr":  "S. F. Edwards and R. B. S. Oakeshott, Physica A, 157: 1080 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "S. F. Edwards, Granular Matter: An Interdisciplinary Approach (Ed. A. Metha) (New York: Springer-Verlag: 1994).",
+				"tr":  "S. F. Edwards, Granular Matter: An Interdisciplinary Approach (Ed. A. Metha) (New York: Springer-Verlag: 1994)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Tsallis, Lecture Notes in Physics (Eds. S. Abe and Y. Okamoto) (Heidelberg: Springer-Verlag: 2001).",
+				"tr":  "C. Tsallis, Lecture Notes in Physics (Eds. S. Abe and Y. Okamoto) (Heidelberg: Springer-Verlag: 2001)."
+			},
+			{
+				"doi": "",
+				"or":  "G. M. Zaslavsky, Chaos, 4: 25 (1994); idem, Physica D, 76: 110 (1994); A. I. Saichev and G. M. Zaslavsky, Chaos, 7: 753 (1997).",
+				"tr":  "G. M. Zaslavsky, Chaos, 4: 25 (1994); idem, Physica D, 76: 110 (1994); https://doi.org/10.1016/0167-2789(94)90254-2"
+			},
+			{
+				"doi": "",
+				"or":  "A. Damask and J. Diens, Point Defects in Metals (New York: Gordon and Breach: 1963).",
+				"tr":  "A. Damask and J. Diens, Point Defects in Metals (New York: Gordon and Breach: 1963)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Friedel, Dislocations (Oxford, London, Edinburg, NewYork, Paris, Frankfurt: Pergamon Press: 1964).",
+				"tr":  "J. Friedel, Dislocations (Oxford, London, Edinburg, NewYork, Paris, Frankfurt: Pergamon Press: 1964)."
+			},
+			{
+				"doi": "",
+				"or":  "J. D. Vishnyakov, Defekty Upakovki v Kristallicheskoj Strukture (Defects of Packing in Crystal Structure) (Moscow: Metallurgiya: 1970) (in Russian).",
+				"tr":  "J. D. Vishnyakov, Defekty Upakovki v Kristallicheskoj Strukture (Defects of Packing in Crystal Structure) (Moscow: Metallurgiya: 1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "J. P. Hirth and J. Lothe, Theory of Dislocations (New York: McGraw-Hill: 1968).",
+				"tr":  "J. P. Hirth and J. Lothe, Theory of Dislocations (New York: McGraw-Hill: 1968)."
+			},
+			{
+				"doi": "",
+				"or":  "B. I. Smirnov, Dislokatsionnaya Struktura i Uprochnenie Kristallov (Dislocation Structure and Strengthening) (Leningrad: Nauka: 1981) (in Russian).",
+				"tr":  "B. I. Smirnov, Dislokatsionnaya Struktura i Uprochnenie Kristallov (Dislocation Structure and Strengthening) (Leningrad: Nauka: 1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Vladimirov and A. E. Romanov, Disklinatsii v Kristallakh (Disclinations in Crystals) (Leningrad: Nauka: 1986) (in Russian).",
+				"tr":  "V. I. Vladimirov and A. E. Romanov, Disklinatsii v Kristallakh (Disclinations in Crystals) (Leningrad: Nauka: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "R. de Witt, Continual Theory of Disclinations. (Moscow: Mir Publishers: 1977) (Russian translation).",
+				"tr":  "R. de Witt, Continual Theory of Disclinations. (Moscow: Mir Publishers: 1977) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "A. I. Olemskoi, Physics Reviews (Ed. I. M. Khalatnikov) (London: Gordon & Breach: 1996), vol. 18, Part 1, p. 1.",
+				"tr":  "A. I. Olemskoi, Physics Reviews (Ed. I. M. Khalatnikov) (London: Gordon & Breach: 1996), vol. 18, Part 1, p. 1."
+			},
+			{
+				"doi": "10.15407/ufm.02.03.189",
+				"or":  "A. I. Olemskoi and A. V. Khomenko, Usp. Fiz. Met., 2: 189 (2001).",
+				"tr":  "A. I. Olemskoi and A. V. Khomenko, Usp. Fiz. Met., 2: 189 (2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.61.223",
+				"or":  "S. E. Mangioni, R. R. Deza, R. Toral, and H. S. Wio, Phys. Rev. E, 61: 223, (2000).",
+				"tr":  "S. E. Mangioni, R. R. Deza, R. Toral, and H. S. Wio, Phys. Rev. E, 61: 223, (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevA.35.4464",
+				"or":  "P. Jung and P. Hänggi, Phys. Rev. A, 35: 4467 (1987); F. Castro, H. S. Wio, and G. Abramson, Phys. Rev. E, 52: 159 (1995).",
+				"tr":  "P. Jung and P. Hänggi, Phys. Rev. A, 35: 4467 (1987); F. Castro, H. S. Wio, and G. Abramson, Phys. Rev. E, 52: 159 (1995)"
+			},
+			{
+				"doi": "",
+				"or":  "D. O. Kharchenko and I. A. Knyaz’, Mettallofiz. Noveishie Tekhnol., 24, No. 3: 389 (2002).",
+				"tr":  "D. O. Kharchenko and I. A. Knyaz', Mettallofiz. Noveishie Tekhnol., 24, No. 3: 389 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "E. A. Novikov, JETP, 47: 1919 (1964).",
+				"tr":  "E. A. Novikov, JETP, 47: 1919 (1964)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.57.1377",
+				"or":  "M. A. Munoz, Phys. Rev. E, 57: 1377 (1998).",
+				"tr":  "M. A. Munoz, Phys. Rev. E, 57: 1377 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "A. I. Olemskoi and D. O. Kharchenko, Met. Phys. Adv. Tech., 16: 841 (1996).",
+				"tr":  "A. I. Olemskoi and D. O. Kharchenko, Met. Phys. Adv. Tech., 16: 841 (1996)."
+			},
+			{
+				"doi": "10.1134/1.1131244",
+				"or":  "A. I. Olemskoi and D. O. Kharchenko, Physics of Solid State, 42: 520 (2000).",
+				"tr":  "A. I. Olemskoi and D. O. Kharchenko, Physics of Solid State, 42: 520 (2000)."
+			},
+			{
+				"doi": "10.1016/S0378-4371(02)00577-0",
+				"or":  "D. O. Kharchenko, Physica A, 308: 101 (2002).",
+				"tr":  "D. O. Kharchenko, Physica A, 308: 101 (2002)."
+			},
+			{
+				"doi": "10.1140/epjb/e2003-00112-9",
+				"or":  "D. O. Kharchenko and I. A. Knyaz’, Eur. Phys. J. B, 32: 375 (2003).",
+				"tr":  "D. O. Kharchenko and I. A. Knyaz', Eur. Phys. J. B, 32: 375 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "N. G. Van Kampen, Stochastic Processes in Physics and Chemistry (Amsterdam: North Holland: 1992).",
+				"tr":  "N. G. Van Kampen, Stochastic Processes in Physics and Chemistry (Amsterdam: North Holland: 1992)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.48.109",
+				"or":  "V. E. Shapiro, Phys. Rev. E, 48: 109 (1993).",
+				"tr":  "V. E. Shapiro, Phys. Rev. E, 48: 109 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Risken, The Fokker–Planck Equation (Berlin: Springer Verlag: 1989).",
+				"tr":  "H. Risken, The Fokker–Planck Equation (Berlin: Springer Verlag: 1989)."
+			},
+			{
+				"doi": "10.1098/rspa.1982.0056",
+				"or":  "S. F. Edwards and D. R. Wilkinson, Proc. Roy. Soc. A, 381: 17 (1982).",
+				"tr":  "S. F. Edwards and D. R. Wilkinson, Proc. Roy. Soc. A, 381: 17 (1982)."
+			},
+			{
+				"doi": "10.1088/0034-4885/57/4/002",
+				"or":  "A. Mehta and G. C. Barker, Rep. Prog. Phys., 57: 383 (1994).",
+				"tr":  "A. Mehta and G. C. Barker, Rep. Prog. Phys., 57: 383 (1994)."
+			},
+			{
+				"doi": "10.1051/jp1:1994195",
+				"or":  "J. -P. Bouchaud, M. E. Cates, J. R. Prakash, and S. F. Edwards, J. Phys. I (France), 4: 1383 (1994).",
+				"tr":  "J. -P. Bouchaud, M. E. Cates, J. R. Prakash, and S. F. Edwards, J. Phys. I (France), 4: 1383 (1994)."
+			},
+			{
+				"doi": "10.1007/s100350050029",
+				"or":  "K. P. Hadeler and C. Kuttler, Granular Matter, 2: 9 (1999).",
+				"tr":  "K. P. Hadeler and C. Kuttler, Granular Matter, 2: 9 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.71.4083",
+				"or":  "P. Bak and K. Sneppen, Phys. Rev. Lett., 71: 4083 (1993).",
+				"tr":  "P. Bak and K. Sneppen, Phys. Rev. Lett., 71: 4083 (1993)."
+			},
+			{
+				"doi": "10.1016/S0378-4371(00)00180-1",
+				"or":  "A. I. Olemskoi, A. V. Khomenko, and V. P. Koverda, Physica A, 284: 79 (2002).",
+				"tr":  "A. I. Olemskoi, A. V. Khomenko, and V. P. Koverda, Physica A, 284: 79 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Pietronero, A. Vespignani, and S. Zapperi, Phys. Rev. Lett., 72: 1690 (1994); idem, Phys. Rev. E, 51: 1711 (1995).",
+				"tr":  "L. Pietronero, A. Vespignani, and S. Zapperi, Phys. Rev. Lett., 72: 1690 (1994); idem, Phys. Rev. E, 51: 1711 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "V. P. Koverda and V. P. Skripov, Rasplavy, 1, No. 4: 3 (1987) (in Russian).",
+				"tr":  "V. P. Koverda and V. P. Skripov, Rasplavy, 1, No. 4: 3 (1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "N. M. Bogdanov, V. P. Koverda, V. N. Skokov, V. P. Skripov, and A. A. Dik, Kristallografiya, 33, No. 5: 1251 (1988) (in Russian).",
+				"tr":  "N. M. Bogdanov, V. P. Koverda, V. N. Skokov, V. P. Skripov, and A. A. Dik, Kristallografiya, 33, No. 5: 1251 (1988) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.34.1770",
+				"or":  "D. A. Kurtze, Phys. Rev. B, 34: 1770 (1986).",
+				"tr":  "D. A. Kurtze, Phys. Rev. B, 34: 1770 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "V. P. Koverda, Zh. Tekhn. Fiz., 64, No. 3: 62 (1994) (in Russian).",
+				"tr":  "V. P. Koverda, Zh. Tekhn. Fiz., 64, No. 3: 62 (1994) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0378-4371(02)01991-X",
+				"or":  "A. I. Olemskoi, A. V. Khomenko, and D. O. Kharchenko, Physica A, 323: 263 (2003).",
+				"tr":  "A. I. Olemskoi, A. V. Khomenko, and D. O. Kharchenko, Physica A, 323: 263 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.57.6345",
+				"or":  "A. Vespignani and S. Zapperi, Phys. Rev. Lett., 78: 4793 (1997); idem, Phys. Rev. E, 57: 6345 (1998).",
+				"tr":  "A. Vespignani and S. Zapperi, Phys. Rev. Lett., 78: 4793 (1997); idem, Phys. Rev. E, 57: 6345 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "A. I. Olemskoi and A. V. Khomenko, JETP, 83: 1180 (1996).",
+				"tr":  "A. I. Olemskoi and A. V. Khomenko, JETP, 83: 1180 (1996)."
+			},
+			{
+				"doi": "10.1070/PU1998v041n03ABEH000377",
+				"or":  "A. I. Olemskoi, Physics—Uspekhi, 41: 269 (1998).",
+				"tr":  "A. I. Olemskoi, Physics—Uspekhi, 41: 269 (1998)."
+			},
+			{
+				"doi": "10.1142/S0219477502000865",
+				"or":  "D. O. Kharchenko, Fluct. and Noise Lett., 2, No. 4: L287 (2002).",
+				"tr":  "D. O. Kharchenko, Fluct. and Noise Lett., 2, No. 4: L287 (2002)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.57.R6241",
+				"or":  "A. Chessa, E. Marinari, A. Vespignani, and S. Zapperi, Phys. Rev. E, 57: R6241 (1998).",
+				"tr":  "A. Chessa, E. Marinari, A. Vespignani, and S. Zapperi, Phys. Rev. E, 57: R6241 (1998)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.76.3991",
+				"or":  "L. Gil and D. Sornette, Phys. Rev. Lett., 76: 3991 (1996).",
+				"tr":  "L. Gil and D. Sornette, Phys. Rev. Lett., 76: 3991 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.62.4564",
+				"or":  "A. Vespignani, R. Dickman, M. A. Muñoz, and S. Zapperi, Phys. Rev. Lett., 81: 5676 (1998); idem, Phys. Rev. E, 62: 4564 (2000).",
+				"tr":  "A. Vespignani, R. Dickman, M. A. Mu-oz, and S. Zapperi, Phys. Rev. Lett., 81: 5676 (1998); idem, Phys. Rev. E, 62: 4564 (2000)."
+			},
+			{
+				"doi": "10.1134/1.568335",
+				"or":  "A. I. Olemskoi, JETP Let., 71: 285 (2000).",
+				"tr":  "A. I. Olemskoi, JETP Let., 71: 285 (2000)."
+			},
+			{
+				"doi": "10.1016/S0378-4371(00)00601-4",
+				"or":  "A. I. Olemskoi and D. O. Kharchenko, Physica A, 293: 178 (2001).",
+				"tr":  "A. I. Olemskoi and D. O. Kharchenko, Physica A, 293: 178 (2001)."
+			},
+			{
+				"doi": "10.1140/epjb/e2002-00266-x",
+				"or":  "D. O. Kharchenko and S. V. Kohan, Eur. Phys. J. B, 29: 97 (2002).",
+				"tr":  "D. O. Kharchenko and S. V. Kohan, Eur. Phys. J. B, 29: 97 (2002)."
+			},
+			{
+				"doi": "10.1016/0370-1573(90)90099-N",
+				"or":  "J. -P. Bouchaud and A. Georges, Phys. Rep., 195: 127 (1991).",
+				"tr":  "J. -P. Bouchaud and A. Georges, Phys. Rep., 195: 127 (1991)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.58.1690",
+				"or":  "H. C. Fogedby, Phys. Rev. E, 58: 1690 (1998).",
+				"tr":  "H. C. Fogedby, Phys. Rev. E, 58: 160 (1998)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.75.366",
+				"or":  "D. H. Zanette and P. A. Alemany, Phys. Rev. Lett., 75: 366 (1995).",
+				"tr":  "D. H. Zanette and P. A. Alemany, Phys. Rev. Lett., 75: 366 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "S. G. Samko, A. A. Kilbas, and O. I. Marichev, Fractional Integrals and Derivatives—Theory and Applications (New York: Gordon and Breach: 1993).",
+				"tr":  "S. G. Samko, A. A. Kilbas, and O. I. Marichev, Fractional Integrals and Derivatives—Theory and Applications (New York: Gordon and Breach: 1993)."
+			}
+		]
+	}
+}

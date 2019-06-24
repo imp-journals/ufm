@@ -1,0 +1,362 @@
+{
+	"_id":    "UFM.06.04.273",
+	"year":   2005,
+	"volume": 6,
+	"issue":  4,
+	"pages":  [273,344],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["18.08.2005"],
+	"PACS":   "62.20.Qp, 68.55.Ln, 81.15.Gh, 81.15.Pq, 81.65.-b, 81.70.Jb, 82.80.Yc",
+	"title":   {
+		"ua": "Електролитно-плазмове оброблення та нанесення покриттів на метали і стопи",
+		"en": "Electrolyte–Plasma Processing and Deposition of Coatings on Metals and Alloys",
+		"ru": "Электролитно-плазменная обработка и нанесение покрытий на металлы и сплавы"
+	},
+	"abstract": {
+		"ua": "В огляді представлено результати, що стосуються нового напряму фізики плазмової електролізи, технології оброблення поверхні, нанесення покриттів, процесів плазмово-електролітичного насичування. Обговорюються фізичні й хемічні основи плазмової електролізи. Показано, що даним способом оброблення матеріялів можна змінювати (поліпшувати) фізичні, механічні, трибологічні, корозійні властивості виробів із металів. Розглянуто процеси мікродугового оксидування (або плазмово-електролітичного оксидування) і наведено приклади його використання. Аналізуються також процеси електролітично-плазмового гартування приповерхневих шарів конкретних виробів і розглянуто процеси дифузії, направленого масопереносу і леґування поверхневих шарів металевих виробів.",
+		"en": "This review presents the results concerning a comparatively new trend in physics of plasma electrolysis, surface-treatment technology, deposition of coatings, and processes of plasma–electrolyte saturation. Physical and chemical principles of plasma electrolysis are discussed. As shown, this way of materials treatment could improve mechanical, tribological, and corrosion properties of metal wares. Processes of micro-arc oxidation (or plasma–electrolyte oxidation—PEO) are considered, and examples of its application are demonstrated. Processes of electrolyte–plasma quenching of near-surface layers of concrete wares are analyzed; processes of diffusion, directed mass transfer, and doping metallic-wares’ surface layers are considered.",
+		"ru": "В обзоре представлены результаты, касающиеся относительно нового направления в физике плазменного электролиза, технологии обработки поверхности, нанесения покрытий, процессов плазменно-электролитного насыщения. Обсуждаются физические и химические основы плазменного электролиза. Показано, что данным способом обработки материалов можно изменять (улучшать) физические, механические, трибологические, коррозионные свойства изделий из металлов. Рассмотрены процессы микродугового оксидирования (или плазменно-электролитного оксидирования) и приведены примеры его использования. Анализируются также процессы электролитно-плазменной закалки приповерхностных слоев конкретных изделий и рассмотрены процессы диффузии, направленного массопереноса и легирования поверхностных слоев металлических изделий."
+	},
+	"keywords": {
+		"ua": "плазмова електроліза, технологія оброблення поверхні, нанесення покриттів, плазмово-електролітичне насичування, дифузія, направлене масоперенесення, леґування поверхневих шарів",
+		"en": "plasma electrolysis, surface-treatment technology, deposition of coatings, plasma–electrolyte saturation, diffusion, directed mass transfer, doping of surface layers",
+		"ru": "плазменный электролиз, технология обработки поверхности, нанесение покрытий, плазменно-электролитное насыщение, направленный массоперенос, легирование поверхностных слоёв"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. Д. Погребняк", "en": "O. D. Pogrebnyak", "ru": "А. Д. Погребняк"},
+			"OID": [248, 1]
+		},
+		{
+			"AID": {"ua": "Ю. М. Тюрин", "en": "Yu. M. Tyurin", "ru": "Ю. Н. Тюрин"},
+			"OID": [5]
+		},
+		{
+			"AID": {"ua": "А. Г. Бойко", "en": "A. G. Boyko", "ru": "А. Г. Бойко"},
+			"OID": [248, 1]
+		},
+		{
+			"AID": {"ua": "М. Л. Жадкевич", "en": "M. L. Zhadkevich", "ru": "М. Л. Жадкевич"},
+			"OID": [5]
+		},
+		{
+			"AID": {"ua": "М. К. Калишканов", "en": "M. K. Kalyshkanov", "ru": "М. К. Калышканов"},
+			"OID": [509]
+		},
+		{
+			"AID": {"ua": "Ш. М. Рузімов", "en": "Sh. M. Ruzimov", "ru": "Ш. М. Рузимов"},
+			"OID": [514]
+		}
+	],
+	"references": {
+		"count": 61,
+				"list":  [
+			{
+				"doi": "",
+				"or":  "N. P. Sluginov, J. Russ. Phys. Chem. Soc., 12, No. 1–2—Phys.: 193 (1880) (in Russian).",
+				"tr":  "N. P. Sluginov, J. Russ. Phys. Chem. Soc., 12, No. 1–2—Phys.: 193 (1880) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Gunterschultze und H. Betz, Electrolytkondensatoren (Berlin: Krayn: 1937).",
+				"tr":  "A. Gunterschultze und H. Betz, Electrolytkondensatoren (Berlin: Krayn: 1937)."
+			},
+			{
+				"doi": "",
+				"or":  "W. McNiell and G. F. Nordbloom, US Patent 2854390 (September 30, 1958).",
+				"tr":  "W. McNiell and G. F. Nordbloom, US Patent 2854390 (September 30, 1958)."
+			},
+			{
+				"doi": "",
+				"or":  "W. McNiell and L. L. Gross, US Patent 3293 158 (1966).",
+				"tr":  "W. McNiell and L. L. Gross, US Patent 3293 158 (1966)."
+			},
+			{
+				"doi": "",
+				"or":  "G. A. Markov and G. V. Markova, USSR Patent 526961 (Bul. Inv.: 32) (1976).",
+				"tr":  "G. A. Markov and G. V. Markova, USSR Patent 526961 (Bul. Inv.: 32) (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "A. V. Nikolaev, G. A. Markov, and B. I. Peshchevitskij, Izv. SO AN SSSR. Ser. Khim. Nauk, 5, No. 12: 32 (1977) (in Russian).",
+				"tr":  "A. V. Nikolaev, G. A. Markov, and B. I. Peshchevitskij, Izv. SO AN SSSR. Ser. Khim. Nauk, 5, No. 12: 32 (1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. A. Markov, V. V. Tatarchuk, and M. K. Mironova, Izv. SO AN SSSR. Ser. Khim. Nauk, 3, No. 7: 34 (1983) (in Russian).",
+				"tr":  "G. A. Markov, V. V. Tatarchuk, and M. K. Mironova, Izv. SO AN SSSR. Ser. Khim. Nauk, 3, No. 7: 34 (1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. A. Snezhko, L. A. Beskrovnyj, Yu. M. Nevkrytyj, and V. I. Chernenko, Zashch. Met., 16, No. 3: 365 (1980) (in Russian).",
+				"tr":  "L. A. Snezhko, L. A. Beskrovnyj, Yu. M. Nevkrytyj, and V. I. Chernenko, Zashch. Met., 16, No. 3: 365 (1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. A. Snezhko, G. V. Rozenboym, and V. I. Chernenko, Zashch. Met., 17, No. 5: 618 (1981) (in Russian).",
+				"tr":  "L. A. Snezhko, G. V. Rozenboym, and V. I. Chernenko, Zashch. Met., 17, No. 5: 618 (1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. A. Snezhko and V. I. Chernenko, Electron. Obrab. Mater., No. 2: 25 (1983) (in Russian).",
+				"tr":  "L. A. Snezhko and V. I. Chernenko, Electron. Obrab. Mater., No. 2: 25 (1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. A. Snezhko and V. I. Chernenko, Electron. Obrab. Mater., No. 4: 38 (1983) (in Russian).",
+				"tr":  "L. A. Snezhko and V. I. Chernenko, Electron. Obrab. Mater., No. 4: 38 (1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Tchernenko, L. A. Snezhko, and C. B. Chernova, Zashch. Met., 20, No. 3: 454 (1984) (in Russian).",
+				"tr":  "V. I. Tchernenko, L. A. Snezhko, and C. B. Chernova, Zashch. Met., 20, No. 3: 454 (1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. A. Snezhko, S. G. Pavlus, and V. I. Chernenko, Zashch. Met., 20, No. 4: 292 (1984) (in Russian).",
+				"tr":  "L. A. Snezhko, S. G. Pavlus, and V. I. Chernenko, Zashch. Met., 20, No. 4: 292 (1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. A. Markov, M. K. Mironova, and O. G. Potapova, Izv. AN SSSR. Ser. Neorgan. Mater., 19, No. 7: 1110 (1983) (in Russian).",
+				"tr":  "G. A. Markov, M. K. Mironova, and O. G. Potapova, Izv. AN SSSR. Ser. Neorgan. Mater., 19, No. 7: 1110 (1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Petrosyants, V. N. Malyshev, V. A. Fyodorov, and G. A. Markov, Trenie Iznos., 5, No. 2: 350 (1984) (in Russian).",
+				"tr":  "A. A. Petrosyants, V. N. Malyshev, V. A. Fyodorov, and G. A. Markov, Trenie Iznos., 5, No. 2: 350 (1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. N. Malyshev, S. I. Bulychev, G. A. Markov, V. A. Fyodorov, A. A. Petrosyants, V. V. Kudinov, and M. H. Shorshorov, Fiz. Khim. Obrab. Mater., No. 1: 82 (1985) (in Russian).",
+				"tr":  "V. N. Malyshev, S. I. Bulychev, G. A. Markov, V. A. Fyodorov, A. A. Petrosyants, V. V. Kudinov, and M. H. Shorshorov, Fiz. Khim. Obrab. Mater., No. 1: 82 (1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Fyodorov, V. V. Belozerov, N. D. Velikosel’skaya, and S. I. Bulychev, Fiz. Khim. Obrab. Mater., 4: 92 (1988) (in Russian).",
+				"tr":  "V. A. Fyodorov, V. V. Belozerov, N. D. Velikosel'skaya, and S. I. Bulychev, Fiz. Khim. Obrab. Mater., 4: 92 (1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. S. Rudnev and P. S. Gordienko (Vladivostok: 1987) (Preprint/Inst. Khimii DVO AN SSSR. No. 3384-B87, 1987) (in Russian).",
+				"tr":  "V. S. Rudnev and P. S. Gordienko (Vladivostok: 1987) (Preprint/Inst. Khimii DVO AN SSSR. No. 3384-B87, 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "O. A. Khrisanfova and P.S. Gordienko (Vladivostok: 1987) (Preprint/Inst. Khimii DVO AN SSSR. No. 2986-B89, 1987) (in Russian).",
+				"tr":  "O. A. Khrisanfova and P.S. Gordienko (Vladivostok: 1987) (Preprint/Inst. Khimii DVO AN SSSR. No. 2986-B89, 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "P. S. Gordienko, P. M. Nedozorov, L. M. Volkova, T. P. Yarovaya, and O. A. Khrisanfova, Zashch. Met., 25, No. 1: 125 (1989) (in Russian).",
+				"tr":  "P. S. Gordienko, P. M. Nedozorov, L. M. Volkova, T. P. Yarovaya, and O. A. Khrisanfova, Zashch. Met., 25, No. 1: 125 (1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Kurze, W. Krysmann, G. Marx, und Z. Wiss, Tech. Hochsch. Karl-Marx-Stadt, 24: 139 (1982).",
+				"tr":  "P. Kurze, W. Krysmann, G. Marx, und Z. Wiss, Tech. Hochsch. Karl-Marx-Stadt, 24: 139 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "K. H. Dittrich, W. Krysmann, P. Kurze, and H. G. Schneider, Cryst. Res. Technol., 19, No. 1: 93 (1984).",
+				"tr":  "K. H. Dittrich, W. Krysmann, P. Kurze, and H. G. Schneider, Cryst. Res. Technol., 19, No. 1: 93 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Krysmann, P. Kurze, K. H. Dittrich, and H. G. Schneider, Cryst. Res. Technol., 19, No. 7: 973 (1984).",
+				"tr":  "W. Krysmann, P. Kurze, K. H. Dittrich, and H. G. Schneider, Cryst. Res. Technol., 19, No. 7: 973 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Kurze, J. Schreckenbach, T. Schwarz, und W. Krysmann, Metalloberflaeche, 40, No. 12: 539 (1986).",
+				"tr":  "P. Kurze, J. Schreckenbach, T. Schwarz, und W. Krysmann, Metalloberflaeche, 40, No. 12: 539 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "L. S. Saakin, A. P. Yefremov, L. Y. Ropyak, and A. V. Apelfeld, Corrosion Control and Environment Protection. Informative Survey (Moscow: VNII–OENG: 1986), p. 6 (in Russian).",
+				"tr":  "L. S. Saakin, A. P. Yefremov, L. Y. Ropyak, and A. V. Apelfeld, Corrosion Control and Environment Protection. Informative Survey (Moscow: VNII–OENG: 1986), p. 6 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Fyedorov, A. G. Kan, and R. P. Maksutov, Surface Strengthening of Oil &Gas Trade Facilities by Micro Arc Oxidation (Moscow: VNII–OENG: 1989), p. 6 (in Russian).",
+				"tr":  "V. A. Fyedorov, A. G. Kan, and R. P. Maksutov, Surface Strengthening of Oil &Gas Trade Facilities by Micro Arc Oxidation (Moscow: VNII–OENG: 1989), p. 6 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. A. Markov, B. S. Gizatullin, and I. E. Rychazhkova, USSR Patent 926083 (Bul. Inv.: 17) (1982).",
+				"tr":  "G. A. Markov, B. S. Gizatullin, and I. E. Rychazhkova, USSR Patent 926083 (Bul. Inv.: 17) (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "L. A. Snezhko and V. I. Tchernenko, USSR Patent 973 583 (Bul. Inv.: 23) (1982).",
+				"tr":  "L. A. Snezhko and V. I. Tchernenko, USSR Patent 973 583 (Bul. Inv.: 23) (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Kurze, W. Krysmann, G. Marx, and K. H. Dittrich, DDR Patent DD-WP C25 0/236988 (5).",
+				"tr":  "P. Kurze, W. Krysmann, G. Marx, and K. H. Dittrich, DDR Patent DD-WP C25 0/236988 (5)."
+			},
+			{
+				"doi": "",
+				"or":  "R. J. Gradkovsky and S. N. Bayles, US Patent 3 956 080 (May 11, 1974).",
+				"tr":  "R. J. Gradkovsky and S. N. Bayles, US Patent 3 956 080 (May 11, 1974)."
+			},
+			{
+				"doi": "10.1111/j.1151-2916.1971.tb12328.x",
+				"or":  "S. D. Brown, K. J. Kuna, and T. B. Van, J. Am. Ceram. Soc., 54, No. 8: 384 (1971).",
+				"tr":  "S. D. Brown, K. J. Kuna, and T. B. Van, J. Am. Ceram. Soc., 54, No. 8: 384 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "T. B. Van, S. D. Brown, and G. P. Wirtz, Am. Ceram. Soc. Bull., 56, No. 6: 563 (1977).",
+				"tr":  "T. B. Van, S. D. Brown, and G. P. Wirtz, Am. Ceram. Soc. Bull., 56, No. 6: 563 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. А. Остроумов, Взаимодействие электрических и гидродинамических полей (Москва: Наука: 1979).",
+				"tr":  "G. A. Ostroumov, Vzaimodeystvie elektricheskikh i gidrodinamicheskikh poley (Moskva: Nauka: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Plank, Ann. Phys. Chem.,  39: 161 (1890); idem, Ann. Phys. Chem., 40: 561 (1890).",
+				"tr":  "M. Plank, Ann. Phys. Chem., 39: 161 (1890); idem, Ann. Phys. Chem., 40: 561 (1890)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. З. Ясногородский, Автоматический нагрев в электролите (Москва: Оборонгиз: 1947).",
+				"tr":  "Ya. Z. Yasnogorodskiy, Avtomaticheskiy nagrev v elektrolite (Moskva: Oborongiz: 1947)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(99)00441-7",
+				"or":  "A. L. Yerokhin, X. Nie, A. Leyland, A. Matthews, and S. J. Dowey, Surf. and Coat. Tech., 122: 73 (1999).",
+				"tr":  "A. L. Yerokhin, X. Nie, A. Leyland, A. Matthews, and S. J. Dowey, Surf. and Coat. Tech., 122: 73 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Никитин, К. И. Еретнов, А. В. Артемьев, Электронная обработка материалов, 2: 35 (1983).",
+				"tr":  "V. N. Nikitin, K. I. Eretnov, A. V. Artem'ev, Elektronnaya obrabotka materialov, 2: 35 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. И. Словецкий, С. Д. Терентьев, В. Г. Плеханов, Теплофизика высоких температур, 2, № 24: 353 (1986).",
+				"tr":  "D. I. Slovetskiy, S. D. Terent'ev, V. G. Plekhanov, Teplofizika vysokikh temperatur, 2, No. 24: 353 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Черненко, Л. А. Снежко, И. И. Папанова, К. И. Литовченко, Теория и технология анодных процессов при высоких напряжениях (Киев: Наукова думка: 1995).",
+				"tr":  "V. I. Chernenko, L. A. Snezhko, I. I. Papanova, K. I. Litovchenko, Teoriya i tekhnologiya anodnykh protsessov pri vysokikh napryazheniyakh (Kiev: Naukova dumka: 1995)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. П. Райзер, Физика газового разряда (Москва: Ред. физ.-мат. лит.: 1992).",
+				"tr":  "Yu. P. Rayzer, Fizika gazovogo razryada (Moskva: Red. fiz.-mat. lit.: 1992)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Тюляпин, Ю. Н. Тюрин, А. И. Трайнов, МИТОМ, № 1: 9 (1998).",
+				"tr":  "A. I. Tyulyapin, Yu. N. Tyurin, A. I. Traynov, MITOM, No. 1: 9 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Н. Еретнев, С. В. Лебедев, Процессы нагрева и очистки поверхности металлов в электролите и их практическое использование (Липецк: 1997).",
+				"tr":  "K. N. Eretnev, S. V. Lebedev, Protsessy nagreva i ochistki poverkhnosti metallov v elektrolite i ikh prakticheskoe ispol'zovanie (Lipetsk: 1997)."
+			},
+			{
+				"doi": "",
+				"or":  "В. К. Федюкин, Термоциклическая обработка сталей и чугунов (Ленинград: 1977).",
+				"tr":  "V. K. Fedyukin, Termotsiklicheskaya obrabotka staley i chugunov (Leningrad: 1977)."
+			},
+			{
+				"doi": "",
+				"or":  "Способ термической обработки изделий, А.с. СССР № 1312974 // МКИ4 С 21 D 1/78 (Приор. 11.04.1984).",
+				"tr":  "Sposob termicheskoy obrabotki izdeliy, A.s. SSSR No. 1312974 // MKI4 S 21 D 1/78 (Prior. 11.04.1984)."
+			},
+			{
+				"doi": "10.1134/1.1573301",
+				"or":  "A. D. Pogrebniak, O. P. Kul’ment’eva, A. P. Kobzev, Yu. N. Tyurin, S. I. Golovenko, and A. G. Boyko, Tech. Phys. Letters, 29, No. 4: 312 (2003).",
+				"tr":  "A. D. Pogrebniak, O. P. Kul'ment'eva, A. P. Kobzev, Yu. N. Tyurin, S. I. Golovenko, and A. G. Boyko, Tech. Phys. Letters, 29, No. 4: 312 (2003)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(01)01207-5",
+				"or":  "Yu. N. Tyurin and A. D. Pogrebniak, Surf. and Coat. Tech., 142–144: 293 (2001).",
+				"tr":  "Yu. N. Tyurin and A. D. Pogrebniak, Surf. and Coat. Tech., 142–144: 293 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Горелик, Л. Н. Расторгуев, Ю. А. Скаков, Рентгенографический и электроннооптический анализ. Приложения (Москва: Металлургия: 1970).",
+				"tr":  "S. S. Gorelik, L. N. Rastorguev, Yu. A. Skakov, Rentgenograficheskiy i elektronnoopticheskiy analiz. Prilozheniya (Moskva: Metallurgiya: 1970)."
+			},
+			{
+				"doi": "",
+				"or":  "Физика твердого тела: Энциклопедический словарь (Гл. ред. В. Г. Барьяхтар) (Киев: Наукова думка: 1996).",
+				"tr":  "Fizika tverdogo tela: Entsiklopedicheskiy slovar' (Gl. red. V. G. Bar'yakhtar) (Kiev: Naukova dumka: 1996)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Барьяхтар, Ю. М. Буравлев, В. П. Шевченко и др., Труды ОТТОМ 2000 (Харьков: ННЦ ХФТИ: 2000), с. 155.",
+				"tr":  "V. G. Bar'yakhtar, Yu. M. Buravlev, V. P. Shevchenko i dr., Trudy OTTOM 2000 (Khar'kov: NNTs KhFTI: 2000), s. 155."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Тюленин, Ю. Н. Тюрин, А. И.Граднев, В. С. Юсупов, МиТОМ, № 1: 9 (1988).",
+				"tr":  "A. N. Tyulenin, Yu. N. Tyurin, A. I.Gradnev, V. S. Yusupov, MiTOM, No. 1: 9 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Погребняк, Ю. Н. Тюрин, А. П. Ивченко, В. В. Понарядов, Ш. М. Рузимов, Металлофиз. новейшие технол., 25: 1329 (2003).",
+				"tr":  "A. D. Pogrebnyak, Yu. N. Tyurin, A. P. Ivchenko, V. V. Ponaryadov, Sh. M. Ruzimov, Metallofiz. noveyshie tekhnol., 25: 1329 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Черненко, Л. А. Снежко, И. И. Папанова, Получение покрытий анодно-искровым электролизом (Ленинград: Химия: 1991), с. 128.",
+				"tr":  "V. I. Chernenko, L. A. Snezhko, I. I. Papanova, Poluchenie pokrytiy anodno-iskrovym elektrolizom (Leningrad: Khimiya: 1991), s. 128."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Бойко, А. Д. Погребняк, Ю. Н. Тюрин, Жао Вейджанг, Вестник СумГУ (2005) (в печати).",
+				"tr":  "A. G. Boyko, A. D. Pogrebnyak, Yu. N. Tyurin, Zhao Veydzhang, Vestnik SumGU (2005) (v pechati)."
+			},
+			{
+				"doi": "",
+				"or":  "П. С. Гордиенко, Образование покрытий на аноднополяризованных электродах в водных электролитах при потенциалах искрения и пробоя (Владивосток: Дальнаука: 1996), с. 215.",
+				"tr":  "P. S. Gordienko, Obrazovanie pokrytiy na anodnopolyarizovannykh elektrodakh v vodnykh elektrolitakh pri potentsialakh iskreniya i proboya (Vladivostok: Dal'nauka: 1996), s. 215."
+			},
+			{
+				"doi": "",
+				"or":  "Э. С. Атрощенко, И. А. Казанцев, А. Е. Розен, Технология получения покрытий микродуговым оксидированием. Новые промышленные технологии. Технический прогресс в атомной промышленности. Серия: Технология монтажных работ (Москва: 1996), с. 28.",
+				"tr":  "E. S. Atroshchenko, I. A. Kazantsev, A. E. Rozen, Tekhnologiya polucheniya pokrytiy mikrodugovym oksidirovaniem. Novye promyshlennye tekhnologii. Tekhnicheskiy progress v atomnoy promyshlennosti. Seriya: Tekhnologiya montazhnykh rabot (Moskva: 1996), s. 28."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Б. Шульгин, 22 Гагаринские чтения. Сборник тезисов. Молодежная научно-техническая конференция (Москва: 1996), с. 80.",
+				"tr":  "Yu. B. Shul'gin, 22 Gagarinskie chteniya. Sbornik tezisov. Molodezhnaya nauchno-tekhnicheskaya konferentsiya (Moskva: 1996), s. 80."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Титоренко, Е. А. Ратькова, Е. А. Савельева, Современные электрохимические технологии. Тезисы докладов научно-технической конференции (Саратов: 1996), с. 51.",
+				"tr":  "O. V. Titorenko, E. A. Rat'kova, E. A. Savel'eva, Sovremennye elektrokhimicheskie tekhnologii. Tezisy dokladov nauchno-tekhnicheskoy konferentsii (Saratov: 1996), s. 51."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Тюрин, Е. А. Пикус, Повышение износостойкости деталей горных машин. Обзор (Донецк: Центральное бюро научно-технической информации Минуглепрома УССР: 1978), с. 55.",
+				"tr":  "Yu. N. Tyurin, E. A. Pikus, Povyshenie iznosostoykosti detaley gornykh mashin. Obzor (Donetsk: Tsentral'noe byuro nauchno-tekhnicheskoy informatsii Minugleproma USSR: 1978), s. 55."
+			},
+			{
+				"doi": "",
+				"or":  "Способ нагрева деталей, А.с. СССР № 1488321. МКИ4 С 21 D 1/44 (Приор. 11.03.1987).",
+				"tr":  "Sposob nagreva detaley, A.s. SSSR No. 1488321. MKI4 S 21 D 1/44 (Prior. 11.03.1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Способ упрочнения пилы: Патент России № 2138564. МКИ, 6 С 21 D 9/24. (Приор. 0.03.1998) (Бюл. №27 от 27.09.1999).",
+				"tr":  "Sposob uprochneniya pily: Patent Rossii No. 2138564. MKI, 6 S 21 D 9/24. (Prior. 0.03.1998) (Byul. No.27 ot 27.09.1999)."
+			},
+			{
+				"doi": "",
+				"or":  "Рештак скребкового конвейера, А.с. СССР № 1546362 (Приор. 23.05.1988).",
+				"tr":  "Reshtak skrebkovogo konveyera, A.s. SSSR No. 1546362 (Prior. 23.05.1988)."
+			}
+		]
+	}
+}

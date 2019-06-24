@@ -1,0 +1,190 @@
+{
+	"_id":    "UFM.18.03.205",
+	"year":   2017,
+	"volume": 18,
+	"issue":  3,
+	"pages":  [205,233],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["02.07.2017"],
+	"PACS":   "02.70.-c, 02.70.Uu, 34.10.+x, 64.60.Cn, 64.60.De, 66.10.cg",
+	"title":   {
+		"ua": "Моделювання дифузії значених атомів, об'ємного впорядкування та поверхневого перевпорядкування у ГЦК-структурах середньопольовою кінетичною методою",
+		"en": "Simulation of the Tracer Diffusion, Bulk Ordering, and Surface Reordering in F.C.C. Structures by Kinetic Mean-Field Method",
+		"ru": "Моделирование диффузии меченых атомов, объёмного упорядочения и поверхностного переупорядочения в ГЦК-структурах кинетическим среднеполевым методом"
+	},
+	"abstract": {
+		"ua": "В роботі розглядається моделювання дифузії значених атомів і процесу «хемічного» (атомового) впорядкування в двох бінарних системах з гранецентрованою кубічною (ГЦК) структурою Ni$_{3}$Al та FePt із використанням середньопольової кінетичної методи (KMF), запропонованої Ж. Мартаном у 1990 р. Для систем, що розглядаються в рамках даної роботи, використовувалися фіксовані значення парних енергій взаємодій та енергій сідлової точки, підібрані раніше шляхом порівняння моделювання за методою Монте-Карло й експериментальних даних. У моделюванні дифузії значених атомів, а також упорядкування їх основний акцент робиться на порівнянні енергій активації, а не передекспонентних множників кінетичних коефіцієнтів. В загальному випадку середньопольові моделі не можуть правильно враховувати кореляційний ефект, який може бути істотним для дифузії значених атомів, особливо для структур типу $В$2. Проте, принаймні для ГЦК-структур, застосування KMF-методи до дифузії та упорядкування демонструє достатньо реалістичні результати, якісно схожі на ті, що одержуються з кінетичної методи Монте-Карло і в реальних експериментах. Моделювання дифузії значених атомів Ni і Al в системі Ni$_{3}$Al показує швидшу дифузію атомів Ni, ніж Al, що пов’язано з легшою дифузією атомів Ni по власній підґратниці в надструктурі типу $L1_{2}$-Ni$_{3}$Al. Також одержано вищу енергію активації для значених атомів Al та її близьке значення до енергії активації кінетики впорядкування. Комп’ютерні експерименти з кінетики впорядкування показали, що, на відміну від обмінного механізму, за вакансійного механізму дифузії кінетика впорядкування за типом $L1_{2}$ описується двома часами релаксації. Моделювання переривчастого процесу приповерхневої переорієнтації моноатомових площин Fe і Pt у тонкій плівці FePt, у свою чергу, стало хорошим тестом для стохастичного варіянту KMF (SKMF). Той факт, що введення стохастичного шуму виявилося необхідним для відтворення процесу поверхневої нуклеації, може свідчити про коректність методи.",
+		"en": "Tracer diffusion and ‘chemical’ (atomic) ordering processes in two face-centred cubic (f.c.c.) binary systems mimicking Ni$_{3}$Al and FePt were simulated by means of the kinetic mean-field (KMF) method originally proposed by G. Martin in 1990. The systems simulated within the present work were modelled with fixed pair-interaction parameters and saddle-point energies adopted earlier $via$ the comparison of Monte Carlo method modelling and experimental data. In a simulation of tracer migration as well as ordering, the focus was attracted to comparison of activation energies rather than pre-exponential factors of kinetic coefficients. Generally, the mean-field models cannot properly take into account correlation effect that could be important for the tracer diffusion especially for the $B$2 structures. However, at least for the f.c.c. structures, application of KMF to diffusion and ordering seems demonstrating very reasonable results qualitatively similar to those obtained in kinetic Monte Carlo (KMC) method and realistic experiments. Modelling of Ni- and Al-tracer diffusion in Ni$_{3}$Al system shows higher diffusivity of Ni atoms as compared with Al ones that is attributed to easier intrasublattice diffusion channel for the Ni atoms in the $L1_{2}$-Ni$_{3}$Al superstructure. Also, the obtained activation energy for the tracer Al atoms is higher, and its value is closer to activation energy of ordering kinetics. Computer experiments for the ordering kinetics showed that, in contrast to exchange mechanism, $L1_{2}$-type ordering kinetics is described $via$ two relaxation times in case of the vacancy diffusion mechanism. Modelling of the discontinuous process of the surface-induced re-orientation of the monatomic Fe and Pt planes in thin FePt film was, in turn, a good test for the stochastic variant of the KMF (SKMF) method. The fact that implementation of the stochastic noise was needed to reproduce the process of a surface nucleation by KMF indicates the correctness of the method.",
+		"ru": "В работе рассматривается диффузия меченых атомов и процесс «химического» (атомного) упорядочения в двух бинарных системах с гранецентрированной кубической (ГЦК) структурой Ni$_{3}$Al и FePt с использованием среднеполевого кинетического метода (KMF), предложенного Ж. Мартаном в 1990 г. Для указанных систем использовались фиксированные значения парных энергий взаимодействия и энергий седловой точки, подобранные ранее путём сравнения моделирования методом Монте-Карло и экспериментальных данных. В моделировании диффузии меченых атомов, а также упорядочения их основной акцент направлен на сравнение энергий активации, а не предэкспонентных множителей кинетических коэффициентов. В общем случае модели среднего поля не могут правильно учитывать корреляционный эффект, который может быть существенным для диффузии меченых атомов, особенно для структур типа $В$2. Однако, по крайней мере, для ГЦК-структур, применение KMF к диффузии и упорядочению демонстрирует достаточно реалистичные результаты, качественно схожие с теми, которые получаются из кинетического метода Монте-Карло и в реальных экспериментах. Моделирование диффузии меченых атомов Ni и Al в системе Ni$_{3}$Al демонстрирует более быструю диффузию атомов Ni, чем Al, что связано с более лёгкой диффузией атомов Ni по собственной подрешётке в сверхструктуре типа $L1_{2}$-Ni$_{3}$Al. Также получены более высокая энергия активации для меченых атомов Al и её близкое значение к энергии активации кинетики упорядочения. Компьютерные эксперименты по кинетике упорядочения показали, что, в отличие от обменного механизма, при вакансионном механизме диффузии кинетика упорядочения по типу $L1_{2}$ описывается двумя временами релаксации. Моделирование прерывистого процесса приповерхностной переориентации моноатомных плоскостей Fe и Pt в тонкой плёнке FePt, в свою очередь, стало хорошим тестом для стохастического варианта KMF (SKMF). Тот факт, что введение стохастического шума оказалось необходимым для воспроизведения процесса поверхностной нуклеации, может свидетельствовать о корректности метода."
+	},
+	"keywords": {
+		"ua": "кінетична середньопольова метода, дифузія значених атомів, кінетика впорядкування, атомістичне моделювання, інтерметаліди",
+		"en": "kinetic mean-field method, tracer diffusion, ordering kinetics, atomistic simulation, intermetallics",
+		"ru": "кинетический среднеполевой метод, диффузия меченых атомов, кинетика упорядочения, атомистическое моделирование, интерметаллиды"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. М. Безпальчук", "en": "V. M. Bezpalchuk", "ru": "В. Н. Безпальчук"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "Р. Козубскі", "en": "R. Kozubski", "ru": "Р. Козубски"},
+			"OID": [511]
+		},
+		{
+			"AID": {"ua": "А. М. Гусак", "en": "A. M. Gusak", "ru": "А. М. Гусак"},
+			"OID": [214]
+		}
+	],
+	"references": {
+		"count": 29,
+		"list":  [
+			{
+				"doi": "10.1007/978-3-642-82803-4",
+				"or":  "K. Binder, Monte Carlo Methods in Statistical Physics (Springer Berlin Heidelberg: 1986).",
+				"tr":  "K. Binder, Monte Carlo Methods in Statistical Physics (Springer Berlin Heidelberg: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "G. E. Murch, Diffusion in Crystalline Solids (Academic Press: 2012).",
+				"tr":  "G. E. Murch, Diffusion in Crystalline Solids (Academic Press: 2012)."
+			},
+			{
+				"doi": "10.1016/S0079-6425(97)00002-9",
+				"or":  "R. Kozubski, Progress in Materials Science, 41, Nos. 1–2: 1 (1997).",
+				"tr":  "R. Kozubski, Progress in Materials Science, 41, Nos. 1–2: 1 (1997)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.41.2279",
+				"or":  "G. Martin, Phys. Rev. B, 41, No. 4: 2279 (1990).",
+				"tr":  "G. Martin, Phys. Rev. B, 41, No. 4: 2279 (1990)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.89.165901",
+				"or":  "Z. Erdélyi, I. A. Szabó, and D. L. Beke, Phys. Rev. Lett., 89, No. 16: 165901 (2002).",
+				"tr":  "Z. Erdélyi, I. A. Szabó, and D. L. Beke, Phys. Rev. Lett., 89, No. 16: 165901 (2002)."
+			},
+			{
+				"doi": "10.1126/science.1104400",
+				"or":  "Z. Erdélyi, M. Sladecek, L. M. Stadler, I. Zizak, G. A. Langer, M. Kis-Varga, and B. Sepiol, Science, 306, No.5703: 1913 (2004).",
+				"tr":  "Z. Erdélyi, M. Sladecek, L. M. Stadler, I. Zizak, G. A. Langer, M. Kis-Varga, and B. Sepiol, Science, 306, No.5703: 1913 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.69.113407",
+				"or":  "Z. Erdélyi, G. L. Katona, and D. L. Beke, Phys. Rev. B, 69, No. 11: 113407 (2004).",
+				"tr":  "Z. Erdélyi, G. L. Katona, and D. L. Beke, Phys. Rev. B, 69, No. 11: 113407 (2004)."
+			},
+			{
+				"doi": "10.1063/1.2905334",
+				"or":  "Z. Erdélyi, D. L. Beke, and A. Taranovskyy, Appl. Phys. Lett., 92, No. 13: 133110 (2008).",
+				"tr":  "Z. Erdélyi, D. L. Beke, and A. Taranovskyy, Appl. Phys. Lett., 92, No. 13: 133110 (2008)."
+			},
+			{
+				"doi": "10.1080/14786435.2012.746793",
+				"or":  "N. V. Storozhuk, K. V. Sopiga, and A. M. Gusak, Phil. Mag., 93, No. 16: 1999 (2013).",
+				"tr":  "N. V. Storozhuk, K. V. Sopiga, and A. M. Gusak, Phil. Mag., 93, No. 16: 1999 (2013)."
+			},
+			{
+				"doi": "10.1016/j.cpc.2016.03.003",
+				"or":  "Z. Erdélyi, M. Pasichnyy, V. Bezpalchuk, J. J. Tomán, B. Gajdics, and A. M. Gusak, Computer Physics Communications, 204: 31 (2016).",
+				"tr":  "Z. Erdélyi, M. Pasichnyy, V. Bezpalchuk, J. J. Tomán, B. Gajdics, and A. M. Gusak, Computer Physics Communications, 204: 31 (2016)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.25.1759",
+				"or":  "J. M. Sanchez and D. De Fontaine, Phys. Rev. B, 25, No. 3: 1759 (1982).",
+				"tr":  "J. M. Sanchez and D. De Fontaine, Phys. Rev. B, 25, No. 3: 1759 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "A. G. Khachaturyan, Theory of Structural Transformations in Solids (Courier Corporation: 2013).",
+				"tr":  "A. G. Khachaturyan, Theory of Structural Transformations in Solids (Courier Corporation: 2013)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.46.5899",
+				"or":  "L. Q. Chen and A. G. Khachaturyan, Phys. Rev. B, 46, No. 10: 5899 (1992).",
+				"tr":  "L. Q. Chen and A. G. Khachaturyan, Phys. Rev. B, 46, No. 10: 5899 (1992)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(98)00015-9",
+				"or":  "Y. Wang, D. Banerjee, C. C. Su, and A. G. Khachaturyan, Acta Materialia, 46, No. 9: 2983 (1998).",
+				"tr":  "Y. Wang, D. Banerjee, C. C. Su, and A. G. Khachaturyan, Acta Materialia, 46, No. 9: 2983 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Inden, W. Pitsch, Materials Science and Technology. A Comprehensive Treatment (Eds. R. W. Cahn, P. Hansen, and E. J. Kramer) (VCH, Weinheim: 1991).",
+				"tr":  "G. Inden, W. Pitsch, Materials Science and Technology. A Comprehensive Treatment (Eds. R. W. Cahn, P. Hansen, and E. J. Kramer) (VCH, Weinheim: 1991)."
+			},
+			{
+				"doi": "",
+				"or":  "I. B. Borovsky, C. P. Gurov, I. D. Marchukova, and Yu. E. Ugaste, The Interdiffusion Processes in Alloys (Moscow: Nauka: 1973) (in Russian).",
+				"tr":  "I. B. Borovsky, C. P. Gurov, I. D. Marchukova, and Yu. E. Ugaste, The Interdiffusion Processes in Alloys (Moscow: Nauka: 1973) (in Russian)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/DF.2.191",
+				"or":  "A. Biborski, R. Kozubski, and V. Pierron-Bohnes, Diffusion Foundations, 2: 191 (2014).",
+				"tr":  "A. Biborski, R. Kozubski, and V. Pierron-Bohnes, Diffusion Foundations, 2: 191 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "N. Bogoliubov, The Dynamical Theory in Statistical Physics (Delhi: Hindustan Pub. Corp.: 1965).",
+				"tr":  "N. Bogoliubov, The Dynamical Theory in Statistical Physics (Delhi: Hindustan Pub. Corp.: 1965)."
+			},
+			{
+				"doi": "",
+				"or":  "K. P. Gurov ans A. M. Gusak, Fiz. Met. Metalloved., 59, No. 6: 1062 (1985) (in Russian).",
+				"tr":  "K. P. Gurov ans A. M. Gusak, Fiz. Met. Metalloved., 59, No. 6: 1062 (1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Rymar and А. М. Gusak, Cherkasy University Bulletin: Physical and Mathematical Sciences, 349, No. 16: 50 (2015) (in Ukrainian).",
+				"tr":  "O. M. Rymar and A. M. Gusak, Cherkasy University Bulletin: Physical and Mathematical Sciences, 349, No. 16: 50 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/mfint.37.12.1583",
+				"or":  "V. M. Bezpalchuk and A. M. Gusak, Metallofiz. Noveishie Tekhnol., 37, No. 12: 1583 (2015) (in Ukrainian).",
+				"tr":  "V. M. Bezpalchuk and A. M. Gusak, Metallofiz. Noveishie Tekhnol., 37, No. 12: 1583 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/mfint.38.09.1135",
+				"or":  "V. M. Bezpalchuk, M. O. Pasichnyy, A. M. Gusak, Metallofiz. Noveishie Tekhnol., 38, No. 9: 1135 (2016) (in Ukrainian).",
+				"tr":  "V. M. Bezpalchuk, M. O. Pasichnyy, A. M. Gusak, Metallofiz. Noveishie Tekhnol., 38, No. 9: 1135 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.63.174109",
+				"or":  "P. Oramus, R. Kozubski, V. Pierron-Bohnes, M. C. Cadeville, and W. Pfeiler, Phys. Rev. B, 63, No. 17: 174109 (2001).",
+				"tr":  "P. Oramus, R. Kozubski, V. Pierron-Bohnes, M. C. Cadeville, and W. Pfeiler, Phys. Rev. B, 63, No. 17: 174109 (2001)."
+			},
+			{
+				"doi": "10.1002/pssb.2221910105",
+				"or":  "S. T. Frank, U. Södervall, and C. Herzig, Physica Status Solidi B, 191, No. 1: 45 (1995).",
+				"tr":  "S. T. Frank, U. Södervall, and C. Herzig, Physica Status Solidi B, 191, No. 1: 45 (1995)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(98)00109-8",
+				"or":  "S. Divinski, S. Frank, U. Södervall, and C. Herzig, Acta Materialia, 46, No. 12: 4369 (1998).",
+				"tr":  "S. Divinski, S. Frank, U. Södervall, and C. Herzig, Acta Materialia, 46, No. 12: 4369 (1998)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/DF.1.3",
+				"or":  "M. Kozłowski, R. Kozubski, and C. Goyhenex, Diffusion Foundations, 1: 3 (2014).",
+				"tr":  "M. Kozłowski, R. Kozubski, and C. Goyhenex, Diffusion Foundations, 1: 3 (2014)."
+			},
+			{
+				"doi": "10.1016/j.intermet.2009.03.019",
+				"or":  "M. Kozłowski, R. Kozubski, C. Goyhenex, V. Pierron-Bohnes, M. Rennhofer, and S. Malinov, Intermetallics, 17, No. 11: 907 (2009).",
+				"tr":  "M. Kozłowski, R. Kozubski, C. Goyhenex, V. Pierron-Bohnes, M. Rennhofer, and S. Malinov, Intermetallics, 17, No. 11: 907 (2009)."
+			},
+			{
+				"doi": "10.1016/j.intermet.2010.06.011",
+				"or":  "M. Rennhofer, M. Kozlowski, B. Laenens, B. Sepiol, R. Kozubski, D. Smeets, and A. Vantomme, Intermetallics, 18, No. 11: 2069 (2010).",
+				"tr":  "M. Rennhofer, M. Kozlowski, B. Laenens, B. Sepiol, R. Kozubski, D. Smeets, and A. Vantomme, Intermetallics, 18, No. 11: 2069 (2010)."
+			},
+			{
+				"doi": "10.1016/j.commatsci.2004.12.012",
+				"or":  "M. Kozłowski, R. Kozubski, V. Pierron-Bohnes, and W. Pfeiler, Computational Materials Science, 33, Nos. 1–3: 287 (2005).",
+				"tr":  "M. Kozłowski, R. Kozubski, V. Pierron-Bohnes, and W. Pfeiler, Computational Materials Science, 33, Nos. 1–3: 287 (2005)."
+			}
+		]
+	}
+}

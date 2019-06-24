@@ -1,0 +1,252 @@
+{
+	"_id":    "UFM.13.04.383",
+	"year":   2012,
+	"volume": 13,
+	"issue":  4,
+	"pages":  [383,395],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["27.06.2012"],
+	"PACS":   "61.50.Ks, 71.15.Mb, 71.15.Nc, 75.50.Bb, 81.30.Bx, 82.60.Cx, 82.60.Lf",
+	"title":   {
+		"ua": "Термодинаміка утворення гідрогенізованого пермалою за високого тиску на основі підходу із перших принципів",
+		"en": "Thermodynamics of Formation of the Hydrogenated Permalloy under High Pressure on the Basis of the Approach from the First Principles",
+		"ru": "Термодинамика образования гидрогенизированного премаллоя при высоком давлении на основе подхода из первых принципов"
+	},
+	"abstract": {
+		"ua": "Досліджено термодинаміку утворення гідрогенізованого пермалою під високим тиском у рамках першопринципного підходу. Термодинамічні потенціяли реакцій утворення фаз з різним вмістом водню розраховано на основі теорії функціонала електронної густини. Побудовано фазову діяграму системи пермалой–водень у широкому інтервалі тисків, яка підтверджує стійкість таких сполук при заданих термодинамічних параметрах. Зіставлення з наявними експериментальними даними демонструє хороше узгодження між теоретичною і експериментальною фазовими діяграмами.",
+		"en": "Thermodynamics of formation of the hydrogenated permalloy is explored at a high pressure within the scope of the ab initio approach. Thermodynamic potentials of reactions of formation of the phases with the various content of hydrogen are calculated on the basis of the density functional theory. The permalloy–hydrogen phase diagram in a wide range of pressures is plotted and confirms stability of such compounds at given thermodynamic parameters. Comparison with available experimental data shows a good agreement between the theoretical and experimental phase diagrams.",
+		"ru": "Исследована термодинамика образования гидрогенизированного пермаллоя при высоком давлении в рамках первопринципного подхода. Термодинамические потенциалы реакций образования фаз с различным содержанием водорода рассчитаны на основе теории функционала электронной плотности. Построена фазовая диаграмма системы пермаллой–водород в широком интервале давлений, которая подтверждает устойчивость таких соединений при заданных термодинамических параметрах. Сопоставление с имеющимися экспериментальными данными демонстрирует хорошее согласие между теоретической и экспериментальной фазовыми диаграммами."
+	},
+	"keywords": {
+		"ua": "водень в металах, пермалой, високі тиски, термодинаміка насичення металів воднем",
+		"en": "hydrogen in metals, permalloy, high pressures, thermodynamics of hydrogen-saturation of metals",
+		"ru": "водород в металлах, пермаллой, высокие давления, термодинамика насыщения металлов водородом"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. Є. Красовський", "en": "O. E. Krasovskii", "ru": "А. Е. Красовский"},
+			"OID": [7]
+		}
+	],
+	"references": {
+		"count": 43,
+		"list":  [
+			{
+				"doi": "10.1088/0034-4885/59/1/002",
+				"or":  "W. B. Holzapfel, Rep. Prog. Phys., 59: 29 (1996).",
+				"tr":  "W. B. Holzapfel, Rep. Prog. Phys., 59: 29 (1996)."
+			},
+			{
+				"doi": "10.1016/0031-9201(94)90120-1",
+				"or":  "J. P. Poirier, Phys. Earth Planet. Inter., 85: 319 (1994).",
+				"tr":  "J. P. Poirier, Phys. Earth Planet. Inter., 85: 319 (1994)."
+			},
+			{
+				"doi": "10.1038/325332a0",
+				"or":  "A. Jephcoat and P. Olson, Nature, 325: 332 (1987).",
+				"tr":  "A. Jephcoat and P. Olson, Nature, 325: 332 (1987)."
+			},
+			{
+				"doi": "10.1038/268130a0",
+				"or":  "D. J. Stevenson, Nature, 268: 130 (1977).",
+				"tr":  "D. J. Stevenson, Nature, 268: 130 (1977)."
+			},
+			{
+				"doi": "10.1029/JB091iB09p09222",
+				"or":  "Y. Fukai and T. Suzuki, J. Geophys. Res., 91, No. B9: 9222 (1986).",
+				"tr":  "Y. Fukai and T. Suzuki, J. Geophys. Res., 91, No. B9: 9222 (1986)."
+			},
+			{
+				"doi": "10.1126/science.278.5344.1781",
+				"or":  "T. Okuchi, Science, 278, No. 5344: 1781 (1997).",
+				"tr":  "T. Okuchi, Science, 278, No. 5344: 1781 (1997)."
+			},
+			{
+				"doi": "10.1146/annurev.earth.29.1.365",
+				"or":  "Q. Williams and R. J. Hemley, Ann. Rev. Earth Planet. Sci., 29: 365 (2001).",
+				"tr":  "Q. Williams and R. J. Hemley, Ann. Rev. Earth Planet. Sci., 29: 365 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "V. E. Antonov, I. T. Belash, V. F. Degtyareva et al., Doklady Akademii Nauk SSSR, 252, No. 6: 1384 (1980) (in Russian); English translation: Soviet Physics–Dokl., 25: 490 (1980).",
+				"tr":  "V. E. Antonov, I. T. Belash, V. F. Degtyareva et al., Doklady Akademii Nauk SSSR, 252, No. 6: 1384 (1980) (in Russian); English translation: Soviet Physics–Dokl., 25: 490 (1980)."
+			},
+			{
+				"doi": "10.1143/JJAP.21.L318",
+				"or":  "Y. Fukai, A. Fukizawa, K. Watanabe, and M. Amano, Japan. J. Appl. Phys, 21, No. 5: L318 (1982).",
+				"tr":  "Y. Fukai, A. Fukizawa, K. Watanabe, and M. Amano, Japan. J. Appl. Phys, 21, No. 5: L318 (1982)."
+			},
+			{
+				"doi": "10.2320/matertrans1960.24.733",
+				"or":  "Y. Fukai and H. Sugimoto, Trans. Japan Inst. Metals, 24, No. 11: 733 (1983).",
+				"tr":  "Y. Fukai and H. Sugimoto, Trans. Japan Inst. Metals, 24, No. 11: 733 (1983)."
+			},
+			{
+				"doi": "10.1016/0022-5088(82)90021-2",
+				"or":  "Y. Sakamoto, K. Yuwasa, and K. Hirayama, J. Less-Common Metals, 88: 115 (1982).",
+				"tr":  "Y. Sakamoto, K. Yuwasa, and K. Hirayama, J. Less-Common Metals, 88: 115 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "Y. Shizuku, S. Yamamoto, and Y. Fukai, J. Alloys Comp., 336: 159 (2002).",
+				"tr":  "Y. Shizuku, S. Yamamoto, and Y. Fukai, J. Alloys Comp., 336: 159 (2002)."
+			},
+			{
+				"doi": "10.1016/S0022-3697(71)80012-4",
+				"or":  "M. L.Wayman and G. C. Smith, J. Phys. Chem. Solids, 32: 103 (1971).",
+				"tr":  "M. L.Wayman and G. C. Smith, J. Phys. Chem. Solids, 32: 103 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "V. E. Antonov, I. T. Belash, V. F. Degtyareva et al., Fizika Tverdogo Tela, 20, No. 9: 2680 (1978) (in Russian); English translation: Soviet Physics–Solid State, 20: 1548 (1978)).",
+				"tr":  "V. E. Antonov, I. T. Belash, V. F. Degtyareva et al., Fizika Tverdogo Tela, 20, No. 9: 2680 (1978) (in Russian); English translation: Soviet Physics–Solid State, 20: 1548 (1978))."
+			},
+			{
+				"doi": "",
+				"or":  "B. Baranowski, Ber. Bunsen-Gesellschaft Phys. Chem., 76, No. 8: 714 (1972).",
+				"tr":  "B. Baranowski, Ber. Bunsen-Gesellschaft Phys. Chem., 76, No. 8: 714 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Baranowski and S. Filipek, Roczniki Chemii, 41, No. 11: 2165 (1973) (in Polish).",
+				"tr":  "B. Baranowski and S. Filipek, Roczniki Chemii, 41, No. 11: 2165 (1973) (in Polish)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Yu. Zaginaychenko, Z. A. Matysina, and M. I. Milyan, Phys. Met. Metallogr., 70: 60 (1990) (Translated from Fizika Metallov i Metallovedenie, 9: 63 (1990)).",
+				"tr":  "S. Yu. Zaginaychenko, Z. A. Matysina, and M. I. Milyan, Phys. Met. Metallogr., 70: 60 (1990) (Translated from Fizika Metallov i Metallovedenie, 9: 63 (1990))."
+			},
+			{
+				"doi": "",
+				"or":  "Z. A. Matysina and M. I. Milyan, Russ. Metall., 2: 171 (1990) (Translated from Izvestiya Akademii Nauk SSSR. Metally, 2: 175 (1990)).",
+				"tr":  "Z. A. Matysina and M. I. Milyan, Russ. Metall., 2: 171 (1990) (Translated from Izvestiya Akademii Nauk SSSR. Metally, 2: 175 (1990))."
+			},
+			{
+				"doi": "10.15407/ufm.11.03.295",
+				"or":  "А. Е. Красовский, Успехи физ. мет., 11: 295 (2010).",
+				"tr":  "A. E. Krasovskiy, Usp. Fiz. Met., 11: 295 (2010)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.41.12413",
+				"or":  "O. B. Christensen et al., Phys. Rev. B, 41, No. 18: 12413 (1990).",
+				"tr":  "O. B. Christensen et al., Phys. Rev. B, 41, No. 18: 12413 (1990)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.66.144107",
+				"or":  "H. Smithson et al., Phys. Rev. B, 66, No. 14: 144107 (2002).",
+				"tr":  "H. Smithson et al., Phys. Rev. B, 66, No. 14: 144107 (2002)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.74.052405",
+				"or":  "X. San et al., Phys. Rev. B, 74, No. 5: 052405 (2006).",
+				"tr":  "X. San et al., Phys. Rev. B, 74, No. 5: 052405 (2006)."
+			},
+			{
+				"doi": "10.1016/S0022-3697(02)00354-2",
+				"or":  "M. E. Pronsato, G. Brizuela, and A. Juan, J. Phys. Chem. Solids, 64: 593 (2003).",
+				"tr":  "M. E. Pronsato, G. Brizuela, and A. Juan, J. Phys. Chem. Solids, 64: 593 (2003)."
+			},
+			{
+				"doi": "10.1016/S0360-3199(03)00218-0",
+				"or":  "S. Simonetti, L. Moro, N. E. Gonzalez, G. Brizuela, and A. Juan, Int. J. Hydrogen Energy, 29: 649 (2004).",
+				"tr":  "S. Simonetti, L. Moro, N. E. Gonzalez, G. Brizuela, and A. Juan, Int. J. Hydrogen Energy, 29: 649 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Mikhaylushkin et al., Second International Symposium on Hydrogen in Matter—ISOHIM (Eds. G. R. Myneni and B. Hjorvarsson) (2006), vol. 164, CP837.",
+				"tr":  "S. Mikhaylushkin et al., Second International Symposium on Hydrogen in Matter—ISOHIM (Eds. G. R. Myneni and B. Hjorvarsson) (2006), vol. 164, CP837."
+			},
+			{
+				"doi": "10.1103/PhysRevB.60.12788",
+				"or":  "A. E. Krasovskii, Phys. Rev. B, 60, No. 18: 12788 (1999).",
+				"tr":  "A. E. Krasovskii, Phys. Rev. B, 60, No. 18: 12788 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.77.3865",
+				"or":  "J. Perdew, K. Burke, and M. Ernzhofer, Phys. Rev. Lett., 77, No. 18: 3865 (1996).",
+				"tr":  "J. Perdew, K. Burke, and M. Ernzhofer, Phys. Rev. Lett., 77, No. 18: 3865 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.67.134407",
+				"or":  "A. E. Krasovskii, Phys. Rev. B, 67, No. 7: 134407 (2003).",
+				"tr":  "A. E. Krasovskii, Phys. Rev. B, 67, No. 7: 134407 (2003)."
+			},
+			{
+				"doi": "10.1016/j.comphy.2003.12.001",
+				"or":  "M. A. Blanco, E. Francisco, and V. Luaña, Comput. Phys. Commun., 158: 57 (2004).",
+				"tr":  "M. A. Blanco, E. Francisco, and V. Lua-a, Comput. Phys. Commun., 158: 57 (2004)."
+			},
+			{
+				"doi": "10.1017/CBO9780511840234",
+				"or":  "J. P. O’Connell and J. M. Haile, Thermodynamics. Fundamentals for Applications (New York: Cambridge University Press: 2005).",
+				"tr":  "J. P. O'Connell and J. M. Haile, Thermodynamics. Fundamentals for Applications (New York: Cambridge University Press: 2005)."
+			},
+			{
+				"doi": "10.1017/CBO9780511840258",
+				"or":  "G. M. Anderson, Thermodynamics of Natural Systems. 2nd Edition (New York: Cambridge University Press: 2005).",
+				"tr":  "G. M. Anderson, Thermodynamics of Natural Systems. 2nd Edition (New York: Cambridge University Press: 2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Статистическая физика. Ч. 1. (Москва: Наука: 1976).",
+				"tr":  "L. D. Landau, E. M. Lifshits, Statisticheskaya fizika. Ch. 1. (Moskva: Nauka: 1976)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.66.671",
+				"or":  "H.-K. Mao and R. J. Hemley, Rev. Mod. Phys., 66, No. 2: 671 (1994).",
+				"tr":  "H.-K. Mao and R. J. Hemley, Rev. Mod. Phys., 66, No. 2: 671 (1994)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.73.33",
+				"or":  "W. M. C. Foulkes, L. Mitas, R. J. Needs, and G. Rajagopal, Rev. Mod. Phys., 73, No. 1: 33 (2001).",
+				"tr":  "W. M. C. Foulkes, L. Mitas, R. J. Needs, and G. Rajagopal, Rev. Mod. Phys., 73, No. 1: 33 (2001)."
+			},
+			{
+				"doi": "10.1063/1.1575196",
+				"or":  "K. Matsuishi, E. Gregoryanz, Ho-kwang Mao, and R. J. Hemley, J. Chem. Phys., 118, No. 23: 10683 (2003).",
+				"tr":  "K. Matsuishi, E. Gregoryanz, Ho-kwang Mao, and R. J. Hemley, J. Chem. Phys., 118, No. 23: 10683 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Vinet, J. Ferrante, J. Rose, and J. Smith, J. Geophys. Res., 92: 9319 (1987͒).",
+				"tr":  "P. Vinet, J. Ferrante, J. Rose, and J. Smith, J. Geophys. Res., 92: 9319 (1987͒)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.36.2092",
+				"or":  "I. D. M. Ceperley and B. J. Adler, Phys. Rev. B, 36, No. 4: 2092 (1987).",
+				"tr":  "I. D. M. Ceperley and B. J. Adler, Phys. Rev. B, 36, No. 4: 2092 (1987)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.52.393",
+				"or":  "I. F. Silvera, Rev. Mod. Phys., 52, No. 2: 393 (1980).",
+				"tr":  "I. F. Silvera, Rev. Mod. Phys., 52, No. 2: 393 (1980)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.47.39",
+				"or":  "I. F. Silvera and R.J. Wijngaarden, Phys. Rev. Lett., 47: 39 (1981).",
+				"tr":  "I. F. Silvera and R.J. Wijngaarden, Phys. Rev. Lett., 47: 39 (1981)."
+			},
+			{
+				"doi": "10.3367/UFNr.0169.199911c.1223",
+				"or":  "Е. Г. Максимов, Ю. И. Шилов, Успехи физ. наук, 19, №11: 1223 (1999).",
+				"tr":  "E. G. Maksimov, Yu. I. Shilov, Uspekhi Fiz. Nauk, 19, No. 11: 1223 (1999)."
+			},
+			{
+				"doi": "10.2320/matertrans1960.24.733",
+				"or":  "Y. Fukai and H. Suigimoto, Trans. Japan Inst. Metals, 24, No. 11: 733 (1983).",
+				"tr":  "Y. Fukai and H. Suigimoto, Trans. Japan Inst. Metals, 24, No. 11: 733 (1983)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.107.117002",
+				"or":  "D. Y. Kim et al., Phys. Rev. Lett., 107: 117002 (2011).",
+				"tr":  "D. Y. Kim et al., Phys. Rev. Lett., 107: 117002 (2011)."
+			},
+			{
+				"doi": "10.1088/0953-8984/14/25/311",
+				"or":  "V. E. Antonov et al., J. Phys.: Condens. Matter, 14: 6427 (2002).",
+				"tr":  "V. E. Antonov et al., J. Phys.: Condens. Matter, 14: 6427 (2002)."
+			}
+		]
+	}
+}

@@ -1,0 +1,564 @@
+{
+	"_id":    "UFM.11.04.461",
+	"year":   2010,
+	"volume": 11,
+	"issue":  4,
+	"pages":  [461,508],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["27.10.2010"],
+	"PACS":   "68.55.jd, 68.65.Ac, 72.10.Fk, 72.15.Lh, 73.40.Jn, 73.50.Bk, 73.50.Jt",
+	"title":   {
+		"ua": "Кінетичні розмірні ефекти у багатошарових плівках з полікристалічною структурою",
+		"en": "Kinetic Size Effects in Multilayer Films with a Polycrystalline Structure",
+		"ru": "Кинетические размерные эффекты в многослойных плёнках с поликристаллической структурой"
+	},
+	"abstract": {
+		"ua": "В огляді систематизовано результати теоретичних та експериментальних досліджень транспортних розмірних ефектів у багатошарових плівках (БП) з полікристалічною структурою, кінетичні характеристики яких суттєво відрізняються від відповідних характеристик масивних металів і тонких металевих плівок. Основною причиною такої відмінности є взаємодія носіїв заряду з інтерфейсами та з міжкристалітними межами мультишару. Зазначена взаємодія призводить до додаткового розсіяння електронів, і числові значення транспортних коефіцієнтів БП можуть бути як значно більшими, так і меншими у порівнянні з відповідними коефіцієнтами для однорідних одношарових плівок, з яких складається мультишар, а їх розмірні залежності є немонотонними. Розглянуті в огляді кінетичні ефекти можуть бути використані не лише для аналізи електронного транспорту у полікристалічних мультишарах, а й у багатошарових плівках з монокристалічною структурою, а з врахуванням формальної відповідности між мультишаром та двошаровою плівкою – і у двошаровій плівці з моно- та полікристалічними структурами.",
+		"en": "In a given review, the results of theoretical and experimental investigations of transport size effects in multilayer polycrystalline films (MLF), whose kinetic characteristics are appreciably differing from the characteristics of bulk metals and thin films forming these multilayers, are systemized. Interaction of current carriers with both the interfaces and the grain boundaries is the main cause of the difference. It leads to the nonmonotonic dependence of transport coefficients on the layer thicknesses and applied magnetic field. The kinetic effects discussed in the review may be used to analyse electron transport in single-crystalline multilayer films. Moreover, taking into account a formal equivalence between the multilayer and the two-layer film, one may use these results to investigate transport characteristics of bilayer films.",
+		"ru": "В обзоре систематизированы результаты теоретических и экспериментальных исследований транспортных размерных эффектов в многослойной плёнке (МС) с поликристаллической структурой, кинетические характеристики которой существенно отличаются от соответствующих характеристик массивных металлов и тонких металлических плёнок. Основной причиной такого отличия является взаимодействие носителей заряда с интерфейсами и с межкристаллитными границами мультислоя. Указанное взаимодействие приводит к дополнительному рассеянию носителей заряда, и численные транспортные коэффициенты могут быть как значительно больше, так и меньше по сравнению с соответствующими коэффициентами однородных плёнок, а размерные зависимости кинетических коэффициентов в многослойной плёнке являются немонотонными. Рассмотренные в обзоре эффекты могут быть использованы не только для анализа транспортных коэффициентов в многослойной поликристаллической плёнке, но и в мультислое с монокристаллической структурой, а при учёте формального соответствия между мультислоем и двухслойной плёнкой – также в двухслойных плёнках с моно- и поликристаллической структурами."
+	},
+	"keywords": {
+		"ua": "багатошарова полікристалічна плівка, магнетоопір, провідність, теплопровідність, температурний коефіцієнт опору, коефіцієнти поперечної та поздовжньої тензочутливостей, модифікований модель Маядаса і Шацкеса, внутрішній розмірний ефект, параметри дзеркальности",
+		"en": "multilayer polycrystal film, magnetoresistance, conductivity, heat conduction, temperature coefficient of resistance, longitudinal and transverse tensosensitivity coefficients, Mayadas–Shatzkes modified model, internal sized effects, specularity parameters",
+		"ru": "многослойная поликристаллическая плёнка, магнитосопротивление, проводимость, теплопроводность, температурный коэффициент сопротивления, коэффициенты поперечной и продольной тензочувствительностей, модифицированная модель Маядаса и Шацкеса, внутренний размерный эффект, параметры зеркальности"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. Г. Басов", "en": "A. G. Basov", "ru": "А. Г. Басов"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "Ю. О. Шкурдода", "en": "Yu. O. Shkurdoda", "ru": "Ю. А. Шкурдода"},
+			"OID": [219]
+		},
+		{
+			"AID": {"ua": "Л. В. Дехтярук", "en": "L. V. Dekhtyaruk", "ru": "Л. В. Дехтярук"},
+			"OID": [238]
+		},
+		{
+			"AID": {"ua": "А. М. Чорноус", "en": "A. M. Chornous", "ru": "А. Н. Чорноус"},
+			"OID": [208]
+		}
+	],
+	"references": {
+		"count": 103,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "I. Stone, Phys. Rev., 6, No. 1: 1 (1898).",
+				"tr":  "I. Stone, Phys. Rev., 6, No. 1: 1 (1898)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Patterson, Proc. Cambridge Phil. Soc., 11: 118 (1901).",
+				"tr":  "J. Patterson, Proc. Cambridge Phil. Soc., 11: 118 (1901)."
+			},
+			{
+				"doi": "",
+				"or":  "J. J. Thomson, Proc. Cambridge Phil. Soc., 11: 120 (1901).",
+				"tr":  "J. J. Thomson, Proc. Cambridge Phil. Soc., 11: 120 (1901)."
+			},
+			{
+				"doi": "10.1098/rspa.1936.0197",
+				"or":  "A. C. B. Lovell, Proc. Roy. Soc., A157: 311 (1936).",
+				"tr":  "A. C. B. Lovell, Proc. Roy. Soc., A157: 311 (1936)."
+			},
+			{
+				"doi": "10.1098/rspa.1938.0092",
+				"or":  "A. C. B. Lovell, Proc. Roy. Soc., A166: 270 (1938).",
+				"tr":  "A. C. B. Lovell, Proc. Roy. Soc., A166: 270 (1938)."
+			},
+			{
+				"doi": "10.1017/S0305004100019952",
+				"or":  "K. Fuchs, Cambridge Phil. Soc., A34, No. 1: 100 (1938).",
+				"tr":  "K. Fuchs, Cambridge Phil. Soc., A34, No. 1: 100 (1938)."
+			},
+			{
+				"doi": "10.1063/1.1703100",
+				"or":  "M. S. P. Lucas, J. Appl. Phys., 36, No. 5: 1632 (1965).",
+				"tr":  "M. S. P. Lucas, J. Appl. Phys., 36, No. 5: 1632 (1965)."
+			},
+			{
+				"doi": "10.1063/1.1707857",
+				"or":  "H. J. Juretschke, J. Appl. Phys., 37, No.1: 435 (1966).",
+				"tr":  "H. J. Juretschke, J. Appl. Phys., 37, No.1: 435 (1966)."
+			},
+			{
+				"doi": "10.1098/rspa.1950.0077",
+				"or":  "R. B. Dingle, Proc. Roy. Soc., A201, No. 1073: 545 (1950).",
+				"tr":  "R. B. Dingle, Proc. Roy. Soc., A201, No. 1073: 545 (1950)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. В. Завитаев, А. А. Юшканов, ЖЭТФ, 130, вып. 5 (11): 887 (2006).",
+				"tr":  "E. V. Zavitaev, A. A. Yushkanov, ZhETF, 130, No. 5 (11): 887 (2006)."
+			},
+			{
+				"doi": "10.1098/rspa.1950.0136",
+				"or":  "D. K. Mac-Donald and Sarginson, Proc. Roy. Soc., A201, No. 1073: 223 (1950).",
+				"tr":  "D. K. Mac-Donald and Sarginson, Proc. Roy. Soc., A201, No. 1073: 223 (1950)."
+			},
+			{
+				"doi": "10.1080/14786436608211970",
+				"or":  "E. Ditlefsen and J. Lothe, Phil. Mag., 14, No. 130: 759 (1966).",
+				"tr":  "E. Ditlefsen and J. Lothe, Phil. Mag., 14, No. 130: 759 (1966)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. В. Завитаев, А. А. Юшканов, ЖЭТФ, 129, вып. 5 (11): 938 (2006).",
+				"tr":  "E. V. Zavitaev, A. A. Yushkanov, ZhETF, 129, No. 5 (11): 938 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Бойко, А. П. Кащин, М. З. Максимов и др., Укр. физ. ж., 41, № 1: 63 (1996).",
+				"tr":  "V. V. Boiko, A. P. Kashchin, M. Z. Maksimov i dr., Ukrainian Physical Journal, 41, No. 1: 63 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.1.1382",
+				"or":  "A. F. Mayadas and M. Shatzkes, Phys. Rev. B, 1, No. 4: 1382 (1970).",
+				"tr":  "A. F. Mayadas and M. Shatzkes, Phys. Rev. B, 1, No. 4: 1382 (1970)."
+			},
+			{
+				"doi": "10.1002/pssa.2210730141",
+				"or":  "A. M. Ghodgaonkar and K. Ramani, Phys. Status Solidi A, 73, No. 1: K21 (1982).",
+				"tr":  "A. M. Ghodgaonkar and K. Ramani, Phys. Status Solidi A, 73, No. 1: K21 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Білоус, Л. В. Дехтярук, А. М. Чорноус, Металлофиз. новейшие технол., 23, № 1: 43 (2001).",
+				"tr":  "O. A. Bіlous, L. V. Dekhtyaruk, A. M. Chornous, Metallofiz. Noveishie Tekhnol., 23, No. 1: 43 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Басов, Л. В. Дехтярук, Ю. О. Шкурдода, А. М. Чорноус, Ж. нано- та електронної фізики, 2, № 2: 6 (2010).",
+				"tr":  "A. G. Basov, L. V. Dekhtyaruk, Yu. O. Shkurdoda, A. M. Chornous, Zh. nano- ta elektronnoї fіziki, 2, No. 2: 6 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Білоус, Л. В. Дехтярук, С. І. Проценко, А. М. Чорноус, Вісник СумДУ. Сер. Фізика, математика, механіка, № 3 (24)–4 (25): 67 (2001).",
+				"tr":  "O. A. Bіlous, L. V. Dekhtyaruk, S. І. Protsenko, A. M. Chornous, Vіsnik SumDU. Ser. Fіzika, matematika, mekhanіka, No. 3 (24)–4 (25): 67 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Дехтярук, Є. О. Забіла, С. І. Проценко, А. М. Чорноус, Металлофиз. новейшие технол., 26, № 10: 1333 (2004).",
+				"tr":  "L. V. Dekhtyaruk, Ye. O. Zabіla, S. І. Protsenko, A. M. Chornous, Metallofiz. Noveishie Tekhnol., 26, No. 10: 1333 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Басов, Ю. О. Шкурдода, Л. В. Дехтярук, Наук. вісник Ужгород. у-ту. Сер. Фізика, 28: 14 (2010).",
+				"tr":  "A. G. Basov, Yu. O. Shkurdoda, L. V. Dekhtyaruk, Nauk. Vіsnik Uzhgorod University Ser. Fіzika, 28: 14 (2010)."
+			},
+			{
+				"doi": "10.1155/APEC.5.197",
+				"or":  "F. Warkusz, Electrocomponent Science and Technology, 5, No. 3: 197 (1978).",
+				"tr":  "F. Warkusz, Electrocomponent Science and Technology, 5, No. 3: 197 (1978)."
+			},
+			{
+				"doi": "10.1016/0079-6816(80)90003-9",
+				"or":  "F. Warkusz, Progr. Surf. Sci., 10: 287 (1980).",
+				"tr":  "F. Warkusz, Progr. Surf. Sci., 10: 287 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "F. Warkusz, Acta Phys. Pol., A54, No. 1: 31 (1978).",
+				"tr":  "F. Warkusz, Acta Phys. Pol., A54, No. 1: 31 (1978)."
+			},
+			{
+				"doi": "10.1007/BF00738636",
+				"or":  "C. R. Pichard, A. J. Tosser, and C. R. Tellier, J. Mater. Sci., 16, No. 4: 451 (1981).",
+				"tr":  "C. R. Pichard, A. J. Tosser, and C. R. Tellier, J. Mater. Sci., 16, No. 4: 451 (1981)."
+			},
+			{
+				"doi": "10.1016/0040-6090(80)90362-4",
+				"or":  "C. R. Tellier and A. J. Tosser, Thin Solid Films, 70, No. 3: 225 (1980).",
+				"tr":  "C. R. Tellier and A. J. Tosser, Thin Solid Films, 70, No. 3: 225 (1980)."
+			},
+			{
+				"doi": "10.1016/0040-6090(81)90244-3",
+				"or":  "C. R. Tellier, C. R. Pichard, and A. J. Tosser, Thin Solid Films, 76, No. 2: 129 (1981).",
+				"tr":  "C. R. Tellier, C. R. Pichard, and A. J. Tosser, Thin Solid Films, 76, No. 2: 129 (1981)."
+			},
+			{
+				"doi": "10.1002/pssa.2210650138",
+				"or":  "C. R. Pichard, C. R. Tellier, and A. J. Tosser, Phys. Status Solidi A, 65, No. 1: 327 (1981).",
+				"tr":  "C. R. Pichard, C. R. Tellier, and A. J. Tosser, Phys. Status Solidi A, 65, No. 1: 327 (1981)."
+			},
+			{
+				"doi": "10.1007/BF00552312",
+				"or":  "C. R. Pichard, C. R. Tellier, and A. J. Tosser, J. Mater. Scien., 15, No. 9: 2236 (1980).",
+				"tr":  "C. R. Pichard, C. R. Tellier, and A. J. Tosser, J. Mater. Scien., 15, No. 9: 2236 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "C. R. Tellier and A. J. Tosser, Size Effects in Thin Films (Amsterdam–Oxford–New York: ESPC: 1982).",
+				"tr":  "C. R. Tellier and A. J. Tosser, Size Effects in Thin Films (Amsterdam–Oxford–New York: ESPC: 1982)."
+			},
+			{
+				"doi": "10.1016/0040-6090(79)90305-5",
+				"or":  "C. R. Pichard, C. R. Tellier, and A. J. Tosser, Thin Solid Films, 62, No. 2: 189 (1979).",
+				"tr":  "C. R. Pichard, C. R. Tellier, and A. J. Tosser, Thin Solid Films, 62, No. 2: 189 (1979)."
+			},
+			{
+				"doi": "10.1007/BF00542391",
+				"or":  "C. R. Tellier, C. R. Pichard, and F. J. Tosser, J. Mater. Sci., 16, No. 8: 2281 (1981).",
+				"tr":  "C. R. Tellier, C. R. Pichard, and F. J. Tosser, J. Mater. Sci., 16, No. 8: 2281 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. М. Фреїк, Я. П. Салій, М. Е. Калинюк, Укр. фіз. ж., 45, № 11: 1375 (2000).",
+				"tr":  "D. M. Freik, Ya. P. Salii, M. E. Kalinyuk, Ukr. fiz. zh., 45, No. 11: 1375 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRev.110.1254",
+				"or":  "R. L. Petritz, Phys. Rev., 116, No. 6: 1254 (1958).",
+				"tr":  "R. L. Petritz, Phys. Rev., 116, No. 6: 1254 (1958)."
+			},
+			{
+				"doi": "10.1063/1.1753968",
+				"or":  "M. S. P. Lucas, Appl. Phys. Lett., 4, No. 4: 73 (1964).",
+				"tr":  "M. S. P. Lucas, Appl. Phys. Lett., 4, No. 4: 73 (1964)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.41.1619",
+				"or":  "G. Bergmann, Phys. Rev. Lett., 41, No. 23: 1619 (1978).",
+				"tr":  "G. Bergmann, Phys. Rev. Lett., 41, No. 23: 1619 (1978)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.19.3933",
+				"or":  "G. Bergmann, Phys. Rev. B, 19, No. 8: 3933 (1979).",
+				"tr":  "G. Bergmann, Phys. Rev. B, 19, No. 8: 3933 (1979)."
+			},
+			{
+				"doi": "10.1016/0038-1098(88)90888-5",
+				"or":  "J. W. C. de Vries, Sol. State Commun., 65, No. 3: 201 (1988).",
+				"tr":  "J. W. C. de Vries, Sol. State Commun., 65, No. 3: 201 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. О. Шкурдода, В. Б. Лобода, Л. В. Дехтярук, Металлофиз. новейшие технол., 30, № 3: 295 (2008).",
+				"tr":  "Yu. O. Shkurdoda, V. B. Loboda, L. V. Dekhtyaruk, Metallofiz. Noveishie Tekhnol., 30, No. 3: 295 (2008)."
+			},
+			{
+				"doi": "10.1063/1.332214",
+				"or":  "P. F. Carcia and A. Suna, J. Appl. Phys., 54, No. 4: 2000 (1983).",
+				"tr":  "P. F. Carcia and A. Suna, J. Appl. Phys., 54, No. 4: 2000 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "Metallic Superlattices. (Eds. T. Shinjo and T. Takada) (Elsevier Scientific Publishing Company: 1987).",
+				"tr":  "Metallic Superlattices. (Eds. T. Shinjo and T. Takada) (Elsevier Scientific Publishing Company: 1987)."
+			},
+			{
+				"doi": "10.1080/00018738900101112",
+				"or":  "B. Y. Jin and J. B. Ketterson, Adv. Phys., 38, No. 3: 189 (1989).",
+				"tr":  "B. Y. Jin and J. B. Ketterson, Adv. Phys., 38, No. 3: 189 (1989)."
+			},
+			{
+				"doi": "10.1016/0040-6090(74)90014-5",
+				"or":  "V. Bezak, M. Kedro, and A. Pevala, Thin Solid Films, 23, No. 3: 305 (1974).",
+				"tr":  "V. Bezak, M. Kedro, and A. Pevala, Thin Solid Films, 23, No. 3: 305 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "М. И. Каганов, В. Б. Фикс, ЖЭТФ, 73, вып. 2 (8): 753 (1977).",
+				"tr":  "M. I. Kaganov, V. B. Fiks, ZhETF, 73, No. 2 (8): 753 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Устинов, ФММ, 49, вып. 1: 31 (1980).",
+				"tr":  "V. V. Ustinov, FMM, 49, No. 1: 31 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Дехтярук, І. Ю. Проценко, А. М. Чорноус, Успехи физ. мет., 8, № 1: 21 (2007).",
+				"tr":  "L. V. Dekhtyaruk, І. Yu. Protsenko, and A. M. Chornous, Uspehi Fiziki Metallov, 8, No. 1: 21 (2007)."
+			},
+			{
+				"doi": "10.1016/0040-6090(83)90130-X",
+				"or":  "R. Dimmich and F. Warkusz, Thin Solid Films, 109, No. 2: 103 (1983).",
+				"tr":  "R. Dimmich and F. Warkusz, Thin Solid Films, 109, No. 2: 103 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "F. Khater, Acta Phys. Slov., 33, No. 1: 43 (1983).",
+				"tr":  "F. Khater, Acta Phys. Slov., 33, No. 1: 43 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "M. El-Hiti and M. A. Ahmed, Phys. Status Solidi A, 114, No. 3: 185 (1989).",
+				"tr":  "M. El-Hiti and M. A. Ahmed, Phys. Status Solidi A, 114, No. 3: 185 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Дехтярук, Ю. А. Колесниченко, Физ. низ. температур, 19, № 9: 1013 (1993).",
+				"tr":  "L. V. Dekhtyaruk, Yu. A. Kolesnichenko, Fiz. niz. temperatur, 19, No. 9: 1013 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. А. Колесниченко, Низкотемпературные кинетические эффекты в неоднородных металлических системах (Автореферат диссертации … д-ра физ.-мат. н.; 01.04.07) (Харьков: Физико-технический институт низких температур НАН Украины: 1991).",
+				"tr":  "Yu. A. Kolesnichenko, Nizkotemperaturnye kineticheskie effekty v neodnorodnykh metallicheskikh sistemakh (Avtoreferat dissertatsii … d-ra fiz.-mat. n.; 01.04.07) (Khar'kov: Fiziko-tekhnicheskii institut nizkikh temperatur NAN Ukrainy: 1991)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Чорноус, Розмірні ефекти в електрофізичних властивостях нанокристалічних плівкових систем в умовах взаємної дифузії та фазоутворення (Автореферат дисертації … д-ра фіз.-мат. н.; 01.04.07) (Суми: Сумський державний університет: 2006).",
+				"tr":  "A. M. Chornous, Rozmіrnі efekti v elektrofіzichnikh vlastivostyakh nanokristalіchnikh plіvkovikh sistem v umovakh vzaєmnoї difuzії ta fazoutvorennya (Avtoreferat disertatsії … d-ra fіz.-mat. n.; 01.04.07) (Sumi: Sums'kii derzhavnii unіversitet: 2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Дехтярук, Електронні транспортні ефекти у багатошарових плівкових системах (Автореферат дисертації … д-ра фіз.-мат. н.; 01.04.07) (Суми: Сумський державний університет: 2008).",
+				"tr":  "L. V. Dekhtyaruk, Elektronnі transportnі efekti u bagatosharovikh plіvkovikh sistemakh (Avtoreferat disertatsії … d-ra fіz.-mat. n.; 01.04.07) (Sumi: Sums'kii derzhavnii unіversitet: 2008)."
+			},
+			{
+				"doi": "",
+				"or":  "С. І. Проценко, Вплив температурної і деформаційної залежності параметрів електроперенесення на електрофізичні властивості багатошарових плівок на основі Cr, Cu і Sc(Co) (Автореферат дисертації ... канд. фіз.-мат. н.; 01.04.07) (Харків: Харківський національний університет ім. В. Н. Каразіна: 2004).",
+				"tr":  "S. І. Protsenko, Vpliv temperaturnoї і deformatsіinoї zalezhnostі parametrіv elektroperenesennya na elektrofіzichnі vlastivostі bagatosharovikh plіvok na osnovі Cr, Cu і Sc(Co) (Avtoreferat disertatsії ... kand. fіz.-mat. n.; 01.04.07) (Kharkіv: Kharkіvs'kii natsіonal'nii unіversitet іm. V. N. Karazіna: 2004)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Латышев, А. А. Юшканов, Физ. мет. металловед., 103, № 1: 26 (2007).",
+				"tr":  "A. V. Latyshev, A. A. Yushkanov, Fiz. Met. Metalloved., 103, No. 1: 26 (2007)."
+			},
+			{
+				"doi": "10.1007/BF00616589",
+				"or":  "Chu-Xing Chen, Appl.Phys., A40, No. 1: 37 (1986).",
+				"tr":  "Chu-Xing Chen, Appl.Phys., A40, No. 1: 37 (1986)."
+			},
+			{
+				"doi": "10.1063/1.341631",
+				"or":  "F. Khater and A. Seoud, J. Appl. Phys., 64, No. 5: 2495 (1988).",
+				"tr":  "F. Khater and A. Seoud, J. Appl. Phys., 64, No. 5: 2495 (1988)."
+			},
+			{
+				"doi": "10.1007/BF00616725",
+				"or":  "Chu-Xing Chen, Appl. Phys., A42, No. 2: 145 (1987).",
+				"tr":  "Chu-Xing Chen, Appl. Phys., A42, No. 2: 145 (1987)."
+			},
+			{
+				"doi": "10.1088/0305-4608/15/12/010",
+				"or":  "R. Dimmich, J. Phys. F: Met. Phys., 15: 2477(1985).",
+				"tr":  "R. Dimmich, J. Phys. F: Met. Phys., 15: 2477(1985)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Дехтярук, Ю. О. Колесніченко, Укр. фіз. ж., 42, № 9: 1094 (1997).",
+				"tr":  "L. V. Dekhtyaruk, Yu. O. Kolesnіchenko, Ukrainian Physical Journal, 42, No. 9: 1094 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Кравцов, В. И. Окулов, В. В. Устинов, Физ. мет. металловед., 77, вып. 1: 5 (1994).",
+				"tr":  "E. A. Kravtsov, V. I. Okulov, V. V. Ustinov, Fiz. met. metalloved., 77, No. 1: 5 (1994)."
+			},
+			{
+				"doi": "10.1103/PhysRev.80.401",
+				"or":  "E. H. Sondheimer, Phys. Rev., 80, No. 3: 401 (1950).",
+				"tr":  "E. H. Sondheimer, Phys. Rev., 80, No. 3: 401 (1950)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Л. Гуревич, ЖЭТФ, 35, вып. 3 (9): 668 (1958).",
+				"tr":  "V. L. Gurevich, ZhETF, 35, No. 3 (9): 668 (1958)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Кириченко, В. Г. Песчанский, С. Н. Савельева, ЖЭТФ, 67, вып. 4 (10): 1451 (1974).",
+				"tr":  "O. V. Kirichenko, V. G. Peschanskii, S. N. Savel'eva, ZhETF, 67, No. 4 (10): 1451 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Песчанский, Физ. мет. металловед., 64, вып. 1: 5 (1987).",
+				"tr":  "V. G. Peschanskii, Fiz. Met. Metalloved., 64, No. 1: 5 (1987)."
+			},
+			{
+				"doi": "10.1016/S0079-6816(01)00041-7",
+				"or":  "O. A. Panchenko, P. P. Lutsishin, and S. V. Sologub, Progr. Surf. Sci., 69, No. 7–8: 193 (2002).",
+				"tr":  "O. A. Panchenko, P. P. Lutsishin, and S. V. Sologub, Progr. Surf. Sci., 69, No. 7–8: 193 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Панченко, С. В. Сологуб, Физ. и химия тверд. тела, 4, № 1: 7 (2003).",
+				"tr":  "O. A. Panchenko, S. V. Sologub, Fiz. i khimiya tverd. tela, 4, No. 1: 7 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.74.134109",
+				"or":  "Q. G. Zang, B. Y. Cao, X. Zang et al., Phys. Rev. B, 74, No. 13: 134109 (2006).",
+				"tr":  "Q. G. Zang, B. Y. Cao, X. Zang et al., Phys. Rev. B, 74, No. 13: 134109 (2006)."
+			},
+			{
+				"doi": "10.1063/1.2338885",
+				"or":  "Q. G. Zang, X. Zang, B. Y. Cao et al., Appl. Phys. Lett., 89, No. 11: 114102 (2006).",
+				"tr":  "Q. G. Zang, X. Zang, B. Y. Cao et al., Appl. Phys. Lett., 89, No. 11: 114102 (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.61.14215",
+				"or":  "C. Durkan and V. E. Welland, Phys. Rev. B, 61, No. 20: 14215 (2000).",
+				"tr":  "C. Durkan and V. E. Welland, Phys. Rev. B, 61, No. 20: 14215 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. А. Волков, Р. П. Волкова, Физ. тверд. тела, 37, вып. 12: 3687 (1995).",
+				"tr":  "Yu. A. Volkov, R. P. Volkova, Fiz. tverd. tela, 37, No. 12: 3687 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Верченко, В. И. Гришаев, Л. В. Дехтярук, Ю. А. Колесниченко, Т. Д. Шермергор, Физ. мет. металловед., 69, вып. 4: 102 (1990).",
+				"tr":  "V. I. Verchenko, V. I. Grishaev, L. V. Dekhtyaruk, Yu. A. Kolesnichenko, T. D. Shermergor, Fiz. met. metalloved., 69, No. 4: 102 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Е. Проценко, Изв. вузов. Физика, 31, № 6: 42 (1988).",
+				"tr":  "I. E. Protsenko, Izv. vuzov. Fizika, 31, No. 6: 42 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "L. V. Dekhtyaruk, Central Europ. J. Phys., 5, No. 1: 91 (2004).",
+				"tr":  "L. V. Dekhtyaruk, Central Europ. J. Phys., 5, No. 1: 91 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Дехтярук, Изв. вузов. Физика, 50, № 7: 26 (2007).",
+				"tr":  "L. V. Dekhtyaruk, Izv. vuzov. Fizika, 50, No. 7: 26 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Дехтярук, Вісник СумДУ. Сер. Фізика, математика, механіка, № 9 (93): 71 (2006).",
+				"tr":  "L. V. Dekhtyaruk, Visnik SumDU. Ser. Fizika, matematika, mekhanika, No. 9 (93): 71 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Дехтярук, Физ. и химия тверд. тела, 9, № 4: 749 (2006).",
+				"tr":  "L. V. Dekhtyaruk, Fiz. i khimiya tverd. tela, 9, No. 4: 749 (2006)."
+			},
+			{
+				"doi": "10.1002/crat.200510592",
+				"or":  "A. Chornous, L. Dekhtyaruk, M. Marszalek, and I. Protsenko, Cryst. Res. Technol., 41, No. 4: 388 (2006).",
+				"tr":  "A. Chornous, L. Dekhtyaruk, M. Marszalek, and I. Protsenko, Cryst. Res. Technol., 41, No. 4: 388 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "L. V. Dekhtyaruk, S. I. Protsenko, A. M. Chornous, and I. O. Shpetnyi, Ukr. J. Phys., 49, No. 6: 587 (2004).",
+				"tr":  "L. V. Dekhtyaruk, S. I. Protsenko, A. M. Chornous, and I. O. Shpetnyi, Ukr. J. Phys., 49, No. 6: 587 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Кириченко, Ю. А. Колесниченко, Физ. низ. температур, 8, № 3: 276 (1982).",
+				"tr":  "O. V. Kirichenko, Yu. A. Kolesnichenko, Fiz. niz. temperatur, 8, No. 3: 276 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Найфе, Введение в методы возмущения (Москва: Мир: 1984).",
+				"tr":  "A. Naife, Vvedenie v metody vozmushcheniya (Moskva: Mir: 1984)."
+			},
+			{
+				"doi": "10.1098/rspa.1954.0157",
+				"or":  "A. B. Pippard, Proc. Roy. Soc., 224, No. 1157: 273 (1954).",
+				"tr":  "A. B. Pippard, Proc. Roy. Soc., 224, No. 1157: 273 (1954)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Самсонов, Физико-химические свойства элементов (Киев: Наукова думка: 1965).",
+				"tr":  "G. V. Samsonov, Fiziko-khimicheskie svoistva elementov (Kiev: Naukova dumka: 1965)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Басов, А. О. Степаненко, А. М. Чорноус, Вісник СумДУ. Сер. Фізика, математика, механіка, № 8: 170 (2005).",
+				"tr":  "A. G. Basov, A. O. Stepanenko, A. M. Chornous, Vіsnik SumDU. Ser. Fіzika, matematika, mekhanіka, No. 8: 170 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. М. Овчаренко, Н. М. Опанасюк, І. Ю. Проценко, А. М. Чорноус, Укр. фіз. ж., 42, № 7: 826 (1997).",
+				"tr":  "Yu. M. Ovcharenko, N. M. Opanasyuk, І. Yu. Protsenko, A. M. Chornous, Ukrainian Journal of Physics, 42, No. 7: 826 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "І. Ю. Проценко, О. В. Шовкопляс, Ю. М. Овчаренко, А. М. Чорноус, Журнал фізичних досліджень, 2, № 1: 105 (1998).",
+				"tr":  "І. Yu. Protsenko, O. V. Shovkoplyas, Yu. M. Ovcharenko, A. M. Chornous, Zhurnal fіzichnikh doslіdzhen', 2, No. 1: 105 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Лобода, И. Е. Проценко, М. Д. Смолин, Металлофизика, 5, № 5: 69 (1983).",
+				"tr":  "V. B. Loboda, I. E. Protsenko, M. D. Smolin, Metallofizika, 5, No. 5: 69 (1983)."
+			},
+			{
+				"doi": "10.1002/pssa.2210610145",
+				"or":  "E. I. Tochitskii and N. M. Belyvskii, Phys. Status Solidi A, 61, No. 1: K21 (1980).",
+				"tr":  "E. I. Tochitskii and N. M. Belyvskii, Phys. Status Solidi A, 61, No. 1: K21 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Л. Чопра, Электрические явления в тонких пленках (Москва: Мир: 1972).",
+				"tr":  "K. L. Chopra, Elektricheskie yavleniya v tonkikh plenkakh (Moskva: Mir: 1972)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Дехтярук, М. Маршалек, И. Е. Проценко, А. Н. Чорноус, Физ. инж. поверхн., 2, № 1: 130 (2004).",
+				"tr":  "L. V. Dekhtyaruk, M. Marshalek, I. E. Protsenko, A. N. Chornous, Fiz. inzh. poverkhn., 2, No. 1: 130 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Диаграммы состояния двойных металлических систем: в 2-х т. (Ред. Н. П. Лякишев) (Москва: Машиностроение: 1997).",
+				"tr":  "Diagrammy sostoyaniya dvoinykh metallicheskikh sistem: v 2-kh t. (Red. N. P. Lyakishev) (Moskva: Mashinostroenie: 1997)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Е. Проценко, А. Н. Чорноус, О. В. Шовкопляс, ВАНТ. Сер. Вакуум, чистые материалы, сверхпроводники, 2 (3)–3 (4): 102 (1998).",
+				"tr":  "I. E. Protsenko, A. N. Chornous, O. V. Shovkoplyas, VANT. Ser. Vakuum, chistye materialy, sverkhprovodniki, 2 (3)–3 (4): 102 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Е. Проценко, А. Н. Чорноус, В. А. Хворост, Тонкие пленки в оптике и электронике (Харьков: ННЦ ХФТИ: 2002).",
+				"tr":  "I. E. Protsenko, A. N. Chornous, V. A. Khvorost, Tonkie plenki v optike i elektronike (Khar'kov: NNTs KhFTI: 2002)."
+			},
+			{
+				"doi": "",
+				"or":  "С. І. Проценко, А. М. Чорноус, Металлофиз. новейшие технол., 25, № 5: 587 (2003).",
+				"tr":  "S. І. Protsenko, A. M. Chornous, Metallofiz. Noveishie Tekhnol., 25, No. 5: 587 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. П. Клокова, Тензорезисторы (Москва: Машиностроение: 1990).",
+				"tr":  "N. P. Klokova, Tenzorezistory (Moskva: Mashinostroenie: 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "З. Г. Мейксин, Несплошные керментные пленки (Москва: Мир: 1978).",
+				"tr":  "Z. G. Meiksin, Nesploshnye kermentnye plenki (Moskva: Mir: 1978)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. В. Великодний, Т. М. Гричановська, Л. В. Однодворець та ін., Вісник СумДУ. Сер. Фізика, математика, механіка, № 1: 5 (2007).",
+				"tr":  "D. V. Velikodnii, T. M. Grichanovs'ka, L. V. Odnodvorets' ta іn., Vіsnik SumDU. Ser. Fіzika, matematika, mekhanіka, No. 1: 5 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRev.94.61",
+				"or":  "G. C. Kuczynski, Phys. Rev., 94, No. 1: 61 (1954).",
+				"tr":  "G. C. Kuczynski, Phys. Rev., 94, No. 1: 61 (1954)."
+			},
+			{
+				"doi": "10.1143/JJAP.39.L1320",
+				"or":  "A. М. Chornous, N. М. Opanasyuk, A. D. Pogrebnjak et al., Jpn. J. Appl. Phys., 39, No. 12В: L1320 (2000).",
+				"tr":  "A. M. Chornous, N. M. Opanasyuk, A. D. Pogrebnjak et al., Jpn. J. Appl. Phys., 39, No. 12V: L1320 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Є. О. Забіла, Л. В. Однодворець, C. І. Проценко та ін. Вісник СумДУ. Сер. Фізика, математика, механіка, № 8 (54): 71 (2003).",
+				"tr":  "Ye. O. Zabіla, L. V. Odnodvorets', C. І. Protsenko ta іn. Vіsnik SumDU. Ser. Fіzika, matematika, mekhanіka, No. 8 (54): 71 (2003)."
+			},
+			{
+				"doi": "10.1016/S0040-6090(03)00504-2",
+				"or":  "S. U. Jen, C. C. Yu, C. H. Liu et al., Thin Solid Films, 434: 316 (2003).",
+				"tr":  "S. U. Jen, C. C. Yu, C. H. Liu et al., Thin Solid Films, 434: 316 (2003)."
+			},
+			{
+				"doi": "10.1016/S0921-5107(00)00503-1",
+				"or":  "K. Rajanna and M. V. Nayak, Mat. Sci. Eng. B, 77: 288 (2000).",
+				"tr":  "K. Rajanna and M. V. Nayak, Mat. Sci. Eng. B, 77: 288 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "O. B. Lasyuchenko, I. Yu. Protsenko, and A. M. Chornous, Functional Materials, 6, № 5: 880 (1999).",
+				"tr":  "O. B. Lasyuchenko, I. Yu. Protsenko, and A. M. Chornous, Functional Materials, 6, No. 5: 880 (1999)."
+			}
+		]
+	}
+}

@@ -1,0 +1,284 @@
+{
+	"_id":    "UFM.09.03.357",
+	"year":   2008,
+	"volume": 9,
+	"issue":  3,
+	"pages":  [357,370],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["19.06.2008", "29.08.2008"],
+	"PACS":   "61.10.Eq, 61.10.Nz, 61.43.Dq, 61.46.+w, 68.55.Jk, 68.55.Nq, 81.15.Cd",
+	"title":   {
+		"ua": "Закономірності формування фазово-структурного стану конденсатів, одержаних йонним розпорошуванням",
+		"en": "Regularities of Formation of a Phase-Structural State of the Condensates Obtained by Ion Sputtering",
+		"ru": "Закономерности формирования фазово-структурного состояния конденсатов, полученных ионным распылением"
+	},
+	"abstract": {
+		"ua": "Проаналізовано закономірності формування структурно-фазового стану конденсатів, одержаних йонним розпорошенням. Встановлено, що все розмаїття структурних форм та фазових станів у матеріялах, що осаджуються, можна описати єдиним механізмом конденсації за ріжних ступенів нерівноважности процесу. Ступінь нерівноважности зменшується з підвищенням температури осадження. Запропоновано механізм формування конденсату з йонно-плазмових потоків, який включає два основних процеси: приповерхневу імплантацію, котра супроводжується атомовим перемішуванням для високоенергетичних частинок, що осаджуються, та конденсацію низькоенергетичних частинок, за якої, у залежности від температури осадження, має місце утворення структурних станів у наступній послiдовности: аморфно-кластерний–кристалічний $\\beta$-метастабільної фази–кристалічний $\\beta$-стабільної фази",
+		"en": "Regularities of phase and structure state formation of condensates formed by ion sputtering are analyzed. As shown, the all variety of structural forms and phase states revealed in deposited materials can be described by the single condensation mechanism with different degree of the process non-equilibrium. The degree of non-equilibrium decreases with deposition-temperature increasing. The mechanism of condensate formation from ion–plasma flows is proposed and includes two main processes: subsurface implantation accompanied by intermixing for high-energy deposited particles and lowenergy-particles’ condensation, at which the following consequence of structure states takes place depending on the deposition temperature: amorphous-cluster–crystalline metastable $\\beta$-phase–crystalline stable $\\beta$-phase.",
+		"ru": "Проанализированы закономерности формирования структурно-фазового состояния конденсатов, полученных ионным распылением. Установлено, что все многообразие выявляемых структурных форм и фазовых состояний в осаждаемых материалах можно описать единым механизмом конденсации при разной степени неравновесности процесса. Степень неравновесности уменьшается с повышением температуры осаждения. Предложен механизм формирования конденсата из ионно-плазменных потоков, который включает два основных процесса: приповерхностную имплантацию, сопровождающуюся перемешиванием для высокоэнергетических осаждаемых частиц, и конденсацию низкоэнергетических частиц, при которой, в зависимости от температуры осаждения, проходится последовательность структурных состояний: аморфно-кластерное–кристаллическое $\\beta$-метастабильной фазы–кристаллическое $\\beta$-стабильной фазы."
+	},
+	"keywords": {
+		"ua": "структурний стан, йонно-плазменні конденсати, нерівноважність процесу, приповерхнева імплантація, аморфнокластерний стан, метастабільні фази",
+		"en": "structural state, ion-plasma condensates, nonequilibrium process, near-surface implantation, amorphous and cluster state, metastable phases",
+		"ru": "структурное состояние, ионно-плазменные конденсаты, неравновесность процесса, приповерхностная имплантация, аморфнокластерное состояние, метастабильные фазы"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. П. Шпак", "en": "A. P. Shpak", "ru": "А. П. Шпак"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. В. Соболь", "en": "O. V. Sobol’", "ru": "О. В. Соболь"},
+			"OID": [216]
+		},
+		{
+			"AID": {"ua": "Ю. А. Куницький", "en": "Yu. A. Kunitsky", "ru": "Ю. А. Куницкий"},
+			"OID": [16]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.1134/S1063783411070274",
+				"cit": "O. V. Sobol’, <a href=\"https://doi.org/10.1134/S1063783411070274\">Phys. Solid State <b>53</b>, 1464 (2011)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 46,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "﻿Р. А. Андриевский, А. В. Рагуля, Наноструктурные материалы (Москва: Академия: 2005).",
+				"tr":  "R. A. Andrievskiy, A. V. Ragulya, Nanostrukturnye materialy (Moskva: Akademiya: 2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Ч. Пул, Ф. Оуэнс, Нанотехнологии (Москва: Техносфера: 2004) (пер. с англ.).",
+				"tr":  "Ch. Pul, F. Ouens, Nanotekhnologii (Moskva: Tekhnosfera: 2004) (Russian translation)."
+			},
+			{
+				"doi": "10.1179/imr.1996.41.3.85",
+				"or":  "M. J. Mayo, Int. Mater. Rev., 41, No. 1: 85 (1996).",
+				"tr":  "M. J. Mayo, Int. Mater. Rev., 41, No. 1: 85 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. П. Лякишев, М. И. Алымов, Российские нанотехнологии, 1, №1–2: 71 (2006).",
+				"tr":  "N. P. Lyakishev, M. I. Alymov, Rossiyskie nanotekhnologii, 1, No. 1–2: 71 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Петров, Кластеры и малые частицы (Москва: Наука: 1986).",
+				"tr":  "Yu. I. Petrov, Klastery i malye chastitsy (Moskva: Nauka: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. И. Носкова, Р. Р. Мулюков, Субмикрокристаллические и нано-кристаллические металлы и сплавы (Екатеринбург: УрО РАН: 2003).",
+				"tr":  "N. I. Noskova, R. R. Mulyukov, Submikrokristallicheskie i nano-kristallicheskie metally i splavy (Ekaterinburg: Ural Branch of Russian Academy of Sciences: 2003)."
+			},
+			{
+				"doi": "10.3367/UFNr.0168.199801c.0055",
+				"or":  "А. И. Гусев, УФН, 168, №1: 55 1998.",
+				"tr":  "A. I. Gusev, Uspekhi Fiz. Nauk, 168, No.1: 55 1998."
+			},
+			{
+				"doi": "",
+				"or":  "Р. А. Андриевский, А. М. Глезер, ФММ, 88, №1: 50 (1999).",
+				"tr":  "R. A. Andrievskiy, A. M. Glezer, Fiz. Met. Metalloved., 88, No. 1: 50 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. А. Андриевский, А. М. Глезер, ФММ, 89, №1: 91 (2000).",
+				"tr":  "R. A. Andrievskiy, A. M. Glezer, Fiz. Met. Metalloved., 89, No. 1: 91 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Соболь, Сборник докладов 7-й Международной конференции «Оборудование и технологии термической обработки металлов и сплавов–2006» (Харьков: ННЦ ХФТИ–ИПЦ «Контраст»: 2006).",
+				"tr":  "O. V. Sobol', Abstracts of the 7-th Int. Conf. \"Oborudovanie i tekhnologii termicheskoy obrabotki metallov i splavov–2006\" (Kharkiv: NNTs KhFTI–IPTs \"Kontrast\": 2006)."
+			},
+			{
+				"doi": "",
+				"or":  "А. І. Грабченко, М. В. Верезуб, О. В. Соболь, В. А. Фадєєв, Л. Г. Дюбнер, Високі технології в машинобудуванні: Збірник наукових праць НТУ «ХПІ», вип. 1(6): 34 (2003).",
+				"tr":  "A. I. Grabchenko, M. V. Verezub, O. V. Sobol', V. A. Fadieiev, L. G. Dyubner, Vysoki tekhnologii v mashynobuduvanni: Zbirnyk naukovykh prats' National Technical University \"KhPI\", No. 1(6): 34 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Koz’ma, O. V. Sobol’, E. A. Sobol’, Functional Materials, 8, No. 2: 314 (2001).",
+				"tr":  "A. A. Koz'ma, O. V. Sobol', E. A. Sobol', Functional Materials, 8, No. 2: 314 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, В. В. Погосов, Ю. А. Куницкий, Введение в физику ультрадисперсных сред (Киев: Академпериодика: 2006).",
+				"tr":  "A. P. Shpak, V. V. Pogosov, Yu. A. Kunitskiy, Vvedenie v fiziku ul'tradispersnykh sred (Kiev: Akademperiodika: 2006)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Соболь, Матерiали 8-ої Мiжнародної конференцiї «Фiзичнi явища в твердих тiлах» (Харкiв: ХНУ: 2007), с. 71.",
+				"tr":  "O. V. Sobol', Materials of the 8-th Int. Conf. \"Fizychni Yavyshcha v Tverdykh Tilakh\" [Physical Properties in Solids] (Ukraine, Kharkiv: Kharkiv National University: 2007), p. 71."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Палатник, М. Я. Фукс, В. М. Косевич, Механизм образования и субструктура конденсированных пленок (Москва: Наука: 1972).",
+				"tr":  "L. S. Palatnik, M. Ya. Fuks, V. M. Kosevich, Mekhanizm obrazovaniya i substruktura kondensirovannykh plenok (Moskva: Nauka: 1972)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Комник, Физика металлических пленок (Москва: Атомиздат: 1979).",
+				"tr":  "Yu. F. Komnik, Fizika metallicheskikh plenok (Moskva: Atomizdat: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Соболь, Наносистеми, наноматеріали, нанотехнології, 4, № 3: 707 (2006).",
+				"tr":  "O. V. Sobol', Nanosistemi, nanomateriali, nanotehnologii, 4, No. 3: 707 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "O. V. Sobol’, Functional Materials, 14, No. 4: 436 (2007).",
+				"tr":  "O. V. Sobol', Functional Materials, 14, No. 4: 436 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Соболь, Физическая инженерия поверхности, 5, № 1–2: 101 (2007).",
+				"tr":  "O. V. Sobol', Fizicheskaya inzheneriya poverkhnosti, 5, No. 1–2: 101 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, О. В. Соболь, П. Г. Черемской, Ю. А. Куницкий, А. Н. Стеценко, Наносистеми, наноматеріали, нанотехнології, 4, № 2: 373 (2006).",
+				"tr":  "A. P. Shpak, O. V. Sobol', P. G. Cheremskoy, Yu. A. Kunitskiy, A. N. Stetsenko, Nanosistemi, nanomateriali, nanotekhnologii, 4, No. 2: 373 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, П. Г. Черемской, Ю. А.Куницкий, О. В. Соболь, Кластерные и наноструктурные материалы (Киев: Академпериодика: 2005), т. 3.",
+				"tr":  "A. P. Shpak, P. G. Cheremskoy, Yu. A.Kunitskiy, O. V. Sobol', Klasternye i nanostrukturnye materialy (Kiev: Akademperiodika: 2005), vol. 3."
+			},
+			{
+				"doi": "10.1116/1.572396",
+				"or":  "R. E. Somekh, J. Vac. Sci. Technol., A2(3), July–September: 1285 (1984).",
+				"tr":  "R. E. Somekh, J. Vac. Sci. Technol., A2(3), July–September: 1285 (1984)."
+			},
+			{
+				"doi": "10.1007/BF01726195",
+				"or":  "W. Eckstein and J. P. Biersack, Z. Phys. B: Condens. Matter В, 63, No. 4: 471 (1986).",
+				"tr":  "W. Eckstein and J. P. Biersack, Z. Phys. B: Condens. Matter V, 63, No. 4: 471 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Козьма, С. В. Малихин, О. В. Соболь, С. С. Борисова, Физика и химия обработки материалов, № 3: 49 (1998).",
+				"tr":  "A. A. Koz'ma, S. V. Malikhin, O. V. Sobol', S. S. Borisova, Fizika i khimiya obrabotki materialov, No. 3: 49 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Соболь, ФММ, 91, № 1: 63 (2001).",
+				"tr":  "O. V. Sobol', Fiz. Met. Metalloved., 91, No. 1: 63 (2001)."
+			},
+			{
+				"doi": "10.1016/0040-6090(89)90043-6",
+				"or":  "B. Window and K.-H. Muller, Thin Solid Films, 171: 183 (1989).",
+				"tr":  "B. Window and K.-H. Muller, Thin Solid Films, 171: 183 (1989)."
+			},
+			{
+				"doi": "10.1063/1.363704",
+				"or":  "N. H. Hoang, McKenzie, W. D. McFall, and Y. Yin, J. Appl. Phys., 80, No. 11: 6279 (1996).",
+				"tr":  "N. H. Hoang, McKenzie, W. D. McFall, and Y. Yin, J. Appl. Phys., 80, No. 11: 6279 (1996)."
+			},
+			{
+				"doi": "10.1116/1.579073",
+				"or":  "D. W. Hoffman, J. Vac. Sci. Technol., A12, No. 4: 953 (1994).",
+				"tr":  "D. W. Hoffman, J. Vac. Sci. Technol., A12, No. 4: 953 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "O. V. Sobol, Functional Materials, 13, No. 3: 387 (2006).",
+				"tr":  "O. V. Sobol, Functional Materials, 13, No. 3: 387 (2006)."
+			},
+			{
+				"doi": "10.1007/BF00321934",
+				"or":  "G. Keller, I. Barzen, R. Erz, W. Dotter, S. Ulrich et al., Fresenius J. Anal. Chem., 341: 349 (1991).",
+				"tr":  "G. Keller, I. Barzen, R. Erz, W. Dotter, S. Ulrich et al., Fresenius J. Anal. Chem., 341: 349 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Самсонов, Г. Ш. Упадхая, В. С. Нешпор, Физическое материаловедение карбидов (Киев: Наукова думка: 1974).",
+				"tr":  "G. V. Samsonov, G. Sh. Upadkhaya, V. S. Neshpor, Fizicheskoe materialovedenie karbidov (Kiev: Naukova dumka: 1974)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Козьма, С. В. Малыхин, О. В. Соболь, ФММ, 87, № 3: 30 (1999).",
+				"tr":  "A. A. Koz'ma, S. V. Malykhin, O. V. Sobol', Fiz. Met. Metalloved., 87, No. 3: 30 (1999)."
+			},
+			{
+				"doi": "10.1116/1.585277",
+				"or":  "M. Itoh, M. Hori, and S. Nadahara, J. Vac. Sci. Technol, B9, No. 1: 149 (1991).",
+				"tr":  "M. Itoh, M. Hori, and S. Nadahara, J. Vac. Sci. Technol, B9, No. 1: 149 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Schmalzried, R. Telle, B. Freitag, and W. Mader, Z. Metallkd., 92, No. 11: 1197 (2001).",
+				"tr":  "S. Schmalzried, R. Telle, B. Freitag, and W. Mader, Z. Metallkd., 92, No. 11: 1197 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Ватолин, Э. А. Пастухов, Дифракционные исследования строения высокотемпературных расплавов (Москва: Наука: 1980).",
+				"tr":  "N. A. Vatolin, E. A. Pastukhov, Difraktsionnye issledovaniya stroeniya vysokotemperaturnykh rasplavov (Moskva: Nauka: 1980)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Самсонов, Т. И. Серебрякова, В. А. Неронов, Бориды (Москва: Атомиздат: 1975).",
+				"tr":  "G. V. Samsonov, T. I. Serebryakova, V. A. Neronov, Boridy (Moskva: Atomizdat: 1975)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Соболь, Е. А. Соболь, Вiсник ХНУ. Серiя «Фiзика», 476, № 4: 175 (2000).",
+				"tr":  "O. V. Sobol', E. A. Sobol', Visnik KhNU. Seriya 'Fizika', 476, No. 4: 175 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Соболь, Е. А. Соболь, С. А. Юлин, Вестник ХГПУ. Сер. «Новые решения в современных технологиях. Физические аспекты современных технологий», вып. 30: 66 (1999).",
+				"tr":  "O. V. Sobol', E. A. Sobol', S. A. Yulin, Vestnik KhGPU. Ser. 'Novye resheniya v sovremennykh tekhnologiyakh. Fizicheskie aspekty sovremennykh tekhnologiy', No. 30: 66 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Козьма, Е. А. Соболь, О. В. Соболь, Вестник ХГУ. Серия «Физика», 440, № 3: 149 (1999).",
+				"tr":  "A. A. Koz'ma, E. A. Sobol', O. V. Sobol', Vestnik KhGU. Seriya 'Fizika', 440, No. 3: 149 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "O. V. Sobol, Functional Materials, 14, No. 3: 392 (2007).",
+				"tr":  "O. V. Sobol, Functional Materials, 14, No. 3: 392 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. И. Свергун, Л. А. Фейгин, Рентгеновское и нейтронное малоугловое рассеяние (Москва: Наука: 1986).",
+				"tr":  "D. I. Svergun, L. A. Feygin, Rentgenovskoe i neytronnoe malouglovoe rasseyanie (Moskva: Nauka: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Соболь, ФТТ, 49, № 6: 1104 (2007).",
+				"tr":  "O. V. Sobol', Fizika Tverdogo Tela, 49, No. 6: 1104 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Соболь, Харьковская нанотехнологическая Ассамблея. Сборник докладов. Том 1. Вакуумные нанотехнологии и оборудование (Харьков: ННЦ ХФТИ–ИПП «Контраст»: 2006), с. 260.",
+				"tr":  "O. V. Sobol', Khar'kovskaya nanotekhnologicheskaya Assambleya. Sbornik dokladov. Vol. 1. Vakuumnye nanotekhnologii i oborudovanie (Kharkiv: NNTs KhFTI–IPP 'Kontrast': 2006), s. 260."
+			},
+			{
+				"doi": "",
+				"or":  "Б. С. Данилин, Применение низкотемпературной плазмы для нанесения тонких пленок (Москва: Энергоатомиздат: 1989).",
+				"tr":  "B. S. Danilin, Primenenie nizkotemperaturnoy plazmy dlya naneseniya tonkikh plenok (Moskva: Energoatomizdat: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. А. Свелин, Термодинамика твердого состояния (Москва: Металлургия: 1968).",
+				"tr":  "R. A. Svelin, Termodinamika tverdogo sostoyaniya (Moskva: Metallurgiya: 1968)."
+			},
+			{
+				"doi": "",
+				"or":  "O. V. Sobol’, E. A. Sobol’, and A. A. Podtelezhnikov, Functional Materials, 6, No. 5: 868 (1999).",
+				"tr":  "O. V. Sobol', E. A. Sobol', and A. A. Podtelezhnikov, Functional Materials, 6, No. 5: 868 (1999)."
+			}
+		]
+	}
+}

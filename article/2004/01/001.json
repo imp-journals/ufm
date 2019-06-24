@@ -1,0 +1,210 @@
+{
+	"_id":    "UFM.05.01.001",
+	"year":   2004,
+	"volume": 5,
+	"issue":  1,
+	"pages":  [1,36],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["28.11.2003"],
+	"PACS":   "07.60.Fs, 71.20.Be, 78.20.Jq",
+	"title":   {
+		"ua": "Особливості електронної структури бінарних стопів $3d$-перехідних металів",
+		"en": "Features of Electronic Structure of Binary Alloys of $3d$-Transition Metals",
+		"ru": "Особенности электронной структуры бинарных сплавов $3d$-переходных металлов"
+	},
+	"abstract": {
+		"ua": "Виконано вимірювання спектрів оптичної провідности $\\sigma(h\\nu)$ в области 0,07—4,95 еВ чистих $3d$-металів (Ni, Fe, Co, Cr) та деяких бінарних сплавів на їх основі. Отримано інформацію про особливості електронної структури сплавів Ni—Fe, Ni—Cr, Fe—Cr та Ni—Co. Встановлено закономірності формування електронних енергетичних спектрів невпорядкованих бінарних сплавів $3d$-перехідних металів, які полягають в тому, що в сплавах зберігаються характерні риси електронних спектрів розчинників навіть за великих концентрацій домішок (до 30—40 ат.%), а самі домішки формують відповідні зони, які розташовуються вище основних зон розчинників. Оптичні методи еліпсометрії дозволили з великою точністю визначити положення та півширину домішкових зон в електронних спектрах невпорядкованих сплавів $3d$-перехідних металів.",
+		"en": "Optical conductivity spectra, $\\sigma(h\\nu)$, for pure $3d$-metals (Ni, Fe, Co, Cr) and some binary alloys of these metals are measured within the range 0.07—4.95 eV. The information about the electronic structure of such compositions, and particularly Ni—Fe, Ni—Cr, Fe—Cr, and Ni—Co alloys is obtained. The regularities of formation of electronic spectra of disordered binary transitionmetals’ alloys are revealed, which consist that, in alloys, the characteristics of electronic spectra of solvents are preserved even at large impurity concentrations (till 30—40 at.%), and impurities form the corresponding bands, which are distributed above the main bands of solvents. The optical methods of an ellipsometry have afforded an opportunity with high accuracy to determine the position and half-width of impurity bands in electronic spectra of disordered alloys of $3d$-transition metals.",
+		"ru": "Выполнены измерения спектров оптической проводимости $\\sigma(h\\nu)$ в области 0,07—4,95 эВ чистых $3d$-металлов (Ni, Fe, Co, Cr) и некоторых бинарных сплавов на их основе. Получена информация об особенностях электронной структуры сплавов Ni—Fe, Ni—Cr, Fe—Cr и Ni—Co. Установлены закономерности формирования электронных энергетических спектров неупорядоченных бинарных сплавов $3d$-переходных металлов, которые заключаются в том, что в сплавах сохраняются характерные черты электронных спектров растворителей даже при больших концентрациях примесей (до 30—40 ат.%), а сами примеси формируют соответствующие зоны, которые располагаются выше основных зон растворителей. Оптические методы эллипсометрии предоставили возможность с большой точностью определить положение и полуширину примесных зон в электронных спектрах неупорядоченных сплавов $3d$-переходных металлов."
+	},
+	"keywords": {
+		"ua": "перехідні метали, невпорядковані сплави, бінарні сполуки, електронні спектри, енергетична структура, оптична провідність, спектральна еліпсометрія",
+		"en": "transition metals, disordered alloys, binary compounds, electronic spectra, energy structure, optical conductivity, spectral ellipsometry",
+		"ru": "переходные металлы, неупорядоченные сплавы, бинарные соединения, электронные спектры, энергетическая структура, оптическая проводимость, спектральная элипсометрия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. С. Стащук", "en": "V. S. Stashchuk", "ru": "В. С. Стащук"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "А. П. Шпак", "en": "A. P. Shpak", "ru": "А. П. Шпак"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Ю. А. Куницький", "en": "Yu. A. Kunits’ky", "ru": "Ю. А. Куницкий"},
+			"OID": [16]
+		}
+	],
+	"references": {
+		"count": 33,
+				"list":  [
+			{
+				"doi": "",
+				"or":  "В. В. Немошкаленко, В. Г. Алешин, Электронная структура кристаллов (Киев: Наук. думка: 1983).",
+				"tr":  "V. V. Nemoshkalenko, V. G. Aleshin, Elektronnaya struktura kristallov (Kiev: Naukova Dumka: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Немошкаленко, Ю. Н. Кучеренко, Методы вычислительной физики в теории твердого тела. Электронные состояния в неидеальных кристаллах (Киев: Наук. думка: 1986).",
+				"tr":  "V. V. Nemoshkalenko, Yu. N. Kucherenko, Metody vychislitel'noy fiziki v teorii tverdogo tela. Elektronnye sostoyaniya v neideal'nykh kristallakh (Kiev: Naukova Dumka: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Кацнельсон, В. С. Степанюк, О. В. Тарберович, А. Сас, Электронная теория конденсированных сред (Москва: Изд. МГУ: 1990).",
+				"tr":  "A. A. Katsnel'son, V. S. Stepanyuk, O. V. Tarberovich, A. Sas, Elektronnaya teoriya kondensirovannykh sred (Moskva: Izd. MGU: 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Лось, С. П. Репецкий, Методы теории неупорядоченных систем. Электронные свойства сплавов (Киев: Наук. думка: 1995).",
+				"tr":  "V. F. Los', S. P. Repetskiy, Metody teorii neuporyadochennykh sistem. Elektronnye svoystva splavov (Kiev: Naukovs Dumka: 1995)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, В. Л. Карбовский, А. Н. Яресько, Металлофиз. и новейшие технол., 16: № 3 (1994).",
+				"tr":  "A. P. Shpak, V. L. Karbovskiy, A. N. Yares'ko, Metallofiz. i noveyshie tekhnol., 16: No. 3 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, В. Л. Карбовский, А. В. Мележик, Ближний порядок и особенности электронной структуры в аморфных металлических сплавах на основе 3d-металлов (Киев: ИМФ НАНУ: 1994).",
+				"tr":  "A. P. Shpak, V. L. Karbovskiy, A. V. Melezhik, Blizhniy poryadok i osobennosti elektronnoy struktury v amorfnykh metallicheskikh splavakh na osnove 3d-metallov (Kiev: IMF NANU: 1994)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Кальянов, В. С. Демиденко, Электронная структура двойных разупорядоченных ферромагнитных сплавов на основе железа и никеля (Москва: 1982) (Деп. в ВИНИТИ № 1990).",
+				"tr":  "A. P. Kal'yanov, V. S. Demidenko, Elektronnaya struktura dvoynykh razuporyadochennykh ferromagnitnykh splavov na osnove zheleza i nikelya (Moskva: 1982) (Dep. v VINITI No. 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Д. Кузьмичев, Г. П. Мотулевич, ЖЭТФ, 84: № 6 (1983).",
+				"tr":  "N. D. Kuz'michev, G. P. Motulevich, ZhETF, 84: No. 6 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Кириллова, ЖЭТФ, 61: вып. 1 (1971).",
+				"tr":  "M. M. Kirillova, ZhETF, 61: No. 1 (1971)."
+			},
+			{
+				"doi": "10.1088/0022-3719/2/10/319",
+				"or":  "M. Shiga and J. P. Pells, J. Phys. C: Solid State Physics, 2, No. 10 (1969).",
+				"tr":  "M. Shiga and J. P. Pells, J. Phys. C: Solid State Physics, 2, No. 10 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "M. P. Stoll and C. H. Jung, J. Phys. (France), 39: No. 4 (1978).",
+				"tr":  "M. P. Stoll and C. H. Jung, J. Phys. (France), 39: No. 4 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "J. C. Comfort and F. K. Urban, Thin Solid Films, 270, No. 1–2 (1995).",
+				"tr":  "J. C. Comfort and F. K. Urban, Thin Solid Films, 270, No. 1–2 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Номерованная, М. М. Кириллова, А. А. Махнев, ФММ, 52: вып. 6 (1981).",
+				"tr":  "L. V. Nomerovannaya, M. M. Kirillova, A. A. Makhnev, FMM, 52: No. 6 (1981)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.37.2874",
+				"or":  "N. V. Smith, Phys. Rev. B, 37: No. 6 (1988).",
+				"tr":  "N. V. Smith, Phys. Rev. B, 37: No. 6 (1988)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.3.192",
+				"or":  "K. J. Duff and T. P. Das, Phys. Rev. B, 3: No. 1 (1971).",
+				"tr":  "K. J. Duff and T. P. Das, Phys. Rev. B, 3: No. 1 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Широковский, М. М. Кириллова, Н. А. Шилкова, ЖЭТФ, 82: № 3 (1982).",
+				"tr":  "V. P. Shirokovskiy, M. M. Kirillova, N. A. Shilkova, ZhETF, 82: No. 3 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "W. E. Spicer and C. N. Berglund, Phys. Rev., 136: No. 4 (1964).",
+				"tr":  "W. E. Spicer and C. N. Berglund, Phys. Rev., 136: No. 4 (1964)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Badayoko, A. Ziegler, and J. Callanay, Phys. Rev. B, 27: No. 12 (1983).",
+				"tr":  "D. Badayoko, A. Ziegler, and J. Callanay, Phys. Rev. B, 27: No. 12 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "C. M. Singal and T. P. Das, Phys. Rev. B, 16: No. 11 (1977).",
+				"tr":  "C. M. Singal and T. P. Das, Phys. Rev. B, 16: No. 11 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "N. I. Kulikov and E. T. Kulatov, J. Phys. F: Metal Physics, 12: No. 10 (1982).",
+				"tr":  "N. I. Kulikov and E. T. Kulatov, J. Phys. F: Metal Physics, 12: No. 10 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Филлипс, Оптические свойства твердых тел (Москва: Мир: 1968).",
+				"tr":  "D. Fillips, Opticheskie svoystva tverdykh tel (Moskva: Mir: 1968)."
+			},
+			{
+				"doi": "10.1002/pssb.2221170127",
+				"or":  "J. C. Parlebas, Phys. status solidi B, 117: No. 1 (1983).",
+				"tr":  "J. C. Parlebas, Phys. Status Solidi B, 117: No. 1 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Я. Горбань, В. С. Стащук, А. В. Ширин, Опт. и спектр., 35: вып. 3 (1973).",
+				"tr":  "N. Ya. Gorban', V. S. Stashchuk, A. V. Shirin, Opt. i spektr., 35: No. 3 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Р. Юхновский, З. А. Гурский, Квантово-статистическая теория неупорядоченных систем (Киев: Наук. думка: 1991).",
+				"tr":  "I. R. Yukhnovskiy, Z. A. Gurskiy, Kvantovo-statisticheskaya teoriya neuporyadochennykh sistem (Kiev: Naukova dumka: 1991)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Hasegawa and J. Kanamori, J. Phys. Soc. Japan, 33: No. 5 (1972).",
+				"tr":  "H. Hasegawa and J. Kanamori, J. Phys. Soc. Japan, 33: No. 5 (1972)."
+			},
+			{
+				"doi": "10.1088/0305-4608/16/6/009",
+				"or":  "R. Gupta and S. Chatterjee, J. Phys. F: Metal Physics, 16: No. 6 (1986).",
+				"tr":  "R. Gupta and S. Chatterjee, J. Phys. F: Metal Physics, 16: No. 6 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Ono, T. Shimada, Yu. Saiton, T. Sendohda et al., Techn. Rept. J. SSP. A, No. 3051 (1995).",
+				"tr":  "K. Ono, T. Shimada, Yu. Saiton, T. Sendohda et al., Techn. Rept. J. SSP. A, No. 3051 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Эренрейх, Л. Шварц, Электронная структура сплавов (Москва: Мир: 1979).",
+				"tr":  "G. Erenreykh, L. Shvarts, Elektronnaya struktura splavov (Moskva: Mir: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Демиденко, А. П. Кальянов, Изв. ВУЗов. Физика, № 3 (1983).",
+				"tr":  "V. S. Demidenko, A. P. Kal'yanov, Izv. VUZov. Fizika, No. 3 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Стащук, Вестн. Киевского ун-та. Физика, № 30 (1989).",
+				"tr":  "V. S. Stashchuk, Vestn. Kievskogo un-ta. Fizika, No. 30 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Я. Горбань, В. С. Стащук, ЖПС, 31: вып. 6 (1979).",
+				"tr":  "N. Ya. Gorban', V. S. Stashchuk, ZhPS, 31: No. 6 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Стащук, УФЖ, 45: № 11 (2000).",
+				"tr":  "V. S. Stashchuk, UFZh, 45: No. 11 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.20.3172",
+				"or":  "J. R. Anderson, D. A. Paraconstantopoulos, L. L. Boyer, and J. E. Schirber, Phys. Rev. B, 20: No. 8 (1979).",
+				"tr":  "J. R. Anderson, D. A. Paraconstantopoulos, L. L. Boyer, and J. E. Schirber, Phys. Rev. B, 20: No. 8 (1979)."
+			}
+		]
+	}
+}

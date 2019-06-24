@@ -1,0 +1,116 @@
+{
+	"_id":    "UFM.12.04.481",
+	"year":   2011,
+	"volume": 12,
+	"issue":  4,
+	"pages":  [481,487],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["06.10.2011"],
+	"PACS":   "41.60.Cr, 42.55.-е, 42.55.Px, 42.55.Zz, 42.55.Tv, 42.55.Ah, 42.60.Jf",
+	"title":   {
+		"ua": "Форми отоплення поверхні твердого тіла під дією імпульсного лазерного випромінення",
+		"en": "Shapes of Washing of a Solid under Action of Pulsed Laser Radiation",
+		"ru": "Формы оплавления поверхности твёрдого тела под действием импульсного лазерного излучения"
+	},
+	"abstract": {
+		"ua": "Розглянуто уявлення про взаємодію інтенсивних імпульсних потоків світлової енергії з поверхнею речовини, в тому числі з руйнуванням поверхні. Задача полягає в прогнозуванні критичних параметрів впливу лазерного випромінювання на властивості приповерхневих твердих матеріялів (модифікація поверхні, топлення, випарування, зварювання, різання та ін.), що працюють в широкому діапазоні, – від низькоенергетичних та тривалих до високоенергетичних та коротких, – радіаційної дії.",
+		"en": "Considered the idea of the interaction of intensive impulsive streams of light energy with the surface of substance including with destruction of surface. A task consists in prognostication of critical parameters of influence of laser radiation on property of solid materials materials (modification of surface, drown, evaporation, welding, cutting and other) that work in a wide range, from low energy and protracted to high energy and short, radiation action.",
+		"ru": "Рассмотрены представления о взаимодействии интенсивных импульсных потоков световой энергии с поверхностью вещества, в том числе с разрушением поверхности. Задача заключается в прогнозировании критических параметров воздействия лазерного излучения на свойства приповерхностных твердых материалов (модификация поверхности, плавления, испарения, сварки, резки и др.), которые работают в широком диапазоне, – от низкоэнергетических и длительных до высокоэнергетических и коротких, – радиационного воздействия."
+	},
+	"keywords": {
+		"ua": "низькоенергетичні та високоенергетичні, імпульси фемтосекундної тривалости, наносекундний імпульс, кратери",
+		"en": "low-energy and high-energy, impulses of femtosecond duration, nanosecond impulse, craters",
+		"ru": "низкоэнергетические и высокоэнергетические, импульсы фемтосекундной длительности, наносекундный импульс, кратеры"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Л. В. Породько", "en": "L. V. Porod’ko", "ru": "Л. В. Породько"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "А. Б. Демчишин", "en": "A. B. Demchyshyn", "ru": "А. Б. Демчишин"},
+			"OID": [201]
+		}
+	],
+	"references": {
+		"count": 15,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Р. В. Волков, В. М. Гордиенко, Д. М. Голишников, Письма ЖЭТФ, № 77: 568 (2003).",
+				"tr":  "R. V. Volkov, V. M. Gordienko, D. M. Golishnikov, Pis'ma ZhETF, No. 77: 568 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Б. Савельев-Трофимов, Управление свойствами плотной плазмы фемтосекундного лазерного импульса и инициирование низкоэнергетических ядерных процессов (Дисс. … д-ра физ.-мат. н.; 01.04.21) (Москва: МГУ: 2003).",
+				"tr":  "A. B. Savel'ev-Trofimov, Upravlenie svoystvami plotnoy plazmy femtosekundnogo lazernogo impul'sa i initsiirovanie nizkoenergeticheskikh yadernykh protsessov (Diss. … d-ra fiz.-mat. n.; 01.04.21) (Moskva: MGU: 2003)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Hulin, Rapport sur la Science et la Technologie No. 09 l’Academie des Sciences ‘Sciences aux Temps Ultracourts (de l’Attoseconde aux Petawatts)’ (Londres–Paris–New York: 2000), p. 197.",
+				"tr":  "D. Hulin, Rapport sur la Science et la Technologie No. 09 l’Academie des Sciences ‘Sciences aux Temps Ultracourts (de l’Attoseconde aux Petawatts)’ (Londres–Paris–New York: 2000), p. 197."
+			},
+			{
+				"doi": "",
+				"or":  "С. Г. Казанцев, Оптика атмосферы и океана, 16, № 4: 390 (2003).",
+				"tr":  "S. G. Kazantsev, Optika atmosfery i okeana, 16, No. 4: 390 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "J. C. Gauthier, Rapport sur la Science et la Technologie No. 09 l’Academie des Sciences ‘Sciences aux Temps Ultracourts (de l’Attoseconde aux Petawatts)’ (Londres–Paris–New York: 2000), p. 225.",
+				"tr":  "J. C. Gauthier, Rapport sur la Science et la Technologie No. 09 l’Academie des Sciences ‘Sciences aux Temps Ultracourts (de l’Attoseconde aux Petawatts)’ (Londres–Paris–New York: 2000), p. 225."
+			},
+			{
+				"doi": "",
+				"or":  "С. Г. Казанцев, Перспективные материалы проходной оптики мощных ИК лазеров, http://www.uniphys.ru/journal/N1–05/toparticle/toparticle.htm.",
+				"tr":  "S. G. Kazantsev, Perspektivnye materialy prokhodnoy optiki moshchnykh IK lazerov, http://www.uniphys.ru/journal/N1–05/toparticle/toparticle.htm."
+			},
+			{
+				"doi": "doi:10.1007/s003390051418",
+				"or":  "X. Zhu, A. Yu. Naumov, and D. M. Villeneuve, Appl. Phys. A, 69, Suppl.: 367 (1999).",
+				"tr":  "X. Zhu, A. Yu. Naumov, and D. M. Villeneuve, Appl. Phys. A, 69, Suppl.: 367 (1999)."
+			},
+			{
+				"doi": "10.1142/S0217979299001570",
+				"or":  "M. Lenzner, Int. J. Mod. Phys. B., 13, No. 13: 1559 (1999).",
+				"tr":  "M. Lenzner, Int. J. Mod. Phys. B., 13, No. 13: 1559 (1999)."
+			},
+			{
+				"doi": "10.1007/s00339-004-2621-2",
+				"or":  "J. Tadano, H. Kumakura, and Y. Ito, Appl. Phys. A., 79, Nos. 4–6: 1031 (2004).",
+				"tr":  "J. Tadano, H. Kumakura, and Y. Ito, Appl. Phys. A., 79, Nos. 4–6: 1031 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Y. C. Lam, D. V. Tran, and H. Y. Zheng, Surf. Rev. Lett., 11, No. 2: 217 (2004).",
+				"tr":  "Y. C. Lam, D. V. Tran, and H. Y. Zheng, Surf. Rev. Lett., 11, No. 2: 217 (2004)."
+			},
+			{
+				"doi": "10.1134/1.558805",
+				"or":  "M. B. Agranat, S. I. Ashitkov, and V. E. Fortov, J. Exp. Theor. Phys., 88, No. 2: 370 (1999).",
+				"tr":  "M. B. Agranat, S. I. Ashitkov, and V. E. Fortov, J. Exp. Theor. Phys., 88, No. 2: 370 (1999)."
+			},
+			{
+				"doi": "10.1007/s00339-002-1477-6",
+				"or":  "H. Reimer, J. Gold, B. Kasemo, and D. Chakarov, Appl. Phys. A, 77: 491 (2003).",
+				"tr":  "H. Reimer, J. Gold, B. Kasemo, and D. Chakarov, Appl. Phys. A, 77: 491 (2003)."
+			},
+			{
+				"doi": "10.1007/s003390051536",
+				"or":  "B. Toftmann, J. Schou, and N. B. Larsen, Appl. Phys. A, 69: 811 (1999).",
+				"tr":  "B. Toftmann, J. Schou, and N. B. Larsen, Appl. Phys. A, 69: 811 (1999)."
+			},
+			{
+				"doi": "10.1134/1.1767889",
+				"or":  "A. I. Boriskin, V. M. Eremenko, and P. A. Pavlenko, Tech. Phys., 49, No. 6: 770 (2004).",
+				"tr":  "A. I. Boriskin, V. M. Eremenko, and P. A. Pavlenko, Tech. Phys., 49, No. 6: 770 (2004)."
+			},
+			{
+				"doi": "10.1063/1.117889",
+				"or":  "H. Park, Y. K. Hong, and J. S. Kim, Appl. Phys. Lett., 69, No. 6: 779 (1996).",
+				"tr":  "H. Park, Y. K. Hong, and J. S. Kim, Appl. Phys. Lett., 69, No. 6: 779 (1996)."
+			}
+		]
+	}
+}

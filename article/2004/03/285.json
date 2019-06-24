@@ -1,0 +1,208 @@
+{
+	"_id":    "UFM.05.03.285",
+	"year":   2004,
+	"volume": 5,
+	"issue":  3,
+	"pages":  [285,312],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["25.08.2004"],
+	"PACS":   "61.10.Dp, 61.10.Kw, 61.46.+w, 61.72.Dd, 61.72.Ff, 68.65.Ac",
+	"title":   {
+		"ua": "Вплив порушеного поверхневого шару на динамічное розсіяння в кристалах з дефектами",
+		"en": "Influence of the Broken Surface Layer on Dynamic Scattering in Crystals with Defects",
+		"ru": "Влияние нарушенного поверхностного слоя на динамическое рассеяние в кристаллах с дефектами"
+	},
+	"abstract": {
+		"ua": "Запропоновано та описано в рамках динамічної теорії повної інтегральної відбивної здатності у геометрії дифракції Брегга модель розсіяння для кристалу з порушеним поверхневим шаром (ППШ) і випадково розподіленими дефектами (ВРД). В цій моделі кристал ділиться за товщиною на три шара. Перший шар – сильно порушений пластичною деформацією шар, в якому дифракція повністю відсутня. Цей шар виявляється лише процесами поглинання в ньому рентгенівських променів. Другий – шар, пружньо деформований першим шаром, в якому довжина когерентності розсіяння менше довжини екстинкції і, як наслідок, розсіяння в ньому носить кінематичний характер. Третій – динамічно розсіюючий шар, що містить ВРД. На основі цієї моделі встановлено нові фізичні ефекти при Брегг-дифракції у таких кристалах, та в результаті запропоновано способи унікальної неруйнуючої кількісної діагностики у тому числі і нанорозмірних характеристик як ППШ, так і ВРД.",
+		"en": "The model of scattering for a crystal with the disturbed surface layer (DSL) and randomly distributed defects (RDD) is proposed and developed within the framework of dynamical theory of the total integrated reflective power in Bragg-diffraction geometry. Within this model, the crystal is separated on three layers. The first layer is a layer heavily disturbed by the plastic deformation; within it, the diffraction is completely absent. This layer may be detected only due to the X-rays absorption within it. The first layer elastically deforms the second layer. Within it, a length of the scattering coherence is less than the extinction length, and consequently, the scattering within it has a kinematical character. The third layer is the dynamically scattering layer, which contains the RRD. On the base of this model, the new physical effects are revealed at Bragg-diffraction in such crystals, and consequently, the methods are proposed for the unique non-destructive quantitative diagnostics of the nanoscale characteristics of both DSL and RRD.",
+		"ru": "Предложена и описана в рамках динамической теории полных интегральных отражательных способностей в геометрии дифракции Брэгга модель рассеяния для кристалла с нарушенным поверхностным слоем (НПС) и случайно распределенными дефектами (СРД). В этой модели кристалл делится по толщине на три слоя. Первый слой – сильно нарушенный пластической деформацией слой, в котором дифракция полностью отсутствует. Этот слой проявляется только процессами поглощения в нем рентгеновских лучей. Второй – слой, упруго деформированный первым слоем, в котором длина когерентности рассеяния меньше длины экстинкции и, следовательно, рассеяние в нем носит кинематический характер. Третий – динамически рассеивающий слой, содержащий СРД. На основе этой модели установлены новые физические эффекты при Брэгг-дифракции в таких кристаллах, и в результате предложены способы уникальной неразрушающей количественной диагностики, в том числе и наноразмерных характеристик как НПС, так и СРД."
+	},
+	"keywords": {
+		"ua": "Рентґенові промені, Бреґґ-дифракція, монокристал, дефект, порушений поверхневий шар",
+		"en": "X-rays, Bragg-diffraction, monocrystal, defect, disturbed surface layer",
+		"ru": "рентгеновские лучи, Брэгг-дифракция, монокристалл, дефект, нарушенный поверхностный слой"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. П. Шпак", "en": "A. P. Shpak", "ru": "А. П. Шпак"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Б. Молодкін", "en": "V. B. Molodkin", "ru": "В. Б. Молодкин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Г. І. Низкова", "en": "G. I. Nizkova", "ru": "А. И. Низкова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. Т. Когут", "en": "M. T. Kogut", "ru": "М. Т. Когут"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Є. В. Первак", "en": "Ye. V. Pervak", "ru": "Е. В. Первак"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 31,
+				"list":  [
+			{
+				"doi": "",
+				"or":  "Proc. of the 1-st Int. Autumn School ‘Gettering and Defect Engineering in the Semiconductor Technology’ (Ed. H. Richter) (Jarzau, DDR; Oct. 8–18, 1985).",
+				"tr":  "Proc. of the 1-st Int. Autumn School 'Gettering and Defect Engineering in the Semiconductor Technology' (Ed. H. Richter) (Jarzau, DDR; Oct. 8–18, 1985)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Афанасьев, П. А. Александров, Р. М. Имамов, Рентгеновская диагностика субмикронных слоев (Москва: Наука: 1986).",
+				"tr":  "A. M. Afanas'ev, P. A. Aleksandrov, R. M. Imamov, Rentgenovskaya diagnostika submikronnykh sloev (Moskva: Nauka: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Гуреев, И. В. Прокопенко, Завод. лаб., 45, № 6: 536 (1979).",
+				"tr":  "A. N. Gureev, I. V. Prokopenko, Zavod. lab., 45, No. 6: 536 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Даценко, Н. Ф. Короткевич, УФЖ, 18, № 1: 145 (1973).",
+				"tr":  "L. I. Datsenko, N. F. Korotkevich, UFZh, 18, No. 1: 145 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. І. Даценко, Вісн. АН УРСР, № 3: 19 (1975).",
+				"tr":  "L. I. Datsenko, Visn. AN URSR, No. 3: 19 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Даценко, УФЖ, 24, № 5: 577 (1979).",
+				"tr":  "L. I. Datsenko, UFZh, 24, No. 5: 577 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Н. Кисловский, В. П. Кладько, А. В. Фомин и др., Завод. лаб., 51, № 7: 30 (1985).",
+				"tr":  "E. N. Kislovskiy, V. P. Klad'ko, A. V. Fomin et al., Zavod. lab., 51, No. 7: 30 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Даценко, В. Б. Молодкин, М. Е. Осиновский, Динамическое рассеяние рентгеновских лучей реальными кристаллами (Киев: Наук. думка: 1988).",
+				"tr":  "L. I. Datsenko, V. B. Molodkin, M. E. Osinovskiy, Dinamicheskoe rasseyanie rentgenovskikh luchey real'nymi kristallami (Kiev: Nauk. dumka: 1988)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Даценко, Е. Н. Кисловский, Т. Г. Крыштаб и др., Поверхность, № 8: 69 (1985).",
+				"tr":  "L. I. Datsenko, E. N. Kislovskiy, T. G. Kryshtab et al., Poverkhnost', No. 8: 69 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Н. Кисловский, Т. Г. Крыштаб, В. И. Хрупа, Л. И. Даценко, Металлофизика, 8, № 3: 52 (1986).",
+				"tr":  "E. N. Kislovskiy, T. G. Kryshtab, V. I. Khrupa, L. I. Datsenko, Metallofizika, 8, No. 3: 52 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Г. Крыштаб, Е. Н. Кисловский, В. И. Хрупа, Металлофизика, 8, № 4: 109 (1986).",
+				"tr":  "T. G. Kryshtab, E. N. Kislovskiy, V. I. Khrupa, Metallofizika, 8, No. 4: 109 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Барьяхтар, А. Н. Гуреев, В. В. Кочелаб и др., Металлофизика, 11, № 3: 73 (1989).",
+				"tr":  "V. G. Bar'yakhtar, A. N. Gureev, V. V. Kochelab et al., Metallofizika, 11, No. 3: 73 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "Обработка полупроводниковых материалов (Ред. Н. В. Новиков, В. Бертольди) (Киев: Наук. думка: 1982).",
+				"tr":  "Obrabotka poluprovodnikovykh materialov (Red. N. V. Novikov, V. Bertol'di) (Kiev: Nauk. dumka: 1982)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Ф. Русак, К. Л. Енишерова, Электронная техника. Полупроводниковые приборы, № 3: 3 (1983).",
+				"tr":  "T. F. Rusak, K. L. Enisherova, Elektronnaya tekhnika. Poluprovodnikovye pribory, No. 3: 3 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Г. Мильвидский, В. Г. Фомин, М. М. Хацкевич и др., Физика и химия обработки материалов, № 2: 122 (1986).",
+				"tr":  "M. G. Mil'vidskiy, V. G. Fomin, M. M. Khatskevich et al., Fizika i khimiya obrabotki materialov, No. 2: 122 (1986)."
+			},
+			{
+				"doi": "10.1107/S0108767392007438",
+				"or":  "A. W. Stevenson, Acta Cryst., A49: 174 (1993).",
+				"tr":  "A. W. Stevenson, Acta Cryst., A49: 174 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, А. И. Низкова, С. И. Олиховский и др., Металлофиз. новейшие технол., 24, № 4: 521 (2002).",
+				"tr":  "V. B. Molodkin, A. I. Nizkova, S. I. Olikhovskiy et al., Metallofiz. noveyshie tekhnol., 24, No. 4: 521 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, А. И. Низкова, С. И. Олиховский и др., Металлофиз. новейшие технол., 24, № 5: 585 (2002).",
+				"tr":  "V. B. Molodkin, A. I. Nizkova, S. I. Olikhovskiy et al., Metallofiz. Noveishie Tekhnol., 24, No. 5: 585 (2002)."
+			},
+			{
+				"doi": "10.1063/1.96969",
+				"or":  "S. M. Hu, Appl. Phys. Lett., 48: 115 (1986).",
+				"tr":  "S. M. Hu, Appl. Phys. Lett., 48: 115 (1986)."
+			},
+			{
+				"doi": "10.1063/1.325825",
+				"or":  "W. Patrick, E. Hearn, W. Westdorp et al., J. Appl. Phys., 50, No. 11: 7156 (1979).",
+				"tr":  "W. Patrick, E. Hearn, W. Westdorp et al., J. Appl. Phys., 50, No. 11: 7156 (1979)."
+			},
+			{
+				"doi": "10.1007/BF00617708",
+				"or":  "E. R. Weber, Appl. Phys. A, 30: 1 (1993).",
+				"tr":  "E. R. Weber, Appl. Phys. A, 30: 1 (1993)."
+			},
+			{
+				"doi": "10.1149/1.2127686",
+				"or":  "F. Shimura, H. Tsuya, and T. Kawamura, J. Electrochem Soc., 128: 1578 (1981).",
+				"tr":  "F. Shimura, H. Tsuya, and T. Kawamura, J. Electrochem Soc., 128: 1578 (1981)."
+			},
+			{
+				"doi": "10.1149/1.2095846",
+				"or":  "K. Graff, H. A. Hefner, and W. Hemmerici, J. Electrochem Soc., 135, No. 4: 952 (1988).",
+				"tr":  "K. Graff, H. A. Hefner, and W. Hemmerici, J. Electrochem Soc., 135, No. 4: 952 (1988)."
+			},
+			{
+				"doi": "10.1063/1.357285",
+				"or":  "B. Shen, T. Sekiguchi, J. Jablonski et al., J. Appl. Phys., 76, No. 8: 4540 (1994).",
+				"tr":  "B. Shen, T. Sekiguchi, J. Jablonski et al., J. Appl. Phys., 76, No. 8: 4540 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, В. В. Немошкаленко, А. И. Низкова и др., Металлофиз. новейшие технологии, 22, № 3: 3 (2000).",
+				"tr":  "V. B. Molodkin, V. V. Nemoshkalenko, A. I. Nizkova et al., Metallofiz. Noveishie Tekhnologii, 22, No. 3: 3 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, А. И. Низкова, С. И. Олиховский и др., Металлофиз. новейшие технологии, 24, № 8: 1089 (2002).",
+				"tr":  "V. B. Molodkin, A. I. Nizkova, S. I. Olikhovskiy et al., Metallofiz. Noveishie Tekhnologii, 24, No. 8: 1089 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "R. I. Fox, IEEE, 13: 367 (1966).",
+				"tr":  "R. I. Fox, IEEE, 13: 367 (1966)."
+			},
+			{
+				"doi": "",
+				"or":  "H. F. Wenzl, Z. Naturforsh, 26a, No. 3: 495 (1971).",
+				"tr":  "H. F. Wenzl, Z. Naturforsh, 26a, No. 3: 495 (1971)."
+			},
+			{
+				"doi": "10.1016/0001-6160(65)90161-6",
+				"or":  "K. D. Weltzin, R. A. Swalin, and T. F. Hutchinson, Acta Met., 13, 115 (1965).",
+				"tr":  "K. D. Weltzin, R. A. Swalin, and T. F. Hutchinson, Acta Met., 13, 115 (1965)."
+			},
+			{
+				"doi": "10.1063/1.1735801",
+				"or":  "J. R. Carter and R. A. Swalin, J. Appl. Phys., 31, 1191 (1960).",
+				"tr":  "J. R. Carter and R. A. Swalin, J. Appl. Phys., 31, 1191 (1960)."
+			},
+			{
+				"doi": "10.1007/978-3-642-74291-0",
+				"or":  "М. А. Кривоглаз, Дифракция рентгеновских лучей и нейтронов в неидеальных кристаллах (Киев: Наук. думка: 1983).",
+				"tr":  "M. A. Krivoglaz, X-Ray and Neutron Diffraction in Nonideal Crystals (Springer: 1996)."
+			}
+		]
+	}
+}

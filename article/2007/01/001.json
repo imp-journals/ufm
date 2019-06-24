@@ -1,0 +1,282 @@
+{
+	"_id":    "UFM.08.01.001",
+	"year":   2007,
+	"volume": 8,
+	"issue":  1,
+	"pages":  [1,19],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["22.01.2007"],
+	"PACS":   "71.15.Qe, 71.35.-y, 73.20.Mf, 73.21.La, 73.22.Lp, 77.22.Ej, 78.20.Bh",
+	"title":   {
+		"ua": "Об'ємні локальні одночастинкові стани квазичастинок у квазинульмірних системах",
+		"en": "Bulk Local One-Particle States of Quasi-Particles in Quasi-Zero-Dimensional",
+		"ru": "Объёмные локальные одночастичные состояния квазичастиц в квазинульмерных системах"
+	},
+	"abstract": {
+		"ua": "Наведено огляд результатів теоретичних та експериментальних досліджень об’ємних льокальних станів квазичастинок (електрона й дірки), які виникли в об’ємі напівпровідникових сферичних квантових точок, в умовах сильного поляризаційного взаємочину носіїв заряду з поверхнею квантової точки. Показано, що у спектрі об’ємних льокальних станів є область низьколежачих станів, які характеризуються спектром осциляторного типу. Встановлено, що об’ємні льокальні стани у квантових точках є достатньо стабільними (із часом життя, що має порядок 10$^{-1}$ с).",
+		"en": "The results of theoretical and experimental investigations of bulk local states of quasi-particles (an electron and a hole) appearing in the bulk of semiconductor spherical quantum dots under the condition of strong polarization interaction between the charge carriers and the quantum-dot surface are reviewed. As shown, there are low-lying oscillator-type states in the spectrum of bulk local states. As revealed, the bulk local states in quantum dots are stable (with a life cycle of $\\cong$ 10$^{-1}$ s).",
+		"ru": "Приведен обзор результатов теоретических и экспериментальных исследовани объемных локальных состояний квазичастиц (электрона и дырки), возникающих в объеме полупроводниковых сферических квантовых точек, в условиях сильного поляризационного взаимодействия носителей заряда с поверхностью квантовой точки. Показано, что в спектре объемных локальных состояний имеется область низколежащих состояний, обладающих спектром осцилляторного типа. Установлено, что объемные локальные состояния в квантовых точках являются достаточно стабильными (со временами жизни порядка 10$^{-1}$ с)."
+	},
+	"keywords": {
+		"ua": "спектр, об’ємні локальні стани, квантові точки, поляризаційна взаємодія",
+		"en": "spectrum, bulk local states, quantum dots, polarization interaction",
+		"ru": "спектр, объемные локальные состояния, квантовые точки, поляризационное взаимодействие"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. П. Шпак", "en": "A. P. Shpak", "ru": "А. П. Шпак"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. І. Покутній", "en": "S. I. Pokutniy", "ru": "С. И. Покутний"},
+			"OID": [39]
+		},
+		{
+			"AID": {"ua": "В. М. Уваров", "en": "V. M. Uvarov", "ru": "В. Н. Уваров"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  3,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.14.04.353",
+				"cit": "S. I. Pokutnyi and P. P. Gorbyk, <a href=\"https://doi.org/10.15407/ufm.14.04.353\">Usp. Fiz. Met. <b>14</b>, 353 (2013)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.08.02.157",
+				"cit": "A. P. Shpak, S. I. Pokutniy and V. M. Uvarov, <a href=\"https://doi.org/10.15407/ufm.08.02.157\">Usp. Fiz. Met. <b>8</b>, 157 (2007)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.09.03.289",
+				"cit": "A. P. Shpak, S. I. Pokutnyi, V. M. Uvarov and M. S. Pokutnyi, <a href=\"https://doi.org/10.15407/ufm.09.03.289\">Usp. Fiz. Met. <b>9</b>, 289 (2008)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 44,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "С. И. Покутний, Теория экситонов в квазинульмерных полупроводниковых системах (Одесса: Астропринт: 2003).",
+				"tr":  "S. I. Pokutniy, Teoriya eksitonov v kvazinul'mernykh poluprovodnikovykh sistemakh (Odessa: Astroprint: 2003)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, С. І. Покутній, Ю. А. Куницький, Діагностика наносистем. Напівпровідникові квазінульвимірні системи (Київ: Академперіодика: 2004).",
+				"tr":  "A. P. Shpak, S. I. Pokutniy, Yu. A. Kunits'kiy, Diagnostika nanosistem. Napivprovidnikovi kvazinul'vimirni sistemi (Kiyv: Akademperiodika: 2004)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, С. И. Покутний, Ю. А. Куницкий, Спектроскопия электронных и экситонных состояний в низкоразмерных системах (Киев: Академпериодика: 2005).",
+				"tr":  "A. P. Shpak, S. I. Pokutniy, Yu. A. Kunitskiy, Spektroskopiya elektronnykh i eksitonnykh sostoyaniy v nizkorazmernykh sistemakh (Kiev: Akademperiodika: 2005)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Агранович, Ю. Е. Ломовик, Письма в ЖЭТФ, 17, № 4: 209 (1973).",
+				"tr":  "V. M. Agranovich, Yu. E. Lomovik, Pis'ma v ZhETF, 17, No. 4: 209 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Ефремов, С. И. Покутний (Москва: 1984) (Препринт/Институт спектроскопии АН СССР, № 1, 1984, с. 34).",
+				"tr":  "N. A. Efremov, S. I. Pokutniy (Moskva: 1984) (Preprint/Institut spektroskopii AN SSSR, No. 1, 1984, p. 34)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Ефремов, С. И. Покутний, ФТТ, 27, № 1: 48 (1985).",
+				"tr":  "N. A. Efremov, S. I. Pokutniy, FTT, 27, No. 1: 48 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Ефремов, С. И. Покутний, ФТТ, 32, № 10: 2921 (1990).",
+				"tr":  "N. A. Efremov, S. I. Pokutniy, FTT, 32, No. 10: 2921 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Н.А. Ефремов, С.И. Покутний, ФТТ, 33, № 10: 2845 (1991).",
+				"tr":  "N.A. Efremov, S.I. Pokutniy, FTT, 33, No. 10: 2845 (1991)."
+			},
+			{
+				"doi": "10.1002/pssb.2221650108",
+				"or":  "S. I. Pokutnyi and N. A. Efremov, Phys. Stat. Sol. B, 165, No. 1: 109 (1991).",
+				"tr":  "S. I. Pokutnyi and N. A. Efremov, Phys. Stat. Sol. B, 165, No. 1: 109 (1991)."
+			},
+			{
+				"doi": "10.1002/pssb.2221720208",
+				"or":  "S. I. Pokutnyi and N. A. Efremov, Phys. Stat. Sol. B, 172, No. 2: 573 (1992).",
+				"tr":  "S. I. Pokutnyi and N. A. Efremov, Phys. Stat. Sol. B, 172, No. 2: 573 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Покутний, ФТТ, 35, № 2: 257 (1993).",
+				"tr":  "S. I. Pokutniy, FTT, 35, No. 2: 257 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Покутний, ФТП, 31, № 12: 1443 (1997).",
+				"tr":  "S. I. Pokutniy, FTP, 31, No. 12: 1443 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, С. И. Покутний, Ю. А. Куницкий, Наносистеми, наноматеріали, нанотехнології, 3, № 3: 667 (2005).",
+				"tr":  "A. P. Shpak, S. I. Pokutniy, Yu. A. Kunitskiy, Nanosistemi, nanomateriali, nanotekhnologii, 3, No. 3: 667 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, С. И. Покутний, Ю. А. Куницкий, Наносистеми, наноматеріали, нанотехнології, 3, № 4: 877 (2005).",
+				"tr":  "A. P. Shpak, S. I. Pokutniy, Yu. A. Kunitskiy, Nanosistemi, nanomateriali, nanotekhnologii, 3, No. 4: 877 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Pokutnyi, Phys. Low-Dim. Struct., 9/10: 21 (2001).",
+				"tr":  "S. I. Pokutnyi, Phys. Low-Dim. Struct., 9/10: 21 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Pokutnyi, Phys. Low-Dim. Struct., 7/8: 39 (2002).",
+				"tr":  "S. I. Pokutnyi, Phys. Low-Dim. Struct., 7/8: 39 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Pokutnyi, Phys. Low-Dim. Struct., 11/12: 67 (2002).",
+				"tr":  "S. I. Pokutnyi, Phys. Low-Dim. Struct., 11/12: 67 (2002)."
+			},
+			{
+				"doi": "10.1063/1.1759791",
+				"or":  "S. I. Pokutnyi, J. Appl. Phys., 96, No. 2: 1115 (2004).",
+				"tr":  "S. I. Pokutnyi, J. Appl. Phys., 96, No. 2: 1115 (2004)."
+			},
+			{
+				"doi": "10.1016/j.physleta.2005.04.070",
+				"or":  "S. I. Pokutnyi, Phys. Lett. A, 342: 347 (2005).",
+				"tr":  "S. I. Pokutnyi, Phys. Lett. A, 342: 347 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Pokutnyi, Semiconductors, 40, No. 2: 217 (2006).",
+				"tr":  "S. I. Pokutnyi, Semiconductors, 40, No. 2: 217 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Ф. Дейген, М. Д. Глинчук, ФТТ, 5, № 11: 3250 (1963).",
+				"tr":  "M. F. Deygen, M. D. Glinchuk, FTT, 5, No. 11: 3250 (1963)."
+			},
+			{
+				"doi": "",
+				"or":  "М. П. Лисица, Н. Р. Кулиш, В. И. Геец, П. Н. Коваль, Опт. и спектр., 20, № 3: 508 (1966).",
+				"tr":  "M. P. Lisitsa, N. R. Kulish, V. I. Geets, P. N. Koval', Opt. i spektr., 20, No. 3: 508 (1966)."
+			},
+			{
+				"doi": "10.1016/0040-6090(76)90443-0",
+				"or":  "V. G. Litovchenko, Thin Solid Films, 36, No. 1: 205 (1976).",
+				"tr":  "V. G. Litovchenko, Thin Solid Films, 36, No. 1: 205 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Е. Лозовик, В. Н. Нишанов, ФТТ, 18, № 11: 3267 (1976).",
+				"tr":  "Yu. E. Lozovik, V. N. Nishanov, FTT, 18, No. 11: 3267 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Литовченко, Основы физики полупроводниковых слоистых систем (Киев: Наукова думка: 1980).",
+				"tr":  "V. G. Litovchenko, Osnovy fiziki poluprovodnikovykh sloistykh sistem (Kiev: Naukova dumka: 1980)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Екимов, А. А. Онущенко, Письма в ЖЭТФ, 34, № 6: 363 (1981).",
+				"tr":  "A. I. Ekimov, A. A. Onushchenko, Pis'ma v ZhETF, 34, No. 6: 363 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Екимов, А. А. Онущенко, Письма в ЖЭТФ, 40, № 8: 337 (1984).",
+				"tr":  "A. I. Ekimov, A. A. Onushchenko, Pis'ma v ZhETF, 40, No. 8: 337 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Я. Грабовскис, Я. Я. Дзенис, А. И. Екимов, ФТТ, 31, № 1: 272 (1989).",
+				"tr":  "V. Ya. Grabovskis, Ya. Ya. Dzenis, A. I. Ekimov, FTT, 31, No. 1: 272 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Chepik, A. Efros, and A. Ekimov, J. Luminesc., 47, No. 3: 113 (1990).",
+				"tr":  "D. Chepik, A. Efros, and A. Ekimov, J. Luminesc., 47, No. 3: 113 (1990)."
+			},
+			{
+				"doi": "10.1016/0009-2614(82)83150-3",
+				"or":  "J. Kuczynski and I. Thomas, Chem. Phys. Lett., 104, No. 7: 445 (1982).",
+				"tr":  "J. Kuczynski and I. Thomas, Chem. Phys. Lett., 104, No. 7: 445 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Duongnoug, I. Ramsten, and M. Gratzel, J. Am. Chem. Soc., 104, No. 10: 2977 (1982).",
+				"tr":  "D. Duongnoug, I. Ramsten, and M. Gratzel, J. Am. Chem. Soc., 104, No. 10: 2977 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Rossetti and L. Brus, J. Am. Chem. Soc., 104, No. 10: 7322 (1982).",
+				"tr":  "R. Rossetti and L. Brus, J. Am. Chem. Soc., 104, No. 10: 7322 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Р. Кулиш, В. П. Кунец, М. П. Лисица, УФЖ, 35, № 12: 1817 (1990).",
+				"tr":  "N. R. Kulish, V. P. Kunets, M. P. Lisitsa, UFZh, 35, No. 12: 1817 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Р. Кулиш, В. П. Кунец, М. П. Лисица, ФТТ, 39, № 10: 1865 (1997).",
+				"tr":  "N. R. Kulish, V. P. Kunets, M. P. Lisitsa, FTT, 39, No. 10: 1865 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "Ал. Л. Эфрос, А. Л. Эфрос, ФТП, 16, № 7: 1209 (1982).",
+				"tr":  "Al. L. Efros, A. L. Efros, FTP, 16, No. 7: 1209 (1982)."
+			},
+			{
+				"doi": "10.15407/ufm.06.02.105",
+				"or":  "А. П. Шпак, С. И. Покутний, УФМ, 6, № 2: 105 (2005).",
+				"tr":  "A. P. Shpak, S. I. Pokutniy, Usp. Fiz. Met., 6, No. 2: 105 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Pokutnyi, Ukr. J. Phys. Rev., 3, No. 1: 46 (2006).",
+				"tr":  "S. I. Pokutnyi, Ukr. J. Phys. Rev., 3, No. 1: 46 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Агранович, В. Л. Гинзбург, Кристаллооптика с учетом пространственной дисперсии и теория экситонов (Москва: Наука: 1979).",
+				"tr":  "V. M. Agranovich, V. L. Ginzburg, Kristallooptika s uchetom prostranstvennoy dispersii i teoriya eksitonov (Moskva: Nauka: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Габович, Л. Г. Ильченко, Э. А. Пашицкий, ЖЭТФ, 79, № 2: 665 (1980).",
+				"tr":  "A. M. Gabovich, L. G. Il'chenko, E. A. Pashitskiy, ZhETF, 79, No. 2: 665 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. V. Kryuchenko and V. I. Sugakov, Phys. Stat. Sol. B, 111, No. 1: 177 (1982).",
+				"tr":  "Yu. V. Kryuchenko and V. I. Sugakov, Phys. Stat. Sol. B, 111, No. 1: 177 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "О. С. Зинец, Ю. З. Крюченко, В. И. Сугаков, ФТТ, 26, № 9: 2587 (1984).",
+				"tr":  "O. S. Zinets, Yu. Z. Kryuchenko, V. I. Sugakov, FTT, 26, No. 9: 2587 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Ю. Голиней, В. И. Сугаков, ФНТ, 11, № 7: 775 (1985).",
+				"tr":  "I. Yu. Goliney, V. I. Sugakov, FNT, 11, No. 7: 775 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Базь, Я. Б. Зельдович, А. М. Переломов, Рассеяние, реакции и распады в нерелятивистской квантовой механике (Москва: Наука: 1971).",
+				"tr":  "A. I. Baz', Ya. B. Zel'dovich, A. M. Perelomov, Rasseyanie, reaktsii i raspady v nerelyativistskoy kvantovoy mekhanike (Moskva: Nauka: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "А. С. Давыдов, Квантовая механика (Москва: Наука: 1973).",
+				"tr":  "A. S. Davydov, Kvantovaya mekhanika (Moskva: Nauka: 1973)."
+			}
+		]
+	}
+}

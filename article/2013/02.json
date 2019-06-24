@@ -1,0 +1,21 @@
+{
+	"year":   2013,
+	"volume": 14,
+	"issue":  2,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [107,227],
+			"title": {
+				"ua": "Блокування дислокацій без допомоги зовнішнього напруження: експеримент і теорія",
+				"en": "Locking of Dislocations without the Application of an External Stress: Experiment and Theory",
+				"ru": "Блокировка дислокаций без помощи внешнего напряжения: эксперимент и теория"
+			},
+			"autors": {
+				"ua": "Б. А. Ґрінберґ, М. О. Іванов, О. В. Антонова, А. М. Пацелов, А. В. Плотніков, А. М. Власова",
+				"en": "B. A. Greenberg, M. O. Ivanov, O. V. Antonova, A. M. Patselov, A. V. Plotnikov, and A. M. Vlasova",
+				"ru": "Б. А. Гринберг, М. А. Иванов, О. В. Антонова, А. М. Пацелов, А. В. Плотникова, А. М. Власова"
+			}
+		}
+	]
+}

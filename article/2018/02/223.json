@@ -1,0 +1,207 @@
+{
+	"_id":    "UFM.19.02.223",
+	"year":   2018,
+	"volume": 19,
+	"issue":  2,
+	"pages":  [223,250],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["29.05.2018", "04.06.2018"],
+	"PACS":   "61.72.Bb, 61.72.Ff, 61.72.J-, 61.72.Lk, 62.20.mt, 62.50.-p, 81.40.Vw, 83.50.Uv, 83.60.Uv",
+	"title":   {
+		"ua": "Концентратори напружень у металевих матеріялах за умов всебічного стискання",
+		"en": "Stress Concentrators in Metal Materials in the Conditions of Uniform Compression",
+		"ru": "Концентраторы напряжений в металлических материалах в условиях всестороннего сжатия"
+	},
+	"abstract": {
+		"ua": "У запропонованому моделю в термінах сучасних уявлень механіки і фізики твердого тіла та фізики металів розглядаються особливості поведінки дефектів моно- та полікристалічних станів металевих матеріялів в умовах всебічного гідростатичного стискання при наявності в них двох типів модельних концентраторів напружень — вилучення та втілення, які є аналогами більшости концентраторів, присутніх у реальних виробах. Демонструється послідовність процесів релаксації у вершинах концентраторів, зміна їх кількости та потужности, залежно від тиску та стійкости у зразках кулястої форми із зазначенням вірогідних критичних точок у досліджених станах матеріялів на осі тиску з визначенням відмінностей у темпах зростання та релаксації напружень у вершинах, що реґламентують дію відповідних механізмів. Критичні точки на осі тиску обмежують як в моно-, так і в полікристалічному станах інтервали сумісної дії вакансійного та дислокаційного механізмів пластичної релаксації з переходом за подальшого підвищення тиску до накопичення лише точкових дефектів втілення. Вони сприяють значному зростанню потенціяльної енергії атомів в умовах пружнього зменшення параметра кристалічної ґратниці, яке стається в найближчому оточенні концентратора втілення з темпом, що випереджає подібні зміни в разі його відсутности. Розглянуто особливості участі концентраторів у формуванні гідродинамічного стану матеріялів. Модель уможливлює пояснювати більшість експериментальних результатів, пов’язаних з поведінкою механічних властивостей матеріялів після їх оброблення тиском в умовах всебічного стискання, а також передбачає можливість формування нових структурних станів за умов швидкого зменшення тиску від певного критичного значення.",
+		"en": "The proposed model uses modern concepts of mechanics as well as solid-state physics and metal physics to consider the behaviours of single- and polycrystalline states of metal materials in the conditions of uniform compression, when there are two types of model stress concentrators: subtraction and interstitial ones, which are analogous to the majority of the stress risers appeared in the real products. The features of the stress concentrators’ behaviours and the changing sequences of their quantity and power are demonstrated depending on their stability in the spheroidal samples. The differences in the stress increase and relaxation at the tips, which regulate the activity of the known relaxation mechanisms, are pointed out. For both the single- and polycrystalline states, the existence of critical points on the pressure axis, which limit the collective activity of vacancy and dislocation mechanisms of plastic relaxation and transition to the accumulation of only interstitial point defects with the increasing pressure, is predicted. These interstitial defects facilitate a considerable increase of potential energy of atoms in the conditions of elastic decrease of the crystal lattice parameter. The growth is accelerated near the stable stress concentrators. Priorities and peculiarities of participation of the stress concentrators in the formation of the hydrodynamic state of materials are considered. The model allows explaining majority of the experimental results related to mechanical behaviour of materials after the uniform compression. It also predicts the probability of formation of new structural states in the conditions of the rapidly decreased pressure from the certain critical value.",
+		"ru": "В предложенной модели в терминах современных представлений механики и физики твёрдого тела и физики металлов рассматриваются особенности поведения моно- и поликристаллических состояний металлических материалов в условиях всестороннего сжатия при наличии в них двух типов модельных концентраторов напряжений — вычитания и внедрения, являющихся аналогами большинства их представителей в реальных изделиях. Демонстрируются особенности поведения концентраторов, последовательность изменения их количества и мощности в зависимости от давления и их устойчивости в образцах шаровидной формы с указанием различий в процессах роста и релаксации напряжений в вершинах, регламентирующих действие известных механизмов релаксации. Предсказано существование критических точек на оси изменения давления, ограничивающих как в моно-, так и в поликристаллическом состояниях коллективное действие вакансионного и дислокационного механизмов пластических релаксаций с переходом по мере повышения давления к накоплению только точечных дефектов внедрения, способствующих значительному росту потенциальной энергии атомов в условиях упругого уменьшения параметра кристаллической решётки, идущего с опережающим темпом в ближайшем окружении стабильных концентраторов. Рассмотрены приоритеты и особенности участия концентраторов в формировании гидродинамического состояния материалов. Модель позволяет объяснять большинство экспериментальных результатов, связанных с поведением механических свойств материалов после их обработки давлением в условиях всестороннего сжатия, а также предсказывает вероятность формирования новых структурных состояний в условиях быстрого уменьшения давления от некоторого критического значения."
+	},
+	"keywords": {
+		"ua": "концентратори напружень, всебічне стискання, вакансії, дислокації, гідродинамічний стан",
+		"en": "stress concentrators, uniform compressions, vacancies, dislocations, hydrodynamic state",
+		"ru": "ферромагнитная плёнка, доменная стенка, эффективная масса, вертикальная блоховская линия, блоховская точка, макроскопические квантовые эффекты"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "П. Ю. Волосевич", "en": "P. Yu. Volosevich", "ru": "П. Ю. Волосевич"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 34,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. М. Финкель, Физика разрушения (Москва: Металлургия: 1970).",
+				"tr":  "V. M. Finkel, Fizika Razrusheniya [Physics of Fracture] (Moscow: Metallurgiya: 1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Екобори, Физика и механика разрушения и прочности твердых тел (Москва: Металлургия: 1971) (пер. с англ.).",
+				"tr":  "T. Ekobori, Fizika i Mekhanika Razrusheniya i Prochnosti Tverdykh Tel [Physics and Mechanics of Fracture and the Strength of Solids] (Moscow: Metallurgiya: 1971) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Нейбер, Концентрация напряжений (Москва–Ленинград: Гостехиздат: 1947) (пер. с нем.).",
+				"tr":  "G. Neyber, Kontsentratsiya Napriazheniy [Concentration of Stresses] (Moscow–Leningrad: Gostekhizdat: 1947) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Ужик, Прочность и пластичность металлов при низких температурах (Москва: Изд. АН СССР: 1957).",
+				"tr":  "G. V. Uzhik, Prochnost’ i Plastichnost’ Metallov pri Nizkikh Temperaturakh [Strength and Plasticity of Metals at Low Temperatures] (Moscow: Izd. AN SSSR: 1957) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Нотт, Основы механики разрушения (Москва: Металлургия: 1978) (пер. с англ.).",
+				"tr":  "J. F. Knott, Fundamentals of Fracture Mechanics (London: Butterworth: 1973)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Хоникомб, Пластическая деформация металлов (Москва: Мир: 1972) (пер. с англ.).",
+				"tr":  "R. W. K. Honeycombe, The Plastic Deformation of Metals (2nd ed.) (Edward Arnold: 1984)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Я. Мешков, Физические основы разрушения стальных конструкций (Киев: Наукoва думка: 1981).",
+				"tr":  "Yu. Ya. Meshkov, Fizicheskie Osnovy Razrusheniya Stal’nykh Konstruktsiy (Kiev: Naukova Dumka: 1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Рыбин, А. Н. Орлов, В. Н. Перевезенцев, Границы зерен в металлах (Москва: Металлургия: 1980).",
+				"tr":  "V. V. Rybin, A. N. Orlov, and V. N. Perevezentsev, Granitsy Zeren v Metallakh [Grain Boundaries in Metals] (Moscow: Metallurgiya: 1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Ю. Волосевич, Металлофиз. новейшие технол., 29, № 10: 1393 (2007).",
+				"tr":  "P. Yu. Volosevich, Metallofiz. Noveishie Tekhnol., 29, No. 10: 1393 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Ю. Волосевич, Збірник наукових праць 4-ї Міжнародної конференції «Механіка руйнування матеріалів і міцність конструкцій» (23–27 червня 2009 р.) (Львів: Тз ОВ «Простір-М»), с. 93.",
+				"tr":  "P. Yu. Volosevich, Abstracts of the 4-th Int. Conf. ‘Mechanics of Materials Fracture and Structural Strength’ (June 23–27, 2009) (Lviv: Tz OV ‘Prostir-М’), p. 93 (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Ю. Волосевич, Збірник наукових праць 5-ї Міжнародної конференції «Механіка руйнування матеріалів і міцність конструкцій» (24–27 червня 2014 р.) (Львів: Тз ОВ «Простір-М»), с. 157.",
+				"tr":  "P. Yu. Volosevich, Abstracts of the 4-th Int. Conf. ‘Mechanics of Materials Fracture and Structural Strength’ (June 24–27, 2014) (Lviv: Tz OV ‘Prostir-М’), p. 157 (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/ufm.12.03.367",
+				"or":  "П. Ю. Волосевич, Успехи физ. мет., 12, № 3: 367 (2011).",
+				"tr":  "P. Yu. Volosevych, Usp. Fiz. Met., 12, No. 3: 367 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Зайцев, Физика пластичности гидростатически сжатых кристаллов (Киев: Наукова думка: 1983).",
+				"tr":  "V. I. Zaitsev, Fizika Plastichnosti Gidrodinamicheski Szhatykh Kristallov [Plasticity Physics of Hydrodynamically Compressed Materials] (Kiev: Naukova Dumka: 1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Барбашов, Ю. Б. Ткаченко, ФТВД, № 2: 22 (1995).",
+				"tr":  "V. I. Barbashov and Yu. B. Tkachenko, Fiz. Tekhn. Vysokikh Davleniy, No. 2: 22 (1995) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Гаврилин, Металлургия машиностроения, № 4: 10 (2002).",
+				"tr":  "I. V. Gavrilin, Metallurgiya Mashinostroeniya [Machine Building Metallurgy], No. 4: 10 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Гаврилин, Плавление и кристаллизация металлов и сплавов (Владимир: Владимирский гос. университет: 2000).",
+				"tr":  "I. V. Gavrilin, Plavlenie i Kristallizatsiya Metallov i Splavov [Melting and Crystallization of Metals and Alloys] (Vladimir: Vladimir State University: 2000) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.92.157204",
+				"or":  "F. Decremps and L. Nataf, Phys. Rev. Let., 92, No. 15: 157204 (2004).",
+				"tr":  "F. Decremps and L. Nataf, Phys. Rev. Let., 92, No. 15: 157204 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.80.064421",
+				"or":  "P. Gorria, D. Martinez-Blanco, M. J. Perez, and J. A. Blanco, Phys. Rev. B, 80, No. 6: 06442 (2009).",
+				"tr":  "P. Gorria, D. Martinez-Blanco, M. J. Perez, and J. A. Blanco, Phys. Rev. B, 80, No. 6: 06442 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Ю. Волосевич, А. В. Шиян, Cталь, № 6: 58 (2015).",
+				"tr":  "P. Yu. Volosevich and A. V. Shiyan, Stal’, No. 6: 58 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Nadutov, D. L. Vashchuk, P. Yu. Volosevich, V. A. Beloshenko, V. Z. Spuskanyuk, and O. A. Davidenko, Nanosistemi, Nanomateriali, Nanotehnologii, 11, No. 3: 619 (2013).",
+				"tr":  "V. M. Nadutov, D. L. Vashchuk, P. Yu. Volosevich, V. A. Beloshenko, V. Z. Spuskanyuk, and O. A. Davidenko, Nanosistemi, Nanomateriali, Nanotehnologii, 11, No. 3: 619 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Миркин, Справочник по рентгеноструктурному анализу поликристаллов (Москва: Гос. изд-во физ.-мат. литературы: 1961), с. 38.",
+				"tr":  "L. I. Mirkin, Spravochnik po Rentgenostrukturnomu Analizu Polikristallov [Handbook on X-Ray Analysis of Polycrystals] (Moscow: Gos. Izd-vo Fiz.-Mat. Literatury: 1961), p. 38 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Ю. Волосевич, С. Є. Кондратюк, Металознавство та обробка металів, 1, № 77: 29 (2016).",
+				"tr":  "P. Yu. Volosevich and S. Ye. Kondratyuk, Metaloznavstvo ta Obrobka Metaliv, 1, No. 77: 29 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/mfint.36.04.0445",
+				"or":  "В. И. Засимчук, Е. Э. Засимчук, Ю. Г. Гордиенко, Металлофиз. новейшие технол., 36, № 4: 445 (2014).",
+				"tr":  "V. I. Zasimchuk, O. Eh. Zasimchuk, and Yu. G. Gordienko, Metallofiz. Noveishie Tekhnol., 36, No. 4: 445 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Є. Кондратюк, Структуроутворення, спадковість і властивості литої сталі (Київ: Наукова думка: 2010).",
+				"tr":  "S. Ye. Kondratyuk, Strukturoutvorennya, Spadkovist’ i Vlastyvosti Lytoi Stali [Structural Formation, Heredity and Properties of As-Cast Steel] (Kyiv: Naukova Dumka: 2010) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. З. Валиев, В. Г. Хайруллин, Физ. мет. металловед., 64, № 6: 1224 (1987).",
+				"tr":  "R. Z. Valiev and V. G. Khairullin, Fiz. Met. Metalloved., 64, No. 6: 1224 (1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Ю. Волосевич, Металлофиз. новейшие технол., 18, № 10: 63 (1996).",
+				"tr":  "P. Yu. Volosevich, Metallofiz. Noveishie Tekhnol., 18, No. 10: 63 (1996) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Косевич, В. М. Иевлев, Л. С. Палатник, А. И. Федоренко, Структура межкристаллитных и межзеренных границ (Москва: Металлургия: 1980).",
+				"tr":  "V. M. Kosevich, V. M. Ievlev, L. S. Palatnik, and A. I. Fedorenko, Struktura Mezhkristallitnykh i Mezhzerennykh Granits [Structure of Intercrystalline and Grain Boundaries] (Moscow: Metallurgiya: 1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. N. Voloshin, Abstracts of Conference ‘High Pressures’ (Kiev: 1989), vol. 4, p. 182.",
+				"tr":  "M. N. Voloshin, Abstracts of Conference ‘High Pressures’ (Kiev: 1989), vol. 4, p. 182."
+			},
+			{
+				"doi": "",
+				"or":  "D. Č. Stefanović, M. Djuričić, V. Petrović, Z. Dukić, and M. M. Ristić, Abstracts of Conference ‘High Pressures’ (Kiev: 1989), vol. 2, p. 182.",
+				"tr":  "D. Č. Stefanović, M. Djuričić, V. Petrović, Z. Dukić, and M. M. Ristić, Abstracts of Conference ‘High Pressures’ (Kiev: 1989), vol. 2, p. 182."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Терентьєв, Усталость металлических материалов (Москва: Наука: 2003).",
+				"tr":  "V. F. Terent’ev, Ustalost’ Metallicheskikh Materialov [Fatigue of Metal Materials] (Moscow: Nauka: 2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Бевз, В. Ф. Мазанко, А. В. Филатов, С. П. Ворона, Металлофиз. новейшие технол., 28, спецвыпуск: 271 (2006).",
+				"tr":  "V. P. Bevz, V. F. Mazanko, A. F. Filatov, and S. P. Vorona, Metallofiz. Noveishie Tekhnol., 28, Special Issue: 271 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Косевич, В. В. Токий, В. А. Стрельцов, Физ. мет. металловед., 45, № 6: 1135 (1978).",
+				"tr":  "O. M. Kosevich, V. V. Tokiy, and V. A. Streltsov, Fiz. Met. Metalloved., 45, No. 6: 1135 (1978) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.16.01.035",
+				"or":  "Л. Б. Зуев, Успехи физ. мет., 16, № 1: 35 (2015).",
+				"tr":  "L. B. Zuev, Usp. Fiz. Met., 16, No. 1: 35 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.18.04.295",
+				"or":  "В. О. Харченко, І. О. Лисенко, О. М. Щокотова, А. І. Баштова, Д. О. Харченко, Ю. М. Овчаренко, С. В. Кохан, X. Wu, B. Wen, L. Wu, W. Zhang, Успехи физ. мет., 18, № 4: 295 (2017).",
+				"tr":  "V. O. Kharchenko, I. O. Lysenko, O. M. Shchokotova, A. I. Bashtova, D. O. Kharchenko, Yu. M. Ovcharenko, S. V. Kokhan, X. Wu, B. Wen, L. Wu, and W. Zhang, Usp. Fiz. Met., 18, No. 4: 295 (2017) (in Ukrainian)."
+			}
+		]
+	}
+}

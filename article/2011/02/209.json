@@ -1,0 +1,175 @@
+{
+	"_id":    "UFM.12.02.209",
+	"year":   2011,
+	"volume": 12,
+	"issue":  2,
+	"pages":  [209,239],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["12.01.2011"],
+	"PACS":   "62.20.Qp, 62.25.-g, 68.37.Lp, 73.20.-r, 81.07.Bc, 81.16.Rf, 81.40.Pq",
+	"title":   {
+		"ua": "Вплив активних елементів робочого середовища на електронну структуру і механізм деформації поверхневих шарів металу за тертя",
+		"en": "Influence of Active Elements of a Machining Medium on Electronic Structure and the Mechanism of Deformation of Surface Layers of Metal at Friction",
+		"ru": "Влияние активных элементов рабочей среды на электронную структуру и механизм деформации поверхностных слоёв металла при трении"
+	},
+	"abstract": {
+		"ua": "Подано результати комплексних досліджень зміни локального хемічного складу та структурно-фазових перетворень у зонах контактної взаємодії сталей при терті в різних середовищах. Показано, що деформація поверхневих шарів металу при терті на повітрі призводить до насичення примежових областей структурних фраґментів переважно атомами вуглецю, які знаходяться в октапорах ОЦК-заліза. Атоми вуглецю утворюють міцні ковалентні зв’язки з оточуючими їх атомами металу та знижують рухливість атомів на межах. Це сприяє деформаційному зміцненню поверхневих шарів металу при терті на повітрі та запобігає його нашаруванню на поверхні тертя. Встановлено, що пластична деформація поверхневих шарів металу при терті у воді призводить до насичення примежових областей структурних фраґментів також атомами кисню, який утворює метастабільні атомові кластери Fe—O—C. Показано, що ці кластери та атоми металу кристалічної ґратниці розділяють області зі зниженою електронною густиною, які є результатом обмеженої участи валентних електронів у формуванні ковалентних зв’язків між атомами металу та атомами кластерів. Показано, що скупчення атомових кластерів Fe—O—C на межах структурних фраґментів призводить до їх зміщення один відносно одного при малих напруженнях зсуву та сприяє переходу металу взаємодіючих мікровиступів у новий структурно-нестійкий стан, при якому реалізується його гідродинамічний плин без втрати суцільности. Це призводить до формування на поверхнях тіл, що труться у воді, зносостійких наддрібнозернистих шарів, завдяки яким контактна пара переходить у стаціонарний режим роботи з мінімальними зносом і коефіцієнтом тертя.",
+		"en": "The article presents the results of complex studies of changes in local chemical composition and structural—phase transformations within the areas of contact interaction of steels in sliding in different environments. As shown, the deformation of the metal surface layers during a friction in air leads to saturation of the boundary areas of structural fragments with the carbon atoms, which are in octahedrical interstices of b.c.c. The carbon atoms form strong covalent bonds with the surrounding metal atoms and reduce the mobility of atoms at the boundaries. This one contributes to deformation hardening of surface layers of metal rubbing in the air and prevents its stratification under the surface friction. Plastic deformation of the surface layers of metal during a friction within the water leads to saturation of the boundary areas of structural fragments with oxygen atoms, which form the metastable atomic Fe—O—C clusters. These clusters and metal atoms of the crystal lattice separate regions with low electron density, which are the result of limited participation of valence electrons in the formation of covalent bonds between the metal atoms and the atoms of clusters. Aggregation of atomic Fe—O—C clusters at the boundaries of structural fragments leads to their displacement of one with respect to another at the low transverse shift stresses and contributes to the transition of a metal of the interacting asperities into the new structurally unstable state, in which it is involved in the hydrodynamic flow without the loss of continuity. This one leads to the formation of nanostructured wear-resistant layers on the surfaces of friction of bodies in water.",
+		"ru": "Приведены результаты комплексных исследований изменения локального химического состава и структурно-фазовых превращений в зонах контактного взаимодействия сталей при трении в разных средах. Показано, что деформация поверхностных слоёв металла при трении на воздухе приводит к насыщению приграничных областей структурных фрагментов преимущественно атомами углерода, которые находятся в октапорах ОЦК-железа. Атомы углерода образуют прочные ковалентные связи с окружающими их атомами металла и снижают подвижность атомов на границах. Это способствует деформационному упрочнению поверхностных слоёв трущегося на воздухе металла и препятствует его наслоению на поверхности трения. Установлено, что пластическая деформация поверхностных слоёв металла при трении в воде приводит к насыщению приграничных областей структурных фрагментов также атомами кислорода, которые образуют метастабильные атомные кластеры Fe—O—C. Показано, что эти кластеры и атомы металла кристаллической решётки разделяют области с пониженной электронной плотностью, которые являются результатом ограниченного участия валентных электронов в формировании ковалентных связей между атомами металла и атомами кластеров. Показано, что скопление атомных кластеров Fe—O—C на границах структурных фрагментов приводит к их смещению друг относительно друга при малых напряжениях сдвига и способствует переходу металла взаимодействующих микронеровностей в новое структурно-неустойчивое состояние, при котором реализуется его гидродинамическое течение без потери сплошности. Это приводит к формированию на поверхностях трущихся в воде тел износостойких сверхмелкозернистых слоёв, благодаря которым контактная пара переходит в установившийся режим работы с минимальными износом и коэффициентом трения."
+	},
+	"keywords": {
+		"ua": "пластична деформація, розподіл домішкових атомів, електронна структура, атомові кластери, тертя",
+		"en": "plastic deformation, distribution of impurity atoms, electron structure, atomic clusters, friction",
+		"ru": "пластическая деформация, распределение примесных атомов, электронная структура, атомные кластеры, трение"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Тихонович", "en": "V. V. Tykhonovych", "ru": "В. В. Тихонович"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Уваров", "en": "V. M. Uvarov", "ru": "В. Н. Уваров"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.15407/mfint.38.07.0867",
+				"cit": "V. V. Tykhonovych, <a href=\"https://doi.org/10.15407/mfint.38.07.0867\">Metallofiz. Noveishie Tekhnol. <b>38</b>, 867 (2016)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 25,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. В. Тихонович, Л. М. Шелудченко, В. В. Горский, Металлофизика, 9, № 4: 27 (1987).",
+				"tr":  "V. V. Tihonovich, L. M. Sheludchenko, V. V. Gorsky, Metallofizika, 9, No. 4: 27 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Горский, В. В. Тихонович, Б. С. Шаповал и др., Трение и износ, 7, № 2: 308 (1986).",
+				"tr":  "V. V. Gorsky, V. V. Tihonovich, B. S. Shapoval et al., Trenie i iznos, 7, No. 2: 308 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Тихонович, Л. М. Шелудченко, В. В. Горский, Металлофиз. новейшие технол., 16, № 7: 13 (1994).",
+				"tr":  "V. V. Tihonovich, L. M. Sheludchenko, V. V. Gorsky, Metallofiz. Noveishie Tekhnol., 16, No. 7: 13 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Горский, В. В. Тихонович, Л. М. Шелудченко и др., Трение и износ, 14, № 6: 1041 (1993).",
+				"tr":  "V. V. Gorsky, V. V. Tihonovich, L. M. Sheludchenko et al., Trenie i iznos, 14, No. 6: 1041 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Горский, А. Н. Грипачевский, В. В. Тихонович и др., Успехи физ. мет., 4, № 4: 271 (2003).",
+				"tr":  "V. V. Gorsky, A. N. Gripachevskij, V. V. Tihonovich et al., Uspehi Fiziki Metallov, 4, No. 4: 271 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Тихонович, А. Н. Грипачевский, В. И. Тихонович, Металознавство та обробка металів, № 3: 51 (2008).",
+				"tr":  "V. V. Tihonovich, A. N. Gripachevskij, V. I. Tihonovich, Metaloznavstvo ta obrobka metaliv, No. 3: 51 (2008)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00271-F",
+				"or":  "V. V. Gorsky, A. N. Gripachevsky, V. V. Nemoshkalenko et al., NanoStructured Materials, 5, No. 6: 965 (1995).",
+				"tr":  "V. V. Gorsky, A. N. Gripachevsky, V. V. Nemoshkalenko et al., NanoStructured Materials, 5, No. 6: 965 (1995)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00271-F",
+				"or":  "V. V. Gorsky, A. N. Gripachevsky, V. V. Nemoshkalenko et al., NanoStructured Materials, 5, No. 6: 976 (1995).",
+				"tr":  "V. V. Gorsky, A. N. Gripachevsky, V. V. Nemoshkalenko et al., NanoStructured Materials, 5, No. 6: 976 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Немошкаленко, В. В. Горский, В. В. Тихонович и др., Металлофизика, 6, № 6: 93 (1984).",
+				"tr":  "V. V. Nemoshkalenko, V. V. Gorsky, V. V. Tihonovich et al., Metallofizika, 6, No. 6: 93 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Ковалев, Г. В. Щербединский, Современные методы исследования поверхности металлов и сплавов (Москва: Металлургия: 1989).",
+				"tr":  "A. I. Kovalev, G. V. Shherbedinskij, Sovremennye metody issledovanija poverhnosti metallov i splavov (Moskva: Metallurgija: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Ковалев, В. П. Мишина, Г. В. Щербединский, Металлофизика, 9, № 3: 112 (1987).",
+				"tr":  "A. I. Kovalev, V. P. Mishina, G. V. Shherbedinskij, Metallofizika, 9, No. 3: 112 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Э. Засимчук, Л. И. Маркашова, Т. В. Турчак и др., Физическая мезомеханика, 12, № 2: 77 (2009).",
+				"tr":  "E. Je. Zasimchuk, L. I. Markashova, T. V. Turchak et al., Fizicheskaja mezomehanika, 12, No. 2: 77 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лихачев, В. Е. Панин, Е. Э. Засимчук и др. Кооперативные деформационные процессы и локализация деформации (Киев: Наукова думка: 1989).",
+				"tr":  "V. A. Likhachev, V. E. Panin, E. E. Zasimchuk et al. Kooperativnye deformacionnye processy i lokalizacija deformacii (Kiev: Naukova dumka: 1989)."
+			},
+			{
+				"doi": "10.1080/01418619408242540",
+				"or":  "Yu. G. Gordienko and E. E. Zasimchuk, Phil. Mag. A, 70, No. 1: 99 (1994).",
+				"tr":  "Yu. G. Gordienko and E. E. Zasimchuk, Phil. Mag. A, 70, No. 1: 99 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Э. Засимчук, Ю. Г. Гордиенко, В. И. Засимчук, Металлофиз. новейшие технол., 24, № 9: 1161 (2002).",
+				"tr":  "E. E. Zasimchuk, Ju. G. Gordienko, V. I. Zasimchuk, Metallofiz. Noveishie Tekhnol., 24, No. 9: 1161 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Э. Засимчук, В. И. Засимчук, Металлофиз. новейшие технол., 28, № 6: 803 (2006).",
+				"tr":  "E. E. Zasimchuk, V. I. Zasimchuk, Metallofiz. Noveishie Tekhnol., 28, No. 6: 803 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Горелик, Л. Н. Расторгуев, Ю. А. Скаков, Рентгенографический и электроннооптический анализ (Москва: Металлургия: 1970).",
+				"tr":  "S. S. Gorelik, L. N. Rastorguev, Yu. A. Skakov, Rentgenograficheskij i jelektronnoopticheskij analiz (Moskva: Metallurgija: 1970)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Рыбин, Физические основы развитой пластической деформации и вязкого разрушения поликристаллов (Автореф. дисс. … д-ра физ.-мат. н.) (Киев: Институт металлофизики АН УССР:1979).",
+				"tr":  "V. V. Rybin, Fizicheskie osnovy razvitoj plasticheskoj deformacii i vjazkogo razrushenija polikristallov (Avtoref. diss. … d-ra fiz.-mat. n.) (Kiev: Institut metallofiziki AN USSR:1979)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Немошкаленко, В. В. Тихонович, В. В. Горский и др., Металлофизика, 15, № 4: 45 (1993).",
+				"tr":  "V. V. Nemoshkalenko, V. V. Tikhonovich, V. V. Gorskiy et al., Metallofizika, 15, No. 4: 45 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. З. Валиев, А. В. Корзников, Р. Р. Мулюков, Физ. мет. металловед., № 4: 70 (1992).",
+				"tr":  "R. Z. Valiev, A. V. Korznikov, R. R. Mulyukov, Fiz. met. metalloved., No. 4: 70 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Бриггс, М. П. Сих, Анализ поверхности методами оже- и рентгеновской фотоэлектронной спектроскопии (Москва: Мир: 1987).",
+				"tr":  "D. Briggs, M. P. Sih, Analiz poverhnosti metodami ozhe- i rentgenovskoj fotojelektronnoj spektroskopii (Moskva: Mir: 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Singh, Plane Waves, Pseudopotentials and LAPW Method (Boston: Kluwer Academic: 1994).",
+				"tr":  "D. Singh, Plane Waves, Pseudopotentials and LAPW Method (Boston: Kluwer Academic: 1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.77.3865",
+				"or":  "J. P. Perdew, S. Burke, and M. Ernzerhof, Phys. Rev. Let., 77: 3865 (1996).",
+				"tr":  "J. P. Perdew, S. Burke, and M. Ernzerhof, Phys. Rev. Let., 77: 3865 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Blaha, K. Schwarz, G. K. Madsen, D. Kvasnicka, and J. Luits, WIEN2k: An Augmented Plane Wave  Local Orbitals Program for Calculation of Crystal Properties (Karlheinz Schwarz–Techn. Universität Wien, Austria: ISBN 3-9501031-1-2: 2001).",
+				"tr":  "P. Blaha, K. Schwarz, G. K. Madsen, D. Kvasnicka, and J. Luits, WIEN2k: An Augmented Plane Wave + Local Orbitals Program for Calculation of Crystal Properties (Karlheinz Schwarz–Techn. Universität Wien, Austria: ISBN 3-9501031-1-2: 2001)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Нокс, А. Голд, Симметрия в твердом теле (Москва: Мир: 1970).",
+				"tr":  "R. Noks, A. Gold, Simmetriya v tverdom tele (Moskva: Mir: 1970)."
+			}
+		]
+	}
+}

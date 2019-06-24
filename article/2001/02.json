@@ -1,0 +1,49 @@
+{
+	"year":   2001,
+	"volume": 2,
+	"issue":  2,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [109,129],
+			"title": {
+				"ua": "Електронна структура таи магнетні властивості стопів системи Fe-Co",
+				"en": "Electronic Structure and Magnetic Properties of Alloys",
+				"ru": "Электронная структура и магнитные свойства сплавов системы Fe-Co"
+			},
+			"autors": {
+				"ua": "Ю. С. Мітрохін, Т. М. Махнева",
+				"en": "Yu. S. Mitrokhin and T. M. Makhneva",
+				"ru": "Ю. С. Митрохин, Т. М. Махнева"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [131,149],
+			"title": {
+				"ua": "Магнетодеформаційний эфект",
+				"en": "Magnetic Deformation Effect",
+				"ru": "Магнитодеформационный эффект"
+			},
+			"autors": {
+				"ua": "О. В. Бродовий, С. Г. Бунчук, В. Г. Колісніченко, В. В. Скороход",
+				"en": "O. V. Brodovyj, S. G. Bunchuk, V. G. Kolesnichenko, and V. V. Skorokhod",
+				"ru": "А. В. Бродовой, С. Г. Бунчук, В. Г. Колисниченко, В. В. Скороход"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [151,187],
+			"title": {
+				"ua": "Деформаційна структура металів і діяграми ІДТ",
+				"en": "Deformation Structure of Metals an TDT Diagrams",
+				"ru": "Деформационная структура металлов и диаграммы ИДТ"
+			},
+			"autors": {
+				"ua": "В. Ф. Моісеєв, Е. П. Печковський",
+				"en": "V. F. Moiseyev and Eh. P. Pechkovs`ky",
+				"ru": "В. Ф. Моисеев, Э. П. Печковский"
+			}
+		}
+	]
+}

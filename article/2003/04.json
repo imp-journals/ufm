@@ -1,0 +1,49 @@
+{
+	"year":   2003,
+	"volume": 4,
+	"issue":  4,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [235,269],
+			"title": {
+				"ua": "Малі металеві частинки: способи одержання, атомова й електронна структура, магнетні властивості та практичне застосування",
+				"en": "Small Metallic Particles: Methods of Fabrication, Atomic and Electronic Structure, Magnetic Properties, and Practical Usage",
+				"ru": "Малые металлические частицы: способы получения, атомная и электронная структура, магнитные свойства и практическое использование"
+			},
+			"autors": {
+				"ua": "К. В. Чуістов, А. П. Шпак, А. Е. Перекос, О. Д. Рудь, В. М. Уваров",
+				"en": "K. V. Chuistov, A. P. Shpak, A. O. Perekos, O. D. Rud’, and V. M. Uvarov",
+				"ru": "К. В. Чуистов, А. П. Шпак, А. Е. Перекос, А. Д. Рудь, В. Н. Уваров"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [271,302],
+			"title": {
+				"ua": "Вплив активних елементів робочого середовища та зовнішніх впливів на фізичну природу і механізм формування наноструктурних зносостійких матеріялів у зоні контакту металів за тертя",
+				"en": "Influence of Active Elements of a Operated Medium and External Actions on the Physical Nature and Mechanism of Formation of Nanostructured Wear-Resistant Materials in Zone of Contact of Metals at Friction",
+				"ru": "Влияние активных элементов рабочей среды и внешних воздействий на физическую природу и механизм формирования наноструктурных износостойких материалов в зоне контакта металлов при трении"
+			},
+			"autors": {
+				"ua": "В. В. Горський, О. М. Грипачевський, В. В. Тихонович, В. М. Уваров",
+				"en": "V. V. Gors’ky, O. M. Grypachevs’ky, V. V. Tykhonovych, and V. M. Uvarov",
+				"ru": "В. В. Горский, А. Н. Грипачевский, В. В. Тихонович, В. Н. Уваров"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [303,336],
+			"title": {
+				"ua": "Властивості нанорозмірних частинок на основі металів, локалізованих у біологічних тканинах",
+				"en": "Properties of Nanoscale Particles on the Basis of Metals Localized Into Biological Tissues",
+				"ru": "Свойства наноразмерных частиц на основе металлов, локализованных в биологических тканях"
+			},
+			"autors": {
+				"ua": "А. П. Шпак, А. Б. Брик, В. Л. Карбовський, Л. Г. Розенфельд",
+				"en": "A. P. Shpak, A. B. Brik, V. L. Karbovskiy, and L. G. Rosenfeld",
+				"ru": "А. П. Шпак, А. Б. Брик, В. Л. Карбовский, Л. Г. Розенфельд"
+			}
+		}
+	]
+}

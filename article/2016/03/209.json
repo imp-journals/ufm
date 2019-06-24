@@ -1,0 +1,174 @@
+{
+	"_id":    "UFM.17.03.209",
+	"year":   2016,
+	"volume": 17,
+	"issue":  3,
+	"pages":  [209,228],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["06.06.2016"],
+	"PACS":   "52.40.Fd, 61.80.Lj, 68.49.Df, 68.35.Iv, 68.35.Np, 75.70.Rf",
+	"title":   {
+		"ua": "Вплив бомбардування металевої поверхні низькоенергетичними йонами інертного газу на адсорбцію Оксиґену й окиснення",
+		"en": "Effect of Low-Energy Inert-Gas Ion Bombardment of the Metal Surface on the Oxygen Adsorption and Oxidation",
+		"ru": "Влияние бомбардировки металлической поверхности низкоэнергетическими ионами инертного газа на адсорбцию кислорода и окисление"
+	},
+	"abstract": {
+		"ua": "Добре відомо, що властивості поверхні металу змінюються в результаті йонного розпорошення поверхневих шарів у вакуумі. Даний огляд містить результати досліджень зміни кінетики адсорбції кисню і окиснення на поверхні перехідних металів і стопів у вакуумі при бомбардуванні йонами Ar$^{+}$ низької енергії (< 10 кеВ). Зокрема, наведено результати систематичних досліджень поверхні монокристалів Cu, Ni, Fe, Co і стопу Fe–Ni. Відзначається важлива роль таких параметрів як доза бомбардування, енергія йонів і температура зразка у зміні хемічної активности поверхні. Наведено докази того, що механізм взаємодії в системі газ–поверхня істотно контролюється оптимальним співвідношенням між енергією та густиною первинного йонного струму, а також швидкістю розпорошення природного оксиду на поверхні мішені.",
+		"en": "It is well known that the metal-surface properties vary as a result of the surface layers ion sputtering in vacuum. This review contains results of the studies of kinetics change of oxygen adsorption and oxidation on the surface of transition metals and alloys in a vacuum during the low-energy (< 10 keV) Ar$^{+}$ ions bombardment. Particularly, the results of the systematic studies of the surface of Cu, Ni, Fe, Co single crystals, and Fe–Ni alloy are presented. The important role of such parameters as a dose of the ion bombarding, ion energy and sample temperature in the chemical activity of surface is noted. It is argued that mechanism of interaction in surface–gas system is substantially controlled by the optimal ratio between the energy and primary ion current density, as well as sputtering rate of natural oxide on the target surface.",
+		"ru": "Хорошо известно, что свойства поверхности металла изменяются в результате ионного распыления поверхностных слоёв в вакууме. Данный обзор содержит результаты исследований изменения кинетики адсорбции кислорода и окисления на поверхности переходных металлов и сплавов в вакууме при бомбардировке ионами Ar$^{+}$ низкой энергии (< 10 кэВ). В частности, приведены результаты систематических исследований поверхности монокристаллов Cu, Ni, Fe, Co и сплава Fe–Ni. Отмечается важная роль таких параметров как доза бомбардировки, энергия ионов и температура образца в изменении химической активности поверхности. Приведены доказательства того, что механизм взаимодействия в системе газ–поверхность существенно контролируется оптимальным соотношением между энергией и плотностью первичного ионного тока, а также скоростью распыления природного оксида на поверхности мишени."
+	},
+	"keywords": {
+		"ua": "йонне бомбардування, адсорбція кисню, окиснення, поверхня металу та стопу, радіяційні дефекти",
+		"en": "ion bombardment, oxygen adsorption, oxidation, metal and alloy surface, radiation defects",
+		"ru": "ионная бомбардировка, адсорбция кислорода, окисление, поверхность металла и сплава, радиационные дефекты"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. О. Васильєв", "en": "M. O. Vasylyev", "ru": "М. А. Васильев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. І. Сидоренко", "en": "S. I. Sidorenko", "ru": "С. И. Сидоренко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "С. М. Волошко", "en": "S. M. Voloshko", "ru": "С. М. Волошко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "Т. Ішікава", "en": "T. Ishikawa", "ru": "Т. Ишикава"},
+			"OID": [485]
+		}
+	],
+	"references": {
+		"count": 22,
+		"list":  [
+			{
+				"doi": "10.1063/1.4768915",
+				"or":  "A. J. R. van den Boogaard, E. Zoethout, I. A. Makhotkin, E. Louis, and F. Bijkerk, J. Appl. Phys., 112: 123502 (2012).",
+				"tr":  "A. J. R. van den Boogaard, E. Zoethout, I. A. Makhotkin, E. Louis, and F. Bijkerk, J. Appl. Phys., 112: 123502 (2012)."
+			},
+			{
+				"doi": "10.1364/OME.5.000176",
+				"or":  "S. Zuccon, E. Napolitani, E. Tessarolo, P. Zuppella, A. J. Corso, F. Gerlin, M. Nardello, and M. G. Pelizzo, Opt. Mater. Express, 5: 176 (2014).",
+				"tr":  "S. Zuccon, E. Napolitani, E. Tessarolo, P. Zuppella, A. J. Corso, F. Gerlin, M. Nardello, and M. G. Pelizzo, Opt. Mater. Express, 5: 176 (2014)."
+			},
+			{
+				"doi": "10.1016/j.nimb.2015.07.087",
+				"or":  "X. Li, K.-W. Lin, H.-T. Liang, H.-F. Hsu, N. G. Galkin, Y. Wroczynskyj, J. Van Lierop, and P. W. T. Pong, Nucl. Instrum. Methods Phys. Res. Sect. B, 365: 196 (2015).",
+				"tr":  "X. Li, K.-W. Lin, H.-T. Liang, H.-F. Hsu, N. G. Galkin, Y. Wroczynskyj, J. Van Lierop, and P. W. T. Pong, Nucl. Instrum. Methods Phys. Res. Sect. B, 365: 196 (2015)."
+			},
+			{
+				"doi": "10.1016/j.nimb.2014.11.013",
+				"or":  "L. Repetto, R. Lo Savio, B. Šetina Batic, G. Firpo, E. Angeli, and U. Valbusa, Nucl. Instrum. Methods Phys. Res. Sect. B, 354: 28 (2015).",
+				"tr":  "L. Repetto, R. Lo Savio, B. Šetina Batic, G. Firpo, E. Angeli, and U. Valbusa, Nucl. Instrum. Methods Phys. Res. Sect. B, 354: 28 (2015)."
+			},
+			{
+				"doi": "10.1002/sia.3587",
+				"or":  "S. Ninomiya, K. Ichiki, H. Yamada, Y. Nakata, T. Seki, T. Aokic, and J. Matsuo, Surf. Interface Anal., 43: 95 (2011).",
+				"tr":  "S. Ninomiya, K. Ichiki, H. Yamada, Y. Nakata, T. Seki, T. Aokic, and J. Matsuo, Surf. Interface Anal., 43: 95 (2011)."
+			},
+			{
+				"doi": "10.7567/APEX.8.076601",
+				"or":  "Y. Fujiwara and N. Saito, Appl. Phys. Express, 8: 076601 (2015).",
+				"tr":  "Y. Fujiwara and N. Saito, Appl. Phys. Express, 8: 076601 (2015)."
+			},
+			{
+				"doi": "10.1093/jmicro/dfh071",
+				"or":  "M. Sugiyama and G. Sigesato, J. Electron Microscopy, 53: 527 (2004).",
+				"tr":  "M. Sugiyama and G. Sigesato, J. Electron Microscopy, 53: 527 (2004)."
+			},
+			{
+				"doi": "10.1080/01694243.2014.981481",
+				"or":  "T. A. Bakhsh, A. Sadr, and J. Tagami, J. Adhes. Sci. Technol., 29: 232 (2015).",
+				"tr":  "T. A. Bakhsh, A. Sadr, and J. Tagami, J. Adhes. Sci. Technol., 29: 232 (2015)."
+			},
+			{
+				"doi": "10.1063/1.1748229",
+				"or":  "R. K. Sherburne and H. E. Farnsworth, J. Chem. Phys., 19: 387 (1951).",
+				"tr":  "R. K. Sherburne and H. E. Farnsworth, J. Chem. Phys., 19: 387 (1951)."
+			},
+			{
+				"doi": "10.1016/0010-938X(76)90126-8",
+				"or":  "V. Ashworth, W. A. Grant, R. P. M. Procter, and T. C. Wellington, Corrosion Science, 16: 393 (1976).",
+				"tr":  "V. Ashworth, W. A. Grant, R. P. M. Procter, and T. C. Wellington, Corrosion Science, 16: 393 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "V. T. Cherepin, M. A. Vasil’ev, and Yu. N. Ivashchenko, Doklady AN SSSR, 210: 821 (1973) (in Russian).",
+				"tr":  "V. T. Cherepin, M. A. Vasil'ev, and Yu. N. Ivashchenko, Doklady AN SSSR, 210: 821 (1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. M. Khirnyi and A. P. Solodovnikov, Doklady AN SSSR, 214: 82 (1974) (in Russian).",
+				"tr":  "Yu. M. Khirnyi and A. P. Solodovnikov, Doklady AN SSSR, 214: 82 (1974) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0039-6028(76)90498-2",
+				"or":  "V. T. Cherepin, A. A. Kosyachkov, and M. A. Vasiliev, Surf. Sci., 58: 609 (1976).",
+				"tr":  "V. T. Cherepin, A. A. Kosyachkov, and M. A. Vasiliev, Surf. Sci., 58: 609 (1976)."
+			},
+			{
+				"doi": "10.1016/0038-1098(80)90777-2",
+				"or":  "R. Miranda, J.M. Rojo, and M. Salmeron, Solid State Comm., 35: 83 (1980).",
+				"tr":  "R. Miranda, J.M. Rojo, and M. Salmeron, Solid State Comm., 35: 83 (1980)."
+			},
+			{
+				"doi": "10.1016/0038-1098(82)90031-X",
+				"or":  "L. Gonzalez, R. Miranda, and S. Ferrer, Solid State Comm., 44: 1461 (1982).",
+				"tr":  "L. Gonzalez, R. Miranda, and S. Ferrer, Solid State Comm., 44: 1461 (1982)."
+			},
+			{
+				"doi": "10.1016/0042-207X(84)90227-6",
+				"or":  "R. Miranda and J. M. Rojo, Vacuum, 34: 1069 (1984).",
+				"tr":  "R. Miranda and J. M. Rojo, Vacuum, 34: 1069 (1984)."
+			},
+			{
+				"doi": "10.1016/0042-207X(86)90332-5",
+				"or":  "S. P. Chenakin, Vacuum, 36: 635 (1986).",
+				"tr":  "S. P. Chenakin, Vacuum, 36: 635 (1986)."
+			},
+			{
+				"doi": "10.1016/0169-4332(94)00471-4",
+				"or":  "S. P. Chenakin, Appl. Surface Sci., 84: 91 (1995).",
+				"tr":  "S. P. Chenakin, Appl. Surface Sci., 84: 91 (1995)."
+			},
+			{
+				"doi": "10.1134/S1027451011050181",
+				"or":  "V. E. Yurasova, V. T. Cherepin, and Yu. A. Ryzhov, Journal of Surface Investigation. X-Ray, Synchrotron and Neutron Techniques, 5: 465 (2011).",
+				"tr":  "V. E. Yurasova, V. T. Cherepin, and Yu. A. Ryzhov, Journal of Surface Investigation. X-Ray, Synchrotron and Neutron Techniques, 5: 465 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Albers, W. J. J. Van der Wal, and G. A. Bootsma, Surface Sci., 68: (1977).",
+				"tr":  "H. Albers, W. J. J. Van der Wal, and G. A. Bootsma, Surface Sci., 68: (1977)."
+			},
+			{
+				"doi": "10.1116/1.570826",
+				"or":  "R. Miranda, J. M. Rojo, and M. Salmeror, J. Vac. Sci. Technol., 18: 596 (1981).",
+				"tr":  "R. Miranda, J. M. Rojo, and M. Salmeror, J. Vac. Sci. Technol., 18: 596 (1981)."
+			},
+			{
+				"doi": "10.1016/0039-6028(77)90186-8",
+				"or":  "G. E. Rhead, Surface Sci., 68: 20 (1977).",
+				"tr":  "G. E. Rhead, Surface Sci., 68: 20 (1977)."
+			},
+			{
+				"doi": "10.1016/0039-6028(74)90105-8",
+				"or":  "J. C. Tsai and J. M. Morabito, Surface Sci., 44: 247 (1974).",
+				"tr":  "J. C. Tsai and J. M. Morabito, Surface Sci., 44: 247 (1974)."
+			},
+			{
+				"doi": "10.1080/00337577008235052",
+				"or":  "H. E. Schiott, Rad. Effects, 6: 107 (1970).",
+				"tr":  "H. E. Schiott, Rad. Effects, 6: 107 (1970)."
+			},
+			{
+				"doi": "10.1016/0167-5087(83)90915-8",
+				"or":  "M. Slater, G. Garterand, and W. A. Grant, Nucl. Instrum. Meth., 209–210: 1023 (1983).",
+				"tr":  "M. Slater, G. Garterand, and W. A. Grant, Nucl. Instrum. Meth., 209–210: 1023 (1983)."
+			}
+		]
+	}
+}

@@ -1,0 +1,197 @@
+{
+	"_id":    "UFM.19.02.195",
+	"year":   2018,
+	"volume": 19,
+	"issue":  2,
+	"pages":  [195,222],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["13.06.2018", "27.06.2018"],
+	"PACS":   "06.60.Vz, 61.80.Fe, 62.20.Qp, 68.37.Lp, 81.40.Pq, 81.40.Wx, 81.65.Lp, 82.80.Ej, 83.50.Uv",
+	"title":   {
+		"ua": "Модифікація структури та властивостей поверхні доевтектичного силуміну інтенсивними імпульсними електронними пучкам",
+		"en": "Modification of Structure and Surface Properties of Hypoeutectic Silumin by Intense Pulse Electron Beams",
+		"ru": "Модификация структуры и свойств поверхности доэвтектического силумина интенсивными импульсными электронными пучками"
+	},
+	"abstract": {
+		"ua": "Методами сучасного фізичного матеріялознавства виконано аналізу структурно-фазових станів, трибологічних і механічних властивостей доевтектичного силуміну, що піддається електронно-пучковому обробленню (ЕПО) за наступних параметрів пучка: густина енергії — 10–35 Дж/см$^{2}$, тривалість імпульсу — 10 мкс, кількість імпульсів — 3, частота проходження — 0,3 Гц. У початковому стані структуру силуміну сформовано зернами твердого розчину на основі алюмінію, зернами евтектики, включеннями кремнію й інтерметалідів різної форми та розмірів. ЕПО з густиною енергії у 20–35 Дж/см$^{2}$ приводить до топлення поверхневого шару, розчинення включень кремнію й інтерметалідів, формування структури високошвидкісної коміркової кристалізації, повторного виділення частинок другої фази субмікронанорозмірного діяпазону. Середній розмір осередків кристалізації — 0,3–0,5 мкм у поверхні опромінення та 0,4–0,8 мкм на нижній межі шару з комірчастою структурою. Виконано аналізу ґрадієнтних структурно-фазових станів на глибині до 120 мкм. В шарі, розташованому на глибині понад 15 мкм, виявлено формування субмікронних зерен пластинчастої евтектики. Поперечні розміри пластин евтектики змінюються в межах від 25 нм до 50 нм. Показано, що нанотвердість опроміненого силуміну змінюється немонотонним чином, сягаючи максимального значення, що перевищує твердість вихідного стану приблизно в 4 рази на глибині близько 30 мкм. В шарі, прилеглому до поверхні опромінення (тобто розташованому на глибині близько 5 мкм), величина твердости перевищує твердість литого силуміну приблизно в 1,6 рази. Надано фізичну інтерпретацію спостережуваних змін структури та властивостей при опроміненні.",
+		"en": "Methods of contemporary physical materials science are applied for the analysis of structural and phase states, tribological and mechanical properties of hypoeutectic silumin treated by electron beams with parameters as follow: energy density — 10–35 J/cm$^{2}$, pulse duration — 10 µs, number of pulses — 3, pulse-repetition frequency — 0.3 Hz. The initial structure of silumin comprises grains of aluminium-based solid solution, eutectic grains, inclusions of silicon and intermetallic compounds with different shapes and sizes. Electron beam treatment (EBT) with energy density of 20–35 J/cm$^{2}$ causes melting of the surface layer, dissolution of silicon inclusions and intermetallic compounds. A structure of high-speed cellular crystallization is formed, and submicro- and nanosize particles of the second phase are reprecipitated. An average size of crystallization cells are of 0.3–0.5 µm at the irradiated surface and of 0.4–0.8 µm on the lower edge of the layer with the cellular structure. The graded structure and phase states are analysed at a depth of up to 120 µm. The submicron grains of lamellar eutectic are detected at a depth of 15 µm. The lateral sizes of eutectic lamellae are within the range of 25–50 nm. The study indicates that nanohardness of irradiated silumin changes nonmonotonously and reaches its maximum at a depth of about 30 µm, which is approximately four times higher than hardness in the initial state. Hardness of the layer close to the irradiated surface (that is at a depth of about 5 µm) is higher by a factor of about 1.6 than that of as-cast silumin. The paper provides physical interpretation of the changes occurring in structure and properties during irradiation.",
+		"ru": "Методами современного физического материаловедения выполнен анализ структурно-фазовых состояний, трибологических и механических свойств доэвтектического силумина, подвергнутого электронно-пучковой обработке (ЭПО) со следующими параметрами пучка: плотность энергии — 10–35 Дж/см$^{2}$, длительность импульса — 10 мкс, количество импульсов — 3, частота следования — 0,3 Гц. В исходном состоянии структура силумина сформирована зёрнами твёрдого раствора на основе алюминия, зёрнами эвтектики, включениями кремния и интерметаллидов различной формы и размеров. ЭПО с плотностью энергии 20–35 Дж/см$^{2}$ приводит к плавлению поверхностного слоя, растворению включений кремния и интерметаллидов, формированию структуры высокоскоростной ячеистой кристаллизации, повторному выделению частиц второй фазы субмикронаноразмерного диапазона. Средний размер ячеек кристаллизации — 0,3–0,5 мкм у поверхности облучения и 0,4–0,8 мкм на нижней границе слоя с ячеистой структурой. Выполнен анализ градиентных структурно-фазовых состояний на глубине до 120 мкм. В слое, расположенном на глубине более 15 мкм, выявлено формирование субмикронных зёрен пластинчатой эвтектики. Поперечные размеры пластин эвтектики изменяются в пределах от 25 нм до 50 нм. Показано, что нанотвёрдость облучённого силумина изменяется немонотонным образом, достигая максимального значения, превышающего твёрдость исходного состояния приблизительно в 4 раза на глубине около 30 мкм. В слое, прилегающем к поверхности облучения (то есть расположенном на глубине около 5 мкм), величина твёрдости превышает твёрдость литого силумина приблизительно в 1,6 раза. Дана физическая интерпретация наблюдаемых изменений структуры и свойств при облучении."
+	},
+	"keywords": {
+		"ua": "доевтектичний силумін, електронні пучки, комірки високошвидкісної кристалізації, евтектика, інтерметаліди, нанотвердість",
+		"en": "hypoeutectic silumin, electron beams, cells of high-speed crystallization, eutectic, intermetallic compounds, nanohardness",
+		"ru": "доэвтектический силумин, электронные пучки, ячейки высокоскоростной кристаллизации, эвтектика, интерметаллиды, нанотвёрдость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. Ф. Іванов", "en": "Yu. F. Ivanov", "ru": "Ю. Ф. Иванов"},
+			"OID": [408, 409]
+		},
+		{
+			"AID": {"ua": "В. Є. Громов", "en": "V. Е. Gromov", "ru": "В. Е. Громов"},
+			"OID": [407]
+		},
+		{
+			"AID": {"ua": "С. В. Коновалов", "en": "S. V. Konovalov", "ru": "С. В. Коновалов"},
+			"OID": [510]
+		},
+		{
+			"AID": {"ua": "Д. В. Загуляєв", "en": "D. V. Zagulyaev", "ru": "Д. В. Загуляев"},
+			"OID": [407]
+		},
+		{
+			"AID": {"ua": "Є. А. Петрікова", "en": "Е. А. Petrikova", "ru": "Е. А. Петрикова"},
+			"OID": [408]
+		},
+		{
+			"AID": {"ua": "А. П. Семін", "en": "А. P. Semin", "ru": "А. П. Семин"},
+			"OID": [408]
+		}
+	],
+	"references": {
+		"count": 28,
+		"list":  [
+			{
+				"doi": "10.1016/C2013-0-04239-9",
+				"or":  "L. F. Mondolfo, Aluminium Alloys: Structure and Properties (London: Butterworth-Heinemann: 1976).",
+				"tr":  "L. F. Mondolfo, Aluminium Alloys: Structure and Properties (London: Butterworth-Heinemann: 1976)."
+			},
+			{
+				"doi": "",
+				"or":  "N. A. Belov, Fazovyy Sostav Promyshlennykh i Perspektivnykh Alyuminievykh Splavov [Phase Composition of Industrial and Prospective Aluminium Alloys] (Moscow: MISiS: 2010) (in Russian).",
+				"tr":  "N. A. Belov, Fazovyy Sostav Promyshlennykh i Perspektivnykh Alyuminievykh Splavov [Phase Composition of Industrial and Prospective Aluminium Alloys] (Moscow: MISiS: 2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. V. Kurdyumov, Proizvodstvo Otlivok iz Splavov Tsvetnykh Metallov: Uchebnik dlya VUZov [Manufacturing of Casts from Nonferrous Metal Alloys: Textbook for Higher Educational Institutions] (Moscow: Metallurgiya: 1986) (in Russian).",
+				"tr":  "A. V. Kurdyumov, Proizvodstvo Otlivok iz Splavov Tsvetnykh Metallov: Uchebnik dlya VUZov [Manufacturing of Casts from Nonferrous Metal Alloys: Textbook for Higher Educational Institutions] (Moscow: Metallurgiya: 1986) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.16.04.265",
+				"or":  "V. E. Gromov, K. V. Aksyonova, S. V. Konovalov, and Yu. F. Ivanov, Usp. Fiz. Met., 16, No. 4: 265 (2015) (in Russian).",
+				"tr":  "V. E. Gromov, K. V. Aksyonova, S. V. Konovalov, and Yu. F. Ivanov, Usp. Fiz. Met., 16, No. 4: 265 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.16.03.175",
+				"or":  "V. E. Gromov, K. V. Sosnin, Yu. F. Ivanov, and O. A. Semina, Usp. Fiz. Met., 16, No. 3: 175 (2015) (in Russian).",
+				"tr":  "V. E. Gromov, K. V. Sosnin, Yu. F. Ivanov, and O. A. Semina, Usp. Fiz. Met., 16, No. 3: 175 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S1471-5317(02)00003-2",
+				"or":  "M. M. Makhloufе and H. V. Guthy, J. Light Metals, 1, No. 4: 199 (2001).",
+				"tr":  "M. M. Makhloufе and H. V. Guthy, J. Light Metals, 1, No. 4: 199 (2001)."
+			},
+			{
+				"doi": "10.1361/105994900770345467",
+				"or":  "V. Paramo, R. Colas, E. Velasco, and S. Valtierra, J. Mater. Engineer. Perform., 9, No. 6: 616 (2000).",
+				"tr":  "V. Paramo, R. Colas, E. Velasco, and S. Valtierra, J. Mater. Engineer. Perform., 9, No. 6: 616 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "I. F. Kolobnev, V. V. Krymov, and A. V. Melnikov, Spravochnik Liteyshchika. Tsvetnoe Litye iz Legkikh Splavov [Reference Book for a Caster. Nonferrous Casting of Light Alloys] (2nd edition) (Moscow: Mashinostroenie: 1974) (in Russian).",
+				"tr":  "I. F. Kolobnev, V. V. Krymov, and A. V. Melnikov, Spravochnik Liteyshchika. Tsvetnoe Litye iz Legkikh Splavov [Reference Book for a Caster. Nonferrous Casting of Light Alloys] (2nd edition) (Moscow: Mashinostroenie: 1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. M. Petrov, Povyshenie Kachestva Vtorichnykh Liteinykh Alyuminievykh Splavov [Quality Improvement of the Secondary Casting Aluminium Alloys] (Leningrad: LDNTP: 1988) (in Russian).",
+				"tr":  "S. M. Petrov, Povyshenie Kachestva Vtorichnykh Liteinykh Alyuminievykh Splavov [Quality Improvement of the Secondary Casting Aluminium Alloys] (Leningrad: LDNTP: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Uglov, Strukturno-Fazovyye Prevrashcheniya v Alyuminii, Zheleze i Ego Splavakh pri Kombinirovannykh Ionnykh i Plazmennykh Vozdeistviyakh [Structure-Phase Transformations in Aluminium, Iron and Its Alloys under Combined Iion and Plasma Influence] (Thesis of Disser. for Dr. Phys.-Math. Sci.) (Minsk: Belarus State University: 2006) (in Russian).",
+				"tr":  "V. V. Uglov, Strukturno-Fazovyye Prevrashcheniya v Alyuminii, Zheleze i Ego Splavakh pri Kombinirovannykh Ionnykh i Plazmennykh Vozdeistviyakh [Structure-Phase Transformations in Aluminium, Iron and Its Alloys under Combined Iion and Plasma Influence] (Thesis of Disser. for Dr. Phys.-Math. Sci.) (Minsk: Belarus State University: 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. L. Yakushin, Russian Metallurgy (Metally), 2005, No. 2: 104 (2005).",
+				"tr":  "V. L. Yakushin, Russian Metallurgy (Metally), 2005, No. 2: 104 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "E. A. Petrikova, A. P. Laskovnev, and Yu. F. Ivanov, Modifikatsiya Struktury i Svoistv Ehvtekticheskogo Silumina Ehlektronno-Ionno-Plazmennoy Obrabotkoy [Modification of Structure and Properties of Eutectic Silumin by Electron-Ion-Plasma Treatment] (Minsk: Navuka: 2013) (in Russian).",
+				"tr":  "E. A. Petrikova, A. P. Laskovnev, and Yu. F. Ivanov, Modifikatsiya Struktury i Svoistv Ehvtekticheskogo Silumina Ehlektronno-Ionno-Plazmennoy Obrabotkoy [Modification of Structure and Properties of Eutectic Silumin by Electron-Ion-Plasma Treatment] (Minsk: Navuka: 2013) (in Russian)."
+			},
+			{
+				"doi": "10.1016/B978-008044496-3/50007-1",
+				"or":  "V. Rotshtein, Yu. Ivanov, and A. Markov, Materials Surface Processing by Directed Energy Techniques (Ed. Y. Pauleau) (Amsterdam: Elsevier Science: 2006), Ch. 6, pp. 205–240.",
+				"tr":  "V. Rotshtein, Yu. Ivanov, and A. Markov, Materials Surface Processing by Directed Energy Techniques (Ed. Y. Pauleau) (Amsterdam: Elsevier Science: 2006), Ch. 6, pp. 205–240."
+			},
+			{
+				"doi": "",
+				"or":  "Ehvolutsiya Struktury Poverkhnostnogo Sloya Stali, Podvergnutoy Ehlektronno-Ionno-Plazmennym Metodam Obrabotki [Evolution of Structure in the Surface Layer of Steel Processed by Electron-Ion-Plasma Method of Treatment] (Eds. N. N. Koval and Yu. F. Ivanov) (Tomsk: Publishing House of NTL: 2016) (in Russian).",
+				"tr":  "Ehvolutsiya Struktury Poverkhnostnogo Sloya Stali, Podvergnutoy Ehlektronno-Ionno-Plazmennym Metodam Obrabotki [Evolution of Structure in the Surface Layer of Steel Processed by Electron-Ion-Plasma Method of Treatment] (Eds. N. N. Koval and Yu. F. Ivanov) (Tomsk: Publishing House of NTL: 2016) (in Russian)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/AMR.872.157",
+				"or":  "Yu. F. Ivanov, E. A. Petrikova, A. D. Teresov, and P. Moskvin, Adv. Mater. Res., 872: 157 (2014).",
+				"tr":  "Yu. F. Ivanov, E. A. Petrikova, A. D. Teresov, and P. Moskvin, Adv. Mater. Res., 872: 157 (2014)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2011.04.104",
+				"or":  "Y. Hao, B. Gao, G. F. Tu, H. Cao, S. Z. Hao, and C. Dong, Appl. Surf. Sci., 258, No. 6: 2052 (2012).",
+				"tr":  "Y. Hao, B. Gao, G. F. Tu, H. Cao, S. Z. Hao, and C. Dong, Appl. Surf. Sci., 258, No. 6: 2052 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Gao, S. Z. Hao, J. X. Zou, L. M. Jiang, J. Y. Zhou, and C. Dong, Trans. Mater. Heat Treatment, No. 5: 1029 (2004).",
+				"tr":  "B. Gao, S. Z. Hao, J. X. Zou, L. M. Jiang, J. Y. Zhou, and C. Dong, Trans. Mater. Heat Treatment, No. 5: 1029 (2004)."
+			},
+			{
+				"doi": "10.1016/j.phpro.2011.06.079",
+				"or":  "B. Gao, Y. Hao, W. F. Zhuang, G. F. Tu, W. X. Shi, S. W. Li, S. Z. Hao, C. Dong, and M. C. Li, Phys. Proc., 18: 187 (2011).",
+				"tr":  "B. Gao, Y. Hao, W. F. Zhuang, G. F. Tu, W. X. Shi, S. W. Li, S. Z. Hao, C. Dong, and M. C. Li, Phys. Proc., 18: 187 (2011)."
+			},
+			{
+				"doi": "10.1016/j.nimb.2011.04.010",
+				"or":  "Y. Hao, B. Gao, G. F. Tu, S. W. Li, and C. Dong, Nucl. Instrum. Methods Phys. Res. B, 269, No. 13: 1499 (2011).",
+				"tr":  "Y. Hao, B. Gao, G. F. Tu, S. W. Li, and C. Dong, Nucl. Instrum. Methods Phys. Res. B, 269, No. 13: 1499 (2011)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2010.11.118",
+				"or":  "Y. Hao, B. Gao, G. F. Tu, S. W. Li, S. Z. Hao, and C. Dong, Appl. Surf. Sci., 257, No. 9: 3913 (2011).",
+				"tr":  "Y. Hao, B. Gao, G. F. Tu, S. W. Li, S. Z. Hao, and C. Dong, Appl. Surf. Sci., 257, No. 9: 3913 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "Y. Hao, B. Gao, G. F. Tu, S. W. Li, S. Z. Hao, and C. Dong, Trans. Mater. Heat Treatment, No. 9: 115 (2010).",
+				"tr":  "Y. Hao, B. Gao, G. F. Tu, S. W. Li, S. Z. Hao, and C. Dong, Trans. Mater. Heat Treatment, No. 9: 115 (2010)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.675-677.693",
+				"or":  "Y. Hao, B. Gao, G. F. Tu, Z. Wang, and C. Z. Hao, Mater. Sci. Forum., 675–677: 693 (2011).",
+				"tr":  "Y. Hao, B. Gao, G. F. Tu, Z. Wang, and C. Z. Hao, Mater. Sci. Forum., 675–677: 693 (2011)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2005.07.106",
+				"or":  "J. An, X. X. Shen, Y. Lu, Y. B. Liu, R. G. Li, C. M. Chen, and M. J. Zhang, Surf. Coat. Technol., 200, Nos. 18–19: 5590 (2006).",
+				"tr":  "J. An, X. X. Shen, Y. Lu, Y. B. Liu, R. G. Li, C. M. Chen, and M. J. Zhang, Surf. Coat. Technol., 200, Nos. 18–19: 5590 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "J. An, X. X. Shen, and Y. Lu, Wear, 261, No. 2: 208 (2006).",
+				"tr":  "J. An, X. X. Shen, and Y. Lu, Wear, 261, No. 2: 208 (2006)."
+			},
+			{
+				"doi": "10.1016/S1567-1739(01)00017-7",
+				"or":  "S. Hao, S. Yao, J. Guan, A. Wu, P. Zhong, and C. Dong, Curr. Appl. Phys., 1, Nos. 2–3: 203 (2001).",
+				"tr":  "S. Hao, S. Yao, J. Guan, A. Wu, P. Zhong, and C. Dong, Curr. Appl. Phys., 1, Nos. 2–3: 203 (2001)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2008.01.052",
+				"or":  "T. Grosdidier, J. X. Zou, N. Stein, C. Boulanger, S. Z. Hao, and C. Dong, Scripta Materialia, 58, No. 12: 1058 (2008).",
+				"tr":  "T. Grosdidier, J. X. Zou, N. Stein, C. Boulanger, S. Z. Hao, and C. Dong, Scripta Materialia, 58, No. 12: 1058 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. F. Ivanov, Struktura i Svoistva Perspektivnykh Metallicheskikh Materialov [Structure and Properties of Prospective Metallic Materials] (Ed. A. I. Potekaev) (Tomsk: Publishing House of NTL: 2007) (in Russian).",
+				"tr":  "Yu. F. Ivanov, Struktura i Svoistva Perspektivnykh Metallicheskikh Materialov [Structure and Properties of Prospective Metallic Materials] (Ed. A. I. Potekaev) (Tomsk: Publishing House of NTL: 2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. P. Babichev, Fizicheskie Velichiny: Spravochnik [Physical Values: Handbook] (Eds. I. S. Grigoriev, E. S. Meilikhov) (Moscow: Energoatomizdat: 1991) (in Russian).",
+				"tr":  "A. P. Babichev, Fizicheskie Velichiny: Spravochnik [Physical Values: Handbook] (Eds. I. S. Grigoriev, E. S. Meilikhov) (Moscow: Energoatomizdat: 1991) (in Russian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,236 @@
+{
+	"_id":    "UFM.14.03.229",
+	"year":   2013,
+	"volume": 14,
+	"issue":  3,
+	"pages":  [229,257],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["26.02.2013"],
+	"PACS":   "72.25.-b, 73.50.Jt, 75.70.Ak, 78.20.Ls, 85.70.Kh, 85.70.Sq, 85.75.-d",
+	"title":   {
+		"ua": "Магнеторезистивні та магнетооптичні властивості плівкових систем із можливим спін-залежним розсіянням електронів",
+		"en": "Magnetoresistive and Magnetooptical Properties of the Film Systems with Possible Spin-Dependent Electron Scattering",
+		"ru": "Магниторезистивные и магнитооптические свойства плёночных систем с возможным спин-зависимым рассеянием электронов"
+	},
+	"abstract": {
+		"ua": "Представлено експериментальні результати дослідження магнеторезистивних та магнетооптичних властивостей матеріялів, в яких може реалізуватися спін-залежне розсіяння електронів, у вигляді плівкових систем на основі магнетних (Co і Fe) та немагнетних (Cu, Ag, Au, Cr, Pt, Pd і Ge) елементів. Показано, що, залежно від ступеня розчинности атомів, у приладових структурах на їх основі у вигляді мультишарів, спін-клапанних або ґранульованих систем проявляються різні особливості процесів перемагнетування, магнетоопору та магнетооптичного Керрового ефекту.",
+		"en": "Experimental findings of investigation of magnetoresistive and magnetooptical properties of materials, in which the spin-dependent electron scattering can be implemented in the film magnetic Co- and Fe-based systems as well as nonmagnetic Cu-, Ag-, Au-, Cr-, Pt-, Pd-, and Ge-based ones are presented. As shown, depending on atomic solubility degree, in device systems such as multilayers, spin-valves or granular systems, the different features of remagnetization processes, magnetoresistance, and magneto-optical Kerr effect manifest themselves.",
+		"ru": "Представлены экспериментальные результаты исследования магниторезистивных и магнитооптических свойств материалов, в которых возможна реализация спин-зависимого рассеяния электронов, в виде плёночных систем на основе магнитных (Co и Fe) и немагнитных (Cu, Ag, Au, Cr, Pt, Pd и Ge) элементов. Показано, что в зависимости от степени растворимости атомов в приборных структурах на их основе в виде мультислоёв, спин-клапанных или гранулированных систем проявляются разные особенности процессов перемагничивания, магнитосопротивления и магнитооптического эффекта Керра."
+	},
+	"keywords": {
+		"ua": "наномасштабні плівкові системи, мультишари, спін-кла­пан, магнетоопір, магнетна анізотропія, магнетооптичний Керрів ефект",
+		"en": "nanoscale film systems, multilayers, spin-valve, magneto-resistance, magnetic anisotropy, magneto-optic Kerr effect",
+		"ru": "наномасштабные плёночные системы, мультислои, спин-кла­пан, магнитосопротивление, магнитная анизотропия, магнитооптический эффект Керри"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. Ю. Проценко", "en": "I. Yu. Protsenko", "ru": "И. Е. Проценко"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "І. В. Чешко", "en": "I. V. Cheshko", "ru": "И. В. Чешко"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "Л. В. Однодворець", "en": "L. V. Odnodvorets’", "ru": "Л. В. Однодворец"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "Д. М. Кондрахова", "en": "D. M. Kondrakhova", "ru": "Д. Н. Кондрахова"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "О. В. Пилипенко", "en": "O. V. Pylypenko", "ru": "А. В. Пилипенко"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "Ю. М. Шабельник", "en": "Yu. M. Shabel’nyk", "ru": "Ю. М. Шабельник"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "О. В. Власенко", "en": "O. V. Vlasenko", "ru": "А. В. Власенко"},
+			"OID": [208]
+		}
+	],
+	"references": {
+		"count": 35,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Р. Суху, Магнитные тонкие пленки (Москва: Мир: 1967).",
+				"tr":  "R. F. Soohoo, Magnitnyye Tonkie Plyonki [Magnetic Thin Films] (Moscow: Mir: 1967) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "M. N. Baibich, J. M. Broto, A. Fert, F. Nguyen Van Dau, F. Petroff, P. Eitenne, G. Creuzet, A. Friederich, and J. Chazelas, Phys. Rev. Lett., 61, No. 21: 2472 (1988).",
+				"tr":  "M. N. Baibich, J. M. Broto, A. Fert, F. Nguyen Van Dau, F. Petroff, P. Eitenne, G. Creuzet, A. Friederich, and J. Chazelas, Phys. Rev. Lett., 61, No. 21: 2472 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "С. І. Проценко, І. В. Чешко, Д. В. Великодний, О. П. Синашенко, Л. В. Однодворець, І. М. Пазуха, І. Ю. Проценко, Успехи физ. мет., 8, № 4: 247 (2007).",
+				"tr":  "S. I. Protsenko, I. V. Cheshko, D. V. Velykodnyy, О. P. Synashenko, L. V. Odnodvorets', І. M. Pazukha, and I. Yu. Protsenko, Uspehi Fiziki Metallov, 8, No. 4: 247 (2007) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Marszalek, М. Marszalek, S. Protsenko, and A. Chornous, Materialy ‘IX Konferensyja GOE 2006’ (Krakow–Zakopane: IFJ PAN: 2006).",
+				"tr":  "K. Marszalek, М. Marszalek, S. Protsenko, and A. Chornous, Materialy 'IX Konferensyja GOE 2006' (Krakow–Zakopane: IFJ PAN: 2006)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Бібик, Т. М. Гричановська, М. Маршалек, О. Б. Проценко, С. І. Проценко, Металлофиз. новейшие технол., 28, № 6: 707 (2006).",
+				"tr":  "V. V. Bibyk, Т. М. Grychanovs'ka, М. Marszalek, О. B. Protsenko, and S. І. Protsenko, Metallofizika i Noveishie Tekhnologii, 28, No. 6: 707 (2006) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Castrucci, R. Gunnella, R. Bernardini, A. Montecchiari, R. Carboni, and M. De Crescenzi, Surf. Sci., 482–485: 916 (2001).",
+				"tr":  "P. Castrucci, R. Gunnella, R. Bernardini, A. Montecchiari, R. Carboni, and M. De Crescenzi, Surf. Sci., 482–485: 916 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Однодворець, С. І. Проценко, А. М. Чорноус, Електрофізичні та магнеторезистивні властивості плівкових матеріалів в умовах фазоутворення (Ред. І. Ю. Проценко) (Суми: Вид-во СумДУ: 2011).",
+				"tr":  "L. V. Odnodvorets', S. І. Protsenko, and А. М. Chornous, Elektrofizychni ta Magnetorezystyvni Vlastyvosti Plivkovykh Materialiv v Umovakh Fazoutvorennya [Electrophysical and Magnetoresistive Properties of Film Materials in Phase Formation Conditions] (Ed. І. Yu. Protsenko) (Sumy: Sumy State Univ.: 2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. Ю. Проценко, І. В. Чешко, Металлофиз. новейшие технол., 31, № 7: 921 (2009).",
+				"tr":  "І. Yu. Protsenko and І. V. Cheshko, Metallofizika i Noveishie Tekhnologii, 31, No. 7: 921 (2009) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "I. Protsenko, I. Cheshko, and Ja. Javorsky, Functional Materials, 13, No. 2: 219 (2006).",
+				"tr":  "I. Protsenko, I. Cheshko, and Ja. Javorsky, Functional Materials, 13, No. 2: 219 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "О. П. Ткач, Л. В. Однодворець, С. Непийко, С. І. Проценко, Фізична інженерія поверхні, 7, № 3: 256 (2009).",
+				"tr":  "О. P. Tkach, L. V. Odnodvorets', S. Nepijko, and S. І. Protsenko, Fizychna Inzheneriia Poverkhni, 7, No. 3: 256 (2009) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Сынашенко, Е. П. Ткач, И. П. Бурык, Л. В. Однодворец, С. И. Проценко, Н. И. Шумакова, Вопросы атомной науки и техники. Серия: Вакуум, чистые материалы, сверхпроводники, № 6: 169 (2009).",
+				"tr":  "О. V. Synashenko, E. P. Tkach, I. P. Buryk, L. V. Odnodvorets, S. I. Protsenko, and N. I. Shumakova, Voprosy Atomnoi Nauki i Tekhniki. Seriia: Vakuum, Chistyie Materialy, Sverkhprovodniki, No. 6: 169 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Диаграммы состояния двойных металлических систем (Ред. Н. П. Лякишев) (Москва: Машиностроение: 1996).",
+				"tr":  "Diagrammy Sostoianiia Dvoinykh Metallicheskikh Sistem [State Diagrams of Binary Metal Systems] (Ed. N. P. Lyakishev) (Moscow: Mashinostroenie: 1996) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Гусев, Д. А. Татарский, А. Ю. Климов, В. В. Рогов, Е. В. Скороходов, М. В. Сапожников, Б. А. Грибков, И. М. Нефедов, А. А. Фраерман, Физика твердого тела, 55, № 3: 435 (2013).",
+				"tr":  "S. А. Husev, D. А. Tatarskii, А. Yu. Klimov, V. V. Rogov, Ye. V. Skorokhodov, М. V. Sapozhnikov, B. А. Gribkov, I. М. Nefedov, and А. А. Fraerman, Fizika Tverdogo Tela, 55, No. 3: 435 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.1088/0022-3727/42/13/135406",
+				"or":  "M. Jergel, I. Cheshko, Y. Halahovets, P. Siffalovic, I. Mat’ko, R. Senderak, S. Protsenko, E. Majkova, and S. Luby, J. Phys. D: Appl. Phys., 42: 135406 (2009).",
+				"tr":  "M. Jergel, I. Cheshko, Y. Halahovets, P. Siffalovic, I. Mat'ko, R. Senderak, S. Protsenko, E. Majkova, and S. Luby, J. Phys. D: Appl. Phys., 42: 135406 (2009)."
+			},
+			{
+				"doi": "10.1134/S1064226910010158",
+				"or":  "S. G. Chigarev, L. A. Fomin, I. V. Malikov, G. M. Mikhailov, P. E. Zil’berman, and E. M. Epshtein, Communications Technology and Electronics, 55, No. 1: 112 (2010).",
+				"tr":  "S. G. Chigarev, L. A. Fomin, I. V. Malikov, G. M. Mikhailov, P. E. Zil'berman, and E. M. Epshtein, Communications Technology and Electronics, 55, No. 1: 112 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Ведяев, А. Б. Грановский, А. В. Калицов, Ф. Брауерс, Журнал экспериментальной и теоретической физики, 112, № 6(12): 2198 (1997).",
+				"tr":  "А. V. Vedyaiev, А. B. Granovskii, А. V. Kalitsov, and F. Brauers, Zhurnal Ehksperimental'noi i Teoreticheskoi Fiziki, 112, No. 6(12): 2198 (1997) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Tumanski, Thin Film Magnetoresistive Sensors (London: Taylor & Francis Group: 2001).",
+				"tr":  "S. Tumanski, Thin Film Magnetoresistive Sensors (London: Taylor & Francis Group: 2001)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. М. Кондрахова, О. П. Ткач, Л. В. Однодворець, І. Ю. Проценко, Наносистеми, наноматеріали, нанотехнології, 9, № 4: 801 (2011).",
+				"tr":  "D. М. Kondrakhova, О. P. Tkach, L. V. Odnodvorets', and I. Yu. Protsenko, Nanosistemi, Nanomateriali, Nanotehnologii, 9, No. 4: 801 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "У. Ф. Браун, Микромагнетизм (Москва: Наука: 1979).",
+				"tr":  "W. F. Brown, Micromagnetics (Moscow: Nauka: 1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Protsenko, O. V. Synashenko, Y. Zabila, and M. Marszalek, J. Surf. Investigation. X-Ray, Synchrotron and Neutron Techniques, 5, No. 4: 787 (2011).",
+				"tr":  "S. I. Protsenko, O. V. Synashenko, Y. Zabila, and M. Marszalek, J. Surf. Investigation. X-Ray, Synchrotron and Neutron Techniques, 5, No. 4: 787 (2011)."
+			},
+			{
+				"doi": "10.1016/S0928-4931(01)00474-X",
+				"or":  "E. Agostinelli, D. Fiorani, and S. Foglia, Mater. Sci. Eng. C, 19, Nos. 1–2: 151 (2002).",
+				"tr":  "E. Agostinelli, D. Fiorani, and S. Foglia, Mater. Sci. Eng. C, 19, Nos. 1–2: 151 (2002)."
+			},
+			{
+				"doi": "10.1016/j.pmatsci.2009.07.001",
+				"or":  "I. Bakonyj and L. Peter, Progress in Materials Science, 55: 107 (2010).",
+				"tr":  "I. Bakonyj and L. Peter, Progress in Materials Science, 55: 107 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "І. М. Пазуха, Ю. М. Шабельник, І. Ю. Проценко, Фізика і хімія твердого тіла, 13, № 4: 907 (2012).",
+				"tr":  "I. M. Pazukha, Yu. M. Shabel'nik, and I. Yu. Protsenko, Fizyka i Khimiia Tverdoho Tila, 13, No. 4: 907 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1146/annurev.ms.25.080195.002041",
+				"or":  "S. S. P. Parkin, Annual Rev. Mater. Sci., 25: 357 (1995).",
+				"tr":  "S. S. P. Parkin, Annual Rev. Mater. Sci., 25: 357 (1995)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2004.11.461",
+				"or":  "G. Sarmientoa, A. García Prietoa, I. Oruea, and M. L. Fdez-Gubiedaa, J. Magn. Magn. Mater., 291: 1071 (2005).",
+				"tr":  "G. Sarmientoa, A. García Prietoa, I. Oruea, and M. L. Fdez-Gubiedaa, J. Magn. Magn. Mater., 291: 1071 (2005)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(03)00024-6",
+				"or":  "D. Bisero, E. Angeli, L. Pizzo, F. Spizzo, P. Vavassori, and F. Ronconi, J. Magn. Magn. Mater., 262: 84 (2003).",
+				"tr":  "D. Bisero, E. Angeli, L. Pizzo, F. Spizzo, P. Vavassori, and F. Ronconi, J. Magn. Magn. Mater., 262: 84 (2003)."
+			},
+			{
+				"doi": "10.1007/s11051-011-0505-x",
+				"or":  "M. Tamisari, F. Spizzo, M. Sacerdoti, G. Battaglin, and F. Ronconi, J. Nanoparticle Research, 13, No. 10: 5203 (2011).",
+				"tr":  "M. Tamisari, F. Spizzo, M. Sacerdoti, G. Battaglin, and F. Ronconi, J. Nanoparticle Research, 13, No. 10: 5203 (2011)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.81.054445",
+				"or":  "Y. Yamagishi, S. Honda, J. Inoue, and H. Itoh, Phys. Rev. B, 81, No. 5: 054445 (2010).",
+				"tr":  "Y. Yamagishi, S. Honda, J. Inoue, and H. Itoh, Phys. Rev. B, 81, No. 5: 054445 (2010)."
+			},
+			{
+				"doi": "10.1016/0304-8853(94)00724-1",
+				"or":  "N. Kataoka, H. Takeda, J. Echigoya, K. Fukamichi, E. Aoyagi, Y. Shimada, H. Okuda, K. Osamura , M. Furusaka, and T. Goto, J. Magn. Magn. Mater., 140–144: 621 (1995).",
+				"tr":  "N. Kataoka, H. Takeda, J. Echigoya, K. Fukamichi, E. Aoyagi, Y. Shimada, H. Okuda, K. Osamura, M. Furusaka, and T. Goto, J. Magn. Magn. Mater., 140–144: 621 (1995)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(98)00238-8",
+				"or":  "J. H. Du, W. J. Liu, Q. Li, H. Sang, S. Y. Zhang, Y. W. Du, and D. Feng, J. Magn. Magn. Mater., 191: 17 (1999).",
+				"tr":  "J. H. Du, W. J. Liu, Q. Li, H. Sang, S. Y. Zhang, Y. W. Du, and D. Feng, J. Magn. Magn. Mater., 191: 17 (1999)."
+			},
+			{
+				"doi": "10.1063/1.1325381",
+				"or":  "H. Vrenken, B. J. Kooi, and T. M. De Hosson, J. Appl. Phys., 89, No. 6: 3381 (2001).",
+				"tr":  "H. Vrenken, B. J. Kooi, and T. M. De Hosson, J. Appl. Phys., 89, No. 6: 3381 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Q. Wang and G. Xiao, Phys. Rev. B, 49, No. 6: 3981 (1994).",
+				"tr":  "J. Q. Wang and G. Xiao, Phys. Rev. B, 49, No. 6: 3981 (1994)."
+			},
+			{
+				"doi": "10.1063/1.1289232",
+				"or":  "C. Alof, B. Stahl, M. Ghafari, and H. Hahn, J. Appl. Phys., 88, No. 7: 4212 (2000).",
+				"tr":  "C. Alof, B. Stahl, M. Ghafari, and H. Hahn, J. Appl. Phys., 88, No. 7: 4212 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Hirota, H. Sakakima, and K. Inomata, Giant Magneto-Resistance Devices (Berlin–Heidelberg–New York: Springer: 2002).",
+				"tr":  "E. Hirota, H. Sakakima, and K. Inomata, Giant Magneto-Resistance Devices (Berlin–Heidelberg–New York: Springer: 2002)."
+			},
+			{
+				"doi": "",
+				"or":  "І. В. Чешко, С. І. Проценко, П. Шифалович, Вісник СумДУ. Серія: Фізика, математика, механіка, № 2: 103 (2008).",
+				"tr":  "І. V. Cheshko, S. І. Protsenko, and P. Shifalovich, Visnyk SumDU. Seriia: Fizyka, Matematyka, Mekhanika, No. 2: 103 (2008) (in Ukrainian)."
+			}
+		]
+	}
+}

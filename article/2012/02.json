@@ -1,0 +1,35 @@
+{
+	"year":   2012,
+	"volume": 13,
+	"issue":  2,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [101,187],
+			"title": {
+				"ua": "Моделювання мікроструктурних перетворень у системах, підданих радіяційному впливу",
+				"en": "Modelling of Microstructural Transformations in the Systems Subject to Radiation Influence",
+				"ru": "Моделирование микроструктурных превращений в системах, подверженных радиационному воздействию"
+			},
+			"autors": {
+				"ua": "Д. O. Харченко, І. O. Лисенко, В. О. Харченко",
+				"en": "D. O. Kharchenko, I. O. Lysenko, and V. O. Kharchenko",
+				"ru": "Д. О. Харченко, И. О. Лысенко, В. О. Харченко"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [189,223],
+			"title": {
+				"ua": "Самоузгоджений модель теорії сильного зв’язку електронних кореляцій у невпорядкованих кристалах",
+				"en": "Self-Consistent Model of Strong Coupling Theory of Electron Correlations in Disordered Crystals",
+				"ru": "Самосогласованная модель теории сильной связи электронных корреляций в неупорядоченных кристаллах"
+			},
+			"autors": {
+				"ua": "С. П. Репецький, О. В. Третяк, І. Г. Вишива­на, В. В. Шастун",
+				"en": "S. P. Repetsky, O. V. Tretyak, I. G. Vyshivanaya, and V. V. Shastun",
+				"ru": "С. П. Репецкий, О. В. Третяк, И. Г. Вышиванная, В. В. Шастун"
+			}
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"year":   2005,
+	"volume": 6,
+	"issue":  4,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [273,344],
+			"title": {
+				"ua": "Електролитно-плазмове оброблення та нанесення покриттів на метали і стопи",
+				"en": "Electrolyte–Plasma Processing and Deposition of Coatings on Metals and Alloys",
+				"ru": "Электролитно-плазменная обработка и нанесение покрытий на металлы и сплавы"
+			},
+			"autors": {
+				"ua": "О. Д. Погребняк, Ю. М. Тюрин, А. Г. Бойко, М. Л. Жадкевич, М. К. Калишканов, Ш. М. Рузімов",
+				"en": "O. D. Pogrebnyak, Yu. M. Tyurin, A. G. Boyko, M. L. Zhadkevich, M. K. Kalyshkanov, and Sh. M. Ruzimov",
+				"ru": "А. Д. Погребняк, Ю. Н. Тюрин, А. Г. Бойко, М. Л. Жадкевич, М. К. Калышканов, Ш. М. Рузимов"
+			}
+		}
+	]
+}

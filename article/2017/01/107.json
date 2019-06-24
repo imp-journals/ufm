@@ -1,0 +1,36 @@
+{
+	"_id":    "UFM.18.01.107",
+	"year":   2017,
+	"volume": 18,
+	"issue":  1,
+	"pages":  [107,109],
+	"type":   2,
+	"lang":   "",
+	"date":   [""],
+	"PACS":   "",
+	"title":   {
+		"ua": "До 80-річчя професора М. О. Васильєва",
+		"en": "On the Occasion of the 80-th Anniversary of Birthday of Professor M. O. Vasylyev",
+		"ru": "К 80-летию профессора М. А. Васильева"
+	},
+	"abstract": {
+		"ua": "",
+		"en": "",
+		"ru": ""
+	},
+	"keywords": {
+		"ua": "",
+		"en": "",
+		"ru": ""
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Редакційна колеґія", "en": "Editorial Board", "ru": "Редакционная коллегия"},
+			"OID": []
+		}
+	],
+	"references": {
+		"count": 0,
+		"list":  []
+	}
+}

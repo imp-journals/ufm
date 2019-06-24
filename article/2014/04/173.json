@@ -1,0 +1,397 @@
+{
+	"_id":    "UFM.15.04.173",
+	"year":   2014,
+	"volume": 15,
+	"issue":  4,
+	"pages":  [173,212],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["26.09.2014"],
+	"PACS":   "61.50.Ks, 61.72.Bb, 61.72.Lk, 62.20.fg, 64.60.Q-, 81.07.Bc, 81.30.Kf",
+	"title":   {
+		"ua": "Зародкування та мартенситне перетворення в об’єктах малих розмірів",
+		"en": "Nucleation and Martensitic Transformation in Subjects of Small Dimensions",
+		"ru": "Зародышеобразование и мартенситное превращение в объектах малых размеров"
+	},
+	"abstract": {
+		"ua": "В огляді розглядаються наявні моделі та схеми зародження мартенситних фаз, обговорюються теоретичні й експериментальні роботи, присвячені зародженню кристалів мартенситу в різних металах. Розглядаються й обговорюються параметри та процеси мартенситного перетворення у таких об’єктах малих розмірів як частинки, порошкові матеріяли, тонкі плівки, наночастинки та наноматеріяли.",
+		"en": "The existing models and schemes of the martensitic phase nucleation are considered in the review. Theoretical and experimental works devoted to the nucleation of the martensitic crystals in different metals are discussed and analysed. The parameters and processes of the martensitic transformation in such subjects of small dimensions as particles, porous materials, thin films, nanoparticles, and nanomaterials are also considered and discussed.",
+		"ru": "В обзоре рассматриваются существующие модели и схемы зарождения мартенситных фаз, обсуждаются теоретические и экспериментальные работы, посвящённые зарождению кристаллов мартенсита в различных металлах. Рассматриваются и обсуждаются параметры и процессы мартенситного превращения в таких объектах малых размеров как частицы, порошковые материалы, тонкие плёнки, наночастицы и наноматериалы."
+	},
+	"keywords": {
+		"ua": "-",
+		"en": "alloys, crystals, dimensions, nanoparticles, dislocation, nucleation, nucleus, martensitic transformation, martensite",
+		"ru": "-"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. А. Лободюк", "en": "V. A. Lobodyuk", "ru": "В. А. Лободюк"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 72,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "V. A. Lobodyuk, Fiz. Met. Metalloved., 99, No. 2: 29 (2005) (in Russian).",
+				"tr":  "V. A. Lobodyuk, Fiz. Met. Metalloved., 99, No. 2: 29 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Lobodyuk and E. I. Estrin, Martensitnye Prevrashcheniya [Martensitic Transformations] (Moscow: Fizmatlit: 2009) (in Russian).",
+				"tr":  "V. A. Lobodyuk and E. I. Estrin, Martensitnye Prevrashcheniya [Martensitic Transformations] (Moscow: Fizmatlit: 2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Z. Seeger, Metallk., 44: 247 (1953).",
+				"tr":  "A. Z. Seeger, Metallk., 44: 247 (1953)."
+			},
+			{
+				"doi": "",
+				"or":  "G. V. Kurdjumov, Journ. Techn. Fiz., XVIII: 999 (1948) (in Russian).",
+				"tr":  "G. V. Kurdjumov, Journ. Techn. Fiz., XVIII: 999 (1948) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Danilov, Problemy Metallovedeniya i Fiziki Metallov [Problems of Physical Metallurgy and Physics of Metals] (Moscow: Metallurgizdat: 1949), p. 7 (in Russian).",
+				"tr":  "V. I. Danilov, Problemy Metallovedeniya i Fiziki Metallov [Problems of Physical Metallurgy and Physics of Metals] (Moscow: Metallurgizdat: 1949), p. 7 (in Russian)."
+			},
+			{
+				"doi": "10.1016/0001-6160(69)90058-3",
+				"or":  "S. R. Pati and М. Cohen, Acta Met., 17: 189 (1969).",
+				"tr":  "S. R. Pati and М. Cohen, Acta Met., 17: 189 (1969)."
+			},
+			{
+				"doi": "10.1016/0001-6160(56)90066-9",
+				"or":  "Н. Knapp and U. Dehlinger, Acta Met., 4: 289 (1956).",
+				"tr":  "Н. Knapp and U. Dehlinger, Acta Met., 4: 289 (1956)."
+			},
+			{
+				"doi": "10.1016/0001-6160(72)90025-9",
+				"or":  "V. Raghavan and М. Cohen, Acta Met., 20: 333 (1972).",
+				"tr":  "V. Raghavan and М. Cohen, Acta Met., 20: 333 (1972)."
+			},
+			{
+				"doi": "10.1007/BF02659822",
+				"or":  "G. B. Olson and М. Cohen, Metallurg. Trans., 7A: 1897, 1905, 1915 (1976).",
+				"tr":  "G. B. Olson and М. Cohen, Metallurg. Trans., 7A: 1897, 1905, 1915 (1976)."
+			},
+			{
+				"doi": "10.1016/0001-6160(64)90194-4",
+				"or":  "A. J. Bogers and W. G. Burgers, Acta Met., 12: 255 (1964).",
+				"tr":  "A. J. Bogers and W. G. Burgers, Acta Met., 12: 255 (1964)."
+			},
+			{
+				"doi": "10.1016/0001-6160(74)90050-9",
+				"or":  "P. L. Ferraglio and K. Mukherjee, Acta Met., 22: 835 (1974).",
+				"tr":  "P. L. Ferraglio and K. Mukherjee, Acta Met., 22: 835 (1974)."
+			},
+			{
+				"doi": "10.1016/0001-6160(66)90067-8",
+				"or":  "S. Dash and N. Brown, Acta Met., 14: 595 (1966).",
+				"tr":  "S. Dash and N. Brown, Acta Met., 14: 595 (1966)."
+			},
+			{
+				"doi": "10.1016/0001-6160(80)90132-7",
+				"or":  "М. Suezawa and Н. Е. Cook, Acta Met., 28: 423 (1980).",
+				"tr":  "М. Suezawa and Н. Е. Cook, Acta Met., 28: 423 (1980)."
+			},
+			{
+				"doi": "10.1016/0001-6160(76)90008-0",
+				"or":  "K. Е. Easterling and A. R. Thölén, Acta Met., 24: 333 (1976).",
+				"tr":  "K. Е. Easterling and A. R. Thölén, Acta Met., 24: 333 (1976)."
+			},
+			{
+				"doi": "10.1016/0001-6160(77)90202-4",
+				"or":  "Т. Suzuki, Н. Kojima, K. Suzuki, Т. Hashimoto, and М. Ichihara, Acta Met., 25: 1151 (1977).",
+				"tr":  "Т. Suzuki, Н. Kojima, K. Suzuki, Т. Hashimoto, and М. Ichihara, Acta Met., 25: 1151 (1977)."
+			},
+			{
+				"doi": "10.1016/0025-5416(86)90303-4",
+				"or":  "G. Ghosh and V. Raghavan, Mater. Sci. and Eng., 80: 65 (1986).",
+				"tr":  "G. Ghosh and V. Raghavan, Mater. Sci. and Eng., 80: 65 (1986)."
+			},
+			{
+				"doi": "10.1016/0001-6160(62)90165-7",
+				"or":  "J. Gaggero and D. Hull, Acta Met., 10: 995 (1962).",
+				"tr":  "J. Gaggero and D. Hull, Acta Met., 10: 995 (1962)."
+			},
+			{
+				"doi": "10.1016/0001-6160(66)90067-8",
+				"or":  "S. Dash and N. Brаun, Acta Met., 14: 595 (1966).",
+				"tr":  "S. Dash and N. Brаun, Acta Met., 14: 595 (1966)."
+			},
+			{
+				"doi": "",
+				"or":  "Q. Chen, С. Sang, Х. Wu, and J. Ke, Science of China E, 40: 387 (1997).",
+				"tr":  "Q. Chen, С. Sang, Х. Wu, and J. Ke, Science of China E, 40: 387 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Lobodyuk, V. K. Tkachuk, and L. G. Khandros, Fiz. Met. Metalloved., 33, No. 1: 137 (1972) (in Russian).",
+				"tr":  "V. A. Lobodyuk, V. K. Tkachuk, and L. G. Khandros, Fiz. Met. Metalloved., 33, No. 1: 137 (1972) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0001-6160(83)90103-7",
+				"or":  "K. Р. Staudhammer, L. E. Murr, and S. S. Hecker, Acta Met., 31: 267 (1983).",
+				"tr":  "K. Р. Staudhammer, L. E. Murr, and S. S. Hecker, Acta Met., 31: 267 (1983)."
+			},
+			{
+				"doi": "10.1063/1.324420",
+				"or":  "М. О. Aboelfotoh, Н. А. Aboelfotoh, and J. Washborn, J. Appl. Phys., 49: 5230 (1978).",
+				"tr":  "М. О. Aboelfotoh, Н. А. Aboelfotoh, and J. Washborn, J. Appl. Phys., 49: 5230 (1978)."
+			},
+			{
+				"doi": "10.1080/14786430601057961",
+				"or":  "W. Zhang, Y. M. Jin, and A. G. Khachaturyan, Phil. Mag., 87: 1545 (2007).",
+				"tr":  "W. Zhang, Y. M. Jin, and A. G. Khachaturyan, Phil. Mag., 87: 1545 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "C. L. Magee, ASM, 115: 1 (1970).",
+				"tr":  "C. L. Magee, ASM, 115: 1 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Meyers, Metallurg. Trans., 10A: 1723 (1973).",
+				"tr":  "М. А. Meyers, Metallurg. Trans., 10A: 1723 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Lobodyuk, Fiz. Met. Metalloved., 96, No. 6: 46 (2003) (in Russian).",
+				"tr":  "V. A. Lobodyuk, Fiz. Met. Metalloved., 96, No. 6: 46 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Ogawa and S. Kajiwara, J. Jap. Inst. Met., 69: 1089 (2005).",
+				"tr":  "K. Ogawa and S. Kajiwara, J. Jap. Inst. Met., 69: 1089 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ibarra, D. Callard, and J. San Juan, Appl. Phys. Letters, 90: 76 (2007).",
+				"tr":  "А. Ibarra, D. Callard, and J. San Juan, Appl. Phys. Letters, 90: 76 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Lobodyuk, V. K. Tkachuk, and L. G. Khandros, Martensitnye Prevrashcheniya [Martensitic Transformations] (Kyiv: Naukova Dumka: 1978), p. 197 (in Russian).",
+				"tr":  "V. A. Lobodyuk, V. K. Tkachuk, and L. G. Khandros, Martensitnye Prevrashcheniya [Martensitic Transformations] (Kyiv: Naukova Dumka: 1978), p. 197 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ignatiev, R. Aksenz, and B. W. Lee, Proc. 7th Intern. Vac. Congr. and 3rd Intern. Conf. Solid Surfaces (Sep. 12–16, 1977) (Vienna: 1977), p. 2435.",
+				"tr":  "А. Ignatiev, R. Aksenz, and B. W. Lee, Proc. 7th Intern. Vac. Congr. and 3rd Intern. Conf. Solid Surfaces (Sep. 12–16, 1977) (Vienna: 1977), p. 2435."
+			},
+			{
+				"doi": "",
+				"or":  "R. Aksenz, B. W. Lee, A. Ignatiev, and M. A. Van Hove, Solid State Communs., 25: 641 (1978).",
+				"tr":  "R. Aksenz, B. W. Lee, A. Ignatiev, and M. A. Van Hove, Solid State Communs., 25: 641 (1978)."
+			},
+			{
+				"doi": "10.1016/0001-6160(66)90022-8",
+				"or":  "R. Huizing and J. A. Klostermann, Acta Met., 14: 1693 (1966).",
+				"tr":  "R. Huizing and J. A. Klostermann, Acta Met., 14: 1693 (1966)."
+			},
+			{
+				"doi": "10.1016/0001-6160(71)90124-6",
+				"or":  "K. E. Easterling and P. R. Swann, Acta Met., 19: 117 (1971).",
+				"tr":  "K. E. Easterling and P. R. Swann, Acta Met., 19: 117 (1971)."
+			},
+			{
+				"doi": "10.1080/01418619108221193",
+				"or":  "N. Ishikawa and A. Sato, Phil. Mag. A, 64: 387 (1991).",
+				"tr":  "N. Ishikawa and A. Sato, Phil. Mag. A, 64: 387 (1991)."
+			},
+			{
+				"doi": "10.1080/01418618608242825",
+				"or":  "A. R. Thölén, Phil. Mag. A, 53: 259 (1986).",
+				"tr":  "A. R. Thölén, Phil. Mag. A, 53: 259 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Monzen, A. Sato, and T. Mori, Acta Met., 14: 1267 (1966).",
+				"tr":  "R. Monzen, A. Sato, and T. Mori, Acta Met., 14: 1267 (1966)."
+			},
+			{
+				"doi": "10.1007/BF02644440",
+				"or":  "A. Couture and R. Angers, Met. Trans. A, 17: 37 (1986).",
+				"tr":  "A. Couture and R. Angers, Met. Trans. A, 17: 37 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "P. T. Cardew, R. J. Davey, and A. J. Ruddick, J. Chem. Soc. E. Symposium Series, 69: 123 (1973).",
+				"tr":  "P. T. Cardew, R. J. Davey, and A. J. Ruddick, J. Chem. Soc. E. Symposium Series, 69: 123 (1973)."
+			},
+			{
+				"doi": "10.1016/j.msea.2004.04.068",
+				"or":  "B. Yuan, C. Y. Chung, and M. Zhu, Mater. Sci. and Eng. A, 382: 181 (2004).",
+				"tr":  "B. Yuan, C. Y. Chung, and M. Zhu, Mater. Sci. and Eng. A, 382: 181 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Klopotov, V. P. Sivocha, N. M. Matveeva, and Yu. A. Sazanov, Russ. Phys. Journ., 36: 526 (1993).",
+				"tr":  "A. A. Klopotov, V. P. Sivocha, N. M. Matveeva, and Yu. A. Sazanov, Russ. Phys. Journ., 36: 526 (1993)."
+			},
+			{
+				"doi": "10.1016/0022-5088(86)90171-2",
+				"or":  "T. Saburi, T. Komatsu, S. Nenno, and Y. Watanabe, J. Less-Common Metals, 118: 217 (1986).",
+				"tr":  "T. Saburi, T. Komatsu, S. Nenno, and Y. Watanabe, J. Less-Common Metals, 118: 217 (1986)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.327-328.207",
+				"or":  "S. Morito, T. Moritani, T. Furuhara, and T. Maki, Mater. Sci. Forum, 327–328: 207 (2000).",
+				"tr":  "S. Morito, T. Moritani, T. Furuhara, and T. Maki, Mater. Sci. Forum, 327–328: 207 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Lobodyuk, L. Ya. Sadykova, and T. M. Yusupov, Metallofizika, 10: 69 (1988) (in Russian).",
+				"tr":  "V. A. Lobodyuk, L. Ya. Sadykova, and T. M. Yusupov, Metallofizika, 10: 69 (1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Lobodyuk, Fiz. Met. Metalloved., 110, No. 3: 232 (2010) (in Russian).",
+				"tr":  "V. A. Lobodyuk, Fiz. Met. Metalloved., 110, No. 3: 232 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Miyazaki, K. Nomura, and A. Ishida, J. de Physique IV. Colloque C8, Suplement au J. de Physique III, 5: C8-667 (1995).",
+				"tr":  "S. Miyazaki, K. Nomura, and A. Ishida, J. de Physique IV. Colloque C8, Suplement au J. de Physique III, 5: C8-667 (1995)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(99)00292-0",
+				"or":  "S. Miyazaki and A. Ishida, Mater. Sci. and Eng. A, 273–275: 106 (1999).",
+				"tr":  "S. Miyazaki and A. Ishida, Mater. Sci. and Eng. A, 273–275: 106 (1999)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(99)00410-4",
+				"or":  "A. Ishida and S. Miyazaki, Mater. Sci. and Eng. A, 273–275: 754 (1999).",
+				"tr":  "A. Ishida and S. Miyazaki, Mater. Sci. and Eng. A, 273–275: 754 (1999)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(99)00408-6",
+				"or":  "T. Matsunaga, S. Kajiwara, K. Ogawa, T. Kikuchi, and S. Miyazaki, Mater. Sci. and Eng. A, 273–275: 745 (1999).",
+				"tr":  "T. Matsunaga, S. Kajiwara, K. Ogawa, T. Kikuchi, and S. Miyazaki, Mater. Sci. and Eng. A, 273–275: 745 (1999)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(01)00204-X",
+				"or":  "J. X. Zhang, M. Sato, and A. Ishida, Acta Materialia, 49: 3001 (2001).",
+				"tr":  "J. X. Zhang, M. Sato, and A. Ishida, Acta Materialia, 49: 3001 (2001)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(03)00420-8",
+				"or":  "A. Ishida and M. Sato, Acta Materialia, 51: 5571 (2003).",
+				"tr":  "A. Ishida and M. Sato, Acta Materialia, 51: 5571 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Chang and D. S. Grummon, Scr. Metallurg. еt Materialia, 25: 2079 (1991).",
+				"tr":  "L. Chang and D. S. Grummon, Scr. Metallurg. et Materialia, 25: 2079 (1991)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2010.04.053",
+				"or":  "R. Vishnoi and D. Kaur, Surface and Coating Technology, 204: 3773 (2010).",
+				"tr":  "R. Vishnoi and D. Kaur, Surface and Coating Technology, 204: 3773 (2010)."
+			},
+			{
+				"doi": "10.1016/j.msea.2007.01.175",
+				"or":  "F. C. Lovey, A. M. Condo, J. Guimpel, and M. J. Yacaman, Mater. Sci. and Eng. A, 481–482: 426 (2008).",
+				"tr":  "F. C. Lovey, A. M. Condo, J. Guimpel, and M. J. Yacaman, Mater. Sci. and Eng. A, 481–482: 426 (2008)."
+			},
+			{
+				"doi": "10.1016/0001-6160(70)90004-0",
+				"or":  "P. L. Ferraglio, K. Mukherjee, and K. S. Castleman, Acta Met., 18: 1067 (1970).",
+				"tr":  "P. L. Ferraglio, K. Mukherjee, and K. S. Castleman, Acta Met., 18: 1067 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "J. V. Wood, MRS Proceedings, 28: 425 (1983).",
+				"tr":  "J. V. Wood, MRS Proceedings, 28: 425 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Lobodyuk and V. K. Tkachuk, Izvestiya AN SSSR. Metally, No. 2: 105 (1978) (in Russian).",
+				"tr":  "V. A. Lobodyuk and V. K. Tkachuk, Izvestiya AN SSSR. Metally, No. 2: 105 (1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "N. M. Matveeva, Yu. K. Kovneristyy, L. A. Matlakhova, Z. G. Fridman, and M. A. Lobzov, Metally, No. 4: 97 (1987) (in Russian).",
+				"tr":  "N. M. Matveeva, Yu. K. Kovneristyy, L. A. Matlakhova, Z. G. Fridman, and M. A. Lobzov, Metally, No. 4: 97 (1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "N. M. Matveeva, V. A. Lobodyuk, V. I. Kolomytsev, and I. D. Lovtsova, Izvestiya AN SSSR. Metally, No. 3: 164 (1991) (in Russian).",
+				"tr":  "N. M. Matveeva, V. A. Lobodyuk, V. I. Kolomytsev, and I. D. Lovtsova, Izvestiya AN SSSR. Metally, No. 3: 164 (1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. B. Babanly, V. A. Lobodyuk, and N. M. Matveeva, Izvestiya AN SSSR. Metally, No. 2: 171 (1993) (in Russian).",
+				"tr":  "M. B. Babanly, V. A. Lobodyuk, and N. M. Matveeva, Izvestiya AN SSSR. Metally, No. 2: 171 (1993) (in Russian)."
+			},
+			{
+				"doi": "10.1002/pssa.2210500252",
+				"or":  "V. I. Kolomytsev, V. A. Lobodyuk, and L. G. Khandros, phys. stat. sol. (a), 50: K127 (1978).",
+				"tr":  "V. I. Kolomytsev, V. A. Lobodyuk, and L. G. Khandros, phys. stat. sol. (a), 50: K127 (1978)."
+			},
+			{
+				"doi": "10.1002/pssa.2210650109View",
+				"or":  "V. I. Kolomytsev, V. A. Lobodyuk, and L. G. Khandros, phys. stat. sol. (a), 65: 87 (1981).",
+				"tr":  "V. I. Kolomytsev, V. A. Lobodyuk, and L. G. Khandros, phys. stat. sol. (a), 65: 87 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "M. B. Babanly, V. A. Lobodyuk, and N. M. Matveeva, Fiz. Met. Metalloved., 75, No. 5: 89 (1993) (in Russian).",
+				"tr":  "M. B. Babanly, V. A. Lobodyuk, and N. M. Matveeva, Fiz. Met. Metalloved., 75, No. 5: 89 (1993) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Lobodyuk, Metallofiz. Noveishie Tekhnol., 20, No. 2: 56 (1998) (in Russian).",
+				"tr":  "V. A. Lobodyuk, Metallofiz. Noveishie Tekhnol., 20, No. 2: 56 (1998) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Lobodyuk, Metallofiz. Noveishie Tekhnol., 27, No. 9: 1193 (2005) (in Russian).",
+				"tr":  "V. A. Lobodyuk, Metallofiz. Noveishie Tekhnol., 27, No. 9: 1193 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Lobodyuk, Fiz. Met. Metalloved., 86, No. 3: 123 (1998) (in Russian).",
+				"tr":  "V. A. Lobodyuk, Fiz. Met. Metalloved., 86, No. 3: 123 (1998) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(01)01762-5",
+				"or":  "M. Liu, X. M. Zhang, Y. Y. Li, Z. Chen, and M. J. Tu, J. Alloys and Compounds, 334: 147 (2002).",
+				"tr":  "M. Liu, X. M. Zhang, Y. Y. Li, Z. Chen, and M. J. Tu, J. Alloys and Compounds, 334: 147 (2002)."
+			},
+			{
+				"doi": "10.1080/01418619108213904",
+				"or":  "S. Kajiwara, S. Ohno, and K. Honmo, Phil. Mag., 63: 625 (1991).",
+				"tr":  "S. Kajiwara, S. Ohno, and K. Honmo, Phil. Mag., 63: 625 (1991)."
+			},
+			{
+				"doi": "10.1143/JJAP.35.4468",
+				"or":  "X. Zhao, X. Y. Liang, Z. Hu, and B. Lio, Jap. J. Appl. Phys., 35: 4468 (1996).",
+				"tr":  "X. Zhao, X. Y. Liang, Z. Hu, and B. Lio, Jap. J. Appl. Phys., 35: 4468 (1996)."
+			},
+			{
+				"doi": "10.1023/B:NANO.0000006094.08917.46",
+				"or":  "A. M. Glezer, E. N. Blinova, V. A. Pozdnyakov, and A. V. Shelyakov, J. Nanoparticle Research, 5: 551 (2003).",
+				"tr":  "A. M. Glezer, E. N. Blinova, V. A. Pozdnyakov, and A. V. Shelyakov, J. Nanoparticle Research, 5: 551 (2003)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2004.08.003",
+				"or":  "T. Waitz and H. R. Karnthaler, Acta Mater., 52: 5461 (2004).",
+				"tr":  "T. Waitz and H. R. Karnthaler, Acta Mater., 52: 5461 (2004)."
+			},
+			{
+				"doi": "10.1016/j.msea.2007.03.122",
+				"or":  "T. Waitz, W. Pranger, T. Antretter, F. D. Fischer, and H. R. Karnthaler, Mater. Sci. and Eng. A, 481–482: 479 (2008).",
+				"tr":  "T. Waitz, W. Pranger, T. Antretter, F. D. Fischer, and H. R. Karnthaler, Mater. Sci. and Eng. A, 481–482: 479 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "G. V. Kurdjumov and L. G. Khandros, Doklady AN SSSR, LXVI: 211 (1949) (in Russian).",
+				"tr":  "G. V. Kurdjumov and L. G. Khandros, Doklady AN SSSR, LXVI: 211 (1949) (in Russian)."
+			}
+		]
+	}
+}

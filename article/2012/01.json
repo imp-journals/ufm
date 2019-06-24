@@ -1,0 +1,35 @@
+{
+	"year":   2012,
+	"volume": 13,
+	"issue":  1,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [1,70],
+			"title": {
+				"ua": "Еволюція пор в нанооболонках — конкуренція прямого та зворотнього Кіркендаллових ефектів, ефектів Френкеля і Ґіббса–Томсона (феноменологічний опис та комп’ютерна симуляція)",
+				"en": "Evolution of Pores in Nanoshells — a Competition of Direct and Inverse Kirkendall Effects, Frenkel and Gibbs–Thomson Effects: the Phenomenological Description and Computer Simulation",
+				"ru": "Эволюция пор в нанооболочках – конкуренция прямого и обратного эффектов Киркендалла, эффектов Френкеля и Гиббса—Томсона (феноменологическое описание и компьютерная симуляция)"
+			},
+			"autors": {
+				"ua": "Т. В. Запорожець, А. М. Гусак, О. М. Подолян",
+				"en": "T. V. Zaporozhets’, A. M. Gusak, and O. M. Podolyan",
+				"ru": "Т. В. Запорожец, А. М. Гусак, О. Н. Подолян"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [71,100],
+			"title": {
+				"ua": "Особливості взаємодії електромагнетного випромінення з малими частинками та їх ансамблями: теоретичні аспекти",
+				"en": "Features of Interaction of an Electromagnetic Radiation with Small Particles and Their Ensembles: Theoretical Aspects",
+				"ru": "Особенности взаимодействия электромагнитного излучения с малыми частицами и их ансамблями: теоретические аспекты"
+			},
+			"autors": {
+				"ua": "Л. Б. Лерман, О. Ю. Грищук, Н. Г. Шкода, С. В. Шостка",
+				"en": "L. B. Lerman, O. Yu. Gryshchuk, N. G. Shkoda, and S. V. Shostka",
+				"ru": "Л. Б. Лерман, Е. Ю. Грищук, Н. Г. Шкода, С. В. Шостак"
+			}
+		}
+	]
+}

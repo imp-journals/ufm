@@ -1,0 +1,35 @@
+{
+	"year":   2006,
+	"volume": 7,
+	"issue":  2,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [53,116],
+			"title": {
+				"ua": "Деформаційні явища при мартенситних перетвореннях",
+				"en": "The Deformation Phenomena at Martensitic Transformations",
+				"ru": "Деформационные явления при мартенситных превращениях"
+			},
+			"autors": {
+				"ua": "Ю. М. Коваль, В. А. Лободюк",
+				"en": "Yu. M. Koval’ and V. A. Lobodyuk",
+				"ru": "Ю. Н. Коваль, В. А. Лободюк"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [117,134],
+			"title": {
+				"ua": "Довжина вільного пробігу повільних електронів у твердому тілі залежно від їх енергії",
+				"en": "Length of Free Path of Slow Electrons in a Solid Depending on Their Energy",
+				"ru": "Длина свободного пробега медленных электронов в твердом теле в зависимости от их энергии"
+			},
+			"autors": {
+				"ua": "В. О. Тіньков",
+				"en": "V. O. Tin’kov",
+				"ru": "В. А. Тиньков"
+			}
+		}
+	]
+}

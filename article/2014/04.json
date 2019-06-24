@@ -1,0 +1,35 @@
+{
+	"year":   2014,
+	"volume": 15,
+	"issue":  4,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [173,212],
+			"title": {
+				"ua": "Зародкування та мартенситне перетворення в об’єктах малих розмірів",
+				"en": "Nucleation and Martensitic Transformation in Subjects of Small Dimensions",
+				"ru": "Зародышеобразование и мартенситное превращение в объектах малых размеров"
+			},
+			"autors": {
+				"ua": "В. А. Лободюк",
+				"en": "V. A. Lobodyuk",
+				"ru": "В. А. Лободюк"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [213,234],
+			"title": {
+				"ua": "Структура та властивості зносостійких покриттів, натоплених електродуговою методою на крицю порошковими дротами",
+				"en": "Structure and Properties of the Wear-Resistant Coatings Fused on Steel with Flux Cored Wires by an Electric Arc Method",
+				"ru": "Структура и свойства износостойких покрытий, наплавленных электродуговым методом на сталь порошковыми проволоками"
+			},
+			"autors": {
+				"ua": "В. Є. Громов, Є. В. Капралов, С. В. Райков, Ю. Ф. Іванов, Є. А. Будовскіх",
+				"en": "V. E. Gromov, E. V. Kapralov, S. V. Raikov, Yu. F. Ivanov, and E. A. Budovskikh",
+				"ru": "В. Е. Громов, Е. В. Капралов, С. В. Райков, Ю. Ф. Иванов, Е. А. Будовских"
+			}
+		}
+	]
+}

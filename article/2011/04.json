@@ -1,0 +1,63 @@
+{
+	"year":   2011,
+	"volume": 12,
+	"issue":  4,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [389,450],
+			"title": {
+				"ua": "Вплив ангармонізму та електрон-фононної взаємодії на спектер частот кристалів з гексагональною щільнопакованою ґратницею",
+				"en": "Influence of an Anharmonicity and Electron–Phonon Interaction on a Frequency Spectrum of Crystals with the Hexagonal Close-Packed Lattice",
+				"ru": "Влияние ангармонизма и электрон-фононного взаимодействия на спектр частот кристаллов с гексагональной плотноупакованной решёткой"
+			},
+			"autors": {
+				"ua": "С. П. Репецький, В. С. Харченко, І. Г. Вишивана",
+				"en": "S. P. Repets’kyy, V. S. Kharchenko, and I. G. Vyshyvana",
+				"ru": "С. П. Репецкий, В. С. Харченко, И. Г. Вышиваная"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [451,470],
+			"title": {
+				"ua": "Комп’ютерне моделювання атомарної структури та надтонких взаємодій в австеніті Fe–C",
+				"en": "Computer Simulation of Atomic Structure and Hyperfine Interactions in Fe–C Austenite",
+				"ru": "Компьютерное моделирование атомной структуры и сверхтонких взаимодействий в аустените Fe-C"
+			},
+			"autors": {
+				"ua": "А. М. Тимошевський, С. О. Яблоновський, В. І. Єремин",
+				"en": "A. M. Timoshevskii, S. O. Yablonovskii, and V. I. Yeremin",
+				"ru": "А. Н. Тимошевский, С. О. Яблоновский, В. И. Еремин"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [471,479],
+			"title": {
+				"ua": "До питання про атермічний та ізотермічний мартенсити",
+				"en": "On the Issue of Athermal and Isothermal Martensites",
+				"ru": "К вопросу о атермическом и изотермическом мартенситах"
+			},
+			"autors": {
+				"ua": "С. П. Ошкадьоров",
+				"en": "S. P. Oshkadyorov",
+				"ru": "С. П. Ошкадеров"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [481,487],
+			"title": {
+				"ua": "Форми отоплення поверхні твердого тіла під дією імпульсного лазерного випромінення",
+				"en": "Shapes of Washing of a Solid under Action of Pulsed Laser Radiation",
+				"ru": "Формы оплавления поверхности твёрдого тела под действием импульсного лазерного излучения"
+			},
+			"autors": {
+				"ua": "Л. В. Породько, А. Б. Демчишин",
+				"en": "L. V. Porod’ko and A. B. Demchyshyn",
+				"ru": "Л. В. Породько, А. Б. Демчишин"
+			}
+		}
+	]
+}

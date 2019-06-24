@@ -1,0 +1,474 @@
+{
+	"_id":    "UFM.03.04.357",
+	"year":   2002,
+	"volume": 3,
+	"issue":  4,
+	"pages":  [357,386],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["10.07.2002"],
+	"PACS":   "74.60.Ge, 74.72.Bk, 74.72.Hs, 74.80.Bj, 85.25.Am, 85.25.Ly",
+	"title":   {
+		"ua": "Динаміка магнетного потоку в об'ємних ВТНП левітаційними методами",
+		"en": "Magnetic Flux Dynamics in HTS Bulks with Levitation Techniques",
+		"ru": "Динамика магнитного потока в объемных ВТСП левитационными методами"
+	},
+	"abstract": {
+		"ua": "Відкриття високотемпературних надпровідників (ВТНП) призвело до розуміння того, що задля пояснення та використання цього явища на всіх рівнях: мікроскопічному, мезоскопічному та макроскопічному, має бути створено принципово нові фізичні підходи. Полишаючи перші два рівні поза увагою даної роботи, ми детально розглядаємо верхню границю останнього — дослідження динаміки магнітного потоку в масивних ВТНП, динаміки «компактових вихорових структур». Дана робота — це огляд нового напрямку експериментальної фізики надпровідників — дослідження масивних ВТНП левітаційними методами — що його було вироблено останнім часом для вивчення зазначеної проблеми, а також тих нових фундаментальних та практичних результатів, що було тут отримано.",
+		"en": "The discovery of high-temperature superconductors (HTS) has led to understanding that, in order to explain and utilize the phenomenon, completely new physical approaches should be introduced at all scales: microscopic, mesoscopic, macroscopic. Leaving first two scales beyond the scope of the present paper, we focus in the upper limit of the last scale, the study of the magnetic flux dynamics in HTS bulks—the dynamics of the ‘compact vortex structures’. A new direction in the experimental superconducting physics, the investigation of HTS bulks with levitation techniques, which has been elaborated during last years to effectively explore the subject, as well as the new fundamental and applied results obtained there from are overviewed here.",
+		"ru": "Открытие высокотемпературных сверхпроводников (ВТСП) привело к пониманию того, что для объяснения и использования этого явления необходимо создание принципиально новых физических подходов на всех уровнях: микроскопическом, мезоскопическом, макроскопическом. Оставляя первые два уровня за рамками данной работы, мы сфокусировали внимание на верхнем пределе последнего — исследовании динамики магнитного потока в массивных ВТСП, динамики «компактных вихревых структур». Данная работа — это обзор нового направления экспериментальной физики сверхпроводников, которое было выработано за последние годы, а также тех новых фундаментальных и прикладных результатов, которые были здесь получены."
+	},
+	"keywords": {
+		"ua": "надпровідник, вихорові структури, динаміка магнітного потоку, левітація",
+		"en": "superconductor, vortex structures, magnetic flux dynamics, levitation",
+		"ru": "сверхпроводник, вихревые структуры, динамика магнитного потока, левитация"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. А. Кордюк", "en": "O. A. Kordyuk", "ru": "А. А. Кордюк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. В. Немошкаленко", "en": "V. V. Nemoshkalenko", "ru": "В. В. Немошкаленко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. І. Плющай", "en": "O. I. Plyushchay", "ru": "А. И. Плющай"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Р. В. Візніченко", "en": "R. V. Viznichenko", "ru": "Р. В. Визниченко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 85,
+				"list":  [
+			{
+				"doi": "10.1038/35087696",
+				"or":  "P. B. Allen, Nature, 412: 494 (2001).",
+				"tr":  "P. B. Allen, Nature, 412: 494 (2001)."
+			},
+			{
+				"doi": "10.1126/science.288.5465.468",
+				"or":  "J. Orenstein and A. J. Millis, Science, 288: 468 (2000).",
+				"tr":  "J. Orenstein and A. J. Millis, Science, 288: 468 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Kordyuk, S. V. Borisenko, T. K. Kim et al., cond-mat/0110379 (2001).",
+				"tr":  "A. A. Kordyuk, S. V. Borisenko, T. K. Kim et al., cond-mat/0110379 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Pan and A. V. Pan, Fiz. Nizk. Temp., 27: 991 (2001) (in Russian).",
+				"tr":  "V. M. Pan and A. V. Pan, Fiz. Nizk. Temp., 27: 991 (2001) (in Russian)."
+			},
+			{
+				"doi": "10.1038/35078016",
+				"or":  "F. Bouquet, C. Marcenat, E. Steep, R. Calemczuk et al., Nature, 411: 448 (2001).",
+				"tr":  "F. Bouquet, C. Marcenat, E. Steep, R. Calemczuk et al., Nature, 411: 448 (2001)."
+			},
+			{
+				"doi": "10.1038/35090680",
+				"or":  "P. A. Lee, Nature, 412: 494 (2001).",
+				"tr":  "P. A. Lee, Nature, 412: 494 (2001)."
+			},
+			{
+				"doi": "10.1038/21385",
+				"or":  "A. M. Troyanovski, J. Aarts, and P. H. Kes, Nature, 399: 665 (1999).",
+				"tr":  "A. M. Troyanovski, J. Aarts, and P. H. Kes, Nature, 399: 665 (1999)."
+			},
+			{
+				"doi": "10.1038/35096534",
+				"or":  "T. Klein, I. Joumard, S. Blanchard, J. Marcus, R. Cubitt et al., Nature, 413: 404 (2001).",
+				"tr":  "T. Klein, I. Joumard, S. Blanchard, J. Marcus, R. Cubitt et al., Nature, 413: 404 (2001)."
+			},
+			{
+				"doi": "10.1088/0034-4885/58/11/003",
+				"or":  "E. H. Brandt, Rep. Prog. Phys., 58: 1465 (1995).",
+				"tr":  "E. H. Brandt, Rep. Prog. Phys., 58: 1465 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "E. H. Brandt, Fiz. Nizk. Temp., 27: 980 (2001).",
+				"tr":  "E. H. Brandt, Fiz. Nizk. Temp., 27: 980 (2001)."
+			},
+			{
+				"doi": "10.1016/S0921-4526(99)02219-X",
+				"or":  "A. A. Kordyuk, G. Krabbes, V. V. Nemoshkalenko et al., Physica B, 284: 903 (2000).",
+				"tr":  "A. A. Kordyuk, G. Krabbes, V. V. Nemoshkalenko et al., Physica B, 284: 903 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Kordyuk, Macroscopic Magnetic Flux Dynamics in Granular HTS, Ph.D. Thesis (Kyyiv: IMPh, N.A.S.U.: 1994).",
+				"tr":  "A. A. Kordyuk, Macroscopic Magnetic Flux Dynamics in Granular HTS, Ph.D. Thesis (Kyyiv: IMPh, N.A.S.U.: 1994)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Kordyuk, Magnetic Flux Dynamics in HTS Bulks, Dr. Sci. Thesis (Kyyiv: IMPh, N.A.S.U.: 1999).",
+				"tr":  "A. A. Kordyuk, Magnetic Flux Dynamics in HTS Bulks, Dr. Sci. Thesis (Kyyiv: IMPh, N.A.S.U.: 1999)."
+			},
+			{
+				"doi": "10.1016/S0921-5107(97)00293-6",
+				"or":  "D. A. Cardwell, Mat. Sci. Eng. B, 53: 1 (1998).",
+				"tr":  "D. A. Cardwell, Mat. Sci. Eng. B, 53: 1 (1998)."
+			},
+			{
+				"doi": "10.1109/6.609810",
+				"or":  "J. R. Hull, IEEE Spectrum, 7: 20 (1997).",
+				"tr":  "J. R. Hull, IEEE Spectrum, 7: 20 (1997)."
+			},
+			{
+				"doi": "10.1088/0953-2048/13/2/201",
+				"or":  "J. R. Hull, Supercond. Sci. Technol., 13: R1 (2000).",
+				"tr":  "J. R. Hull, Supercond. Sci. Technol., 13: R1 (2000)."
+			},
+			{
+				"doi": "10.1016/0964-1807(94)90037-X",
+				"or":  "W. Gawalek, T. Habisreuther, T. Strasser et al., Appl. Supercond., 2: 465 (1994).",
+				"tr":  "W. Gawalek, T. Habisreuther, T. Strasser et al., Appl. Supercond., 2: 465 (1994)."
+			},
+			{
+				"doi": "10.1109/77.620968",
+				"or":  "G. Fuchs, P. Stoye, T. Staiger, G. Krabbes, P. Schatzle et al., IEEE Trans. Appl. Supercond., 7: 1949 (1997).",
+				"tr":  "G. Fuchs, P. Stoye, T. Staiger, G. Krabbes, P. Schatzle et al., IEEE Trans. Appl. Supercond., 7: 1949 (1997)."
+			},
+			{
+				"doi": "10.1063/1.124765",
+				"or":  "A. A. Kordyuk, V. V. Nemoshkalenko, R. V. Viznichenko et al., Appl. Phys. Lett., 75: 1595 (1999).",
+				"tr":  "A. A. Kordyuk, V. V. Nemoshkalenko, R. V. Viznichenko et al., Appl. Phys. Lett., 75: 1595 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Kordyuk, V. V. Nemoshkalenko, and R. V. Viznichenko, Metallofiz. Noveishie Tekhnol., 21, No. 8: 15 (1999) (in Russian); idem, Met. Phys. Adv. Tech., 19: 1029 (2001).",
+				"tr":  "A. A. Kordyuk, V. V. Nemoshkalenko, and R. V. Viznichenko, Metallofiz. Noveishie Tekhnol., 21, No. 8: 15 (1999) (in Russian); idem, Met. Phys. Adv. Tech., 19: 1029 (2001)."
+			},
+			{
+				"doi": "10.1088/0953-2048/14/10/101",
+				"or":  "A. A. Kordyuk, V. V. Nemoshkalenko, A. I. Plyushchay et al., Supercond. Sci. Technol., 14: L41 (2001).",
+				"tr":  "A. A. Kordyuk, V. V. Nemoshkalenko, A. I. Plyushchay et al., Supercond. Sci. Technol., 14: L41 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "O. I. Plyushchay, V. V. Nemoshkalenko, O. A. Kordyuk, and T. A. Prikhna, Metallofiz. Noveishie Tekhnol., 23, No. 6: 767 (2001) (in Ukrainian).",
+				"tr":  "O. I. Plyushchay, V. V. Nemoshkalenko, O. A. Kordyuk, and T. A. Prikhna, Metallofiz. Noveishie Tekhnol., 23, No. 6: 767 (2001) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/S0921-4534(01)00049-1",
+				"or":  "T. Prikhna, W. Gawalek, V. Moshchil, A. Surzhenko et al., Physica C, 354: 333 (2001).",
+				"tr":  "T. Prikhna, W. Gawalek, V. Moshchil, A. Surzhenko et al., Physica C, 354: 333 (2001)."
+			},
+			{
+				"doi": "10.1016/0921-4534(90)90019-B",
+				"or":  "V. V. Nemoshkalenko, E. H. Brandt, A. A. Kordyuk, and B. G. Nikitin, Physica C, 170: 481 (1990).",
+				"tr":  "V. V. Nemoshkalenko, E. H. Brandt, A. A. Kordyuk, and B. G. Nikitin, Physica C, 170: 481 (1990)."
+			},
+			{
+				"doi": "10.1016/0038-1098(90)90692-5",
+				"or":  "V. V. Nemoshkalenko, M. A. Ivanov, B. G. Nikitin et al., Solid State Commun., 74: 637 (1990).",
+				"tr":  "V. V. Nemoshkalenko, M. A. Ivanov, B. G. Nikitin et al., Solid State Commun., 74: 637 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Nemoshkalenko, A. A. Kordyuk, and B. G. Nikitin, Fiz. Nizk. Temp., 17: 1453 (1991) (in Russian).",
+				"tr":  "V. V. Nemoshkalenko, A. A. Kordyuk, and B. G. Nikitin, Fiz. Nizk. Temp., 17: 1453 (1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Nemoshkalenko, and A. A. Kordyuk, Fiz. Nizk. Temp., 21: 1030 (1995) (in Russian); idem, Low Temp. Phys., 21: 791 (1995)).",
+				"tr":  "V. V. Nemoshkalenko, and A. A. Kordyuk, Fiz. Nizk. Temp., 21: 1030 (1995) (in Russian); idem, Low Temp. Phys., 21: 791 (1995))."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Nemoshkalenko, A. A. Kordyuk, B. G. Nikitin, and V. S. Savoshchenko, Metallofizika, 16, No. 7: 35 (1994) (in Russian); idem, Phys. Metals, 14, 765 (1995).",
+				"tr":  "V. V. Nemoshkalenko, A. A. Kordyuk, B. G. Nikitin, and V. S. Savoshchenko, Metallofizika, 16, No. 7: 35 (1994) (in Russian); idem, Phys. Metals, 14, 765 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Nemoshkalenko, and A. A. Kordyuk, Metallofizika, 16, No. 9: 66 (1994) (in Russian); idem, Phys. Metals, 14, 1032 (1995).",
+				"tr":  "V. V. Nemoshkalenko, and A. A. Kordyuk, Metallofizika, 16, No. 9: 66 (1994) (in Russian); idem, Phys. Metals, 14, 1032 (1995)."
+			},
+			{
+				"doi": "10.1007/BF00728429",
+				"or":  "A. A. Kordyuk and V. V. Nemoshkalenko, J. Supercond., 9: 77 (1996).",
+				"tr":  "A. A. Kordyuk and V. V. Nemoshkalenko, J. Supercond., 9: 77 (1996)."
+			},
+			{
+				"doi": "10.1063/1.116777",
+				"or":  "A. A. Kordyuk and V. V. Nemoshkalenko, Appl. Phys. Lett., 68: 126 (1996).",
+				"tr":  "A. A. Kordyuk and V. V. Nemoshkalenko, Appl. Phys. Lett., 68: 126 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Kordyuk, V. V. Nemoshkalenko, A. I. Plyushchay, R. V. Viznichenko, NATO Sci. Ser. E, 356: 583 (1999).",
+				"tr":  "A. A. Kordyuk, V. V. Nemoshkalenko, A. I. Plyushchay, R. V. Viznichenko, NATO Sci. Ser. E, 356: 583 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Kordyuk and V. V. Nemoshkalenko, IOP Conf. Ser., 158: 973 (1997).",
+				"tr":  "A. A. Kordyuk and V. V. Nemoshkalenko, IOP Conf. Ser., 158: 973 (1997)."
+			},
+			{
+				"doi": "10.1063/1.366648",
+				"or":  "A. A. Kordyuk, J. Appl. Phys., 83: 610 (1998).",
+				"tr":  "A. A. Kordyuk, J. Appl. Phys., 83: 610 (1998)."
+			},
+			{
+				"doi": "10.1016/S0921-5107(97)00322-X",
+				"or":  "A. A. Kordyuk, V. V. Nemoshkalenko, R. V. Viznichenko, and W. Gawalek, Mat. Sci. Eng. B, 53: 174 (1998).",
+				"tr":  "A. A. Kordyuk, V. V. Nemoshkalenko, R. V. Viznichenko, and W. Gawalek, Mat. Sci. Eng. B, 53: 174 (1998)."
+			},
+			{
+				"doi": "10.1016/S0921-4534(01)00049-1",
+				"or":  "A. A. Kordyuk, V. V. Nemoshkalenko, R. V. Viznichenko, and W. Gawalek, Physica C, 354: 333 (2001).",
+				"tr":  "A. A. Kordyuk, V. V. Nemoshkalenko, R. V. Viznichenko, and W. Gawalek, Physica C, 354: 333 (2001)."
+			},
+			{
+				"doi": "10.1063/1.100435",
+				"or":  "E. H. Brandt, Appl. Phys. Lett., 53: 1554 (1988).",
+				"tr":  "E. H. Brandt, Appl. Phys. Lett., 53: 1554 (1988)."
+			},
+			{
+				"doi": "10.1016/0921-4534(89)90421-8",
+				"or":  "Z. J. Yang, T. H. Johansen, H. Bratsberg et al., Physica C, 160: 461 (1989).",
+				"tr":  "Z. J. Yang, T. H. Johansen, H. Bratsberg et al., Physica C, 160: 461 (1989)."
+			},
+			{
+				"doi": "10.1143/JJAP.29.1257",
+				"or":  "F. C. Moon, P.-Z. Chang, H. Hojaji, A. Barkatt, and A. N. Thorpe, Jpn. J. Appl. Phys., 29: 1257 (1990).",
+				"tr":  "F. C. Moon, P.-Z. Chang, H. Hojaji, A. Barkatt, and A. N. Thorpe, Jpn. J. Appl. Phys., 29: 1257 (1990)."
+			},
+			{
+				"doi": "10.1016/0921-4534(90)90554-R",
+				"or":  "A. N. Terentiev, Physica C, 166: 71 (1990).",
+				"tr":  "A. N. Terentiev, Physica C, 166: 71 (1990)."
+			},
+			{
+				"doi": "10.1063/1.104205",
+				"or":  "S. A. Basinger, J. R. Hull, and T. M. Mulcahy, Appl. Phys. Lett., 57: 2942 (1990).",
+				"tr":  "S. A. Basinger, J. R. Hull, and T. M. Mulcahy, Appl. Phys. Lett., 57: 2942 (1990)."
+			},
+			{
+				"doi": "10.1063/1.1686149",
+				"or":  "A. F. Hebard, Rev. Sci. Ins., 44: 425 (1973).",
+				"tr":  "A. F. Hebard, Rev. Sci. Ins., 44: 425 (1973)."
+			},
+			{
+				"doi": "10.1063/1.114560",
+				"or":  "R. Grosser, J. Jager, J. Betz, and W. Schoepe, Appl. Phys. Lett., 67: 2400 (1995).",
+				"tr":  "R. Grosser, J. Jager, J. Betz, and W. Schoepe, Appl. Phys. Lett., 67: 2400 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Grosser, A. Martin, O. Kus, E. V. Pechen, and W. Schoepe, IOP Conf. Ser., 158: 1643 (1997).",
+				"tr":  "R. Grosser, A. Martin, O. Kus, E. V. Pechen, and W. Schoepe, IOP Conf. Ser., 158: 1643 (1997)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.56.89",
+				"or":  "E. H. Brandt, P. Esquinazi, H. Neckel, and G. Weiss, Phys. Rev. Lett., 56: 89 (1986).",
+				"tr":  "E. H. Brandt, P. Esquinazi, H. Neckel, and G. Weiss, Phys. Rev. Lett., 56: 89 (1986)."
+			},
+			{
+				"doi": "10.1007/BF00681969",
+				"or":  "P. Esquinazi, J. Low. Temp. Phys., 85, 139 (1991).",
+				"tr":  "P. Esquinazi, J. Low. Temp. Phys., 85, 139 (1991)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.60.4293",
+				"or":  "A. V. Pan, F. Ciovacco, P. Esquinazi, and M. Lorenz, Phys. Rev. B, 60: 4293 (1999).",
+				"tr":  "A. V. Pan, F. Ciovacco, P. Esquinazi, and M. Lorenz, Phys. Rev. B, 60: 4293 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "A. V. Pan and P. Esquinazi, Europhys. J. B, 17: 405 (2000).",
+				"tr":  "A. V. Pan and P. Esquinazi, Europhys. J. B, 17: 405 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Kordyuk, V. V. Nemoshkalenko, and B. G. Nikitin, Sverkhprovodimost’: Fiz., Khim., Tekhn., 5: 2287 (1992) (in Russian); idem, Supercond.: Phys., Chem., Technol., 5: 2152 (1992).",
+				"tr":  "A. A. Kordyuk, V. V. Nemoshkalenko, and B. G. Nikitin, Sverkhprovodimost': Fiz., Khim., Tekhn., 5: 2287 (1992) (in Russian); idem, Supercond.: Phys., Chem., Technol., 5: 2152 (1992)."
+			},
+			{
+				"doi": "10.1109/77.614656",
+				"or":  "A. A. Kordyuk and V. V. Nemoshkalenko, IEEE Trans. Appl. Supercond., 7: 928 (1997).",
+				"tr":  "A. A. Kordyuk and V. V. Nemoshkalenko, IEEE Trans. Appl. Supercond., 7: 928 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Kordyuk, V. V. Nemoshkalenko, and H. C. Freyhardt, Adv. Cryo. Eng., 43: 727 (1998).",
+				"tr":  "A. A. Kordyuk, V. V. Nemoshkalenko, and H. C. Freyhardt, Adv. Cryo. Eng., 43: 727 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Nemoshkalenko, A. A. Kordyuk, B. G. Nikitin, and V. A. Rafalovskii, Pribory i Tekhnika Ehksperimenta, No. 5: 196 (1991) (in Russian); idem, Instruments and Experimental Techniques, 34: 1203 (1991).",
+				"tr":  "V. V. Nemoshkalenko, A. A. Kordyuk, B. G. Nikitin, and V. A. Rafalovskii, Pribory i Tekhnika Ehksperimenta, No. 5: 196 (1991) (in Russian); idem, Instruments and Experimental Techniques, 34: 1203 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Nemoshkalenko, A. A. Kordyuk, V. F. Los’ et al., Metallofizika, 13, No. 9: 11 (1991) (in Russian); idem, Phys. Metals, 11: 1113 (1993)).",
+				"tr":  "V. V. Nemoshkalenko, A. A. Kordyuk, V. F. Los' et al., Metallofizika, 13, No. 9: 11 (1991) (in Russian); idem, Phys. Metals, 11: 1113 (1993))."
+			},
+			{
+				"doi": "10.1016/0964-1807(94)90035-3",
+				"or":  "J. R. Hull, T. M. Mulcahy, K. L. Uherka et al., Appl. Supercond., 2: 449 (1994).",
+				"tr":  "J. R. Hull, T. M. Mulcahy, K. L. Uherka et al., Appl. Supercond., 2: 449 (1994)."
+			},
+			{
+				"doi": "10.1016/0964-1807(96)00011-7",
+				"or":  "J. R. Hull, J. F. Labataille, T. M. Mulcahy, and J. A. Lockwood, Appl. Supercond., 4: 1 (1996).",
+				"tr":  "J. R. Hull, J. F. Labataille, T. M. Mulcahy, and J. A. Lockwood, Appl. Supercond., 4: 1 (1996)."
+			},
+			{
+				"doi": "10.1063/1.106367",
+				"or":  "B. R. Weinberger, L. Lynds, J. R. Hull, and U. Balachandran, Appl. Phys. Lett., 59: 1132 (1991).",
+				"tr":  "B. R. Weinberger, L. Lynds, J. R. Hull, and U. Balachandran, Appl. Phys. Lett., 59: 1132 (1991)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.48.6477",
+				"or":  "A. Gurevich and H. Kupfer, Phys. Rev. B, 48: 6477 (1993).",
+				"tr":  "A. Gurevich and H. Kupfer, Phys. Rev. B, 48: 6477 (1993)."
+			},
+			{
+				"doi": "10.1007/BF02562740",
+				"or":  "A. A. Kordyuk and V. V. Nemoshkalenko, Czech. J. Phys., 46: 1251 (1996).",
+				"tr":  "A. A. Kordyuk and V. V. Nemoshkalenko, Czech. J. Phys., 46: 1251 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Nemoshkalenko, A. A. Kordyuk, and A. D. Morozovsky, Metallofiz. Noveishie Tekhnol., 18, No. 9: 16 (1996) (in Russian); idem, Met. Phys. Adv. Tech., 16: 985 (1997).",
+				"tr":  "V. V. Nemoshkalenko, A. A. Kordyuk, and A. D. Morozovsky, Metallofiz. Noveishie Tekhnol., 18, No. 9: 16 (1996) (in Russian); idem, Met. Phys. Adv. Tech., 16: 985 (1997)."
+			},
+			{
+				"doi": "10.1016/S0921-4534(97)01611-0",
+				"or":  "C. E. Rossman and J. I. Budnick, Physica C, 295: 304 (1998).",
+				"tr":  "C. E. Rossman and J. I. Budnick, Physica C, 295: 304 (1998)."
+			},
+			{
+				"doi": "10.1007/BF01313619",
+				"or":  "J. Mannhart and C. C. Tsuei, Z. Phys. B, 77: 53 (1989).",
+				"tr":  "J. Mannhart and C. C. Tsuei, Z. Phys. B, 77: 53 (1989)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.42.8014",
+				"or":  "R. L. Peterson and J. W. Ekin, Phys. Rev. B, 42: 8014 (1990).",
+				"tr":  "R. L. Peterson and J. W. Ekin, Phys. Rev. B, 42: 8014 (1990)."
+			},
+			{
+				"doi": "10.1016/0011-2275(88)90152-X",
+				"or":  "D. Dew-Hughes, Cryogenics, 28: 674 (1988).",
+				"tr":  "D. Dew-Hughes, Cryogenics, 28: 674 (1988)."
+			},
+			{
+				"doi": "10.1088/0953-2048/1/5/005",
+				"or":  "P. H. Kes, J. Aarts, J. van den Berg, C. J. van der Beek, and J. A. Mydosh, Supercond. Sci. Technol., 1: 242 (1989).",
+				"tr":  "P. H. Kes, J. Aarts, J. van den Berg, C. J. van der Beek, and J. A. Mydosh, Supercond. Sci. Technol., 1: 242 (1989)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.12.14",
+				"or":  "C. P. Bean and J. D. Livingston, Phys. Rev. Lett., 12: 14 (1964).",
+				"tr":  "C. P. Bean and J. D. Livingston, Phys. Rev. Lett., 12: 14 (1964)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.56.6273",
+				"or":  "M. Reissner and J. Lorenz, Phys. Rev. B, 56: 6273 (1997).",
+				"tr":  "M. Reissner and J. Lorenz, Phys. Rev. B, 56: 6273 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "O. A. Kordyuk, Metallofiz. Noveishie Tekhnol., 20, No. 3: 10 (1998) (in Ukrainian); idem, Met. Phys. Adv. Tech., 18: 249 (1999).",
+				"tr":  "O. A. Kordyuk, Metallofiz. Noveishie Tekhnol., 20, No. 3: 10 (1998) (in Ukrainian); idem, Met. Phys. Adv. Tech., 18: 249 (1999)."
+			},
+			{
+				"doi": "10.1063/1.371703",
+				"or":  "J. R. Hull and A. Cansiz, J. Appl. Phys., 86: 6396 (1999).",
+				"tr":  "J. R. Hull and A. Cansiz, J. Appl. Phys., 86: 6396 (1999)."
+			},
+			{
+				"doi": "10.1088/0953-2048/13/6/347",
+				"or":  "J. R. Hull, Supercond. Sci. Technol., 13: 854 (2000).",
+				"tr":  "J. R. Hull, Supercond. Sci. Technol., 13: 854 (2000)."
+			},
+			{
+				"doi": "10.1063/1.344927",
+				"or":  "P.-Z. Chang, F. C. Moon, J. R. Hull, and T. M. Mulcahy, J. Appl. Phys., 67: 4358 (1990).",
+				"tr":  "P.-Z. Chang, F. C. Moon, J. R. Hull, and T. M. Mulcahy, J. Appl. Phys., 67: 4358 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Sugiura, H. Hashizume, and K. Miya, Int. J. Appl. Electromag. Mater., 2: 183 (1991).",
+				"tr":  "T. Sugiura, H. Hashizume, and K. Miya, Int. J. Appl. Electromag. Mater., 2: 183 (1991)."
+			},
+			{
+				"doi": "10.1109/20.497425",
+				"or":  "T. Sugiura and H. Fujimori, IEEE Trans. Magn., 32: 1066 (1996).",
+				"tr":  "T. Sugiura and H. Fujimori, IEEE Trans. Magn., 32: 1066 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.8.250",
+				"or":  "C. P. Bean, Phys. Rev. Lett., 8: 250 (1962).",
+				"tr":  "C. P. Bean, Phys. Rev. Lett., 8: 250 (1962)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Campbell, J. Phys. C, 2: 1492 (1969).",
+				"tr":  "A. M. Campbell, J. Phys. C, 2: 1492 (1969)."
+			},
+			{
+				"doi": "10.1063/1.326349",
+				"or":  "J. R. Clem, J. Appl. Phys. 50: 3518 (1979).",
+				"tr":  "J. R. Clem, J. Appl. Phys. 50: 3518 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Nemoshkalenko et al., Auth. Cert. USSR No. 1811295 (1992).",
+				"tr":  "V. V. Nemoshkalenko et al., Auth. Cert. USSR No. 1811295 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Nemoshkalenko et al., Auth. Cert. USSR No. 1839566 (1993).",
+				"tr":  "V. V. Nemoshkalenko et al., Auth. Cert. USSR No. 1839566 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Nemoshkalenko et al., Patent of Ukraine No. 14969 À (1997).",
+				"tr":  "V. V. Nemoshkalenko et al., Patent of Ukraine No. 14969 À (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Nemoshkalenko et al., Auth. Cert. USSR No. 1780066 (1992).",
+				"tr":  "V. V. Nemoshkalenko et al., Auth. Cert. USSR No. 1780066 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Nemoshkalenko et al., Auth. Cert. USSR No. 1778628 (1992).",
+				"tr":  "V. V. Nemoshkalenko et al., Auth. Cert. USSR No. 1778628 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Nemoshkalenko et al., Patent of Ukraine No. 15632 (1997).",
+				"tr":  "V. V. Nemoshkalenko et al., Patent of Ukraine No. 15632 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Nemoshkalenko et al., Auth. Cert. USSR No. 1767443 (1992).",
+				"tr":  "V. V. Nemoshkalenko et al., Auth. Cert. USSR No. 1767443 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Vasiliev, V. V. Nemoshkalenko, A. A. Kordyuk et al., Metallofiz. Noveishie Tekhnol., 19, No. 9: 56 (1997).",
+				"tr":  "M. A. Vasiliev, V. V. Nemoshkalenko, A. A. Kordyuk et al., Metallofiz. Noveishie Tekhnol., 19, No. 9: 56 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Nemoshkalenko et al., Patent of Ukraine No. 15632 (1997).",
+				"tr":  "V. V. Nemoshkalenko et al., Patent of Ukraine No. 15632 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Nemoshkalenko et al., Patent of Ukraine No. 37848 A (2001).",
+				"tr":  "V. V. Nemoshkalenko et al., Patent of Ukraine No. 37848 A (2001)."
+			}
+		]
+	}
+}

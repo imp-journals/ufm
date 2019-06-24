@@ -1,0 +1,36 @@
+{
+	"_id":    "UFM.09.04.451",
+	"year":   2008,
+	"volume": 9,
+	"issue":  4,
+	"pages":  [451,457],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["07.10.2008"],
+	"PACS":   "01.40.-d, 01.60.+q, 01.65.+g, 81.05.Bx, 81.20.-n, 81.30.-t, 81.40.-z",
+	"title":   {
+		"ua": "В. Н. Гріднєв і педагогічна школа підготовки фахівців у КПІ з металознавства, термічної обробки й фізики металів",
+		"en": "V. N. Gridnev and Pedagogical School of Training of Specialists in Kyiv Polytechnic Institute in Physical Metallurgy, Heat Treatment and Metal Physics",
+		"ru": "В. Н. Гриднев и педагогическая школа подготовки специалистов в КПИ по металловедению, термической обработке и физике металлов"
+	},
+	"abstract": {
+		"ua": "Наведено спогади автора про педагогічну школу підготовки фахівців з металознавства, термічної обробки та фізики металів у КПІ, які охоплюють більш як 60-річний період. Засновником цієї школи був видатний педагог, науковець та громадський діяч академік В. Н. Гріднєв.",
+		"en": "Memories of the author about pedagogical school for training of specialists in the field of physical metallurgy, heat treatment and physics of metals in Kyiv Polytechnic Institute, which cover a period of more than 60 years, are presented. The outstanding teacher, scientist and public figure, Academician V. N. Gridnev was a founder of this school.",
+		"ru": "Представлены воспоминания автора о педагогической школе подготовки специалистов в области металловедения, термической обработки и физики металлов в КПИ, которые охватывают период более 60 лет. Основателем этой школы был выдающийся педагог, ученый и общественный деятель академик В. Н. Гриднев."
+	},
+	"keywords": {
+		"ua": "металознавство, термічна обробка, фізика металів",
+		"en": "physical metallurgy, heat treatment, metal physics",
+		"ru": "металловедение, термическая обработка, физика металлов"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. В. Білоцький", "en": "О. V. Bilots’kyy", "ru": "А. В. Белоцкий"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 0,
+		"list":  []
+	}
+}

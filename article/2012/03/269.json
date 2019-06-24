@@ -1,0 +1,494 @@
+{
+	"_id":    "UFM.13.03.269",
+	"year":   2012,
+	"volume": 13,
+	"issue":  3,
+	"pages":  [269,302],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["07.03.2012", "19.09.2012"],
+	"PACS":   "05.10.Ln, 61.05.cf, 61.72.Bb, 64.60.De, 75.30.Et, 75.40.-s, 75.50.Bb",
+	"title":   {
+		"ua": "Статистична термодинаміка близького атомового порядку заміщення та кінематика дифузного розсіяння випромінення у (пара)магнетних стопах ГЦК-Ni–Fe",
+		"en": "Statistical Thermodynamics of the Substitutional Short-Range Atomic Order and Kinematics of the Diffuse Scattering of Radiations in (Para)Magnetic F.C.C.-Ni–Fe Alloys",
+		"ru": "Статистическая термодинамика ближнего атомного порядка замещения и кинематика диффузного рассеяния излучения в (пара)магнитных сплавах ГЦК-Ni-Fe"
+	},
+	"abstract": {
+		"ua": "На прикладі стопу ГЦК-Ni—Fe застосовано статистично-термодинамічний підхід до чисельної аналізи впливу термічних і концентраційно-магнетних флюктуацій на інтенсивність кінематичного дифузного розсіяння випромінення (Рентґенових променів або теплових невтронів) у атомарно невпорядкованих (з близьким порядком (БП)) магнетних стопах. У рамках (а) наближень самоузгодженого (СУП) та середнього самоузгодженого (ССУП) полів і (б) найпростішої «інтерполяційної» апроксимації одержано вираз для розподілу інтенсивности дифузного розсіяння по квазихвильових векторах (в тому числі й для Бреґґової «фундаментальної» точки) залежно від повних енергій «змішання» атомів ГЦК-стопу у температурно-концентраційних ($T-c$) областях його макроскопічно феромагнетного та парамагнетного станів. З використанням статистичної методи Монте-Карло та приступних експериментальних даних про параметри БП Уоррена—Кавлі змодельовано 2D-картини розподілу інтенсивности дифузного розсіяння у площинах типу (001)$^{*}$ оберненого простору та відповідне розміщення (локальні конфіґурації) атомів Fe й Ni по вузлах. Врахування магнетних («обмінних») взаємодій атомів у статистичній термодинаміці стопів з атомним БП прояснює значні $T-c$-відхили інтенсивности дифузного розсіяння від значень, що відповідають клясичному виразу для неї за формулою Кривоглаза—Клеппа— Мосса (ККМ) зі сталими параметрами міжатомових взаємодій. З’ясовано принципові можливості й обґрунтованість використання узагальненої форми та основних припущень формули ККМ для аналізи інтенсивности дифузного розсіяння у магнетних стопах. Одним з результатів даної роботи є встановлення можливости простого та достатньо точного оцінювання повних енергій «змішання» із врахуванням магнетних і немагнетних внесків за експериментальними БП-інтенсивностями для магнетних стопів, визначеними із застосуванням лише Рентґенових дифракційних методик для синхротронної міряльної апаратури замість традиційних методик невтронного розсіяння, яких зазвичай використовують для діягностики магнетовпорядкованих матеріялів. Представлені аналітичні та розрахункові результати стосовно дифузного розсіяння у (пара)магнетних стопах ГЦК-Ni—Fe узгоджуються з надійними даними мірянь дифракції Рентґенових променів і теплових невтронів, яких було накопичено впродовж багатьох років.",
+		"en": "In imitation of f.c.c.-Ni—Fe alloy, the statistical-thermodynamic approach is applied for quantitative analysis of the thermal and composition—magnetic moment fluctuations’ influence on the kinematic diffuse-scattering intensity of radiations (X-rays or thermal neutrons) in magnetic alloys with the atomic short-range order (SRO). Within the temperature—concentration ($T-c$) domains of macroscopically ferromagnetic and paramagnetic states of f.c.c. alloy, the relation for the diffuse-scattering intensity distribution over the quasi-wave vectors (including the Bragg’s ‘fundamental’ point), depending on the total ‘mixing’ energies of atoms, are obtained within the scope of (i) the selfconsistent-field (SCF) and mean-SCF (MSCF) approximations as well as (ii) the simplest approximation by ‘interpolation’. The $2D$ patterns of (001)$^{*}$-type diffuse-scattering intensity distribution over a reciprocal space as well as the corresponding distributions (local configurations) of Fe and Ni atoms over the f.c.c.-lattice sites are modelled by a statistical Monte Carlo technique using the available experimental data on the Warren—Cowley SRO parameters extracted. Taking into account the magnetic (‘exchange’) interactions of atoms within the statistical thermodynamics of alloys with the atomic SRO, it is possible to clarify the significant ($T-c$)-deviations of the diffuse-scattering intensity from its values corresponding to classical relation by the Krivoglaz—Clapp—Moss (KCM) formula with constant interatomic-interaction parameters. The principal possibilities and validity of using the generalized form and main assumptions of the KCM formula under an analysis of the diffuse-scattering intensity in magnetic alloys are ascertained. One of the intriguing findings of a given work belongs to revealing a possibility for simple and quite accurate estimation of the total ‘mixing’ energies, including their magnetic and nonmagnetic contributions, by means of the experimental SRO intensities for magnetic alloys obtained with X-ray diffraction techniques only applied for synchrotron radiation instrumentation instead of conventional neutron scattering techniques, which are commonly used as a powerful probe in physics of magnetic materials. Obtained analytical and computational results on diffuse scattering characterization of (para)magnetic f.c.c.-Ni—Fe alloys are in a decent fit with all the reliable X-ray and thermal neutron diffraction data collected over years.",
+		"ru": "На примере сплава ГЦК-Ni—Fe применён статистико-термодинамический подход к численному анализу влияния термических и концентрационномагнитных флюктуаций на интенсивность кинематического диффузного рассеяния излучений (рентгеновских лучей или тепловых нейтронов) в атомно неупорядоченных (с ближним порядком (БП)) магнитных сплавах. В рамках (а) приближений самосогласованного (ССП) и среднего самосогласованного (СССП) полей и (б) простейшей «интерполяционной» аппроксимации получено выражение для распределения интенсивности диффузного рассеяния по квазиволновым векторам (в том числе и для брэгговской «фундаментальной» точки) в зависимости от полных энергий «смешения» атомов ГЦК-сплава в температурно-концентрационных ($T-c$) областях его макроскопически ферромагнитного и парамагнитного состояний. С использованием статистического метода Монте-Карло и доступных экспериментальных данных о параметрах БП Уоррена—Каули смоделированы 2D-картины распределения интенсивности диффузного рассеяния в плоскостях типа (001)$^{*}$ обратного пространства и соответствующее пространственное размещение (локальные конфигурации) атомов Fe и Ni на узлах. Учёт магнитных («обменных») взаимодействий атомов в статистической термодинамике сплавов с атомным БП проясняет значительные $T-c$-отклонения интенсивности диффузного рассеяния от значений, соответствующих классическому выражению для неё по формуле Кривоглаза—Клэппа—Мосса (ККМ) с постоянными параметрами межатомных взаимодействий. Выяснены принципиальные возможности и обоснованность использования обобщённой формы и основных предположений формулы ККМ для анализа интенсивности диффузного рассеяния в магнитных сплавах. Одним из результатов данной работы является установление возможности простого и достаточно точного оценивания полных энергий «смешения» при учёте магнитных и немагнитных вкладов на основе экспериментальных БП-интенсивностей для магнитных сплавов, определённых с применением только рентгеновских дифракционных методик для синхротронной измерительной аппаратуры вместо традиционных методик нейтронного рассеяния, которые обычно используются для диагностики магнитоупорядоченных материалов. Представленные аналитические и численные результаты о диффузном рассеянии в (пара)магнитных сплавах ГЦК-Ni—Fe согласуются с надёжными данными измерений дифракции рентгеновских лучей и тепловых нейтронов, накопленными за многие годы."
+	},
+	"keywords": {
+		"ua": "стопи ГЦК-Ni—Fe, міжатомові взаємодії, взаємодії магнетних домішок, близьке атомове впорядкування, дифузне розсіяння, статистична термодинаміка, моделювання методою Монте-Карло",
+		"en": "f.c.c.-Ni—Fe alloys, interatomic interactions, magnetic impurity interactions, short-range atomic ordering, diffuse scattering, statistical thermodynamics, Monte Carlo simulation",
+		"ru": "сплавы ГЦК-Ni—Fe, межатомные взаимодействия, взаимодействия магнитных примесей, ближнее атомное упорядочение, диффузное рассеяние, статистическая термодинамика, моделирование методом Монте-Карло"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. М. Бокоч", "en": "S. M. Bokoch", "ru": "С. М. Бокоч"},
+			"OID": [451, 185]
+		},
+		{
+			"AID": {"ua": "В. А. Татаренко", "en": "V. A. Tatarenko", "ru": "В. А. Татаренко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "І. В. Вернигора", "en": "I. V. Vernyhora", "ru": "И. В. Вернигора"},
+			"OID": [1, 17]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.1134/S0031918X16070140",
+				"cit": "P. V. Petrenko, N. P. Kulish, N. A. Mel’nikova and Yu. E. Grabovskii, <a href=\"https://doi.org/10.1134/S0031918X16070140\">Phys. Metals Metallogr. <b>117</b>, 927 (2016)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 88,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "M. A. Krivoglaz and A. A. Smirnov, The Theory of Order–Disorder in Alloys (London: Macdonald: 1965).",
+				"tr":  "M. A. Krivoglaz and A. A. Smirnov, The Theory of Order–Disorder in Alloys (London: Macdonald: 1965)."
+			},
+			{
+				"doi": "",
+				"or":  "D. de Fontaine, Solid State Physics (Eds. H. Ehrenreich et al.) (New York: Academic Press: 1979), vol. 34, p. 73.",
+				"tr":  "D. de Fontaine, Solid State Physics (Eds. H. Ehrenreich et al.) (New York: Academic Press: 1979), vol. 34, p. 73."
+			},
+			{
+				"doi": "",
+				"or":  "F. Ducastelle, Order and Phase Stability in Alloys (New York: Elsevier: 1991).",
+				"tr":  "F. Ducastelle, Order and Phase Stability in Alloys (New York: Elsevier: 1991)."
+			},
+			{
+				"doi": "10.1016/0079-6425(78)90003-8",
+				"or":  "A. G. Khachaturyan, Progr. Mater. Sci., 22: 1 (1978).",
+				"tr":  "A. G. Khachaturyan, Progr. Mater. Sci., 22: 1 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "A. G. Khachaturyan, Theory of Structural Transformations in Solids (Mineola, NY: Dover Publications Inc.: 2008).",
+				"tr":  "A. G. Khachaturyan, Theory of Structural Transformations in Solids (Mineola, NY: Dover Publications Inc.: 2008)."
+			},
+			{
+				"doi": "10.1007/978-3-642-74291-0",
+				"or":  "M. A. Krivoglaz, X-Ray and Neutron Diffraction in Nonideal Crystals (Berlin: Springer: 1996).",
+				"tr":  "M. A. Krivoglaz, X-Ray and Neutron Diffraction in Nonideal Crystals (Berlin: Springer: 1996)."
+			},
+			{
+				"doi": "10.1007/978-3-642-78765-2",
+				"or":  "M. A. Krivoglaz, Diffuse Scattering of X-Rays and Thermal Neutrons by Fluctuational Inhomogeneities of Imperfect Crystals (Berlin: Springer: 1996).",
+				"tr":  "M. A. Krivoglaz, Diffuse Scattering of X-Rays and Thermal Neutrons by Fluctuational Inhomogeneities of Imperfect Crystals (Berlin: Springer: 1996)."
+			},
+			{
+				"doi": "10.1016/S0079-6425(99)00005-5",
+				"or":  "B. Schönfeld, Progr. Mater. Sci., 44, No. 5: 435 (1999).",
+				"tr":  "B. Schönfeld, Progr. Mater. Sci., 44, No. 5: 435 (1999)."
+			},
+			{
+				"doi": "10.1146/annurev.matsci.29.1.25",
+				"or":  "G. E. Ice and C. J. Sparks, Annu. Rev. Mater. Sci., 29: 25 (1999).",
+				"tr":  "G. E. Ice and C. J. Sparks, Annu. Rev. Mater. Sci., 29: 25 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Krivoglaz, Zh. Eksp. Teor. Fiz., 32: 1368 (1957).",
+				"tr":  "M. A. Krivoglaz, Zh. Eksp. Teor. Fiz., 32: 1368 (1957)."
+			},
+			{
+				"doi": "10.1103/PhysRev.142.418",
+				"or":  "P. C. Clapp and S. C. Moss, Phys. Rev., 142, No. 2: 418 (1966).",
+				"tr":  "P. C. Clapp and S. C. Moss, Phys. Rev., 142, No. 2: 418 (1966)."
+			},
+			{
+				"doi": "10.1103/PhysRev.171.754",
+				"or":  "P. C. Clapp and S. C. Moss, Phys. Rev., 171, No. 3: 754 (1968).",
+				"tr":  "P. C. Clapp and S. C. Moss, Phys. Rev., 171, No. 3: 754 (1968)."
+			},
+			{
+				"doi": "10.1103/PhysRev.171.764",
+				"or":  "S. C. Moss and P. C. Clapp, Phys. Rev., 171, No. 3: 764 (1968).",
+				"tr":  "S. C. Moss and P. C. Clapp, Phys. Rev., 171, No. 3: 764 (1968)."
+			},
+			{
+				"doi": "10.1103/PhysRev.188.1142",
+				"or":  "R. A. Tahir-Kheli, Phys. Rev., 188, No. 3: 1142 (1969).",
+				"tr":  "R. A. Tahir-Kheli, Phys. Rev., 188, No. 3: 1142 (1969)."
+			},
+			{
+				"doi": "10.1103/PhysRev.81.988",
+				"or":  "R. Kikuchi, Phys. Rev., 81, No. 6: 988 (1951).",
+				"tr":  "R. Kikuchi, Phys. Rev., 81, No. 6: 988 (1951)."
+			},
+			{
+				"doi": "10.1007/978-1-4615-2476-2_33",
+				"or":  "A. Finel, Statistics and Dynamics of Alloy Phase Transformations. NATO Advanced Studies Institute, Series B: Physics. Vol. 319 (Eds. P. E. A. Turchi and A. Gonis) (New York: Plenum: 1994), p. 495.",
+				"tr":  "A. Finel, Statistics and Dynamics of Alloy Phase Transformations. NATO Advanced Studies Institute, Series B: Physics. Vol. 319 (Eds. P. E. A. Turchi and A. Gonis) (New York: Plenum: 1994), p. 495."
+			},
+			{
+				"doi": "10.1103/PhysRevB.51.3429",
+				"or":  "J. M. Sanchez, V. Pierron-Bohnes, and F. Meja-Lira, Phys. Rev. B, 51, No. 6: 3429 (1995).",
+				"tr":  "J. M. Sanchez, V. Pierron-Bohnes, and F. Meja-Lira, Phys. Rev. B, 51, No. 6: 3429 (1995)."
+			},
+			{
+				"doi": "10.1007/978-1-4899-6443-4_1",
+				"or":  "R. Brout, Phase Transitions (New York: Benjamin: 1965).",
+				"tr":  "R. Brout, Phase Transitions (New York: Benjamin: 1965)."
+			},
+			{
+				"doi": "",
+				"or":  "I. R. Yukhnoskii and Z.A. Gurskii, Quantum Statistical Theory of Disordered Systems (Kiev: Naukova Dumka: 1991) (in Russian).",
+				"tr":  "I. R. Yukhnoskii and Z.A. Gurskii, Quantum Statistical Theory of Disordered Systems (Kiev: Naukova Dumka: 1991) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.50.374",
+				"or":  "B. L. Gyorffy and G. M. Stocks, Phys. Rev. Lett., 50, No. 5: 374 (1983).",
+				"tr":  "B. L. Gyorffy and G. M. Stocks, Phys. Rev. Lett., 50, No. 5: 374 (1983)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.69.371",
+				"or":  "J. B. Staunton and B.L. Gyorffy, Phys. Rev. Lett., 69, No. 2: 371 (1992).",
+				"tr":  "J. B. Staunton and B.L. Gyorffy, Phys. Rev. Lett., 69, No. 2: 371 (1992)."
+			},
+			{
+				"doi": "10.1088/0034-4885/57/12/002",
+				"or":  "J. B. Staunton, Rep. Progr. Phys., 57, No. 12: 1289 (1994).",
+				"tr":  "J. B. Staunton, Rep. Progr. Phys., 57, No. 12: 1289 (1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.50.1450",
+				"or":  "J. B. Staunton, D. D. Johnson, and F. J. Pinski, Phys. Rev. B, 50, No. 3: 1450 (1994).",
+				"tr":  "J. B. Staunton, D. D. Johnson, and F. J. Pinski, Phys. Rev. B, 50, No. 3: 1450 (1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.50.1473",
+				"or":  "D. D. Johnson, J. B. Staunton, and F. J. Pinski, Phys. Rev. B, 50, No. 3: 1473 (1994).",
+				"tr":  "D. D. Johnson, J. B. Staunton, and F. J. Pinski, Phys. Rev. B, 50, No. 3: 1473 (1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.57.15177",
+				"or":  "F. J. Pinski, J. B. Staunton, and D. D. Johnson, Phys. Rev. B, 57, No. 24: 15177 (1998).",
+				"tr":  "F. J. Pinski, J. B. Staunton, and D. D. Johnson, Phys. Rev. B, 57, No. 24: 15177 (1998)."
+			},
+			{
+				"doi": "10.1088/0022-3727/31/19/003",
+				"or":  "J. B. Staunton, S. S. A. Razee, M. F. Ling, D. D. Johnson, and F. J. Pinski, J. Phys. D: Appl. Phys., 31, No. 19: 2355 (1998).",
+				"tr":  "J. B. Staunton, S. S. A. Razee, M. F. Ling, D. D. Johnson, and F. J. Pinski, J. Phys. D: Appl. Phys., 31, No. 19: 2355 (1998)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.72.045101",
+				"or":  "D. A. Rowlands, J. B. Staunton, B. L. Gyorffy, E. Bruno, and B. Ginatempo, Phys. Rev. B, 72, No. 4: 045101 (2005).",
+				"tr":  "D. A. Rowlands, J. B. Staunton, B. L. Gyorffy, E. Bruno, and B. Ginatempo, Phys. Rev. B, 72, No. 4: 045101 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.73.165122",
+				"or":  "D. A. Rowlands, A. Ernst, B. L. Gyorffy, and J. B. Staunton, Phys. Rev. B, 73, No. 16: 165122 (2006).",
+				"tr":  "D. A. Rowlands, A. Ernst, B. L. Gyorffy, and J. B. Staunton, Phys. Rev. B, 73, No. 16: 165122 (2006)."
+			},
+			{
+				"doi": "10.1016/0001-6160(87)90246-X",
+				"or":  "V. Gerold and J. Kern, Acta Metall., 35, No. 2: 393 (1987).",
+				"tr":  "V. Gerold and J. Kern, Acta Metall., 35, No. 2: 393 (1987)."
+			},
+			{
+				"doi": "10.1016/0001-6160(87)90290-2",
+				"or":  "F. Livet, Acta Metall., 35, No. 12: 2915 (1987).",
+				"tr":  "F. Livet, Acta Metall., 35, No. 12: 2915 (1987)."
+			},
+			{
+				"doi": "10.1088/0305-4608/18/8/005",
+				"or":  "V. G. Vaks, N. E. Zein, and V. V. Kamyshenko, J. Phys. F: Metal Phys., 18, No. 8: 1641 (1988).",
+				"tr":  "V. G. Vaks, N. E. Zein, and V. V. Kamyshenko, J. Phys. F: Metal Phys., 18, No. 8: 1641 (1988)."
+			},
+			{
+				"doi": "10.1088/0953-8984/1/11/020",
+				"or":  "V. G. Vaks, N. E. Zein, and V. V. Kamyshenko, J. Phys.: Condens. Matter, 1, No. 11: 2115 (1989).",
+				"tr":  "V. G. Vaks, N. E. Zein, and V. V. Kamyshenko, J. Phys.: Condens. Matter, 1, No. 11: 2115 (1989)."
+			},
+			{
+				"doi": "10.1088/0953-8984/3/10/012",
+				"or":  "V. G. Vaks and V. V. Kamyshenko, J. Phys.: Condens. Matter, 3, No. 10: 1351 (1991).",
+				"tr":  "V. G. Vaks and V. V. Kamyshenko, J. Phys.: Condens. Matter, 3, No. 10: 1351 (1991)."
+			},
+			{
+				"doi": "10.1016/0375-9601(85)90553-5",
+				"or":  "V. I. Tokar, Phys. Letters A, 110, No. 9: 453 (1985).",
+				"tr":  "V. I. Tokar, Phys. Letters A, 110, No. 9: 453 (1985)."
+			},
+			{
+				"doi": "10.1088/0953-8984/2/21/012",
+				"or":  "T. A. Grishchenko, I. V. Masanskii, and V. I. Tokar, J. Phys.: Condens. Matter, 2, No. 21: 4769 (1990).",
+				"tr":  "T. A. Grishchenko, I. V. Masanskii, and V. I. Tokar, J. Phys.: Condens. Matter, 2, No. 21: 4769 (1990)."
+			},
+			{
+				"doi": "10.1088/0953-8984/2/50/024",
+				"or":  "V. I. Tokar, I. V. Masanskii, and T. A. Grishchenko, J. Phys.: Condens. Matter, 2, No. 50: 10199 (1990).",
+				"tr":  "V. I. Tokar, I. V. Masanskii, and T. A. Grishchenko, J. Phys.: Condens. Matter, 2, No. 50: 10199 (1990)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.44.4647",
+				"or":  "I. V. Masanskii, V. I. Tokar, and T. A. Grishchenko, Phys. Rev. B, 44, No. 9: 4647 (1991).",
+				"tr":  "I. V. Masanskii, V. I. Tokar, and T. A. Grishchenko, Phys. Rev. B, 44, No. 9: 4647 (1991)."
+			},
+			{
+				"doi": "10.1080/095008398177805",
+				"or":  "I. Tsatskis, Phil. Mag. Lett., 78, No. 5: 403 (1998).",
+				"tr":  "I. Tsatskis, Phil. Mag. Lett., 78, No. 5: 403 (1998)."
+			},
+			{
+				"doi": "10.1088/0953-8984/10/9/001",
+				"or":  "I. Tsatskis, J. Phys.: Condens. Matter, 10, No. 9: L145 (1998).",
+				"tr":  "I. Tsatskis, J. Phys.: Condens. Matter, 10, No. 9: L145 (1998)."
+			},
+			{
+				"doi": "10.1088/0953-8984/10/17/011",
+				"or":  "I. Tsatskis and E. K. H. Salje, J. Phys.: Condens. Matter, 10, No. 17: 3791 (1998).",
+				"tr":  "I. Tsatskis and E. K. H. Salje, J. Phys.: Condens. Matter, 10, No. 17: 3791 (1998)."
+			},
+			{
+				"doi": "10.1016/S0375-9601(97)85665-4",
+				"or":  "I. Tsatskis, Phys. Letters A, 241, Nos. 1–2: 110 (1998).",
+				"tr":  "I. Tsatskis, Phys. Letters A, 241, Nos. 1–2: 110 (1998)."
+			},
+			{
+				"doi": "10.1088/0953-8984/10/7/005",
+				"or":  "R. V. Chepulskii, J. Phys.: Condens. Matter, 10, No. 7: 1505 (1998).",
+				"tr":  "R. V. Chepulskii, J. Phys.: Condens. Matter, 10, No. 7: 1505 (1998)."
+			},
+			{
+				"doi": "10.1088/0953-8984/10/33/004",
+				"or":  "R. V. Chepulskii and V. N. Bugaev, J. Phys.: Condens. Matter, 10, No. 33: 7309 (1998).",
+				"tr":  "R. V. Chepulskii and V. N. Bugaev, J. Phys.: Condens. Matter, 10, No. 33: 7309 (1998)."
+			},
+			{
+				"doi": "10.1088/0953-8984/10/33/005",
+				"or":  "R. V. Chepulskii and V. N. Bugaev, J. Phys.: Condens. Matter, 10, No. 33: 7327 (1998).",
+				"tr":  "R. V. Chepulskii and V. N. Bugaev, J. Phys.: Condens. Matter, 10, No. 33: 7327 (1998)."
+			},
+			{
+				"doi": "10.1088/0953-8984/10/39/014",
+				"or":  "R. V. Chepulskii and V. N. Bugaev, J. Phys.: Condens. Matter, 10, No. 39: 8771 (1998).",
+				"tr":  "R. V. Chepulskii and V. N. Bugaev, J. Phys.: Condens. Matter, 10, No. 39: 8771 (1998)."
+			},
+			{
+				"doi": "10.1016/S0022-3697(98)00233-9",
+				"or":  "R. V. Chepulskii and V. N. Bugaev, J. Phys. Chem. Solids, 59, No. 9: 1469 (1998).",
+				"tr":  "R. V. Chepulskii and V. N. Bugaev, J. Phys. Chem. Solids, 59, No. 9: 1469 (1998)."
+			},
+			{
+				"doi": "10.1016/S0022-3697(98)00234-0",
+				"or":  "R. V. Chepulskii, J. Phys. Chem. Solids, 59, No. 9: 1473 (1998).",
+				"tr":  "R. V. Chepulskii, J. Phys. Chem. Solids, 59, No. 9: 1473 (1998)."
+			},
+			{
+				"doi": "10.1016/S0038-1098(97)10203-4",
+				"or":  "R. V. Chepulskii and V. N. Bugaev, Solid State Commun., 105, No. 10: 615 (1998).",
+				"tr":  "R. V. Chepulskii and V. N. Bugaev, Solid State Commun., 105, No. 10: 615 (1998)."
+			},
+			{
+				"doi": "10.1088/0953-8984/11/44/303",
+				"or":  "R. V. Chepulskii, J. Phys.: Condens. Matter, 11, No. 44: 8645 (1999).",
+				"tr":  "R. V. Chepulskii, J. Phys.: Condens. Matter, 11, No. 44: 8645 (1999)."
+			},
+			{
+				"doi": "10.1088/0953-8984/11/44/304",
+				"or":  "R. V. Chepulskii, J. Phys.: Condens. Matter, 11, No. 44: 8661 (1999).",
+				"tr":  "R. V. Chepulskii, J. Phys.: Condens. Matter, 11, No. 44: 8661 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.61.8606",
+				"or":  "R. V. Chepulskii, Phys. Rev. B, 61, No. 13: 8606 (2000).",
+				"tr":  "R. V. Chepulskii, Phys. Rev. B, 61, No. 13: 8606 (2000)."
+			},
+			{
+				"doi": "10.1088/0953-8984/14/8/103",
+				"or":  "R. V. Chepulskii, J. Phys.: Condens. Matter, 14, No. 8: L193 (2002).",
+				"tr":  "R. V. Chepulskii, J. Phys.: Condens. Matter, 14, No. 8: L193 (2002)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.65.064201",
+				"or":  "R. V. Chepulskii, J. B. Staunton, E. Bruno et al., Phys. Rev. B, 65, No. 6: 064201 (2002).",
+				"tr":  "R. V. Chepulskii, J. B. Staunton, E. Bruno et al., Phys. Rev. B, 65, No. 6: 064201 (2002)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.69.134431",
+				"or":  "R. V. Chepulskii, Phys. Rev. B, 69, No. 13: 134431 (2004).",
+				"tr":  "R. V. Chepulskii, Phys. Rev. B, 69, No. 13: 134431 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.69.134432",
+				"or":  "R. V. Chepulskii, Phys. Rev. B, 69, No. 13: 134432 (2004).",
+				"tr":  "R. V. Chepulskii, Phys. Rev. B, 69, No. 13: 134432 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Tatarenko, T. M. Radchenko, and V. M. Nadutov, Metallofiz. Noveishie Tekhnol., 25, No. 10: 1303 (2003) (in Ukrainian).",
+				"tr":  "V. A. Tatarenko, T. M. Radchenko, and V. M. Nadutov, Metallofiz. Noveishie Tekhnol., 25, No. 10: 1303 (2003) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/S0966-9795(03)00174-2",
+				"or":  "V. A. Tatarenko and T. M. Radchenko, Intermetallics, 11, Nos. 11–12: 1319 (2003).",
+				"tr":  "V. A. Tatarenko and T. M. Radchenko, Intermetallics, 11, Nos. 11–12: 1319 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Tatarenko, S. M. Bokoch, V. M. Nadutov, T. M. Radchenko, and Y. B. Park, Defect and Diffusion Forum, 280–281: 29 (2008).",
+				"tr":  "V. A. Tatarenko, S. M. Bokoch, V. M. Nadutov, T. M. Radchenko, and Y. B. Park, Defect and Diffusion Forum, 280–281: 29 (2008)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/SSP.138.303",
+				"or":  "S. M. Bokoch and V. A. Tatarenko, Solid State Phenomena, 138: 303 (2008).",
+				"tr":  "S. M. Bokoch and V. A. Tatarenko, Solid State Phenomena, 138: 303 (2008)."
+			},
+			{
+				"doi": "10.15407/ufm.11.04.413",
+				"or":  "S. M. Bokoch and V. A. Tatarenko, Uspehi Fiziki Metallov, 11, No. 4: 413 (2010).",
+				"tr":  "S. M. Bokoch and V. A. Tatarenko, Uspehi Fiziki Metallov, 11, No. 4: 413 (2010)."
+			},
+			{
+				"doi": "10.5402/2012/917836",
+				"or":  "I. V. Vernyhora, V. A. Tatarenko, and S. M. Bokoch, ISRN Thermodynamics, 2012: ID 917836-1–11 (2012); doi:10.5402/2012/917836.",
+				"tr":  "I. V. Vernyhora, V. A. Tatarenko, and S. M. Bokoch, ISRN Thermodynamics, 2012: ID 917836-1–11 (2012); doi:10.5402/2012/917836."
+			},
+			{
+				"doi": "",
+				"or":  "J. S. Smart, Effective Field in Theories of Magnetism (Philadelphia: W. B. Saunders Company: 1966).",
+				"tr":  "J. S. Smart, Effective Field in Theories of Magnetism (Philadelphia: W. B. Saunders Company: 1966)."
+			},
+			{
+				"doi": "10.1007/978-1-4615-3868-4",
+				"or":  "D. Jiles, Introduction to Magnetism and Magnetic Materials (London: Charman & Hall: 1991).",
+				"tr":  "D. Jiles, Introduction to Magnetism and Magnetic Materials (London: Charman & Hall: 1991)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Aharoni, Introduction to the Theory of Ferromagnetism (New York: Oxford University Press: 2000).",
+				"tr":  "A. Aharoni, Introduction to the Theory of Ferromagnetism (New York: Oxford University Press: 2000)."
+			},
+			{
+				"doi": "",
+				"or":  "S. V. Semenovskaya, phys. stat. sol. (b), 64, No. 1: 291 (1974).",
+				"tr":  "S. V. Semenovskaya, phys. stat. sol. (b), 64, No. 1: 291 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "S. M. Bokoch, M. P. Kulish, and T. D. Shatnii, Metallofiz. Noveishie Tekhnol., 26, No. 5: 627 (2004) (in Russian).",
+				"tr":  "S. M. Bokoch, M. P. Kulish, and T. D. Shatnii, Metallofiz. Noveishie Tekhnol., 26, No. 5: 627 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. M. Bokoch, M. P. Kulish, V. A. Tatarenko, and T. M. Radchenko, Proc. of the 1st International Conf. on Diffusion in Solids and Liquids–DSL-2005 (July 6–8, 2005, Aveiro), vol. 1, p. 57.",
+				"tr":  "S. M. Bokoch, M. P. Kulish, V. A. Tatarenko, and T. M. Radchenko, Proc. of the 1st International Conf. on Diffusion in Solids and Liquids–DSL-2005 (July 6–8, 2005, Aveiro), vol. 1, p. 57."
+			},
+			{
+				"doi": "",
+				"or":  "S. M. Bokoch, N. P. Kulish, and V. A. Tatarenko, Fundamental’nyye Problemy Sovremennogo Materialovedeniya, 4: 78 (2007) (in Russian).",
+				"tr":  "S. M. Bokoch, N. P. Kulish, and V. A. Tatarenko, Fundamental'nyye Problemy Sovremennogo Materialovedeniya, 4: 78 (2007) (in Russian)."
+			},
+			{
+				"doi": "10.1107/S0108767392005889",
+				"or":  "S. H. Rahman, Acta Crystallogr. A, 49, No. 1: 56 (1993).",
+				"tr":  "S. H. Rahman, Acta Crystallogr. A, 49, No. 1: 56 (1993)."
+			},
+			{
+				"doi": "10.1107/S0108767392005841",
+				"or":  "S. H. Rahman, Acta Crystallogr. A, 49, No. 1: 68 (1993).",
+				"tr":  "S. H. Rahman, Acta Crystallogr. A, 49, No. 1: 68 (1993)."
+			},
+			{
+				"doi": "10.1107/S0108767394008925",
+				"or":  "S. H. Rahman and M. Rodewald, Acta Crystallogr. A, 51, No. 2: 153 (1995).",
+				"tr":  "S. H. Rahman and M. Rodewald, Acta Crystallogr. A, 51, No. 2: 153 (1995)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(01)00411-6",
+				"or":  "K. Osaka and T. Takama, Acta Mater., 50, No. 6: 1289 (2002).",
+				"tr":  "K. Osaka and T. Takama, Acta Mater., 50, No. 6: 1289 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Hata, S. Matsumura, N. Kuwano, and K. Oki, J. Surf. Analysis, 3: 401 (1997).",
+				"tr":  "S. Hata, S. Matsumura, N. Kuwano, and K. Oki, J. Surf. Analysis, 3: 401 (1997)."
+			},
+			{
+				"doi": "10.2320/matertrans1989.39.133",
+				"or":  "S. Hata, H. Fujita, C. G. Schlesier, S. Matsumura, N. Kuwano, and K. Oki, Mater. Trans. JIM, 39, No. 1: 133 (1998).",
+				"tr":  "S. Hata, H. Fujita, C. G. Schlesier, S. Matsumura, N. Kuwano, and K. Oki, Mater. Trans. JIM, 39, No. 1: 133 (1998)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(97)00314-5",
+				"or":  "S. Hata, S. Matsumura, N. Kuwano, and K. Oki, Acta Mater., 46, No. 3: 881 (1998).",
+				"tr":  "S. Hata, S. Matsumura, N. Kuwano, and K. Oki, Acta Mater., 46, No. 3: 881 (1998)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(98)00180-3",
+				"or":  "S. Hata, S. Matsumura, N. Kuwano, K. Oki, and D. Shindo, Acta Mater., 46, No. 14: 4955 (1998).",
+				"tr":  "S. Hata, S. Matsumura, N. Kuwano, K. Oki, and D. Shindo, Acta Mater., 46, No. 14: 4955 (1998)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(00)01872-4",
+				"or":  "S. Hata, T. Mitate, N. Kuwano, S. Matsumura, D. Shindo, and K. Oki, Mater. Sci. Eng. A, 312, No. 1–2: 160 (2001).",
+				"tr":  "S. Hata, T. Mitate, N. Kuwano, S. Matsumura, D. Shindo, and K. Oki, Mater. Sci. Eng. A, 312, No. 1–2: 160 (2001)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2004.02.020",
+				"or":  "U. D. Kulkarni, Acta Mater., 52, No. 9: 2721 (2004).",
+				"tr":  "U. D. Kulkarni, Acta Mater., 52, No. 9: 2721 (2004)."
+			},
+			{
+				"doi": "10.1016/0001-6160(81)90118-8",
+				"or":  "S. Lefebvre, F. Bley, M. Fayard, and M. Roth, Acta Metall., 29, No. 5: 749 (1981).",
+				"tr":  "S. Lefebvre, F. Bley, M. Fayard, and M. Roth, Acta Metall., 29, No. 5: 749 (1981)."
+			},
+			{
+				"doi": "10.1557/PROC-21-351",
+				"or":  "P. Cenedese, F. Bley and S. Lefebvre, Mat. Res. Soc. Symp. Proc., 21, 351 (1984).",
+				"tr":  "P. Cenedese, F. Bley and S. Lefebvre, Mat. Res. Soc. Symp. Proc., 21, 351 (1984)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.54.3211",
+				"or":  "X. Jiang, G. E. Ice, C. J. Sparks, L. Robertson, and P. Zschack, Phys. Rev. B, 54, No. 5: 3211 (1996).",
+				"tr":  "X. Jiang, G. E. Ice, C. J. Sparks, L. Robertson, and P. Zschack, Phys. Rev. B, 54, No. 5: 3211 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.68.863",
+				"or":  "G. E. Ice, C. J. Sparks, A. Habenschuss, and L. B. Shaffer, Phys. Rev. Lett., 68, No. 6: 863 (1992).",
+				"tr":  "G. E. Ice, C. J. Sparks, A. Habenschuss, and L. B. Shaffer, Phys. Rev. Lett., 68, No. 6: 863 (1992)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.82.2911",
+				"or":  "J. L. Robertson, G. E. Ice, C. J. Sparks, X. Jiang, P. Zschack, F. Bley, S. Lefebvre, and M. Bessiere, Phys. Rev. Lett., 82, No. 14: 2911 (1999).",
+				"tr":  "J. L. Robertson, G. E. Ice, C. J. Sparks, X. Jiang, P. Zschack, F. Bley, S. Lefebvre, and M. Bessiere, Phys. Rev. Lett., 82, No. 14: 2911 (1999)."
+			},
+			{
+				"doi": "10.1016/0001-6160(88)90231-3",
+				"or":  "F. Bley, Z. Amilius, and S. Lefebvre, Acta Metall., 36, No. 7: 1643 (1988).",
+				"tr":  "F. Bley, Z. Amilius, and S. Lefebvre, Acta Metall., 36, No. 7: 1643 (1988)."
+			},
+			{
+				"doi": "10.1107/S0567739480000010",
+				"or":  "S. Lefebvre, F. Bley, M. Bessiere, M. Fayard et al., Acta Crystallogr. A, 36, No. 1: 1 (1980).",
+				"tr":  "S. Lefebvre, F. Bley, M. Bessiere, M. Fayard et al., Acta Crystallogr. A, 36, No. 1: 1 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "G. L. Squires, Introduction to the Theory of Thermal Neutron Scattering (Cambridge: Cambridge University Press: 1978).",
+				"tr":  "G. L. Squires, Introduction to the Theory of Thermal Neutron Scattering (Cambridge: Cambridge University Press: 1978)."
+			},
+			{
+				"doi": "",
+				"or":  "S. W. Lovesey, Theory of Neutron Scattering from Condensed Matter (New York: Oxford University Press: 1984), vols. 1, 2.",
+				"tr":  "S. W. Lovesey, Theory of Neutron Scattering from Condensed Matter (New York: Oxford University Press: 1984), vols. 1, 2."
+			},
+			{
+				"doi": "",
+				"or":  "Neutron Scattering from Magnetic Materials (Ed. T. Chatterji) (Amsterdam: Elsevier: 2006).",
+				"tr":  "Neutron Scattering from Magnetic Materials (Ed. T. Chatterji) (Amsterdam: Elsevier: 2006)."
+			}
+		]
+	}
+}

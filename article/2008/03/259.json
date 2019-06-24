@@ -1,0 +1,679 @@
+{
+	"_id":    "UFM.09.03.259",
+	"year":   2008,
+	"volume": 9,
+	"issue":  3,
+	"pages":  [259,287],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["03.04.2008"],
+	"PACS":   "71.15.Ap, 71.20.-b, 71.27.+a, 71.28.+d, 72.10.-d, 75.30.-m, 75.40.-s",
+	"title":   {
+		"ua": "Електронна структура та взаємочин атомового і магнетного порядків стопів з вузькими $d$-зонами",
+		"en": "Electronic Structure and Interplay of Atomic and Magnetic Orders of Alloys with Narrow $d$-Bands",
+		"ru": "Электронная структура и взаимное влияние атомного и магнитного порядков сплавов с узкими $d$-зонами"
+	},
+	"abstract": {
+		"ua": "В огляді представлено результати дослідження взаємочину атомового й магнетного порядків у стопах з вузькими $d$-зонами. Розглянуто основні теоретичні підходи до опису невпорядкованих стопів з сильними електронними кореляціями та визначено межі їх застосовности. Проаналізовано зв’язок зміни атомового й магнетного порядків таких стопів з перебудовою їхнього електронного енергетичного спектру.",
+		"en": "In the review, results of investigation of interplay of atomic and magnetic orders in alloys with narrow $d$-bands are presented. The basic theoretical approaches to a description of the disordered alloys with strong electron correlations are considered, and validity ranges of these approaches are outlined. The interplay between the changes of atomic and magnetic orders in such alloys and the realignment of their electron energy spectrum is analysed.",
+		"ru": "В обзоре представлены результаты исследования взаимного влияния атомного и магнитного порядков в сплавах с узкими $d$-зонами. Рассмотрены основные теоретические подходы к описанию неупорядоченных сплавов с сильными электронными корреляциями и определены границы их применимости. Проанализирована связь изменения атомного и магнитного порядков таких сплавов с перестройкой их энергетического спектра электронов."
+	},
+	"keywords": {
+		"ua": "електронна структура, сильні електронні кореляції, магнетний порядок, атомовий порядок, електронний транспорт",
+		"en": "electron structure, strong electron correlations, magnetic order, atomic order, electron transport",
+		"ru": "электронная структура, сильные электронные корреляции, магнитный порядок, атомный порядок, электронный транспорт"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. П. Репецький", "en": "S. P. Repetsky", "ru": "С. П. Репецкий"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "В. А. Татаренко", "en": "V. A. Tatarenko", "ru": "В. А. Татаренко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "І. М. Мельник", "en": "I. M. Melnyk", "ru": "И. Н. Мельник"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "Є. Г. Лень", "en": "E. G. Len", "ru": "Е. Г. Лень"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 126,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "﻿В. В. Немошкаленко, В. Н. Антонов, Методы вычислительной физики в теории твердого тела (Киев: Наукова думка: 1985).",
+				"tr":  "V. V. Nemoshkalenko, V. N. Antonov, Metody vychislitel'noy fiziki v teorii tverdogo tela (Kiev: Naukova dumka: 1985)."
+			},
+			{
+				"doi": "10.3367/UFNr.0172.200203e.0336",
+				"or":  "В. Кон, УФН, 172, № 3: 336 (2002).",
+				"tr":  "V. Kon, UFN, 172, No. 3: 336 (2002)."
+			},
+			{
+				"doi": "10.1007/978-3-642-86105-5",
+				"or":  "R. M. Dreizler and E. K. Gross, Density Functional Theory: An Approach to the Quantum Many-Body Problem (Berlin: Springer-Verlag: 1990).",
+				"tr":  "R. M. Dreizler and E. K. Gross, Density Functional Theory: An Approach to the Quantum Many-Body Problem (Berlin: Springer-Verlag: 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "R. G. Parr and W. Yang, Density-Functional Theory of Atoms and Molecules (New York: Oxford Univ. Press: 1989).",
+				"tr":  "R. G. Parr and W. Yang, Density-Functional Theory of Atoms and Molecules (New York: Oxford Univ. Press: 1989)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.67.172407",
+				"or":  "A. B. Shick and O. N. Mryasov, Phys. Rev. B, 67, No. 17: 172407 (2003).",
+				"tr":  "A. B. Shick and O. N. Mryasov, Phys. Rev. B, 67, No. 17: 172407 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Немошкаленко, Ю. Н. Кучеренко, Методы вычислительной физики в теории твердого тела. Электронные состояния в неидеальных кристаллах (Киев: Наукова думка: 1986).",
+				"tr":  "V. V. Nemoshkalenko, Yu. N. Kucherenko, Metody vychislitel'noy fiziki v teorii tverdogo tela. Elektronnye sostoyaniya v neideal'nykh kristallakh (Kiev: Naukova dumka: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Эренрейх, Л. Шварц, Электронная структура сплавов (Москва: Мир: 1979).",
+				"tr":  "G. Erenreykh, L. Shvarts, Elektronnaya struktura splavov (Moskva: Mir: 1979)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.70.155108",
+				"or":  "V. Blum and A. Zunger, Phys. Rev. B, 70, No. 15: 155108 (2004).",
+				"tr":  "V. Blum and A. Zunger, Phys. Rev. B, 70, No. 15: 155108 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.70.174446",
+				"or":  "A. Bergman, E. Holmström, A. Niklasson et al., Phys. Rev. B, 70, No. 17: 174446 (2004).",
+				"tr":  "A. Bergman, E. Holmström, A. Niklasson et al., Phys. Rev. B, 70, No. 17: 174446 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.55.14975",
+				"or":  "N. M. Rosengaard and B. Johansson, Phys. Rev. B, 55, No. 22: 14975 (1997).",
+				"tr":  "N. M. Rosengaard and B. Johansson, Phys. Rev. B, 55, No. 22: 14975 (1997)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.77.155108",
+				"or":  "E. Bruno, F. Mammano, A. Fiorino et al., Phys. Rev. B, 77, No. 15: 155108 (2008).",
+				"tr":  "E. Bruno, F. Mammano, A. Fiorino et al., Phys. Rev. B, 77, No. 15: 155108 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.76.014434",
+				"or":  "I. A. Abrikosov, A. E. Kissavos, F. Liot et al., Phys. Rev. B, 76, No. 1: 014434 (2007).",
+				"tr":  "I. A. Abrikosov, A. E. Kissavos, F. Liot et al., Phys. Rev. B, 76, No. 1: 014434 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.73.165122",
+				"or":  "D. A. Rowlands, A. Ernst, B. L. Györffy et al., Phys. Rev. B, 73, No. 16: 165122 (2006).",
+				"tr":  "D. A. Rowlands, A. Ernst, B. L. Györffy et al., Phys. Rev. B, 73, No. 16: 165122 (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.72.113105",
+				"or":  "D. A. Biava, S. Ghosh, D. D. Johnson et al., Phys. Rev. B, 72, No. 11: 113105 (2005).",
+				"tr":  "D. A. Biava, S. Ghosh, D. D. Johnson et al., Phys. Rev. B, 72, No. 11: 113105 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.71.205109",
+				"or":  "M. Lüders, A. Ernst, M. Däne et al., Phys. Rev. B, 71, No. 20: 205109 (2005).",
+				"tr":  "M. Lüders, A. Ernst, M. Däne et al., Phys. Rev. B, 71, No. 20: 205109 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.78.064102",
+				"or":  "M. d’Avezac and A. Zunger, Phys. Rev. B, 78, No. 6: 064102 (2008).",
+				"tr":  "M. d'Avezac and A. Zunger, Phys. Rev. B, 78, No. 6: 064102 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.72.165113",
+				"or":  "V. Blum, G. L. Hart, M. J. Walorski et al., Phys. Rev. B, 72, No. 16: 165113 (2005).",
+				"tr":  "V. Blum, G. L. Hart, M. J. Walorski et al., Phys. Rev. B, 72, No. 16: 165113 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.77.104409",
+				"or":  "M. Häfner, J. K. Viljas, D. Frustaglia et al., Phys. Rev. B, 77, No. 10: 104409 (2008).",
+				"tr":  "M. Häfner, J. K. Viljas, D. Frustaglia et al., Phys. Rev. B, 77, No. 10: 104409 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.48.17770",
+				"or":  "Y. D. Kim, Yia-Chung Chang, and M. V. Klein, Phys. Rev. B, 48, No. 24: 17770 (1993).",
+				"tr":  "Y. D. Kim, Yia-Chung Chang, and M. V. Klein, Phys. Rev. B, 48, No. 24: 17770 (1993)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.48.4265",
+				"or":  "S. K. Bose, O. Jepsen, and O. K. Andersen, Phys. Rev. B, 48, No. 7: 4265 (1993).",
+				"tr":  "S. K. Bose, O. Jepsen, and O. K. Andersen, Phys. Rev. B, 48, No. 7: 4265 (1993)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.73.224208",
+				"or":  "A. Diaz-Ortiz, R. Drautz, M. Fähnle et al., Phys. Rev. B, 73, No. 22: 224208-1 (2006).",
+				"tr":  "A. Diaz-Ortiz, R. Drautz, M. Fähnle et al., Phys. Rev. B, 73, No. 22: 224208-1 (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.93.067202",
+				"or":  "R. Drautz, A. Diaz-Ortiz, M. Fähnle et al., Phys. Rev. Lett., 93, No. 6: 067202 (2004).",
+				"tr":  "R. Drautz, A. Diaz-Ortiz, M. Fähnle et al., Phys. Rev. Lett., 93, No. 6: 067202 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.76.014420",
+				"or":  "A. V. Ruban, S. Khmelevskyi, P. Mohn et al., Phys. Rev. B, 76, No. 1: 014420 (2007).",
+				"tr":  "A. V. Ruban, S. Khmelevskyi, P. Mohn et al., Phys. Rev. B, 76, No. 1: 014420 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.66.024201",
+				"or":  "A. V. Ruban and H. L. Skriver, Phys. Rev. B, 66, No. 2: 024201 (2002).",
+				"tr":  "A. V. Ruban and H. L. Skriver, Phys. Rev. B, 66, No. 2: 024201 (2002)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.61.12005",
+				"or":  "B. Ujfalussy, J. S. Faulkner, N. Y. Moghadam et al., Phys. Rev. B, 61, No. 18: 12005 (2000).",
+				"tr":  "B. Ujfalussy, J. S. Faulkner, N. Y. Moghadam et al., Phys. Rev. B, 61, No. 18: 12005 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.59.419",
+				"or":  "P. James, O. Eriksson, B. Johansson et al., Phys. Rev. B, 59, No. 1: 419 (1999).",
+				"tr":  "P. James, O. Eriksson, B. Johansson et al., Phys. Rev. B, 59, No. 1: 419 (1999)."
+			},
+			{
+				"doi": "10.3367/UFNr.0169.199907d.0773",
+				"or":  "И. К. Камилов, А. К. Муртазаев, Х. К. Алиев, УФН, 169, № 7: 773 (1999).",
+				"tr":  "I. K. Kamilov, A. K. Murtazaev, Kh. K. Aliev, UFN, 169, No. 7: 773 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "P. W. Anderson, Phys. Rev., 109, No. 5: 1492 (l958).",
+				"tr":  "P. W. Anderson, Phys. Rev., 109, No. 5: 1492 (l958)."
+			},
+			{
+				"doi": "",
+				"or":  "P. W. Anderson, Comments Solid State Phys., 2, No. 6: 193 (1970).",
+				"tr":  "P. W. Anderson, Comments Solid State Phys., 2, No. 6: 193 (1970)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.15.2384",
+				"or":  "R. Freedman and I. A. Alertz, Phys. Rev., 15, No. 4: 2384 (1977).",
+				"tr":  "R. Freedman and I. A. Alertz, Phys. Rev., 15, No. 4: 2384 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Эллиот, Дж. Крамхансл, П. Лис, Теория и свойства случайно неупорядоченных кристаллов и связанных с ними физических систем (ред. В. Л. Бонч-Бруевич) (Москва: Мир: 1977), с. 11.",
+				"tr":  "R. Elliot, Dzh. Kramkhansl, P. Lis, Teoriya i svoystva sluchayno neuporyadochennykh kristallov i svyazannykh s nimi fizicheskikh sistem (red. V. L. Bonch-Bruevich) (Moskva: Mir: 1977), s. 11."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Лось, С. П. Репецкий, Методы теории неупорядоченных систем (Киев: Наукова думка: 1995).",
+				"tr":  "V. F. Los', S. P. Repetskiy, Metody teorii neuporyadochennykh sistem (Kiev: Naukova dumka: 1995)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Егорушкин, Ю. А. Хон, Электронная теория сплавов переходных металлов (Новосибирск: Наука. Сиб. отд.: 1985).",
+				"tr":  "V. E. Egorushkin, Yu. A. Khon, Elektronnaya teoriya splavov perekhodnykh metallov (Novosibirsk: Nauka. Sib. otd.: 1985)."
+			},
+			{
+				"doi": "10.1098/rspa.1967.0012",
+				"or":  "R. J. Elliott and D. W. Taylor, Proc. Roy. Soc., A296, No. 1445: 161 (1967).",
+				"tr":  "R. J. Elliott and D. W. Taylor, Proc. Roy. Soc., A296, No. 1445: 161 (1967)."
+			},
+			{
+				"doi": "10.1016/0022-3697(58)90270-1",
+				"or":  "J. Korringa, J. Phys. Chem. Sol., 7, No. 2: 252 (1958).",
+				"tr":  "J. Korringa, J. Phys. Chem. Sol., 7, No. 2: 252 (1958)."
+			},
+			{
+				"doi": "10.1103/PhysRev.135.A130",
+				"or":  "J. L. Beeby, Phys. Rev., A135, No. 1: 130 (1964).",
+				"tr":  "J. L. Beeby, Phys. Rev., A135, No. 1: 130 (1964)."
+			},
+			{
+				"doi": "10.1103/PhysRev.156.1017",
+				"or":  "D. W. Taylor, Phys. Rev., 156, No. 3: 1017 (1967).",
+				"tr":  "D. W. Taylor, Phys. Rev., 156, No. 3: 1017 (1967)."
+			},
+			{
+				"doi": "10.1103/PhysRev.156.809",
+				"or":  "P. Soven, Phys. Rev., 156, No. 3: 809 (1967).",
+				"tr":  "P. Soven, Phys. Rev., 156, No. 3: 809 (1967)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Mookerjee, J. Phys. C, 6, No. 10: L205 (1973).",
+				"tr":  "A. A. Mookerjee, J. Phys. C, 6, No. 10: L205 (1973)."
+			},
+			{
+				"doi": "10.1088/0953-8984/3/19/008",
+				"or":  "S. S. Razee, A. Mookerjee, and R. Prasad, J. Phys.: Condens. Matter, 3, No. 19: 3301 (1991).",
+				"tr":  "S. S. Razee, A. Mookerjee, and R. Prasad, J. Phys.: Condens. Matter, 3, No. 19: 3301 (1991)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.42.9391",
+				"or":  "S. S. Razee, S. S. Rajput, R. Prasad et al., Phys. Rev. B, 42, No. 15: 9391 (1990).",
+				"tr":  "S. S. Razee, S. S. Rajput, R. Prasad et al., Phys. Rev. B, 42, No. 15: 9391 (1990)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.18.5291",
+				"or":  "R. Mills and P. Ratanavararaksa, Phys. Rev. B, 18, No. 10: 5291.",
+				"tr":  "R. Mills and P. Ratanavararaksa, Phys. Rev. B, 18, No. 10: 5291."
+			},
+			{
+				"doi": "10.1103/PhysRevB.19.587",
+				"or":  "H. W. Diehl and P. L. Leath, Phys. Rev. B, 19, No. 2: 587 (1979).",
+				"tr":  "H. W. Diehl and P. L. Leath, Phys. Rev. B, 19, No. 2: 587 (1979)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.15.3260",
+				"or":  "Т. Kaplan and L. J. Gray, Rhys. Rev. B, 15, No. 6: 3260 (1977).",
+				"tr":  "T. Kaplan and L. J. Gray, Rhys. Rev. B, 15, No. 6: 3260 (1977)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.24.1872",
+				"or":  "L. J. Gray and T. Kaplan, Phys. Rev. B, 24, No. 4: 1872 (1981).",
+				"tr":  "L. J. Gray and T. Kaplan, Phys. Rev. B, 24, No. 4: 1872 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Kumar, A. Mookerjee, and V. K. Srivastava, J. Phys. C, 15, No. 9: 1939 (1982).",
+				"tr":  "V. Kumar, A. Mookerjee, and V. K. Srivastava, J. Phys. C, 15, No. 9: 1939 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "М. П. Фатеев, ЛГМФ, 90, № 1: 128 (1992).",
+				"tr":  "M. P. Fateev, LGMF, 90, No. 1: 128 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Ведяев, ТМФ, 31, № 3: 392 (1977).",
+				"tr":  "A. V. Vedyaev, TMF, 31, No. 3: 392 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Ведяев, А. Б. Грановский, Е. И. Кондорский и др., ФТТ, 21, № 4: 961 (1979).",
+				"tr":  "A. V. Vedyaev, A. B. Granovskiy, E. I. Kondorskiy et al., FTT, 21, No. 4: 961 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Ведяев, А. Б. Грановский, Е. И. Кондорский и др., ФТТ, 20, № 1: 166 (1978).",
+				"tr":  "A. V. Vedyaev, A. B. Granovskiy, E. I. Kondorskiy et al., FTT, 20, No. 1: 166 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Токарь, И. В. Масанский, ФММ, 64, № 6: 1207 (1987).",
+				"tr":  "V. I. Tokar', I. V. Masanskiy, FMM, 64, No. 6: 1207 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Масанский, В. И. Токарь, Докл. АН УССР. Сер. А, № 1: 52 (1987).",
+				"tr":  "I. V. Masanskiy, V. I. Tokar', Dokl. AN USSR. Ser. A, No. 1: 52 (1987)."
+			},
+			{
+				"doi": "10.1088/0305-4608/6/11/005",
+				"or":  "F. Ducastelle and F. Gautier, J. Phys. F: Metal Phys., 6, No. 11: 2039 (1976).",
+				"tr":  "F. Ducastelle and F. Gautier, J. Phys. F: Metal Phys., 6, No. 11: 2039 (1976)."
+			},
+			{
+				"doi": "10.1088/0305-4608/8/7/017",
+				"or":  "G. Treglia, F. Ducastelle, and F. Gautier, J. Phys. F: Metal Phys., 8, No. 7: 1437 (1978).",
+				"tr":  "G. Treglia, F. Ducastelle, and F. Gautier, J. Phys. F: Metal Phys., 8, No. 7: 1437 (1978)."
+			},
+			{
+				"doi": "10.1080/00318087508228689",
+				"or":  "F. Gautier, F. Ducastelle, and J. Giner, Phil. Mag., 31, No. 6: 1373 (1975).",
+				"tr":  "F. Gautier, F. Ducastelle, and J. Giner, Phil. Mag., 31, No. 6: 1373 (1975)."
+			},
+			{
+				"doi": "10.1088/0305-4608/10/10/011",
+				"or":  "F. Ducastelle and G. Treglia, J. Phys. F: Metal Phys., 10, No. 10: 2137 (1980).",
+				"tr":  "F. Ducastelle and G. Treglia, J. Phys. F: Metal Phys., 10, No. 10: 2137 (1980)."
+			},
+			{
+				"doi": "10.1143/JPSJ.53.2061",
+				"or":  "A. Bieber and F. Gautier, J. Phys. Soc. Jpn., 53, No. 6: 2061 (1984).",
+				"tr":  "A. Bieber and F. Gautier, J. Phys. Soc. Jpn., 53, No. 6: 2061 (1984)."
+			},
+			{
+				"doi": "10.1016/0038-1098(81)90992-3",
+				"or":  "A. Bieber and F. Gautier, Sol. St. Commun., 38, No. 12: 1219 (1981).",
+				"tr":  "A. Bieber and F. Gautier, Sol. St. Commun., 38, No. 12: 1219 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "F. Ducastelle, J. Phys. C, 7, No. 10: 1795 (1974).",
+				"tr":  "F. Ducastelle, J. Phys. C, 7, No. 10: 1795 (1974)."
+			},
+			{
+				"doi": "10.1088/0953-8984/6/9/013",
+				"or":  "V. F. Los’ and S. P. Repetsky, J. Phys.: Condens. Matter, 6: 1707 (1994).",
+				"tr":  "V. F. Los' and S. P. Repetsky, J. Phys.: Condens. Matter, 6: 1707 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "S. P. Repetsky, Ye. G. Len, and N. V. Chubinsky, Met. Phys. Adv. Tech., 17: 867 (1999).",
+				"tr":  "S. P. Repetsky, Ye. G. Len, and N. V. Chubinsky, Met. Phys. Adv. Tech., 17: 867 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Иванов, Ю. В. Скрипник, ФТТ, 36, № 1: 94 (1994).",
+				"tr":  "M. A. Ivanov, Yu. V. Skripnik, FTT, 36, No. 1: 94 (1994)."
+			},
+			{
+				"doi": "10.1088/0305-4608/10/5/010",
+				"or":  "F. Sacchetti, J. Phys. F: Metal Phys., 10: 801 (1980).",
+				"tr":  "F. Sacchetti, J. Phys. F: Metal Phys., 10: 801 (1980)."
+			},
+			{
+				"doi": "10.1002/pssb.2221200263",
+				"or":  "V. Christoph and A. L. Kuzemskii, Phys. Stat. Sol. (b), 120: K219 (1983).",
+				"tr":  "V. Christoph and A. L. Kuzemskii, Phys. Stat. Sol. (b), 120: K219 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ю. Циовкин, А. Н. Волошинский, ФММ, 75, вып. 3: 25 (1993).",
+				"tr":  "Yu. Yu. Tsiovkin, A. N. Voloshinskiy, FMM, 75, No. 3: 25 (1993)."
+			},
+			{
+				"doi": "10.4213/tmf340",
+				"or":  "С. П. Репецкий, Т. Д. Шатний, ТМФ, 131, № 3: 456 (2002).",
+				"tr":  "S. P. Repetskiy, T. D. Shatniy, TMF, 131, No. 3: 456 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Репецкий, Т. Д. Шатний, ФММ, 96, № 1: 18 (2003).",
+				"tr":  "S. P. Repetskiy, T. D. Shatniy, FMM, 96, No. 1: 18 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Репецкий, И. Г. Вышиваная, Металлофиз. новейшие технол., 26, № 7: 887 (2004).",
+				"tr":  "S. P. Repetskiy, I. G. Vyshivanaya, Metallofiz. Noveishie Tekhnol., 26, No. 7: 887 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "S. P. Repetskii and I. G. Vyshivanaya, The Physics of Metals and Metallography, 99, No. 6: 558 (2005).",
+				"tr":  "S. P. Repetskii and I. G. Vyshivanaya, The Physics of Metals and Metallography, 99, No. 6: 558 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRev.94.1498",
+				"or":  "J. C. Slater and G. F. Koster, Phys. Rev., 94, No. 6: 1498 (1954).",
+				"tr":  "J. C. Slater and G. F. Koster, Phys. Rev., 94, No. 6: 1498 (1954)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.19.2813",
+				"or":  "R. R. Sharma, Phys. Rev. B, 19, No. 6: 2813 (1979).",
+				"tr":  "R. R. Sharma, Phys. Rev. B, 19, No. 6: 2813 (1979)."
+			},
+			{
+				"doi": "10.1063/1.1747632",
+				"or":  "P. O. Löwdin, J. Chem. Phys., 18, No. 3: 365 (1950).",
+				"tr":  "P. O. Löwdin, J. Chem. Phys., 18, No. 3: 365 (1950)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Репецкий, Е. Г. Лень, В. В. Лизунов, Металлофиз. новейшие технол., 28, № 8: 989 (2006).",
+				"tr":  "S. P. Repetskiy, E. G. Len', V. V. Lizunov, Metallofiz. Noveishie Tekhnol., 28, No. 8: 989 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Репецкий, Е. Г. Лень, В. В. Лизунов, Металлофиз. новейшие технол., 28, № 11: 1475 (2006).",
+				"tr":  "S. P. Repetskiy, E. G. Len', V. V. Lizunov, Metallofiz. Noveishie Tekhnol., 28, No. 11: 1475 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Репецкий, И. Г. Вышиваная, Металлофиз. новейшие технол., 29, № 5: 587 (2007).",
+				"tr":  "S. P. Repetskiy, I. G. Vyshivanaya, Metallofiz. Noveishie Tekhnol., 29, No. 5: 587 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.61.12739",
+				"or":  "M. H. Hettler, M. Mukherjee, M. Jarrell et al., Phys. Rev. B, 61, No. 19: 12739 (2000).",
+				"tr":  "M. H. Hettler, M. Mukherjee, M. Jarrell et al., Phys. Rev. B, 61, No. 19: 12739 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.58.R7475",
+				"or":  "M. H. Hettler, A. N. Tahvildar-Zadeh, M. Jarrell et al., Phys. Rev. B, 58, No. 12: R7475 (1998).",
+				"tr":  "M. H. Hettler, A. N. Tahvildar-Zadeh, M. Jarrell et al., Phys. Rev. B, 58, No. 12: R7475 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Смирнов, ЖЭТФ, 17, № 8: 730 (1947).",
+				"tr":  "A. A. Smirnov, ZhETF, 17, No. 8: 730 (1947)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Смирнов, Теория электросопротивления сплавов (Киев: Изд. АН УССР: 1960).",
+				"tr":  "A. A. Smirnov, Teoriya elektrosoprotivleniya splavov (Kiev: Izd. AN USSR: 1960)."
+			},
+			{
+				"doi": "10.1134/1.1129846",
+				"or":  "Н. П. Кулиш, С. П. Репецкий, Е. Г. Лень и др., ФТТ, 39, № 3: 401 (1997).",
+				"tr":  "N. P. Kulish, S. P. Repetskiy, E. G. Len' et al., Phys. Solid State, 39, No. 3: 401 (1997)."
+			},
+			{
+				"doi": "10.1103/PhysRev.184.614",
+				"or":  "B. Velicky, Phys. Rev., 184, No. 3: 614 (1969).",
+				"tr":  "B. Velicky, Phys. Rev., 184, No. 3: 614 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Машаров, Н. М. Рыбалко, ФММ, 40, № 6: 1133 (1975).",
+				"tr":  "S. I. Masharov, N. M. Rybalko, FMM, 40, No. 6: 1133 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "С. М. Бородачев, В. А. Волков, С. И. Машаров, ФММ, 42, № 6: 1147 (1976).",
+				"tr":  "S. M. Borodachev, V. A. Volkov, S. I. Masharov, FMM, 42, No. 6: 1147 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Лось, С. П. Репецкий, ТМФ, 91, № 2: 279 (1992).",
+				"tr":  "V. F. Los', S. P. Repetskiy, TMF, 91, No. 2: 279 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "S. P. Repetsky, T. D. Shatnii, E. G. Len et al., Металлофиз. новейшие технол., 22, № 11: 37 (2000).",
+				"tr":  "S. P. Repetsky, T. D. Shatnii, E. G. Len et al., Metallofiz. Noveishie Tekhnol., 22, No. 11: 37 (2000)."
+			},
+			{
+				"doi": "10.3367/UFNr.0165.199504b.0403",
+				"or":  "Ю. А. Изюмов, УФН, 165, № 4: 403 (1995).",
+				"tr":  "Yu. A. Izyumov, UFN, 165, No. 4: 403 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. А. Изюмов, Ю. Н. Скрябин, Статистическая механика магнито-упорядоченных систем (Москва: Наука: 1987).",
+				"tr":  "Yu. A. Izyumov, Yu. N. Skryabin, Statisticheskaya mekhanika magnito-uporyadochennykh sistem (Moskva: Nauka: 1987)."
+			},
+			{
+				"doi": "10.3367/UFNr.0178.200801b.0025",
+				"or":  "Ю. А. Изюмов, Э. З. Курмаев, УФН, 178, № 1: 25 (2008).",
+				"tr":  "Yu. A. Izyumov, E. Z. Kurmaev, UFN, 178, No. 1: 25 (2008)."
+			},
+			{
+				"doi": "10.1098/rspa.1963.0204",
+				"or":  "J. Hubbard, Proc. Roy. Soc., A276, № 2: 238 (1963).",
+				"tr":  "J. Hubbard, Proc. Roy. Soc., A276, No. 2: 238 (1963)."
+			},
+			{
+				"doi": "10.1098/rspa.1964.0019",
+				"or":  "J. Hubbard, Proc. Roy. Soc., A277, № 2: 237 (1964).",
+				"tr":  "J. Hubbard, Proc. Roy. Soc., A277, No. 2: 237 (1964)."
+			},
+			{
+				"doi": "10.1098/rspa.1964.0190",
+				"or":  "J. Hubbard, Proc. Roy. Soc., A281, № 21: 401 (1964).",
+				"tr":  "J. Hubbard, Proc. Roy. Soc., A281, No. 21: 401 (1964)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.20.1445",
+				"or":  "E. H. Lieb and F. Y. Wu, Phys. Rev. Lett., 20, No. 25: 1445 (1968).",
+				"tr":  "E. H. Lieb and F. Y. Wu, Phys. Rev. Lett., 20, No. 25: 1445 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "A. F. Zhuravlev, J. de Physique IV (France), 10: Pr5 389 (2000).",
+				"tr":  "A. F. Zhuravlev, J. de Physique IV (France), 10: Pr5 389 (2000)."
+			},
+			{
+				"doi": "10.1016/0038-1098(81)91108-X",
+				"or":  "A. N. Andriotis, P. N. Poulopoulos, and E. N. Economou, Solid State Commun., 39: 1175 (1981).",
+				"tr":  "A. N. Andriotis, P. N. Poulopoulos, and E. N. Economou, Solid State Commun., 39: 1175 (1981)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.47.9208",
+				"or":  "A. N. Andriotis, E. N. Economou, Li Qiming et al., Phys. Rev. B, 47, No. 15: 9208 (1993).",
+				"tr":  "A. N. Andriotis, E. N. Economou, Li Qiming et al., Phys. Rev. B, 47, No. 15: 9208 (1993)."
+			},
+			{
+				"doi": "10.1088/0953-8984/5/26/021",
+				"or":  "A. N. Andriotis, E. N. Economou, and C. M. Soukoulis, J. Phys.: Condens. Matter, 5, No. 26: 4505 (1993).",
+				"tr":  "A. N. Andriotis, E. N. Economou, and C. M. Soukoulis, J. Phys.: Condens. Matter, 5, No. 26: 4505 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Гаркуша, В. Ф. Лось, С. П. Репецкий, ТМФ, 84, № 1: 91 (1990).",
+				"tr":  "V. V. Garkusha, V. F. Los', S. P. Repetskiy, TMF, 84, No. 1: 91 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Лось, С. П. Репецкий, А. В. Лось, ТМФ, 97, № 2: 304 (1993).",
+				"tr":  "V. F. Los', S. P. Repetskiy, A. V. Los', TMF, 97, No. 2: 304 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Репецкий, Т. Д. Шатний, Т. С. Лень и др., ФММ, 93, № 3: 9 (2002).",
+				"tr":  "S. P. Repetskiy, T. D. Shatniy, T. S. Len' et al., FMM, 93, No. 3: 9 (2002)."
+			},
+			{
+				"doi": "10.1088/0305-4608/11/3/009",
+				"or":  "P. L. Rossiter, J. Phys. F: Metal Phys., 11, No. 3: 615 (1981).",
+				"tr":  "P. L. Rossiter, J. Phys. F: Metal Phys., 11, No. 3: 615 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "Диаграммы состояния двойных металлических систем (ред. Н. П. Лякишев) (Москва: Машиностроение: 1997), т. 2.",
+				"tr":  "Diagrammy sostoyaniya dvoynykh metallicheskikh sistem (red. N. P. Lyakishev) (Moskva: Mashinostroenie: 1997), t. 2."
+			},
+			{
+				"doi": "10.1088/0305-4608/4/2/007",
+				"or":  "J. Orehotsky and K. Schroder, J. Phys. F: Metal Phys., 4: 196 (1974).",
+				"tr":  "J. Orehotsky and K. Schroder, J. Phys. F: Metal Phys., 4: 196 (1974)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.13.5183",
+				"or":  "M. S. Seehra and P. Silinsky, Phys. Rev. B, 13, No. 12: 5183 (1976).",
+				"tr":  "M. S. Seehra and P. Silinsky, Phys. Rev. B, 13, No. 12: 5183 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Вол, Строение и свойства двойных металлических систем (Москва: Физматгиз: 1962), т. 2.",
+				"tr":  "A. E. Vol, Stroenie i svoystva dvoynykh metallicheskikh sistem (Moskva: Fizmatgiz: 1962), t. 2."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Устиновщиков, Б. Е. Пушкарев, И. Н. Шабанова, А. И. Ульянов, Металлы, № 5: 33 (2003).",
+				"tr":  "Yu. I. Ustinovshchikov, B. E. Pushkarev, I. N. Shabanova, A. I. Ul'yanov, Metally, No. 5: 33 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Репецкий, В. А. Татаренко, И. Н. Мельник и др., Металлофиз. новейшие технол., 30, № 6: 771 (2008).",
+				"tr":  "S. P. Repetskiy, V. A. Tatarenko, I. N. Mel'nik et al., Metallofiz. Noveishie Tekhnol., 30, No. 6: 771 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Смирнов, Обобщенная теория упорядочения сплавов (Киев: Наукова думка: 1986).",
+				"tr":  "A. A. Smirnov, Obobshchennaya teoriya uporyadocheniya splavov (Kiev: Naukova dumka: 1986)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.54.3380",
+				"or":  "I. A. Abrikosov, P. James, O. Eriksson et al., Phys. Rev. B, 54, No. 5: 3380 (1996).",
+				"tr":  "I. A. Abrikosov, P. James, O. Eriksson et al., Phys. Rev. B, 54, No. 5: 3380 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Diaz-Ortiz, R. Drautz, M. Fähnle et al., J. Magn. Magn. Mater., 272, Part 2, Sp. Iss. SI: 780 (2004).",
+				"tr":  "A. Diaz-Ortiz, R. Drautz, M. Fähnle et al., J. Magn. Magn. Mater., 272, Part 2, Sp. Iss. SI: 780 (2004)."
+			},
+			{
+				"doi": "10.1002/pssb.200590011",
+				"or":  "M. Fähnle, R. Drautz, F. Lechermann et al., Physica status solidi (b), 242, No. 6: 1153 (2005).",
+				"tr":  "M. Fähnle, R. Drautz, F. Lechermann et al., Physica status solidi (b), 242, No. 6: 1153 (2005)."
+			},
+			{
+				"doi": "10.1063/1.370036",
+				"or":  "J. M. MacLaren, T. C. Schulthess, W. H. Butler et al., J. Appl. Phys., 85, No. 8: 4833 (1999).",
+				"tr":  "J. M. MacLaren, T. C. Schulthess, W. H. Butler et al., J. Appl. Phys., 85, No. 8: 4833 (1999)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(02)01563-9",
+				"or":  "E. Lopez-Chavez and F. L. Castillo-Alvarado, J. Magn. Magn. Mater., 263: 182 (2003).",
+				"tr":  "E. Lopez-Chavez and F. L. Castillo-Alvarado, J. Magn. Magn. Mater., 263: 182 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "S. P. Repetsky, Ye. G. Len’, and N. V. Chubin’sky, Met. Phys. Adv. Tech., 17: 867 (1999).",
+				"tr":  "S. P. Repetsky, Ye. G. Len', and N. V. Chubin'sky, Met. Phys. Adv. Tech., 17: 867 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Лось, С. П. Репецкий, К. П. Годлевский, ФТТ, 36, № 1: 194 (1994).",
+				"tr":  "V. F. Los', S. P. Repetskiy, K. P. Godlevskiy, Phys. Solid State, 36, No. 1: 194 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Лось, С. П. Репецкий, К. П. Годлевский, Металлофиз. новейшие технол., 16, № 10: 3 (1994).",
+				"tr":  "V. F. Los', S. P. Repetskiy, K. P. Godlevskiy, Metallofiz. Noveishie Tekhnol., 16, No. 10: 3 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Лось, С. П. Репецкий, А. А. Каленик и др., Металлофизика, 14, № 11: 3 (1992).",
+				"tr":  "V. F. Los', S. P. Repetskiy, A. A. Kalenik et al., Metallofizika, 14, No. 11: 3 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. П. Кулиш, П. В. Петренко, С. П. Репецкий и др., ФММ, № 10: 51 (1990).",
+				"tr":  "N. P. Kulish, P. V. Petrenko, S. P. Repetskiy et al., Fiz. Met. Metalloved, No. 10: 51 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. П. Кулиш, П. В. Петренко, С. П. Репецкий и др., ФТТ, 32, № 11: 3185 (1990).",
+				"tr":  "N. P. Kulish, P. V. Petrenko, S. P. Repetskiy et al., Phys. Solid State, 32, No. 11: 3185 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. П. Кулиш, П. В. Петренко, И. М. Прохоров и др., УФЖ, 37, № 2: 281 (1992).",
+				"tr":  "N. P. Kulish, P. V. Petrenko, I. M. Prokhorov et al., UFZh, 37, No. 2: 281 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Лось, С. П. Репецкий, А. А. Каленик и др., Металлофиз. новейшие технол., 16, № 12: 33 (1994).",
+				"tr":  "V. F. Los', S. P. Repetskiy, A. A. Kalenik et al., Metallofiz. Noveishie Tekhnol., 16, No. 12: 33 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. П. Кулиш, В. А. Макара, С. П. Репецкий и др., Металлофиз. новейшие технол., 18, № 12: 13 (1996).",
+				"tr":  "N. P. Kulish, V. A. Makara, S. P. Repetskiy et al., Metallofiz. Noveishie Tekhnol., 18, No. 12: 13 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. П. Кулиш, В. А. Макара, С. П. Репецкий и др., ФММ, № 4: 51 (1997).",
+				"tr":  "N. P. Kulish, V. A. Makara, S. P. Repetskiy et al., Fiz. Met. Metalloved, No. 4: 51 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "S. P. Repetsky, N. P. Kulish, A. D. Borisov et al., Металлофиз. новейшие технол., 21, № 11: 13 (1999).",
+				"tr":  "S. P. Repetsky, N. P. Kulish, A. D. Borisov et al., Metallofiz. Noveishie Tekhnol., 21, No. 11: 13 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Лось, С. П. Репецкий, Т. Д. Шатний, Металлофиз. новейшие технол., 20, № 12: 3 (1998).",
+				"tr":  "V. F. Los', S. P. Repetskiy, T. D. Shatniy, Metallofiz. Noveishie Tekhnol., 20, No. 12: 3 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "V. F. Los’, S. P. Repetsky, T. D. Shatnii et al., Металлофиз. новейшие технол., 21, № 12: 3 (1999).",
+				"tr":  "V. F. Los', S. P. Repetsky, T. D. Shatnii et al., Metallofiz. Noveishie Tekhnol., 21, No. 12: 3 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "S. P. Repetsky, T. D. Shatnii, T. S. Len et al., Металлофиз. новейшие технол., 21, № 11: 7 (1999).",
+				"tr":  "S. P. Repetsky, T. D. Shatnii, T. S. Len et al., Metallofiz. Noveishie Tekhnol., 21, No. 11: 7 (1999)."
+			}
+		]
+	}
+}

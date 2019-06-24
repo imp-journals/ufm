@@ -1,0 +1,569 @@
+{
+	"_id":    "UFM.09.04.371",
+	"year":   2008,
+	"volume": 9,
+	"issue":  4,
+	"pages":  [371,422],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["13.03.2008"],
+	"PACS":   "46.35.+z, 62.20.Fe, 62.50.+p, 81.40.Lm, 83.10.-y, 83.50.-v, 83.60.Uv",
+	"title":   {
+		"ua": "Макрольокалізація пластичної деформації та стадійність пластичної течії в полікристалічних металах і стопах",
+		"en": "Macrolocalization of Plastic Deformation and Staging of Plastic Flow in Polycrystalline Metals and Alloys",
+		"ru": "Макролокализация пластической деформации и стадийность пластического течения в поликристаллических металлах и сплавах"
+	},
+	"abstract": {
+		"ua": "Досліджено макроскопічні картини льокалізації пластичної течії в металах і стопах із ГЦК-, ОЦК- та ГЩУ-кристалічними ґратницями. Встановлено, що пластична деформація у всіх випадках спливає льокалізовано на всьому перебігу процесу деформування. Тип спостережуваних картин льокалізації визначається законом деформаційного зміцнення, що діє на відповідній стадії процесу. Показано, що картини макрольокалізації пластичної течії мають автохвильовий характер. Простежено еволюцію картин льокалізації уздовж кривої пластичної течії в досліджених матеріялах. Розглянуто кінетику розвитку льокалізації пластичної течії на стадії, що передує руйнуванню.",
+		"en": "Macroscopic patterns of localized plastic flow are investigated in f.c.c., b.c.c. and h.c.p. metals and alloys. As shown, the plastic deformation is developed as localized one during all stages of the plastic flow. The type of observed patterns of localization is governed by the work-hardening law acting at the corresponding stage of a process. As shown, the macrolocalized plastic-flow patterns are of autowave behaviour. The evolution of localization pattern is retraced along the plastic-flow curve in the materials under investigation. The kinetics of the plastic-flow localization development at the prefailure stage is discussed.",
+		"ru": "Исследованы макроскопические картины локализации пластического течения в металлах и сплавах с ГЦК-, ОЦК- и ГПУ-кристаллическими решетками. Установлено, что пластическая деформация во всех случаях протекает локализовано на всем протяжении процесса деформирования. Тип наблюдаемых картин локализации определяется законом деформационного упрочнения, действующим на соответствующей стадии процесса. Показано, что картины макролокализации пластического течения имеют автоволновой характер. Прослежена эволюция картин локализации вдоль кривой пластического течения в исследованных материалах. Рассмотрена кинетика развития локализации пластического течения на стадии предразрушения."
+	},
+	"keywords": {
+		"ua": "деформація, льокалізація, зміцнення, хвильові характеристики, руйнування",
+		"en": "deformation, localization, hardening, wave characteristics, fracture",
+		"ru": "деформация, локализация, упрочнение, волновые характеристики, разрушение"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. І. Данилов", "en": "V. І. Danilov", "ru": "В. И. Данилов"},
+			"OID": [405]
+		},
+		{
+			"AID": {"ua": "Л. Б. Зуєв", "en": "L. B. Zuev", "ru": "Л. Б. Зуев"},
+			"OID": [405]
+		}
+	],
+	"cited_by": {
+		"count":  2,
+		"list":  [
+			{
+				"doi": "10.1134/S0031918X13100049",
+				"cit": "S. K. Greben’kov, A. A. Shatsov, D. M. Larinin and L. M. Kleiner, <a href=\"https://doi.org/10.1134/S0031918X13100049\">Phys. Metals Metallogr. <b>114</b>, 868 (2013)</a>."
+			},
+			{
+				"doi": "10.1007/s11041-014-9677-1",
+				"cit": "S. K. Greben’kov, A. A. Shatsov and I. V. Ryaposov, <a href=\"https://doi.org/10.1007/s11041-014-9677-1\">Met Sci Heat Treat <b>55</b>, 608 (2014)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 103,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Ж. Фридель, Дислокации (Москва: Мир: 1967).",
+				"tr":  "Zh. Fridel', Dislokatsii (Moskva: Mir: 1967)."
+			},
+			{
+				"doi": "10.1002/1521-3889(200111)10:11/12<965::AID-ANDP965>3.0.CO;2-N",
+				"or":  "L. B. Zuev, Ann. Phys., 10, No. 11–12: 965 (2001).",
+				"tr":  "L. B. Zuev, Ann. Phys., 10, No. 11–12: 965 (2001)."
+			},
+			{
+				"doi": "10.1002/andp.200610233",
+				"or":  "L. B. Zuev, Ann. Phys., 16, No. 4: 286 (2007).",
+				"tr":  "L. B. Zuev, Ann. Phys., 16, No. 4: 286 (2007)."
+			},
+			{
+				"doi": "10.1016/S0749-6419(00)00018-8",
+				"or":  "L. B. Zuev, V. I. Danilov, and S. A. Barannikova, Int. J. Plasticity, 17, No. 1: 47 (2001).",
+				"tr":  "L. B. Zuev, V. I. Danilov, and S. A. Barannikova, Int. J. Plasticity, 17, No. 1: 47 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Б. Зуев, В. И. Данилов, Б. С. Семухин, Успехи физ. мет., 3, №3: 237 (2002).",
+				"tr":  "L. B. Zuev, V. I. Danilov, B. S. Semukhin, Uspehi Fiziki Metallov, 3, No.3: 237 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Баранникова, Кинетика и эволюция макролокализации деформации в металлических монокристаллах при скольжении и двойниковании (Автореферат дисс. … д. ф.-м. н.) (Томск: ИФПМ СО РАН: 2005).",
+				"tr":  "S. A. Barannikova, Kinetika i evolyutsiya makrolokalizatsii deformatsii v metallicheskikh monokristallakh pri skol'zhenii i dvoynikovanii (Avtoreferat diss. … d. f.-m. n.) (Tomsk: IFPM SO RAN: 2005)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Кадич, Д. Эделен, Калибровочная теория дислокаций и дисклинаций (Москва: Мир: 1987).",
+				"tr":  "A. Kadich, D. Edelen, Kalibrovochnaya teoriya dislokatsiy i disklinatsiy (Moskva: Mir: 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Рыбин, Большие пластические деформации и разрушение металлов (Москва: Металлургия: 1986).",
+				"tr":  "V. V. Rybin, Bol'shie plasticheskie deformatsii i razrushenie metallov (Moskva: Metallurgiya: 1986)."
+			},
+			{
+				"doi": "10.1016/0167-6636(94)90051-5",
+				"or":  "J. J. Gilman, Mech. Mater., 17, No. 1: 83 (1994).",
+				"tr":  "J. J. Gilman, Mech. Mater., 17, No. 1: 83 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Э. Засимчук, Кооперативные деформационные процессы и локализация деформации (Киев: Наукова думка: 1989).",
+				"tr":  "E. E. Zasimchuk, Kooperativnye deformatsionnye protsessy i lokalizatsiya deformatsii (Kiev: Naukova dumka: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Панин, Физич. мезомехан., 1, №1: 5 (1998).",
+				"tr":  "V. E. Panin, Fizich. mezomekhan., 1, No.1: 5 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. К. Чернов, Д. К. Чернов и наука о металлах (Москва: Металлургиздат, 1950).",
+				"tr":  "D. K. Chernov, D. K. Chernov i nauka o metallakh (Moskva: Metallurgizdat, 1950)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Lüders, Dinglers Polytechhisches Journal, 155, No. 5: 18 (1860).",
+				"tr":  "W. Lüders, Dinglers Polytechhisches Journal, 155, No. 5: 18 (1860)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. Б. Фридман, Механические свойства металлов. Ч. 1. Деформация и разрушение (Москва: Машиностроение: 1974).",
+				"tr":  "Ya. B. Fridman, Mekhanicheskie svoystva metallov. Ch. 1. Deformatsiya i razrushenie (Moskva: Mashinostroenie: 1974)."
+			},
+			{
+				"doi": "",
+				"or":  "Ж. П. Пуарье, Высокотемпературная пластичность кристаллических тел (Москва: Металлургия: 1982).",
+				"tr":  "Zh. P. Puar'e, Vysokotemperaturnaya plastichnost' kristallicheskikh tel (Moskva: Metallurgiya: 1982)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Екобори, Физика и механика разрушения и прочности твердых тел (Москва: Металлургия: 1971).",
+				"tr":  "T. Ekobori, Fizika i mekhanika razrusheniya i prochnosti tverdykh tel (Moskva: Metallurgiya: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Бриллиантов, И. В. Обреимов, ЖЭТФ, 5, №3–4: 330 (1935).",
+				"tr":  "N. A. Brilliantov, I. V. Obreimov, ZhETF, 5, No.3–4: 330 (1935)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Степанов, Изв. АН СССР. Сер. физ., №4–5, 797 (1935).",
+				"tr":  "A. V. Stepanov, Izv. AN SSSR. Ser. fiz., No.4–5, 797 (1935)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Одинг, В. С. Иванова, В. В. Бурдукский, В. Н. Геминов, Теория ползучести и длительной прочности металлов (Москва: Металлургиздат: 1959).",
+				"tr":  "I. A. Oding, V. S. Ivanova, V. V. Burdukskiy, V. N. Geminov, Teoriya polzuchesti i dlitel'noy prochnosti metallov (Moskva: Metallurgizdat: 1959)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Гарофало, Законы ползучести и длительной прочности металлов (Москва: Металлургия: 1968).",
+				"tr":  "F. Garofalo, Zakony polzuchesti i dlitel'noy prochnosti metallov (Moskva: Metallurgiya: 1968)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Кибардин, Зав. лаб., 47, №9: 85 (1981).",
+				"tr":  "M. A. Kibardin, Zav. lab., 47, No.9: 85 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Н. Богачев, А. А. Вайнштейн, С. Д. Волков, Статистическое металловедение (Москва: Металлургия: 1984).",
+				"tr":  "I. N. Bogachev, A. A. Vaynshteyn, S. D. Volkov, Statisticheskoe metallovedenie (Moskva: Metallurgiya: 1984)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Пресняков, Локализация пластической деформации (Алма-Ата: Наука: 1981).",
+				"tr":  "A. A. Presnyakov, Lokalizatsiya plasticheskoy deformatsii (Alma-Ata: Nauka: 1981)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, В. Ф. Моисеев, Э. П. Печковский, Деформационное упрочнение и разрушение поликристаллических металлов (Киев: Наукова думка: 1987).",
+				"tr":  "V. I. Trefilov, V. F. Moiseev, E. P. Pechkovskiy, Deformatsionnoe uprochnenie i razrushenie polikristallicheskikh metallov (Kiev: Naukova dumka: 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Хоникомб, Пластическая деформация металлов (Москва: Мир: 1972).",
+				"tr":  "R. Khonikomb, Plasticheskaya deformatsiya metallov (Moskva: Mir: 1972)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Данилов, Л. Б. Зуев, В. В. Горбатенко, К. В. Гончиков, К. В. Павличев, Зав. лаб., 72, №12: 40 (2006).",
+				"tr":  "V. I. Danilov, L. B. Zuev, V. V. Gorbatenko, K. V. Gonchikov, K. V. Pavlichev, Zav. lab., 72, No.12: 40 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "F. W. Noble and D. Hull, Phil. Mag., 1965, 12, No. 118: 777 (1965).",
+				"tr":  "F. W. Noble and D. Hull, Phil. Mag., 1965, 12, No. 118: 777 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Панин, Л. Б. Зуев, В. И. Данилов, Н. М. Мних, ФММ, 66, №5: 1005 (1988).",
+				"tr":  "V. E. Panin, L. B. Zuev, V. I. Danilov, N. M. Mnikh, FMM, 66, No.5: 1005 (1988)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(97)00242-6",
+				"or":  "L. B. Zuev, V. I. Danilov, N. V. Kartashova, and S. A. Barannikova, Mater. Sci. Engng., A234–236: 699 (1997).",
+				"tr":  "L. B. Zuev, V. I. Danilov, N. V. Kartashova, and S. A. Barannikova, Mater. Sci. Eng., A234–236: 699 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Б. Зуев, В. И. Данилов, Н. М. Мних, А. И. Олемской, Изв. вузов. Черн. мет., №10: 79 (1990).",
+				"tr":  "L. B. Zuev, V. I. Danilov, N. M. Mnikh, A. I. Olemskoy, Izv. vuzov. Chern. met., No.10: 79 (1990)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(01)01102-9",
+				"or":  "L. B. Zuev, V. I. Danilov, S. A. Barannikova, and I. Yu. Zykov, Mater. Sci. Eng., A319–321: 160 (2001).",
+				"tr":  "L. B. Zuev, V. I. Danilov, S. A. Barannikova, and I. Yu. Zykov, Mater. Sci. Eng., A319–321: 160 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Данилов, Л. Б. Зуев, Е. В. Летахова, Д. В. Орлова, И. А. Охрименко, ПМТФ, 47, №2: 176 (2006).",
+				"tr":  "V. I. Danilov, L. B. Zuev, E. V. Letakhova, D. V. Orlova, I. A. Okhrimenko, PMTF, 47, No.2: 176 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Данилов, Л. Б. Зуев, В. Е. Панин, Н. М. Мних, Л. В. Шершова, ФММ, 69, №3: 188 (1991).",
+				"tr":  "V. I. Danilov, L. B. Zuev, V. E. Panin, N. M. Mnikh, L. V. Shershova, FMM, 69, No.3: 188 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Шмид, В. Боас, Пластичность кристаллов, в особенности, металлических (Москва: ГОНТИ НКТП СССР: 1938).",
+				"tr":  "E. Shmid, V. Boas, Plastichnost' kristallov, v osobennosti, metallicheskikh (Moskva: GONTI NKTP SSSR: 1938)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Р. Н. Набарро, З. С. Базинский, Д. Б. Холт, Пластичность чистых монокристаллов (Москва: Металлургия: 1967).",
+				"tr":  "F. R. N. Nabarro, Z. S. Bazinskiy, D. B. Kholt, Plastichnost' chistykh monokristallov (Moskva: Metallurgiya: 1967)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Зегер, Дислокации и механические свойства кристаллов (Москва: ИИЛ: 1960).",
+				"tr":  "A. Zeger, Dislokatsii i mekhanicheskie svoystva kristallov (Moskva: IIL: 1960)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Предводителев, О. А. Троицкий, Дислокации и точечные дефекты в гексагональных металлах (Москва: Атомиздат: 1973).",
+				"tr":  "A. A. Predvoditelev, O. A. Troitskiy, Dislokatsii i tochechnye defekty v geksagonal'nykh metallakh (Moskva: Atomizdat: 1973)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Папиров, Г. Ф. Тихинский (Харьков: 1976) (Препринт/ ХФТИ: №76–23, 1976).",
+				"tr":  "I. I. Papirov, G. F. Tikhinskiy (Khar'kov: 1976) (Preprint/KhFTI: No.76–23, 1976)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Н. Христенко, И. И. Папиров, Г. Ф. Тихинский, В. М. Ажажа, П. М. Вьюгов (Харьков: 1976) (Препринт/ ХФТИ: №76–51, 1976).",
+				"tr":  "I. N. Khristenko, I. I. Papirov, G. F. Tikhinskiy, V. M. Azhazha, P. M. V'yugov (Khar'kov: 1976) (Preprint/ KhFTI: No.76–51, 1976)."
+			},
+			{
+				"doi": "",
+				"or":  "А. С. Займовский, Н. Г. Решетников, А. В. Никулина, Циркониевые сплавы в ядерной энергетике (Москва: Энергоатомиздат: 1994).",
+				"tr":  "A. S. Zaymovskiy, N. G. Reshetnikov, A. V. Nikulina, Tsirkonievye splavy v yadernoy energetike (Moskva: Energoatomizdat: 1994)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Б. Зуев, И. Ю. Зыков, В. И. Данилов, С. Ю. Заводчиков, ПМТФ, 41, №6: 133 (2000).",
+				"tr":  "L. B. Zuev, I. Yu. Zykov, V. I. Danilov, S. Yu. Zavodchikov, PMTF, 41, No.6: 133 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. М. Полетика, Л. Б. Зуев, В. И. Данилов, Металлофиз. новейшие технол., 23, №10: 1357 (2001).",
+				"tr":  "T. M. Poletika, L. B. Zuev, V. I. Danilov, Metallofiz. Noveishie Tekhnol., 23, No.10: 1357 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Данилов, С. Ю. Заводчиков, С. А. Баранникова, И. Ю. Зыков, Л. Б. Зуев, Письма в ЖТФ, 24, №1: 26 (1998).",
+				"tr":  "V. I. Danilov, S. Yu. Zavodchikov, S. A. Barannikova, I. Yu. Zykov, L. B. Zuev, Pis'ma v ZhTF, 24, No.1: 26 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "У. Цвиккер, Титан и его сплавы (Москва: Металлургия: 1979).",
+				"tr":  "U. Tsvikker, Titan i ego splavy (Moskva: Metallurgiya: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Колачев, С. Я. Бецофен, Физико-механические свойства легких конструкционных сплавов (Москва: Металлургия: 1995).",
+				"tr":  "B. A. Kolachev, S. Ya. Betsofen, Fiziko-mekhanicheskie svoystva legkikh konstruktsionnykh splavov (Moskva: Metallurgiya: 1995)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Бойко, Р. И. Гарбер, А. М. Косевич, Обратимая пластичность кристаллов (Москва: Наука: 1991).",
+				"tr":  "V. S. Boyko, R. I. Garber, A. M. Kosevich, Obratimaya plastichnost' kristallov (Moskva: Nauka: 1991)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Otsuka and K. Shimizu, Int. Metals Reviews, 31, No. 3: 93 (1986).",
+				"tr":  "K. Otsuka and K. Shimizu, Int. Metals Reviews, 31, No. 3: 93 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Б. Зуев, Н. В. Карташова, В. И. Данилов, Т. М. Полетика, ЖТФ, 66, №11: 190 (1996).",
+				"tr":  "L. B. Zuev, N. V. Kartashova, V. I. Danilov, T. M. Poletika, ZhTF, 66, No.11: 190 (1996)."
+			},
+			{
+				"doi": "10.1016/S0168-9002(99)00696-8",
+				"or":  "S. N. Kulkov, Yu. P. Mironov, V. I. Danilov, S. A. Barannikova, B. P. Tolochko, and A. V. Bessergenev, Nucl. Instruments and Methods in Phys. Res. A, 448, No. 2: 267 (2000).",
+				"tr":  "S. N. Kulkov, Yu. P. Mironov, V. I. Danilov, S. A. Barannikova, B. P. Tolochko, and A. V. Bessergenev, Nucl. Instruments and Methods in Phys. Res. A, 448, No. 2: 267 (2000)."
+			},
+			{
+				"doi": "10.1098/rspa.1934.0106",
+				"or":  "G. Taylor, Proc. Roy. Soc., A145, No. 3: 362 (1934).",
+				"tr":  "G. Taylor, Proc. Roy. Soc., A145, No. 3: 362 (1934)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Данилов, С. В. Коновалов, С. В. Журавлева, Л. Б. Зуев, В. Е. Громов, ЖТФ, 75, №3: 94 (2005).",
+				"tr":  "V. I. Danilov, S. V. Konovalov, S. V. Zhuravleva, L. B. Zuev, V. E. Gromov, ZhTF, 75, No.3: 94 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Л. Инденбом, А. Н. Орлов, Ю. З. Эстрин, Элементарные процессы пластической деформации кристаллов (Киев: Наукова думка: 1978).",
+				"tr":  "V. L. Indenbom, A. N. Orlov, Yu. Z. Estrin, Elementarnye protsessy plasticheskoy deformatsii kristallov (Kiev: Naukova dumka: 1978)."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Мышляев, Несовершенства кристаллического строения и мартенситные превращения (Москва: Наука: 1972).",
+				"tr":  "M. M. Myshlyaev, Nesovershenstva kristallicheskogo stroeniya i martensitnye prevrashcheniya (Moskva: Nauka: 1972)."
+			},
+			{
+				"doi": "10.1016/S0020-7683(02)00612-1",
+				"or":  "L. B. Zuev, B. S. Semukhin, and N. V. Zarikovskaya, Int. J. Solids Structures, 40, No. 3: 941 (2003).",
+				"tr":  "L. B. Zuev, B. S. Semukhin, and N. V. Zarikovskaya, Int. J. Solids Structures, 40, No. 3: 941 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "L. B. Zuev, V. I. Danilov, S. Y. Zavodchikov, and S. A. Barannikova, J. Phys. IV (France), 9, No. 9: 165 (1999).",
+				"tr":  "L. B. Zuev, V. I. Danilov, S. Y. Zavodchikov, and S. A. Barannikova, J. Phys. IV (France), 9, No. 9: 165 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Баранникова, ЖТФ, 70, №10: 138 (2000).",
+				"tr":  "S. A. Barannikova, ZhTF, 70, No.10: 138 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Лэмб, Динамическая теория звука (Москва: ГИФМЛ: 1960).",
+				"tr":  "G. Lemb, Dinamicheskaya teoriya zvuka (Moskva: GIFML: 1960)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Кольский, Волны напряжений в твердых телах (Москва: ИИЛ: 1955).",
+				"tr":  "G. Kol'skiy, Volny napryazheniy v tverdykh telakh (Moskva: IIL: 1955)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. М. Шестопалов, Деформирование металлов и волны пластичности в них (Москва–Ленинград: Изд-во АН СССР: 1958).",
+				"tr":  "L. M. Shestopalov, Deformirovanie metallov i volny plastichnosti v nikh (Moskva–Leningrad: Izd-vo AN SSSR: 1958)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Олемской, А. А. Кацнельсон, Синергетика конденсированной среды (Москва: Едиториал УРСС: 2003).",
+				"tr":  "A. I. Olemskoy, A. A. Katsnel'son, Sinergetika kondensirovannoy sredy (Moskva: Editorial URSS: 2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Николис, И. Пригожин, Самоорганизация в неравновесных системах (Москва: Мир: 1979).",
+				"tr":  "G. Nikolis, I. Prigozhin, Samoorganizatsiya v neravnovesnykh sistemakh (Moskva: Mir: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Николис, И. Пригожин, Познание сложного (Москва: Мир: 1990).",
+				"tr":  "G. Nikolis, I. Prigozhin, Poznanie slozhnogo (Moskva: Mir: 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Хакен, Информация и самоорганизация. Макроскопический подход к сложным системам (Москва: Мир: 1991).",
+				"tr":  "G. Khaken, Informatsiya i samoorganizatsiya. Makroskopicheskiy podkhod k slozhnym sistemam (Moskva: Mir: 1991)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Васильев, Ю. М. Романовский, В. Г. Яхно, Автоволновые процессы (Москва: Наука: 1987).",
+				"tr":  "V. A. Vasil'ev, Yu. M. Romanovskiy, V. G. Yakhno, Avtovolnovye protsessy (Moskva: Nauka: 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Б. Зуев, Металлофиз. новейшие технол., 16, №10: 31 (1994).",
+				"tr":  "L. B. Zuev, Metallofiz. Noveishie Tekhnol., 16, No.10: 31 (1994)."
+			},
+			{
+				"doi": "10.1016/S0020-7683(97)00003-6",
+				"or":  "L. B. Zuev and V. I. Danilov, Int. J. Solids Structures, 34, Nо. 29: 3795 (1997).",
+				"tr":  "L. B. Zuev and V. I. Danilov, Int. J. Solids Structures, 34, No. 29: 3795 (1997)."
+			},
+			{
+				"doi": "10.1080/01418619908214273",
+				"or":  "L. B. Zuev and V. I. Danilov, Phil. Mag., A79, Nо. 1: 43 (1999).",
+				"tr":  "L. B. Zuev and V. I. Danilov, Phil. Mag., A79, No. 1: 43 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Кринский, А. М. Жаботинский, Автоволновые процессы в системах с диффузией (Горький: ИПФ АН СССР: 1981).",
+				"tr":  "V. I. Krinskiy, A. M. Zhabotinskiy, Avtovolnovye protsessy v sistemakh s diffuziey (Gor'kiy: IPF AN SSSR: 1981)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ю. Лоскутов, А. С. Михайлов, Введение в синергетику (Москва: Наука: 1990).",
+				"tr":  "A. Yu. Loskutov, A. S. Mikhaylov, Vvedenie v sinergetiku (Moskva: Nauka: 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Ш. Х. Ханнанов, С. П. Никаноров, ЖТФ, 77, №1: 74 (2007).",
+				"tr":  "Sh. Kh. Khannanov, S. P. Nikanorov, ZhTF, 77, No.1: 74 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "L. B. Zuev, V. I. Danilov, S. A. Barannikova, and I. Yu. Zykov, Applied Physics A, 71, No. 1: 91 (2000).",
+				"tr":  "L. B. Zuev, V. I. Danilov, S. A. Barannikova, and I. Yu. Zykov, Applied Physics A, 71, No. 1: 91 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Б. Зуев, Т. М. Полетика, Г. Н. Нариманова, Письма в ЖТФ, 29, №12: 74 (2003).",
+				"tr":  "L. B. Zuev, T. M. Poletika, G. N. Narimanova, Pis'ma v ZhTF, 29, No.12: 74 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Б. Зуев, В. И. Данилов, ЖТФ, 75, №12: 102 (2005).",
+				"tr":  "L. B. Zuev, V. I. Danilov, ZhTF, 75, No.12: 102 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. Б. Зельдович, А. Д. Мышкис, Элементы математической физики (Москва: Наука: 1973).",
+				"tr":  "Ya. B. Zel'dovich, A. D. Myshkis, Elementy matematicheskoy fiziki (Moskva: Nauka: 1973)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Стружанов, В. И. Миронов. Деформационное разупрочнение материала в элементах конструкций (Екатеринбург: ИМаш УрО РАН: 1995).",
+				"tr":  "V. V. Struzhanov, V. I. Mironov. Deformatsionnoe razuprochnenie materiala v elementakh konstruktsiy (Ekaterinburg: IMash UrO RAN: 1995)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Самарский, Н. В. Змитренко, С. П. Курдюмов, А. П. Михайлов, ДАН СССР, 227, №2: 321 (1976).",
+				"tr":  "A. A. Samarskiy, N. V. Zmitrenko, S. P. Kurdyumov, A. P. Mikhaylov, DAN SSSR, 227, No.2: 321 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Самарский, Г. Г. Еленин, Н. В. Змитренко, С. П. Курдюмов, ДАН СССР, 237, №6: 1330 (1977).",
+				"tr":  "A. A. Samarskiy, G. G. Elenin, N. V. Zmitrenko, S. P. Kurdyumov, DAN SSSR, 237, No.6: 1330 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Митлин, В. Н. Николаевский, ДАН СССР, 315, №5: 1093 (1990).",
+				"tr":  "V. S. Mitlin, V. N. Nikolaevskiy, DAN SSSR, 315, No.5: 1093 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Заикин, Т. Я. Морозова, Биофизика, 24, №1: 124 (1978).",
+				"tr":  "A. N. Zaikin, T. Ya. Morozova, Biofizika, 24, No.1: 124 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Б. Кадомцев, Динамика и информация (Москва: Редакция УФН: 1997).",
+				"tr":  "B. B. Kadomtsev, Dinamika i informatsiya (Moskva: Redaktsiya UFN: 1997)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Б. Зуев, Металлофиз. новейшие технол., 26, №3: 361 (2004).",
+				"tr":  "L. B. Zuev, Metallofiz. Noveishie Tekhnol., 26, No.3: 361 (2004)."
+			},
+			{
+				"doi": "10.1016/j.ijsolstr.2004.08.009",
+				"or":  "L. B. Zuev, Int. J. Solids Structures, 42, No. 3: 943 (2005).",
+				"tr":  "L. B. Zuev, Int. J. Solids Structures, 42, No. 3: 943 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Б. Зуев, Металлофиз. новейшие технол., 28, №9: 1261 (2006).",
+				"tr":  "L. B. Zuev, Metallofiz. Noveishie Tekhnol., 28, No.9: 1261 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Б. Зуев, Металлофиз. новейшие технол., 29, №9: 1147 (2007).",
+				"tr":  "L. B. Zuev, Metallofiz. Noveishie Tekhnol., 29, No.9: 1147 (2007)."
+			},
+			{
+				"doi": "10.3367/UFNr.0115.197501a.0003",
+				"or":  "В. И. Альшиц, В. Л. Инденбом, УФН, 115, №1: 3 (1975).",
+				"tr":  "V. I. Al'shits, V. L. Indenbom, UFN, 115, No.1: 3 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Н. Комник, В. З. Бенгус. ДАН СССР, 166, №4: 829 (1966).",
+				"tr":  "S. N. Komnik, V. Z. Bengus. DAN SSSR, 166, No.4: 829 (1966)."
+			},
+			{
+				"doi": "10.1016/0025-5416(74)90002-0",
+				"or":  "P. P. Gillis and M. A. Hamstad, Mater. Sci. Engng., 14, No. 1: 103 (1974).",
+				"tr":  "P. P. Gillis and M. A. Hamstad, Mater. Sci. Engng., 14, No. 1: 103 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Б. Зуев, Б. С. Семухин, А. Г. Лунев. Металлы, №3: 99 (2004).",
+				"tr":  "L. B. Zuev, B. S. Semukhin, A. G. Lunev. Metally, No.3: 99 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Керкхоф. Физика быстропротекающих процессов. Т. 2 (Москва: Мир: 1971).",
+				"tr":  "F. Kerkkhof. Fizika bystroprotekayushchikh protsessov. T. 2 (Moskva: Mir: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Tokuoka and Yu. Iwashimizu, Int. J. Solids Structures, 4, No. 2: 383 (1968).",
+				"tr":  "T. Tokuoka and Yu. Iwashimizu, Int. J. Solids Structures, 4, No. 2: 383 (1968)."
+			},
+			{
+				"doi": "10.1016/0001-6160(78)90012-3",
+				"or":  "H. Fujita and S. Miyazaki, Acta Met., 26, No. 9, 1273 (1978).",
+				"tr":  "H. Fujita and S. Miyazaki, Acta Met., 26, No. 9, 1273 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "H. B. Sun, F. Yoshida, M. Ohmori, and X. Ma, Materials Letters, 57, No. 23: 2435 (2003).",
+				"tr":  "H. B. Sun, F. Yoshida, M. Ohmori, and X. Ma, Materials Letters, 57, No. 23: 2435 (2003)."
+			},
+			{
+				"doi": "10.1080/01418610208240024",
+				"or":  "L. B. Zuev and B. S. Semukhin, Phil. Mag., A82, No. 6: 1183 (2002).",
+				"tr":  "L. B. Zuev and B. S. Semukhin, Phil. Mag., A82, No. 6: 1183 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Б. Зуев, Б. С. Семухин, Н. В. Зариковская, ЖТФ, 71, №5: 57 (2001).",
+				"tr":  "L. B. Zuev, B. S. Semukhin, N. V. Zarikovskaya, ZhTF, 71, No.5: 57 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Баранникова, Письма в ЖТФ, 30, №8: 75 (2004).",
+				"tr":  "S. A. Barannikova, Pis'ma v ZhTF, 30, No.8: 75 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Х. Умэдзава, Х. Мацумото, М. Татики, Термополевая динамика и конденсированные состояния (Москва: Мир: 1985).",
+				"tr":  "Kh. Umedzava, Kh. Matsumoto, M. Tatiki, Termopolevaya dinamika i kondensirovannye sostoyaniya (Moskva: Mir: 1985)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Kuhlmann-Wilsdorf, Dislocations in Solids (Eds. F.R.N. Nabarro and M. S. Duesbery) (Amsterdam–Boston: Elsevier: 2002).",
+				"tr":  "D. Kuhlmann-Wilsdorf, Dislocations in Solids (Eds. F.R.N. Nabarro and M. S. Duesbery) (Amsterdam–Boston: Elsevier: 2002)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Владимиров. Вопросы теории дефектов в кристаллах (Ленинград: Наука: 1987).",
+				"tr":  "V. I. Vladimirov. Voprosy teorii defektov v kristallakh (Leningrad: Nauka: 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. М. Морозов, Л. С. Полак, Я. Б. Фридман, ДАН СССР, 146, № 3: 537 (1964).",
+				"tr":  "E. M. Morozov, L. S. Polak, Ya. B. Fridman, DAN SSSR, 146, No. 3: 537 (1964)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Р. Тилли, Дж. Тилли, Сверхтекучесть и сверхпроводимость (Москва: Мир: 1977).",
+				"tr":  "D. R. Tilli, Dzh. Tilli, Sverkhtekuchest' i sverkhprovodimost' (Moskva: Mir: 1977)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Б. Брандт, В. А. Кульбачинский, Квазичастицы в физике конденсированного состояния (Москва: Физматлит: 2005).",
+				"tr":  "N. B. Brandt, V. A. Kul'bachinskiy, Kvazichastitsy v fizike kondensirovannogo sostoyaniya (Moskva: Fizmatlit: 2005)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Косевич, А. С. Ковалев, Введение в нелинейную физическую механику (Киев: Наукова думка: 1989).",
+				"tr":  "A. M. Kosevich, A. S. Kovalev, Vvedenie v nelineynuyu fizicheskuyu mekhaniku (Kiev: Naukova dumka: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. С. Чернавский, Синергетика и информация (Москва: Едиториал УРСС: 2004).",
+				"tr":  "D. S. Chernavskiy, Sinergetika i informatsiya (Moskva: Editorial USSR: 2004)."
+			}
+		]
+	}
+}

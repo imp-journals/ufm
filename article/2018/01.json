@@ -1,0 +1,63 @@
+{
+	"year":   2018,
+	"volume": 19,
+	"issue":  1,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [5,24],
+			"title": {
+				"ua": "Виготовлення нанорозмірних плівок на основі скутерудиту CoSb$_{3}$ для термоелектричних приладів",
+				"en": "Fabrication of Nanosize Films on the Base of Scutterudite CoSb$_{3}$ for Thermoelectric Devices",
+				"ru": "Изготовление наноразмерных плёнок на основе скуттерудита CoSb$_{3}$ для термоэлектрических приборов"
+			},
+			"autors": {
+				"ua": "Ю. М. Макогон, С. І. Сидоренко, Р. А. Шкарбань",
+				"en": "Yu. M. Makogon, S. I. Sidorenko, and R. A. Shkarban",
+				"ru": "Ю. Н. Макогон, С. И. Сидоренко, Р. А. Шкарбань"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [25,48],
+			"title": {
+				"ua": "Особливості досліджень багатошарових нітридних покриттів на основі Cr і Zr",
+				"en": "Features of Investigations of Multilayer Nitride Coatings Based on Cr and Zr",
+				"ru": "Особенности исследований многослойных нитридных покрытий на основе Cr и Zr"
+			},
+			"autors": {
+				"ua": "О. В. Максакова, О. Д. Погребняк, В. М. Береснєв",
+				"en": "O. V. Maksakova, O. D. Pogrebnjak, and V. M. Beresnev",
+				"ru": "О. В. Максакова, А. Д. Погребняк, В. М. Береснев"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [49,69],
+			"title": {
+				"ua": "Вторинна йонна емісія при бомбуванні металевих поверхонь протонами",
+				"en": "Secondary Ion Emission during the Proton Bombardment of Metal Surfaces",
+				"ru": "Вторичная ионная эмиссия при бомбардировке металлических поверхностей протонами"
+			},
+			"autors": {
+				"ua": "В. Т. Черепін, М. О. Васильєв, І. М. Макеєва, В. М. Колесник, С. М. Волошко",
+				"en": "V. T. Cherepin, M. O. Vasylyev, I. M. Makeeva, V. M. Kolesnik, and S. M. Voloshko",
+				"ru": "В. Т. Черепин, М. А. Васильев, И. Н. Макеева, В. Н. Колесник, С. М. Волошко"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [70,94],
+			"title": {
+				"ua": "Вплив циклічних мартенситних перетворень $\\gamma$-$\\epsilon$-$\\gamma$ на дифузійні характеристики Карбону в залізоманґановому стопі",
+				"en": "Effect of Cyclic Martensitic $\\gamma$-$\\epsilon$-$\\gamma$ Transformations on Diffusion Characteristics of Carbon in an Iron–Manganese Alloy",
+				"ru": "Влияние циклических мартенситных превращений $\\gamma$-$\\epsilon$-$\\gamma$ на диффузионные характеристики углерода в железомарганцевом сплаве"
+			},
+			"autors": {
+				"ua": "В. Й. Бондар, В. Ю. Данільченко, В. Ф. Мазанко, О. В. Філатов, В. Є. Яковлев",
+				"en": "V. Y. Bondar, V. E. Danilchenko, V. F. Mazanko, O. V. Filatov, and V. E. Iakovlev",
+				"ru": "В. И. Бондар, В. Ю. Данильченко, В. Ф. Мазанко, А. В. Филатов, В. Е. Яковлев"
+			}
+		}
+	]
+}

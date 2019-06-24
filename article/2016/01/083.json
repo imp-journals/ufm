@@ -1,0 +1,36 @@
+{
+	"_id":    "UFM.17.01.083",
+	"year":   2016,
+	"volume": 17,
+	"issue":  1,
+	"pages":  [83,87],
+	"type":   2,
+	"lang":   "ru",
+	"date":   ["01.01.2016"],
+	"PACS":   "01.60.+q",
+	"title":   {
+		"ua": "До 70-річчя професора А. М. Глезера",
+		"en": "In Commemoration of the 70th Anniversary of Birthday of Professor A. M. Glezer",
+		"ru": "К 70-летию профессора А. М. Глезера"
+	},
+	"abstract": {
+		"ua": "",
+		"en": "",
+		"ru": ""
+	},
+	"keywords": {
+		"ua": "",
+		"en": "",
+		"ru": ""
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Редакційна колегія", "en": "Editorial Board", "ru": "Редакционная коллегия"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 0,
+		"list":  []
+	}
+}

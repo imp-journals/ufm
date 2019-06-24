@@ -1,0 +1,331 @@
+{
+	"_id":    "UFM.11.03.295",
+	"year":   2010,
+	"volume": 11,
+	"issue":  3,
+	"pages":  [295,312],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["07.06.2010"],
+	"PACS":   "71.15.Mb, 71.15.Rf, 71.20.Be, 75.10.Lp, 75.30.Cr, 91.35.Lj, 91.67.Gb",
+	"title":   {
+		"ua": "Магнетна будова і пружні властивості гідрогенізованого пермалою за тисків ядра Землі. Інтерпретація експерименту",
+		"en": "Magnetic Constitution and Elastic Properties of the Hydrogenated Permalloy Under Pressures of the Earth’s Core. Interpretation of Experiment",
+		"ru": "Магнитное строение и упругие свойства гидрогенизированного пермаллоя при давлениях ядра Земли. Интерпретация эксперимента"
+	},
+	"abstract": {
+		"ua": "За допомогою спін-поляризованих розрахунків електронної структури з перших принципів вивчено електронну структуру і магнетні властивості кристалографічно впорядкованого гідрогенізованого пермалою за екстремальних тисків ядра Землі. Як у високій, так і в низькій границі концентрації водню ці впорядковані тверді розчини зберігають явне феромагнетне впорядкування аж до півторакратного об’ємного стиску, щонайменше, за нульової температури, хоча зі збільшенням концентрації $H$ відбувається падіння намагнетованости у всьому інтервалі тисків. Пружні характеристики цих інтерметалідів вивчаються з метою зіставлення розрахункових значень швидкостей звукових хвиль зі значеннями спостережуваних швидкостей сейсмічних хвиль, що поширюються через внутрішнє ядро. Зроблено спробу оцінити температури топлення таких сполук за екстремальних тисків.",
+		"en": "Electronic structure and magnetic properties of the crystallographically ordered hydrogenized permalloy at extreme pressures of the Earth’s core are studied by ab initio spin-polarized calculations. Both in high and low hydrogen-concentration limits, these ordered solid solutions keep pronounced ferromagnetic alignment up to sesquifold volume compression, at least, at zero temperature, although, with increasing $H$ concentration, the magnetization decreases in a whole pressure range. The elastic characteristics of these intermetallics are studied with the goal to compare the values of calculated velocities of sound waves with the values of observed velocities of seismic waves propagating through the inner core. An attempt is made to estimate the melting temperatures of such compounds at the extreme pressures.",
+		"ru": "Посредством спин-поляризованных расчетов электронной структуры из первых принципов изучены электронная структура и магнитные свойства кристаллографически упорядоченного гидрогенизированного пермаллоя при экстремальных давлениях ядра Земли. Как в высоком, так и в низком пределе концентрации водорода эти упорядоченные твердые растворы сохраняют явное ферромагнитное упорядочение вплоть до полуторакратного объемного сжатия, по меньшей мере, при нулевой температуре, хотя с увеличением концентрации $H$ происходит падение намагниченности во всем интервале давлений. Упругие характеристики этих интерметаллидов изучаются с целью сопоставления расчетных значений скоростей звуковых волн со значениями наблюдаемых скоростей сейсмических волн, распространяющихся через внутреннее ядро. Предпринята попытка оценить температуры плавления таких соединений при экстремальных давлениях."
+	},
+	"keywords": {
+		"ua": "пермалой, насичення воднем, високі тиски, внутрішнє ядро Землі, швидкість сейсмічних хвиль",
+		"en": "permalloy, hydrogen saturation, high pressures, internal Earth core, seismic wave velocity",
+		"ru": "пермаллой, насыщение водородом, высокие давления, внутреннее ядро Земли, скорость сейсмических волн"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. Є. Красовський", "en": "O. E. Krasovskii", "ru": "А. Е. Красовский"},
+			"OID": [7]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.13.04.383",
+				"cit": "O. E. Krasovskii, <a href=\"https://doi.org/10.15407/ufm.13.04.383\">Usp. Fiz. Met. <b>13</b>, 383 (2012)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 57,
+		"list":  [
+			{
+				"doi": "10.1103/PhysRevB.6.4194",
+				"or":  "D. L. Williamson, S. Bukshpan, and R. Ingalls, Phys. Rev. B, 6, No. 11: 4194 (1972).",
+				"tr":  "D. L. Williamson, S. Bukshpan, and R. Ingalls, Phys. Rev. B, 6, No. 11: 4194 (1972)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.58.5296",
+				"or":  "M. Ekman, B. Sadigh, and K. Einarsdotter, Phys. Rev. B, 58, No. 9: 5296 (1998).",
+				"tr":  "M. Ekman, B. Sadigh, and K. Einarsdotter, Phys. Rev. B, 58, No. 9: 5296 (1998)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.53.14063",
+				"or":  "P. Söderlind, J. A. Moriarty, and J. M. Wills, Phys. Rev. B, 53, No. 21: 14063 (1996).",
+				"tr":  "P. Söderlind, J. A. Moriarty, and J. M. Wills, Phys. Rev. B, 53, No. 21: 14063 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.62.5564",
+				"or":  "K. Knöpﬂe, L. M. Sandratskii, and J. Kübler, Phys. Rev. B, 62, No. 9: 5564 (2000).",
+				"tr":  "K. Knöpﬂe, L. M. Sandratskii, and J. Kübler, Phys. Rev. B, 62, No. 9: 5564 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.60.791",
+				"or":  "G. Steinle-Neumann, L. Stixrude, and R. E. Cohen, Phys. Rev. B, 60, No. 2: 791 (1999).",
+				"tr":  "G. Steinle-Neumann, L. Stixrude, and R. E. Cohen, Phys. Rev. B, 60, No. 2: 791 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Thakor, J. B. Staunton, J. Poulter et al., Phys. Rev. B, 67, No. 4: 180405(R) (2003).",
+				"tr":  "V. Thakor, J. B. Staunton, J. Poulter et al., Phys. Rev. B, 67, No. 4: 180405(R) (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.66.014447",
+				"or":  "E. Sjöstedt and L. Nordström, Phys. Rev. B, 66, No. 10: 014447 (2002).",
+				"tr":  "E. Sjöstedt and L. Nordström, Phys. Rev. B, 66, No. 10: 014447 (2002)."
+			},
+			{
+				"doi": "10.1088/0953-8984/12/42/302",
+				"or":  "J. Xie, S. P. Chen, H. V. Brand, and R. L. Rabie, J. Phys.: Condens. Matter, 12, 8953 (2000).",
+				"tr":  "J. Xie, S. P. Chen, H. V. Brand, and R. L. Rabie, J. Phys.: Condens. Matter, 12, 8953 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.84.4132",
+				"or":  "C. S. Yoo, H. Cynn, P. Söderlind, and V. Iota, Phys. Rev. Lett., 84, No. 18: 4132 (2000).",
+				"tr":  "C. S. Yoo, H. Cynn, P. Söderlind, and V. Iota, Phys. Rev. Lett., 84, No. 18: 4132 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "R. T. Merrill and M. W. McElhinny, The Earth’s Magnetic Field (London: Academic: 1983).",
+				"tr":  "R. T. Merrill and M. W. McElhinny, The Earth's Magnetic Field (London: Academic: 1983)."
+			},
+			{
+				"doi": "10.1070/PU1965v008n01ABEH003062",
+				"or":  "L. V. Al’tshuler, Sov. Phys. Usp., 8: 52 (1965) (in Russian).",
+				"tr":  "L. V. Al'tshuler, Sov. Phys. Usp., 8: 52 (1965) (in Russian)."
+			},
+			{
+				"doi": "10.2475/ajs.s5-9.53.351",
+				"or":  "H. S. Washington, Am. J. Sci., 9: 351 (1925).",
+				"tr":  "H. S. Washington, Am. J. Sci., 9: 351 (1925)."
+			},
+			{
+				"doi": "10.1029/RG014i003p00375",
+				"or":  "R. Brett, Rev. Geophys. Space Phys., 14: 375 (1976).",
+				"tr":  "R. Brett, Rev. Geophys. Space Phys., 14: 375 (1976)."
+			},
+			{
+				"doi": "10.1098/rspa.1979.0143",
+				"or":  "J. M. Herndon, Proc. R. Soc. London. Ser. A, 368: 495 (1979).",
+				"tr":  "J. M. Herndon, Proc. R. Soc. London. Ser. A, 368: 495 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Wänke, Philos. Trans. R. Soc. London. Ser. A, 303: 287 (1981).",
+				"tr":  "H. Wänke, Philos. Trans. R. Soc. London. Ser. A, 303: 287 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Aitta, arXiv:physics / 0211069v1 (2002).",
+				"tr":  "A. Aitta, arXiv:physics / 0211069v1 (2002)."
+			},
+			{
+				"doi": "10.1029/JB093iB07p07741",
+				"or":  "E. Huang, W. Basset, and M. S. Weathers, J. Geophys. Res., 93, No. B7: 7741 (1988).",
+				"tr":  "E. Huang, W. Basset, and M. S. Weathers, J. Geophys. Res., 93, No. B7: 7741 (1988)."
+			},
+			{
+				"doi": "10.1016/j.pepi.2005.11.002",
+				"or":  "W. L. Mao, A. J. Campbell, D. L. Heinz, and G. Shen, Phys. Earth Planet. Inter., 155: 146 (2006).",
+				"tr":  "W. L. Mao, A. J. Campbell, D. L. Heinz, and G. Shen, Phys. Earth Planet. Inter., 155: 146 (2006)."
+			},
+			{
+				"doi": "10.1016/j.pepi.2007.06.006",
+				"or":  "A. P. Kantor et al., Phys. Earth Planet. Inter., 164: 83 (2007).",
+				"tr":  "A. P. Kantor et al., Phys. Earth Planet. Inter., 164: 83 (2007)."
+			},
+			{
+				"doi": "10.1023/A:1017974904559",
+				"or":  "S. Rekhi, S. K. Saxena, R. Ahuja et al., J. Mat. Sci., 36: 4719 (2001).",
+				"tr":  "S. Rekhi, S. K. Saxena, R. Ahuja et al., J. Mat. Sci., 36: 4719 (2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.60.12788",
+				"or":  "A. E. Krasovskii, Phys. Rev. B, 60, No. 18: 12788 (1999).",
+				"tr":  "A. E. Krasovskii, Phys. Rev. B, 60, No. 18: 12788 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.67.134407",
+				"or":  "A. E. Krasovskii, Phys. Rev. B, 67, No. 7: 134407 (2003).",
+				"tr":  "A. E. Krasovskii, Phys. Rev. B, 67, No. 7: 134407 (2003)."
+			},
+			{
+				"doi": "10.2138/am-1996-9-1001",
+				"or":  "R. M. Hazen and A. Navrotsky, Amer. Mineralog., 81, No. 9–10: 1021 (1996).",
+				"tr":  "R. M. Hazen and A. Navrotsky, Amer. Mineralog., 81, No. 9–10: 1021 (1996)."
+			},
+			{
+				"doi": "10.1016/0031-9201(94)90120-1",
+				"or":  "J. P. Poirier, Phys. Earth Planet. Inter., 85: 319 (1994).",
+				"tr":  "J. P. Poirier, Phys. Earth Planet. Inter., 85: 319 (1994)."
+			},
+			{
+				"doi": "10.1038/325332a0",
+				"or":  "A. Jephcoat and P. Olson, Nature, 325: 332 (1987).",
+				"tr":  "A. Jephcoat and P. Olson, Nature, 325: 332 (1987)."
+			},
+			{
+				"doi": "10.1038/268130a0",
+				"or":  "D. J. Stevenson, Nature, 268: 130 (1977).",
+				"tr":  "D. J. Stevenson, Nature, 268: 130 (1977)."
+			},
+			{
+				"doi": "10.1029/JB091iB09p09222",
+				"or":  "Y. Fukai and T. Suzuki, J. Geophys. Res., 91, No. B9: 9222 (1986).",
+				"tr":  "Y. Fukai and T. Suzuki, J. Geophys. Res., 91, No. B9: 9222 (1986)."
+			},
+			{
+				"doi": "10.1126/science.278.5344.1781",
+				"or":  "T. Okuchi, Science, 278, No. 5344: 1781 (1997).",
+				"tr":  "T. Okuchi, Science, 278, No. 5344: 1781 (1997)."
+			},
+			{
+				"doi": "10.1146/annurev.earth.29.1.365",
+				"or":  "Q. Williams and R. J. Hemley, Ann. Rev. Earth Planet. Sci., 29: 365 (2001).",
+				"tr":  "Q. Williams and R. J. Hemley, Ann. Rev. Earth Planet. Sci., 29: 365 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "V. E. Antonov, I. T. Belash, V. F. Degtyareva et al., Doklady Akademii Nauk SSSR, 252, No. 6: 1384 (1980) (in Russian); idem, Soviet Physics–Dokl., 25: 490 (1980).",
+				"tr":  "V. E. Antonov, I. T. Belash, V. F. Degtyareva et al., Doklady Akademii Nauk SSSR, 252, No. 6: 1384 (1980) (in Russian); idem, Soviet Physics–Dokl., 25: 490 (1980)."
+			},
+			{
+				"doi": "10.1143/JJAP.21.L318",
+				"or":  "Y. Fukai, A. Fukizawa, K. Watanabe, and M. Amano, Japan. J. Appl. Phys, 21, No. 5: L318 (1982).",
+				"tr":  "Y. Fukai, A. Fukizawa, K. Watanabe, and M. Amano, Japan. J. Appl. Phys, 21, No. 5: L318 (1982)."
+			},
+			{
+				"doi": "10.2320/matertrans1960.24.733",
+				"or":  "Y. Fukai and H. Sugimoto, Trans. Japan Inst. Metals, 24, No. 11: 733 (1983).",
+				"tr":  "Y. Fukai and H. Sugimoto, Trans. Japan Inst. Metals, 24, No. 11: 733 (1983)."
+			},
+			{
+				"doi": "10.1016/0022-5088(82)90021-2",
+				"or":  "Y. Sakamoto, K. Yuwasa, and K. Hirayama, J. Less-Common Metals, 88: 115 (1982).",
+				"tr":  "Y. Sakamoto, K. Yuwasa, and K. Hirayama, J. Less-Common Metals, 88: 115 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "Y. Shizuku, S. Yamamoto, and Y. Fukai, J. Alloys Comp., 336: 159 (2002).",
+				"tr":  "Y. Shizuku, S. Yamamoto, and Y. Fukai, J. Alloys Comp., 336: 159 (2002)."
+			},
+			{
+				"doi": "10.1016/S0022-3697(71)80012-4",
+				"or":  "M. L.Wayman and G. C. Smith, J. Phys. Chem. Solids, 32: 103 (1971).",
+				"tr":  "M. L.Wayman and G. C. Smith, J. Phys. Chem. Solids, 32: 103 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "V. E. Antonov, I. T. Belash, V. F. Degtyareva et al., Fizika Tverdogo Tela, 20, No. 9: 2680 (1978) (in Russian); idem, Soviet Physics–Solid State, 20: 1548 (1978)).",
+				"tr":  "V. E. Antonov, I. T. Belash, V. F. Degtyareva et al., Fizika Tverdogo Tela, 20, No. 9: 2680 (1978) (in Russian); idem, Soviet Physics–Solid State, 20: 1548 (1978))."
+			},
+			{
+				"doi": "",
+				"or":  "B. Baranowski, Ber. Bunsen-Gesellschaft Phys. Chem., 76, No. 8: 714 (1972).",
+				"tr":  "B. Baranowski, Ber. Bunsen-Gesellschaft Phys. Chem., 76, No. 8: 714 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Baranowski and S. Filipek, Roczniki Chemii, 41, No. 11: 2165 (1973) (in Polish).",
+				"tr":  "B. Baranowski and S. Filipek, Roczniki Chemii, 41, No. 11: 2165 (1973) (in Polish)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Yu. Zaginaychenko, Z. A. Matysina, and M. I. Milyan, Phys. Met. Metallogr., 70: 60 (1990); idem, Fizika Metallov i Metallovedenie, 9: 63 (1990).",
+				"tr":  "S. Yu. Zaginaychenko, Z. A. Matysina, and M. I. Milyan, Phys. Met. Metallogr., 70: 60 (1990); idem, Fizika Metallov i Metallovedenie, 9: 63 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Z. A. Matysina and M. I. Milyan, Russ. Metall., 2: 171 (1990); idem, Izvestiya Akademii Nauk SSSR. Metally, 2: 175 (1990).",
+				"tr":  "Z. A. Matysina and M. I. Milyan, Russ. Metall., 2: 171 (1990); idem, Izvestiya Akademii Nauk SSSR. Metally, 2: 175 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "V. E. Antonov, J. Alloys Comp., 330–332: 110 (2002).",
+				"tr":  "V. E. Antonov, J. Alloys Comp., 330–332: 110 (2002)."
+			},
+			{
+				"doi": "10.1143/JPSJ.41.794",
+				"or":  "T. Mizutani, T. Shinjo, and T. Takada, J. Phys. Soc. Japan, 41, No. 3: 794 (1976).",
+				"tr":  "T. Mizutani, T. Shinjo, and T. Takada, J. Phys. Soc. Japan, 41, No. 3: 794 (1976)."
+			},
+			{
+				"doi": "10.1088/0953-8984/14/25/311",
+				"or":  "V. E. Antonov, M. Baier, B. Dorner et al., J. Phys: Condens. Matter, 14: 6427 (2002).",
+				"tr":  "V. E. Antonov, M. Baier, B. Dorner et al., J. Phys: Condens. Matter, 14: 6427 (2002)."
+			},
+			{
+				"doi": "10.1180/minmag.1939.025.166.06",
+				"or":  "E. A. Owen and B. D. Burns, Mineralog. Mag., 25: 415 (1939).",
+				"tr":  "E. A. Owen and B. D. Burns, Mineralog. Mag., 25: 415 (1939)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.77.3865",
+				"or":  "J. Perdew, K. Burke, and M. Ernzhofer, Phys. Rev. Lett., 77, No. 18: 3865 (1996).",
+				"tr":  "J. Perdew, K. Burke, and M. Ernzhofer, Phys. Rev. Lett., 77, No. 18: 3865 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "A. E. Krasovskii, Metallofiz. Noveishie Tekhnol., 31, No. 3: 287 (2009).",
+				"tr":  "A. E. Krasovskii, Metallofiz. Noveishie Tekhnol., 31, No. 3: 287 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "A. E. Krasovskii, J. Tech. Univ. Gabrovo, 35: 21 (2007).",
+				"tr":  "A. E. Krasovskii, J. Tech. Univ. Gabrovo, 35: 21 (2007)."
+			},
+			{
+				"doi": "10.1016/0031-9201(81)90046-7",
+				"or":  "A. M. Dziewonski and D. L. Anderson, Phys. Earth Planet. Int., 25: 297 (1981).",
+				"tr":  "A. M. Dziewonski and D. L. Anderson, Phys. Earth Planet. Int., 25: 297 (1981)."
+			},
+			{
+				"doi": "10.1029/97JB02125",
+				"or":  "L. Stixrude, E. Wasserman, and R. E. Cohen, J. Geophys. Res., 102: 24729 (1996).",
+				"tr":  "L. Stixrude, E. Wasserman, and R. E. Cohen, J. Geophys. Res., 102: 24729 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "F. A. Lindemann, Phys. Z., 609 (1910).",
+				"tr":  "F. A. Lindemann, Phys. Z., 609 (1910)."
+			},
+			{
+				"doi": "",
+				"or":  "N. F. Mott and H. Jones, Theory of the Properties of Metals and Alloys (Oxford: Clarendon Press: 1936).",
+				"tr":  "N. F. Mott and H. Jones, Theory of the Properties of Metals and Alloys (Oxford: Clarendon Press: 1936)."
+			},
+			{
+				"doi": "10.1029/JB095iB13p21697",
+				"or":  "O. L. Anderson, J. Geophys. Res., 95, No. B13: 21697 (1990).",
+				"tr":  "O. L. Anderson, J. Geophys. Res., 95, No. B13: 21697 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "M. H. P. Bott, The Interior of the Earth (London: Edward Arnold: 1971).",
+				"tr":  "M. H. P. Bott, The Interior of the Earth (London: Edward Arnold: 1971)."
+			},
+			{
+				"doi": "10.1126/science.236.4798.181",
+				"or":  "O. Williams, R. Jeanloz, J. Bass et al., Science, 236: 181 (1987).",
+				"tr":  "O. Williams, R. Jeanloz, J. Bass et al., Science, 236: 181 (1987)."
+			},
+			{
+				"doi": "10.1016/0031-9201(94)03005-4",
+				"or":  "F. D. Stacey, Phys. Earth Planet. Inter., 89: 219 (1995).",
+				"tr":  "F. D. Stacey, Phys. Earth Planet. Inter., 89: 219 (1995)."
+			},
+			{
+				"doi": "10.1029/JB095iB13p21691",
+				"or":  "T. G. Masters and P. M. Shearer, J. Geophys. Res., 95, No. B13: 21691 (1990).",
+				"tr":  "T. G. Masters and P. M. Shearer, J. Geophys. Res., 95, No. B13: 21691 (1990)."
+			},
+			{
+				"doi": "10.1063/1.1150036",
+				"or":  "Yu. A. Timofeev, H. K. Mao, V. V. Struzhkin et al., Rev. Sci. Instrum., 70, No. 10: 4059 (1999).",
+				"tr":  "Yu. A. Timofeev, H. K. Mao, V. V. Struzhkin et al., Rev. Sci. Instrum., 70, No. 10: 4059 (1999)."
+			}
+		]
+	}
+}

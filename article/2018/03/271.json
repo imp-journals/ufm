@@ -1,0 +1,449 @@
+{
+	"_id":    "UFM.19.03.271",
+	"year":   2018,
+	"volume": 19,
+	"issue":  3,
+	"pages":  [271,308],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["30.05.2018", "27.08.2018"],
+	"PACS":   "06.60.Wa, 07.10.-h, 62.20.D-, 62.20.F-, 62.20.fq, 62.20.Qp, 81.40.Jj, 81.40.Lm, 81.70.Bt",
+	"title":   {
+		"ua": "Пластичність матеріялів, що визначається методою індентування",
+		"en": "Plasticity of Materials Determined by the Indentation Method",
+		"ru": "Пластичность материалов, определяемая методом индентирования"
+	},
+	"abstract": {
+		"ua": "У даному огляді розглянуто розвиток метод визначення пластичности матеріялів індентуванням. Розроблення способів визначення пластичности матеріялів за допомогою методи індентування засновано на використанні фундаментальних уявлень фізики міцности та пластичности. Істотний розвиток цих способів став можливим після введення нової характеристики пластичности $\\delta^{*} = \\epsilon_{р}/\\epsilon_{t}$, де $\\epsilon_{р}$ — пластична деформація, а $\\epsilon_{t}$ — загальна деформація. Ця характеристика пластичности відповідає сучасним фізичним визначенням пластичности на відміну від подовження до руйнування $\\delta$, яке широко використовується. Нова характеристика пластичности легко визначається при стандартному визначенні твердости алмазними пірамідальними інденторами за сталого навантаження $Р$ (позначається $\\delta_{Н}$) і при інструментальному наноіндентуванні (позначається $\\delta_{А}$); при цьому $\\delta_{Н} \\approx \\delta_{А}$. Істотною перевагою нової характеристики пластичности є можливість визначення її як для металів, так і для крихких при стандартних механічних випробуваннях матеріялів, включаючи кераміку, тонкі шари та покриття. У розвиток уявлень про теоретичну міцність введено уявлення про теоретичну пластичність при бездислокаційному та дислокаційному механізмах деформації. У ряді робіт встановлено кореляцію $\\delta_{Н}$ з електронною будовою матеріялу та його фізичними властивостями. Показано, що параметер Тейбора $С$ ($C = HM/\\sigma_{S}$, де $НМ$ — твердість за Мейєром, а $\\sigma_{S}$ — межа плинности) легко розраховується за $\\delta_{Н}$. Тому індентування уможливлює нині достатньо просто визначити не тільки твердість, а й пластичність і межу плинности матеріялів. Таким чином, індентування стало простою методою визначення комплексу механічних властивостей матеріялів у широкому температурному інтервалі з використанням зразка у вигляді металографічного шліфа.",
+		"en": "In this review, the development of techniques for determining the plasticity of materials by the indentation is considered. The development of methods for determining the plasticity of materials by the indentation is based on the use of fundamental ideas of the physics of strength and plasticity. Significant development of these methods became possible after the introduction of a new plasticity characteristic $\\delta^{*} = \\epsilon_{р}/\\epsilon_{t}$, where $\\epsilon_{р}$ is the plastic deformation, and $\\epsilon_{t}$ is the total deformation. This plasticity characteristic corresponds to the modern physical definitions of plasticity, in contrast to the widely used elongation to failure $\\delta$. The new plasticity characteristic is easily determined by standard determination of hardness by the diamond pyramidal indenters at constant load $P$ (designated as $\\delta_{Н}$) and by instrumental nanoindentation (designated as $\\delta_{А}$, and $\\delta_{Н} \\approx \\delta_{А}$). A significant advantage of the new plasticity characteristic is the ability to determine it not only for metals, but for materials, which are brittle at the standard mechanical tests (ceramics, thin layers, coatings, etc.), as well. In the development of ideas about theoretical strength, concepts of theoretical plasticity under the dislocation-free and dislocation deformation mechanisms are introduced. A number of studies have established a correlation of $\\delta_{Н}$ with the electronic structure of the material and its physical properties. As shown, the Tabor parameter $С$ ($C = HM/\\sigma_{S}$, where $HM$ is the Meyer hardness, and $\\sigma_{S}$ is the yield stress) is easily calculated by the $\\delta_{Н}$ value. Therefore, indentation allows currently determining simply not only the hardness, but also the plasticity and yielding stress of materials. Thus, indentation became a simple method for determination of the complex of mechanical properties of materials in a wide temperature range using a sample in the form of a metallographic specimen.",
+		"ru": "В данном обзоре рассмотрено развитие методик определения пластичности материалов индентированием. Разработка способов определения пластичности материалов методом индентирования основана на использовании фундаментальных представлений физики прочности и пластичности. Существенное развитие этих способов стало возможным после введения новой характеристики пластичности $\\delta^{*} = \\epsilon_{р}/\\epsilon_{t}$, где $\\epsilon_{р}$ — пластическая деформация, а $\\epsilon_{t}$ — общая деформация. Эта характеристика пластичности соответствует современным физическим определениям пластичности, в отличие от широко используемого удлинения до разрушения $\\delta$. Новая характеристика пластичности легко определяется при стандартном определении твёрдости алмазными пирамидальными инденторами при постоянной нагрузке $P$ (получила обозначение $\\delta_{Н}$) и при инструментальном наноиндентировании (обозначение $\\delta_{А}$); при этом $\\delta_{Н} \\approx \\delta_{А}$. Существенным преимуществом новой характеристики пластичности является возможность её определения как для металлов, так и для хрупких при стандартных механических испытаниях материалов, включая керамику, тонкие слои и покрытия. В развитие представлений о теоретической прочности введены представления о теоретической пластичности при бездислокационном и дислокационном механизмах деформации. В ряде работ установлена корреляция $\\delta_{Н}$ с электронным строением материала и его физическими свойствами. Показано, что параметр Тейбора $C$ ($C = HM/\\sigma_{S}$, где $НМ$ — твёрдость по Мейеру, а $\\sigma_{S}$ — предел текучести) легко рассчитывается по $\\delta_{Н}$. Поэтому индентирование позволяет в настоящее время достаточно просто определить не только твёрдость, но и пластичность, и предел текучести материалов. Таким образом, индентирование стало простым методом определения комплекса механических свойств материалов в широком температурном интервале с использованием образца в виде металлографического шлифа."
+	},
+	"keywords": {
+		"ua": "твердість, пластичність, індентування, межа плинности, деформація",
+		"en": "hardness, plasticity, indentation, yield stress, deformation",
+		"ru": "твёрдость, пластичность, индентирование, предел текучести, деформация"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. В. Мільман", "en": "Yu. V. Milman", "ru": "Ю. В. Мильман"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "С. І. Чугунова", "en": "S. I. Chugunova", "ru": "С. И. Чугунова"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "І. В. Гончарова", "en": "I. V. Goncharova", "ru": "И. В. Гончарова"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "О. А. Голубенко", "en": "А. А. Golubenko", "ru": "А. А. Голубенко"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 80,
+		"list":  [
+			{
+				"doi": "10.1080/01418619608239720",
+				"or":  "D. Tabor, Phil. Mag. A, 74, No. 5: 1207 (1996).",
+				"tr":  "D. Tabor, Phil. Mag. A, 74, No. 5: 1207 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "M. S. Drozd, Opredelenie Mekhanicheskikh Svoistv Metalla bez Razrusheniya [Determination of Mechanical Properties of a Metal without Destruction] (Moscow: Metallurgiya: 1965), p. 171 (in Russian).",
+				"tr":  "M. S. Drozd, Opredelenie Mekhanicheskikh Svoistv Metalla bez Razrusheniya [Determination of Mechanical Properties of a Metal without Destruction] (Moscow: Metallurgiya: 1965), p. 171 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. P. Markovets, Opredelenie Mekhanicheskikh Svoistv Metallov po Tverdosti [Determination of Mechanical Properties of Metals by Hardness] (Moscow: Mashinostroenie: 1979), p. 191 (in Russian).",
+				"tr":  "M. P. Markovets, Opredelenie Mekhanicheskikh Svoistv Metallov po Tverdosti [Determination of Mechanical Properties of Metals by Hardness] (Moscow: Mashinostroenie: 1979), p. 191 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Sakai, J. Mater. Res., 14, No. 9: 3630 (1999).",
+				"tr":  "M. Sakai, J. Mater. Res., 14, No. 9: 3630 (1999)."
+			},
+			{
+				"doi": "10.1557/JMR.1999.0490",
+				"or":  "Y.-T. Cheng and C.-M. Cheng, J. Appl. Phys. Lett., 73, No. 5: 614 (1998).",
+				"tr":  "Y.-T. Cheng and C.-M. Cheng, J. Appl. Phys. Lett., 73, No. 5: 614 (1998)."
+			},
+			{
+				"doi": "10.1179/1743284711Y.0000000127",
+				"or":  "S. M. Walley, Mater. Sci. Technol., 28, Nos. 9–10: 1028 (2012).",
+				"tr":  "S. M. Walley, Mater. Sci. Technol., 28, Nos. 9–10: 1028 (2012)."
+			},
+			{
+				"doi": "10.1098/rspa.1966.0242",
+				"or":  "J. A. Greenwood and J. B. P. Williamson, Proc. Royal Society A, 295, No. 1442: 300 (1966).",
+				"tr":  "J. A. Greenwood and J. B. P. Williamson, Proc. Royal Society A, 295, No. 1442: 300 (1966)."
+			},
+			{
+				"doi": "10.1016/j.ijsolstr.2007.01.029",
+				"or":  "J. Luo and J. Lin, Int. J. Solids and Structures, 44, Nos. 18–19: 5803 (2007).",
+				"tr":  "J. Luo and J. Lin, Int. J. Solids and Structures, 44, Nos. 18–19: 5803 (2007)."
+			},
+			{
+				"doi": "10.1016/j.ijrmhm.2005.03.004",
+				"or":  "R. W. Armstrong, L. Ferranti Jr., and N. N. Thadhani, Int. J. Refract. Met. Hard Mater., 24, Nos. 1–2: 11 (2006).",
+				"tr":  "R. W. Armstrong, L. Ferranti Jr., and N. N. Thadhani, Int. J. Refract. Met. Hard Mater., 24, Nos. 1–2: 11 (2006)."
+			},
+			{
+				"doi": "10.1016/j.ijsolstr.2008.08.042",
+				"or":  "C. Heinrich, A. M. Waas, and A. S. Wineman, Int. J. Solids and Structures, 46, No. 2: 364 (2009).",
+				"tr":  "C. Heinrich, A. M. Waas, and A. S. Wineman, Int. J. Solids and Structures, 46, No. 2: 364 (2009)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2007.07.016",
+				"or":  "J. Qin, Y. Huang, K. C. Hwang, J. Song, and G. M. Pharr, Acta Mater., 55, No. 18: 6127 (2007).",
+				"tr":  "J. Qin, Y. Huang, K. C. Hwang, J. Song, and G. M. Pharr, Acta Mater., 55, No. 18: 6127 (2007)."
+			},
+			{
+				"doi": "10.1016/0956-7151(93)90122-9",
+				"or":  "Yu. V. Milman, B. A. Galanov, and S. I. Chugunova, Acta Met. Mater., 41, No. 9: 2523 (1993).",
+				"tr":  "Yu. V. Milman, B. A. Galanov, and S. I. Chugunova, Acta Met. Mater., 41, No. 9: 2523 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "B. A. Galanov, Yu. V. Milman, S. I. Chugunova, and I. V. Goncharova, Superhard Materials, No. 3: 25 (1999) (in Russian).",
+				"tr":  "B. A. Galanov, Yu. V. Milman, S. I. Chugunova, and I. V. Goncharova, Superhard Materials, No. 3: 25 (1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. N. Zhurkov, A. N. Orlov, and V. R. Regel’, Prochnost’ — Soprotivlenie Razryvu Tela na Dva ili Neskol’ko Chastey, Fizicheskiy Ehntsiklopedicheskiy Slovar’ (Moscow: Sov. Ehntsiklopediya: 1965), vol. 4, p. 235 (in Russian).",
+				"tr":  "S. N. Zhurkov, A. N. Orlov, and V. R. Regel’, Prochnost’ — Soprotivlenie Razryvu Tela na Dva ili Neskol’ko Chastey, Fizicheskiy Ehntsiklopedicheskiy Slovar’ (Moscow: Sov. Ehntsiklopediya: 1965), vol. 4, p. 235 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "See https://en.wikipedia.org/wiki/Plasticity.",
+				"tr":  "See https://en.wikipedia.org/wiki/Plasticity."
+			},
+			{
+				"doi": "",
+				"or":  "A. N. Orlov and V. R. Regel’, Plastichnost’, Fizicheskiy Ehntsiklopedicheskiy Slovar’ (Moscow: Sov. Ehntsiklopediya: 1965), vol. 4, p. 39 (in Russian).",
+				"tr":  "A. N. Orlov and V. R. Regel’, Plastichnost’, Fizicheskiy Ehntsiklopedicheskiy Slovar’ (Moscow: Sov. Ehntsiklopediya: 1965), vol. 4, p. 39 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Il’yushin and V. S. Lenskiy, Plastichnost’, Fizicheskiy Ehntsiklopedicheskiy Slovar’ (Moscow: Sov. Ehntsiklopediya: 1983), p. 547 (in Russian).",
+				"tr":  "A. A. Il’yushin and V. S. Lenskiy, Plastichnost’, Fizicheskiy Ehntsiklopedicheskiy Slovar’ (Moscow: Sov. Ehntsiklopediya: 1983), p. 547 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. L. Roytburd, Fizicheskiy Ehntsiklopedicheskiy Slovar’ (Moscow: Sov. Ehntsiklopediya: 1965), p. 548 (in Russian).",
+				"tr":  "A. L. Roytburd, Fizicheskiy Ehntsiklopedicheskiy Slovar’ (Moscow: Sov. Ehntsiklopediya: 1965), p. 548 (in Russian)."
+			},
+			{
+				"doi": "10.1016/0001-6160(67)90211-8",
+				"or":  "E. W. Hart, Acta. Met., 15, No. 2: 351 (1967).",
+				"tr":  "E. W. Hart, Acta. Met., 15, No. 2: 351 (1967)."
+			},
+			{
+				"doi": "",
+				"or":  "G. G. Kurdyumova, Yu. V. Milman, and V. I. Trefilov, Metallofizika, 1, No. 2: 55 (1979) (in Russian).",
+				"tr":  "G. G. Kurdyumova, Yu. V. Milman, and V. I. Trefilov, Metallofizika, 1, No. 2: 55 (1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Trefilov, Yu. V. Milman, R. K. Ivashchenko, Yu. A. Perlovich, A. P. Rachek, and N. I. Freze, Struktura, Tekstura i Mekhanicheskie Svoistva Deformirovannykh Splavov Molibdena [Structure, Texture and Mechanical Properties of Deformed Molybdenum Alloys] (Kiev: Naukova Dumka: 1983), p. 230 (in Russian).",
+				"tr":  "V. I. Trefilov, Yu. V. Milman, R. K. Ivashchenko, Yu. A. Perlovich, A. P. Rachek, and N. I. Freze, Struktura, Tekstura i Mekhanicheskie Svoistva Deformirovannykh Splavov Molibdena [Structure, Texture and Mechanical Properties of Deformed Molybdenum Alloys] (Kiev: Naukova Dumka: 1983), p. 230 (in Russian)."
+			},
+			{
+				"doi": "10.1088/0022-3727/41/7/074013",
+				"or":  "Yu. V. Milman, J. Phys. D: Appl. Phys., 41: 074013 (2008).",
+				"tr":  "Yu. V. Milman, J. Phys. D: Appl. Phys., 41: 074013 (2008)."
+			},
+			{
+				"doi": "10.11648/j.ijmsa.20140306.22",
+				"or":  "Yu. Milman, S. Chugunova, and I. Goncharova, Int. J. Materials Science and Applications, 3, No. 6: 353 (2014).",
+				"tr":  "Yu. Milman, S. Chugunova, and I. Goncharova, Int. J. Materials Science and Applications, 3, No. 6: 353 (2014)."
+			},
+			{
+				"doi": "10.1515/HTMP.2006.25.1-2.39",
+				"or":  "Yu. V. Milman, S. I. Chugunova, and I. V. Gonсharova, High Temp. Mater. Processes, 25, Nos. 1–2: 39 (2006).",
+				"tr":  "Yu. V. Milman, S. I. Chugunova, and I. V. Gonсharova, High Temp. Mater. Processes, 25, Nos. 1–2: 39 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Trefilov, Yu. V. Milman, and S. A. Firstov, Fizicheskie Osnovy Prochnosti Tugoplavkikh Metallov [Physical Fundamentals of Strength of Refractory Metals] (Kiev: Naukova Dumka: 1975), p. 315 (in Russian).",
+				"tr":  "V. I. Trefilov, Yu. V. Milman, and S. A. Firstov, Fizicheskie Osnovy Prochnosti Tugoplavkikh Metallov [Physical Fundamentals of Strength of Refractory Metals] (Kiev: Naukova Dumka: 1975), p. 315 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. V. Milman and I. V. Goncharova, Usp. Fiz. Met., 18, No. 3: 265 (2017) (in Russian).",
+				"tr":  "Yu. V. Milman and I. V. Goncharova, Usp. Fiz. Met., 18, No. 3: 265 (2017) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. V. Byakova, Yu. V. Milman, and A. A. Vlasov, Proc. 8th CIRP International Workshop on Modeling of Machining Operations (May 10–11, 2005, Chemnitz, Germany), p. 559.",
+				"tr":  "A. V. Byakova, Yu. V. Milman, and A. A. Vlasov, Proc. 8th CIRP International Workshop on Modeling of Machining Operations (May 10–11, 2005, Chemnitz, Germany), p. 559."
+			},
+			{
+				"doi": "10.1557/PROC-1049-AA05-06",
+				"or":  "Yu. Milman, S. Dub, and A. Golubenko, Mater. Res. Soc. Symp. Proc., 1049: 123 (2008).",
+				"tr":  "Yu. Milman, S. Dub, and A. Golubenko, Mater. Res. Soc. Symp. Proc., 1049: 123 (2008)."
+			},
+			{
+				"doi": "10.1016/j.mser.2004.05.001",
+				"or":  "Y. T. Cheng and C. M. Cheng, Mater. Sci. Eng. R, 44, No. 4: 91 (2004).",
+				"tr":  "Y. T. Cheng and C. M. Cheng, Mater. Sci. Eng. R, 44, No. 4: 91 (2004)."
+			},
+			{
+				"doi": "10.1201/b18729-3",
+				"or":  "X. Zhang, B. D. Beake, and S. Zhang, Toughness Evaluation of Thin Hard Coatings and Films, In: Thin Films and Coatings (Eds. S. Zhang) (Taylor & Francis Group, LLC: 2015), pp. 48–113.",
+				"tr":  "X. Zhang, B. D. Beake, and S. Zhang, Toughness Evaluation of Thin Hard Coatings and Films, In: Thin Films and Coatings (Eds. S. Zhang) (Taylor & Francis Group, LLC: 2015), pp. 48–113."
+			},
+			{
+				"doi": "10.3390/cryst7030087",
+				"or":  "B. A. Galanov, Yu. V. Milman, S. I. Chugunova, I. V. Goncharova, and I. V. Voskoboinik, Crystals, 7, No. 3: 87 (2017).",
+				"tr":  "B. A. Galanov, Yu. V. Milman, S. I. Chugunova, I. V. Goncharova, and I. V. Voskoboinik, Crystals, 7, No. 3: 87 (2017)."
+			},
+			{
+				"doi": "10.1016/S0263-4368(01)00072-5",
+				"or":  "Yu. V. Milman, S. Luyckx, V. A. Goncharuk, and Y. T. Northrop, Int. J. Refract. Met. Hard Mater., 20, No. 1: 71 (2002).",
+				"tr":  "Yu. V. Milman, S. Luyckx, V. A. Goncharuk, and Y. T. Northrop, Int. J. Refract. Met. Hard Mater., 20, No. 1: 71 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "І. V. Goncharova, Vyznachennya Metodom Indentuvannya Fіzyko-Mekhanіchnykh Vlastyvostey Materіalіv z Rіznoyu Krystalіchnoyu Strukturoyu [Determination of Physical and Mechanical Properties of Materials with Different Crystal Structures by Indentation Method] (Abstract of Disser. for PhD Phys.-Math. Sci.) (Kyiv: I. M. Frantsevich Institute for Problems of Materials Science, N.A.S.U.: 2017) (in Ukrainian).",
+				"tr":  "І. V. Goncharova, Vyznachennya Metodom Indentuvannya Fіzyko-Mekhanіchnykh Vlastyvostey Materіalіv z Rіznoyu Krystalіchnoyu Strukturoyu [Determination of Physical and Mechanical Properties of Materials with Different Crystal Structures by Indentation Method] (Abstract of Disser. for PhD Phys.-Math. Sci.) (Kyiv: I. M. Frantsevich Institute for Problems of Materials Science, N.A.S.U.: 2017) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1007/s11340-016-0209-3",
+				"or":  "A. J. Harris, B. D. Beake, D. E. J. Armstrong, and M. I. Davies, Experimental Mechanics, 57, No. 7: 1115 (2017).",
+				"tr":  "A. J. Harris, B. D. Beake, D. E. J. Armstrong, and M. I. Davies, Experimental Mechanics, 57, No. 7: 1115 (2017)."
+			},
+			{
+				"doi": "10.1016/j.nimb.2013.10.090",
+				"or":  "J. Maniks, L. Grigorjeva, R. Zabels, D. Millers, I. Bochkov, J. Zicans, T. Ivanova, and J. Grabis, Nuclear Instruments and Methods in Physics Research B, 326: 154 (2014).",
+				"tr":  "J. Maniks, L. Grigorjeva, R. Zabels, D. Millers, I. Bochkov, J. Zicans, T. Ivanova, and J. Grabis, Nuclear Instruments and Methods in Physics Research B, 326: 154 (2014)."
+			},
+			{
+				"doi": "10.1557/jmr.2013.3",
+				"or":  "K. J. Kaushal, N. Suksawanga, D. Lahiri, and A. Agarwal, Int. J. Mater. Res., 28, No. 6: 789 (2013).",
+				"tr":  "K. J. Kaushal, N. Suksawanga, D. Lahiri, and A. Agarwal, Int. J. Mater. Res., 28, No. 6: 789 (2013)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2010.06.023",
+				"or":  "Y. H. Cheng, T. Browne, B. Heckerman, C. Bowman, V. Gorokhovsky, and E. I. Meletis, Surf. Coat. Technol., 205, No. 1: 146 (2010).",
+				"tr":  "Y. H. Cheng, T. Browne, B. Heckerman, C. Bowman, V. Gorokhovsky, and E. I. Meletis, Surf. Coat. Technol., 205, No. 1: 146 (2010)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2011.08.027",
+				"or":  "Yu. V. Milman, A. A. Golubenko, and S. N. Dub, Acta Mater., 59, No. 20: 7480 (2011).",
+				"tr":  "Yu. V. Milman, A. A. Golubenko, and S. N. Dub, Acta Mater., 59, No. 20: 7480 (2011)."
+			},
+			{
+				"doi": "10.1016/S0022-5096(97)00086-0",
+				"or":  "W. D. Nix and H. Gao, J. Mechanics and Physics of Solids, 46, No. 3: 411 (1998).",
+				"tr":  "W. D. Nix and H. Gao, J. Mechanics and Physics of Solids, 46, No. 3: 411 (1998)."
+			},
+			{
+				"doi": "10.1016/0956-7151(93)90100-7",
+				"or":  "N. A. Stelmashenko, M. G. Walls, L. M. Brown, and Yu. V. Milman, Acta Met. et Mater., 41, No. 10: 2855 (1993).",
+				"tr":  "N. A. Stelmashenko, M. G. Walls, L. M. Brown, and Yu. V. Milman, Acta Met. et Mater., 41, No. 10: 2855 (1993)."
+			},
+			{
+				"doi": "10.1080/01418619908212037",
+				"or":  "Y. Y. Lim and M. M. Chaudhri, Philos. Mag. A, 79, No. 12: 2979 (1999).",
+				"tr":  "Y. Y. Lim and M. M. Chaudhri, Philos. Mag. A, 79, No. 12: 2979 (1999)."
+			},
+			{
+				"doi": "10.1134/S0036029510040026",
+				"or":  "A. I. Yurkova, Yu. V. Milman, and A. V. Byakova, Russian Metallurgy (Metally), 2010, No. 4: 258 (2010).",
+				"tr":  "A. I. Yurkova, Yu. V. Milman, and A. V. Byakova, Russian Metallurgy (Metally), 2010, No. 4: 258 (2010)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2004.12.005",
+				"or":  "S. Cheng, E. Ma, M. Y. Wang, L. J. Kecskes, K. M. Youssef, C. C. Koch, U. P. Trociewitz, and K. Han, Acta Mater., 53, No. 5: 1521 (2005).",
+				"tr":  "S. Cheng, E. Ma, M. Y. Wang, L. J. Kecskes, K. M. Youssef, C. C. Koch, U. P. Trociewitz, and K. Han, Acta Mater., 53, No. 5: 1521 (2005)."
+			},
+			{
+				"doi": "10.1016/1359-6454(95)00372-X",
+				"or":  "M. Hoffmann and R. Birringer, Acta Mater., 44, No. 7: 2729 (1996).",
+				"tr":  "M. Hoffmann and R. Birringer, Acta Mater., 44, No. 7: 2729 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. V. Mil’man and V. I. Trefilov, O Fizicheskoy Prirode Temperaturnoy Zavisimosti Predela Tekuchesti. Mehanizm Razrusheniya Metallov [The Physical Nature of the Temperature Dependence of Yield Stress. Mechanism of Destruction of Metals] (Kiev: Naukova Dumka: 1966), p. 59 (in Russian).",
+				"tr":  "Yu. V. Mil’man and V. I. Trefilov, O Fizicheskoy Prirode Temperaturnoy Zavisimosti Predela Tekuchesti. Mehanizm Razrusheniya Metallov [The Physical Nature of the Temperature Dependence of Yield Stress. Mechanism of Destruction of Metals] (Kiev: Naukova Dumka: 1966), p. 59 (in Russian)."
+			},
+			{
+				"doi": "10.1007/s11106-010-9248-y",
+				"or":  "Yu. Milman and V. I. Trefilov, Powder Metall. Met. Ceram., 49, Nos. 7–8: 374 (2010).",
+				"tr":  "Yu. Milman and V. I. Trefilov, Powder Metall. Met. Ceram., 49, Nos. 7–8: 374 (2010)."
+			},
+			{
+				"doi": "10.1016/0146-3535(88)90019-6",
+				"or":  "V. I. Trefilov, Yu. V. Milman, and O. N. Grigoriev, Prog. Cryst. Growth Charact., 16: 225 (1988).",
+				"tr":  "V. I. Trefilov, Yu. V. Milman, and O. N. Grigoriev, Prog. Cryst. Growth Charact., 16: 225 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "B. A. Galanov and O. N. Grigor’ev, Electron Microscopy and Strength of Materials, No. 13: 4 (2006) (in Russian).",
+				"tr":  "B. A. Galanov and O. N. Grigor’ev, Electron Microscopy and Strength of Materials, No. 13: 4 (2006) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0011-2275(72)90041-0",
+				"or":  "R. P. Reed, Cryogenics, 12, No. 4: 259 (1972).",
+				"tr":  "R. P. Reed, Cryogenics, 12, No. 4: 259 (1972)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2006.07.036",
+				"or":  "Y. Estrin, N. V. Isaev, S. V. Lubenets, S. V. Malykhin, A. T. Pugachov, V. V. Pustovalov, E. N. Reshetnyak, V. S. Fomenko, L. S. Fomenko, S. E. Shumilin, M. Janecek, and R. J. Hellmig, Acta Mater., 54, No. 20: 5581 (2006).",
+				"tr":  "Y. Estrin, N. V. Isaev, S. V. Lubenets, S. V. Malykhin, A. T. Pugachov, V. V. Pustovalov, E. N. Reshetnyak, V. S. Fomenko, L. S. Fomenko, S. E. Shumilin, M. Janecek, and R. J. Hellmig, Acta Mater., 54, No. 20: 5581 (2006)."
+			},
+			{
+				"doi": "10.1016/S1359-6462(97)00209-1",
+				"or":  "Z. Huang, L. Y. Gu, and J. R. Weertman, Scr. Mater., 37, No. 7: 1071 (1997).",
+				"tr":  "Z. Huang, L. Y. Gu, and J. R. Weertman, Scr. Mater., 37, No. 7: 1071 (1997)."
+			},
+			{
+				"doi": "10.1007/BF00693276",
+				"or":  "Yu. V. Mil’man, Met. Sci. Heat Treat., 27, No. 6: 397 (1985).",
+				"tr":  "Yu. V. Mil’man, Met. Sci. Heat Treat., 27, No. 6: 397 (1985)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.426-432.4399",
+				"or":  "Yu. V. Milman, Mater. Sci. Forum, 426–432: 4399 (2003).",
+				"tr":  "Yu. V. Milman, Mater. Sci. Forum, 426–432: 4399 (2003)."
+			},
+			{
+				"doi": "10.1002/pssb.19690360104",
+				"or":  "I. V. Gridneva, Yu. V. Milman, and V. I. Trefilov, Phys. Status Solidi B, 36, No. 1: 59 (1969).",
+				"tr":  "I. V. Gridneva, Yu. V. Milman, and V. I. Trefilov, Phys. Status Solidi B, 36, No. 1: 59 (1969)."
+			},
+			{
+				"doi": "10.3103/S1062873809090093",
+				"or":  "Yu. Milman, S. Chugunova, and I. Goncharova, Bull. Russ. Acad. Sci.: Phys., 73, No. 9: 1215 (2009).",
+				"tr":  "Yu. Milman, S. Chugunova, and I. Goncharova, Bull. Russ. Acad. Sci.: Phys., 73, No. 9: 1215 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "I. V. Goncharova, Yu. V. Mil’man, and S. I. Chugunova, 5th Int. Conf. HighMatTech (Oct. 5–8, 2015) (Kyiv: KPI: 2015), p. 256 (in Russian).",
+				"tr":  "I. V. Goncharova, Yu. V. Mil’man, and S. I. Chugunova, 5th Int. Conf. HighMatTech (Oct. 5–8, 2015) (Kyiv: KPI: 2015), p. 256 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Kelly, Strong Solids (Oxford: Clarendon Press: 1973), p. 285.",
+				"tr":  "A. Kelly, Strong Solids (Oxford: Clarendon Press: 1973), p. 285."
+			},
+			{
+				"doi": "10.1002/pssa.2210140121",
+				"or":  "I. V. Gridneva, Yu. V. Milman, and V. I. Trefilov, Phys. Status Solidi A, 14, No. 1: 177 (1972).",
+				"tr":  "I. V. Gridneva, Yu. V. Milman, and V. I. Trefilov, Phys. Status Solidi A, 14, No. 1: 177 (1972)."
+			},
+			{
+				"doi": "10.1098/rspa.2005.1470",
+				"or":  "S. J. Lloyd, A. Castellero, F. Giuliani, Y. Long, K. K. McLaughlin, J. M. Molina-Aldareguia, N. A. Stelmashenko, L. J. Vandeperre, and W. J. Clegg, Proc. Royal Soc. A, 461, No. 2060: 2521 (2005).",
+				"tr":  "S. J. Lloyd, A. Castellero, F. Giuliani, Y. Long, K. K. McLaughlin, J. M. Molina-Aldareguia, N. A. Stelmashenko, L. J. Vandeperre, and W. J. Clegg, Proc. Royal Soc. A, 461, No. 2060: 2521 (2005)."
+			},
+			{
+				"doi": "10.1016/j.triboint.2014.07.003",
+				"or":  "A. M. Kovalchenko and Yu. V. Milman, Tribology International, 80: 166 (2014).",
+				"tr":  "A. M. Kovalchenko and Yu. V. Milman, Tribology International, 80: 166 (2014)."
+			},
+			{
+				"doi": "10.1016/S0263-4368(99)00022-0",
+				"or":  "Yu. V. Milman, S. I. Chugunova, I. V. Gonсharova, T. Chudobab, W. Lojkowski, and W. Gooch, Int. J. Refract. Met. Hard Mater., 17, No. 5: 361 (1999).",
+				"tr":  "Yu. V. Milman, S. I. Chugunova, I. V. Gonсharova, T. Chudobab, W. Lojkowski, and W. Gooch, Int. J. Refract. Met. Hard Mater., 17, No. 5: 361 (1999)."
+			},
+			{
+				"doi": "10.1016/0022-5096(70)90029-3",
+				"or":  "K. L. Johnson, J. Mech. Phys. Solids, 18, No. 2: 115 (1970).",
+				"tr":  "K. L. Johnson, J. Mech. Phys. Solids, 18, No. 2: 115 (1970)."
+			},
+			{
+				"doi": "10.1017/CBO9781139171731",
+				"or":  "K. L. Johnson, Contact Mechanics (Cambridge: Cambridge University Press: 1987), p. 452.",
+				"tr":  "K. L. Johnson, Contact Mechanics (Cambridge: Cambridge University Press: 1987), p. 452."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. V. Milman, S. I. Chugunova, and I. V. Goncharova, Questions of Atomic Science and Technology. Series: Physics of Radiation Damage and Radiation Materials Science, 74, No. 4: 182 (2011) (in Russian).",
+				"tr":  "Yu. V. Milman, S. I. Chugunova, and I. V. Goncharova, Questions of Atomic Science and Technology. Series: Physics of Radiation Damage and Radiation Materials Science, 74, No. 4: 182 (2011) (in Russian)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/SSP.94.55",
+				"or":  "Yu. V. Milman, W. Lojkowski, S. I. Chugunova, D. V. Lotsko, I. V. Gridneva, and A. Golubenko, Solid State Phenomena, 94: 55 (2003).",
+				"tr":  "Yu. V. Milman, W. Lojkowski, S. I. Chugunova, D. V. Lotsko, I. V. Gridneva, and A. Golubenko, Solid State Phenomena, 94: 55 (2003)."
+			},
+			{
+				"doi": "10.1007/978-94-010-0702-3_29",
+				"or":  "Yu. V. Milman, D. V. Lotsko, A. N. Belous, and S. N. Dub, Quasicrystalline Materials. Structure and mechanical properties, In: Functional Gradient Materials and Surface Layers Prepared by Fine Particles Technology (Eds. M. I. Baraton and I. Uvarova) (Dordrecht: Springer: 2001), pp. 289–296.",
+				"tr":  "Yu. V. Milman, D. V. Lotsko, A. N. Belous, and S. N. Dub, Quasicrystalline Materials. Structure and mechanical properties, In: Functional Gradient Materials and Surface Layers Prepared by Fine Particles Technology (Eds. M. I. Baraton and I. Uvarova) (Dordrecht: Springer: 2001), pp. 289–296."
+			},
+			{
+				"doi": "10.1557/JMR.2000.0146",
+				"or":  "P. H. Boldt, G. C. Weatherly, and J. D. Embury, Int. J. Mater. Res., 15, No. 4: 1025 (2000).",
+				"tr":  "P. H. Boldt, G. C. Weatherly, and J. D. Embury, Int. J. Mater. Res., 15, No. 4: 1025 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "V. F. Boyko, T. B. Ershova, and A. V. Zaytsev, J. Materials Science, No. 12: 22 (2011) (in Russian).",
+				"tr":  "V. F. Boyko, T. B. Ershova, and A. V. Zaytsev, J. Materials Science, No. 12: 22 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. V. Milman and G. G. Kurdumova, ‘Rhenium Effect’ on the Improving of Mechanical Properties in Mo, W, Cr and Their Alloys, In: Rhenium and Rhenium Alloys (Eds. B. D. Bryskin) (Warrendale, PA: The Minerals, Metals & Materials Society: 1997), pp.717–728.",
+				"tr":  "Yu. V. Milman and G. G. Kurdumova, ‘Rhenium Effect’ on the Improving of Mechanical Properties in Mo, W, Cr and Their Alloys, In: Rhenium and Rhenium Alloys (Eds. B. D. Bryskin) (Warrendale, PA: The Minerals, Metals & Materials Society: 1997), pp.717–728."
+			},
+			{
+				"doi": "10.1023/A:1017571609977",
+				"or":  "A. F. Shchurov, A. V. Kruglov, and V. A. Perevoshchikov, Inorg. Mater., 37, No. 4: 349 (2001).",
+				"tr":  "A. F. Shchurov, A. V. Kruglov, and V. A. Perevoshchikov, Inorg. Mater., 37, No. 4: 349 (2001)."
+			},
+			{
+				"doi": "10.1134/1.1262104",
+				"or":  "A. F. Shchurov, V. A. Perevoshchikov, and A. V. Kruglov, Tech. Phys. Lett., 24, No. 5: 395 (1998).",
+				"tr":  "A. F. Shchurov, V. A. Perevoshchikov, and A. V. Kruglov, Tech. Phys. Lett., 24, No. 5: 395 (1998)."
+			},
+			{
+				"doi": "10.1007/978-1-4613-3500-9_24",
+				"or":  "P. Haasen, Electronic Processes at Dislocation Cores and Crack Tips, In: Atomistic of Fracture (Eds. R. M. Latanision and J. R. Pickens) (Boston, MA, USA: Springer: 1983), pp. 707–730.",
+				"tr":  "P. Haasen, Electronic Processes at Dislocation Cores and Crack Tips, In: Atomistic of Fracture (Eds. R. M. Latanision and J. R. Pickens) (Boston, MA, USA: Springer: 1983), pp. 707–730."
+			},
+			{
+				"doi": "10.1063/1.321567",
+				"or":  "J. Gilman, J. Appl. Phys., 46, No. 12: 5110 (1975).",
+				"tr":  "J. Gilman, J. Appl. Phys., 46, No. 12: 5110 (1975)."
+			},
+			{
+				"doi": "10.1007/978-3-642-75774-7",
+				"or":  "T. Suzuki, S. Takeuchi, and H. Yoshinaga, Dislocation Dynamics and Plasticity (Eds. K. V. Lotsch) (Berlin–Heidelberg: Springer-Verlag: 1991), p. 228.",
+				"tr":  "T. Suzuki, S. Takeuchi, and H. Yoshinaga, Dislocation Dynamics and Plasticity (Eds. K. V. Lotsch) (Berlin–Heidelberg: Springer-Verlag: 1991), p. 228."
+			},
+			{
+				"doi": "10.1557/JMR.1995.1721",
+				"or":  "S. P. Rawal, G. M. Swanson, and W. C. Moshier, J. Mater. Res., 10, No. 7: 1721 (1995).",
+				"tr":  "S. P. Rawal, G. M. Swanson, and W. C. Moshier, J. Mater. Res., 10, No. 7: 1721 (1995)."
+			},
+			{
+				"doi": "10.1063/1.3481266",
+				"or":  "L. S. Fomenko, A. V. Rusakova, S. V. Lubenets, and V. A. Moskalenko, Low Temp. Phys., 36, No. 7: 645 (2010) .",
+				"tr":  "L. S. Fomenko, A. V. Rusakova, S. V. Lubenets, and V. A. Moskalenko, Low Temp. Phys., 36, No. 7: 645 (2010)."
+			},
+			{
+				"doi": "10.1016/j.intermet.2004.05.008",
+				"or":  "G. Sharma, R. V. Ramanujan, T. R. G. Kutty, and N. Prabhu, Intermetallics, 13, No. 1: 47 (2005).",
+				"tr":  "G. Sharma, R. V. Ramanujan, T. R. G. Kutty, and N. Prabhu, Intermetallics, 13, No. 1: 47 (2005)."
+			},
+			{
+				"doi": "10.2298/SOS0401027B",
+				"or":  "A. V. Byakova, Yu. V. Milman, and A. A. Vlasov, Science of Sintering, 36, No. 1: 27 (2004).",
+				"tr":  "A. V. Byakova, Yu. V. Milman, and A. A. Vlasov, Science of Sintering, 36, No. 1: 27 (2004)."
+			},
+			{
+				"doi": "10.2298/SOS0402093B",
+				"or":  "A. V. Byakova, Yu. V. Milman, and A. A. Vlasov, Science of Sintering, 36, No. 2: 93 (2004).",
+				"tr":  "A. V. Byakova, Yu. V. Milman, and A. A. Vlasov, Science of Sintering, 36, No. 2: 93 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Hardness Testing: ISO/TC 164/SC 3, Standards Catalogue.",
+				"tr":  "Hardness Testing: ISO/TC 164/SC 3, Standards Catalogue."
+			}
+		]
+	}
+}

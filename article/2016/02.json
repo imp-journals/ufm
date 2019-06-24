@@ -1,0 +1,77 @@
+{
+	"year":   2016,
+	"volume": 17,
+	"issue":  2,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [89,118],
+			"title": {
+				"ua": "Оборотність мартенситних перетворень та ефекти пам’яті форми",
+				"en": "Reversibility of the Martensitic Transformations and Shape-Memory Effects",
+				"ru": "Обратимость мартенситных превращений и эффекты памяти формы"
+			},
+			"autors": {
+				"ua": "В. А. Лободюк",
+				"en": "V. A. Lobodyuk",
+				"ru": "В. А. Лободюк"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [119,152],
+			"title": {
+				"ua": "Закономірності формування структурно-фазових станів і функціональних властивостей цирконійових стопів за умов ультразвукового ударного оброблення",
+				"en": "Regularities of Formation of Structure–Phase States and Functional Properties of Zirconium Alloys in Conditions of Ultrasonic Impact Treatment",
+				"ru": "Закономерности формирования структурно-фазовых состояний и функциональных свойств циркониевых сплавов в условиях ультразвуковой ударной обработки"
+			},
+			"autors": {
+				"ua": "Н. І. Хріпта",
+				"en": "N. I. Khripta",
+				"ru": "Н. И. Хрипта"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [153,172],
+			"title": {
+				"ua": "Особливості динаміки атомів у нанорозмірній поверхневій області стопів на основі феромагнетних 3d-металів",
+				"en": "Features of Dynamics of Atoms in Nanosize Surface Area of the Ferromagnetic 3d-Metal-Based Alloys",
+				"ru": "Особенности динамики атомов в наноразмерной поверхностной области сплавов на основе ферромагнитных 3d-металлов"
+			},
+			"autors": {
+				"ua": "М. О. Васильєв",
+				"en": "M. O. Vasylyev",
+				"ru": "М. А. Васильев"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [173,200],
+			"title": {
+				"ua": "Фізичні основи тривалої міцности твердих розчинів з різною кінетикою рухомих дефектів ",
+				"en": "Basic Physics of Long-Term Strength of Solid Solutions with Various Kinetics of Mobile Defects",
+				"ru": "Физические основы длительной прочности твёрдых растворов с различной кинетикой подвижных дефектов"
+			},
+			"autors": {
+				"ua": "В. Г. Ткаченко",
+				"en": "V. G. Tkachenko",
+				"ru": "В. Г. Ткаченко"
+			}
+		},
+		{
+			"type":    2,
+			"pages":  [201,208],
+			"title": {
+				"ua": "До 75-річчя члена-кореспондента НАН України В. Б. Молодкіна",
+				"en": "On the Occasion of the 75th Anniversary of Birthday of V. B. Molodkin, Corresponding Member of the N.A.S. of Ukraine",
+				"ru": "К 75-летию члена-корреспондента НАН Украины В. Б. Молодкина"
+			},
+			"autors": {
+				"ua": "Редакційна колегія",
+				"en": "Editorial Board",
+				"ru": "Редакционная коллегия"
+			}
+		}
+	]
+}

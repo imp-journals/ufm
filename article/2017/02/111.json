@@ -1,0 +1,303 @@
+{
+	"_id":    "UFM.18.02.111",
+	"year":   2017,
+	"volume": 18,
+	"issue":  2,
+	"pages":  [111,139],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["14.03.2017"],
+	"PACS":   "06.60.Vz, 62.20.Qp, 68.37.Lp, 81.40.Pq, 81.40.Wx, 81.65.Lp, 83.50.Uv",
+	"title":   {
+		"ua": "Структура та властивості зносостійкого натопу, модифікованого електронно-пучковим обробленням",
+		"en": "Structure and Properties of the Wear-Resistant Facing Modified by Electron-Beam Processing",
+		"ru": "Структура и свойства износостойкой наплавки, модифицированной электронно-пучковой обработкой"
+	},
+	"abstract": {
+		"ua": "Методами сучасного фізичного матеріялознавства досліджено структуру, фазовий стан, дефектну субструктуру і трибологічні властивості покриття, сформованого на низьковуглецевій криці Хардокс 450 електродуговим натопом порошкової проволоки Fe–C–Nb–Cr–W і модифікованого наступним опроміненням високоінтенсивними імпульсними електронними пучками. У вихідному стані криця Хардокс 450 мала структуру сформованого за низькотемпературного відпускання мартенситу пакетної морфології. Натоп приводить до формування високоміцного поверхневого шару товщиною не менше 6 мм, мікротвердість якого складає $\\approx$ 10,5 ГПа, що в 1,7 рази перевищує мікротвердість основи. Вздовж межі поділу натоп–криця формується структура, розмір зерен якої змінюється в межах 30–50 мкм. При віддаленні від межі поділу в об’єм криці розмір зерен понижується й на віддалі у 1,0–1,2 мм складає 5–7 мкм. В об’ємі кристалів мартенситу спостерігається дислокаційна субструктура у вигляді багатошарових сіток, скалярна густина дислокацій якої $\\approx$ $1\\cdot10^{11}$ см$^{-2}$. Основною зміцнювальною фазою натопленого шару являються частинки карбіду ніобію, розміри яких змінюються в межах 0,2–1,5 мкм. В структурі перехідного шару виявлено утворення частинок спеціяльних карбідів, а саме, карбідів хрому (Cr$_{3}$C$_{2}$ і Cr$_{7}$C$_{3}$), карбіду складного складу типу $М_{23}$С$_{6}$ ((Fe,Cr)$_{23}$C$_{6}$) і, вельми нечасто, карбіду вольфраму складу WC. Частинки спеціяльних карбідів розташовуються в об’ємі й на межах кристалів мартенситу, мають круглясту форму; розміри частинок змінюються в межах від 30 нм до 50 нм. На поверхні натопленого шару в результаті опромінення інтенсивним імпульсним електронним пучком формується структура коміркового типу. Розміри комірок змінюються в межах від 20 мкм до 100 мкм. Комірки розділено протяжними прошарками. Комірки мають субмікро- чи нанокристалічну структуру, характерні розміри елементів якої змінюються в межах від 100 нм до 1 мкм. Електронно-пучкове оброб-лення натопленого шару приводить до зменшення розміру зерен до 1,5–2,0 мкм. Зміцнювальними фазами натопленого шару являються $\\alpha$-фаза (мартенсит), карбіди ніобію та заліза складу Fe$_{3}$C і $M_{6}$C(Fe$_{3}$W$_{3}$C). Встановлено, що зносостійкість натопленого шару після електронно-пучкового оброблення зростає більше аніж у 70 разів по відношенню до зносостійкости вихідної криці; при цьому коефіцієнт тертя знижується у $\\approx$ 3 рази.",
+		"en": "By the methods of modern physical materials science, the structure, phase composition, defect substructure, and tribological properties of the coating formed on low-carbon Hardox 450 steel by electric arc surfacing of powder Fe–C–Nb–Cr–W wire and modified by subsequent irradiation with high-intensity pulsed electron beams are studied. In the initial state, Hardox 450 steel has the structure of packet morphology martensite formed during low-temperature tempering. The surfacing results in the formation of high-strength layer with thickness of above 6 mm and with microhardness of $\\approx$ 10.5 GPa that is 1.7 times higher than microhardness of the substrate. Along the surfacing–steel interface, the structure is formed, in which sizes of the grains vary within the range of 30–50 µm. With distance from the in-terface to the steel bulk, the grain size decreases and amounts 5–7 µm for the distance of 1.0–1.2 mm. In the bulk of martensite crystals, the dislocation substructure is observed in a form of multilayer nets with scalar dislocation density of $\\approx$ $1\\cdot10^{11}$ cm$^{-2}$. Niobium carbide particles, whose sizes vary as 0.2–1.5 µm, constitute the main strengthening phase of the surfaced layer. In the transition-layer structure, the formation of special carbide particles is revealed, namely, chromium carbides (Cr$_{3}$C$_{2}$ and Cr$_{7}$C$_{3}$), carbide of complex composition $М_{23}$С$_{6}$ ((Fe,Cr)$_{23}$C$_{6}$) and, rather rarely, WC tungsten carbide. The particles of special carbides are located in the bulk and at the boundaries of martensite crystals, and they have a round shape; the particle sizes vary within the range of 30–50 nm. The cellular type structure is formed on the surface of the surfaced layer as a result of irradiation by intensive pulsed electron beam. The sizes of cells vary within the range of 20–100 $\\mu$m. The extended interlayers separate the cells. The cells have submicro- or nanocrystalline structure, the characteristic sizes of which vary within the range from 100 nm to 1 µm. Electron-beam treatment of the surfaced layer results in decrease in grain sizes to 1.5–2.0 $\\mu$m. The strengthening phases of the surfacing layer are $\\alpha$-phase (martensite), niobium carbides, iron of the Fe$_{3}$C and $M_{6}$C(Fe$_{3}$W$_{3}$C). It is established that wear resistance of the surfaced layer is increased by more than 70 times after the electron-beam treatment as compared with that for the initial steel, while the friction coefficient is decreased by $\\approx$ 3 times.",
+		"ru": "Методами современного физического материаловедения исследована структура, фазовый состав, дефектная субструктура и трибологические свойства покрытия, сформированного на низкоуглеродистой стали Хардокс 450 электродуговой наплавкой порошковой проволоки Fe–C–Nb–Cr–W и модифицированного последующим облучением высокоинтенсивными импульсными электронными пучками. В исходном состоянии сталь Хардокс 450 имела структуру сформировавшегося при низкотемпературном отпуске мартенсита пакетной морфологии. Наплавка приводит к формиро-ванию высокопрочного поверхностного слоя толщиной не менее 6 мм, микротвёрдость которого составляет $\\approx$ 10,5 ГПа, что в 1,7 раза превышает микротвёрдость основы. Вдоль границы раздела наплавка–сталь формируется структура, размер зёрен которой изменяется в пределах 30–50 мкм. При удалении от границы раздела в объём стали размер зёрен снижается и на расстоянии 1,0–1,2 мм составляет 5–7 мкм. В объёме кристаллов мартенсита наблюдается дислокационная субструктура в виде многослойных сеток, скалярная плотность дислокаций которой $\\approx$ $1\\cdot10^{11}$ см$^{-2}$. Основной упрочняющей фазой наплавленного слоя являются частицы карбида ниобия, размеры которых изменяются в пределах 0,2–1,5 мкм. В структуре переходного слоя выявлено образование частиц специальных карбидов, а именно, карбидов хрома (Cr$_{3}$C$_{2}$ и Cr$_{7}$C$_{3}$), карбида сложного состава типа $М_{23}$С$_{6}$ ((Fe,Cr)$_{23}$C$_{6}$) и, весьма редко, карбида вольфрама состава WC. Частицы специальных карбидов располагаются в объёме и на границах кристаллов мартенсита, имеют округлую форму; размеры частиц изменяются в пределах от 30 нм до 50 нм. На поверхности наплавленного слоя в результате облучения интенсивным импульсным электронным пучком формируется структура ячеистого типа. Размеры ячеек изменяются в пределах от 20 мкм до 100 мкм. Ячейки разделены протяжёнными прослойками. Ячейки имеют субмикро- или нанокри-сталлическую структуру, характерные размеры элементов которой изменяются в пределах от 100 нм до 1 мкм. Электронно-пучковая обработка наплавленного слоя приводит к уменьшению размера зёрен до 1,5–2,0 мкм. Упрочняющими фазами наплавленного слоя являются $\\alpha$-фаза (мартенсит), карбиды ниобия и железа состава Fe$_{3}$C и $M_{6}$C(Fe$_{3}$W$_{3}$C). Установлено, что износостойкость наплавленного слоя после электронно-пучковой обработки возрастает более чем в 70 раз по отношению к износостойкости исходной стали; при этом коэффициент трения снижается в $\\approx$ 3 раза."
+	},
+	"keywords": {
+		"ua": "структура, фазовий склад, натоп, зносостійкість, електронно-пучкове оброблення, мікротвердість",
+		"en": "structure, phase composition, surfacing, wear resistance, electron beam treatment, microhardness",
+		"ru": "структура, фазовый состав, наплавка, износостойкость, электронно-пучковая обработка, микротвёрдость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Є. Кормишев", "en": "V. E. Kormyshev", "ru": "В. Е. Кормышев"},
+			"OID": [407]
+		},
+		{
+			"AID": {"ua": "В. Є. Громов", "en": "V. E. Gromov", "ru": "В. Е. Громов"},
+			"OID": [407]
+		},
+		{
+			"AID": {"ua": "Ю. Ф. Іванов", "en": "Yu. F. Ivanov", "ru": "Ю. Ф. Иванов"},
+			"OID": [408]
+		},
+		{
+			"AID": {"ua": "С. В. Коновалов", "en": "S. V. Konovalov", "ru": "С. В. Коновалов"},
+			"OID": [407, 510]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.15407/mfint.39.12.1599",
+				"cit": "V. E. Gromov, A. A. Yur’ev, Yu. F. Ivanov, S. V. Konovalov <i>et al.</i>, <a href=\"https://doi.org/10.15407/mfint.39.12.1599\">Metallofiz. Noveishie Tekhnol. <b>39</b>, 1599 (2018)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 49,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Б. Е. Патон, Автоматическая сварка, № 10: 7 (2003).",
+				"tr":  "B. E. Paton, Avtomaticheskaya Svarka, No. 10: 7 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. А. Воробьева, Е. Е. Складнова, А. Ф. Леонов, В. К. Ерофeeв, Инструментальные материалы (Санкт-Петербург: Политехника: 2005).",
+				"tr":  "G. A. Vorobyeva, E. E. Skladnova, A. F. Leonov, and V. K. Erofeev Instrumentalnye Materialy [Instrumental Materials] (St. Petersburg: Politekhnika: 2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. В. Молодых, А. С. Зенкин, Восстановление деталей машин (Москва: Машиностроение: 1989).",
+				"tr":  "N. V. Molodykh and A. S. Zenkin, Vosstanovlenie Detaley Mashin [Restoration of Machine Components] (Moscow: Mashinostroenie: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Соснин, С. А. Ермаков, П. А. Тополянский, Плазменные технологии. Руководство для инженеров (Санкт-Петербург: Изд-во Политехнического университета: 2013).",
+				"tr":  "N. A. Sosnin, S. A. Ermakov, and P. A. Topolyanskiy, Plazmennyye Tekhnologii. Rukovodstvo dlya Inzhenerov [Plasma Technologies. Manual for Engineers] (St. Petersburg: Polytechnic University: 2013 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. В. Капралов, С. В. Райков, Е. А. Будовских, В. Е. Громов, В. Б. Костерев, Сталь, № 7: 86 (2014).",
+				"tr":  "E. V. Kapralov, S. V. Raikov, E. A. Budovskikh, V. E. Gromov, and V. B. Kosterev, Stal, No. 7: 86 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.15.04.213",
+				"or":  "В. Е. Громов, Е. В. Капралов, С. В. Райков, Ю. Ф. Иванов, Е. А. Будовских, Успехи физики металлов, 15, № 4: 213 (2014).",
+				"tr":  "V. E. Gromov. E. V. Kapralov. S. V. Raikov. Yu. F. Ivanov, and E. A. Budovskikh, Uspehi Fiziki Metallov, 15, No. 4: 213 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.15.01.001",
+				"or":  "В. Е. Громов, К. В. Волков, Ю. Ф. Иванов, К. В. Морозов, К. В. Алсараева, С. В. Коновалов, Успехи физики металлов, 15, № 1: 1 (2014).",
+				"tr":  "V. E. Gromov, K. V. Volkov, Yu. F. Ivanov, K. V. Morozov, K. V. Alsarayeva, and S. V. Konovalov, Uspehi Fiziki Metallov, 15, No. 1: 1 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.16.02.119",
+				"or":  "Д. А. Романов, В. Е. Громов, Е. А. Будовских, Ю. Ф. Иванов, Успехи физики металлов, 16, № 2: 119 (2015).",
+				"tr":  "D. A. Romanov, V. E. Gromov, E. A. Budovskikh, and Yu. F. Ivanov, Uspehi Fiziki Metallov, 16, No. 2: 119 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.16.03.175",
+				"or":  "В. Е. Громов, К. В. Соснин, Ю. Ф. Иванов, О. А. Семина, Успехи физики металлов, 16, № 3: 175 (2015).",
+				"tr":  "V. E. Gromov, K. V. Sosnin, Yu. F. Ivanov, and O. A. Semina, Uspehi Fiziki Metallov, 16, No. 3: 175 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.16.04.265",
+				"or":  "В. Е. Громов, К. В. Аксёнова, С. В. Коновалов, Ю. Ф. Иванов, Успехи физики металлов, 16, № 4: 265 (2015).",
+				"tr":  "V. E. Gromov, K. V. Aksyonova, S. V. Konovalov, and Yu. F. Ivanov, Uspehi Fiziki Metallov, 16, No. 4: 265 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.16.04.299",
+				"or":  "В. Е. Громов, Е. Н. Никитина, Ю. Ф. Иванов, К. В. Аксёнова, Е. В. Корнет, Успехи физики металлов, 16, № 4: 299 (2015).",
+				"tr":  "V. E. Gromov, E. N. Nikitina, Yu. F. Ivanov, K. V. Aksyonova, and E. V. Kornet, Uspehi Fiziki Metallov, 16, No. 4: 299 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.17.04.303",
+				"or":  "В. Е. Громов, Ю. Ф. Иванов, Е. Г. Белов, В. Б. Костерев, Д. А. Косинов, Успехи физики металлов, 17, № 4: 303 (2016).",
+				"tr":  "V. E. Gromov, Yu. F. Ivanov, E. G. Belov, V. B. Kosterev, and D. A. Kosinov, Uspehi Fiziki Metallov, 17, No. 4: 303 (2016) (in Russian)."
+			},
+			{
+				"doi": "10.17073/0368-0797-2015-2-121-126",
+				"or":  "С. В. Райков, Е. В. Капралов, Ю. Ф. Иванов, Е. А. Будовских, В. Е. Громов, Известия ВУЗов. Чёрная металлургия, 58, № 2: 121 (2015).",
+				"tr":  "S. V. Raikov, E. V. Kapralov, Y. F. Ivanov, E. A. Budovskikh, and V. E. Gromov, Izvestiya VUZov. Chernaya Metallurgiya, 58, No. 2: 121 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.3103/S0967091215020126",
+				"or":  "S. V. Raikov, E. V. Kapralov, Yu. F. Ivanov, E. A. Budovskikh, and V. E. Gromov, Steel in Translation., 45, No. 2: 120 (2015).",
+				"tr":  "S. V. Raikov, E. V. Kapralov, Yu. F. Ivanov, E. A. Budovskikh, and V. E. Gromov, Steel in Translation., 45, No. 2: 120 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. В. Капралов, Е. А. Будовских, В. Е. Громов, С. В. Райков, А. М. Глезер, Ю. Ф. Иванов, Проблемы чёрной металлургии и материаловедения, № 1: 80 (2015).",
+				"tr":  "E. V. Kapralov, E. A. Budovskikh, V. E. Gromov, S. V. Raykov, A. M. Glezer, and Yu. F. Ivanov, Problemy Chernoy Metallurgii i Materialovedeniya, No. 1: 80 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. В. Капралов, Е. А. Будовских, В. Е. Громов, С. В. Райков, Ю. Ф. Иванов, Наноинженерия, № 4 (46): 14 (2015).",
+				"tr":  "E. V. Kapralov, E. A. Budovskikh, V. E. Gromov, S. V. Raykov, and Yu. F. Ivanov, Nanoinzheneriya, No. 4 (46): 14 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Райков, Е. В. Капралов, Е. С. Ващук, Е. А. Будовских, В. Е. Громов, Ю. Ф. Иванов, К. В. Соснин, Упрочняющие технологии и покрытия, № 2 (122): 40 (2015).",
+				"tr":  "S. V. Raikov, E. V. Kapralov, E. S. Vashchuk, E. A. Budovskikh, V. E. Gromov, Yu. F. Ivanov, and K. V. Sosnin, Uprochnyayushchiye Tekhnologii i Pokrytiya, No. 2 (122): 40 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.1007/s11182-015-0523-8",
+				"or":  "Е. В. Капралов, Е. А. Будовских, В. Е. Громов, Ю. Ф. Иванов, Известия ВУЗов. Физика, 58, № 4: 39 (2015).",
+				"tr":  "E. V. Kapralov, E. A. Budovskikh, V. E. Gromov, and Yu. F. Ivanov, Russian Physics Journal, 58, No. 4: 471 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, В. Е. Громов, С. В. Коновалов, К. В. Аксенова, Усталость силумина, модифицированного электронно-пучковой обработкой (Новокузнецк: Изд-во «Полиграфист»: 2016).",
+				"tr":  "Yu. F. Ivanov, V. E. Gromov, S. V. Konovalov, and K. V. Aksenova, Ustalost Silumina, Modifitsirovannogo Ehlektronno-Puchkovoy Obrabotkoy [Fatigue of Silumin Modified by Electron-Beam Treatment] (Novokuznetsk: Izd-vo ‘Poligrafist’: 2016) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Модифицирование структуры и свойств легких сплавов упрочняющими технологиями (Ред. В. Е. Громов, Ю. Ф. Иванов) (Новокузнецк: Изд-во «Полиграфист»: 2015).",
+				"tr":  "Modifitsirovanie Struktury i Svoystv Lyogkikh Splavov Uprochnyayushchimi Tekhnologiyami [Modifying Structure and Properties of Light Alloys via Strengthening Technologies] (Eds. V. E. Gromov and Yu. F. Ivanov) (Novokuznetsk: Izd-vo ‘Poligrafist’: 2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Волков, В. Е. Громов, Ю. Ф. Иванов, В. А. Гришунин, Повышение усталостной выносливости рельсовой стали электронно-пучковой обработкой (Новокузнецк: Изд-во «Интер-Кузбасс»: 2013).",
+				"tr":  "K. V. Volkov, V. E. Gromov, Yu. F. Ivanov, and V. A. Grishunin, Povysheniye Ustalostnoy Vynoslivosti Relsovoy Stali Ehlektronno-Puchkovoy Obrabotkoy [Increase in a Fatigue Strength of Rail Steel by Electron-Beam Treatment] (Novokuznetsk: Izd-vo ‘Inter-Kuzbass’: 2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Гришунин, В. Е. Громов, Ю. Ф. Иванов, Ю. А. Денисова, Электронно-пучковая модификация структуры и свойств стали (Новокузнецк: «Полиграфист»: 2012).",
+				"tr":  "V. A. Grishunin, V. E. Gromov, Yu. F. Ivanov, and Yu. A. Denisova, Ehlektronno-Puchkovaya Modifikatsiya Struktury i Svoystv Stali [Electron-Beam Modification of Structure and Properties of Steel] (Novokuznetsk: ‘Poligrafist’: 2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Иванов, Н. Н. Коваль, Структура и свойства перспективных металлических материалов (Ред. А. И. Потекаев) (Томск: Изд-во НТЛ: 2007), гл. 13, с. 345.",
+				"tr":  "Yu. F. Ivanov and N. N. Koval, Struktura i Svoystva Perspektivnykh Metallicheskikh Materialov [Structure and Properties of the Prospective Metallic Materials] (Ed. A. I. Potekayev) (Tomsk: Izd-vo NTL: 2007), Ch. 13, p. 345 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. V. Grigoriev, N. N. Koval, V. N. Devjatkov, and A. D. Teresov, Proc. 9th Int. Conf. on Modification of Materials with Particle Beams and Plasma Flows (Tomsk: 2008), p.19.",
+				"tr":  "S. V. Grigoriev, N. N. Koval, V. N. Devjatkov, and A. D. Teresov, Proc. 9th Int. Conf. on Modification of Materials with Particle Beams and Plasma Flows (Tomsk: 2008), p.19."
+			},
+			{
+				"doi": "",
+				"or":  "D. I. Proskurovsky, V. P. Rotshtein, and G. E. Ozur, Proc. 11th Int. Conf. on High Power Particle Beams—BEAMS-96 (Prague: 1996), vol. 1, p. 259.",
+				"tr":  "D. I. Proskurovsky, V. P. Rotshtein, and G. E. Ozur, Proc. 11th Int. Conf. on High Power Particle Beams—BEAMS-96 (Prague: 1996), vol. 1, p. 259."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Д. А. Бессонов, С. В. Воробьев, В. Е. Громов, С. В. Коновалов, Н. Н. Коваль, Усталостная долговечность стали мартенситного класса, модифицированной высокоинтенсивными электронными пучками (Новокузнецк: Изд-во «Интер-Кузбасс»: 2011).",
+				"tr":  "Yu. F. Ivanov, D. A. Bessonov, S. V. Vorobyev, V. E. Gromov, S. V. Konovalov, and N. N. Koval, Ustalostnaya Dolgovechnost Stali Martensitnogo Klassa, Modifitsirovannoy Vysokointensivnymi Ehlektronnymi Puchkami [Fatigue Life of Martensitic Class Steel Modified by High-Intensive Electron Beams] (Novokuznetsk: Izd-vo ‘Inter-Kuzbass’: 2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, С. В. Воробьев, С. В. Коновалов, В. Е. Громов, Н. Н. Коваль, Физические основы повышения усталостной долговечности нержавеющих сталей (Новокузнецк: Изд-во «Интер-Кузбасс»: 2011).",
+				"tr":  "Yu. F. Ivanov, S. V. Vorobyev, S. V. Konovalov, V. E. Gromov, and N. N. Koval, Fizicheskiye Osnovy Povysheniya Ustalostnoy Dolgovechnosti Nerzhaveyushchikh Staley [Basic Physics of Increase in Fatigue Life of Stainless Steels] (Novokuznetsk: Izd-vo ‘Inter-Kuzbass’: 2011)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Гришунин, В. Е. Громов, Ю. Ф. Иванов, Ю. А. Денисова, Электронно-пучковая модификация структуры и свойств стали (Новокузнецк: Изд-во «Полиграфист»: 2012).",
+				"tr":  "V. A. Grishunin, V. E. Gromov, Yu. F. Ivanov, and Yu. A. Denisova, Elektronno-Puchkovaya Modifikatsiya Struktury i Svoistv Stali [Electron-Beam Modification of Structure and Properties of Steel] (Novokuznetsk: Izd-vo ‘Poligrafist’: 2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Современные тенденции модифицирования структуры и свойств материалов (Ред. Н. Н. Коваль, В. Е. Громов) (Томск: Изд-во НТЛ: 2015).",
+				"tr":  "Sovremennyye Tendentsii Modifitsirovaniya Struktury i Svoistv Mmaterialov [State-of-the-Art Tendencies for Material Structure and Properties Modification] (Eds. N. N. Koval and V. E. Gromov) (Tomsk: Izd-vo NTL: 2015)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Коваль, Ю. Ф. Иванов, Известия вузов. Физика, № 5: 60 (2008).",
+				"tr":  "N. N, Koval and Yu. F. Ivanov, Izvestiya VUZov. Fizika, No. 5: 60 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Эволюция структуры поверхностного слоя стали, подвергнутой электронно-ионно-плазменным методам обработки (Ред. Н. Н. Коваль, Ю. Ф. Иванов) (Томск: Изд-во НТЛ: 2016).",
+				"tr":  "Evolyutsiya Struktury Poverkhnostnogo Sloya Stali, Podvergnutoy Ehlektronno-Ionno-Plazmennym Metodam Obrabotki [Evolution of Structure of Steel Surface Layer Underwent Electron-Beam-Plasma Treatment Methods] (Ed. N. N. Koval and Yu. F. Ivanov) (Tomsk: Izd-vo NTL: 2016) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. М. Утевский, Дифракционная электронная микроскопия в металловедении (Москва: Металлургия: 1973).",
+				"tr":  "L. M. Utevskiy, Difraktsionnaya Ehlektronnaya Mikroskopiya v Metallovedenii [Diffraction Electron Microscopy in Metal Science] (Moscow: Metallurgiya: 1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Эндрюс, Д. Дайсон, С. Киоун, Электронограммы и их интерпретация (Москва: Мир: 1971).",
+				"tr":  "K. W. Andrews, D. J. Dyson, and S. R. Keown, Ehlektronnogrammy i Ikh Interpretatsiya [Interpretation of Electron Diffraction Patterns] (Moscow: Mir: 1971) (English translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Практические методы в электронной микроскопии (Ред. О. М. Глоэр) (Ленинград: Машиностроение: Ленинградское отделение: 1980).",
+				"tr":  "Prakticheskiye Metody v Elektronnoy Mikroskopii [Practical Methods in Electron Microscopy] (Ed. Audrey M. Glauert) (Leningrad: Mashinostroyeniye: Leningradskoe otdeleniye: 1980) (English translation)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Смирнова, Г. А. Кокорин, С. М. Полонская, Электронная микроскопия в металловедении. Справочник (Москва: Металлургия: 1985).",
+				"tr":  "A. V. Smirnova, G. A. Kokorin, and S. M. Polonskaya, Elektronnaya Mikroskopiya v Metallovedenii. Spravochnik [Electron Microscopy in Metal Science. Handbook] (Moscow: Metallurgiya: 1985) (in Russian)."
+			},
+			{
+				"doi": "10.1002/9780470727133",
+				"or":  "Д. Брандон, У. Каплан, Микроструктура материалов. Методы исследования и контроля (Москва: Техносфера: 2006).",
+				"tr":  "D. Brandon and W. D. Kaplan, Microstructural Characterization of Materials (John Wiley & Sons, Ltd: 2008)."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Криштал, И. С. Ясников, В. И. Полунин, Сканирующая электронная микроскопия и рентгеноспектральный микроанализ в примерах практического применения (Москва: Техносфера: 2009).",
+				"tr":  "M. M. Krishtal, I. S. Yasnikov, and V. I. Polunin, Skaniruyushchaya Ehlektronnaya Mikroskopiya i Rentgenospektralnyy Mikroanaliz v Primerakh Prakticheskogo Primeneniya [Scanning Electron Microscopy and X-Ray Spectroscopic Microanalysis as Examples for Practical Application] (Moscow: Tekhnosfera: 2009) (in Russian)."
+			},
+			{
+				"doi": "10.1007/978-3-642-38934-4",
+				"or":  "Transmission Electron Microscopy Characterization of Nanomaterials (Ed. Challa S.S.R. Kumar) (New York: Springer: 2014).",
+				"tr":  "Transmission Electron Microscopy Characterization of Nanomaterials (Ed. Challa S.S.R. Kumar) (New York: Springer: 2014)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Рыбин, В. А. Малышевский, В. Н. Олейник, Физика мет. металловед., 42, № 5: 1042 (1976).",
+				"tr":  "V. V. Rybin, V. A. Malyshevskiy, and V. N. Oleynik, Fiz. Met. Metalloved., 42, No. 5: 1042 (1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, Л. М. Утевский, Р. И. Энтин, Превращения в железе и стали (Москва: Наука: 1977).",
+				"tr":  "G. V. Kurdyumov, L. M. Utevskiy, and R. I. Entin, Prevrashcheniya v Zheleze i Stali [Transformations in Iron and Steel] (Moscow: Nauka: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Петров, Дефекты и бездиффузионное превращение в стали (Киев: Наукова думка: 1978).",
+				"tr":  "Yu. N. Petrov, Defekty i Bezdiffuzionnoe Prevrashcheniye v Stali [Defects and Diffusionless Transformation in Steel] (Kiev: Naukova Dumka: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, В. Е. Громов, Е. Н. Никитина, Бейнитная конструкционная сталь: структура и механизмы упрочнения (Новокузнецк: Издательство СибГИУ: 2015).",
+				"tr":  "Yu. F. Ivanov, V. E. Gromov, and E. N. Nikitina, Beynitnaya Konstruktsionnaya Stal’: Struktura i Mekhanizmy Uprochneniya [Bainite Constructional Steel: Structure and Hardening Mechanisms] (Novokuznetsk: Izd-vo SibGIU: 2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Бабичев, Н. А. Бабушкина, А. М. Братковский и др., Физические величины: Справочник (Москва: Энергоатомиздат: 1991).",
+				"tr":  "A. P. Babichev, N. A. Babushkina, A. M. Bratkovskiy et al., Physical Magnitudes: Handbook (Moscow: Energoatomizdat: 1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Банных, П. Б. Будберг, С. П. Алисова и др., Диаграммы состояния двойных и многокомпонентных систем на основе железа (Москва: Металлургия: 1986).",
+				"tr":  "O. A. Bannykh, P. B. Budberg, S. P. Alisova et al., Diagrammy Sostoyaniya Dvoynykh i Mnogokomponentnykh Sistem na Osnove Zheleza [Diagrams of State of the Iron-Based Binary and Multicomponents Systems] (Moscow: Metallurgiya: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Диаграммы состояния двойных металлических систем (Ред. Н. П. Лякишева (Москва: Машиностроение: 1996–2000).",
+				"tr":  "Diagrammy Sostoyaniya Dvoynykh Metallicheskikh Sistem [Diagrams of State for Binary Metallic Systems] (Ed. N. P. Lyakishev) (Moscow: Mashinostroyeniye: 1996–2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Усталость сталей, модифицированных высокоинтенсивными электронными пучками (Ред. В. Е. Громов, Ю. Ф. Иванов) (Новокузнецк: Изд-во «Интер-Кузбасс»: 2012).",
+				"tr":  "Ustalost’ Staley, modifitsirovannykh Vysokointensivnymi Ehlektronnymi Puchkami [Fatigue of Steels Modified by High-Intensive Electron Beams] (Eds. V. E. Gromov and Yu. F. Ivanov) (Novokuznetsk: Izd-vo ‘Inter-Kuzbass’: 2012) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.16.01.001",
+				"or":  "O. A. Likhachev and Yu. M. Koval, Uspehi Fiziki Metallov, 16, No. 1: 1 (2015).",
+				"tr":  "O. A. Likhachev and Yu. M. Koval, Uspehi Fiziki Metallov, 16, No. 1: 1 (2015)."
+			},
+			{
+				"doi": "10.15407/ufm.16.01.023",
+				"or":  "O. A. Likhachev and Yu. M. Koval, Uspehi Fiziki Metallov, 16, No. 1: 23 (2015).",
+				"tr":  "O. A. Likhachev and Yu. M. Koval, Uspehi Fiziki Metallov, 16, No. 1: 23 (2015)."
+			},
+			{
+				"doi": "10.15407/ufm.17.02.089",
+				"or":  "V. A. Lobodyuk, Uspehi Fiziki Metallov, 17, No. 2: 89 (2016).",
+				"tr":  "V. A. Lobodyuk, Uspehi Fiziki Metallov, 17, No. 2: 89 (2016)."
+			}
+		]
+	}
+}

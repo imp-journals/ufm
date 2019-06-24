@@ -1,0 +1,309 @@
+{
+	"_id":    "UFM.09.03.289",
+	"year":   2008,
+	"volume": 9,
+	"issue":  3,
+	"pages":  [289,304],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["10.12.2007","12.06.2008"],
+	"PACS":   "68.65.Hb, 71.60.+z, 73.21.La, 78.67.Hc, 78.70.Bj",
+	"title":   {
+		"ua": "Вбирання та розсіяння світла на електронних і позитронних станах у квазинульвимірних наносистемах",
+		"en": "Absorption and Scattering of Light on Electron and Positron States in Quasi-Zero-Dimensional Nanosystems",
+		"ru": "Поглощение и рассеяние света на электронных и позитронных состояниях в квазинульмерных наносистемах"
+	},
+	"abstract": {
+		"ua": "Дано огляд результатів теоретичних і експериментальних досліджень з взаємодії електромагнетного поля з одночастинковими електронними й позитронними квантоворозмірними станами, які виникають у квазинульвимірних металевих і напівпровідникових наносистемах. Показано, що сили осциляторів переходів, а також дипольні моменти переходів для одночастинкових електронних і позитронних станів у квазинульвимірних наносистемах набувають гігантських значень, що суттєво перевищують типові значення відповідних величин для об’ємних матеріялів. У рамках дипольного наближення встановлено, що гігантські значення перерізів вбирання світла в таких квазинульвимірних наносистемах дають можливість використовувати наносистеми в якости нових сильно вбираючих матеріялів.",
+		"en": "We analyzed the results of theoretical and experimental research on the interaction of an electromagnetic field with electron and positron states arising in quasi-zero-dimensional metal and semiconductor nanosystems. As shown, the oscillator strengths and dipole moments for the transitions involving one-particle electron and positron in quasi-zero-dimensional nanosystems attain gigantic values, substantially exceeding the corresponding typical values for bulk materials. As revealed within the scope of the dipole approximation, the giant optical absorption cross sections in the quasi-zero-dimensional nanosystems provide a possibility to use these nanosystems as new efficient absorbing materials.",
+		"ru": "Дан обзор результатов теоретических и экспериментальных исследований по взаимодействию электромагнитного поля с одночастичными электронными и позитронными квантоворазмерными состояниями, возникающими в квазинульмерных металлических и полупроводниковых наносистемах. Показано, что силы осцилляторов переходов, а также дипольные моменты переходов для одночастичных электронных и позитронных состояний в квазинульмерных наносистемах принимают гигантские значения, существенно превосходящие типичные значения соответствующих величин для объемных материалов. В рамках дипольного приближения установлено, что гигантские значения сечений поглощения света в изучаемых квазинульмерных наносистемах дают возможность использовать такие наносистемы в качестве новых сильно поглощающих материалов."
+	},
+	"keywords": {
+		"ua": "поглинання та розсіяння світла, електронні та позитронні стани, квазинульвимірні наносистеми, сили осциляторів",
+		"en": "light adsorption and radiation, electron and positron states, quasizerodimensional nanosystems, oscillator strengths",
+		"ru": "поглощение и рассеяние света, электронные и позитронные состояния, квазинульмерные наносистемы, силы осцилляторов"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. П. Шпак", "en": "A. P. Shpak", "ru": "А. П. Шпак"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. І. Покутній", "en": "S. I. Pokutnyi", "ru": "С. И. Покутний"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Уваров", "en": "V. M. Uvarov", "ru": "В. Н. Уваров"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. С. Покутній", "en": "M. S. Pokutnyi", "ru": "М. С. Покутний"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 52,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "﻿А. И. Екимов, A. A. Онущенко, Письма в ЖЭТФ, 40, № 8: 337 (1984).",
+				"tr":  "A. I. Ekimov, A. A. Onushchenko, Pis'ma v ZhETF, 40, No. 8: 337 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Екимов, A. A. Онущенко, Ал. Л. Эфрос, Письма в ЖЭТФ, 43, № 6: 292 (1986).",
+				"tr":  "A. I. Ekimov, A. A. Onushchenko, Al. L. Efros, Pis'ma v ZhETF, 43, No. 6: 292 (1986)."
+			},
+			{
+				"doi": "10.1016/S0038-1098(96)00433-4",
+				"or":  "V. M. Agranovich et аl., Sol. State Commun., 102: 631 (1997).",
+				"tr":  "V. M. Agranovich et al., Sol. State Commun., 102: 631 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "Ж. И. Алферов, ФTП, 32, № 1: 3 (1998).",
+				"tr":  "Zh. I. Alferov, FTP, 32, No. 1: 3 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Р. Кулиш, B. П. Кунец, М. П. Лисица, УФЖ, 35, № 12: 1817 (1990).",
+				"tr":  "N. R. Kulish, B. P. Kunets, M. P. Lisitsa, UFZh, 35, No. 12: 1817 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Р. Кулиш, B. П. Кунец, М. П. Лисица, УФЖ, 41, № 11, 12: 1075 (1996).",
+				"tr":  "N. R. Kulish, B. P. Kunets, M. P. Lisitsa, UFZh, 41, No. 11, 12: 1075 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Р. Кулиш, B. П. Кунец, М. П. Лисица, ФTT, 39, № 10: 1865 (1997).",
+				"tr":  "N. R. Kulish, B. P. Kunets, M. P. Lisitsa, Fizika Tverdogo Tela, 39, No. 10: 1865 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Венгер, А. В. Гончаренко, M. Л. Дмитрук, Оптика малих частинок i дисперсних середовищ (Київ: Наукова думка: 1999).",
+				"tr":  "V. F. Venger, A. V. Goncharenko, M. L. Dmitruk, Optika malikh chastinok i dispersnikh seredovishch (Kiiv: Naukova dumka: 1999)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Покутний, Теория экситонов в квазинульмерных полупроводниковых системах (Одесса: Астропринт: 2003).",
+				"tr":  "S. I. Pokutniy, Teoriya eksitonov v kvazinul'mernykh poluprovodnikovykh sistemakh (Odessa: Astroprint: 2003)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, С. И. Покутний, Спектроскопия электронных и экситонных состояний в низкоразмерных системах (Киев: Академпериодика: 2005).",
+				"tr":  "A. P. Shpak, S. I. Pokutniy, Spektroskopiya elektronnykh i eksitonnykh sostoyaniy v nizkorazmernykh sistemakh (Kiev: Akademperiodika: 2005)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, С. И. Покутний, УФМ, 6, № 2: 105 (2005).",
+				"tr":  "A. P. Shpak, S. I. Pokutniy, Uspehi Fiziki Metallov, 6, No. 2: 105 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "С. І. Покутній, УФЖ. Огляди, 3, № 3: 23 (2006).",
+				"tr":  "S. I. Pokutniy, UFZh. Oglyadi, 3, No. 3: 23 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, С. І. Покутній, Наносистеми, наноматеріали, нанотехнології, 3, № 3: 667 (2005).",
+				"tr":  "A. P. Shpak, S. I. Pokutniy, Nanosistemi, nanomateriali, nanotekhnologii, 3, No. 3: 667 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, С. И. Покутний, В. Н. Уваров, УФМ, 8, № 1: 1 (2007).",
+				"tr":  "A. P. Shpak, S. I. Pokutniy, V. N. Uvarov, Uspehi Fiziki Metallov, 8, No. 1: 1 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "С. І. Покутній, УФЖ, 46, № 7: 701 (2001).",
+				"tr":  "S. I. Pokutniy, UFZh, 46, No. 7: 701 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И.Екимов, П. A. Скворцов, Т. B. Шубина, ЖТФ, 59, № 3: 202 (1989).",
+				"tr":  "A. I.Ekimov, P. A. Skvortsov, T. B. Shubina, ZhTF, 59, No. 3: 202 (1989)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.36.1300",
+				"or":  "K. Bajema and R. Marlin, Phys. Rеv. В, 36: 1300 (1987).",
+				"tr":  "K. Bajema and R. Marlin, Phys. Rev. V, 36: 1300 (1987)."
+			},
+			{
+				"doi": "10.1063/1.1759791",
+				"or":  "С. И. Покутний, ФТП, 34, № 9: 1120 (2000); idem, J. Aррl. Phys., 96, No. 2: 1115 (2004).",
+				"tr":  "S. I. Pokutniy, FTP, 34, No. 9: 1120 (2000); idem, J. Apl. Phys., 96, No. 2: 1115 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.81.4752",
+				"or":  "P. Zanardi and F. Rossi, Phys. Rеv Lett., 81, No. 21: 4752 (1998).",
+				"tr":  "P. Zanardi and F. Rossi, Phys. Rev Lett., 81, No. 21: 4752 (1998)."
+			},
+			{
+				"doi": "10.1103/PhysRevA.57.120",
+				"or":  "D. Loss and D. P. DiVincenzo, Phys. Rev. А, 51, No. 1: 120 (1998).",
+				"tr":  "D. Loss and D. P. DiVincenzo, Phys. Rev. A, 51, No. 1: 120 (1998)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.83.4204",
+				"or":  "А. Imamoglu et al., Phys. Rev. Lett., 83, No. 20: 4204 (1999).",
+				"tr":  "A. Imamoglu et al., Phys. Rev. Lett., 83, No. 20: 4204 (1999)."
+			},
+			{
+				"doi": "10.1038/35005001",
+				"or":  "С. Н. Bennett and D. P. DiVincenzo, Nature, 404: 247 (2000).",
+				"tr":  "S. N. Bennett and D. P. DiVincenzo, Nature, 404: 247 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Зайцев, Н. Ю. Гордеев, В. М. Устинов и др., ФТП, 31, № 5: 539 (1997).",
+				"tr":  "S. V. Zaytsev, N. Yu. Gordeev, V. M. Ustinov et al., FTP, 31, No. 5: 539 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Я. Грабовскис, Я. Я. Дзенис, А. И. Екимов, ФТТ, 31, № 1: 272 (1989).",
+				"tr":  "V. Ya. Grabovskis, Ya. Ya. Dzenis, A. I. Ekimov, Fizika Tverdogo Tela, 31, No. 1: 272 (1989)."
+			},
+			{
+				"doi": "10.1016/j.physleta.2005.04.070",
+				"or":  "S. I. Pokutnyi, Phys. Lett. А, 342: 347 (2005).",
+				"tr":  "S. I. Pokutnyi, Phys. Lett. A, 342: 347 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "N. H. March and М. Parrinello, Collective Effects in Solids and Liquids (Bristol: Adam Hilger Ltd: 1999).",
+				"tr":  "N. H. March and M. Parrinello, Collective Effects in Solids and Liquids (Bristol: Adam Hilger Ltd: 1999)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Володин, М. С. Хайкин, В. С. Эдельман, Письма в ЖЭТФ, 26: 707 (1977).",
+				"tr":  "A. P. Volodin, M. S. Khaykin, V. S. Edel'man, Pis'ma v ZhETF, 26: 707 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Шикин, Письма в ЖЭТФ, 27: 44 (1978).",
+				"tr":  "V. B. Shikin, Pis'ma v ZhETF, 27: 44 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Нищенко, С. П. Лихторович, Наносистеми, наноматеріали, нанотехнології, 1, № 1: 193 (2003).",
+				"tr":  "M. M. Nishchenko, S. P. Likhtorovich, Nanosistemi, nanomateriali, nanotekhnologii, 1, No. 1: 193 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Е. Shaefer, Mechanical Properties and Deformation Behavior of Materials Having Ultrafine Microstructure (Ed. М. А. Nastasi) (Dordrecht, Netherlands: Kluwer Academic Press: 1993).",
+				"tr":  "N. E. Shaefer, Mechanical Properties and Deformation Behavior of Materials Having Ultrafine Microstructure (Ed. M. A. Nastasi) (Dordrecht, Netherlands: Kluwer Academic Press: 1993)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.15-18.955",
+				"or":  "Н. E. Shaefer, Mater. Sci. Forum, 15–18: 955 (1987).",
+				"tr":  "N. E. Shaefer, Mater. Sci. Forum, 15–18: 955 (1987)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.38.9545",
+				"or":  "Н. Е. Shaefer, Phys. Rev. В, 38, No. 14: 9545 (1988).",
+				"tr":  "N. E. Shaefer, Phys. Rev. V, 38, No. 14: 9545 (1988)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00197-2",
+				"or":  "Н. Е. Shaefer, Nanostruct. Mater., 6, No. 18: 869 (1995).",
+				"tr":  "N. E. Shaefer, Nanostruct. Mater., 6, No. 18: 869 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Ефремов, С. И. Покутний, ФТТ, 27, № 1: 48 (1985); idem, Sov. Phys. Solid State, 27, No. 1: 27 (1985).",
+				"tr":  "N. A. Efremov, S. I. Pokutniy, Fizika Tverdogo Tela, 27, No. 1: 48 (1985); idem, Sov. Phys. Solid State, 27, No. 1: 27 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Ефремов, С. И. Покутний, ФТТ, 32, № 10: 2921 (1990); idem, Sov. Phys. Solid State, 32, No. 10: 1697 (1990).",
+				"tr":  "N. A. Efremov, S. I. Pokutniy, Fizika Tverdogo Tela, 32, No. 10: 2921 (1990); idem, Sov. Phys. Solid State, 32, No. 10: 1697 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Ефремов, С. И. Покутний, ФТТ, 33, № 10: 2845 (1991); idem, Sov. Phys. Solid State, 33, No. 10: 1607 (1991).",
+				"tr":  "N. A. Efremov, S. I. Pokutniy, Fizika Tverdogo Tela, 33, No. 10: 2845 (1991); idem, Sov. Phys. Solid State, 33, No. 10: 1607 (1991)."
+			},
+			{
+				"doi": "10.1002/pssb.2221650108",
+				"or":  "S. I. Pokutnyi, Phys. Stat. Sol. (b), 165, No. 1: 109 (1991).",
+				"tr":  "S. I. Pokutnyi, Phys. Stat. Sol. (b), 165, No. 1: 109 (1991)."
+			},
+			{
+				"doi": "10.1002/pssb.2221720208",
+				"or":  "S. I. Pokutnyi, Phys. Stat. Sol. (b), 172, No. 2: 573 (1992).",
+				"tr":  "S. I. Pokutnyi, Phys. Stat. Sol. (b), 172, No. 2: 573 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Покутний, ФТТ, 35, № 2: 257 (1993); idem, Phys. Solid State, 35, No. 2: 129 (1993).",
+				"tr":  "S. I. Pokutniy, Fizika Tverdogo Tela, 35, No. 2: 257 (1993); idem, Phys. Solid State, 35, No. 2: 129 (1993)."
+			},
+			{
+				"doi": "10.1134/1.1187305",
+				"or":  "С. И. Покутний, ФТП, 31, № 12: 1443 (1997); idem, Semiconductors, 31, No. 12: 1247 (1997).",
+				"tr":  "S. I. Pokutniy, FTP, 31, No. 12: 1443 (1997); idem, Semiconductors, 31, No. 12: 1247 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Pokutnyi, Phys. Low Dim. Struct., 7/8: 39 (2002).",
+				"tr":  "S. I. Pokutnyi, Phys. Low Dim. Struct., 7/8: 39 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Pokutnyi, Phys. Semicond., Quantum Electr., Optoelectron., 7, No. 9: 838 (2004).",
+				"tr":  "S. I. Pokutnyi, Phys. Semicond., Quantum Electr., Optoelectron., 7, No. 9: 838 (2004)."
+			},
+			{
+				"doi": "10.1134/1.1129943",
+				"or":  "С. И. Покутний, ФТТ, 39, № 4: 720 (1997); idem, Phys. Solid State, 39, No. 4: 634 (1997).",
+				"tr":  "S. I. Pokutniy, Fizika Tverdogo Tela, 39, No. 4: 720 (1997); idem, Phys. Solid State, 39, No. 4: 634 (1997)."
+			},
+			{
+				"doi": "10.1134/1.1129923",
+				"or":  "С. И. Покутний, ФТТ, 39, № 4: 606 (1997); idem, Phys. Solid State, 39, No. 4: 528 (1997).",
+				"tr":  "S. I. Pokutniy, Fizika Tverdogo Tela, 39, No. 4: 606 (1997); idem, Phys. Solid State, 39, No. 4: 528 (1997)."
+			},
+			{
+				"doi": "10.1134/S1063782606020199",
+				"or":  "С. И. Покутний, ФТП, 40, № 2: 223 (2006); idem, Semiconductors, 40, No. 2: 217 (2006).",
+				"tr":  "S. I. Pokutniy, FTP, 40, No. 2: 223 (2006); idem, Semiconductors, 40, No. 2: 217 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Pokutnyi, Ukr. J. Phys, 51, № 5: 506 (2006).",
+				"tr":  "S. I. Pokutnyi, Ukr. J. Phys, 51, No. 5: 506 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, С. И. Покутний, Ю. А. Куницкий, Металлофиз. новейшие технол., 29, № 2: 225 (2007).",
+				"tr":  "A. P. Shpak, S. I. Pokutniy, Yu. A. Kunitskiy, Metallofiz. Noveishie Tekhnol., 29, No. 2: 225 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Электродинамика сплошных сред (Москва: Наука: 1982).",
+				"tr":  "L. D. Landau, E. M. Lifshits, Elektrodinamika sploshnykh sred (Moskva: Nauka: 1982)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Гайтлер, Квантовая теория излучения (Москва: Наука: 1956).",
+				"tr":  "V. Gaytler, Kvantovaya teoriya izlucheniya (Moskva: Nauka: 1956)."
+			},
+			{
+				"doi": "10.1007/978-3-662-02406-5",
+				"or":  "В. М. Агранович, В. Л. Гинзбург, Кристаллооптика с учетом пространственной дисперсии и теория экситонов (Москва: Наука: 1979); idem, Crystal Optics with Spatial Dispersion and Excitons (Springer: New York: 1984).",
+				"tr":  "V. M. Agranovich, V. L. Ginzburg, Kristallooptika s uchetom prostranstvennoy dispersii i teoriya eksitonov (Moskva: Nauka: 1979); idem, Crystal Optics with Spatial Dispersion and Excitons (Springer: New York: 1984)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Уханов, Оптические свойства полупроводников (Москва: Наука: 1977).",
+				"tr":  "Yu. I. Ukhanov, Opticheskie svoystva poluprovodnikov (Moskva: Nauka: 1977)."
+			},
+			{
+				"doi": "",
+				"or":  "А. С. Давыдов, Квантовая механика (Москва: Наука: 1973).",
+				"tr":  "A. S. Davydov, Kvantovaya mekhanika (Moskva: Nauka: 1973)."
+			}
+		]
+	}
+}

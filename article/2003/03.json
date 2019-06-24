@@ -1,0 +1,21 @@
+{
+	"year":   2003,
+	"volume": 4,
+	"issue":  3,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [123,233],
+			"title": {
+				"ua": "Спонтанне фрагментування металів в області фазових перетворень",
+				"en": "Spontaneous Fragmentation of Metals in Range of Phase Transformations",
+				"ru": "Спонтанное фрагментирование металлов в области фазовых превращений"
+			},
+			"autors": {
+				"ua": "В. П. Майборода, А. П. Шпак, Ю. А. Куницький",
+				"en": "V. P. Majboroda, A. P. Shpak, and Yu. A. Kunitskiy",
+				"ru": "В. П. Майборода, А. П. Шпак, Ю. А. Куницкий"
+			}
+		}
+	]
+}

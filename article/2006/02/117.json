@@ -1,0 +1,197 @@
+{
+	"_id":    "UFM.07.02.117",
+	"year":   2006,
+	"volume": 7,
+	"issue":  2,
+	"pages":  [117,134],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["05.01.2006"],
+	"PACS":   "72.15.Lh, 73.20.Mf, 73.50.Mx, 73.50.Gr, 79.20.Hx, 79.20.Uv, 82.80.Pv",
+	"title":   {
+		"ua": "Довжина вільного пробігу повільних електронів у твердому тілі залежно від їх енергії",
+		"en": "Length of Free Path of Slow Electrons in a Solid Depending on Their Energy",
+		"ru": "Длина свободного пробега медленных электронов в твердом теле в зависимости от их энергии"
+	},
+	"abstract": {
+		"ua": "В роботі зроблено огляд основних способів розрахунку довжини вільного пробігу електронів (ДВПЕ) $\\lambda$ при непружньому розсіянні в залежности від їхньої енергії $E_{0}$. Розглянуто механізми, які впливають на характер формування функції $\\lambda$ від $E_{0}$, при електрон-електронному розсіянні в наближенні моделю вільного електронного газу. В рамках цього моделю розраховано ДВПЕ $\\lambda$ для чистих Pt, Co і стопу Pt$_{80}$Co$_{20}$ в широкому діяпазоні енергій $E_{0}$ = 10—1600 еВ. Одержані результати порівняно з експериментальними даними щодо ДВПЕ $\\lambda$ для $3d$-металів Fe$\\rightarrow$Cu і $5d$-металів Pt, Au. Установлено, що велика розбіжність експериментальної залежности ДВПЕ $\\lambda_{exp}$ і напівемпіричних розрахунків спостерігається у низькоенергетичній области $E_{0}$. Показано, що правильним визначенням залежности $\\lambda$ від $E_{0}$ є апроксимація експериментальних даних виразом $\\lambda = A / E_{0}^{2} + BE_{0}^{1/2}$ ($A$, $B$ – підганяльні параметри), якщо такі є.",
+		"en": "The main methods of calculation of the inelastic mean free path (IMFP), $\\lambda$, of inelastically-scattered electrons versus their energy $E_{0}$ are reviewed. Mechanisms, which influence on the character of $\\lambda($E_{0}$)$-dependence of IMFP, are considered for electron—electron scattering within the framework of the free electron-gas model approximation. Within the framework of the examined model, the IMFPs, $\\lambda$, is calculated for pure Pt, Co and a Pt$_{80}$Co$_{20}$ alloy in a wide range of energies – $Е_0 = 10 − 1600$ eV. The obtained results are compared with experimental data on IMFPs, $\\lambda$, for $3d$-metals (Fe $\\rightarrow$ Cu) and $5d$-metals (Pt, Au). As revealed, the high divergence of experimental dependence and semi-empirical calculations for IMFP, $\\lambda_{exp}$, is in the low-energy range of $Е_0$. As shown, a most correct definition of IMFP, $\\lambda(Е_0)$, may be obtained by approximation of experimental data, if any, by $\\lambda = A / E_{0}^{2} + BE_{0}^{1/2}$ relation (where $A$, $B$ are fitting parameters).",
+		"ru": "В работе сделан обзор основных способов расчета длины сводного пробега электронов (ДСПЭ) $\\lambda$ при неупругом рассеянии в зависимости от их энергии $E_{0}$. Рассмотрены механизмы, влияющие на характер формирования функции $\\lambda$ от $E_{0}$, при электрон-электронном рассеянии в приближении модели свободного электронного газа. В рамках рассматриваемой модели было рассчитано ДСПЭ $\\lambda$ для чистых Pt, Co и сплава Pt$_{80}$Co$_{20}$ в широком диапазоне энергий $Е_0$ = 10—1600 эВ. Полученные результаты сопоставлены с экспериментальными данными ДСПЭ $\\lambda$ для $3d$-металлов Fe$\\rightarrow$Cu и $5d$-металлов Pt, Au. Установлено, что сильное расхождение экспериментальной зависимости ДСПЭ $\\lambda_{exp}$ и полуэмпирических расчетов наблюдается в низкоэнергетической области $E_{0}$. Показано, что наиболее правильным определением зависимости $\\lambda$ от $E_{0}$ будет аппроксимация экспериментальных данных выражением $\\lambda = A / E_{0}^{2} + BE_{0}^{1/2}$ ($A$, $B$ – подгоночные параметры), если таковые имеются."
+	},
+	"keywords": {
+		"ua": "довжина вільного пробігу електронів, довжина затухання, електрон-электронне розсіяння, модель вільного електронного газу, міжзонні переходи, плазмони, діелектрична функція відгуку",
+		"en": "electron free length path, damping length, electron—electron scattering, free electron-gas model, interzone transitions, plasmons, dielectric response function",
+		"ru": "длина свободного пробега электронов, длина затухания, электрон-электронное рассеяние, модель свободного электронного газа, межзонные переходы, плазмоны, диэлектрическая функция отклика"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. О. Тіньков", "en": "V. O. Tin’kov", "ru": "В. А. Тиньков"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 32,
+				"list":  [
+			{
+				"doi": "",
+				"or":  "M. O. Vasylyev and S. I. Sidorenko, Diffusion and Surface Segregation (Kyiv: Ministry Education of Ukraine: 1998).",
+				"tr":  "M. O. Vasylyev and S. I. Sidorenko, Diffusion and Surface Segregation (Kyiv: Ministry Education of Ukraine: 1998)."
+			},
+			{
+				"doi": "10.1016/0039-6028(90)90069-K",
+				"or":  "P. Beccat, Y. Gauthier, R. Baudoing-Savois, and J. C. Bertolini, Surf. Sci., 238: 105 (1990).",
+				"tr":  "P. Beccat, Y. Gauthier, R. Baudoing-Savois, and J. C. Bertolini, Surf. Sci., 238: 105 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Vasiliev, J. Phys. D: Appl. Phys., 30: 3037 (1997).",
+				"tr":  "M. A. Vasiliev, J. Phys. D: Appl. Phys., 30: 3037 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "Surface Analysis Methods in Materials Science (Eds. D. J. O’Connor, B. A. Sexton, and R. St. C. Smart) (2nd ed.) (Berlin: Springer: 2003).",
+				"tr":  "Surface Analysis Methods in Materials Science (Eds. D. J. O'Connor, B. A. Sexton, and R. St. C. Smart) (2nd ed.) (Berlin: Springer: 2003)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Т. Черепин, М. А. Васильев, Методы и приборы для анализа поверхности материалов: Справочник (Киев: Наукова думка: 1982).",
+				"tr":  "V. T. Cherepin, M. A. Vasil'ev, Metody i pribory dlya analiza poverkhnosti materialov: Spravochnik (Kiev: Naukova dumka: 1982)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Ф. Коваль, В. Н. Лысенко, П. В. Мельник, Н. Г. Находкин, Атлас ионизационных спектров (Киев: Вища школа: 1989).",
+				"tr":  "I. F. Koval', V. N. Lysenko, P. V. Mel'nik, N. G. Nakhodkin, Atlas ionizatsionnykh spektrov (Kiev: Vishcha shkola: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "Применение электронной спектроскопии для анализа поверхностей (Ред. Х. Ибах) (Рига: Зинатне: 1980).",
+				"tr":  "Primenenie elektronnoy spektroskopii dlya analiza poverkhnostey (Red. Kh. Ibakh) (Riga: Zinatne: 1980)."
+			},
+			{
+				"doi": "",
+				"or":  "M. P. Seah, Practical Surface Analysis by Auger and X-Ray Photoelectron Spectroscopy (Eds. D. Briggs and M. P. Seah) (Chichester: Wiley: 1990), p. 201.",
+				"tr":  "M. P. Seah, Practical Surface Analysis by Auger and X-Ray Photoelectron Spectroscopy (Eds. D. Briggs and M. P. Seah) (Chichester: Wiley: 1990), p. 201."
+			},
+			{
+				"doi": "",
+				"or":  "C. J. Powell, J. Electron Spectrosc. Relat. Phenom., 47: 197 (1988).",
+				"tr":  "C. J. Powell, J. Electron Spectrosc. Relat. Phenom., 47: 197 (1988)."
+			},
+			{
+				"doi": "10.1016/S0167-5729(02)00031-6",
+				"or":  "A. Jablonski and J. C. Powell, Surf. Sci. Reports, 47: 33 (2002).",
+				"tr":  "A. Jablonski and J. C. Powell, Surf. Sci. Reports, 47: 33 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "M. P. Seah and W. A. Dench, Surf. Interface Anal., 1, No. 1: 2 (1979).",
+				"tr":  "M. P. Seah and W. A. Dench, Surf. Interface Anal., 1, No. 1: 2 (1979)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.35.482",
+				"or":  "D. Penn, Phys. Rev., 35, No. 2: 482 (1987).",
+				"tr":  "D. Penn, Phys. Rev., 35, No. 2: 482 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Lesiak, A. Jablonski, J. Zemek, P. Lejcek et al., Surf. Interface Anal., 30: 217 (2000).",
+				"tr":  "B. Lesiak, A. Jablonski, J. Zemek, P. Lejcek et al., Surf. Interface Anal., 30: 217 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "C. J. Powell and A. Jablonski, J. Phys. Chem. Ref. Data, 28, No. 1: 19 (1987).",
+				"tr":  "C. J. Powell and A. Jablonski, J. Phys. Chem. Ref. Data, 28, No. 1: 19 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. П. Ершова, В. В. Кораблев, Ю. А. Морозов, ФТТ, 22, № 7: 2199 (1980).",
+				"tr":  "T. P. Ershova, V. V. Korablev, Yu. A. Morozov, FTT, 22, № 7: 2199 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Пайнс, Элементарные возбуждения в твердых телах (Москва: Мир: 1965).",
+				"tr":  "D. Payns, Elementarnye vozbuzhdeniya v tverdykh telakh (Moskva: Mir: 1965)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, А. Г. Блащук, В. А. Тиньков, Металлофиз. новейшие технол., 25, № 12: 1617 (2003).",
+				"tr":  "M. A. Vasil'ev, A. G. Blashchuk, V. A. Tin'kov, Metallofiz. noveyshie tekhnol., 25, No. 12: 1617 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Vasylyev, S. P. Chenakin, and V. A. Tinkov, Vacuum, 78: 19 (2005).",
+				"tr":  "M. A. Vasylyev, S. P. Chenakin, and V. A. Tinkov, Vacuum, 78: 19 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Vasylyev, V. A. Tinkov, A. G. Blaschuk, J. Luyten, and C. Creemers, Appl. Surf. Sci.: (2006) (to be published).",
+				"tr":  "M. A. Vasylyev, V. A. Tinkov, A. G. Blaschuk, J. Luyten, and C. Creemers, Appl. Surf. Sci.: (2006) (to be published)."
+			},
+			{
+				"doi": "10.1002/(SICI)1096-9918(199706)25:6<430::AID-SIA254>3.0.CO;2-7",
+				"or":  "P. J. Cumpson and M. P. Seah, Surf. Interface Anal., 25: 4308 (1997).",
+				"tr":  "P. J. Cumpson and M. P. Seah, Surf. Interface Anal., 25: 430 (1997)."
+			},
+			{
+				"doi": "10.1002/(SICI)1096-9918(199706)25:6<447::AID-SIA272>3.0.CO;2-Q",
+				"or":  "P. J. Cumpson, Surf. Interface Anal., 25: 447 (1997).",
+				"tr":  "P. J. Cumpson, Surf. Interface Anal., 25: 447 (1997)."
+			},
+			{
+				"doi": "10.1002/(SICI)1096-9918(199601)24:1<38::AID-SIA84>3.0.CO;2-H",
+				"or":  "W. H. Gries, Surf. Interface Anal., 24: 38 (1996).",
+				"tr":  "W. H. Gries, Surf. Interface Anal., 24: 38 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Bethe, Ann. der Physik, 5: 325 (1930).",
+				"tr":  "H. Bethe, Ann. der Physik, 5: 325 (1930)."
+			},
+			{
+				"doi": "",
+				"or":  "D. R. Penn, J. Electron Spectrosc. Relat. Phenom., 9: 29 (1976).",
+				"tr":  "D. R. Penn, J. Electron Spectrosc. Relat. Phenom., 9: 29 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Tanuma, C. J. Powell, and D. R. Penn, Surf. Interface Anal., 11: 577 (1988).",
+				"tr":  "S. Tanuma, C. J. Powell, and D. R. Penn, Surf. Interface Anal., 11: 577 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Tanuma, C. J. Powell, and D. R. Penn, Surf. Interface Anal., 25: 25 (1997).",
+				"tr":  "S. Tanuma, C. J. Powell, and D. R. Penn, Surf. Interface Anal., 25: 25 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Tanuma, C. J. Powell, and D. R. Penn, Surf. Interface Anal., 35: 268 (2003).",
+				"tr":  "S. Tanuma, C. J. Powell, and D. R. Penn, Surf. Interface Anal., 35: 268 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "W. B. Pearson, A Handbook of Lattice Spacings and Structure of Metals and Alloys (New York: Pergamon: 1958).",
+				"tr":  "W. B. Pearson, A Handbook of Lattice Spacings and Structure of Metals and Alloys (New York: Pergamon: 1958)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, М. А. Васильев, В. А. Тиньков, Металлофиз. новейшие технол., 26, № 6: 765 (2004).",
+				"tr":  "A. P. Shpak, M. A. Vasil'ev, V. A. Tin'kov, Metallofiz. Noveishie Tekhnol., 26, No. 6: 765 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, В. А. Тиньков, С. В. Червонный, Успехи физ. мет., 7, № 1: 41 (2006).",
+				"tr":  "M. A. Vasil'ev, V. A. Tin'kov, S. V. Chervonnyy, Uspehi Fiz. Met., 7, No. 1: 41 (2006)."
+			},
+			{
+				"doi": "10.1016/j.susc.2005.08.008",
+				"or":  "A. Jablonski, B. Lesiak, J. Zemek, and P. Jiricek, Surf. Sci., 595: 1 (2005).",
+				"tr":  "A. Jablonski, B. Lesiak, J. Zemek, and P. Jiricek, Surf. Sci., 595: 1 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Блащук, М. А. Васильев, В. А. Тиньков, Металлофиз. новейшие технол., 25, № 3: 363 (2003).",
+				"tr":  "A. G. Blashchuk, M. A. Vasil'ev, V. A. Tin'kov, Metallofiz. Noveishie Tekhnol., 25, No. 3: 363 (2003)."
+			}
+		]
+	}
+}

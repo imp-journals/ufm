@@ -1,0 +1,49 @@
+{
+	"year":   2013,
+	"volume": 14,
+	"issue":  3,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [229,257],
+			"title": {
+				"ua": "Магнеторезистивні та магнетооптичні властивості плівкових систем із можливим спін-залежним розсіянням електронів",
+				"en": "Magnetoresistive and Magnetooptical Properties of the Film Systems with Possible Spin-Dependent Electron Scattering",
+				"ru": "Магниторезистивные и магнитооптические свойства плёночных систем с возможным спин-зависимым рассеянием электронов"
+			},
+			"autors": {
+				"ua": "І. Ю. Проценко, І. В. Чешко, Л. В. Однодворець, Д. М. Кондрахова, О. В. Пилипенко, Ю. М. Шабельник, О. В. Власенко",
+				"en": "I. Yu. Protsenko, I. V. Cheshko, L. V. Odnodvorets’, D. M. Kondrakhova, O. V. Pylypenko, Yu. M. Shabel’nyk, and O. V. Vlasenko",
+				"ru": "И. Е. Проценко, И. В. Чешко, Л. В. Однодворец, Д. Н. Кондрахова, А. В. Пилипенко, Ю. М. Шабельник, А. В. Власенко"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [259,273],
+			"title": {
+				"ua": "Сучасні проблеми механічної спектроскопії",
+				"en": "Current Problems of Mechanical Spectroscopy",
+				"ru": "Современные проблемы механической спектроскопии"
+			},
+			"autors": {
+				"ua": "С. О. Головін, П. П. Паль-Валь, О. В. Мозговий",
+				"en": "S. A. Golovin, P. P. Pal-Val, O. V. Mozgovyy",
+				"ru": "С. А. Головин, П. П. Паль-Валь, А. В. Мозговой"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [275,318],
+			"title": {
+				"ua": "Самоорганізація кристалів при пластичній деформації",
+				"en": "Self-Organization of Crystals During the Plastic Deformation",
+				"ru": "Самоорганизация кристаллов при пластической деформации"
+			},
+			"autors": {
+				"ua": "О. Е. Засимчук, В. І. Засимчук, Т. В. Турчак",
+				"en": "O. Eh. Zasymchuk, V. I. Zasymchuk, and T. V. Turchak",
+				"ru": "Е. Э. Засимчук, В. И. Засимчук, Т. В. Турчак"
+			}
+		}
+	]
+}

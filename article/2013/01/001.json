@@ -1,0 +1,291 @@
+{
+	"_id":    "UFM.14.01.001",
+	"year":   2013,
+	"volume": 14,
+	"issue":  1,
+	"pages":  [1,32],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["27.09.2012"],
+	"PACS":   "72.25.-b, 75.25.-j, 75.70.Ak, 75.75.-c, 81.40.Rs, 81.40.Wx, 85.75.Mm",
+	"title":   {
+		"ua": "Зміна магнетних характеристик магнетних нано­плівок та керування спіновим струмом за допомогою лазерного випромінення",
+		"en": "Change of Magnetic Characteristics of Magnetic Nanofilms and Control of a Spin Current by means of a Laser Radiation",
+		"ru": "Изменение магнитных характеристик магнитных нанопленок и управление спиновым током с помощью лазерного излучения"
+	},
+	"abstract": {
+		"ua": "Для роботи високочастотних елементів спінтроніки потрібні високошвидкісні системи керування намагнетованістю матеріялів у локальній мікрообласті. Вирішувати цю задачу за допомогою звичайних магнетних систем вкрай важко. Перспективним є використання коротких лазерних імпульсів для управління спіновим струмом у багатошарових магнетних плівках. Лазерне випромінення уможливлює збуджувати струм вздовж лазерного променя й одержувати сильне магнетне поле за рахунок оберненого Фарадейового ефекту. У даній статті описано деякі особливості ефекту перетягування електронів і розглянуто механізми перемагнетування магнетних наноплівок під дією лазерного випромінення; також наведено результати дослідження впливу нано- й пікосекундних лазерних імпульсів на магнетні характеристики плівок NiFe та провідність тунельних контактів Tb$_{19}$Co$_{5}$Fe$_{76}$/Pr$_{6}$O$_{11}$/Tb$_{22}$Co$_{5}$Fe$_{73}$ і Co$_{80}$Fe$_{20}$/Pr$_{6}$O$_{11}$/Co$_{30}$Fe$_{70}$. Показано, що за допомогою ультракоротких лазерних імпульсів можливо змінювати структуру та магнетні характеристики тонких плівок, досліджувати динаміку їх перемагнетування та керувати спіновим струмом у високошвидкісних пристроях спінтроніки.",
+		"en": "For the high-frequency components of spintronics, the high-speed systems to control magnetization of materials in the local microregions are required. Solving this problem, using conventional magnetic systems, is extremely difficult. Short laser pulses are promising to control the spin current in multilayer magnetic films. Laser radiation makes possible to excite the current along the laser beam and obtain a strong magnetic field due to the inverse Faraday effect. A given article describes some features of electron–photon drag effect and concerns the mechanisms of remagnetization of magnetic nanofilms under the laser irradiation. The results of studies of the effect of nanosecond and picosecond laser pulses on the magnetic properties of NiFe films as well as conductivity of the Tb$_{19}$Co$_{5}$Fe$_{76}$/Pr$_{6}$O$_{11}$/Tb$_{22}$Co$_{5}$Fe$_{73}$ and Co$_{80}$Fe$_{20}$/Pr$_{6}$O$_{11}$/Co$_{30}$Fe$_{70}$ tunnel junctions are presented. As shown, using the ultra-short laser pulses, one can change the structure and magnetic properties of thin films, study dynamics of their remagnetization, and control spin current in the high-speed devices of spintronics.",
+		"ru": "Для работы высокочастотных элементов спинтроники необходимы высокоскоростные системы управления намагниченностью материалов в локальной микрообласти. Решать эту задачу с помощью обычных магнитных систем крайне тяжело. Перспективным является использование коротких лазерных импульсов для управления спиновым током в многослойных магнитных плёнках. Лазерное излучение позволяет возбуждать ток вдоль лазерного луча и получать сильное магнитное поле за счёт обратного эффекта Фарадея. В данной статье описаны некоторые особенности эффекта увлечения электронов и рассмотрены механизмы перемагничивания магнитных наноплёнок под действием лазерного излучения; также приведены результаты исследований влияния нано- и пикосекундных лазерных импульсов на магнитные характеристики плёнок NiFe и проводимость туннельных контактов Tb$_{19}$Co$_{5}$Fe$_{76}$/Pr$_{6}$O$_{11}$/Tb$_{22}$Co$_{5}$Fe$_{73}$ и Co$_{80}$Fe$_{20}$/Pr$_{6}$O$_{11}$/Co$_{30}$Fe$_{70}$. Показано, что с помощью ультракоротких лазерных импульсов можно изменять структуру и магнитные характеристики тонких плёнок, изучить динамику их перемагничивания и управлять спиновым током в высокоскоростных устройствах спинтроники."
+	},
+	"keywords": {
+		"ua": "лазерне випромінення, ефект захвату фотонів, багатошарові магнетні наноплівки, спіновий струм, спінтроніка",
+		"en": "laser radiation, photon drag effect, multi-layered magnetic nanofilms, spin current, spintronic",
+		"ru": "лазерное излучение, эффект увлечения фотонов, многослойные магнитные наноплёнки, спиновый ток, спинтроника"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. М. Крупа", "en": "M. M. Krupa", "ru": "Н. Н. Крупа"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "І. В. Шарай", "en": "I. V. Sharai", "ru": "И. В. Шарай"},
+			"OID": [7]
+		}
+	],
+	"references": {
+		"count": 50,
+		"list":  [
+			{
+				"doi": "10.1126/science.281.5379.951",
+				"or":  "H. Ohno, Science, 281: 951 (1998).",
+				"tr":  "H. Ohno, Science, 281: 951 (1998)."
+			},
+			{
+				"doi": "10.1016/j.crhy.2005.10.008",
+				"or":  "J. Cibert, J. Bobo, and U. Lüders, Comptes Rendus Physique, 6: 977 (2005).",
+				"tr":  "J. Cibert, J. Bobo, and U. Lüders, Comptes Rendus Physique, 6: 977 (2005)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.80.315",
+				"or":  "M. I. Katsnelson, V. Yu. Irkhin, L. Chionsel, A. I. Lichtenstein, and R. A. de Groot, Rev. Mod. Phys., 80, Iss. 2: 315 (2008).",
+				"tr":  "M. I. Katsnelson, V. Yu. Irkhin, L. Chionsel, A. I. Lichtenstein, and R. A. de Groot, Rev. Mod. Phys., 80, Iss. 2: 315 (2008)."
+			},
+			{
+				"doi": "10.1038/asiamat.2010.7",
+				"or":  "Xiao-Lin Wang, Shi Xue Dou, and Chao Zhang, NPG Asia Mater., 2: 31 (2010).",
+				"tr":  "Xiao-Lin Wang, Shi Xue Dou, and Chao Zhang, NPG Asia Mater., 2: 31 (2010)."
+			},
+			{
+				"doi": "10.1016/0304-8853(96)00062-5",
+				"or":  "J. C. Slonczewski, J. Magn. Magn. Mater., 159: 1191 (1996).",
+				"tr":  "J. C. Slonczewski, J. Magn. Magn. Mater., 159: 1191 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.84.3149",
+				"or":  "J. Katine, F. Albert, R. Buhrman et al., Phys. Rev. Lett., 84: 3149 (2000).",
+				"tr":  "J. Katine, F. Albert, R. Buhrman et al., Phys. Rev. Lett., 84: 3149 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Данишевский и др., ЖЭТФ, 58: 544 (1970).",
+				"tr":  "A. M. Danishevskiy et al., ZhETF, 58: 544 (1970)."
+			},
+			{
+				"doi": "10.1063/1.1653315",
+				"or":  "A. F. Gibson, M. F. Kimmitt, and A. C. Walker, Appl. Phys. Lett., 17: 75 (1970).",
+				"tr":  "A. F. Gibson, M. F. Kimmitt, and A. C. Walker, Appl. Phys. Lett., 17: 75 (1970)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.61.10471",
+				"or":  "J. E. Goff and W. L. Schaich, Phys. Rev. B, 61, No. 15: 10471 (2000).",
+				"tr":  "J. E. Goff and W. L. Schaich, Phys. Rev. B, 61, No. 15: 10471 (2000)."
+			},
+			{
+				"doi": "10.1007/s00339-005-3211-7",
+				"or":  "W. Kautek, P. Rudolph, G. Daminelli, and J. Krüger, Appl. Phys. A, 81, No. 1: 65 (2005).",
+				"tr":  "W. Kautek, P. Rudolph, G. Daminelli, and J. Krüger, Appl. Phys. A, 81, No. 1: 65 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "A. E. Pogorelov and V. M. Avdeev, Металлофиз. новейшие технол., 19: 567 (2001).",
+				"tr":  "A. E. Pogorelov and V. M. Avdeev, Metallofiz. Noveishie Tekhnol., 19: 567 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ф. Журавлев, А. Е. Погорелов, К. П. Рябошапка, Металлофиз. новейшие технол., 23: 36 (2001).",
+				"tr":  "A. F. Zhuravlev, A. E. Pogorelov, K. P. Ryaboshapka, Metallofiz. Noveishie Tekhnol., 23: 36 (2001)."
+			},
+			{
+				"doi": "10.1007/s00339-005-3211-7",
+				"or":  "W. Kautek et al., J Appl. Phys. A, 81: 65 (2005).",
+				"tr":  "W. Kautek et al., J Appl. Phys. A, 81: 65 (2005)."
+			},
+			{
+				"doi": "10.1016/j.optlastec.2004.02.003",
+				"or":  "M. Oane, I. Morjan, and R. Medianu, Optics Laser Technol., 36: 677 (2004).",
+				"tr":  "M. Oane, I. Morjan, and R. Medianu, Optics Laser Technol., 36: 677 (2004)."
+			},
+			{
+				"doi": "10.1016/j.optlastec.2004.12.002",
+				"or":  "B. B. Xua, Z. Shenb, X. Nib, J. Wanga, J. Guanb, and J. Lub, Optics Laser Technol., 38: 138 (2006).",
+				"tr":  "B. B. Xua, Z. Shenb, X. Nib, J. Wanga, J. Guanb, and J. Lub, Optics Laser Technol., 38: 138 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. А. Аскарьян, M. C. Рабинович, A. Д. Смирнова, В. Б. Студентов, Письма в ЖЭТФ, 5: 116 (1967).",
+				"tr":  "G. A. Askar'yan, M. C. Rabinovich, A. D. Smirnova, V. B. Studentov, Pis'ma v ZhETF, 5: 116 (1967)."
+			},
+			{
+				"doi": "10.1142/S021797920703840X",
+				"or":  "M. M. Krupa and A. M. Korostil, Int. J. Mod. Phys. B, 21: 2339 (2007).",
+				"tr":  "M. M. Krupa and A. M. Korostil, Int. J. Mod. Phys. B, 21: 2339 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Крупа, ЖЭТФ, 135: 981 (2009).",
+				"tr":  "N. N. Krupa, ZhETF, 135: 981 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. П. Питаевский, ЖЭТФ, 12: 190 (1965).",
+				"tr":  "L. P. Pitaevskiy, ZhETF, 12: 190 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Электродинамика сплошных сред (Москва: Физматлит: 2005).",
+				"tr":  "L. D. Landau, E. M. Lifshits, Elektrodinamika sploshnykh sred (Moskva: Fizmatlit: 2005)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Lebedew, Annalen der Physik, 4, Bd. 6: 433 (1901).",
+				"tr":  "P. Lebedew, Annalen der Physik, 4, Bd. 6: 433 (1901)."
+			},
+			{
+				"doi": "10.1103/PhysRevSeriesI.17.26",
+				"or":  "E. F. Nuchols and G. F. Hull, Phys. Rev. (Series I), 17, No 1: 26 (1903).",
+				"tr":  "E. F. Nuchols and G. F. Hull, Phys. Rev. (Series I), 17, No 1: 26 (1903)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Крупа, А. М. Коростиль, Ю. Б. Скирта, Известия вузов. Радиофизика, XLVIII: 45 (2005).",
+				"tr":  "N. N. Krupa, A. M. Korostil', Yu. B. Skirta, Izvestiya vuzov. Radiofizika, XLVIII: 45 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Матаре, Электроника дефектов в полупроводниках (Москва: Мир: 1974).",
+				"tr":  "G. Matare, Elektronika defektov v poluprovodnikakh (Moskva: Mir: 1974)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Бибик, Н. А. Давыдова, Б. Р. Кияк, Н. Н. Крупа, Л. В. Мизрухин, Физ. твердого тела, 26: 80 (1984).",
+				"tr":  "V. A. Bibik, N. A. Davydova, B. R. Kiyak, N. N. Krupa, L. V. Mizrukhin, Fiz. tverdogo tela, 26: 80 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Крупа, Оптический журнал, 65: 303 (1998).",
+				"tr":  "N. N. Krupa, Opticheskiy zhurnal, 65: 303 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Пляцко, Физика и техника полупроводников, 36: 666 (2002).",
+				"tr":  "S. V. Plyatsko, Fizika i tekhnika poluprovodnikov, 36: 666 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Крупа, ЖЭТФ, 120, № 11: 10 (2001).",
+				"tr":  "N. N. Krupa, ZhETF, 120, No. 11: 10 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Крупа, Ю. Б. Скирта, Известия вузов. Радиофизика, XLІХ: 513 (2006).",
+				"tr":  "N. N. Krupa, Yu. B. Skirta, Izvestiya vuzov. Radiofizika, XLIKh: 513 (2006)."
+			},
+			{
+				"doi": "10.1016/j.cap.2009.06.041",
+				"or":  "M. M. Krupa, A. N. Pogorily, L. L. Sartinska, Yu. V. Skirta, and R. Zaharov, Curr. Appl. Phys., 10: 294 (2010).",
+				"tr":  "M. M. Krupa, A. N. Pogorily, L. L. Sartinska, Yu. V. Skirta, and R. Zaharov, Curr. Appl. Phys., 10: 294 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Merservey and P. M. Tedrov, Phys. Rep., 238, No. 4: 175 (1994).",
+				"tr":  "R. Merservey and P. M. Tedrov, Phys. Rep., 238, No. 4: 175 (1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.84.2481",
+				"or":  "A. Brataas, Yu. V. Nazarov, and G. E. W. Bauer, Phys. Rev. Lett., 84, No. 11: 2481 (2000).",
+				"tr":  "A. Brataas, Yu. V. Nazarov, and G. E. W. Bauer, Phys. Rev. Lett., 84, No. 11: 2481 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Крупа, ЖЭТФ, 132: 782 (2007).",
+				"tr":  "N. N. Krupa, ZhETF, 132: 782 (2007)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(98)00091-2",
+				"or":  "R. Pittini and P. Wachter, J. Magn. Magn. Mater, 186: 306 (1998).",
+				"tr":  "R. Pittini and P. Wachter, J. Magn. Magn. Mater, 186: 306 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Крупа, Металлофиз. новейшие технол., 33, № 1: 1 (2011).",
+				"tr":  "N. N. Krupa, Metallofiz. Noveishie Tekhnol., 33, No. 1: 1 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "M. M. Krupa, Magnetic Thin Films: Properties, Performance and. Application (Eds. J. P. Volkers) (New York: Nova Science Publishers: 2011).",
+				"tr":  "M. M. Krupa, Magnetic Thin Films: Properties, Performance and. Application (Eds. J. P. Volkers) (New York: Nova Science Publishers: 2011)."
+			},
+			{
+				"doi": "10.1063/1.326204",
+				"or":  "H. J. Leamy and A. G. Dirks, J. Appl. Phys., 50: 2871 (1979).",
+				"tr":  "H. J. Leamy and A. G. Dirks, J. Appl. Phys., 50: 2871 (1979)."
+			},
+			{
+				"doi": "10.1109/TMAG.1984.1063319",
+				"or":  "M. Komori, T. Nukata, and K. Tsutsumi, IEEE Trans. Magn., 20: 1042 (1984).",
+				"tr":  "M. Komori, T. Nukata, and K. Tsutsumi, IEEE Trans. Magn., 20: 1042 (1984)."
+			},
+			{
+				"doi": "10.1016/0375-9601(75)90174-7",
+				"or":  "M. Julliere, Phys. Lett., 54A: 225 (1975).",
+				"tr":  "M. Julliere, Phys. Lett., 54A: 225 (1975)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(99)00515-6",
+				"or":  "J. S. Moodera and G. Mathon, J. Magn. Magn. Mater., 200: 248 (1999).",
+				"tr":  "J. S. Moodera and G. Mathon, J. Magn. Magn. Mater., 200: 248 (1999)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.76.323",
+				"or":  "I. Zutic, Rev. Mod. Phys., 76: 323 (2004).",
+				"tr":  "I. Zutic, Rev. Mod. Phys., 76: 323 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Chen, J. Moser, Ph. Kotissek, J. Sadowski, M. Zenger, D. Weiss, and W. Wegscheider, Phys. Rev. B, 74, No. 24: 241 (2006).",
+				"tr":  "P. Chen, J. Moser, Ph. Kotissek, J. Sadowski, M. Zenger, D. Weiss, and W. Wegscheider, Phys. Rev. B, 74, No. 24: 241 (2006)."
+			},
+			{
+				"doi": "10.1088/0953-8984/19/4/043201",
+				"or":  "A. V. Kimel, A. Kirilyuk, F. Hansteen, R. V. Pisarev, and T. Rasing, J. Phys.: Condens. Matter, 19, No. 4: 043201 (2007).",
+				"tr":  "A. V. Kimel, A. Kirilyuk, F. Hansteen, R. V. Pisarev, and T. Rasing, J. Phys.: Condens. Matter, 19, No. 4: 043201 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRev.143.574",
+				"or":  "P. S. Pershan, J. P. Ziel, and L. D. Malmstrom, Phys. Rev., 143, No. 2: 574 (1966).",
+				"tr":  "P. S. Pershan, J. P. Ziel, and L. D. Malmstrom, Phys. Rev., 143, No. 2: 574 (1966)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.85.3025",
+				"or":  "G. P. Zhang and W. Hübner, Phys. Rev. Lett., 85, No. 14: 3025 (2000).",
+				"tr":  "G. P. Zhang and W. Hübner, Phys. Rev. Lett., 85, No. 14: 3025 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Гуляев и др., ЖЭТФ, 100: 1005 (2005).",
+				"tr":  "Yu. V. Gulyaev et al., ZhETF, 100: 1005 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "E. В. Гомонай, В. M. Локтев, Физ. низк. температур, 34: 256 (2008).",
+				"tr":  "E. V. Gomonay, V. M. Loktev, Fiz. nizk. temperatur, 34: 256 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "У. М. Майклджон, ТИИЭР, 74: 112 (1986).",
+				"tr":  "U. M. Maykldzhon, TIIER, 74: 112 (1986)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2005.10.225",
+				"or":  "R. Hertel, J. Magn. Magn. Mater, 303: L1 (2006).",
+				"tr":  "R. Hertel, J. Magn. Magn. Mater, 303: L1 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Крупа, Письма в ЖЭТФ, 87: 635 (2008).",
+				"tr":  "N. N. Krupa, Pis'ma v ZhETF, 87: 635 (2008)."
+			}
+		]
+	}
+}

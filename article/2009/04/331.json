@@ -1,0 +1,379 @@
+{
+	"_id":    "UFM.10.04.331",
+	"year":   2009,
+	"volume": 10,
+	"issue":  4,
+	"pages":  [331,388],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["25.05.2009"],
+	"PACS":   "72.10.Fk, 72.15.Cz, 72.15.Lh, 72.80.Ng, 75.47.Np, 75.50.Kj, 81.40.Rs",
+	"title":   {
+		"ua": "Тензоопір аморфних феромагнетиків",
+		"en": "Tensoresistance of Amorphous Ferromagnetics",
+		"ru": "Тензосопротивление аморфных ферромагнетиков"
+	},
+	"abstract": {
+		"ua": "Розглянуто сучасний стан проблеми, що склався в дослідженнях впливу зовнішніх механічних напружень на електроопір (тензорезистивного ефекту) аморфних металевих стопів. Систематизовано результати досліджень тензоопору низки аморфних феромагнетних стопів. Запропоновано та теоретично обґрунтовано механізм тензоопору в аморфних феромагнетиках. Наведено результати дослідження впливу магнетного поля на тензоопір. Розглянуто можливість використання феноменологічного моделю магнетування та формалізму поля анізотропії для інтерпретації залежности $\\DeltaЕ$-ефекту від магнетного поля та обґрунтування його ролі в тензорезистивнім ефекті.",
+		"en": "Current state in the investigation of the influence of external mechanical stresses on the electrical resistance (tensoresistive effect) of the amorphous metallic alloys is considered. The data of experimental studies of tensoresistance for a series of amorphous ferromagnetic alloys are presented and analyzed. The mechanism of tensoresistance of amorphous ferromagnetics is proposed and theoretically justified. The influence of external magnetic field on the tensoresistance is also considered. The possibility of application of the phenomenological model of magnetization and anisotropy-field formalism to the interpretation of $\\DeltaЕ$-effect and its role in the tensoresistance is discussed.",
+		"ru": "Рассмотрено современное состояние проблемы, которая сложилась в исследованиях влияния внешних механических напряжений на электросопротивление (тензорезистивного эффекта) аморфных металлических сплавов. Систематизированы результаты исследования тензосопротивления ряда аморфных ферромагнитных сплавов. Предложен и теоретически обоснован механизм тензосопротивления в аморфных ферромагнетиках. Приведены результаты исследований влияния магнитного поля на тензосопротивление. Рассмотрена возможность использования феноменологической модели намагничивания и формализма поля анизотропии для интерпретации зависимости $\\DeltaЕ$-эффекта от магнитного поля и обоснования его роли в тензорезистивном эффекте."
+	},
+	"keywords": {
+		"ua": "аморфні металеві стопи, тензорезистивний ефект, коефіцієнт тензоопору, магнетопружня взаємодія, $\\DeltaЕ$-ефект",
+		"en": "amorphous metallic alloys, tensoresistive effect, tensoresistivity coefficient, magnetoelastic interaction, $\\DeltaЕ$-effect",
+		"ru": "аморфные металлические сплавы, тензорезистивный эффект, коэффициент тензосопротивления, магнитоупругое взаимодействие, $\\DeltaЕ$-эффект"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. П. Семенько", "en": "M. P. Semen’ko", "ru": "Н. П. Семенько"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "М. І. Захаренко", "en": "M. I. Zakharenko", "ru": "Н. И. Захаренко"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "Ю. А. Куницький", "en": "Yu. A. Kunitsky", "ru": "Ю. А. Куницкий"},
+			"OID": [16]
+		},
+		{
+			"AID": {"ua": "А. П. Шпак", "en": "A. P. Shpak", "ru": "А. П. Шпак"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 66,
+				"list":  [
+			{
+				"doi": "",
+				"or":  "В. В. Горбачев, Л. Г. Спицына, Физика полупроводников и металлов (Москва: Металлургия: 1976).",
+				"tr":  "V. V. Gorbachev, L. G. Spitsyna, Fizika poluprovodnikov i metallov (Moskva: Metallurgiya: 1976)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Дж. Блат, Физика электронной проводимости в твердых телах (Москва: Мир: 1971).",
+				"tr":  "F. Dzh. Blat, Fizika elektronnoy provodimosti v tverdykh telakh (Moskva: Mir: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "Аморфные металлические сплавы (Ред. Ф. Е. Люборский) (Москва: Металлургия: 1987) (пер. с англ.).",
+				"tr":  "Amorfnye metallicheskie splavy (Red. F. E. Lyuborskiy) (Moskva: Metallurgiya: 1987) (per. s angl.)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Судзуки, Х. Фудзимори, К. Хасимото, Аморфные металлы (Москва: Металлургия: 1987) (пер. с япон.).",
+				"tr":  "K. Sudzuki, Kh. Fudzimori, K. Khasimoto, Amorfnye metally (Moskva: Metallurgiya: 1987) (per. s yapon.)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, Ю. А. Куницкий, В. И. Лысов, Кластерные и наноструктурные материалы (Киев: Академпериодика: 2002).",
+				"tr":  "A. P. Shpak, Yu. A. Kunitskiy, V. I. Lysov, Klasternye i nanostrukturnye materialy (Kiev: Akademperiodika: 2002)."
+			},
+			{
+				"doi": "10.1063/1.323512",
+				"or":  "P. M. Anderson and A. E. Lord, J. Appl. Phys., 48, No. 11: 4839 (1977).",
+				"tr":  "P. M. Anderson and A. E. Lord, J. Appl. Phys., 48, No. 11: 4839 (1977)."
+			},
+			{
+				"doi": "10.1063/1.327261",
+				"or":  "C. M. Liu, R. Ingalls, J. E. Whitmore et al., J. Appl. Phys., 50, No. B3: 1577 (1979).",
+				"tr":  "C. M. Liu, R. Ingalls, J. E. Whitmore et al., J. Appl. Phys., 50, No. B3: 1577 (1979)."
+			},
+			{
+				"doi": "10.1016/0304-8853(80)90344-3",
+				"or":  "J. Kamarad, Z. Arnold, J. Schneider, and S. Krupitcka, J. Magn. Magn. Mater., 15–18: 1409 (1980).",
+				"tr":  "J. Kamarad, Z. Arnold, J. Schneider, and S. Krupitcka, J. Magn. Magn. Mater., 15–18: 1409 (1980)."
+			},
+			{
+				"doi": "10.1016/0304-8853(81)90069-X",
+				"or":  "J. Kamarad, Z. Arnold, and J. V. Nielson, J. Magn. Magn. Mater., 23: 69 (1981).",
+				"tr":  "J. Kamarad, Z. Arnold, and J. V. Nielson, J. Magn. Magn. Mater., 23: 69 (1981)."
+			},
+			{
+				"doi": "10.1002/pssa.2210640258",
+				"or":  "J. Schneider, Z. Arnold, J. Kamarad, and A. Handstein, Phys. Status Solidi A, 64, No. 2: K133 (1981).",
+				"tr":  "J. Schneider, Z. Arnold, J. Kamarad, and A. Handstein, Phys. Status Solidi A, 64, No. 2: K133 (1981)."
+			},
+			{
+				"doi": "10.1016/0022-3093(75)90028-9",
+				"or":  "W. C. Emmens, J. Vrijen, and S. Radelaar, J. Non-Cryst. Solids, 18, No. 2: 299 (1975).",
+				"tr":  "W. C. Emmens, J. Vrijen, and S. Radelaar, J. Non-Cryst. Solids, 18, No. 2: 299 (1975)."
+			},
+			{
+				"doi": "10.1016/0022-3093(78)90057-1",
+				"or":  "M. Cedergen and G. Backstrom, J. Non-Cryst. Solids, 30, No. 1: 69 (1978).",
+				"tr":  "M. Cedergen and G. Backstrom, J. Non-Cryst. Solids, 30, No. 1: 69 (1978)."
+			},
+			{
+				"doi": "10.1063/1.91350",
+				"or":  "J. Willer, G. Fritsch, and E. Luscher, Appl. Phys. Lett., 36, No. 10: 859 (1980).",
+				"tr":  "J. Willer, G. Fritsch, and E. Luscher, Appl. Phys. Lett., 36, No. 10: 859 (1980)."
+			},
+			{
+				"doi": "10.1016/0036-9748(76)90371-9",
+				"or":  "D. G. Ast and D. J. Krenitsky, Scr. Metall., 10: 247 (1976).",
+				"tr":  "D. G. Ast and D. J. Krenitsky, Scr. Metall., 10: 247 (1976)."
+			},
+			{
+				"doi": "10.1016/0038-1098(79)91082-2",
+				"or":  "D. Lazarus, Solid State Commun., 32, No. 2: 175 (1979).",
+				"tr":  "D. Lazarus, Solid State Commun., 32, No. 2: 175 (1979)."
+			},
+			{
+				"doi": "10.1016/0038-1098(80)90245-8",
+				"or":  "R. W. Cohrane, J. O. Strom-Olson, J. P. Rebouillat, and A. Blanchard, Solid State Commun., 35, No. 2: 199 (1980).",
+				"tr":  "R. W. Cohrane, J. O. Strom-Olson, J. P. Rebouillat, and A. Blanchard, Solid State Commun., 35, No. 2: 199 (1980)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.25.2138",
+				"or":  "P. J. Cote and L. V. Meisel, Phys. Rev. B, 25: 2138 (1983).",
+				"tr":  "P. J. Cote and L. V. Meisel, Phys. Rev. B, 25: 2138 (1983)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.27.6007",
+				"or":  "E. M. Laurie and D. Lazarus, Phys. Rev. B, 27: 6007 (1983).",
+				"tr":  "E. M. Laurie and D. Lazarus, Phys. Rev. B, 27: 6007 (1983)."
+			},
+			{
+				"doi": "10.1088/0305-4608/15/7/012",
+				"or":  "G. Fritsch, W. Dyckhoff, W. Pollich, and E. Luscher, J. Phys. F: Met. Phys., 15: 1537 (1985).",
+				"tr":  "G. Fritsch, W. Dyckhoff, W. Pollich, and E. Luscher, J. Phys. F: Met. Phys., 15: 1537 (1985)."
+			},
+			{
+				"doi": "10.1088/0305-4608/12/12/026",
+				"or":  "G. Fritsch, J. Willer, A. Wildermuth, and E. Luscher, J. Phys. F: Met. Phys., 12: 2965 (1982).",
+				"tr":  "G. Fritsch, J. Willer, A. Wildermuth, and E. Luscher, J. Phys. F: Met. Phys., 12: 2965 (1982)."
+			},
+			{
+				"doi": "10.1179/026708389790340932",
+				"or":  "Y. M. Yaman, Mater. Sci. Technol., 5, No. 11: 1158 (1989).",
+				"tr":  "Y. M. Yaman, Mater. Sci. Technol., 5, No. 11: 1158 (1989)."
+			},
+			{
+				"doi": "10.1002/pssa.2211190223",
+				"or":  "H. K. Lachowicz, E. Pulido, A. Siemko, and A. Hernando, Phys. Status Solidi A, 119: 600 (1990).",
+				"tr":  "H. K. Lachowicz, E. Pulido, A. Siemko, and A. Hernando, Phys. Status Solidi A, 119: 600 (1990)."
+			},
+			{
+				"doi": "10.1088/0305-4608/17/5/012",
+				"or":  "Z. Marohnic, M. Guberovic, E Babic, and G. J. Morgan, J. Phys. F: Met. Phys., 17: 1123 (1987).",
+				"tr":  "Z. Marohnic, M. Guberovic, E Babic, and G. J. Morgan, J. Phys. F: Met. Phys., 17: 1123 (1987)."
+			},
+			{
+				"doi": "10.1088/0031-8949/1988/T24/002",
+				"or":  "A. Hernando, Phys. Scripta, 24: 11 (1988).",
+				"tr":  "A. Hernando, Phys. Scripta, 24: 11 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "M. G. Babich, O. P. Brud’ko, M. P. Semen’ko, and M. I. Zakharenko, Functional Materials, 9, No. 3: 519 (2002).",
+				"tr":  "M. G. Babich, O. P. Brud'ko, M. P. Semen'ko, and M. I. Zakharenko, Functional Materials, 9, No. 3: 519 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. И. Захаренко, М. П. Семенько, ФММ, 95, вып. 2: 439 (2005).",
+				"tr":  "N. I. Zakharenko, M. P. Semen'ko, Fizika Metallov Metalloved., 95, No. 2: 439 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Babich, М. Semen’ko, M. Zakharenko et al., MRS Symposium Proceedings Series, 644: L12.1 (2001).",
+				"tr":  "M. Babich, M. Semen'ko, M. Zakharenko et al., MRS Symposium Proceedings Series, 644: L12.1 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "M. І. Захаренко, В. А. Макара, М. П. Семенько, Доп. НАН України, № 7: 99 (2008).",
+				"tr":  "M. І. Zakharenko, V. A. Makara, M. P. Semen'ko, Dop. NAN Ukraїni, No. 7: 99 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "М. І. Захаренко, М. П. Семенько, Металлофиз. новейшие технол., 30, № 2: 205 (2008).",
+				"tr":  "M. І. Zakharenko, M. P. Semen'ko, Metallofiz. Noveishie Tekhnol., 30, No. 2: 205 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Немошкаленко, А. В. Романова, А. Т. Ильинский и др. Аморфные металлические сплавы (Киев: Наукова думка: 1987).",
+				"tr":  "V. V. Nemoshkalenko, A. V. Romanova, A. T. Il'inskiy et al. Amorfnye metallicheskie splavy (Kiev: Naukova dumka: 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. И. Харьков, В. И. Лысов, В. Е. Федоров, Физика жидких металлов (Киев: Высшая школа: 1979).",
+				"tr":  "E. I. Khar'kov, V. I. Lysov, V. E. Fedorov, Fizika zhidkikh metallov (Kiev: Vysshaya shkola: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "Glassy Metals: Magnetic, Chemical and Structural Properties (Еds. R. Hasegawa) (Boca Raton, Florida: CRC Press: 1983).",
+				"tr":  "Glassy Metals: Magnetic, Chemical and Structural Properties (Eds. R. Hasegawa) (Boca Raton, Florida: CRC Press: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Е. Проценко, Л. В. Однодворец, А. Н. Чорноус, Металлофиз. новейшие технол., 18, № 12: 61 (1996).",
+				"tr":  "I. E. Protsenko, L. V. Odnodvorets, A. N. Chornous, Metallofiz. Noveishie Tekhnol., 18, No. 12: 61 (1996)."
+			},
+			{
+				"doi": "10.15407/ufm.10.02.131",
+				"or":  "М. П. Семенько, М. І. Захаренко, Ю. А. Куницький та ін., Успехи физ. мет., 10, № 2: 131 (2009).",
+				"tr":  "M. P. Semen'ko, M. І. Zakharenko, Yu. A. Kunits'kiy et al., Uspehi Fiziki Metallov, 10, No. 2: 131 (2009)."
+			},
+			{
+				"doi": "10.3367/UFNr.0160.199009b.0075",
+				"or":  "И. В. Золотухин, Ю. Е. Калинин, Успехи физ. наук, 160, вып. 9: 75 (1990).",
+				"tr":  "I. V. Zolotukhin, Yu. E. Kalinin, Uspekhi Fiz. Nauk, 160, No. 9: 75 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Г. Бабич, Н. И. Захаренко, Г. В. Еременко, М. П. Семенько, ФММ, 102, вып. 3: 273 (2006).",
+				"tr":  "N. G. Babich, N. I. Zakharenko, G. V. Eremenko, M. P. Semen'ko, Fizika Metallov Metalloved., 102, No. 3: 273 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. И. Захаренко, М. П. Семенько, ФММ, 107, вып. 3: 181 (2009).",
+				"tr":  "N. I. Zakharenko, M. P. Semen'ko, Fizika Metallov Metalloved., 107, No. 3: 181 (2009)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(00)01526-4",
+				"or":  "K. Kritiakova, P. Svec, Mater. Sci. Eng. A, 304–306: 343 (2001).",
+				"tr":  "K. Kritiakova, P. Svec, Mater. Sci. Eng. A, 304–306: 343 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Займан, Принципы теории твердого тела (Москва: Мир: 1966).",
+				"tr":  "Dzh. Zayman, Printsipy teorii tverdogo tela (Moskva: Mir: 1966)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.24.6801",
+				"or":  "N. Banerjee, R. Roy, and A. K. Majumdar, Phys. Rev. B, 24, No. 12: 6801 (1981).",
+				"tr":  "N. Banerjee, R. Roy, and A. K. Majumdar, Phys. Rev. B, 24, No. 12: 6801 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. И. Захаренко, М. П. Семенько, ФММ, 104, вып. 2: 150 (2007).",
+				"tr":  "N. I. Zakharenko, M. P. Semen'ko, Fizika Metallov Metalloved., 104, No. 2: 150 (2007)."
+			},
+			{
+				"doi": "10.1016/0304-8853(77)90193-7",
+				"or":  "I. A. Campbell, A. Fert, and O. Jaol, J. Magn. Magn. Mater., 5, No. 1: 23 (1977).",
+				"tr":  "I. A. Campbell, A. Fert, and O. Jaol, J. Magn. Magn. Mater., 5, No. 1: 23 (1977)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.32.6080",
+				"or":  "A. P. Malozemoff, Phys. Rev. B, 32, No. 9: 6080 (1985).",
+				"tr":  "A. P. Malozemoff, Phys. Rev. B, 32, No. 9: 6080 (1985)."
+			},
+			{
+				"doi": "10.1016/S0031-8914(59)97412-9",
+				"or":  "H. C. van Elst, Physica, 25, No. 1–6: 708 (1959).",
+				"tr":  "H. C. van Elst, Physica, 25, No. 1–6: 708 (1959)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Вонсовский, Магнетизм (Москва: Наука: 1971).",
+				"tr":  "S. V. Vonsovskiy, Magnetizm (Moskva: Nauka: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Бозорт, Ферромагнетизм (Москва: Из-во иностр. лит.: 1956).",
+				"tr":  "R. Bozort, Ferromagnetizm (Moskva: Iz-vo inostr. lit.: 1956)."
+			},
+			{
+				"doi": "",
+				"or":  "J. M. Barandiaran, J. Gutierrez, Z. Kaczkowski, and D. De Cos, J. Non-Crystal. Solids, 329: 43 (2003).",
+				"tr":  "J. M. Barandiaran, J. Gutierrez, Z. Kaczkowski, and D. De Cos, J. Non-Crystal. Solids, 329: 43 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Золотухин, Ю. Е. Калинин, В. А. Кондусов, Б. Г. Суходолов: Металлофизика, 11, № 4: 48 (1989).",
+				"tr":  "I. V. Zolotukhin, Yu. E. Kalinin, V. A. Kondusov, B. G. Sukhodolov: Metallofizika, 11, No. 4: 48 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Гаврилюк, А. Л. Семенов, А. Ю. Моховиков и др., ЖТФ, 76, вып. 6: 68 (2006).",
+				"tr":  "A. A. Gavrilyuk, A. L. Semenov, A. Yu. Mokhovikov et al., ZhTF, 76, No. 6: 68 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Гаврилюк, Н. П. Ковалева, А. В. Гаврилюк, Письма в ЖТФ, 24, № 16: 79 (1998).",
+				"tr":  "A. A. Gavrilyuk, N. P. Kovaleva, A. V. Gavrilyuk, Pis'ma v ZhTF, 24, No. 16: 79 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "Металлические стекла. Атомная структура и динамика, электронная структура, магнитные свойства (Ред. Г. Бек, Г. Гюнтеродт) (Москва: Мир: 1986) (пер. с англ.).",
+				"tr":  "Metallicheskie stekla. Atomnaya struktura i dinamika, elektronnaya struktura, magnitnye svoystva (Red. G. Bek, G. Gyunterodt) (Moskva: Mir: 1986) (per. s angl.)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, Ю. А. Куницкий, М. И. Захаренко, А. С. Волощенко, Магнетизм аморфных и нанокристаллических систем (Киев: Академпериодика: 2003).",
+				"tr":  "A. P. Shpak, Yu. A. Kunitskiy, M. I. Zakharenko, A. S. Voloshchenko, Magnetizm amorfnykh i nanokristallicheskikh sistem (Kiev: Akademperiodika: 2003)."
+			},
+			{
+				"doi": "10.1002/pssa.2210700228",
+				"or":  "J. D. Livingston, Phys. Status Solidi A, 70: 591 (1982).",
+				"tr":  "J. D. Livingston, Phys. Status Solidi A, 70: 591 (1982)."
+			},
+			{
+				"doi": "10.1002/pssa.2211020240",
+				"or":  "N. P. Kobelev, Ya. Soifer, V. G. Shteinberg, and Yu. B. Levin, Phys. Status Solidi A, 102: 773 (1987).",
+				"tr":  "N. P. Kobelev, Ya. Soifer, V. G. Shteinberg, and Yu. B. Levin, Phys. Status Solidi A, 102: 773 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Гаврилюк, А. В. Гаврилюк, Н. П. Ковалева, ЖТФ, 69, вып. 6: 50 (1999).",
+				"tr":  "A. A. Gavrilyuk, A. V. Gavrilyuk, N. P. Kovaleva, ZhTF, 69, No. 6: 50 (1999)."
+			},
+			{
+				"doi": "10.1002/pssa.2211110129",
+				"or":  "J. Gutierrez, J. M. Barandiaran, and O. V. Nielsen, Phys. Status Solidi A, 111: 279 (1989).",
+				"tr":  "J. Gutierrez, J. M. Barandiaran, and O. V. Nielsen, Phys. Status Solidi A, 111: 279 (1989)."
+			},
+			{
+				"doi": "10.1063/1.364676",
+				"or":  "D. Y. Kim, C. G. Kim, H. C. Kim, and U. H. Sung, J. Appl. Phys., 81, No. 8: 5811 (1997).",
+				"tr":  "D. Y. Kim, C. G. Kim, H. C. Kim, and U. H. Sung, J. Appl. Phys., 81, No. 8: 5811 (1997)."
+			},
+			{
+				"doi": "10.1002/pssa.2210800121",
+				"or":  "M. Vazquez, W. Fernengel, and H. Kronmuller, Phys. Status Solidi A, 80: 195 (1983).",
+				"tr":  "M. Vazquez, W. Fernengel, and H. Kronmuller, Phys. Status Solidi A, 80: 195 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Гаврилюк, А. Л. Петров, Э. Л. Ярычев, С. М. Зубрицкий, Письма в ЖТФ, 29, вып. 21: 68 (2003).",
+				"tr":  "A. A. Gavrilyuk, A. L. Petrov, E. L. Yarychev, S. M. Zubritskiy, Pis'ma v ZhTF, 29, No. 21: 68 (2003)."
+			},
+			{
+				"doi": "10.1109/TMAG.1975.1058782",
+				"or":  "T. R. McGuire and R. I. Potter, IEEE Trans. Magn., 11, Iss. 4: 1018 (1975).",
+				"tr":  "T. R. McGuire and R. I. Potter, IEEE Trans. Magn., 11, Iss. 4: 1018 (1975)."
+			},
+			{
+				"doi": "10.1088/0022-3719/3/1S/310",
+				"or":  "I. A. Campbell, A. Fert, and O. Jaol, J. Phys. C: Metal Phys. Suppl., 3, No. 1: S95 (1970).",
+				"tr":  "I. A. Campbell, A. Fert, and O. Jaol, J. Phys. C: Metal Phys. Suppl., 3, No. 1: S95 (1970)."
+			},
+			{
+				"doi": "10.1088/0022-3719/2/10/311",
+				"or":  "A. Fert, J. Phys. C: Solid State Phys., 2, No. 2: 1784 (1969).",
+				"tr":  "A. Fert, J. Phys. C: Solid State Phys., 2, No. 2: 1784 (1969)."
+			},
+			{
+				"doi": "10.1088/0305-4608/4/8/003",
+				"or":  "I. A. Campbell, J. Phys. F, 4: L181 (1974).",
+				"tr":  "I. A. Campbell, J. Phys. F, 4: L181 (1974)."
+			},
+			{
+				"doi": "10.1002/pssa.2211080139",
+				"or":  "A. Raoufi and S. Arajs, Phys. Status Solidi A, 108: 369 (1988).",
+				"tr":  "A. Raoufi and S. Arajs, Phys. Status Solidi A, 108: 369 (1988)."
+			},
+			{
+				"doi": "10.1063/1.1540043",
+				"or":  "L. Kraus and P. Svec, J. Appl. Phys., 93, No. 10: 7220 (2003).",
+				"tr":  "L. Kraus and P. Svec, J. Appl. Phys., 93, No. 10: 7220 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "L. I. Deren, L. U. Zhichao, L. I. Guoqing, and X. Ze, J. Mater. Sci. Technol., 16, No. 2: 165 (2000).",
+				"tr":  "L. I. Deren, L. U. Zhichao, L. I. Guoqing, and X. Ze, J. Mater. Sci. Technol., 16, No. 2: 165 (2000)."
+			}
+		]
+	}
+}

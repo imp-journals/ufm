@@ -1,0 +1,35 @@
+{
+	"year":   2006,
+	"volume": 7,
+	"issue":  3,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [135,171],
+			"title": {
+				"ua": "Кінетика утворення і росту мікродефектів у кристалах",
+				"en": "Kinetics of Formation and Growth of Microdefects in Crystals",
+				"ru": "Кинетика образования и роста микродефектов в кристаллах"
+			},
+			"autors": {
+				"ua": "С. Й. Оліховський, М. М. Бєлова, Є. В. Кочелаб",
+				"en": "S. J. Olikhovsky, M. M. Belova, and Ye. V. Kochelab",
+				"ru": "С. Й. Олиховский, М. М. Белова, Е. В. Кочелаб"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [173,187],
+			"title": {
+				"ua": "Пошарова еволюція мікроструктури у стопі Cu–Zn після піскоструминного оброблення",
+				"en": "Layer-by-Layer Evolution of a Microstructure in a Cu–Zn Alloy After Sandblasting",
+				"ru": "Послойная эволюция микроструктуры в сплаве Cu–Zn после пескоструйной обработки"
+			},
+			"autors": {
+				"ua": "Ю. М. Петров, М. О. Васильєв, Л. Н. Трофімова, В. С. Філатова",
+				"en": "Yu. M. Petrov, M. O. Vasiliev, L. M. Trofimova, and V. S. Filatova",
+				"ru": "Ю. Н. Петров, М. А. Васильев, Л. Н. Трофимова, В. С. Филатова"
+			}
+		}
+	]
+}

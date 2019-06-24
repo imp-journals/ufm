@@ -1,0 +1,114 @@
+{
+	"_id":    "UFM.07.03.173",
+	"year":   2006,
+	"volume": 7,
+	"issue":  3,
+	"pages":  [173,187],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["10.02.2006"],
+	"PACS":   "61.72.Ff, 61.72.Mm, 61.72.Nn, 68.37.Lp, 68.55.Jk, 81.20.Wk, 81.65.Ps",
+	"title":   {
+		"ua": "Пошарова еволюція мікроструктури у стопі Cu–Zn після піскоструминного оброблення",
+		"en": "Layer-by-Layer Evolution of a Microstructure in a Cu–Zn Alloy After Sandblasting",
+		"ru": "Послойная эволюция микроструктуры в сплаве Cu–Zn после пескоструйной обработки"
+	},
+	"abstract": {
+		"ua": "Методою ПЕМ високої роздільчої здатности вивчено структурні зміни в стопі Cu—37 Zn (мас.%) після двосторонньої піскоструминного поверхневого оброблення (ППО). Встановлено, що в приповерхневих шарах цього стопу з низькою енергією дефекту паковання та близьким порядком утворюється нанокристалічна (НК) структура. Наведено параметри, які характеризують зміни розмірів НК-зерен та полігональних структур. Обговорено роль багатовимірного двійникування (мікродвійникування) у подрібненні зернуватої структури стопу.",
+		"en": "The structural changes in a Cu—37 Zn (wt.%) alloy after bilateral surface sandblasting is studied by TEM. As revealed in near-surface layers of this alloy with low stacking-faults energy and short-range order, the nanocrystalline structure is formed. The parameters characterizing a change of the sizes of nanograins and polygonal structures are presented. The role of the manydimensional twinning (microtwinning) in milling grain structure of an alloy is discussed.",
+		"ru": "Методом просвечивающей электронной микроскопии (ПЭМ) высокого разрешения изучены структурные изменения в сплаве Cu—37 Zn (масс.%) после двухсторонней пескоструйной поверхностной обработки (ППО). Установлено, что в приповерхностных слоях этого сплава с низкой энергией дефекта упаковки и ближним порядком образуется нанокристаллическая (НК) структура. Приведены параметры, характеризующие изменение размеров НК-зерен и полигональных структур. Обсуждена роль множественного двойникования (микродвойникования) в измельчении зеренной структуры сплава."
+	},
+	"keywords": {
+		"ua": "ПЕМ, поверхневе оброблення, зерна, двійники, близький порядок, дефекти паковання",
+		"en": "TEM, surface treatment, grains, twins, short-range order, stacking faults",
+		"ru": "ПЭМ, поверхностная обработка, зерна, двойники, ближний порядок, дефекты упаковки"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. М. Петров", "en": "Yu. M. Petrov", "ru": "Ю. Н. Петров"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. О. Васильєв", "en": "M. O. Vasiliev", "ru": "М. А. Васильев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Л. Н. Трофімова", "en": "L. M. Trofimova", "ru": "Л. Н. Трофимова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. С. Філатова", "en": "V. S. Filatova", "ru": "В. С. Филатова"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 13,
+				"list":  [
+			{
+				"doi": "10.1016/S1359-6454(99)00285-2",
+				"or":  "G. Gleiter, Acta Mater., 48: 1 (2000).",
+				"tr":  "G. Gleiter, Acta Mater., 48: 1 (2000)."
+			},
+			{
+				"doi": "10.15407/ufm.05.03.345",
+				"or":  "М. А. Васильев, Г. И. Прокопенко, В. С. Филатова, Успехи физ. мет., 5, № 3: 345 (2004).",
+				"tr":  "M. A. Vasil'ev, G. I. Prokopenko, V. S. Filatova, Usp. Fiz. Met., 5, No. 3: 345 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. З. Валиев, И. В. Александров, Наноструктурные материалы, полученные интенсивной пластической деформацией (Москва: ЛОГОС: 2000).",
+				"tr":  "R. Z. Valiev, I. V. Aleksandrov, Nanostrukturnye materialy, poluchennye intensivnoy plasticheskoy deformatsiey (Moskva: LOGOS: 2000)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, Ю. А. Куницкий, В. И. Лысов, Кластерные и наноструктурные материалы (Киев: Академпериодика: 2002).",
+				"tr":  "A. P. Shpak, Yu. A. Kunitskiy, V. I. Lysov, Klasternye i nanostrukturnye materialy (Kiev: Akademperiodika: 2002)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2003.08.032",
+				"or":  "K. S. Kumar, H. Van Swygenhoven, and S. Suresh, Acta Mater., 5: 5743 (2003).",
+				"tr":  "K. S. Kumar, H. Van Swygenhoven, and S. Suresh, Acta Mater., 5: 5743 (2003)."
+			},
+			{
+				"doi": "10.15407/ufm.04.04.271",
+				"or":  "В. В. Горский, А. Н. Грипачевский, В. В. Тихонович, В. Н. Уваров, Успехи физ. мет., 4: 271 (2003).",
+				"tr":  "V. V. Gorskiy, A. N. Gripachevskiy, V. V. Tikhonovich, V. N. Uvarov, Usp. Fiz. Met., 4: 271 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Wang and D.Y. Li, Surface Coat. Tech., 167: 188 (2003).",
+				"tr":  "L. Wang and D.Y. Li, Surface Coat. Tech., 167: 188 (2003)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(02)00466-4",
+				"or":  "A. P. Zhilyaev, G. V. Nurislamova, B.-K. Kim et al., Acta Mater., 51: 753 (2003).",
+				"tr":  "A. P. Zhilyaev, G. V. Nurislamova, B.-K. Kim et al., Acta Mater., 51: 753 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "И. П. Семенова, Л. Р. Саитова, Р. К. Исламгалиев и др., ФММ, 100, № 1: 77 (2005).",
+				"tr":  "I. P. Semenova, L. R. Saitova, R. K. Islamgaliev et al., FMM, 100, No. 1: 77 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Панин, Е. Ф. Дударев, Л. С. Бушнев, Структура и механические свойства твердых растворов замещения (Москва: Металлургия: 1971).",
+				"tr":  "V. E. Panin, E. F. Dudarev, L. S. Bushnev, Struktura i mekhanicheskie svoystva tverdykh rastvorov zameshcheniya (Moskva: Metallurgiya: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "Структурные уровни пластической деформации разрушения (Ред. В. Е. Панин) (Новосибирск: Наука: 1990).",
+				"tr":  "Strukturnye urovni plasticheskoy deformatsii razrusheniya (Ed. V. E. Panin) (Novosibirsk: Nauka: 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. Д. Вишняков, Дефекты упаковки в кристаллической структуре (Москва: Металлургия: 1970).",
+				"tr":  "Ya. D. Vishnyakov, Defekty upakovki v kristallicheskoy strukture (Moskva: Metallurgiya: 1970)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Хирш, А. Хови, Р. Николсон и др., Электронная микроскопия тонких кристаллов (Москва: Мир: 1968).",
+				"tr":  "P. Khirsh, A. Khovi, R. Nikolson i dr., Elektronnaya mikroskopiya tonkikh kristallov (Moskva: Mir: 1968)."
+			}
+		]
+	}
+}

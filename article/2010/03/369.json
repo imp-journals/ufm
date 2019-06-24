@@ -1,0 +1,403 @@
+{
+	"_id":    "UFM.11.03.369",
+	"year":   2010,
+	"volume": 11,
+	"issue":  3,
+	"pages":  [369,411],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["10.06.2010","24.09.2010"],
+	"PACS":   "61.48.-с,68.37.-d,72.80.Rj,78.30.Na,79.70.+q,81.05.U-,81.16.Be",
+	"title":   {
+		"ua": "Азотовмісні вуглецеві нанорурки: способи одержання, властивості та перспективи застосування",
+		"en": "Nitrogenated Carbon Nanotubes: Methods of Fabrication, Properties, and Prospect of Application",
+		"ru": "Азотсодержащие углеродные нанотрубки: способы получения, свойства и перспективы применения"
+	},
+	"abstract": {
+		"ua": "Узагальнено літературні й власні дані щодо структури, основних способів одержання, механічних та електричних властивостей азотовмісних вуглецевих нанорурок (N—ВНР), що уможливлюють їх використання у нанотехнологіях. В залежності від конфіґурації N—ВНР досліджено їх термодинамічну стабільність з використанням метод молекулярної динаміки і Монте-Карло. Розглянуто можливі впорядковані конфіґурації домішкових атомів заміщення (N) та кінетику їх упорядкування в графеновій ґратниці.",
+		"en": "A compilation of data on a structure, basic methods of fabrication, mechanical and electrical properties of nitrogen-containing carbon nanotubes (N—CNT), which make possible their use in a nanotechnology, is presented. Depending on the N—CNT configuration, their thermodynamic stability is studied using the molecular dynamics and Monte Carlo methods. Possible ordered configurations of substitutional dopant (N) atoms and kinetics of their ordering in a graphene-based lattice are considered.",
+		"ru": "Обобщены литературные и собственные данные о структуре, основных способах получения, механических и электрических свойствах азотсодержащих углеродных нанотрубок (N—УНТ), которые делают возможным их использование в нанотехнологиях. В зависимости от конфигурации N—УНТ исследована их термодинамическая стабильность с использованием методов молекулярной динамики и Монте-Карло. Рассмотрены возможные упорядоченные конфигурации примесных атомов замещения (N) и кинетика их упорядочения в графеновой решётке."
+	},
+	"keywords": {
+		"ua": "азотовмісні вуглецеві нанорурки, методи хемічної синтези, механічні й електричні властивості, методи молекулярної динаміки та Монте-Карло, леґування графенової ґратниці, впорядкування атомів",
+		"en": "Nitrogen-containing carbon nanotubes, chemical synthesis methods, mechanical and electrical properties, molecular dynamics and Monte-Carlo methods, doping of graphene lattice, atomic ordering",
+		"ru": "азотосодержащие углеродные нанотрубки, методы химического синтеза, механические и электрические свойства, методы молекулярной динамики и Монте-Карло, легирование графеновой решётки, упорядочение атомов"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Л. Л. Кондратенко", "en": "L. L. Kondratenko", "ru": "Л. Л. Кондратенко"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "О. В. Михайленко", "en": "O. V. Mykhailenko", "ru": "О. В. Михайленко"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "Ю. І. Прилуцький", "en": "Yu. I. Prylutskyy", "ru": "Ю. И. Прилуцкий"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "Т. М. Радченко", "en": "T. M. Radchenko", "ru": "Т. М. Радченко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. А. Татаренко", "en": "V. A. Tatarenko", "ru": "В. А. Татаренко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 70,
+		"list":  [
+			{
+				"doi": "10.1038/354056a0",
+				"or":  "S. Iijima, Nature, 354: 56 (1991).",
+				"tr":  "S. Iijima, Nature, 354: 56 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "M. S. Dresselhaus, G. Dresselhaus, and P. C. Eklund, Science of Fullerenes and Carbon Nanotubes: Their Properties and Applications (New York: Academic Press: 1996).",
+				"tr":  "M. S. Dresselhaus, G. Dresselhaus, and P. C. Eklund, Science of Fullerenes and Carbon Nanotubes: Their Properties and Applications (New York: Academic Press: 1996)."
+			},
+			{
+				"doi": "10.1017/CBO9780511605819",
+				"or":  "P. J. F. Harris, Carbon Nanotubes and Related Structures (Cambridge: Cambridge University Press: 1999).",
+				"tr":  "P. J. F. Harris, Carbon Nanotubes and Related Structures (Cambridge: Cambridge University Press: 1999)."
+			},
+			{
+				"doi": "",
+				"or":  "Medicinal Chemistry and Pharmacological Potential of Fullerenes and Carbon Nanotubes. Series: Carbon Materials: Chemistry and Physics. Vol. 1 (New York: Springer: 2008).",
+				"tr":  "Medicinal Chemistry and Pharmacological Potential of Fullerenes and Carbon Nanotubes. Series: Carbon Materials: Chemistry and Physics. Vol. 1 (New York: Springer: 2008)."
+			},
+			{
+				"doi": "10.1126/science.1102896",
+				"or":  "K. S. Novoselov, A. K. Geim, S. V. Morozov, D. Jiang, Y. Zhang, S. V. Dubonos, I. V. Grigorieva, and A. A. Firsov, Science, 306: 666 (2004).",
+				"tr":  "K. S. Novoselov, A. K. Geim, S. V. Morozov, D. Jiang, Y. Zhang, S. V. Dubonos, I. V. Grigorieva, and A. A. Firsov, Science, 306: 666 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.76.971",
+				"or":  "L. Chico, V. H. Crespi, L. X. Benedict, S. G. Louie, and M. L. Cohen, Phys. Rev. Lett., 76: 971 (1996).",
+				"tr":  "L. Chico, V. H. Crespi, L. X. Benedict, S. G. Louie, and M. L. Cohen, Phys. Rev. Lett., 76: 971 (1996)."
+			},
+			{
+				"doi": "10.1126/science.1061797",
+				"or":  "H. W.C. Postma, T. Teepen, Z. Yao, M. Grifoni, and J. Dekker, Science, 293: 76 (2001).",
+				"tr":  "H. W.C. Postma, T. Teepen, Z. Yao, M. Grifoni, and J. Dekker, Science, 293: 76 (2001)."
+			},
+			{
+				"doi": "10.3367/UFNr.0167.199709b.0945",
+				"or":  "А. В. Елецкий, УФН, 167: 945 (1997).",
+				"tr":  "A. V. Eletskii, UFN, 167: 945 (1997)."
+			},
+			{
+				"doi": "10.1016/S1359-0286(99)80007-2",
+				"or":  "E. J. Fischer and A. T. Johnson, Curr. Opt. Solid St. Mater. Sci., 4: 28 (1999).",
+				"tr":  "E. J. Fischer and A. T. Johnson, Curr. Opt. Solid St. Mater. Sci., 4: 28 (1999)."
+			},
+			{
+				"doi": "10.3367/UFNr.0177.200703a.0233",
+				"or":  "А. В. Елецкий, УФН, 177: 233 (2007).",
+				"tr":  "A. V. Eletskii, UFN, 177: 233 (2007)."
+			},
+			{
+				"doi": "10.1063/1.1476070",
+				"or":  "G. Y. Zhang, X. C. Ma, D. Y. Zhong, and E. G. Wang, J. Appl. Phys., 91: 9324 (2002).",
+				"tr":  "G. Y. Zhang, X. C. Ma, D. Y. Zhong, and E. G. Wang, J. Appl. Phys., 91: 9324 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "T. M. Minea, S. Point, A. Granier, and M. Touzeau, J. Appl. Phys., 85: 1244 (2004).",
+				"tr":  "T. M. Minea, S. Point, A. Granier, and M. Touzeau, J. Appl. Phys., 85: 1244 (2004)."
+			},
+			{
+				"doi": "10.1016/j.carbon.2005.04.034",
+				"or":  "B. O. Boskovic, V. B. Golovko, M. Cantoro, B. Kleinsorge, A. T. H. Chuang, C. Ducati, S. Hofmann, J. Robertson, and B. F. G. Johnson, Carbon, 43: 2643 (2005).",
+				"tr":  "B. O. Boskovic, V. B. Golovko, M. Cantoro, B. Kleinsorge, A. T. H. Chuang, C. Ducati, S. Hofmann, J. Robertson, and B. F. G. Johnson, Carbon, 43: 2643 (2005)."
+			},
+			{
+				"doi": "10.1051/epjap:2006051",
+				"or":  "S. Point, T. Minea, M.-P. Besland, and A. Granier, Eur. Phys. J. Appl. Phys., 34: 157 (2006).",
+				"tr":  "S. Point, T. Minea, M.-P. Besland, and A. Granier, Eur. Phys. J. Appl. Phys., 34: 157 (2006)."
+			},
+			{
+				"doi": "10.1016/j.carbon.2006.03.010",
+				"or":  "N. Q. Zhao, C. N. He, X. W. Du, C. S. Shi, J. J. Li, and L. Cui, Carbon, 44: 1859 (2006).",
+				"tr":  "N. Q. Zhao, C. N. He, X. W. Du, C. S. Shi, J. J. Li, and L. Cui, Carbon, 44: 1859 (2006)."
+			},
+			{
+				"doi": "10.1557/jmr.2006.0339",
+				"or":  "E. G. Wang, J. Mater. Res., 21: 2767 (2006).",
+				"tr":  "E. G. Wang, J. Mater. Res., 21: 2767 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Yu and E. G. Wang, Lecture Notes in Nanoscale Science and Technology. Vol. 6 (New York: Springer: 2009).",
+				"tr":  "J. Yu and E. G. Wang, Lecture Notes in Nanoscale Science and Technology. Vol. 6 (New York: Springer: 2009)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Ma, V. S. Srikanth, D. Maik, G. Y. Zhang, T. Staedler, and X. Jiang, J. Appl. Phys., 94: 5592 (2009).",
+				"tr":  "S. Ma, V. S. Srikanth, D. Maik, G. Y. Zhang, T. Staedler, and X. Jiang, J. Appl. Phys., 94: 5592 (2009)."
+			},
+			{
+				"doi": "10.1016/S0040-6090(02)00798-8",
+				"or":  "X. W. Liu, L. H. Chan, K. H. Hong, and H. C. Shih, Thin Sol. Films, 420–421: 212 (2002).",
+				"tr":  "X. W. Liu, L. H. Chan, K. H. Hong, and H. C. Shih, Thin Sol. Films, 420–421: 212 (2002)."
+			},
+			{
+				"doi": "10.1016/j.carbon.2005.11.027",
+				"or":  "S. Maldonado, S. Morin, and K. J. Stevenson, Carbon, 44: 1429 (2006).",
+				"tr":  "S. Maldonado, S. Morin, and K. J. Stevenson, Carbon, 44: 1429 (2006)."
+			},
+			{
+				"doi": "10.3390/ma3032141",
+				"or":  "E. N. Nxumalo and N. J. Coville, J. Mater., 3: 2141 (2010).",
+				"tr":  "E. N. Nxumalo and N. J. Coville, J. Mater., 3: 2141 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "L. H. Chan, K. H. Hong, D. Q. Xiao, T. C. Lin, S. H. Lai, and W. J. Hsieh, Phys. Rev. B, 70: 408 (2004).",
+				"tr":  "L. H. Chan, K. H. Hong, D. Q. Xiao, T. C. Lin, S. H. Lai, and W. J. Hsieh, Phys. Rev. B, 70: 408 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "F. L. Normand, J. Hommet, T. Szörényi, C. Fuchs, and E. Fogarassy, Phys. Rev. B, 64: 416 (2001).",
+				"tr":  "F. L. Normand, J. Hommet, T. Szörényi, C. Fuchs, and E. Fogarassy, Phys. Rev. B, 64: 416 (2001)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2003.10.068",
+				"or":  "G. J. Pap, I. Bertóti, T. Szörényi, and P. Heszler, Surf. Coat. Tech., 180: 271 (2004).",
+				"tr":  "G. J. Pap, I. Bertóti, T. Szörényi, and P. Heszler, Surf. Coat. Tech., 180: 271 (2004)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2006.07.197",
+				"or":  "P. Gao, J. Xu, Y. Piao, W. Ding, D. Wang, X. Deng, and C. Dong, Surf. Coat. Tech., 201: 5298 (2007).",
+				"tr":  "P. Gao, J. Xu, Y. Piao, W. Ding, D. Wang, X. Deng, and C. Dong, Surf. Coat. Tech., 201: 5298 (2007)."
+			},
+			{
+				"doi": "10.1002/pssb.200776151",
+				"or":  "L. G. Bulusheva, A. V. Okotrub, A. G. Kudashov, E. M. Pazhetnov, A. I. Boronin, and D. V. Vyalikh, Phys. Stat. Sol. (b), 244: 4078 (2007).",
+				"tr":  "L. G. Bulusheva, A. V. Okotrub, A. G. Kudashov, E. M. Pazhetnov, A. I. Boronin, and D. V. Vyalikh, Phys. Stat. Sol. (b), 244: 4078 (2007)."
+			},
+			{
+				"doi": "10.1002/pssb.200879592",
+				"or":  "L. G. Bulusheva, A. V. Okotrub, I. A. Kinloch, I. P. Asanov, A. G. Kurenya, A. G. Kudashov, X. Chen, and H. Song, Phys. Stat. Sol. (b), 245: 1971 (2008).",
+				"tr":  "L. G. Bulusheva, A. V. Okotrub, I. A. Kinloch, I. P. Asanov, A. G. Kurenya, A. G. Kudashov, X. Chen, and H. Song, Phys. Stat. Sol. (b), 245: 1971 (2008)."
+			},
+			{
+				"doi": "10.1021/nl803279t",
+				"or":  "D. Wei, Y. Liu, Yu. Wang, H. Zhang, L. Huang, and G. Yu, Nano Lett., 9: 1752 (2009).",
+				"tr":  "D. Wei, Y. Liu, Yu. Wang, H. Zhang, L. Huang, and G. Yu, Nano Lett., 9: 1752 (2009)."
+			},
+			{
+				"doi": "10.1021/nl803262s",
+				"or":  "D. H. Lee, W. J. Lee, and S. O. Kim, Nano Lett., 9: 1427 (2009).",
+				"tr":  "D. H. Lee, W. J. Lee, and S. O. Kim, Nano Lett., 9: 1427 (2009)."
+			},
+			{
+				"doi": "10.1021/cm8034533",
+				"or":  "D. H. Lee, W. J. Lee, and S. O. Kim, Chem. Mater., 21: 1368 (2009).",
+				"tr":  "D. H. Lee, W. J. Lee, and S. O. Kim, Chem. Mater., 21: 1368 (2009)."
+			},
+			{
+				"doi": "10.1016/j.carbon.2007.10.001",
+				"or":  "V. O. Khavrus, A. Leonhardt, S. Hampel, Ch. Taschner, Ch. Muller, W. Gruner, S. Oswald, P. E. Strizhak, and B. Buchner, Carbon, 45: 2889 (2007).",
+				"tr":  "V. O. Khavrus, A. Leonhardt, S. Hampel, Ch. Taschner, Ch. Muller, W. Gruner, S. Oswald, P. E. Strizhak, and B. Buchner, Carbon, 45: 2889 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "J. L. Bantignies, M. R. Babaa, L. Alvarez, P. Parent, F. Le Normand, O. Stеphan, P. Poncharal, A. Loiseau, and B. Doyle, J. Nanosci. Nanotech., 7: 3524 (2007).",
+				"tr":  "J. L. Bantignies, M. R. Babaa, L. Alvarez, P. Parent, F. Le Normand, O. Stephan, P. Poncharal, A. Loiseau, and B. Doyle, J. Nanosci. Nanotech., 7: 3524 (2007)."
+			},
+			{
+				"doi": "10.1002/smll.200500513",
+				"or":  "C. Ducati, K. Koziol, S. Friedrichs, T. J. V. Yates, M. S. Shaffer, P. A. Midgley, and A. H. Windle, Small, 2: 774 (2008).",
+				"tr":  "C. Ducati, K. Koziol, S. Friedrichs, T. J. V. Yates, M. S. Shaffer, P. A. Midgley, and A. H. Windle, Small, 2: 774 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Ghosh, M. Zamri, M. Subramanian, T. Soga, T. Jimbo, R. Katoh, and M. Tanemura, J. Phys. D: Appl. Phys., 41: 405 (2008).",
+				"tr":  "P. Ghosh, M. Zamri, M. Subramanian, T. Soga, T. Jimbo, R. Katoh, and M. Tanemura, J. Phys. D: Appl. Phys., 41: 405 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Droppa, P. Hammer, A. C. M. Carvalho, M. C. dos Santos, and F. Alvarez, J. Non-Cryst. Sol., 299: 874 (2002).",
+				"tr":  "R. Droppa, P. Hammer, A. C. M. Carvalho, M. C. dos Santos, and F. Alvarez, J. Non-Cryst. Sol., 299: 874 (2002)."
+			},
+			{
+				"doi": "10.1557/JMR.2004.0249",
+				"or":  "T. Mu, J. Huang, Z. Liu, Z. Li, and B. Han, J. Mater. Res., 19: 1736 (2004).",
+				"tr":  "T. Mu, J. Huang, Z. Liu, Z. Li, and B. Han, J. Mater. Res., 19: 1736 (2004)."
+			},
+			{
+				"doi": "10.1002/pssa.200566110",
+				"or":  "C. Morant, J. Andrey, P. Prieto, D. Mendiola, J. M. Sanz, and E. Elizalde, Phys. Stat. Sol. (a), 6: 1069 (2006).",
+				"tr":  "C. Morant, J. Andrey, P. Prieto, D. Mendiola, J. M. Sanz, and E. Elizalde, Phys. Stat. Sol. (a), 6: 1069 (2006)."
+			},
+			{
+				"doi": "10.2174/187221007779814772",
+				"or":  "J. Li, C. Cao, and H. Zhu, Nanotech., 18: 11 (2007).",
+				"tr":  "J. Li, C. Cao, and H. Zhu, Nanotech., 18: 11 (2007)."
+			},
+			{
+				"doi": "10.1016/j.carbon.2007.10.034",
+				"or":  "S. van Dommele, A. Romero-Izquirdo, R. Brydson, K. P. de Jong, and J. H. Bitter, Carbon, 46: 138 (2008).",
+				"tr":  "S. van Dommele, A. Romero-Izquirdo, R. Brydson, K. P. de Jong, and J. H. Bitter, Carbon, 46: 138 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "A. V. Okotrub, L. G. Bulusheva, A. G. Kudashov, V. V. Belavin, D. V. Vyalikh, and S. L. Molodtsov, J. Appl. Phys., 94: 3 (2009).",
+				"tr":  "A. V. Okotrub, L. G. Bulusheva, A. G. Kudashov, V. V. Belavin, D. V. Vyalikh, and S. L. Molodtsov, J. Appl. Phys., 94: 3 (2009)."
+			},
+			{
+				"doi": "10.1007/s11671-008-9225-2",
+				"or":  "R. M. Yadav, P. S. Dobal, T. Shripathi, R. S. Katiyar, and O. N. Srivastava, Nanoscale Res. Lett., 4: 3 (2009).",
+				"tr":  "R. M. Yadav, P. S. Dobal, T. Shripathi, R. S. Katiyar, and O. N. Srivastava, Nanoscale Res. Lett., 4: 3 (2009)."
+			},
+			{
+				"doi": "10.1002/adma.200900965",
+				"or":  "J. P. Paraknowitsch, J. Zhang, D. Su, A. Thomas, and M. Antonietti, Carbon Adv. Mater., 22: 87 (2009).",
+				"tr":  "J. P. Paraknowitsch, J. Zhang, D. Su, A. Thomas, and M. Antonietti, Carbon Adv. Mater., 22: 87 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "B. I. Yakobson and L. S. Couchman, Carbon Nanotubes: Supramolecular Mechanics. 2nd edition (Dekker Encyclopaedia of Nanoscience and Nanotechnology: 2009).",
+				"tr":  "B. I. Yakobson and L. S. Couchman, Carbon Nanotubes: Supramolecular Mechanics. 2nd edition (Dekker Encyclopaedia of Nanoscience and Nanotechnology: 2009)."
+			},
+			{
+				"doi": "10.1021/nl015549q",
+				"or":  "R. Czerw, M. Terrones, J.-C. Charlier, X. Blase, B. Foley, R. Kamalakaran, N. Grobert, H. Terrones, D. Tekleab, P.M. Ajayan, W. Blau, M. Rühle, and D. L. Carroll, Nano Lett., 1: 457 (2001).",
+				"tr":  "R. Czerw, M. Terrones, J.-C. Charlier, X. Blase, B. Foley, R. Kamalakaran, N. Grobert, H. Terrones, D. Tekleab, P.M. Ajayan, W. Blau, M. Rühle, and D. L. Carroll, Nano Lett., 1: 457 (2001)."
+			},
+			{
+				"doi": "10.1002/smll.200500238",
+				"or":  "M. Terrones, Small, 1: 1032 (2005).",
+				"tr":  "M. Terrones, Small, 1: 1032 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.76.195406",
+				"or":  "S. H. Lim, R. Li, W. Ji, and J. Lin, Phys. Rev. B, 76: 19 (2007).",
+				"tr":  "S. H. Lim, R. Li, W. Ji, and J. Lin, Phys. Rev. B, 76: 19 (2007)."
+			},
+			{
+				"doi": "10.1021/ja0587852",
+				"or":  "C.-L. Sun, H.-W. Wang, M. Hayashi, L.-C. Chen, and K.-H. Chen, J. Am. Chem. Soc., 128: 8368 (2006).",
+				"tr":  "C.-L. Sun, H.-W. Wang, M. Hayashi, L.-C. Chen, and K.-H. Chen, J. Am. Chem. Soc., 128: 8368 (2006)."
+			},
+			{
+				"doi": "10.1016/0168-583X(92)96012-N",
+				"or":  "H. Gades and H. M. Urbassek, Nucl. Instr. and Meth., 69: 232 (1992).",
+				"tr":  "H. Gades and H. M. Urbassek, Nucl. Instr. and Meth., 69: 232 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "D. C. Rapaport, The Art of Molecular Dynamics Simulation (Cambridge, UK: Cambridge University Press: 1995).",
+				"tr":  "D. C. Rapaport, The Art of Molecular Dynamics Simulation (Cambridge, UK: Cambridge University Press: 1995)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.39.5566",
+				"or":  "J. Tersoff, Phys. Rev. B, 39: 5566 (1989).",
+				"tr":  "J. Tersoff, Phys. Rev. B, 39: 5566 (1989)."
+			},
+			{
+				"doi": "10.1016/S0928-4931(01)00308-3",
+				"or":  "S. Dorfman, K. C. Mundim, and D. Fuks, Mater. Sci. Eng. C, 15: 191 (2001).",
+				"tr":  "S. Dorfman, K. C. Mundim, and D. Fuks, Mater. Sci. Eng. C, 15: 191 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "H. S. Ahn, S.-C. Lee, S. Han, K.-R. Lee, and D.-Y. Kim, J. Nanotech., 17: 909 (2006).",
+				"tr":  "H. S. Ahn, S.-C. Lee, S. Han, K.-R. Lee, and D.-Y. Kim, J. Nanotech., 17: 909 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "M. S. Dresselhaus, G. Dresselhaus, J. C. Charlier, and E. Hernandez, J. App. Phys., 11: 165 (2008).",
+				"tr":  "M. S. Dresselhaus, G. Dresselhaus, J. C. Charlier, and E. Hernandez, J. App. Phys., 11: 165 (2008)."
+			},
+			{
+				"doi": "10.1007/s11671-008-9138-0",
+				"or":  "K. Sanjay, V. Srivastava, V. D. Vankar, V. Kumar, and V. N. Singh, Nanoscale Res. Lett., 3: 205 (2008).",
+				"tr":  "K. Sanjay, V. Srivastava, V. D. Vankar, V. Kumar, and V. N. Singh, Nanoscale Res. Lett., 3: 205 (2008)."
+			},
+			{
+				"doi": "10.1021/jp809277w",
+				"or":  "C. Wang, L. Qiao, C. Qu, W. Zheng, and Q. Jiang, J. Phys. Chem. C, 113: 812 (2009).",
+				"tr":  "C. Wang, L. Qiao, C. Qu, W. Zheng, and Q. Jiang, J. Phys. Chem. C, 113: 812 (2009)."
+			},
+			{
+				"doi": "10.1021/nl034161n",
+				"or":  "Y.-M. Choi, D.-S. Lee, R. Czerw, P.-W. Chiu, N. Grobert, M. Terrones, M. Reyes-Reyes, H. Terrones, J.-C. Charlier, P. M. Ajayan, S. Roth, D. L. Carroll, and Y.-W. Park, Nano Lett., 3: 839 (2003).",
+				"tr":  "Y.-M. Choi, D.-S. Lee, R. Czerw, P.-W. Chiu, N. Grobert, M. Terrones, M. Reyes-Reyes, H. Terrones, J.-C. Charlier, P. M. Ajayan, S. Roth, D. L. Carroll, and Y.-W. Park, Nano Lett., 3: 839 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Terrones, A. G. S. Filho, and A. M. Rao, M. Terrones, A. G. S. Filho, and A. M. Rao, Ch. Carbon Nanotubes (2008), Vol. 111 of the series Topics in Applied Physics, p. 531.",
+				"tr":  "1007/978-3-540-72865-8_17"
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2007.07.014",
+				"or":  "H. Kumar, B. Viswanathan, and S. S. Murthy, Int. J. Hydrogen Energy, 33: 366 (2007).",
+				"tr":  "H. Kumar, B. Viswanathan, and S. S. Murthy, Int. J. Hydrogen Energy, 33: 366 (2007)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2009.09.077",
+				"or":  "Sunil Kumar Pandey, Rajesh Kumar Singh, O.N. Srivastava, Int. J. Hydrogen Energy, 34: 9379 (2007).",
+				"tr":  "Sunil Kumar Pandey, Rajesh Kumar Singh, O.N. Srivastava, Int. J. Hydrogen Energy, 34: 9379 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Інформація на http://en.wikipedia.org/wiki/Graphene.",
+				"tr":  "Іnformation at http://en.wikipedia.org/wiki/Graphene."
+			},
+			{
+				"doi": "",
+				"or":  "Т. М. Радченко, Металлофиз. новейшие технол., 30, № 8: 1021 (2008).",
+				"tr":  "T. M. Radchenko, Metallofiz. Noveishie Tekhnol., 30, No. 8: 1021 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. М. Радченко, В. А. Татаренко, Наносистеми, наноматеріали, нанотехнології, 6, № 3: 867 (2008).",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, Nanosistemi, Nanomaterіali, Nanotehnologії, 6, No. 3: 867 (2008)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/SSP.150.43",
+				"or":  "T. M. Radchenko and V. A. Tatarenko, Solid State Phenom., 150: 43 (2009).",
+				"tr":  "T. M. Radchenko and V. A. Tatarenko, Solid State Phenom., 150: 43 (2009)."
+			},
+			{
+				"doi": "10.1016/j.solidstatesciences.2009.05.027",
+				"or":  "T. M. Radchenko and V. A. Tatarenko, Solid State Sci., 12, No. 2: 204 (2010).",
+				"tr":  "T. M. Radchenko and V. A. Tatarenko, Solid State Sci., 12, No. 2: 204 (2010)."
+			},
+			{
+				"doi": "10.1016/j.physe.2010.03.024",
+				"or":  "T. M. Radchenko and V. A. Tatarenko, Physica E, 42, No. 8: 2047 (2010).",
+				"tr":  "T. M. Radchenko and V. A. Tatarenko, Physica E, 42, No. 8: 2047 (2010)."
+			},
+			{
+				"doi": "10.15407/ufm.11.01.095",
+				"or":  "І. Ю. Сагалянов, Ю. І. Прилуцький, Т. М. Радченко, В. А. Татаренко, Успехи физ. мет., 11, № 1: 95 (2010).",
+				"tr":  "I. Yu. Sagalianov, Yu. I. Prylutskyy, T. M. Radchenko, and V. A. Tatarenko, Usp. Fiz. Met., 11, No. 1: 95 (2010)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2010.06.112",
+				"or":  "T. M. Radchenko and V. A. Tatarenko, Int. J. Hydrogen Energy, 36, No. 1: 1338 (2011).",
+				"tr":  "T. M. Radchenko and V. A. Tatarenko, Int. J. Hydrogen Energy, 36, No. 1: 1338 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Хачатурян, Теория фазовых превращений и структура твердых растворов (Москва: Наука: 1974).",
+				"tr":  "A. G. Khachaturyan, Teoriya fazovykh prevrashchenii i struktura tverdykh rastvorov (Moskva: Nauka: 1974)."
+			},
+			{
+				"doi": "",
+				"or":  "A. G. Khachaturyan, Theory of Structural Transformations in Solids (New York: John Wiley & Sons: 1983).",
+				"tr":  "A. G. Khachaturyan, Theory of Structural Transformations in Solids (New York: John Wiley & Sons: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. М. Радченко, В. А. Татаренко, Наносистеми, наноматеріали, нанотехнології, 8, № 3: 623 (2010).",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, Nanosistemi, Nanomaterіali, Nanotehnologії, 8, No. 3: 623 (2010)."
+			}
+		]
+	}
+}

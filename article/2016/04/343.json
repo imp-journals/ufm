@@ -1,0 +1,238 @@
+{
+	"_id":    "UFM.17.04.343",
+	"year":   2016,
+	"volume": 17,
+	"issue":  4,
+	"pages":  [343,373],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["01.11.2016"],
+	"PACS":   "06.60.Vz, 62.20.F-, 62.20.Qp, 62.40+i, 62.50.-p, 81.40.Ef, 81.40.Lm",
+	"title":   {
+		"ua": "Структура та фізико-механічні властивості стопу Nb–Ti після різних видів механіко-термічних впливів",
+		"en": "Structure and Physical-Mechanical Properties of a Nb–Ti Alloy after Different Kinds of Mechanical-Thermal Impacts",
+		"ru": "Структура и физико-механические свойства сплава Nb–Ti после разных видов механико-термических воздействий"
+	},
+	"abstract": {
+		"ua": "У роботі представлено експериментальні результати впливу п’яти режимів механіко-термічних оброблянь (МТО), що включають різні види деформації (екструзію, волочіння, осад, видавлювання, деформацію в умовах всебічного стиснення та їх поєднання) на фізико-механічні та структурні характеристики стопу НТ-50. Виміряні залежності модуля зсуву в області 20–400°C і міцности при 20°C після всіх режимів МТО. Показано, що модуль зсуву і характеристики міцности стопу НТ-50 мають якісно різні залежності від ступеня деформації, а значить від концентрації деформаційних дефектів та кількости $\\alpha$-Ti фази, що випала з $\\beta$-твердого розчину. За результатами вимірювань температурних залежностей внутрішнього тертя та відносного питомого електроопору визначено рівні внутрішньої напруги в стопі НТ-50 після різних режимів МТО. Виявлено, що в процесі різноспрямованих деформацій (РСД) при 20 і 400°C відбуваються релаксаційні процеси, що призводять до зниження рівнів внутрішніх напружень у стопі. Обговорюються механізми впливу різних режимів МТО на фізико-механічні властивості стопу НТ-50.",
+		"en": "The work presents experimental results on influence of five regimes of mechanical-thermal treatments (MTT), including different types of deformation (extrusion, drawing, draft, extrusion, deformation under quasi-comprehensive compression and their combination) on physical and mechanical as well as structural characteristics of NT-50 alloy. The dependences of the shear modulus at 20–400°C, strength characteristics at 20°C, temperature dependences of internal friction and relative resistivity within the 20–450°C after all MTT regimes are measured. It is shown that shear modulus and strength characteristics of HT-50 alloy have qualitatively different dependences on deformation degree, and hence on concentration of strain defects and quantity of $\\alpha$-Ti phase precipitated of $\\beta$-solid solution. According to the results of measurements of temperature dependences of internal friction and relative resistivity, the levels of internal stresses in HT-50 alloy after different MTT regimes are determined. It is revealed that during the process of deformations along different directions (DDD) at 20 and 400°C, relaxation processes resulting to reduction in the internal stress levels in the alloy are occurring. The mechanisms of influence of different MTT regimes on physical and mechanical properties of NT-50 alloy are discussed.",
+		"ru": "В работе представлены экспериментальные результаты влияния пяти режимов механико-термических обработок (МТО), включающих разные виды деформации (экструзию, волочение, осадку, выдавливание, деформацию в условиях квазивсестороннего сжатия и их сочетание) на физико-механические и структурные характеристики сплава НТ-50. Измерены зависимости модуля сдвига в области 20–400°C, прочностные характеристики при 20°C, температурные зависимости внутреннего трения и относительного удельного электросопротивления в области 20–450°C после всех режимов МТО. Показано, что модуль сдвига и прочностные характеристики сплава НТ-50 имеют качественно разные зависимости от степени деформации, а следовательно от концентрации деформационных дефектов и количества $\\alpha$-Ti фазы, выпавшей из $\\beta$-твёрдого раствора. По результатам измерений температурных зависимостей внутреннего трения и относительного удельного электросопротивления определены уровни внутренних напряжений в сплаве НТ-50 после разных режимов МТО. Выявлено, что в процессе разнонаправленной деформации (РНД) при 20 и 400°C происходят релаксационные процессы, приводящие к снижению уровней внутренних напряжений в сплаве. Обсуждаются механизмы влияния разных режимов МТО на физико-механические свойства сплава НТ-50."
+	},
+	"keywords": {
+		"ua": "пластична деформація, фізико-механічні властивості, модуль зсуву, внутрішнє тертя, питомий електричний опір, структура, релаксаційні процеси",
+		"en": "plastic deformation, physical and mechanical properties, shear modulus, internal friction, resistivity, structure, relaxation processes",
+		"ru": "пластическая деформация, физико-механические свойства, модуль сдвига, внутреннее трение, удельное электрическое сопротивление, структура, релаксационные процессы"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Л. О. Чіркіна", "en": "L. O. Chirkina", "ru": "Л. А. Чиркина"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "М. Б. Лазарева", "en": "M. B. Lazareva", "ru": "М. Б. Лазарева"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "В. І. Соколенко", "en": "V. I. Sokolenko", "ru": "В. И. Соколенко"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "В. С. Оковит", "en": "V. S. Okovyt", "ru": "В. С. Оковит"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "В. В. Калиновський", "en": "and V. V. Kalynovsky", "ru": "В. В. Калиновский"},
+			"OID": [3]
+		}
+	],
+	"references": {
+		"count": 37,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Р. З. Валиев, И. В. Александров, Наноструктурные материалы, полученные интенсивной пластической деформацией (Москва: Логос: 2000).",
+				"tr":  "R. Z. Valiev and I. V. Aleksandrov, Nanostrukturnye Materialy, Poluchennye Intensivnoy Plasticheskoy Deformatsiey [Nanostructured Materials Obtained by the Severe Plastic Deformations] (Moscow: Logos: 2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. М. Неклюдов, О. И. Волчок, В. В. Калиновский, В. С. Оковит, В. И. Соколенко, П. А. Хаймович, Н. А. Черняк, Л. А. Чиркина, Вопросы атомной науки и техники. Серия: Вакуум, чистые материалы, сверхпроводники, 17, № 3: 108 (2008).",
+				"tr":  "I. M. Neklyudov, O. I. Volchok, V. V. Kalinovsky, V. S. Okovit, V. I. Sokolenko, P. A. Khaimovich, N. A. Cherniak, and L. A. Chirkina, Voprosy Atomnoy Nauki i Tekhniki. Seriya: Vakuum, Chistye Materialy, Sverkhprovodniki, 17, No. 3: 108 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В.Черный, Я. Д. Стародубов, О. И. Волчок, Г. Е. Сторожилов, Способ изготовления ниобий-титанового сверхпроводника: патент Украины, № 42487А от 15.10.2001.",
+				"tr":  "O. V. Chernyy, Ya. D. Starodubov, O. I. Volchok, and G. E. Storozhilov, Sposob Izgotovleniya Niobiy-Titanovogo Sverkhprovodnika: Patent of Ukraine 42487A, October 15 (2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Ажажа, Д. Г. Малыхин, Г. Е. Сторожилов, О. В.Черный, Вопросы атомной науки и техники. Серия: Вакуум, чистые материалы, сверхпроводники, 16, № 4: 58 (2007).",
+				"tr":  "V. M. Azhazha, D. G. Malykhin, G. E. Storozhilov, and O. V. Chernyy, Voprosy Atomnoy Nauki i Tekhniki. Seriya: Vakuum, Chistye Materialy, Sverkhprovodniki, 16, No. 4: 58 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Черный, Вопросы атомной науки и техники. Серия: Вакуум, чистые материалы, сверхпроводники, 16, № 4: 58 (2007).",
+				"tr":  "O. V. Chernyi, Voprosy Atomnoy Nauki i Tekhniki. Seriya: Vakuum, Chistye Materialy, Sverkhprovodniki, 16, No. 4: 58 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Verlinder, J. Driver, I. Samajdar, and R. Dohert, Thermo-Mechanical Processing of Metallic Materials (Ed. R. W. Cahn) (Elsevier: Amsterdam: 2007).",
+				"tr":  "B. Verlinder, J. Driver, I. Samajdar, and R. Dohert, Thermo-Mechanical Processing of Metallic Materials (Ed. R. W. Cahn) (Elsevier: Amsterdam: 2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Ф. Андриевская, В. С. Оковит, Т. Ю. Рудычева, М. П. Старолат, Г. Е. Сторожилов, М. А. Тихоновский, П. А. Хаймович, И. Н. Шаповал, Физика и техника высоких давлений, 19, № 2: 136 (2009).",
+				"tr":  "N. F. Andrievskaya, V. S. Okovit, T. Yu. Rudycheva, M. P. Starolat, G. E. Storozhilov, M. A. Tikhonovskiy, P. A. Khaimovich, and I. N. Shapoval, Fizika i Tekhnika Vysokikh Davleniy, 19, No. 2, 136: (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Зайцев, Физика гидростатически сжатых кристаллов (Киев: Наукова думка: 1983).",
+				"tr":  "V. I. Zaitsev, Fizika Gidrostaticheski Szhatykh Kristallov [Physics of Hydrostatically Compressed Crystal] (Kiev: Naukova Dumka: 1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Д. Мартынов, В. И. Трефилов, С. А. Фирстов, Б. И. Береснев, Ю. Н. Рябинин, Доклады АН СССР, 176, № 6: 1276 (1967).",
+				"tr":  "E. D. Martynov, V. I. Trefilov, S. A. Firstov, B. I. Beresnev, and Yu. N. Riabinin, Doklady AN SSSR, 176, No.6: 1276 (1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Галкин, В. И. Трефилов, В. П. Буряк, В. А. Минаков, Е. В. Турцевич, А. И. Байков, Г. А. Корнеева, С. А. Фирстов, Металлофизика, 68: 55 (1977).",
+				"tr":  "A. A. Galkin, V. I. Trefilov, V. P. Buriak, V. A. Minakov, E. V. Turtsevich, A. I. Baikov, G. A. Korneeva, and S. A. Firstov, Metallofizika, 68: 55 (1977) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.16.01.061.",
+				"or":  "В. В. Калиновский, М. Б. Лазарева, Д. Г. Малыхин, А. В. Мац, В. С. Оковит, В. И. Соколенко, Л. А. Чиркина, Успехи физики металлов, 16, № 1: 61 (2015).",
+				"tr":  "V. V. Kalinovsky, M. B. Lazareva, D. G. Malykhin, A. V. Mats, V. S. Okovit, V. I. Sokolenko, and L. A. Chirkina, Uspehi Fiziki Metallov, 16, No. 1: 61 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Штремель, Прочность сплавов. Часть 1. Дефекты решетки (Москва: МИСиС: 1999).",
+				"tr":  "M. A. Shtremel, Prochnost' Splavov. Chast 1. Defekty Reshetki [Strength of Alloys. Part 1. Lattice Defects] (Moscow: MISiS: 1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Физическое металловедение. Вып. 3. Дефекты кристаллического строения. Механические свойства металлов и сплавов (Ред. Р. Кан) (Москва: Мир: 1968).",
+				"tr":  "Fizicheskoe Metallovedenie. Iss. 3. Defekty Kristallicheskogo Stroeniya. Mekhanicheskie Svoistva Metallov i Splavov [Physical Metal Science. Iss. 3. Defects of Crystal Structure. Mechanical Properties of Metals and Alloys] (Ed. R. Cahn) (Moscow: Mir: 1968) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Гиндин, С. Ф. Кравченко, Я. Д. Стародубов, Г. Г. Чечельницкий, Приборы и техника эксперимента, № 2: 240 (1967).",
+				"tr":  "I. A. Gindin, S. F. Kravchenko, Ya. D. Starodubov, and G. G. Chechelnitskiy, Pribory i Tekhnika Ehksperimenta, 2: 240 (1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Гиндин, В. И. Коваленко, В. С. Оковит, Я. Д. Стародубов, Л. А. Чиркина, Заводская лаборатория, № 11: 1397 (1970).",
+				"tr":  "I. A. Gindin, V. I. Kovalenko, V. S. Okovit, Ya. D. Starodubov, and L. A. Chirkina, Zavodskaya Laboratoriya, No. 11: 1397 (1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Постников, Внутреннее трение в металлах (Москва: Металлургия: 1974).",
+				"tr":  "V. S. Postnikov, Vnutrennee Trenie v Metallakh [Internal Friction in Metals] (Moscow: Metallurgiya: 1974) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0022-3115(66)90028-6",
+				"or":  "A. Desalvo and F. Zignani, J. Nuclear Materials, 20: 108 (1966).",
+				"tr":  "A. Desalvo and F. Zignani, J. Nuclear Materials, 20: 108 (1966)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Е. Сторожилов, И. Н. Шаповал, О. В. Черный, Н. Ф. Андриевская, Вопросы атомной науки и техники. Серия: Вакуум, чистые материалы, сверхпроводники, 15, № 1: 67 (2006).",
+				"tr":  "G. E. Storozhilov, I. N. Shapoval, O. V. Chernyy, and N. F. Andrievskaya, Voprosy Atomnoy Nauki i Tekhniki. Seriya: Vakuum, Chistye Materialy, Sverkhprovodniki, 15, No. 1: 67 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. А. Чиркина, М. Б. Лазарева, Г. Е. Сторожилов, В. С. Оковит, Н. Ф. Андриевская, В. И. Соколенко, В. В. Калиновский, Т. Ю. Рудычева, Вопросы атомной науки и техники. Серия: Физика радиационных повреждений и радиационное материаловедение, 99, № 5: 134 (2015).",
+				"tr":  "L. A. Chirkina, M. B. Lazareva, G. E. Storozhilov, V. S. Okovit, N. F. Andrievskaya, V. I. Sokolenko, V. V. Kalinovsky, and T. Yu. Rudycheva, Voprosy Atomnoy Nauki i Tekhniki. Seriya: Fizika Radiatsionnykh Povrezhdeniy i Radiatsionnoe Materialovedenie, 99, No. 5: 134 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ж. Фридель, Дислокации (Москва: Мир: 1967).",
+				"tr":  "J. H. Friedel, Dislokatsii [Dislocations] (Moscow: Mir: 1967) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Алерс, Д. Томпсон, Ультразвуковые методы исследования дислокаций (Москва: Изд-во иностранной литературы: 1963) (пер. с англ. и немец.).",
+				"tr":  "G. A. Alers and D. O. Thompson, Ultrasonic Measurements for Process Control: Theory, Techniques, Applications (Ed. L. C. Lynnworth) (San Diego: Academic Press Inc.: 1989)."
+			},
+			{
+				"doi": "10.1016/0011-2275(77)90288-0",
+				"or":  "C. C. Koch and D. S. Easton, Cryogenics, 17, No. 7: 391 (1977).",
+				"tr":  "C. C. Koch and D. S. Easton, Cryogenics, 17, No. 7: 391 (1977)."
+			},
+			{
+				"doi": "10.15407/fm20.04.489",
+				"or":  "L. A. Сhirkina, O. I. Volchok, M. B. Lazareva, V. S. Okovit, and G. E. Storozhilov, Functional Materials, 20, No. 4: 489 (2013).",
+				"tr":  "L. A. Chirkina, O. I. Volchok, M. B. Lazareva, V. S. Okovit, and G. E. Storozhilov, Functional Materials, 20, No. 4: 489 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "Металловедение и технология сверхпроводящих материалов (Ред. С. Фонер, Б. Шварц) (Москва: Металлургия: 1987).",
+				"tr":  "Metallovedenie i Tekhnologiya Sverkhprovodyashchikh Materialov [Metal Science and Technology of Superconducting Materials] (Eds. S. Foner and B. Schwartz) (Moscow: Metallurgiya: 1987) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Черный, Вопросы атомной науки и техники. Серия: Вакуум, чистые материалы, сверхпроводники, 9, № 1: 10 (1999).",
+				"tr":  "O. V. Chernyy, Voprosy Atomnoy Nauki i Tekhniki. Seriya: Vakuum, Chistye Materialy, Sverkhprovodniki, 9, No. 1: 10 (1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Черный, Г. Е. Сторожилов, Т. Ю. Рудычева, Н. Ф. Андриевская, В. О. Ильичева, В. И. Соколенко, Л. А. Чиркина, В. С. Оковит, М. Б. Лазарева, О. И. Волчок, П. А. Хаймович, Международная конференция «Физика конденсированного состояния вещества при низких температурах» (20–22 июня 2006 г., Харьков, Украина).",
+				"tr":  "O. V. Chernyy, G. E. Storozhilov, T. Yu. Rudycheva, N. F. Andrievskaya, V. O. Ilicheva, V. I. Sokolenko, L. A. Chirkina, V. S. Okovit, M. B. Lazareva, O. I. Volchok, and P. A. Khaimovich, Int. Conference 'Condenced Matter Physics at Low Temperatutres' (June 20–22, 2006, Kharkiv, Ukraine)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Е. Сторожилов, Н. Ф. Андриевская, М. А. Тихоновский, М. П. Старолат, И. Н. Шаповал, В. А. Белошенко, Н. И. Матросов, В. В. Чишко, Физика и техника высоких давлений, 21, № 1:102 (2011).",
+				"tr":  "G. E. Storozhilov, N. F. Andrievskaya, M. A. Tikhonovskiy, M. P. Starolat, I. N. Shapoval, V. A. Beloshenko, N. I. Matrosov, and V. V. Chishko, Fizika i Tekhnika Vysokikh Davleniy, 21, No. 1: 102 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. К. Аксенов, О. И. Волчок, В. М. Горбатенко, В. А. Емлянинов, М. Б. Лазарева, А. В. Мац, В. С. Оковит, Я. Д. Стародубов, О. В. Черный, Л. А. Чиркина, Физика низких температур, 20, № 6: 595 (1994).",
+				"tr":  "V. K. Aksenov, O. I. Volchok, V. M. Gorbatenko, V. A. Emlyaninov, M. B. Lazareva, A. V. Mats, V. S. Okovit, Ya. D. Starodubov, O. V. Chernyy, and L. A. Chirkina, Fizika Nizkikh Temperatur, 20, No. 6: 595 (1994) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Бабун, А. А. Васильев, К. В. Ковтун, М. П. Старолат, С. П. Стеценко, О. В. Трембач, С. В. Ховрич, Физика и техника высоких давлений, 20, № 2: 133 (2010).",
+				"tr":  "A. V. Babun, A. A. Vasilyev, K. V. Kovtun, M. P. Starolat, S. P. Stetsenko, O. V. Trembach, and S. V. Khovrich, Fizika i Tekhnika Vysokikh Davleniy, 20, No. 2: 133 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Бабун, А. А. Васильев, М. П. Старолат, С. П. Стеценко, О. В. Трембач, С. В. Ховрич, К. В. Ковтун, Вопросы атомной науки и техники. Серия: Вакуум, чистые металлы, сверхпроводники, 89, № 1: 10 (2014).",
+				"tr":  "A. V. Babun, A. A. Vasilyev, M. P. Starolat, S. P. Stetsenko, O. V. Trembach, S. V. Khovrich, and K. V. Kovtun, Voprosy Atomnoy Nauki i Tekhniki. Seriya: Vakuum, Chistye Materialy, Sverkhprovodniki, 89, No. 1: 10 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. Д. Фридман, Механические свойства металлов (Москва: Оборониздат: 1952).",
+				"tr":  "Ya. D. Fridman, Mekhanicheskie Svoistva Metallov [Mechanical Properties of Metals] (Moscow: Oboronizdat: 1952) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Новик, Б. Берри, Релаксационные явления (Москва: Атомиздат: 1975) (пер. с англ.).",
+				"tr":  "A. Nowick and B. Berry, Relaksatsionnye Yavleniya [Relaxation Phenomena] (Moscow: Atomizdat: 1975) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Ван Бюрен, Дефекты в кристаллах (Ред. А. Н. Орлов, В. Р. Регель) (Москва: Изд-во иностранной литературы: 1962) (пер. с англ.).",
+				"tr":  "H. G. Van Bueren, Defekty v Kristallakh [Imperfections in Crystals] (Moscow: Izd-vo Inostrannoy Literatury: 1962) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Аржавитин, Письма в ЖТФ, 30, № 12: 35 (2004).",
+				"tr":  "V. M. Arzhavitin, Pis'ma v ZhTF, 30, No. 12: 35 (2004) (in Russian."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Косевич, Дислокации в теории упругости (Киев: Наукова думка: 1978).",
+				"tr":  "A. M. Kosevich, Dislokatsii v Teorii Uprugosti [Dislocations in Elasticity Theory] (Kiev: Naukova Dumka: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Ф. Борисова, В. И. Соколенко, Я. Д. Стародубов, Физика низких температур, 18, № 8: 844 (1992).",
+				"tr":  "I. F. Borisova, V. I. Sokolenko, and Ya. D. Starodubov, Fizika Nizkikh Temperatur, 18, No. 8: 844 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Галкин, В. В. Токий, В. И. Зайцев, Доклады АН СССР, 204, № 2 (1972).",
+				"tr":  "A. A. Galkin, V. V. Tokiy, and V. I. Zaitsev, Doklady AN SSSR, 204, No. 2 (1972) (in Russian)."
+			}
+		]
+	}
+}

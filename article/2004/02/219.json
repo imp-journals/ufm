@@ -1,0 +1,1261 @@
+{
+	"_id":    "UFM.05.02.219",
+	"year":   2004,
+	"volume": 5,
+	"issue":  2,
+	"pages":  [219,255],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["22.11.2003"],
+	"PACS":   "61.46.+w, 62.25.+g, 81.07.Bc, 81.07.Bx, 81.16.-c, 83.80.-k",
+	"title":   {
+		"ua": "Наноструктурні стани в металах, стопах й інтерметалічних з'єднаннях: методи одержання, структура, властивості",
+		"en": "Nanoscale States in Metals, Alloys, and Intermetallic Compounds: Methods of Manufacture, Structure, Properties",
+		"ru": "Наноструктурные состояния в металлах, сплавах и интерметаллических соединениях: методы получения, структура, свойства"
+	},
+	"abstract": {
+		"ua": "Наноструктурні металічні матеріали, що мають унікальні властивості завдяки характерному структурному параметру, співставимому із міжатомними відстанями у кристалі, знайшли широке застосування та є основою багатьох сучасних технологій. Мета цього огляду — представити загальну картину досліджень наноструктурних станів у компактних металах, сплавах та інтерметалічних сполуках, дати характеристику основних методів отримання компактних наноструктурних матеріалів, їх властивостей та структурних особливостей. Також стисло представлено основні моделі, що пояснюють особливості будови та аномальні властивості металів та сплавів у нанокристалічному стані.",
+		"en": "Nanocrystalline metallic materials have been recognized as perspective materials for a wide range of modern technologies due to their unique properties, occurring because of their mainly structural parameters, which are comparable with the interatomic distances. This review objective is to characterize the current state of art in investigation of the nanoscale metals, alloys, and intermetallic compounds. Basic methods for preparing compact nanocrystalline materials are discussed. Recent results concerning the influence of the nanocrystalline state on the mechanical, thermal, and magnetic properties as well as microscopic structure of metals and condensed compounds are reviewed. The models presenting the structural features and anomalous properties of compact nanoscale materials are briefly analyzed.",
+		"ru": "Наноструктурные металлические материалы, обладающие уникальными свойствами благодаря характерному структурному размеру, сопоставимому с межатомными расстояниями в кристалле, нашли широкое применение и являются основой многих современных технологий. Цель данного обзора — представить общую картину исследований наноструктурных состояний в компактных металлах, сплавах и интерметаллидах, охарактеризовать основные методы получения компактных наноструктурных материалов, особенности их структуры и свойств. Так же кратко представлены основные модели, объясняющие особенности строения и аномальные свойства металлов и сплавов в нанокристаллическом состоянии."
+	},
+	"keywords": {
+		"ua": "нанокристалічні матеріали, мікроструктура, механичні властивості, фізичні властивості, сплави, інтерметалічні з’єднання",
+		"en": "nanocrystalline materialsm microstructure, mechanical properties, physical properties, alloys, intermetallic compounds",
+		"ru": "нанокристаллические материалы, микроструктура, механические свойства, физические свойства, сплавы, интерметаллические соединения"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. В. Шевченко", "en": "S. V. Shevchenko", "ru": "С. В. Шевченко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Н. М. Стеценко", "en": "N. M. Stetsenko", "ru": "Н. Н. Стеценко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 244,
+				"list":  [
+			{
+				"doi": "10.1016/S0965-9773(99)90002-8",
+				"or":  "M. Muhammed and K. V. Rao, Nanostruct. Mater., 12, No. 5–8: v-vi (1999)",
+				"tr":  "M. Muhammed and K. V. Rao, Nanostruct. Mater., 12, No. 5–8: v-vi (1999)"
+			},
+			{
+				"doi": "",
+				"or":  "E. Hurst, D. Hui, and G. Turvey, Composites B, 33, No. 8: iii-iv (2002).",
+				"tr":  "E. Hurst, D. Hui, and G. Turvey, Composites B, 33, No. 8: iii-iv (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "H. E. Schaefer, R. Würschum, R. Birringer, and H. Gleiter, Journal of the Less Common Metals, 140, No. 6: 161 (1998).",
+				"tr":  "H. E. Schaefer, R. Würschum, R. Birringer, and H. Gleiter, Journal of the Less Common Metals, 140, No. 6: 161 (1998)."
+			},
+			{
+				"doi": "10.1016/0368-2048(88)85018-7",
+				"or":  "C. D. Wagner and A. Joshi, Journal of Electron Spectroscopy and Related Phenomena, 47: 283 (1988).",
+				"tr":  "C. D. Wagner and A. Joshi, Journal of Electron Spectroscopy and Related Phenomena, 47: 283 (1988)."
+			},
+			{
+				"doi": "10.1016/S0013-4686(03)00519-X",
+				"or":  "O. V. Cherstiouk, P. A. Simonov, and E. R. Savinova, Electrochimica Acta, 48, No. 25–26: 3851 (2003).",
+				"tr":  "O. V. Cherstiouk, P. A. Simonov, and E. R. Savinova, Electrochimica Acta, 48, No. 25–26: 3851 (2003)."
+			},
+			{
+				"doi": "10.1016/S0920-5861(03)00409-7",
+				"or":  "M. Zdrazil, Catalysis Today, 86, No. 1–4: 151 (2003).",
+				"tr":  "M. Zdrazil, Catalysis Today, 86, No. 1–4: 151 (2003)."
+			},
+			{
+				"doi": "10.1016/S0043-1648(03)00305-3",
+				"or":  "W. Liu, Y. Chen, G. Kou, T. Xu, and D. C. Sun, Wear, 254, No. 10: 994 (2003).",
+				"tr":  "W. Liu, Y. Chen, G. Kou, T. Xu, and D. C. Sun, Wear, 254, No. 10: 994 (2003)."
+			},
+			{
+				"doi": "10.1016/S0043-1648(98)00220-8",
+				"or":  "S. Chen, W. Liu, and L. Yu, Wear, 218, No. 2: 153 (1998).",
+				"tr":  "S. Chen, W. Liu, and L. Yu, Wear, 218, No. 2: 153 (1998)."
+			},
+			{
+				"doi": "10.1016/S0167-9317(03)00363-0",
+				"or":  "M. A. Ali, K. E. Gonsalves, A. Agrawal, A. Jeyakumar, and C. L. Henderson, Microelectronic Engineering, 70, No. 1: 19 (2003).",
+				"tr":  "M. A. Ali, K. E. Gonsalves, A. Agrawal, A. Jeyakumar, and C. L. Henderson, Microelectronic Engineering, 70, No. 1: 19 (2003)."
+			},
+			{
+				"doi": "10.1016/S0167-9317(03)00310-1",
+				"or":  "V. E. Buravtsova, E. A. Gan’shina, V. S. Guschin et al., Microelectronic Engineering, 69, No. 2–4: 279 (2003).",
+				"tr":  "V. E. Buravtsova, E. A. Gan'shina, V. S. Guschin et al., Microelectronic Engineering, 69, No. 2–4: 279 (2003)."
+			},
+			{
+				"doi": "10.1016/0965-9773(92)90045-Y",
+				"or":  "H. Gleiter, Nanostruct. Mater., 1, No. 1: 1 (1992).",
+				"tr":  "H. Gleiter, Nanostruct. Mater., 1, No. 1: 1 (1992)."
+			},
+			{
+				"doi": "10.1016/0965-9773(93)90058-J",
+				"or":  "R. W. Siegel, Nanostruct. Mater., 3, No. 1–6: 1 (1993).",
+				"tr":  "R. W. Siegel, Nanostruct. Mater., 3, No. 1–6: 1 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Д. Морохов, Л. И. Трусов, С. П. Чижик, Ультрадисперсные металлические среды (Москва: Атомиздат : 1977).",
+				"tr":  "I. D. Morokhov, L. I. Trusov, S. P. Chizhik, Ul'tradispersnye metallicheskie sredy (Moskva: Atomizdat : 1977)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Лариков, Металлофизика, 14, № 7: 3 (1992).",
+				"tr":  "L. N. Larikov, Metallofizika, 14, No. 7: 3 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Лариков, Металлофиз. новейшие технол., 17, № 9: 56 (1995).",
+				"tr":  "L. N. Larikov, Metallofiz. noveyshie tekhnol., 17, No. 9: 56 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. А. Андриевский, Успехи химии, 63, № 5: 431 (1994).",
+				"tr":  "R. A. Andrievskiy, Uspekhi khimii, 63, No. 5: 431 (1994)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(00)01391-5",
+				"or":  "F. H. Froes, O. N. Senkov, and E. G. Baburaj, Materials Sci. Eng. A, 301, No. 1: 44 (2001).",
+				"tr":  "F. H. Froes, O. N. Senkov, and E. G. Baburaj, Materials Sci. Eng. A, 301, No. 1: 44 (2001)."
+			},
+			{
+				"doi": "10.1007/BF02403806",
+				"or":  "F. H. Froes, C. Suryanarayana, and D. Eliezer, J. Mater. Sci., 27: 5113 (1992).",
+				"tr":  "F. H. Froes, C. Suryanarayana, and D. Eliezer, J. Mater. Sci., 27: 5113 (1992)."
+			},
+			{
+				"doi": "10.1007/BF02914685",
+				"or":  "P. Bartolotta, J. Barrett, T. Kelly, and R. Smashey, JOM, 49, No. 5: 48 (1997).",
+				"tr":  "P. Bartolotta, J. Barrett, T. Kelly, and R. Smashey, JOM, 49, No. 5: 48 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "Y.-W. Kim, D. M. Dimiduk, Structural Intermetallics (Eds. M. V. Nathal, R. Darolia, C.T. Liu, P.L. Martin, D. B. Miracle, R. Wagner, and M. Yamaguchi) (Warrendale, PA: TMS: 1997), p. 531",
+				"tr":  "Y.-W. Kim, D. M. Dimiduk, Structural Intermetallics (Eds. M. V. Nathal, R. Darolia, C.T. Liu, P.L. Martin, D. B. Miracle, R. Wagner, and M. Yamaguchi) (Warrendale, PA: TMS: 1997), p. 531"
+			},
+			{
+				"doi": "10.1016/S0304-8853(02)01525-1",
+				"or":  "N. Mitrovic, Journal of Magnetism and Magnetic Materials, 262, No. 2: 302 (2003).",
+				"tr":  "N. Mitrovic, Journal of Magnetism and Magnetic Materials, 262, No. 2: 302 (2003)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(00)01752-4",
+				"or":  "Z. Wang, K. He, J. Jin, J. He, L. Zhang, H. Zhang, and B. Shen, Materials Sci. Eng., A304–306, No. 5: 1046 (2001).",
+				"tr":  "Z. Wang, K. He, J. Jin, J. He, L. Zhang, H. Zhang, and B. Shen, Materials Sci. Eng., A304–306, No. 5: 1046 (2001)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(00)00936-7",
+				"or":  "F. Alves, Journal of Magnetism and Magnetic Materials, 226–230, No. 5: 1490 (2001).",
+				"tr":  "F. Alves, Journal of Magnetism and Magnetic Materials, 226–230, No. 5: 1490 (2001)."
+			},
+			{
+				"doi": "10.1016/0921-5093(91)90043-M",
+				"or":  "Y. Yoshizawa and K. Yamauchi, Materials Sci. Eng. A, 133, No. 5: 176 (1991).",
+				"tr":  "Y. Yoshizawa and K. Yamauchi, Materials Sci. Eng. A, 133, No. 5: 176 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. З. Валиев, А. В. Корзинков и др., Физика металлов и металловедение, 73, № 4: 70 (1992).",
+				"tr":  "R. Z. Valiev, A. V. Korzinkov et al., Fizika metallov i metallovedenie, 73, No. 4: 70 (1992)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00034-8",
+				"or":  "J. Weissmuller, J. Loffler, and M. Kleber, Nanostruct. Mater., 6, No. 1–4: 105 (1995).",
+				"tr":  "J. Weissmuller, J. Loffler, and M. Kleber, Nanostruct. Mater., 6, No. 1–4: 105 (1995)."
+			},
+			{
+				"doi": "10.1016/S0965-9773(99)00052-5",
+				"or":  "H. S. Kim and M. B. Bush, Nanostruct. Mater., 11, No. 3: 361 (1999).",
+				"tr":  "H. S. Kim and M. B. Bush, Nanostruct. Mater., 11, No. 3: 361 (1999)."
+			},
+			{
+				"doi": "10.1016/S0022-3093(01)00860-2",
+				"or":  "I. V. Kityk, Journal of Non-Crystalline Solids, 292, No. 1–3: 184 (2001).",
+				"tr":  "I. V. Kityk, Journal of Non-Crystalline Solids, 292, No. 1–3: 184 (2001)."
+			},
+			{
+				"doi": "10.1016/S0966-9795(99)00132-6",
+				"or":  "H. Q. Ye, Intermetallics, 8, No. 5–6: 503 (2000).",
+				"tr":  "H. Q. Ye, Intermetallics, 8, No. 5–6: 503 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Gleiter, Deformation of Polycrystals: Mechanisms and Microstructures (Eds. N. Hansen et al.) (Roskilde: Riso Nat. Laboratory: 1981), p. 15.",
+				"tr":  "H. Gleiter, Deformation of Polycrystals: Mechanisms and Microstructures (Eds. N. Hansen et al.) (Roskilde: Riso Nat. Laboratory: 1981), p. 15."
+			},
+			{
+				"doi": "",
+				"or":  "H. Gleiter and P. Marquardt, Z. Metallkund., 75, No. 4: 263 (1984).",
+				"tr":  "H. Gleiter and P. Marquardt, Z. Metallkund., 75, No. 4: 263 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Birringer, U. Herr, and H. Gleiter, Trans. Japan Inst. Met. Suppl., 27: 43 (1986).",
+				"tr":  "R. Birringer, U. Herr, and H. Gleiter, Trans. Japan Inst. Met. Suppl., 27: 43 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "B. H. Kear and P. R. Strutt, Nanostruct. Mater., 6, No. 1–4: 277 (1995).",
+				"tr":  "B. H. Kear and P. R. Strutt, Nanostruct. Mater., 6, No. 1–4: 277 (1995)."
+			},
+			{
+				"doi": "10.1016/0965-9773(92)90063-4",
+				"or":  "L. E. McCandlish, B. H. Kear, and B. K. Kim, Nanostruct. Mater., 1, No. 1: 119 (1992).",
+				"tr":  "L. E. McCandlish, B. H. Kear, and B. K. Kim, Nanostruct. Mater., 1, No. 1: 119 (1992)."
+			},
+			{
+				"doi": "10.1016/S0263-4368(96)00044-3",
+				"or":  "P. Seegopaul, L. E. McCandlish, and F. M. Shinneman, Int’l J. Refr. Met. Hard Mater., 15, No. 1–3: 133 (1997).",
+				"tr":  "P. Seegopaul, L. E. McCandlish, and F. M. Shinneman, Int'l J. Refr. Met. Hard Mater., 15, No. 1–3: 133 (1997)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00164-6",
+				"or":  "H. Van Swygenhoven et. al., Nanostruct. Mater., 6, No. 5–8: 739 (1995).",
+				"tr":  "H. Van Swygenhoven et al., Nanostruct. Mater., 6, No. 5–8: 739 (1995)."
+			},
+			{
+				"doi": "10.1016/0965-9773(93)90046-E",
+				"or":  "T. Cheng, Nanostruct. Mater., 2, No. 1: 19 (1992).",
+				"tr":  "T. Cheng, Nanostruct. Mater., 2, No. 1: 19 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Lu, J. T. Wang, and W. D. Wei, Scripta Metall. Mater. Nanostruct. Mater., 25, No. 3: 619 (1991).",
+				"tr":  "K. Lu, J. T. Wang, and W. D. Wei, Scripta Metall. Mater. Nanostruct. Mater., 25, No. 3: 619 (1991)."
+			},
+			{
+				"doi": "10.1016/0040-6090(79)90241-4",
+				"or":  "H. Hoffmann, Thin Solid Films, 58: 223 (1979).",
+				"tr":  "H. Hoffmann, Thin Solid Films, 58: 223 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "Y. Yoshizawa, S. Oguma, K. Yamauchi, J.Appl. Phys., 64, No. 10(2): 6044 (1998).",
+				"tr":  "Y. Yoshizawa, S. Oguma, K. Yamauchi, J.Appl. Phys., 64, No. 10(2): 6044 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. И. Носкова, Физика металлов и металловедение, 73, № 2: 102 (1992)",
+				"tr":  "N. I. Noskova, Fizika metallov i metallovedenie, 73, No. 2: 102 (1992)"
+			},
+			{
+				"doi": "",
+				"or":  "Н. И. Носкова, Физика металлов и металловедение, 76, № 5: 171 (1993)",
+				"tr":  "N. I. Noskova, Fizika metallov i metallovedenie, 76, No. 5: 171 (1993)"
+			},
+			{
+				"doi": "",
+				"or":  "A. Inoue et al., Mater Trans. Japan. Inst. Met., 35: 85 (1994).",
+				"tr":  "A. Inoue et al., Mater Trans. Japan. Inst. Met., 35: 85 (1994)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(03)00597-5",
+				"or":  "T. Kim, S. Hong, and B.-T. Lee, Materials Sci. Eng. A, 363, No. 1–2: 81 (2003).",
+				"tr":  "T. Kim, S. Hong, and B.-T. Lee, Materials Sci. Eng. A, 363, No. 1–2: 81 (2003)."
+			},
+			{
+				"doi": "10.1016/S1359-6462(03)00295-1",
+				"or":  "H. Zhang, G. Subhash, J. Kecskes, and R. J. Dowding, Scripta Materialia, 49, No. 5: 447 (2003).",
+				"tr":  "H. Zhang, G. Subhash, J. Kecskes, and R. J. Dowding, Scripta Materialia, 49, No. 5: 447 (2003)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(02)00326-X",
+				"or":  "T. Nagase and Y. Umakoshi, Materials Sci. Eng. A, 343, No. 1–2: 13 (2003).",
+				"tr":  "T. Nagase and Y. Umakoshi, Materials Sci. Eng. A, 343, No. 1–2: 13 (2003)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(02)00677-1",
+				"or":  "H. R. Wang, X.-D. Hui, G.-H. Min, Y.-F. Ye, X. Teng, and Z. Shi, Journal of Alloys and Compounds, 347, No. 1–2: 101 (2002).",
+				"tr":  "H. R. Wang, X.-D. Hui, G.-H. Min, Y.-F. Ye, X. Teng, and Z. Shi, Journal of Alloys and Compounds, 347, No. 1–2: 101 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Балдохин, В. В. Вавилова, П. Я. Колотыркин, Ю. К. Ковнеристый, Н. А. Палий, А. С. Соломатин, Неорганические материалы, 39, № 6: 671 (2003).",
+				"tr":  "Yu. V. Baldokhin, V. V. Vavilova, P. Ya. Kolotyrkin, Yu. K. Kovneristyy, N. A. Paliy, A. S. Solomatin, Neorganicheskie materialy, 39, No. 6: 671 (2003)."
+			},
+			{
+				"doi": "10.1016/0921-5093(93)90717-S",
+				"or":  "R. Z. Valiev, A. V. Korzinkov, and R. R. Mulykov, Materials Sci. Eng. A, 168: 141 (1993).",
+				"tr":  "R. Z. Valiev, A. V. Korzinkov, and R. R. Mulykov, Materials Sci. Eng. A, 168: 141 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Ф. Корзинкова, Н. И. Носкова, В. И. Аксенов, А. В. Корнева, А. В. Корзинков, Физика металлов и металловедение, 95, № 5: 72 (2003).",
+				"tr":  "G. F. Korzinkova, N. I. Noskova, V. I. Aksenov, A. V. Korneva, A. V. Korzinkov, Fizika metallov i metallovedenie, 95, No. 5: 72 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Гусев. Нанокристаллические материалы: методы получения и свойства (Екатеринбург: УрО РАН: 1998).",
+				"tr":  "A. I. Gusev. Nanokristallicheskie materialy: metody polucheniya i svoystva (Ekaterinburg: UrO RAN: 1998)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. А. Андриевский, А. М. Глейзер, Физика металлов и металловедение,. 88, № 1: 50 (2000).",
+				"tr":  "R. A. Andrievskiy, A. M. Gleyzer, Fizika metallov i metallovedenie, 88, No. 1: 50 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "U. R. Kattner, Al–Fe, Binary Alloy Phase Diagrams (Ed. T. B. Massalski) (Metal Park, OH: American Society for Metals: 1986), vol. 1, p. 147.",
+				"tr":  "U. R. Kattner, Al–Fe, Binary Alloy Phase Diagrams (Ed. T. B. Massalski) (Metal Park, OH: American Society for Metals: 1986), vol. 1, p. 147."
+			},
+			{
+				"doi": "10.1016/S1359-6462(03)00396-8",
+				"or":  "E. Ma, Scripta Materialia, 49, No. 7: 663 (2003).",
+				"tr":  "E. Ma, Scripta Materialia, 49, No. 7: 663 (2003)."
+			},
+			{
+				"doi": "10.1016/S0965-9773(99)00384-0",
+				"or":  "V. V. Stolyarov, Y. T. Zhu, T. C. Lowe, R. K. Islamgaliev, and R. Z. Valiev, Nanostruct. Mater., 11, No. 7: 947 (1999).",
+				"tr":  "V. V. Stolyarov, Y. T. Zhu, T. C. Lowe, R. K. Islamgaliev, and R. Z. Valiev, Nanostruct. Mater., 11, No. 7: 947 (1999)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(03)00215-6",
+				"or":  "V. V. Stolyarov, R. Lapovok, I. G. Brodova, and P. F. Thomson, Materials Sci. Eng. A, 377, No. 1–2: 159 (2003).",
+				"tr":  "V. V. Stolyarov, R. Lapovok, I. G. Brodova, and P. F. Thomson, Materials Sci. Eng. A, 377, No. 1–2: 159 (2003)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(00)00061-6",
+				"or":  "K. Matsuki, T. Aida, T. Takeuchi, J. Kusui, and K. Yokoe, Acta Materialia, 48, No. 10: 2625 (2000).",
+				"tr":  "K. Matsuki, T. Aida, T. Takeuchi, J. Kusui, and K. Yokoe, Acta Materialia, 48, No. 10: 2625 (2000)."
+			},
+			{
+				"doi": "10.1016/0921-5093(91)90316-F",
+				"or":  "R. Z. Valiev, N. A. Karsilnikov, and N. K. Tsenev, Materials Sci. Eng. A, 137: 35 (1991).",
+				"tr":  "R. Z. Valiev, N. A. Karsilnikov, and N. K. Tsenev, Materials Sci. Eng. A, 137: 35 (1991)."
+			},
+			{
+				"doi": "10.1007/BF00721611",
+				"or":  "R. Z. Abdulov, R. Z. Valiev, and N. A. Karsilnikov, Material Sci. Lett., 9, No. 12: 1445 (1990).",
+				"tr":  "R. Z. Abdulov, R. Z. Valiev, and N. A. Karsilnikov, Material Sci. Lett., 9, No. 12: 1445 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Р. Валиахметов, Р. М. Галеев, Г. А. Салищев, Физика металлов и металловедение, 70, № 10: 204 (1990).",
+				"tr":  "O. R. Valiakhmetov, R. M. Galeev, G. A. Salishchev, Fizika metallov i metallovedenie, 70, No. 10: 204 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. З. Валиев, Металлофизика, 12, № 5: 124 (1990).",
+				"tr":  "R. Z. Valiev, Metallofizika, 12, No. 5: 124 (1990)."
+			},
+			{
+				"doi": "10.1080/09500839008215131",
+				"or":  "R. Z. Valiev, R. R. Mulykov, and V. V. Ovchinnikov, Phil. Mag. Letters, 62, No. 4: 253 (1990).",
+				"tr":  "R. Z. Valiev, R. R. Mulykov, and V. V. Ovchinnikov, Phil. Mag. Letters, 62, No. 4: 253 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "R. W. Siegel and H. Hahn, Current Trends in Physics of Materials (Ed. M. Yussouff) (Singapoure: World Sci. Publ. Co.: 1987), p. 403.",
+				"tr":  "R. W. Siegel and H. Hahn, Current Trends in Physics of Materials (Ed. M. Yussouff) (Singapoure: World Sci. Publ. Co.: 1987), p. 403."
+			},
+			{
+				"doi": "10.1016/0079-6425(89)90001-7",
+				"or":  "H. Gleiter, Progr. Mater. Sci., 33, No. 4: 233 (1989).",
+				"tr":  "H. Gleiter, Progr. Mater. Sci., 33, No. 4: 233 (1989)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2003.07.001",
+				"or":  "Q. Jin, J.-P. Eom, S.-G. Lim, W.-W. Park, and B.-S. You, Scripta Materialia, 49, No. 11: 1129 (2003).",
+				"tr":  "Q. Jin, J.-P. Eom, S.-G. Lim, W.-W. Park, and B.-S. You, Scripta Materialia, 49, No. 11: 1129 (2003)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(03)00058-3",
+				"or":  "M. Zawrah and L. Shaw, Materials Sci. Eng. A, 355, No. 1–2: 37 (2003).",
+				"tr":  "M. Zawrah and L. Shaw, Materials Sci. Eng. A, 355, No. 1–2: 37 (2003)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(01)01541-6",
+				"or":  "W. Liu and F. Mücklich, Materials Sci. Eng. A, 329–331: 112 (2002).",
+				"tr":  "W. Liu and F. Mücklich, Materials Sci. Eng. A, 329–331: 112 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Иванов, Доклады АН СССР, 275, No. 4: 873 (1984).",
+				"tr":  "V. V. Ivanov, Doklady AN SSSR, 275, No. 4: 873 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "P. McCormic and F. H. Froes, J. Organometal., 50: 61 (1998).",
+				"tr":  "P. McCormic and F. H. Froes, J. Organometal., 50: 61 (1998)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(97)00001-7",
+				"or":  "E. G. Baburaj, K. Hubert, and F. H. Froes., J. Alloys and Compounds, 257: 146 (1997).",
+				"tr":  "E. G. Baburaj, K. Hubert, and F. H. Froes., J. Alloys and Compounds, 257: 146 (1997)."
+			},
+			{
+				"doi": "10.1016/j.cossms.2003.09.005",
+				"or":  "J. Liu, Y. Ikushima, and Z. Shervani, Current Opinion in Solid State and Mat. Sci., 7: 255 (2003).",
+				"tr":  "J. Liu, Y. Ikushima, and Z. Shervani, Current Opinion in Solid State and Mat. Sci., 7: 255 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "E. J. Baburaj, K. T. Hubert, C. Powell, C. Suryanarayana, and F. H. Froes, Proc. Int. Conf. on Synthesys of Light Weight Metallic Materials (Eds. M. Ward-Close and F. H. Froes) (Orlando: TMS: 1997), p. 279.",
+				"tr":  "E. J. Baburaj, K. T. Hubert, C. Powell, C. Suryanarayana, and F. H. Froes, Proc. Int. Conf. on Synthesys of Light Weight Metallic Materials (Eds. M. Ward-Close and F. H. Froes) (Orlando: TMS: 1997), p. 279."
+			},
+			{
+				"doi": "",
+				"or":  "S. Gjosh, D. Linch, E. G. Barburaj, and F. H. Froes, Proc. of Symph. on Synthesys of Light Weight Metals III—Annual Technical Meeting (Eds. F. H. Froes, C. M. Ward-Close, P. G. McCormick, and D. Eliezer) (San Diego: TMS: 1999), p. 43.",
+				"tr":  "S. Gjosh, D. Linch, E. G. Barburaj, and F. H. Froes, Proc. of Symph. on Synthesys of Light Weight Metals III—Annual Technical Meeting (Eds. F. H. Froes, C. M. Ward-Close, P. G. McCormick, and D. Eliezer) (San Diego: TMS: 1999), p. 43."
+			},
+			{
+				"doi": "10.1016/S0925-8388(97)00001-7",
+				"or":  "E. G. Baburaj, K. Hubert, and F. H. Froes, J. Alloys Compounds, 257: 146 (1997).",
+				"tr":  "E. G. Baburaj, K. Hubert, and F. H. Froes, J. Alloys Compounds, 257: 146 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "E. G. Baburaj, K. T. Hubert, C. Powell, and C. Suryanarayana, Proc. of the Synthesis: Processing of Light Weight Metallic Materials—Annual Meeting (Eds. F. H. Froes, C. M. Ward-Close, D. J. Chellman, and S. S. Cho) (Orlando: TMS: 1997), p. 279.",
+				"tr":  "E. G. Baburaj, K. T. Hubert, C. Powell, and C. Suryanarayana, Proc. of the Synthesis: Processing of Light Weight Metallic Materials—Annual Meeting (Eds. F. H. Froes, C. M. Ward-Close, D. J. Chellman, and S. S. Cho) (Orlando: TMS: 1997), p. 279."
+			},
+			{
+				"doi": "",
+				"or":  "E. G. Baburaj, K. Prisbrey, and F. H. Froes, Mechanochemical Processing for Metals and Metal Alloys (US Patent Pending 87344563, 1998).",
+				"tr":  "E. G. Baburaj, K. Prisbrey, and F. H. Froes, Mechanochemical Processing for Metals and Metal Alloys (US Patent Pending 87344563, 1998)."
+			},
+			{
+				"doi": "",
+				"or":  "E. G. Baburaj, D. Linch, O. N. Senkov, K. Prisbrey, P. G. McCormick, and F. H. Froes, Non-Aerospace Applications of Titanium Proceedings (Eds. F. H. Froes, P.G. Allen, and M. Niinomi) (Warrendale, PA: TMS: 1998), p. 89.",
+				"tr":  "E. G. Baburaj, D. Linch, O. N. Senkov, K. Prisbrey, P. G. McCormick, and F. H. Froes, Non-Aerospace Applications of Titanium Proceedings (Eds. F. H. Froes, P.G. Allen, and M. Niinomi) (Warrendale, PA: TMS: 1998), p. 89."
+			},
+			{
+				"doi": "",
+				"or":  "J. Ding, T. Tsuzuki, P. G. McCormick, and R. Street, J. Appl. Phys., 29: 2365 (1996).",
+				"tr":  "J. Ding, T. Tsuzuki, P. G. McCormick, and R. Street, J. Appl. Phys., 29: 2365 (1996)."
+			},
+			{
+				"doi": "10.2320/matertrans1989.36.161",
+				"or":  "P. G. McCormick, Mater. Trans. JIM, 36: 161 (1995).",
+				"tr":  "P. G. McCormick, Mater. Trans. JIM, 36: 161 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "P. G. McCormick, V. N. Wharton, M. M. Reyhani, and G. B. Schaffer, Microcomposites and Nanophase Materials (Eds. D. C. Van Aken, G. S. Was, and A. K. Ghosh) (Warrendale, PA: TMS: 1991), p. 65.",
+				"tr":  "P. G. McCormick, V. N. Wharton, M. M. Reyhani, and G. B. Schaffer, Microcomposites and Nanophase Materials (Eds. D. C. Van Aken, G. S. Was, and A. K. Ghosh) (Warrendale, PA: TMS: 1991), p. 65."
+			},
+			{
+				"doi": "",
+				"or":  "H. J. Hoefler, H. Hahn, and R. S. Averback, Defect and Diffusion Forum, 75, No. 1: 99 (1991).",
+				"tr":  "H. J. Hoefler, H. Hahn, and R. S. Averback, Defect and Diffusion Forum, 75, No. 1: 99 (1991)."
+			},
+			{
+				"doi": "10.1016/0925-8388(94)90551-7",
+				"or":  "S. Okada et al., J. Alloys and Compounds, 211/212: 494 (1994).",
+				"tr":  "S. Okada et al., J. Alloys and Compounds, 211/212: 494 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. А. Андриевский, Успехи химии, 66, № 1: 57 (1997).",
+				"tr":  "R. A. Andrievskiy, Uspekhi khimii, 66, No. 1: 57 (1997)."
+			},
+			{
+				"doi": "10.1021/ed073p1163",
+				"or":  "C. L. Phelps, N. G. Smart, and C. M. Wai, J. Chem. Educ., 73: 1163 (1996).",
+				"tr":  "C. L. Phelps, N. G. Smart, and C. M. Wai, J. Chem. Educ., 73: 1163 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "F. Hunt, E. G. Baburaj, F. H. Froes, and C. M. Wai, Proc. of the Fifth International Conference on Advanced Particulate Materials and Processes (Eds. F. H. Froes and J. C. Hebeisen) (1997), p. 477.",
+				"tr":  "F. Hunt, E. G. Baburaj, F. H. Froes, and C. M. Wai, Proc. of the Fifth International Conference on Advanced Particulate Materials and Processes (Eds. F. H. Froes and J. C. Hebeisen) (1997), p. 477."
+			},
+			{
+				"doi": "",
+				"or":  "C. M. Wai, Emerging Separation Technolgies for Metals (II) (Ed. R. G. Bautista) (Warrendale, PA: TMS: 1996), p. 233.",
+				"tr":  "C. M. Wai, Emerging Separation Technolgies for Metals (II) (Ed. R. G. Bautista) (Warrendale, PA: TMS: 1996), p. 233."
+			},
+			{
+				"doi": "",
+				"or":  "J. Vidaurri (Ph. D. Thesis) (National Renewable Energy Laboratory: Colorado State University: 2000), http://www.nrel.gov/docs/gen/fy01/NN0018.pdf",
+				"tr":  "J. Vidaurri (Ph. D. Thesis) (National Renewable Energy Laboratory: Colorado State University: 2000), http://www.nrel.gov/docs/gen/fy01/NN0018.pdf"
+			},
+			{
+				"doi": "10.1021/ja9840403",
+				"or":  "M. Ji, X. Chen, and C.M. Wai, J. Am. Chem. Soc., 121: 2631 (1999).",
+				"tr":  "M. Ji, X. Chen, and C.M. Wai, J. Am. Chem. Soc., 121: 2631 (1999)."
+			},
+			{
+				"doi": "10.1016/S0167-9317(02)00747-5",
+				"or":  "G. L. Weibel and C. K. Ober, Microelectronic Engineering, 65: 145 (2003).",
+				"tr":  "G. L. Weibel and C. K. Ober, Microelectronic Engineering, 65: 145 (2003)."
+			},
+			{
+				"doi": "10.1016/S0025-5408(03)00088-6",
+				"or":  "Y. Hakuta, T. Haganuma, K. Sue, T. Adschiri, and K. Arai, Materials Research Bulletin, 38: 1257 (2003).",
+				"tr":  "Y. Hakuta, T. Haganuma, K. Sue, T. Adschiri, and K. Arai, Materials Research Bulletin, 38: 1257 (2003)."
+			},
+			{
+				"doi": "10.1016/S0167-9317(02)00826-2",
+				"or":  "E. Kondoh and H. Kato, Microelectronic Engineering, 64: 495 (2002).",
+				"tr":  "E. Kondoh and H. Kato, Microelectronic Engineering, 64: 495 (2002)."
+			},
+			{
+				"doi": "10.1016/0079-6425(89)90001-7",
+				"or":  "H. Gleiter, Progress in Mater. Sci., 33: 223 (1989).",
+				"tr":  "H. Gleiter, Progress in Mater. Sci., 33: 223 (1989)."
+			},
+			{
+				"doi": "10.1016/0079-6425(93)90001-2",
+				"or":  "V.G. Gryaznov and L. I. Trusov, Progress in Mater. Sci., 37: 289 (1993).",
+				"tr":  "V.G. Gryaznov and L. I. Trusov, Progress in Mater. Sci., 37: 289 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. А. Андриевский, А.М. Глейзер, Физика металлов и металловедение, 89, № 1: 91 (2001).",
+				"tr":  "R. A. Andrievskiy, A.M. Gleyzer, Fizika metallov i metallovedenie, 89, No. 1: 91 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Ю. Гуткин, И. А. Овидько, Дефекты и механизмы пластичности в наноструктурных и некристаллических материалах. (С.-Пб.: Янус: 2001).",
+				"tr":  "M. Yu. Gutkin, I. A. Ovid'ko, Defekty i mekhanizmy plastichnosti v nanostrukturnykh i nekristallicheskikh materialakh. (S.-Pb.: Yanus: 2001)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Поздняков, Физика металлов и металловедение, 96, № 1: 114 (2003).",
+				"tr":  "V. A. Pozdnyakov, Fizika metallov i metallovedenie, 96, No. 1: 114 (2003)."
+			},
+			{
+				"doi": "10.1016/0022-3697(94)90127-9",
+				"or":  "R. W. Siegel, J. Phys. Chem. Solids, 55: 1097 (1994).",
+				"tr":  "R. W. Siegel, J. Phys. Chem. Solids, 55: 1097 (1994)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00054-2",
+				"or":  "V.V. Ivanov, Nanostruct. Mater., 6, No. 1–4: 287 (1995).",
+				"tr":  "V.V. Ivanov, Nanostruct. Mater., 6, No. 1–4: 287 (1995)."
+			},
+			{
+				"doi": "10.1016/S0965-9773(97)00167-0",
+				"or":  "P. G. Sanders, G. E. Fougere, L. J. Thompson, J. A. Eastman, and J. R. Weertman, Nanostruct. Mater., 8, No. 3: 243 (1995).",
+				"tr":  "P. G. Sanders, G. E. Fougere, L. J. Thompson, J. A. Eastman, and J. R. Weertman, Nanostruct. Mater., 8, No. 3: 243 (1995)."
+			},
+			{
+				"doi": "10.1016/S0965-9773(99)00337-2",
+				"or":  "J. Rawers, Nanostruct. Mater., 11, No. 4: 513 (1999).",
+				"tr":  "J. Rawers, Nanostruct. Mater., 11, No. 4: 513 (1999)."
+			},
+			{
+				"doi": "10.1016/0956-716X(90)90279-P",
+				"or":  "W. Wunderlich, Y. Ishida, and R. Maurer, Scripta Metall. Mater., 24, No. 2: 403 (1990).",
+				"tr":  "W. Wunderlich, Y. Ishida, and R. Maurer, Scripta Metall. Mater., 24, No. 2: 403 (1990)."
+			},
+			{
+				"doi": "10.1016/0956-716X(90)90592-5",
+				"or":  "G. J. Thomas, R. W. Siegel, and J. A. Eastmen, Scripta Metall. Mater., 24, No. 1: 201 (1990).",
+				"tr":  "G. J. Thomas, R. W. Siegel, and J. A. Eastmen, Scripta Metall. Mater., 24, No. 1: 201 (1990)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(01)00062-3",
+				"or":  "H. H. Fu, D. J. Benson, and M. A. Meyers, Acta Mater., 49: 2567 (2001).",
+				"tr":  "H. H. Fu, D. J. Benson, and M. A. Meyers, Acta Mater., 49: 2567 (2001)."
+			},
+			{
+				"doi": "10.1007/978-94-011-1765-4_1",
+				"or":  "H. Gleiter, Mechanical Properties and Deformational Behaviour of Materials Having Ultrafine Microstructure (Ed. M. A. Nastsai) (Dordrecht, Netherlands: Kluwer–Academic Press: 1993), p. 3.",
+				"tr":  "H. Gleiter, Mechanical Properties and Deformational Behaviour of Materials Having Ultrafine Microstructure (Ed. M. A. Nastsai) (Dordrecht, Netherlands: Kluwer–Academic Press: 1993), p. 3."
+			},
+			{
+				"doi": "",
+				"or":  "H. Gleiter, Nanostruct. Mater., 6, No. 1–4: 2 (1995).",
+				"tr":  "H. Gleiter, Nanostruct. Mater., 6, No. 1–4: 2 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Birringer and H. Gleiter, Encyclopedia of Materials Science and Engineering., suppl. vol. 1 (Ed. R. W. Cahn) (Oxford: Pergamon Pres: 1998), p. 339.",
+				"tr":  "R. Birringer and H. Gleiter, Encyclopedia of Materials Science and Engineering., suppl. vol. 1 (Ed. R. W. Cahn) (Oxford: Pergamon Pres: 1998), p. 339."
+			},
+			{
+				"doi": "10.1103/PhysRevB.35.9085",
+				"or":  "X. Zhu, Phys. Rev. B., 35, No. 17: 9085 (1987).",
+				"tr":  "X. Zhu, Phys. Rev. B., 35, No. 17: 9085 (1987)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.44.2452",
+				"or":  "M. Fitzsimmons, Phys. Rev. B, 44, No. 6: 2452 (1991).",
+				"tr":  "M. Fitzsimmons, Phys. Rev. B, 44, No. 6: 2452 (1991)."
+			},
+			{
+				"doi": "10.1016/0965-9773(92)90051-X",
+				"or":  "J. A. Eastmen, Nanostruct. Mater., 1, No. 1: 47 (1992).",
+				"tr":  "J. A. Eastmen, Nanostruct. Mater., 1, No. 1: 47 (1992)."
+			},
+			{
+				"doi": "10.1016/0375-9601(89)90049-2",
+				"or":  "T. Haubold, Phys. Lett. A, 135, No. 8–9: 461 (1989).",
+				"tr":  "T. Haubold, Phys. Lett. A, 135, No. 8–9: 461 (1989)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00035-6",
+				"or":  "Y. Ishida, Nanostruct. Mater., 6, No. 1–4: 115 (1995).",
+				"tr":  "Y. Ishida, Nanostruct. Mater., 6, No. 1–4: 115 (1995)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00122-0",
+				"or":  "J. Loffler, J. Weissmuller, and H. Gleiter, Nanostruct. Mater., 6, No. 5–8: 567 (1995).",
+				"tr":  "J. Loffler, J. Weissmuller, and H. Gleiter, Nanostruct. Mater., 6, No. 5–8: 567 (1995)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00128-X",
+				"or":  "N. Schlorke, Nanostruct. Mater., 6, No. 5–8: 593 (1995).",
+				"tr":  "N. Schlorke, Nanostruct. Mater., 6, No. 5–8: 593 (1995)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00130-1",
+				"or":  "Yu. A. Babanov, Nanostruct. Mater., 6, No. 5–8: 601 (1995).",
+				"tr":  "Yu. A. Babanov, Nanostruct. Mater., 6, No. 5–8: 601 (1995)."
+			},
+			{
+				"doi": "10.1016/S1359-6462(99)00142-6",
+				"or":  "P. Keblinski, D. Wolf, S. R. Phillpot, and H. Gleiter, Scripta Mater., 41: 613 (1999).",
+				"tr":  "P. Keblinski, D. Wolf, S. R. Phillpot, and H. Gleiter, Scripta Mater., 41: 613 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.62.831",
+				"or":  "H. Van Swygenhoven, D. Farkas, and A. Caro, Phys. Rev. B, 62: 831 (2000).",
+				"tr":  "H. Van Swygenhoven, D. Farkas, and A. Caro, Phys. Rev. B, 62: 831 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.66.195408",
+				"or":  "M. Hou, V. S. Kharlamov, and E. E. Zhurkin, Phys. Rev. B, 66: 195408 (2002).",
+				"tr":  "M. Hou, V. S. Kharlamov, and E. E. Zhurkin, Phys. Rev. B, 66: 195408 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Meyer, MRS Symposium Proc., B8.8.1: 634 (2000).",
+				"tr":  "R. Meyer, MRS Symposium Proc., B8.8.1: 634 (2000)."
+			},
+			{
+				"doi": "10.1023/A:1008664218857",
+				"or":  "P. Keblinski, D. Wolf, S.R. Phillpot, and H. Gleiter, Interface Sci., 6: 205 (1998).",
+				"tr":  "P. Keblinski, D. Wolf, S.R. Phillpot, and H. Gleiter, Interface Sci., 6: 205 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Z. Voronoi, Reine Angew Math., 134: 199 (1908).",
+				"tr":  "G. Z. Voronoi, Reine Angew Math., 134: 199 (1908)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Van Swygenhoven, Science, 66, April 5, Nos. 5–8: 763 (2002).",
+				"tr":  "H. Van Swygenhoven, Science, 66, April 5, Nos. 5–8: 763 (2002)."
+			},
+			{
+				"doi": "10.1038/35328",
+				"or":  "J. Schiotz, F. D. Di Tolla, and K. W. Jacobsen, Nature, 391: 561 (1998).",
+				"tr":  "J. Schiotz, F. D. Di Tolla, and K. W. Jacobsen, Nature, 391: 561 (1998)."
+			},
+			{
+				"doi": "10.1016/S0965-9773(99)00127-0",
+				"or":  "H. Van Swygenhoven, D. Farkas, and A. Caro, Nanostruct. Mater., 12: 323 (1999).",
+				"tr":  "H. Van Swygenhoven, D. Farkas, and A. Caro, Nanostruct. Mater., 12: 323 (1999)."
+			},
+			{
+				"doi": "10.1016/S1359-6462(03)00400-7",
+				"or":  "P. M. Derlet, A. Hasnaoui, and H. Van Swygenhoven, Sripta Mater., 49: 629 (2003).",
+				"tr":  "P. M. Derlet, A. Hasnaoui, and H. Van Swygenhoven, Sripta Mater., 49: 629 (2003)."
+			},
+			{
+				"doi": "10.1007/978-94-011-1765-4_4",
+				"or":  "H.-E. Schaefer, in: Mechanical Properties and Deformational Behaviour of Materials Having Ultrafine Microstructure (Ed. M. A. Nastsai) (Dordrecht, Netherlands: Kluwer–Academic Press: 1993), p. 81.",
+				"tr":  "H.-E. Schaefer, in: Mechanical Properties and Deformational Behaviour of Materials Having Ultrafine Microstructure (Ed. M. A. Nastsai) (Dordrecht, Netherlands: Kluwer–Academic Press: 1993), p. 81."
+			},
+			{
+				"doi": "10.1080/13642818908211187",
+				"or":  "E. Jorra, Phil. Mag. B, 60, No. 2: 159 (1989).",
+				"tr":  "E. Jorra, Phil. Mag. B, 60, No. 2: 159 (1989)."
+			},
+			{
+				"doi": "10.1016/0956-716X(93)90260-Y",
+				"or":  "P. Sanders, Scripta Metal., 29, No. 1: 91 (1993)",
+				"tr":  "P. Sanders, Scripta Metal., 29, No. 1: 91 (1993)"
+			},
+			{
+				"doi": "10.1016/0965-9773(93)90050-L",
+				"or":  "R. Wurschum, W. Greiner, and H.-E. Schaefer, Nanostruct. Mater., 2, No. 1: 55 (1993).",
+				"tr":  "R. Wurschum, W. Greiner, and H.-E. Schaefer, Nanostruct. Mater., 2, No. 1: 55 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Лаповок, ФТТ, 25, № 6: 1846 (1983).",
+				"tr":  "V. N. Lapovok, FTT, 25, No. 6: 1846 (1983)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.38.9545",
+				"or":  "H.-E. Schaefer et al., Phys. Rev. B, 38, No. 14: 9545 (1988).",
+				"tr":  "H.-E. Schaefer et al., Phys. Rev. B, 38, No. 14: 9545 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "H.-E. Schaefer et al., Positron Annihilation (Eds. L. Dorikens-Vanpraet, M. Dorikens, and D. Segers) (Singapore: World Scientific Publ. Comp: 1989), p. 79.",
+				"tr":  "H.-E. Schaefer et al., Positron Annihilation (Eds. L. Dorikens-Vanpraet, M. Dorikens, and D. Segers) (Singapore: World Scientific Publ. Comp: 1989), p. 79."
+			},
+			{
+				"doi": "10.1002/pssa.2211020110",
+				"or":  "R. Wurschum, W. Greiner, and H.-E. Schaefer, Phys. Status Solidi A, 102, No. 1: 119 (1987).",
+				"tr":  "R. Wurschum, W. Greiner, and H.-E. Schaefer, Phys. Status Solidi A, 102, No. 1: 119 (1987)."
+			},
+			{
+				"doi": "10.1002/pssa.2211020104",
+				"or":  "H.-E. Schaefer, Phys. Status Solidi A, 102, No. 1: 47 (1987).",
+				"tr":  "H.-E. Schaefer, Phys. Status Solidi A, 102, No. 1: 47 (1987)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00197-2",
+				"or":  "H.-E. Schaefer et al., Nanostruct. Mater., 6, No. 5–8: 869 (1995).",
+				"tr":  "H.-E. Schaefer et al., Nanostruct. Mater., 6, No. 5–8: 869 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Ахмадеев, Металлы, 5: 96 (1992).",
+				"tr":  "N. A. Akhmadeev, Metally, 5: 96 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Ремпель, Металлофиз. новейшие технол., 18, № 7: 14 (1996).",
+				"tr":  "A. A. Rempel', Metallofiz. noveyshie tekhnol., 18, No. 7: 14 (1996)."
+			},
+			{
+				"doi": "10.1002/pssb.2221960125",
+				"or":  "A. A. Rempel and A. I. Gusev, Phys. Status Solidi B, 196, No. 1: 251 (1996).",
+				"tr":  "A. A. Rempel and A. I. Gusev, Phys. Status Solidi B, 196, No. 1: 251 (1996)."
+			},
+			{
+				"doi": "10.1016/0965-9773(96)00031-1",
+				"or":  "A. A. Rempel, Nanostruct. Mater. 7, No. 6: 667 (1999).",
+				"tr":  "A. A. Rempel, Nanostruct. Mater. 7, No. 6: 667 (1999)."
+			},
+			{
+				"doi": "10.1016/0956-7151(93)90152-I",
+				"or":  "A. A. Nazarov, A. E. Romanov, and R. Z. Valiev, Acta Metall. Mater., 41, No. 4: 1033 (1993).",
+				"tr":  "A. A. Nazarov, A. E. Romanov, and R. Z. Valiev, Acta Metall. Mater., 41, No. 4: 1033 (1993)."
+			},
+			{
+				"doi": "10.1016/0965-9773(94)90131-7",
+				"or":  "A. A. Nazarov, A. E. Romanov, and R. Z. Valiev, Nanostruct. Mater., 4, No. 1: 94 (1994).",
+				"tr":  "A. A. Nazarov, A. E. Romanov, and R. Z. Valiev, Nanostruct. Mater., 4, No. 1: 94 (1994)."
+			},
+			{
+				"doi": "10.1016/0956-716X(94)90045-0",
+				"or":  "V. Yu. Gretsman, Scripta Metall Mater., 30, No. 2: 229 (1993).",
+				"tr":  "V. Yu. Gretsman, Scripta Metall Mater., 30, No. 2: 229 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Z. Valiev, Nanostruct. Mater., 6, No. 1–4: 94 (1994).",
+				"tr":  "R. Z. Valiev, Nanostruct. Mater., 6, No. 1–4: 94 (1994)."
+			},
+			{
+				"doi": "10.1016/0956-716X(91)90048-6",
+				"or":  "R. Wurschum et al., Scripta Metall Mater., 25, No. 11: 1245 (1991).",
+				"tr":  "R. Wurschum et al., Scripta Metall Mater., 25, No. 11: 1245 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Гусев, А. А. Ремпель, Структурные фазовые переходы в нестехиометрических соединениях (Москва: Наука: 1988).",
+				"tr":  "A. I. Gusev, A. A. Rempel', Strukturnye fazovye perekhody v nestekhiometricheskikh soedineniyakh (Moskva: Nauka: 1988)."
+			},
+			{
+				"doi": "10.1016/0965-9773(93)90045-D",
+				"or":  "J. Bologh, Nanostruct. Mater., 2, No. 1: 11 (1993).",
+				"tr":  "J. Bologh, Nanostruct. Mater., 2, No. 1: 11 (1993)."
+			},
+			{
+				"doi": "10.1080/13642819208207667",
+				"or":  "J. A. Eastmen, M. Fitzsimmons, and L. J. Thompson, Philos. Mag. B, 66, No. 5: 667 (1992).",
+				"tr":  "J. A. Eastmen, M. Fitzsimmons, and L. J. Thompson, Philos. Mag. B, 66, No. 5: 667 (1992)."
+			},
+			{
+				"doi": "10.1016/0965-9773(93)90055-G",
+				"or":  "X. Y. Qin, X. J. Wu, and L. F. Cheng, Nanostruct. Mater., 2, No. 1: 99 (1993).",
+				"tr":  "X. Y. Qin, X. J. Wu, and L. F. Cheng, Nanostruct. Mater., 2, No. 1: 99 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Lu and M. L. Sui, J. Mater. Sci. Technol, 9, No. 6: 419 (1993).",
+				"tr":  "K. Lu and M. L. Sui, J. Mater. Sci. Technol, 9, No. 6: 419 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "M. L. Sui and K. Lu, J. Mater. Sci. Eng., A179–A180: 541 (1994).",
+				"tr":  "M. L. Sui and K. Lu, J. Mater. Sci. Eng., A179–A180: 541 (1994)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00103-4",
+				"or":  "H. Y. Zhang and K. Lu, Nanostruct. Mater., 6, No. 1–4: 489 (1995).",
+				"tr":  "H. Y. Zhang and K. Lu, Nanostruct. Mater., 6, No. 1–4: 489 (1995)."
+			},
+			{
+				"doi": "10.1063/1.342541",
+				"or":  "E. Hellstern, J. Appl. Phys., 65, No. 1: 305 (1989).",
+				"tr":  "E. Hellstern, J. Appl. Phys., 65, No. 1: 305 (1989)."
+			},
+			{
+				"doi": "10.1557/JMR.1991.1012",
+				"or":  "G. W. Neiman, J. R. Weertman, and R. W. Siegel, J. Mater. Res., 6, No. 5: 1012 (1991).",
+				"tr":  "G. W. Neiman, J. R. Weertman, and R. W. Siegel, J. Mater. Res., 6, No. 5: 1012 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Александров, Р. З. Валиев, Физика металлов и металловедение, 77, № 6: 77 (1994).",
+				"tr":  "I. V. Aleksandrov, R. Z. Valiev, Fizika metallov i metallovedenie, 77, No. 6: 77 (1994)."
+			},
+			{
+				"doi": "10.1080/01418639608240319",
+				"or":  "I. V. Alexandrov and R. Z. Valiev, Philos. Mag. B, 73, No. 6: 861 (1996).",
+				"tr":  "I. V. Alexandrov and R. Z. Valiev, Philos. Mag. B, 73, No. 6: 861 (1996)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00170-0",
+				"or":  "I. V. Alexandrov and R. Z. Valiev, Nanostruct. Mater., 6, No. 5–8: 763 (1995).",
+				"tr":  "I. V. Alexandrov and R. Z. Valiev, Nanostruct. Mater., 6, No. 5–8: 763 (1995)."
+			},
+			{
+				"doi": "10.1063/1.363612",
+				"or":  "K. Zhang, J. Appl. Phys., 80, No. 10: 5617 (1996).",
+				"tr":  "K. Zhang, J. Appl. Phys., 80, No. 10: 5617 (1996)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.235-238.497",
+				"or":  "R. Z. Valiev, Mater. Sci. Forum, 235–238: 497 (1997).",
+				"tr":  "R. Z. Valiev, Mater. Sci. Forum, 235–238: 497 (1997)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00048-8",
+				"or":  "K. Yamauchi and Y. Yoshizawa, Nanostruct. Mater., 6, No. 1–4: 247 (1995).",
+				"tr":  "K. Yamauchi and Y. Yoshizawa, Nanostruct. Mater., 6, No. 1–4: 247 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. В. Жалин, Физика металлов и металловедение, 79, № 5: 94 (1995).",
+				"tr":  "B. V. Zhalin, Fizika metallov i metallovedenie, 79, No. 5: 94 (1995)."
+			},
+			{
+				"doi": "10.1080/09500839108214683",
+				"or":  "N. Wang, F. Zhu, and P. Haasen, Philos. Mag. Lett., 64, No. 3: 157 (1991).",
+				"tr":  "N. Wang, F. Zhu, and P. Haasen, Philos. Mag. Lett., 64, No. 3: 157 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Глазер, Физика металлов и металловедение, 76, № 2: 171 (1993).",
+				"tr":  "A. A. Glazer, Fizika metallov i metallovedenie, 76, No. 2: 171 (1993)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00222-7",
+				"or":  "N. I. Noskova, Nanostruct. Mater. 6, No. 5–8: 969 (1995).",
+				"tr":  "N. I. Noskova, Nanostruct. Mater. 6, No. 5–8: 969 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Гусев, Успехи физических наук, 168, № 1: 55 (1998).",
+				"tr":  "A. I. Gusev, Uspekhi fizicheskikh nauk, 168, No. 1: 55 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Г. Астраханцев, Т. А. Шерендо, Г. С. Корзунин и др., Физика металлов и металловедение, 96, № 1: 37 (2003).",
+				"tr":  "Yu. G. Astrakhantsev, T. A. Sherendo, G. S. Korzunin et al., Fizika metallov i metallovedenie, 96, No. 1: 37 (2003)."
+			},
+			{
+				"doi": "10.1007/BF00772735",
+				"or":  "R. Davis, H. M. Flower, and D. R. F. West, J. Mater. Sci., 14: 712 (1979).",
+				"tr":  "R. Davis, H. M. Flower, and D. R. F. West, J. Mater. Sci., 14: 712 (1979)."
+			},
+			{
+				"doi": "10.1016/0001-6160(79)90192-5",
+				"or":  "R. Davis, H. M. Flower, and D. R. F. West, Acta Mater. Met., 27, No. 6: 1041 (1979).",
+				"tr":  "R. Davis, H. M. Flower, and D. R. F. West, Acta Mater. Met., 27, No. 6: 1041 (1979)."
+			},
+			{
+				"doi": "10.1080/14786437208223852",
+				"or":  "K. A. Bywater and J.W. Christian, Philos. Mag., 25, No. 6: 1249 (1972).",
+				"tr":  "K. A. Bywater and J.W. Christian, Philos. Mag., 25, No. 6: 1249 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "O.M. Ivasishin, N.S. Kosenko, and H. M. Flower, Proc. of the Eight World Conf. on Titanium. Titanium’95, Science and Technology (Birmingham, UK: 1995), p. 2478.",
+				"tr":  "O.M. Ivasishin, N.S. Kosenko, and H. M. Flower, Proc. of the Eight World Conf. on Titanium. Titanium'95, Science and Technology (Birmingham, UK: 1995), p. 2478."
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Чуистов, Старение металлических сплавов (Киев: Академпериодика: 2003).",
+				"tr":  "K. V. Chuistov, Starenie metallicheskikh splavov (Kiev: Akademperiodika: 2003)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Ивасишин, Н. С. Косенко, В. А. Татаренко, С. В. Шевченко, Металлофиз. новейшие технол., 21, № 2: 71 (1999).",
+				"tr":  "O. M. Ivasishin, N. S. Kosenko, V. A. Tatarenko, S. V. Shevchenko, Metallofiz. noveyshie tekhnol., 21, No. 2: 71 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. С. Косенко, С. В. Шевченко, В. А. Татаренко, Материаловедение, 3, № 9: 19 (1999).",
+				"tr":  "N. S. Kosenko, S. V. Shevchenko, V. A. Tatarenko, Materialovedenie, 3, No. 9: 19 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Ивасишин, Н. С. Косенко, С. В. Шевченко, В. А. Татаренко, Металлофиз. новейшие технол., 20, № 8: 3 (1998).",
+				"tr":  "O. M. Ivasishin, N. S. Kosenko, S. V. Shevchenko, V. A. Tatarenko, Metallofiz. Noveishie tekhnol., 20, No. 8: 3 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Ивасишин, Н. С. Косенко, С. В. Шевченко и др., Металлофиз. новейшие технол., 19, № 1: 8 (1997).",
+				"tr":  "O. M. Ivasishin, N. S. Kosenko, S. V. Shevchenko et al., Metallofiz. Noveishie tekhnol., 19, No. 1: 8 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Хачатурян, Теория фазовых превращений и структура твердых растворов (Москва: Наука: 1974)",
+				"tr":  "A. G. Khachaturyan, Teoriya fazovykh prevrashcheniy i struktura tverdykh rastvorov (Moskva: Nauka: 1974)"
+			},
+			{
+				"doi": "",
+				"or":  "О.М. Ивасишин, УФЖ, 43: 1561 (1998).",
+				"tr":  "O.M. Ivasishin, UFZh, 43: 1561 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Бречко, Известия РАН, сер. Физ., 67, № 6: 830 (2003).",
+				"tr":  "T. Brechko, Izvestiya RAN, ser. Fiz., 67, No. 6: 830 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Tabor, The Hardness of Metals (London: Oxford University Press: 1951).",
+				"tr":  "D. Tabor, The Hardness of Metals (London: Oxford University Press: 1951)."
+			},
+			{
+				"doi": "10.1063/1.1702656",
+				"or":  "R. L. Coble, J. Appl. Phys., 34, No. 6: 1679 (1963).",
+				"tr":  "R. L. Coble, J. Appl. Phys., 34, No. 6: 1679 (1963)."
+			},
+			{
+				"doi": "",
+				"or":  "A. H. Chokshi, A. Rosen, J. Karch, and H. Gleiter, Scripta Mat., 23, No. 10: 1679 (1989).",
+				"tr":  "A. H. Chokshi, A. Rosen, J. Karch, and H. Gleiter, Scripta Mat., 23, No. 10: 1679 (1989)."
+			},
+			{
+				"doi": "10.1016/0956-716X(90)90086-V",
+				"or":  "K. Lu, W. D. Wei, and J. T. Wang, Scripta Metall. Mater., 24, No. 12: 2319 (1990).",
+				"tr":  "K. Lu, W. D. Wei, and J. T. Wang, Scripta Metall. Mater., 24, No. 12: 2319 (1990)."
+			},
+			{
+				"doi": "10.1016/0956-716X(91)90222-M",
+				"or":  "T. Christman and M. Jain, Scripta Metall. Mater., 25, No. 4: 767 (1991).",
+				"tr":  "T. Christman and M. Jain, Scripta Metall. Mater., 25, No. 4: 767 (1991)."
+			},
+			{
+				"doi": "10.1016/0956-716X(91)90521-2",
+				"or":  "H. Chang, Scripta Metall. Mater., 25, No. 5: 1161 (1991).",
+				"tr":  "H. Chang, Scripta Metall. Mater., 25, No. 5: 1161 (1991)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.88-90.553",
+				"or":  "K. Kim and K. Okazaki, Mater. Sci. Forum, 88–90: 553 (1992).",
+				"tr":  "K. Kim and K. Okazaki, Mater. Sci. Forum, 88–90: 553 (1992)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00044-5",
+				"or":  "R. W. Siegel and G. E. Fougere, Nanostruct. Mater., 6, No. 1–4: 205 (1995).",
+				"tr":  "R. W. Siegel and G. E. Fougere, Nanostruct. Mater., 6, No. 1–4: 205 (1995)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(03)00771-0",
+				"or":  "Y. Wang, G. Li, C. Wang et al., Surface and Coating Tech., 176: 284 (2004).",
+				"tr":  "Y. Wang, G. Li, C. Wang et al., Surface and Coating Tech., 176: 284 (2004)."
+			},
+			{
+				"doi": "10.1007/978-94-011-5002-6_11",
+				"or":  "A. E. Romanov, Nanostructural Materials: Science and Technology (Eds. G. M. Chow and N. I. Noskova) (Dordrecht: Kluwer: 1998), p. 207.",
+				"tr":  "A. E. Romanov, Nanostructural Materials: Science and Technology (Eds. G. M. Chow and N. I. Noskova) (Dordrecht: Kluwer: 1998), p. 207."
+			},
+			{
+				"doi": "10.1016/0965-9773(93)90159-9",
+				"or":  "C. S. Pande, R. A. Masumura, and R. W. Armstrong, Nanostruct. Mater., 2, No. 3: 323 (1993).",
+				"tr":  "C. S. Pande, R. A. Masumura, and R. W. Armstrong, Nanostruct. Mater., 2, No. 3: 323 (1993)."
+			},
+			{
+				"doi": "10.1016/1359-6462(95)00572-2",
+				"or":  "A. A. Nazarov, Scripta Mat., 34, No. 5: 697 (1996).",
+				"tr":  "A. A. Nazarov, Scripta Mat., 34, No. 5: 697 (1996)."
+			},
+			{
+				"doi": "10.1016/0956-716X(91)90256-Z",
+				"or":  "T. G. Nieh and J. Wadsworth, Scripta Metall. Mater., 25, No. 4: 955 (1991).",
+				"tr":  "T. G. Nieh and J. Wadsworth, Scripta Metall. Mater., 25, No. 4: 955 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Эшелби, Континуальная теория дислокаций (Москва: Изд-во ИЛ: 1963).",
+				"tr":  "Dzh. Eshelbi, Kontinual'naya teoriya dislokatsiy (Moskva: Izd-vo IL: 1963)."
+			},
+			{
+				"doi": "10.1080/14786436708221653",
+				"or":  "J. C. M. Li and G. C. T. Liu, Philos. Mag., 15: 1059 (1967).",
+				"tr":  "J. C. M. Li and G. C. T. Liu, Philos. Mag., 15: 1059 (1967)."
+			},
+			{
+				"doi": "10.1080/14786436608244765",
+				"or":  "R.W. Armstrong, Y. T. Chow, R. M. Fisher, and N. Louat, Philos. Mag., 14, No. 131: 943 (1966).",
+				"tr":  "R.W. Armstrong, Y. T. Chow, R. M. Fisher, and N. Louat, Philos. Mag., 14, No. 131: 943 (1966)."
+			},
+			{
+				"doi": "10.1016/0956-716X(90)90129-5",
+				"or":  "K. J. Kurzydlowski, Scripta Metall. Mater., 24, No. 5: 879 (1990).",
+				"tr":  "K. J. Kurzydlowski, Scripta Metall. Mater., 24, No. 5: 879 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. А. Малыгин, Физика твердого тела, 37: 2281 (1995).",
+				"tr":  "G. A. Malygin, Fizika tverdogo tela, 37: 2281 (1995)."
+			},
+			{
+				"doi": "10.1016/0956-716X(90)90091-T",
+				"or":  "G. Palumbo, U. Erb, and K. T. Aust, Scripta Metall. Mater., 24, No. 12: 2347 (1990).",
+				"tr":  "G. Palumbo, U. Erb, and K. T. Aust, Scripta Metall. Mater., 24, No. 12: 2347 (1990)."
+			},
+			{
+				"doi": "10.1557/JMR.1992.2114",
+				"or":  "C. Suryanarayana, D. Mukhopadhyay, S. N. Patankar, and F. N. Froes, J. Mater. Res., 7, No. 8: 2114 (1992).",
+				"tr":  "C. Suryanarayana, D. Mukhopadhyay, S. N. Patankar, and F. N. Froes, J. Mater. Res., 7, No. 8: 2114 (1992)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00174-3",
+				"or":  "A. A. Nazarov, A. E. Romanov, and R. Z. Valiev, Nanostruct. Mater., 6: 775 (1995).",
+				"tr":  "A. A. Nazarov, A. E. Romanov, and R. Z. Valiev, Nanostruct. Mater., 6: 775 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Г. Зайченко, А. М. Глейзер, Физика твердого тела, 39, № 11: 2023 (1997).",
+				"tr":  "S. G. Zaychenko, A. M. Gleyzer, Fizika tverdogo tela, 39, No. 11: 2023 (1997)."
+			},
+			{
+				"doi": "10.1007/BF01154943",
+				"or":  "V. G. Gryaznov, M. U. Gutkin, A. E. Romanov, and L. I. Trusov, J. Mater. Sci., 28, No. 16: 4359 (1992).",
+				"tr":  "V. G. Gryaznov, M. U. Gutkin, A. E. Romanov, and L. I. Trusov, J. Mater. Sci., 28, No. 16: 4359 (1992)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00257-F",
+				"or":  "J. E. Carsley, J. Ning, and W. W. Milligan, Nanostruct. Mater., 5, No. 4: 441 (1995).",
+				"tr":  "J. E. Carsley, J. Ning, and W. W. Milligan, Nanostruct. Mater., 5, No. 4: 441 (1995)."
+			},
+			{
+				"doi": "10.1016/S0965-9773(98)00145-7",
+				"or":  "D. A. Konstantinidis and E. S. Aifantis, Nanostruct. Mater., 10, No. 7: 1111 (1998).",
+				"tr":  "D. A. Konstantinidis and E. S. Aifantis, Nanostruct. Mater., 10, No. 7: 1111 (1998)."
+			},
+			{
+				"doi": "10.1016/0965-9773(93)90037-C",
+				"or":  "M. Yu. Gutkin and I. A. Ovod’ko, Nanostruct. Mater., 2, No. 6: 631 (1993).",
+				"tr":  "M. Yu. Gutkin and I. A. Ovod'ko, Nanostruct. Mater., 2, No. 6: 631 (1993)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00171-9",
+				"or":  "A. M. Glezer and V. A. Pozdnyakov, Nanostruct. Mater., 6: 767 (1995).",
+				"tr":  "A. M. Glezer and V. A. Pozdnyakov, Nanostruct. Mater., 6: 767 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Кристенсен, Введение в механику композитов (Москва: Мир: 1982) (пер. с англ.).",
+				"tr":  "R. Kristensen, Vvedenie v mekhaniku kompozitov (Moskva: Mir: 1982) (per. s angl.)."
+			},
+			{
+				"doi": "10.1016/0921-5093(93)90319-A",
+				"or":  "J. R. Weertman, Mater. Sci. Eng., A166: 161 (1993).",
+				"tr":  "J. R. Weertman, Mater. Sci. Eng., A166: 161 (1993)."
+			},
+			{
+				"doi": "10.1016/0956-7151(94)00253-E",
+				"or":  "N. Wang, Z. Wang, K. T. Aust, and U. Erb, Acta Metall. Mater., 43, No. 2: 519 (1995).",
+				"tr":  "N. Wang, Z. Wang, K. T. Aust, and U. Erb, Acta Metall. Mater., 43, No. 2: 519 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Рабухин, Поверхность. Физика, химия, механика, № 7: 126 (1986).",
+				"tr":  "V. B. Rabukhin, Poverkhnost'. Fizika, khimiya, mekhanika, No. 7: 126 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Перевезенцев, В. В. Рыбин, Физика металлов и металловедение, 51, № 3: 649 (1981).",
+				"tr":  "V. N. Perevezentsev, V. V. Rybin, Fizika metallov i metallovedenie, 51, No. 3: 649 (1981)."
+			},
+			{
+				"doi": "10.1080/01418619408242541",
+				"or":  "D. J. Sherwood and C. H. Hamilton, Philos. Mag. A, 70, No. 1: 109 (1994).",
+				"tr":  "D. J. Sherwood and C. H. Hamilton, Philos. Mag. A, 70, No. 1: 109 (1994)."
+			},
+			{
+				"doi": "10.1016/0956-716X(90)90427-I",
+				"or":  "V. G. Gryaznov, V. A. Solv’ev, and L. I. Trusov, Scripta Metall. Mater., 24, No. 8: 1529 (1990).",
+				"tr":  "V. G. Gryaznov, V. A. Solv'ev, and L. I. Trusov, Scripta Metall. Mater., 24, No. 8: 1529 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Поздняков, М. А. Глезер, Письма в ЖТФ, 21: 31 (1995).",
+				"tr":  "V. A. Pozdnyakov, M. A. Glezer, Pis'ma v ZhTF, 21: 31 (1995)."
+			},
+			{
+				"doi": "10.1080/01418639708241122",
+				"or":  "H. Hahn and K. A. Radmanabhan, Philos. Mag. B, 76: 553 (1997).",
+				"tr":  "H. Hahn and K. A. Radmanabhan, Philos. Mag. B, 76: 553 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Поздняков, М. А. Глезер, Физика твердого тела, 44, № 4: 705 (2002).",
+				"tr":  "V. A. Pozdnyakov, M. A. Glezer, Fizika tverdogo tela, 44, No. 4: 705 (2002)."
+			},
+			{
+				"doi": "10.1038/35328",
+				"or":  "J. Schiotz, F. D. Di Tolla, and K. W. Jacobsen, Nature, 391/5, No. 5: 561 (1998).",
+				"tr":  "J. Schiotz, F. D. Di Tolla, and K. W. Jacobsen, Nature, 391/5, No. 5: 561 (1998)."
+			},
+			{
+				"doi": "10.1016/0965-9773(96)00003-7",
+				"or":  "L. He and E. Ma, Nanostruct. Mater., 7, No. 3: 327 (1996).",
+				"tr":  "L. He and E. Ma, Nanostruct. Mater., 7, No. 3: 327 (1996)."
+			},
+			{
+				"doi": "10.1016/0965-9773(92)90037-X",
+				"or":  "T. Haubold and V. Gerstman, Nanostruct. Mater., 1, No. 4: 303 (1992).",
+				"tr":  "T. Haubold and V. Gerstman, Nanostruct. Mater., 1, No. 4: 303 (1992)."
+			},
+			{
+				"doi": "10.1016/0965-9773(94)90082-5",
+				"or":  "R. L. Holtz and V. Provenzano, Nanostruct. Mater., 4, No. 3: 241 (1994).",
+				"tr":  "R. L. Holtz and V. Provenzano, Nanostruct. Mater., 4, No. 3: 241 (1994)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.225-227.787",
+				"or":  "R. R. Mulyukov, Mater. Sci. Forum, 225–227: 787 (1996).",
+				"tr":  "R. R. Mulyukov, Mater. Sci. Forum, 225–227: 787 (1996)."
+			},
+			{
+				"doi": "10.1016/0025-5408(96)00048-7",
+				"or":  "R. R. Mulyukov, Mater. Res. Bull., 31, No. 6: 639 (1996).",
+				"tr":  "R. R. Mulyukov, Mater. Res. Bull., 31, No. 6: 639 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.36.7888",
+				"or":  "J. Rupp and R. Birringer, Phys. Rev. B, 36, No. 15: 7888 (1987).",
+				"tr":  "J. Rupp and R. Birringer, Phys. Rev. B, 36, No. 15: 7888 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. З. Валиев, Письма в ЖТФ, 15, № 1: 78 (1989).",
+				"tr":  "R. Z. Valiev, Pis'ma v ZhTF, 15, No. 1: 78 (1989)."
+			},
+			{
+				"doi": "10.1080/01418639308226403",
+				"or":  "A. Tschope and R. Birringer, Philos. Mag. B, 68, No. 2: 233 (1993).",
+				"tr":  "A. Tschope and R. Birringer, Philos. Mag. B, 68, No. 2: 233 (1993)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.48.84",
+				"or":  "J. A. Eastmen, L. J. Thompson, and B. J. Kestel, Phys. Rev. B, 48, No. 1: 84 (1993).",
+				"tr":  "J. A. Eastmen, L. J. Thompson, and B. J. Kestel, Phys. Rev. B, 48, No. 1: 84 (1993)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00120-4",
+				"or":  "G. Goll and H. Lohneyen, Nanostruct. Mater., 6, No. 5–8: 559 (1995).",
+				"tr":  "G. Goll and H. Lohneyen, Nanostruct. Mater., 6, No. 5–8: 559 (1995)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00118-2",
+				"or":  "J. Trampenau, Nanostruct. Mater., 6, No. 5–8: 551 (1995).",
+				"tr":  "J. Trampenau, Nanostruct. Mater., 6, No. 5–8: 551 (1995)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00166-2",
+				"or":  "J. Wang et al., Nanostruct. Mater., 6, No. 5–8: 747 (1995).",
+				"tr":  "J. Wang et al., Nanostruct. Mater., 6, No. 5–8: 747 (1995)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00168-9",
+				"or":  "R. Pirc and A. Holz, Nanostruct. Mater., 6, No. 5–8: 755 (1995).",
+				"tr":  "R. Pirc and A. Holz, Nanostruct. Mater., 6, No. 5–8: 755 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "X. Zhu, PhD. Thesis (Saarbrucken, Germany: University of Saarbrucken: 1986).",
+				"tr":  "X. Zhu, PhD. Thesis (Saarbrucken, Germany: University of Saarbrucken: 1986)."
+			},
+			{
+				"doi": "10.1016/0001-6160(87)90038-1",
+				"or":  "H. J. Klam, H. Hahn, and H. Gleiter, Acta. Metal., 35, No. 8: 2101 (1987).",
+				"tr":  "H. J. Klam, H. Hahn, and H. Gleiter, Acta. Metal., 35, No. 8: 2101 (1987)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00142-5",
+				"or":  "M. L. Sui and K. Lu, Nanostruct. Mater., 6, No. 5–8: 651 (1995).",
+				"tr":  "M. L. Sui and K. Lu, Nanostruct. Mater., 6, No. 5–8: 651 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Y. Kai (Ph. D. Thesis) (Amsterdam, Netherlands: Universiteit van Amsterdam: 1993).",
+				"tr":  "H. Y. Kai (Ph. D. Thesis) (Amsterdam, Netherlands: Universiteit van Amsterdam: 1993)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. К. Исламгалиев, Металлофизика, 12, № 2: 317 (1990).",
+				"tr":  "R. K. Islamgaliev, Metallofizika, 12, No. 2: 317 (1990)."
+			},
+			{
+				"doi": "10.1002/pssa.2211180146",
+				"or":  "R. K. Islamgaliev et al., Phys. Status Solidi A, 118, No. 1: K27 (1990).",
+				"tr":  "R. K. Islamgaliev et al., Phys. Status Solidi A, 118, No. 1: K27 (1990)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00185-9",
+				"or":  "K. Pekala and M. Pekala, Nanostruct. Mater., 6, No. 5–8: 819 (1995).",
+				"tr":  "K. Pekala and M. Pekala, Nanostruct. Mater., 6, No. 5–8: 819 (1995)."
+			},
+			{
+				"doi": "10.1016/S0010-938X(03)00158-6",
+				"or":  "J. J. Park and S. Pyun, Corrosion Sci., 46, No. 2: 285 (2004).",
+				"tr":  "J. J. Park and S. Pyun, Corrosion Sci., 46, No. 2: 285 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Ning, M. E. Stevenson, M. L. Weaver, and R. C. Bradt, Surface and Coating Tech., 163–164, No. 1: 112 (2004).",
+				"tr":  "B. Ning, M. E. Stevenson, M. L. Weaver, and R. C. Bradt, Surface and Coating Tech., 163–164, No. 1: 112 (2004)."
+			},
+			{
+				"doi": "10.1016/S0167-577X(03)00504-4",
+				"or":  "F. U. Liu, Y. C. Chang, F. H. Ko, and T. C. Chu, Materials Letters, 58, No. 3–4: 373 (2004).",
+				"tr":  "F. U. Liu, Y. C. Chang, F. H. Ko, and T. C. Chu, Materials Letters, 58, No. 3–4: 373 (2004)."
+			},
+			{
+				"doi": "10.1016/S0167-577X(03)00428-2",
+				"or":  "C. Frommen and H. Rosner, Materials Letters, 58, No. 1–2: 123 (2004).",
+				"tr":  "C. Frommen and H. Rosner, Materials Letters, 58, No. 1–2: 123 (2004)."
+			},
+			{
+				"doi": "10.1016/S0167-577X(03)00410-5",
+				"or":  "N. Ono, R. Novak, and S. Miura, Materials Letters, 58, No. 1–2: 39 (2004).",
+				"tr":  "N. Ono, R. Novak, and S. Miura, Materials Letters, 58, No. 1–2: 39 (2004)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2003.09.049",
+				"or":  "G. He, W. Loser, and J. Eckert, Scripta Mater., 50, No. 1: 7 (2004).",
+				"tr":  "G. He, W. Loser, and J. Eckert, Scripta Mater., 50, No. 1: 7 (2004)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(03)00772-2",
+				"or":  "J. Tian, Z. Han, Q. Lai, X. Yu, G. Li, and M. Gu, Surface and Coating Tech., 176, No. 3: 267 (2004).",
+				"tr":  "J. Tian, Z. Han, Q. Lai, X. Yu, G. Li, and M. Gu, Surface and Coating Tech., 176, No. 3: 267 (2004)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2003.09.024",
+				"or":  "V. A. Chernenko, J. Pons, E. Cesari, and I. K. Zasimchuk, Scripta Mater., 50, No. 2: 225 (2004).",
+				"tr":  "V. A. Chernenko, J. Pons, E. Cesari, and I. K. Zasimchuk, Scripta Mater., 50, No. 2: 225 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Наноструктурные материалы (Ред. В. В. Скороход) (Труды Института пробл. материаловедения им. И. Н. Францевича НАН Украины: Киев: 2002)",
+				"tr":  "Nanostrukturnye materialy (Red. V. V. Skorokhod) (Trudy Instituta probl. materialovedeniya im. I. N. Frantsevicha NAN Ukrainy: Kiev: 2002)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Скороход, І. В. Уварова, А. В. Рагуля, Фізико-хімічна кінетика в наноструктурних системах (Київ: Академперіодика: 2001).",
+				"tr":  "V. V. Skorokhod, І. V. Uvarova, A. V. Ragulya, Fіziko-khіmіchna kіnetika v nanostrukturnikh sistemakh (Kyiv: Akademperіodika: 2001)."
+			}
+		]
+	}
+}

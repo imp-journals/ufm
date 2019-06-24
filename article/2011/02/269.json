@@ -1,0 +1,191 @@
+{
+	"_id":    "UFM.12.02.269",
+	"year":   2011,
+	"volume": 12,
+	"issue":  2,
+	"pages":  [269,293],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["15.05.2010"],
+	"PACS":   "61.66.Dk, 62.20.fg, 62.80.+f, 64.70.kd, 65.40.De, 81.30.Kf, 83.60.Rs",
+	"title":   {
+		"ua": "До питання про природу мартенситоутворення у вуглецевих крицях",
+		"en": "On the Issue of Character of Martensite Formation in Carbon Steels",
+		"ru": "К вопросу о природе мартенситообразования в углеродистых сталях"
+	},
+	"abstract": {
+		"ua": "Аналіза характерних ознак мартенситоутворення у вуглецевих сталях дозволяє вважати мартенсит метастабільною складовою, яка виникає в результаті перебігу в аустеніті, переохолодженому нижче точки М$_{н}$, бездифузійної релаксації зсувом термопружніх напружень, яка супроводжується одночасною ґенерацією акустичних хвиль та тепловиділенням. Точка початку мартенситоутворення М$_{н}$ є температурою, при охолодженні до якої термопружні напруження, які зумовлені високим коефіцієнтом термічного розширення аустеніту при гартуванні, сягають такої ж величини, як і пружні властивості аустеніту, охолодженого до тієї ж температури. Мартенситоутворення є фазовим переходом другого роду, що відповідає поглядам С.С. Штейнберґа на його механізм. Можна розділити мартенсити в сталях з вуглецем та мартенсити в стопах з елементами втілення. Подібні за ґенезисом, вони істотно відрізняються за механізмами наближення до рівноважного стану при нагріванні. Зворотність, існування гістерези при прямому та зворотньому переходах, ефект пам’яті форми, надпружність та ін., які завжди реалізуються у стопах заміщення, у вуглецевому мартенситі є принципово неможливими.",
+		"en": "The analysis of features of martensite formation in carbon steels allows assuming that the martensite is the metastable structural constituent arising as a result of diffusionless relaxation of thermoelastic stresses by a shift, which is accompanied by both the simultaneous generation of acoustic waves and the heat-evolution, in an austenite supercooled below the $M_n$ point. A point of beginning of martensite formation, $M_{n}$, under cooling is a temperature, below which the thermoelastic stresses conditioned by the high coefficient of thermal expansion of austenite under quenching are commensurable with elastic properties of austenite cooled to the same temperature. Martensite formation is a phase transition of the second kind that is in a complete agreement with S.S. Shteynberg ideas. It is necessary to distinct the martensites in steels with a carbon and the martensites in carbon-free alloys with the interstitial components. They are similar in genesis, but substantially differ by the mechanism of approaching to the equilibrium state under heating. Reciprocity, presence of hysteresis in direct and reverse transitions, shape memory effect, hyperelasticity etc. are realized everywhere in the substitutional alloys, but in a carbon martensite they are impossible in principle.",
+		"ru": "Анализ характерных признаков мартенситообразования в углеродистых сталях даёт основание считать мартенсит метастабильной структурной составляющей, возникающей в результате протекания в аустените, переохлажденном ниже точки М$_{н}$, бездиффузионной релаксации термоупругих напряжений сдвигом, сопровождаемой одновременной генерацией акустических волн и тепловыделением. Точка начала мартенситообразования М$_{н}$ является температурой, при охлаждении до которой термоупругие напряжения, обусловленные высоким коэффициентом термического расширения аустенита при закалке, оказываются соизмеримыми с упругими свойствами аустенита, охлаждённого до той же температуры. Мартенситообразование является фазовым переходом второго рода, что находится в полном согласии со взглядами С.С. Штейнберга на его механизм. Следует разделять мартенситы в сталях с углеродом и мартенситы в безуглеродистых сплавах с элементами внедрения. Сходные по генезису, они существенно отличаются по механизму приближения к равновесному состоянию при нагреве. Обратимость, существование гистерезиса при прямом и обратном переходах, эффект памяти формы, сверхупругость и др., которые реализуются повсеместно в сплавах замещения, в углеродистом мартенсите принципиально невозможны."
+	},
+	"keywords": {
+		"ua": "мартенситоутворення, релаксація термопружніх напруг, тверді розчини втілення та заміщення",
+		"en": "martensite formation, relaxation of thermoelastic stresses, interstitial and substitutional solid solutions",
+		"ru": "мартенситообразование, релаксация термоупругих напряжений, твёрдые растворы внедрения и замещения"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. П. Ошкадьоров", "en": "S. P. Oshkadyorov", "ru": "С. П. Ошкадеров"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.15407/mfint.36.05.0661",
+				"cit": "S. I. Gubenko, S. I. Zhuravlyov, N. A. Konovalov, D. A. Lobus <i>et al.</i>, <a href=\"https://doi.org/10.15407/mfint.36.05.0661\">Metallofiz. Noveishie Tekhnol. <b>36</b>, 661 (2016)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 29,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Г. Курдюмов, Г. Закс, Вести металлопромышленности, № 9/10: 165 (1930).",
+				"tr":  "G. Kurdyumov, G. Zaks, Vesti metallopromyshlennosti, No. 9/10: 165 (1930)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Гриднев, Ю. Я. Мешков, С. П. Ошкадеров, В. И. Трефилов, Физические основы электротермического упрочнения стали (Киев: Наукова думка: 1973).",
+				"tr":  "V. N. Gridnev, Yu. Ya. Meshkov, S. P. Oshkaderov, V. I. Trefilov, Fizicheskie osnovy elektrotermicheskogo uprochneniya stali (Kiev: Naukova dumka: 1973)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Гриднев, Ю. Я. Мешков, С. П. Ошкадеров, Н. Ф. Черненко, Технологические основы электротермической обработки стали (Киев: Наукова думка: 1977).",
+				"tr":  "V. N. Gridnev, Yu. Ya. Meshkov, S. P. Oshkaderov, N. F. Chernenko, Tekhnologicheskie osnovy elektrotermicheskoy obrabotki stali (Kiev: Naukova dumka: 1977)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Гриднев, О. М. Ивасишин, С. П. Ошкадеров, Физические основы скоростного термоупрочнения титановых сплавов (Киев: Наукова думка: 1986).",
+				"tr":  "V. N. Gridnev, O. M. Ivasishin, S. P. Oshkaderov, Fizicheskie osnovy skorostnogo termouprochneniya titanovykh splavov (Kiev: Naukova dumka: 1986)."
+			},
+			{
+				"doi": "10.15407/ufm.09.04.423",
+				"or":  "С. П. Ошкадеров, Успехи физики металлов, 9, № 4: 423 (2008).",
+				"tr":  "S. P. Oshkaderov, Uspehi Fiziki Metallov, 9, No. 4: 423 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лободюк, Э. И. Эстрин, Мартенситные превращения (Москва: Физматлит: 2009).",
+				"tr":  "V. A. Lobodyuk, E. I. Estrin, Martensitnye prevrashcheniya (Moskva: Fizmatlit: 2009)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Курдюмов, Мартенситные превращения. Проблемы современной физики: Сб. ст. к 100-летию со дня рождения А. Ф. Иоффе (Ленинград: Наука: 1980).",
+				"tr":  "V. G. Kurdyumov, Martensitnye prevrashcheniya. Problemy sovremennoy fiziki: Sb. st. k 100-letiyu so dnya rozhdeniya A. F. Ioffe (Leningrad: Nauka: 1980)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. А. Осипьян, Классик металлофизики. В кн.: Академик Георгий Вячеславович Курдюмов. Страницы жизни. Воспоминания (Москва: Наука: 2004).",
+				"tr":  "Yu. A. Osip'yan, Klassik metallofiziki. V kn.: Akademik Georgiy Vyacheslavovich Kurdyumov. Stranitsy zhizni. Vospominaniya (Moskva: Nauka: 2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, Р. И. Энтин, Вестн. АН СССР, № 10: 18 (1964).",
+				"tr":  "G. V. Kurdyumov, R. I. Entin, Vestn. AN SSSR, No. 10: 18 (1964)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Л. Ройтбурд, Г. В. Курдюмов и его школа в мартенсите 20-го века. В кн.: Академик Георгий Вячеславович Курдюмов. Страницы жизни. Воспоминания (Москва: Наука: 2004).",
+				"tr":  "A. L. Roytburd, G. V. Kurdyumov i ego shkola v martensite 20-go veka. V kn.: Akademik Georgiy Vyacheslavovich Kurdyumov. Stranitsy zhizni. Vospominaniya (Moskva: Nauka: 2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Лысак, Б. И. Николин, Физические основы термической обработки стали (Киев: Техника: 1975).",
+				"tr":  "L. I. Lysak, B. I. Nikolin, Fizicheskie osnovy termicheskoy obrabotki stali (Kiev: Tekhnika: 1975)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Бойко, Р. И. Гарбер, А. М. Косевич, Обратимая пластичность кристаллов (Москва: Наука. Физматлит: 1991).",
+				"tr":  "V. S. Boyko, R. I. Garber, A. M. Kosevich, Obratimaya plastichnost' kristallov (Moskva: Nauka. Fizmatlit: 1991)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Данильченко, ФММ, 64, вып.4: 747 (1987).",
+				"tr":  "V. E. Danil'chenko, FMM, 64, No.4: 747 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, Н. Я. Селяков, Н. Т. Гудцов, Журн. прикл. физики, 4, вып. 2: 51 (1927).",
+				"tr":  "G. V. Kurdyumov, N. Ya. Selyakov, N. T. Gudtsov, Zhurn. prikl. fiziki, 4, No. 2: 51 (1927)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Л. Альшевский, Г. В. Курдюмов, ФММ, 25, вып.1: 172 (1968).",
+				"tr":  "Yu. L. Al'shevskiy, G. V. Kurdyumov, FMM, 25, No.1: 172 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, Э. З. Каминский, Журн. прикл. физики, 6, вып. 2: 47 (1929).",
+				"tr":  "G. V. Kurdyumov, E. Z. Kaminskiy, Zhurn. prikl. fiziki, 6, No. 2: 47 (1929)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Курдюмов, А. Ивенсон, ЖФХ, 1, вып. 1: 41 (1930).",
+				"tr":  "G. Kurdyumov, A. Ivenson, ZhFKh, 1, No. 1: 41 (1930)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, Е. Г. Нестеренко, ФММ, 11, вып. 4: 833 (1961).",
+				"tr":  "G. V. Kurdyumov, E. G. Nesterenko, FMM, 11, No. 4: 833 (1961)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Курдюмов, П. Некрашевич, В. Нечволодов, Сталь, № 4: 84 (1935).",
+				"tr":  "G. Kurdyumov, P. Nekrashevich, V. Nechvolodov, Stal', No. 4: 84 (1935)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, А. Лопатин, В. Нечволодов, Влияние термической обработки на количество остаточного аустенита. Рентгенография в применении к исследованию материалов (Москва–Ленинград: ОНТИ: 1936).",
+				"tr":  "G. V. Kurdyumov, A. Lopatin, V. Nechvolodov, Vliyanie termicheskoy obrabotki na kolichestvo ostatochnogo austenita. Rentgenografiya v primenenii k issledovaniyu materialov (Moskva–Leningrad: ONTI: 1936)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Курдюмов, Н. Ослон, ЖТФ, 9, вып. 21: 1891 (1939).",
+				"tr":  "G. Kurdyumov, N. Oslon, ZhTF, 9, No. 21: 1891 (1939)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, К теории мартенситных превращений (переработанная стенограмма доклада на конференции ВНИТОМАШ) (Свердловск: 1950).",
+				"tr":  "G. V. Kurdyumov, K teorii martensitnykh prevrashcheniy (pererabotannaya stenogramma doklada na konferentsii VNITOMASh) (Sverdlovsk: 1950)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, ЖТФ, 18, вып. 8: 999 (1948).",
+				"tr":  "G. V. Kurdyumov, ZhTF, 18, No. 8: 999 (1948)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, Металлофизика, 1, № 1: 81 (1979).",
+				"tr":  "G. V. Kurdyumov, Metallofizika, 1, No. 1: 81 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Штейнберг, ЖТФ, 5, вып. 2: 362 (1935).",
+				"tr":  "S. S. Shteynberg, ZhTF, 5, No. 2: 362 (1935)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Штейнберг, Металлург, № 9/10: 58 (1937).",
+				"tr":  "S. S. Shteynberg, Metallurg, No. 9/10: 58 (1937)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, Явления закалки и отпуска стали (Москва: Металлургиздат: 1960).",
+				"tr":  "G. V. Kurdyumov, Yavleniya zakalki i otpuska stali (Moskva: Metallurgizdat: 1960)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, Пробл. металловедения и физики металлов, № 1: 132 (1949).",
+				"tr":  "G. V. Kurdyumov, Probl. metallovedeniya i fiziki metallov, No. 1: 132 (1949)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Гриднев, Ю. А. Гарасим, С. П. Ошкадеров и др., Металлофизика, 4, № 4: 84 (1982).",
+				"tr":  "V. N. Gridnev, Yu. A. Garasim, S. P. Oshkaderov i dr., Metallofizika, 4, No. 4: 84 (1982)."
+			}
+		]
+	}
+}

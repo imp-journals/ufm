@@ -1,0 +1,49 @@
+{
+	"year":   2010,
+	"volume": 11,
+	"issue":  4,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [413,460],
+			"title": {
+				"ua": "Міжатомові взаємодії у стопах ГЦК-Ni–Fe",
+				"en": "Interatomic Interactions in F.C.C.-Ni–Fe Alloys",
+				"ru": "Межатомные взаимодействия в сплавах ГЦК-Ni-Fe"
+			},
+			"autors": {
+				"ua": "С. М. Бокоч, В. А. Татаренко",
+				"en": "S. M. Bokoch and V. A. Tatarenko",
+				"ru": "С. М. Бокоч, В. А. Татаренко"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [461,508],
+			"title": {
+				"ua": "Кінетичні розмірні ефекти у багатошарових плівках з полікристалічною структурою",
+				"en": "Kinetic Size Effects in Multilayer Films with a Polycrystalline Structure",
+				"ru": "Кинетические размерные эффекты в многослойных плёнках с поликристаллической структурой"
+			},
+			"autors": {
+				"ua": "А. Г. Басов, Ю. О. Шкурдода, Л. В. Дехтярук, А. М. Чорноус",
+				"en": "A. G. Basov, Yu. O. Shkurdoda, L. V. Dekhtyaruk, and A. M. Chornous",
+				"ru": "А. Г. Басов, Ю. А. Шкурдода, Л. В. Дехтярук, А. Н. Чорноус"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [509,524],
+			"title": {
+				"ua": "Додекаборид цирконію — перший надпровідник з поліпшеними приповерхневими характеристиками",
+				"en": "Zirconium Dodecaboride as the First Superconductor with the Improved Near-Surface Characteristics",
+				"ru": "Додекаборид цикрония - первый сверхпроводник с улучшенными приповерхностными характеристиками"
+			},
+			"autors": {
+				"ua": "М. А. Бєлоголовський, В. Г. Бутько, А. П. Шаповалов, В. Є. Шатерник",
+				"en": "M. A. Belogolovs’ky, V. G. But’ko, A. P. Shapovalov, and V. E. Shaternyk",
+				"ru": "М. А. Белоголовский, В. Г. Бутько, А. П. Шаповалов, В. Е. Шатерник"
+			}
+		}
+	]
+}

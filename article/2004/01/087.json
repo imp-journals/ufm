@@ -1,0 +1,515 @@
+{
+	"_id":    "UFM.05.01.087",
+	"year":   2004,
+	"volume": 5,
+	"issue":  1,
+	"pages":  [87,166],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["13.05.2003"],
+	"PACS":   "61.72.Tt, 71.22.+i, 71.30.+h, 72.60.+g, 81.30.-t, 81.40.Rs",
+	"title":   {
+		"ua": "Фазові переходи напівпровідник–метал",
+		"en": "Semiconductor–Metal Phase Transitions",
+		"ru": "Фазовые переходы полупроводник–металл"
+	},
+	"abstract": {
+		"ua": "Розглянуто зміни структурних, механічних, теплових та електричних властивостей напівпровідників і сплавів на їхній основі в результаті фазових й структурних перетворень.",
+		"en": "The changes of structural, mechanical, thermal, and electrical properties of semiconductors and alloys on their base are considered as a result of phase or structural transformations.",
+		"ru": "Рассмотрены изменения структурных, механических, тепловых и электрических свойств полупроводников и сплавов на их основе в результате фазовых и структурных превращений."
+	},
+	"keywords": {
+		"ua": "Силіцій, Ґерманій, леґування, фазові перетворення, мікроструктура, термооброблення",
+		"en": "silicon, germanium, alloying (doping), phase transformations, microstructure, thermal treatment",
+		"ru": "кремний, германий, легирование, фазовые превращения, микроструктура, термообработка"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. М. Таран", "en": "Yu. M. Taran", "ru": "Ю. Н. Таран"},
+			"OID": [223]
+		},
+		{
+			"AID": {"ua": "В. З. Куцова", "en": "V. Z. Kutsova", "ru": "В. З. Куцова"},
+			"OID": [223]
+		},
+		{
+			"AID": {"ua": "О. А. Носко", "en": "O. A. Nosko", "ru": "О. А. Носко"},
+			"OID": [223]
+		}
+	],
+	"references": {
+		"count": 94,
+				"list":  [
+			{
+				"doi": "",
+				"or":  "А. М. Нестеренко, К. И Узлов, В. З. Куцова и др., Изв. АН СССР, Металлы, № 2: 192 (1988).",
+				"tr":  "A. M. Nesterenko, K. I Uzlov, V. Z. Kutsova et al., Izv. AN SSSR, Metally, No. 2: 192 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Таран, В. З. Куцова, К. И Узлов, М. Г. Ковальчук, Металловедение и термическая обработка металлов, № 9: 33 (1988).",
+				"tr":  "Yu. N. Taran, V. Z. Kutsova, K. I Uzlov, M. G. Koval'chuk, Metallovedenie i termicheskaya obrabotka metallov, No. 9: 33 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Глазов, В. С. Земсков, Физико-химические основы легирования полупроводников (Москва: Наука: 1967).",
+				"tr":  "V. M. Glazov, V. S. Zemskov, Fiziko-khimicheskie osnovy legirovaniya poluprovodnikov (Moskva: Nauka: 1967)."
+			},
+			{
+				"doi": "",
+				"or":  "Кремний: Сб. ст. (Пер. с англ. под ред. Д. Н. Петрова) (Москва: Изд. иностр. лит.: 1960).",
+				"tr":  "Kremniy: Sb. st. (Per. s angl. pod red. D. N. Petrova) (Moskva: Izd. inostr. lit.: 1960)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Лозовский, А. И. Ундянская, Тр. Новочеркасского политехн. ин-та (1967), с. 54.",
+				"tr":  "V. N. Lozovskiy, A. I. Undyanskaya, Tr. Novocherkasskogo politekhn. in-ta (1967), p. 54."
+			},
+			{
+				"doi": "10.1002/j.1538-7305.1960.tb03928.x",
+				"or":  "F. A. Trumbore, Bell. Syst. Toch. I, 39: 205 (1960).",
+				"tr":  "F. A. Trumbore, Bell. Syst. Toch. I, 39: 205 (1960)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Spreenger, Metal, 5: 1–6 (1995).",
+				"tr":  "H. Spreenger, Metal, 5: 1–6 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Ю. Тонков, Фазовые превращения соединений при высоком давлении: Справочник в 2 книгах (Москва: Металлургия: 1988).",
+				"tr":  "E. Yu. Tonkov, Fazovye prevrashcheniya soedineniy pri vysokom davlenii: Spravochnik v 2 knigakh (Moskva: Metallurgiya: 1988)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Ю. Тонков, Фазовые диаграммы элементов при высоком давлении (Москва: Металлургия: 1979).",
+				"tr":  "E. Yu. Tonkov, Fazovye diagrammy elementov pri vysokom davlenii (Moskva: Metallurgiya: 1979)."
+			},
+			{
+				"doi": "10.1002/pssa.2210140139",
+				"or":  "V. G. Eremenko and V. I. Nikitenko, Phys. Stat. Soc. A, 14: 317 (1972).",
+				"tr":  "V. G. Eremenko and V. I. Nikitenko, Phys. Stat. Soc. A, 14: 317 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Копаев, Ю. В. Копаев, С. Н. Молотков, Микроэлектроника, 12, вып. 4: 499 (1983).",
+				"tr":  "V. V. Kopaev, Yu. V. Kopaev, S. N. Molotkov, Mikroelektronika, 12, No. 4: 499 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Г. Громов, В. В. Копаев, Ю. В. Копаев, К. В. Руденко, Письма в ЖТФ, 46, № 3: 119 (1987).",
+				"tr":  "G. G. Gromov, V. V. Kopaev, Yu. V. Kopaev, K. V. Rudenko, Pis'ma v ZhTF, 46, No. 3: 119 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Г. Громов, К. В. Руденко, В. Б. Уфимцев, ЖТФ, 56, № 10: 1998 (1986).",
+				"tr":  "G. G. Gromov, K. V. Rudenko, V. B. Ufimtsev, ZhTF, 56, No. 10: 1998 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Руденко, Г. Г. Громов, С. В. Жук, ФТП, 21, вып. 8: 1482 (1987).",
+				"tr":  "K. V. Rudenko, G. G. Gromov, S. V. Zhuk, FTP, 21, No. 8: 1482 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Руденко, Г. Г. Громов, С. В. Жук, ФТП, 21, вып. 10: 1750 (1987).",
+				"tr":  "K. V. Rudenko, G. G. Gromov, S. V. Zhuk, FTP, 21, No. 10: 1750 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Г. Громов, К. В. Руденко, В. Б. Уфимцев, Письма в ЖТФ, 13, вып. 16: 998 (1987).",
+				"tr":  "G. G. Gromov, K. V. Rudenko, V. B. Ufimtsev, Pis'ma v ZhTF, 13, No. 16: 998 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Г. Громов, К. В. Руденко, А. Вернер и др., ЖТФ, 58, вып. 8: 1541 (1988).",
+				"tr":  "G. G. Gromov, K. V. Rudenko, A. Verner et al., ZhTF, 58, No. 8: 1541 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Копаев, В. В. Меняйленко, С. Н. Молотков, Письма в ЖТФ, 11, вып. 4: 241 (1985).",
+				"tr":  "Yu. V. Kopaev, V. V. Menyaylenko, S. N. Molotkov, Pis'ma v ZhTF, 11, No. 4: 241 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Копаев, В. В. Меняйленко, С. Н. Молотков, ФТТ, 27, вып. 4: 3288 (1985).",
+				"tr":  "Yu. V. Kopaev, V. V. Menyaylenko, S. N. Molotkov, FTT, 27, No. 4: 3288 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Нестеренко, О. В. Снитко, Физические свойства атомарно-чистой поверхности полупроводников (Киев: Наук. думка: 1983).",
+				"tr":  "A. M. Nesterenko, O. V. Snitko, Fizicheskie svoystva atomarno-chistoy poverkhnosti poluprovodnikov (Kiev: Nauk. dumka: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Нестеренко, В. Г. Ляпин, Фазовые переходы на свободных гранях и межфазных границах в полупроводниках (Киев: Наук. думка: 1990).",
+				"tr":  "A. M. Nesterenko, V. G. Lyapin, Fazovye perekhody na svobodnykh granyakh i mezhfaznykh granitsakh v poluprovodnikakh (Kiev: Nauk. dumka: 1990)."
+			},
+			{
+				"doi": "10.3367/UFNr.0021.193902c.0120",
+				"or":  "П. Дебай, Успехи физ. наук, 21: 120 (1939).",
+				"tr":  "P. Debay, Uspekhi Fiz. Nauk, 21: 120 (1939)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. И. Френкель, Тепловое движение в твердых и жидких телах и теория плавления (Москва: ВСНПТО: 1936), вып. 10.",
+				"tr":  "Ya. I. Frenkel', Teplovoe dvizhenie v tverdykh i zhidkikh telakh i teoriya plavleniya (Moskva: VSNPTO: 1936), No. 10."
+			},
+			{
+				"doi": "",
+				"or":  "Я. И. Френкель, Теория твердых и жидких тел (Москва–Ленинград: ГТТИ: 1938).",
+				"tr":  "Ya. I. Frenkel', Teoriya tverdykh i zhidkikh tel (Moskva–Leningrad: GTTI: 1938)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. И. Френкель, Кинетическая теория жидкостей (Москва–Ленинград: Изд-во АН СССР: 1944).",
+				"tr":  "Ya. I. Frenkel', Kineticheskaya teoriya zhidkostey (Moskva–Leningrad: Izd-vo AN SSSR: 1944)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ф. Иоффе, Юбилейный сборник АН СССР (Москва: Изд-во АН СССР: 1957), ч. 1, с. 305.",
+				"tr":  "A. F. Ioffe, Yubileynyy sbornik AN SSSR (Moskva: Izd-vo AN SSSR: 1957), ch. 1, p. 305."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ф. Иоффе, Изв. АН СССР, Сер. физ., 15: 477 (1951).",
+				"tr":  "A. F. Ioffe, Izv. AN SSSR, Ser. fiz., 15: 477 (1951)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ф. Иоффе, Физика полупроводников (Москва–Ленинград: Изд-во АН СССР: 1957).",
+				"tr":  "A. F. Ioffe, Fizika poluprovodnikov (Moskva–Leningrad: Izd-vo AN SSSR: 1957)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Р. Регель, В. М. Глазов, Периодический закон и физические свойства электронных расплавов (Москва: Наука: 1978).",
+				"tr":  "A. R. Regel', V. M. Glazov, Periodicheskiy zakon i fizicheskie svoystva elektronnykh rasplavov (Moskva: Nauka: 1978)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ф. Иоффе, ЖТФ, 27, № 6: 1153 (1957).",
+				"tr":  "A. F. Ioffe, ZhTF, 27, No. 6: 1153 (1957)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Р. Регель, Исследования по электронной проводимости жидкостей (Автореф. дис. д-ра физ.-мат. наук) (Ленинград: 1956), 40 с.",
+				"tr":  "A. R. Regel', Issledovaniya po elektronnoy provodimosti zhidkostey (Avtoref. dis. d-ra fiz.-mat. nauk) (Leningrad: 1956), 40 pp."
+			},
+			{
+				"doi": "",
+				"or":  "А. Р. Регель, В. М. Глазов, Физические свойства электронных расплавов (Москва: Наука: 1980).",
+				"tr":  "A. R. Regel', V. M. Glazov, Fizicheskie svoystva elektronnykh rasplavov (Moskva: Nauka: 1980)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Глазов, В. Б. Кольцов, С. Ф. Сиротюк, Ч. 1: Металлические расплавы: Обзоры по электронной технике. Серия 6. Материалы (Москва: ЦНИИ «Электроника»: 1987), вып. 6, с. 1310.",
+				"tr":  "V. M. Glazov, V. B. Kol'tsov, S. F. Sirotyuk, Ch. 1: Metallicheskie rasplavy: Obzory po elektronnoy tekhnike. Seriya 6. Materialy (Moskva: TsNII «Elektronika»: 1987), No. 6, p. 1310."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Таран, Н. М. Кочегура, В. З. Куцова и др., Докл. АН СССР, 305, № 4: 865 (1989).",
+				"tr":  "Yu. N. Taran, N. M. Kochegura, V. Z. Kutsova et al., Dokl. AN SSSR, 305, No. 4: 865 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Таран, В. З. Куцова и др., Доклады АН УССР, сер. А, № 7: 81 (1987).",
+				"tr":  "Yu. N. Taran, V. Z. Kutsova et al., Doklady AN USSR, ser. A, No. 7: 81 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Глазов, В. Б. Кольцов, В. З. Куцова и др., Электронная техника, № 11: (1990).",
+				"tr":  "V. M. Glazov, V. B. Kol'tsov, V. Z. Kutsova et al., Elektronnaya tekhnika, No. 11: (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Таран, В. З. Куцова, К. И. Узлов, Э. С. Фалькевич, Б. А. Шкляр, АН СССР, № 4: 5 (1989).",
+				"tr":  "Yu. N. Taran, V. Z. Kutsova, K. I. Uzlov, E. S. Fal'kevich, B. A. Shklyar, AN SSSR, No. 4: 5 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "F. Helmut, Wolf Silicon Semiconductors Data Signetics (Card № 69-16047) (London).",
+				"tr":  "F. Helmut, Wolf Silicon Semiconductors Data Signetics (Card No. 69-16047) (London)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Жузе, С. Н. Николаев, ЖТФ, 23, № 5: 913 (1953).",
+				"tr":  "V. P. Zhuze, S. N. Nikolaev, ZhTF, 23, No. 5: 913 (1953)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Глазов, А. А. Айвазов, В. Б. Кольцов, ФТП, 14, № 8: 1532 (1980).",
+				"tr":  "V. M. Glazov, A. A. Ayvazov, V. B. Kol'tsov, FTP, 14, No. 8: 1532 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Кольцов, В. А. Курбатов, Ю. И. Селин, А. М. Умаров, Заводская лаборатория, 52, № 4: 433 (1986).",
+				"tr":  "V. B. Kol'tsov, V. A. Kurbatov, Yu. I. Selin, A. M. Umarov, Zavodskaya laboratoriya, 52, No. 4: 433 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Самсонов, Л. А. Дворина, Б. М. Рудь, Силициды (Москва: Металлургия: 1974).",
+				"tr":  "G. V. Samsonov, L. A. Dvorina, B. M. Rud', Silitsidy (Moskva: Metallurgiya: 1974)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Ансельм, Введение в теорию полупроводников (Москва: Наука: 1978).",
+				"tr":  "A. I. Ansel'm, Vvedenie v teoriyu poluprovodnikov (Moskva: Nauka: 1978)."
+			},
+			{
+				"doi": "",
+				"or":  "G. C. Rybiki and P. Piruoz, Indentation of Plasticity and Fracture in Silicon: NACA Technical Papers, 1 (1988).",
+				"tr":  "G. C. Rybiki and P. Piruoz, Indentation of Plasticity and Fracture in Silicon: NACA Technical Papers, 1 (1988)."
+			},
+			{
+				"doi": "10.1016/0036-9748(87)90305-X",
+				"or":  "R. Behtensmeier, M. Brede, P. Haasen, Scripta Met., 21, No. 11: 1581 (1987).",
+				"tr":  "R. Behtensmeier, M. Brede, P. Haasen, Scripta Met., 21, No. 11: 1581 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Bornstein, Numerical Data and Functional Relationships in Science end Technology (Library of Congress).",
+				"tr":  "Bornstein, Numerical Data and Functional Relationships in Science end Technology (Library of Congress)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Таран, В. З. Куцова, А. М. Нестеренко, К. И. Узлов, Докл. АН Украины, № 4: 76 (1991).",
+				"tr":  "Yu. N. Taran, V. Z. Kutsova, A. M. Nesterenko, K. I. Uzlov, Dokl. AN Ukrainy, No. 4: 76 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Глазов, В. Б. Лазарев, В. В. Жаров, Фазовые диаграммы простых веществ (Москва: Наука: 1980).",
+				"tr":  "V. M. Glazov, V. B. Lazarev, V. V. Zharov, Fazovye diagrammy prostykh veshchestv (Moskva: Nauka: 1980)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. А. Свелин, Термодинамика твердого состояния (Москва: Металлургия: 1968).",
+				"tr":  "R. A. Svelin, Termodinamika tverdogo sostoyaniya (Moskva: Metallurgiya: 1968)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Статистическая физика (Москва: Наука: 1964).",
+				"tr":  "L. D. Landau, E. M. Lifshits, Statisticheskaya fizika (Moskva: Nauka: 1964)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Сторонкин, Термодинамика гетерогенных систем (Москва: МГУ: 1967), ч. 1, 2.",
+				"tr":  "A. V. Storonkin, Termodinamika geterogennykh sistem (Moskva: MGU: 1967), Ch. 1, 2."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Б. Трейвус, Введение в термодинамику кристаллогенезиса (Ленинград: 1990).",
+				"tr":  "E. B. Treyvus, Vvedenie v termodinamiku kristallogenezisa (Leningrad: 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "С. К. Филатов, Введение в высокотемпературную кристаллохимию. Кристаллохимия и структурный типоморфизм минералов (Ленинград: 1985), с. 21.",
+				"tr":  "S. K. Filatov, Vvedenie v vysokotemperaturnuyu kristallokhimiyu. Kristallokhimiya i strukturnyy tipomorfizm mineralov (Leningrad: 1985), p. 21."
+			},
+			{
+				"doi": "",
+				"or":  "С. К. Филатов, Зап. Всесоюзн. минералогич. общ-ва, 114, вып. 1: 14 (1985).",
+				"tr":  "S. K. Filatov, Zap. Vsesoyuzn. mineralogich. obshch-va, 114, No. 1: 14 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Флери, Успехи физ. наук, вып. 1: 129 (1982).",
+				"tr":  "P. Fleri, Uspekhi Fiz. Nauk, No. 1: 129 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Таран, В. М. Глазов, А. Р. Регель, В. З. Куцова, и др., ФТП, 25, в. 4: 588 (1991).",
+				"tr":  "Yu. N. Taran, V. M. Glazov, A. R. Regel', V. Z. Kutsova, et al., FTP, 25, vol. 4: 588 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. N. Taran, V. Z. Kutsova, E. S. Falkevich, and K. I. Uzlov, Proceeding of the International Conference ‘Silicon 90’, vol. II, Chapter VI, ‘Silicon Characterisations’ Tesla, P. R. Roznow, Czech Republic (1990), p. 93.",
+				"tr":  "Yu. N. Taran, V. Z. Kutsova, E. S. Falkevich, and K. I. Uzlov, Proceeding of the International Conference 'Silicon 90', vol. II, Chapter VI, 'Silicon Characterisations' Tesla, P. R. Roznow, Czech Republic (1990), p. 93."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. N. Taran, V. Z. Kutsova, K. I. Uzlov, and E. S. Falkevich, Proceeding of the International Conference ‘Silicon 92’, P. R. Roznow, Czech Republic (1992), p. 88.",
+				"tr":  "Yu. N. Taran, V. Z. Kutsova, K. I. Uzlov, and E. S. Falkevich, Proceeding of the International Conference 'Silicon 92', P. R. Roznow, Czech Republic (1992), p. 88."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. N. Taran, V. Z. Kutsova, K. I. Uzlov, E. S. Falkevich, and G. G. Timochina, Proceeding of the 5th Scientific and Business Conference ‘Silicon 96’, VI, P. R. Roznow, Czech Republic (1996), p. 120.",
+				"tr":  "Yu. N. Taran, V. Z. Kutsova, K. I. Uzlov, E. S. Falkevich, and G. G. Timochina, Proceeding of the 5th Scientific and Business Conference 'Silicon 96', VI, P. R. Roznow, Czech Republic (1996), p. 120."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. N. Taran, V. Z. Kutsova, and K. I. Uzlov, Proceeding of the 4th Decennial International Conference of Solidification Processing (Sheffield: 1997), p. 618.",
+				"tr":  "Yu. N. Taran, V. Z. Kutsova, and K. I. Uzlov, Proceeding of the 4th Decennial International Conference of Solidification Processing (Sheffield: 1997), p. 618."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, ЖТФ, № 18, в. 8: 999 (1948).",
+				"tr":  "G. V. Kurdyumov, ZhTF, No. 18, vol. 8: 999 (1948)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Г. Джандиери, Г. П. Коландадзе, П. Д. Кервалишвили, Высокочистые вещества, № 4 (1990).",
+				"tr":  "T. G. Dzhandieri, G. P. Kolandadze, P. D. Kervalishvili, Vysokochistye veshchestva, No. 4 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Глазов, В. А. Курбатов, В. Б. Кольцов, ФТП, 19, в. 4: 662 (1985).",
+				"tr":  "V. M. Glazov, V. A. Kurbatov, V. B. Kol'tsov, FTP, 19, vol. 4: 662 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Р. Юхновский, З. А. Гурский, И. М. Зеленчук, Расчет статистической суммы бинарных сплавов методом коллективных переменных (Препринт ИТФ-88-22Р) (Киев: 1980), 33 с.",
+				"tr":  "I. R. Yukhnovskiy, Z. A. Gurskiy, I. M. Zelenchuk, Raschet statisticheskoy summy binarnykh splavov metodom kollektivnykh peremennykh (Preprint ITF-88-22R) (Kiev: 1980), 33 pp."
+			},
+			{
+				"doi": "",
+				"or":  "З. О. Гурський, УФЖ, 35, № 11: 1738 (1990).",
+				"tr":  "Z. O. Gurs'kiy, UFZh, 35, No. 11: 1738 (1990)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.26.5668",
+				"or":  "M. Jin and M. Cdiin, Phys. Rev. B, 26, No. 10: 5668 (1982).",
+				"tr":  "M. Jin and M. Cdiin, Phys. Rev. B, 26, No. 10: 5668 (1982)."
+			},
+			{
+				"doi": "10.1088/0022-3719/17/15/009",
+				"or":  "R. Berdoncini and F. Meloni, Phys. C. Solid State Phys., 17: 2705 (1984).",
+				"tr":  "R. Berdoncini and F. Meloni, Phys. C. Solid State Phys., 17: 2705 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. О. Довгий, М. К. Заморский, И. В. Китык и др., Самосогласованный расчет энергетических зон кремния с использованием нелокального псевдопотенциала (Препринт ИТФ-89-19 Г) (Киев: 1989), 36 с.",
+				"tr":  "Ya. O. Dovgiy, M. K. Zamorskiy, I. V. Kityk et al., Samosoglasovannyy raschet energeticheskikh zon kremniya s ispol'zovaniem nelokal'nogo psevdopotentsiala (Preprint ITF-89-19 G) (Kiev: 1989), 36 s."
+			},
+			{
+				"doi": "",
+				"or":  "У. Харрисон, Псевдопотенциалы в теории металлов (Москва: Мир: 1968).",
+				"tr":  "U. Kharrison, Psevdopotentsialy v teorii metallov (Moskva: Mir: 1968)."
+			},
+			{
+				"doi": "10.1103/PhysRev.149.597",
+				"or":  "W. Brinkman and B. Goodman, Phys. Rev., 149, No. 2: 597 (1966).",
+				"tr":  "W. Brinkman and B. Goodman, Phys. Rev., 149, No. 2: 597 (1966)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Хачатурян, Теория фазовых превращений и структура твердых растворов (Москва: Наука: 1974).",
+				"tr":  "A. G. Khachaturyan, Teoriya fazovykh prevrashcheniy i struktura tverdykh rastvorov (Moskva: Nauka: 1974)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Г. Юхновский, З. А. Гурский, ФММ, 56, вып. 4: 672 (1983).",
+				"tr":  "I. G. Yukhnovskiy, Z. A. Gurskiy, FMM, 56, No. 4: 672 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Бирман, Пространственная симметрия и оптические свойства твердых тел (Москва: Мир: 1978), т. 2.",
+				"tr":  "Dzh. Birman, Prostranstvennaya simmetriya i opticheskie svoystva tverdykh tel (Moskva: Mir: 1978), vol. 2."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Глазов, В. Б. Кольцов, А. Р. Регель и др., ФТП, 27, вып. 7: 1080 (1993).",
+				"tr":  "V. M. Glazov, V. B. Kol'tsov, A. R. Regel' et al., FTP, 27, No. 7: 1080 (1993)."
+			},
+			{
+				"doi": "10.1016/0956-7151(90)90063-M",
+				"or":  "P. Piruoz, U. Danmen, and K. Wastmacott, Acta Metall., 38, No. 2: 329 (1990).",
+				"tr":  "P. Piruoz, U. Danmen, and K. Wastmacott, Acta Metall., 38, No. 2: 329 (1990)."
+			},
+			{
+				"doi": "10.1016/0956-7151(90)90061-K",
+				"or":  "P. Piruoz and R. Chaim, Acta Metall., 38, No. 2: 313 (1990).",
+				"tr":  "P. Piruoz and R. Chaim, Acta Metall., 38, No. 2: 313 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Ситников, Л. М. Сорокин, И. Е. Таланин и др., ФТТ, 28, в. 6: 1829 (1986).",
+				"tr":  "A. A. Sitnikov, L. M. Sorokin, I. E. Talanin et al., FTT, 28, v. 6: 1829 (1986)."
+			},
+			{
+				"doi": "10.1080/01418618108244498",
+				"or":  "T. Y. Tan, H. Föll, and S. M. Hu, Phil. Mag. A, 44: 127 (1981).",
+				"tr":  "T. Y. Tan, H. Föll, and S. M. Hu, Phil. Mag. A, 44: 127 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. И. Николин, Доклады Всесоюзной конференции по мартенситным превращениям в твердом теле (Киев: Институт металлофизики АН Украины: 1992), с. 246.",
+				"tr":  "B. I. Nikolin, Doklady Vsesoyuznoy konferentsii po martensitnym prevrashcheniyam v tverdom tele (Kiev: Institut metallofiziki AN Ukrainy: 1992), p. 246."
+			},
+			{
+				"doi": "",
+				"or":  "Рейви, Дефекты и примеси в полупроводниковом кремнии (Москва: Мир: 1984).",
+				"tr":  "Reyvi, Defekty i primesi v poluprovodnikovom kremnii (Moskva: Mir: 1984)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. С. Фалькевич, Э. О. Пульнер, И. Ф. Червоный и др., Технология полупроводникового кремния (Москва: Металлургия: 1992).",
+				"tr":  "E. S. Fal'kevich, E. O. Pul'ner, I. F. Chervonyy et al., Tekhnologiya poluprovodnikovogo kremniya (Moskva: Metallurgiya: 1992)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Фистуль, Сильно легированные полупроводники (Москва: Наука: 1967).",
+				"tr":  "V. I. Fistul', Sil'no legirovannye poluprovodniki (Moskva: Nauka: 1967)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Глазов, А. Я. Потемкин, М. С. Михайлова, Известия ВУЗов. Цветная металлургия, № 6: 67 (1997).",
+				"tr":  "V. M. Glazov, A. Ya. Potemkin, M. S. Mikhaylova, Izvestiya VUZov. Tsvetnaya metallurgiya, No. 6: 67 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "В. З. Куцова, В. В. Пацалюк, В. М. Хроненко, Теория и практика металлургии, № 2: 38 (1997).",
+				"tr":  "V. Z. Kutsova, V. V. Patsalyuk, V. M. Khronenko, Teoriya i praktika metallurgii, No. 2: 38 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Глазов, Г. Г. Тимошина, М. С. Михайлова, ДАН, 347, №3: 352 (1996).",
+				"tr":  "V. M. Glazov, G. G. Timoshina, M. S. Mikhaylova, DAN, 347, No. 3: 352 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "В. З. Куцова, В. В. Пацалюк, В. М. Хроненко, МОМ, № 3: 40 (1999).",
+				"tr":  "V. Z. Kutsova, V. V. Patsalyuk, V. M. Khronenko, MOM, No. 3: 40 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Таран, В. З. Куцова, Высокочистые металлические и полупроводниковые материалы. Харьковская научная ассамблея ISPM-8 (2002), c. 68.",
+				"tr":  "Yu. N. Taran, V. Z. Kutsova, Vysokochistye metallicheskie i poluprovodnikovye materialy. Khar'kovskaya nauchnaya assambleya ISPM-8 (2002), p. 68."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. М. Таран, В. З. Куцова, О. А. Носко, МОМ, № 1–2: 59 (2002).",
+				"tr":  "Yu. M. Taran, V. Z. Kutsova, O. A. Nosko, MOM, No. 1–2: 59 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Р. Регель, В. М. Глазов, Периодический закон и физические свойства электронных расплавов (Москва: Наука: 1978).",
+				"tr":  "A. R. Regel', V. M. Glazov, Periodicheskiy zakon i fizicheskie svoystva elektronnykh rasplavov (Moskva: Nauka: 1978)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. В. Приходько, Металлохимия многокомпонентных систем (Москва: Металлургия: 1995).",
+				"tr":  "E. V. Prikhod'ko, Metallokhimiya mnogokomponentnykh sistem (Moskva: Metallurgiya: 1995)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Таран, В. З. Куцова, О. А. Носко, Высокочистые металлические и полупроводниковые материалы. Харьковская научная ассамблея ISPM-9 (2003).",
+				"tr":  "Yu. N. Taran, V. Z. Kutsova, O. A. Nosko, Vysokochistye metallicheskie i poluprovodnikovye materialy. Khar'kovskaya nauchnaya assambleya ISPM-9 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Веселовская, С. И. Чашенко, Ю. В. Данковский и др., Актуальные вопросы физики полупроводниковых детекторов (Киев: АН УССР: 1981), с. 44.",
+				"tr":  "A. N. Veselovskaya, S. I. Chashenko, Yu. V. Dankovskiy et al., Aktual'nye voprosy fiziki poluprovodnikovykh detektorov (Kiev: AN USSR: 1981), p. 44."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Я. Фарбер, В. И. Никитенко, ФТП, 23: 2191 (1981).",
+				"tr":  "B. Ya. Farber, V. I. Nikitenko, FTP, 23: 2191 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Г. Мильвидский, В. Б. Освенский, Структурные дефекты в монокристаллах полупроводников (Москва: Металлургия: 1984).",
+				"tr":  "M. G. Mil'vidskiy, V. B. Osvenskiy, Strukturnye defekty v monokristallakh poluprovodnikov (Moskva: Metallurgiya: 1984)."
+			}
+		]
+	}
+}

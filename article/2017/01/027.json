@@ -1,0 +1,272 @@
+{
+	"_id":    "UFM.18.01.027",
+	"year":   2017,
+	"volume": 18,
+	"issue":  1,
+	"pages":  [27,57],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["03.08.2016", "22.02.2017"],
+	"PACS":   "63.20.dh, 63.20.dk, 63.20.kd, 63.20.kg, 72.15.Lh, 72.15.-v",
+	"title":   {
+		"ua": "Теорія взаємодії фононів з електронами в металах",
+		"en": "Theory of Phonon–Electron Interaction in Metals",
+		"ru": "Теория взаимодействия фононов с электронами в металлах"
+	},
+	"abstract": {
+		"ua": "Представлено ab initio розрахунки для ГЩП-металів: матричного елементу електрон-фононної взаємодії, функції Еліашберґа та анізотропії транспортної функції для напрямків [10$\\bar{1}$0] і [0001]. Теорія враховує реальну форму кристалічного потенціялу та його повну варіяцію при збуренні, що викликане наявністю фонону у ґратниці. Такий підхід уможливлює вийти за межі класичного наближення жорсткого зсуву йонів і врахувати анізотропію фізичних властивостей для кристалів з некубічною симетрією.",
+		"en": "Ab initio calculations for h.c.p. metals are presented for the matrix element of electron–phonon interaction, Eliashberg function, and anisotropy of the transport function for the [10$\\bar{1}$0] and [0001] directions. The theory takes into account the real shape of the crystal potential and its total variation due to excitation, which is caused by the presence of a phonon in the lattice. This approach allows going beyond the classical approach of the rigid-ions’ approximation and permits to take into account the anisotropy of the physical properties of crystals with non-cubic symmetry.",
+		"ru": "Представляются ab initio расчёты для ГПУ-металлов: матричного элемента электрон-фононного взаимодействия, функции Елиашберга и анизотропии транспортной функции для направлений [10$\\bar{1}$0] и [0001]. Теория учитывает реальную форму кристаллического потенциала и его полную вариацию при возбуждении, которое вызвано наличием фонона в решётке. Такой подход позволяет выйти за пределы классического приближения жёсткого смещения ионов и учесть анизотропию физических свойств для кристаллов с некубической симметрией."
+	},
+	"keywords": {
+		"ua": "функція Еліашберґа, питомий електроопір, ГЩП-кристали, повнопотенціяльна лінійна метода «маффін-тін»-орбіталей (ПП ЛМТО), мікроконтактні спектри, анізотропія",
+		"en": "Eliashberg function, resistivity, h.c.p. crystals, full-potential linear ‘muffin-tin’ orbital (FP-LMTO) method, microcontact spectra, anisotropy",
+		"ru": "функция Елиашберга, удельное электросопротивление, ГПУ-кристаллы, полнопотенциальный линейный метод «маффин-тин»-орбиталей (ПП ЛМТО), микроконтактные спектры, анизотропия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. М. Січкар", "en": "S. M. Sichkar", "ru": "С. М. Сичкар"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 47,
+		"list":  [
+			{
+				"doi": "10.1007/s10948-014-2732-8",
+				"or":  "S. M. Sichkar, J. Supercond. Nov. Magn., 28, 2: 719 (2015).",
+				"tr":  "S. M. Sichkar, J. Supercond. Nov. Magn., 28, 2: 719 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "N. H. March and M. Parrinello, Collective Effects in Solids and Liquids (Bristol: Adam Hilger Ltd.: 1982).",
+				"tr":  "N. H. March and M. Parrinello, Collective Effects in Solids and Liquids (Bristol: Adam Hilger Ltd.: 1982)."
+			},
+			{
+				"doi": "",
+				"or":  "A. B. Migdal, Soviet Physics JETP, 7, No. 6: 996 (1958).",
+				"tr":  "A. B. Migdal, Soviet Physics JETP, 7, No. 6: 996 (1958)."
+			},
+			{
+				"doi": "10.1103/PhysRev.134.A566",
+				"or":  "R. E. Prange and L. P. Kadanoff, Phys. Rev., 134: A566 (1964).",
+				"tr":  "R. E. Prange and L. P. Kadanoff, Phys. Rev., 134: A566 (1964)."
+			},
+			{
+				"doi": "",
+				"or":  "P. B. Allen, Phonons and Superconducting Transition Temperature (Amsterdam: North-Holland Publishing Company: 1980).",
+				"tr":  "P. B. Allen, Phonons and Superconducting Transition Temperature (Amsterdam: North-Holland Publishing Company: 1980)."
+			},
+			{
+				"doi": "10.1103/PhysRev.133.A921",
+				"or":  "D. J. Scalapino and P. W. Anderson, Phys. Rev., 133: A921 (1964).",
+				"tr":  "D. J. Scalapino and P. W. Anderson, Phys. Rev., 133: A921 (1964)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.14.3227",
+				"or":  "B. Chakraborty, W. E. Pickett, and P. B. Allen, Phys. Rev. B, 14: 3227 (1976).",
+				"tr":  "B. Chakraborty, W. E. Pickett, and P. B. Allen, Phys. Rev. B, 14: 3227 (1976)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.54.16487",
+				"or":  "S. Y. Savrasov and D. Y. Savrasov, Phys. Rev. B, 54: 16487 (1996).",
+				"tr":  "S. Y. Savrasov and D. Y. Savrasov, Phys. Rev. B, 54: 16487 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRev.167.331",
+				"or":  "W. L. McMillan, Phys. Rev. B, 167: 331 (1968).",
+				"tr":  "W. L. McMillan, Phys. Rev. B, 167: 331 (1968)."
+			},
+			{
+				"doi": "10.1103/PhysRev.186.443",
+				"or":  "J. J. Hopfield, Phys. Rev., 186: 443 (1969).",
+				"tr":  "J. J. Hopfield, Phys. Rev., 186: 443 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "W. H. Butler, Physics of Transition Metals (New York: AIP: 1980), p. 505.",
+				"tr":  "W. H. Butler, Physics of Transition Metals (New York: AIP: 1980), p. 505."
+			},
+			{
+				"doi": "10.15407/ufm.16.03.229",
+				"or":  "S. M. Sichkar, Usp. Fiz. Met., 16: 229 (2015) (in Ukrainian).",
+				"tr":  "S. M. Sichkar, Usp. Fiz. Met., 16: 229 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.12.3084",
+				"or":  "O. Jepsen, O. K. Andersen, and A. R. Mackintosh, Phys. Rev. B, 12: 3084 (1975).",
+				"tr":  "O. Jepsen, O. K. Andersen, and A. R. Mackintosh, Phys. Rev. B, 12: 3084 (1975)."
+			},
+			{
+				"doi": "10.1016/0038-1098(79)90657-4",
+				"or":  "R. Asokamani, K. Iyakutti, and V. Devanathan, Solid State Commun., 30: 385 (1979).",
+				"tr":  "R. Asokamani, K. Iyakutti, and V. Devanathan, Solid State Commun., 30: 385 (1979)."
+			},
+			{
+				"doi": "10.1088/0022-3719/4/14/022",
+				"or":  "L. Hedin and B. I. Lundqvist, J. Phys. C: Solid State Phys., 4: 2064 (1971).",
+				"tr":  "L. Hedin and B. I. Lundqvist, J. Phys. C: Solid State Phys., 4: 2064 (1971)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.40.6037",
+				"or":  "B. A .Sanborn, P. B. Allen, and D. A. Papaconstantopoulos, Phys. Rev. B, 40: 6037 (1989).",
+				"tr":  "B. A .Sanborn, P. B. Allen, and D. A. Papaconstantopoulos, Phys. Rev. B, 40: 6037 (1989)."
+			},
+			{
+				"doi": "10.1007/b29240",
+				"or":  "J. Bass and K. H. Fischer, Metals: Electronic Transport Phenomena: Electrical Resistivity, Kondo and Spin Fluctuation Systems, Spin Glasses and Thermopower (Landolt-Börnstein: New Series III/15a: 1982).",
+				"tr":  "J. Bass and K. H. Fischer, Metals: Electronic Transport Phenomena: Electrical Resistivity, Kondo and Spin Fluctuation Systems, Spin Glasses and Thermopower (Landolt-Börnstein: New Series III/15a: 1982)."
+			},
+			{
+				"doi": "10.1088/0305-4608/10/6/016",
+				"or":  "R. Asokamani and K. Iyakutti, J. Phys. F: Metal Phys., 10: 1157 (1980).",
+				"tr":  "R. Asokamani and K. Iyakutti, J. Phys. F: Metal Phys., 10: 1157 (1980)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.27.4722",
+				"or":  "P. Chatterjee, Phys. Rev. B, 27: 4722 (1983).",
+				"tr":  "P. Chatterjee, Phys. Rev. B, 27: 4722 (1983)."
+			},
+			{
+				"doi": "10.1016/0022-5088(89)90194-X",
+				"or":  "F. Guillermet and G. Grimvall, J. Less-Common Met., 147: 195 (1989).",
+				"tr":  "F. Guillermet and G. Grimvall, J. Less-Common Met., 147: 195 (1989)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.38.9368",
+				"or":  "P. Blaha, K. Schwarz, and P. H. Dederichs, Phys. Rev. B, 38: 9368 (1988).",
+				"tr":  "P. Blaha, K. Schwarz, and P. H. Dederichs, Phys. Rev. B, 38: 9368 (1988)."
+			},
+			{
+				"doi": "10.1088/0370-1328/92/3/328",
+				"or":  "S. L. Altmann and G. J. Bradley, Proc. Phys. Soc., 92, No. 3: 764 (1967).",
+				"tr":  "S. L. Altmann and G. J. Bradley, Proc. Phys. Soc., 92, No. 3: 764 (1967)."
+			},
+			{
+				"doi": "10.1103/PhysRev.173.685",
+				"or":  "G. S. Fleming and T. L. Loucks, Phys. Rev., 173: 685 (1968).",
+				"tr":  "G. S. Fleming and T. L. Loucks, Phys. Rev., 173: 685 (1968)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.27.6475",
+				"or":  "J. E. Schirber, A. C. Switendick, and F. A .Schmidt, Phys. Rev. B, 27: 6475 (1983).",
+				"tr":  "J. E. Schirber, A. C. Switendick, and F. A .Schmidt, Phys. Rev. B, 27: 6475 (1983)."
+			},
+			{
+				"doi": "10.1103/PhysRev.144.504",
+				"or":  "T. L. Loucks, Phys. Rev. B, 144: 504 (1966).",
+				"tr":  "T. L. Loucks, Phys. Rev. B, 144: 504 (1966)."
+			},
+			{
+				"doi": "10.1103/PhysRev.133.A1399",
+				"or":  "L. F. Mattheiss, Phys. Rev., 133: A1399 (1964).",
+				"tr":  "L. F. Mattheiss, Phys. Rev., 133: A1399 (1964)."
+			},
+			{
+				"doi": "",
+				"or":  "N. I. Kulikov and Eh. T. Kulatov, Fizika Nizkikh Temperatur, 9, No. 8: 823 (1983) (in Russian).",
+				"tr":  "N. I. Kulikov and Eh. T. Kulatov, Fizika Nizkikh Temperatur, 9, No. 8: 823 (1983) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRev.165.545",
+				"or":  "A. Jensen and K. Andres, Phys. Rev., 165: 545 (1968).",
+				"tr":  "A. Jensen and K. Andres, Phys. Rev., 165: 545 (1968)."
+			},
+			{
+				"doi": "10.1103/PhysRev.183.645",
+				"or":  "J. W. Ross, F. Y. Fradin, L. L. Isaacs, and D. J. Lam, Phys. Rev., 183: 645 (1969).",
+				"tr":  "J. W. Ross, F. Y. Fradin, L. L. Isaacs, and D. J. Lam, Phys. Rev., 183: 645 (1969)."
+			},
+			{
+				"doi": "10.1016/0038-1098(90)90607-D",
+				"or":  "S. Y. Savrasov, Solid State Commun., 74, No. 2: 69 (1990).",
+				"tr":  "S. Y. Savrasov, Solid State Commun., 74, No. 2: 69 (1990)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.6.1761",
+				"or":  "G. S. Knapp and R. W. Jones, Phys. Rev. B, 6: 1761 (1972).",
+				"tr":  "G. S. Knapp and R. W. Jones, Phys. Rev. B, 6: 1761 (1972)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.12.905",
+				"or":  "P. B. Allen and R. C. Dynes, Phys. Rev. B, 12: 905 (1975).",
+				"tr":  "P. B. Allen and R. C. Dynes, Phys. Rev. B, 12: 905 (1975)."
+			},
+			{
+				"doi": "10.1016/0304-8853(83)90122-1",
+				"or":  "R. J. Stierman and K. A. Gschneidner, J. Magn. Magn. Mater., 36: 249 (1983).",
+				"tr":  "R. J. Stierman and K. A. Gschneidner, J. Magn. Magn. Mater., 36: 249 (1983)."
+			},
+			{
+				"doi": "10.1016/0022-5088(71)90140-8",
+				"or":  "F. H. Spedding, D. Cress, and B. J. Beaudry, J. Less-Common. Met., 23: 263 (1971).",
+				"tr":  "F. H. Spedding, D. Cress, and B. J. Beaudry, J. Less-Common. Met., 23: 263 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "J. M. Ziman, Electrons and Phonons (Oxford: Oxford University Press: 1960).",
+				"tr":  "J. M. Ziman, Electrons and Phonons (Oxford: Oxford University Press: 1960)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.23.5080",
+				"or":  "F. J. Pinski, P. B. Allen, and W. H. Butler, Phys. Rev. B, 23: 5080 (1981).",
+				"tr":  "F. J. Pinski, P. B. Allen, and W. H. Butler, Phys. Rev. B, 23: 5080 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Vickery, The Chemistry of Yttrium and Scandium (Oxford: New York: Pergamon Press: 1960).",
+				"tr":  "R. Vickery, The Chemistry of Yttrium and Scandium (Oxford: New York: Pergamon Press: 1960)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.15.5267",
+				"or":  "W. H. Butler, Phys. Rev. B, 15: 5267 (1977).",
+				"tr":  "W. H. Butler, Phys. Rev. B, 15: 5267 (1977)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.12.4867",
+				"or":  "R. J. Trainor and M. B. Brodsky, Phys. Rev., 12: 4867 (1975).",
+				"tr":  "R. J. Trainor and M. B. Brodsky, Phys. Rev., 12: 4867 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Zakharov, M. G. Zemlyanov, M. N. Mikheeva, G. F. Syrykh, and M. B. Tsetlin, JETP, 61, No. 4: 836 (1985).",
+				"tr":  "A. A. Zakharov, M. G. Zemlyanov, M. N. Mikheeva, G. F. Syrykh, and M. B. Tsetlin, JETP, 61, No. 4: 836 (1985)."
+			},
+			{
+				"doi": "10.1016/0038-1098(81)90670-0",
+				"or":  "J. Caro, R. Coehorn, and D. G.Groot, Solid State Commun., 39: 267 (1981).",
+				"tr":  "J. Caro, R. Coehorn, and D. G.Groot, Solid State Commun., 39: 267 (1981)."
+			},
+			{
+				"doi": "10.1007/BF00657170",
+				"or":  "B. Keck and A. Schmid, J. Low Temp. Phys., 24: 611(1976).",
+				"tr":  "B. Keck and A. Schmid, J. Low Temp. Phys., 24: 611(1976)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.36.603",
+				"or":  "J. Bostock, V. Diadiuk, and W. N. Cheung, Phys. Rev. Lett., 36: 603 (1976).",
+				"tr":  "J. Bostock, V. Diadiuk, and W. N. Cheung, Phys. Rev. Lett., 36: 603 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "B. V. Nekrasov, Obshchaya Khimiya [General Chemistry] (Moscow: Chemistry: 3: 1970) (in Russian).",
+				"tr":  "B. V. Nekrasov, Obshchaya Khimiya [General Chemistry] (Moscow: Chemistry: 3: 1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Zakharov, S. N. Krainyukov, A. V. Khotkevich, JETP, 64, No. 1: 200 (1986).",
+				"tr":  "A. A. Zakharov, S. N. Krainyukov, A. V. Khotkevich, JETP, 64, No. 1: 200 (1986)."
+			},
+			{
+				"doi": "10.1088/0305-4608/15/3/012",
+				"or":  "A. Zhernov, J. Phys. F: Metal Phys., 15, No. 3: 579 (1985).",
+				"tr":  "A. Zhernov, J. Phys. F: Metal Phys., 15, No. 3: 579 (1985)."
+			},
+			{
+				"doi": "10.1002/bbpc.19830870521",
+				"or":  "G. Grimvall, The Electron–Phonon Interaction in Metals (Amsterdam: North-Holland Publ. Co.: 1981).",
+				"tr":  "G. Grimvall, The Electron–Phonon Interaction in Metals (Amsterdam: North-Holland Publ. Co.: 1981)."
+			}
+		]
+	}
+}

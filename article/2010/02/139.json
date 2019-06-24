@@ -1,0 +1,664 @@
+{
+	"_id":    "UFM.11.02.139",
+	"year":   2010,
+	"volume": 11,
+	"issue":  2,
+	"pages":  [139,173],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["01.04.2010"],
+	"PACS":   "61.46.Bc, 61.50.Lt, 75.20.En, 75.30.Cr, 75.30.Gw, 75.45.+j, 75.75.-c",
+	"title":   {
+		"ua": "Квантові й структурнорозмірні властивості феромагнетних наночастинок: особливості ніклевих і залізних кластерних систем",
+		"en": "Quantum and Structural-Dimensional Properties of Ferromagnetic Nanoparticles: Features of Nickel and Iron Cluster Systems",
+		"ru": "Квантовые и структурноразмерные свойства ферромагнитных наночастиц: особености никелевых и железных кластерных систем"
+	},
+	"abstract": {
+		"ua": "Побудовано формалізм дослідження магнетних властивостей феромагнетних наночастинок (кластерів). Встановлено, що магнетні параметри наночастинок зазнають стрибок при зміні їх просторової атомарної структури. Розглянуто процеси термоактивованої та квантової релаксацій магнетних моментів кластерів. Показано, що варіюванням величини зовнішнього магнетного поля, що прикладене до наночастинок, можна змінювати в широкому діяпазоні фізичні характеристики магнетних квантових флюктуацій (температуру кросоверу, швидкість квантових флюктуацій, час перемагнетування).",
+		"en": "The investigation formalism for magnetic properties of ferromagnetic nanoparticles (clusters) is elaborated. As revealed, the magnetic parameters of nanoparticles discontinue due to variation of their spatial atomic structure. The processes of thermoactivated and quantum relaxations of clusters magnetic moments are considered. As shown, by the variation of a magnitude of external magnetic field applied to the nanoparticles, one can vary magnetic quantum-fluctuation physical characteristics (crossover temperature, quantum-fluctuations rate, and magnetization reversal time) in a wide range.",
+		"ru": "Построен формализм исследования магнитных свойств ферромагнитных наночастиц (кластеров). Установлено, что магнитные параметры наночастиц испытывают скачок при изменении их пространственной атомной структуры. Рассмотрены процессы термоактивированной и квантовой релаксаций магнитных моментов кластеров. Показано, что, варьируя величину внешнего магнитного поля, прикладываемого к наночастицам, можно менять в широком диапазоне физические характеристики магнитных квантовых флуктуаций (температуру кроссовера, скорость квантовых флуктуаций, время перемагничивания)."
+	},
+	"keywords": {
+		"ua": "наночастинка, ГЦК-структура, ікосаедрична структура, магнетний момент, магнетна релаксація, суперпара- і феромагнетизм, температура кросовера, квантові флюктуації",
+		"en": "nanoparticle, f.c.c.-structure, icosahedral structure, magnetic moment, magnetic relaxation, superpair- and ferromagnetism, crossover temperature, quantum fluctuations",
+		"ru": "наночастица, ГЦК-структура, икосаэдрическая структура, магнитный момент, магнитная релаксация, суперпара- и ферромагнетизм, температура кроссовера, квантовые флуктуации"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. П. Шпак", "en": "A. P. Shpak", "ru": "А. П. Шпак"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. Б. Шевченко", "en": "A. B. Shevchenko", "ru": "А. Б. Шевченко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. Б. Мельник", "en": "O. B. Mel’nyk", "ru": "А. Б. Мельник"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Ю. А. Куницький", "en": "Yu. A. Kunyts’ky", "ru": "Ю. А. Куницкий"},
+			"OID": [16]
+		}
+	],
+	"references": {
+		"count": 123,
+		"list":  [
+			{
+				"doi": "10.1103/PhysRevB.48.7259",
+				"or":  "P. V. Hendriksen, S. Linderoth, and P. A. Lindgard, Phys. Rev. B, 48, No. 10: 7259 (1993).",
+				"tr":  "P. V. Hendriksen, S. Linderoth, and P. A. Lindgard, Phys. Rev. B, 48, No. 10: 7259 (1993)."
+			},
+			{
+				"doi": "10.1063/1.102662",
+				"or":  "L. Shultz, K. Schizke, and J. Weeker, Appl. Phys. Lett., 56, No. 9: 868 (1990).",
+				"tr":  "L. Shultz, K. Schizke, and J. Weeker, Appl. Phys. Lett., 56, No. 9: 868 (1990)."
+			},
+			{
+				"doi": "10.1016/0965-9773(92)90045-Y",
+				"or":  "H. Gleiter, Nanostructur. Materials, 1, No. 1: 1 (1992).",
+				"tr":  "H. Gleiter, Nanostructur. Materials, 1, No. 1: 1 (1992)."
+			},
+			{
+				"doi": "10.1016/0254-0584(95)01640-G",
+				"or":  "L. Hu and M. Chen, Mater. Chem. and Phys., 43, No. 3: 212 (1996).",
+				"tr":  "L. Hu and M. Chen, Mater. Chem. and Phys., 43, No. 3: 212 (1996)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(99)00347-9",
+				"or":  "R. H. Kodama, JMMM, 200, No. 1–3: 359 (1999).",
+				"tr":  "R. H. Kodama, JMMM, 200, No. 1–3: 359 (1999)."
+			},
+			{
+				"doi": "10.1126/science.287.5457.1463",
+				"or":  "L. Lu, M. L. Sui, and K. Lu, Science, 287, No. 5457: 1463 (2000).",
+				"tr":  "L. Lu, M. L. Sui, and K. Lu, Science, 287, No. 5457: 1463 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.91.127201",
+				"or":  "A. Yamasaki, W. Wulfhekel, R. Hertel et al., Phys. Rev. Lett., 91, No. 12: 127201 (2003).",
+				"tr":  "A. Yamasaki, W. Wulfhekel, R. Hertel et al., Phys. Rev. Lett., 91, No. 12: 127201 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Непийко, Физические свойства малых металлических частиц (Киев: Наукова думка: 1985).",
+				"tr":  "S. A. Nepiiko, Fizicheskie svoistva malykh metallicheskikh chastits (Kiev: Naukova dumka: 1985)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Петров, Кластеры и малые частицы (Москва: Наука: 1986).",
+				"tr":  "Yu. I. Petrov, Klastery i malye chastitsy (Moskva: Nauka: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "М. К. Рокко, Р. С. Уильямс, П. Аливисатос, Нанотехнологии в ближайшем десятилетии (Москва: Мир: 2002).",
+				"tr":  "M. K. Rokko, R. S. Uil'yams, P. Alivisatos, Nanotekhnologii v blizhaishem desyatiletii (Moskva: Mir: 2002)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, Ю. А. Куницкий, В. И. Лысов, Кластерные и наноструктурные материалы (Киев: Академпериодика: 2002).",
+				"tr":  "A. P. Shpak, Yu. A. Kunitskii, V. I. Lysov, Klasternye i nanostrukturnye materialy (Kiev: Akademperiodika: 2002)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, В. В. Погосов, Ю. А. Куницкий, Введение в физику ультрадисперсных сред (Киев: Академпериодика: 2006).",
+				"tr":  "A. P. Shpak, V. V. Pogosov, Yu. A. Kunitskii, Vvedenie v fiziku ul'tradispersnykh sred (Kiev: Akademperiodika: 2006)."
+			},
+			{
+				"doi": "",
+				"or":  "И. П. Суздалев, Нанотехнология. Физикохимия нанокластеров, наноструктур и наноматериалов (Москва: КомКнига: 2006).",
+				"tr":  "I. P. Suzdalev, Nanotekhnologiya. Fizikokhimiya nanoklasterov, nanostruktur i nanomaterialov (Moskva: KomKniga: 2006)."
+			},
+			{
+				"doi": "10.3367/UFNr.0162.199209b.0049",
+				"or":  "Э. Л. Нагаев, УФН, 162, № 9: 50 (1992).",
+				"tr":  "E. L. Nagaev, UFN, 162, No. 9: 50 (1992)."
+			},
+			{
+				"doi": "10.3367/UFNr.0168.199801c.0055",
+				"or":  "А. И. Гусев, УФН, 168, № 1: 55 (1998).",
+				"tr":  "A. I. Gusev, UFN, 168, No. 1: 55 (1998)."
+			},
+			{
+				"doi": "10.1070/RC2001v070n03ABEH000627",
+				"or":  "И. П. Суздалев, П. И. Суздалев, Успехи химии, 70, № 3: 203 (2001).",
+				"tr":  "I. P. Suzdalev, P. I. Suzdalev, Uspekhi khimii, 70, No. 3: 203 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Б. Шевченко, Квантові та структурнорозмірні ефекти в сегнетоелектричних і феромагнітних наносистемах (Автореферат дисертації … д-ра фіз.-мат. н.; 01.04.07) (Київ: ІМФ ім. Г. В. Курдюмова НАН України: 2009).",
+				"tr":  "A. B. Shevchenko, Kvantovi ta strukturnorozmirni efekti v segnetoelektrichnikh i feromagnitnikh nanosistemakh (Avtoreferat disertatsii … d-ra fiz.-mat. n.; 01.04.07) (Kiiv: IMF im. G. V. Kurdyumova NAN Ukraini: 2009)."
+			},
+			{
+				"doi": "10.1070/RC2005v074n06ABEH000897",
+				"or":  "С. П. Губин, Ю. А. Кокшаров, Г. Б. Хомутов, Г. Ю. Юрков, Успехи химии, 74, № 6: 539 (2005).",
+				"tr":  "S. P. Gubin, Yu. A. Koksharov, G. B. Khomutov, G. Yu. Yurkov, Uspekhi khimii, 74, No. 6: 539 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "И. П. Суздалев, Росс. нанотехнологии, 1, № 1–2: 46 (2006).",
+				"tr":  "I. P. Suzdalev, Ross. nanotekhnologii, 1, No. 1–2: 46 (2006)."
+			},
+			{
+				"doi": "10.1080/00018737100101231",
+				"or":  "M. R. Hoare and P. Pal, Adv. Phys., 20, No. 84: 161 (1971).",
+				"tr":  "M. R. Hoare and P. Pal, Adv. Phys., 20, No. 84: 161 (1971)."
+			},
+			{
+				"doi": "10.1038/physci230005a0",
+				"or":  "M. R. Hoare and P. Pal, Nature Phys. Science, 230, No. 1: 5 (1971).",
+				"tr":  "M. R. Hoare and P. Pal, Nature Phys. Science, 230, No. 1: 5 (1971)."
+			},
+			{
+				"doi": "10.1080/01418618108236175",
+				"or":  "D. J. Smith and L. D. Marks, Philos. Mag., 44, No. 3: 735 (1981).",
+				"tr":  "D. J. Smith and L. D. Marks, Philos. Mag., 44, No. 3: 735 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Renou and M. Gillet, Surf. Science, 106, No. 1: 27 (1971).",
+				"tr":  "A. Renou and M. Gillet, Surf. Science, 106, No. 1: 27 (1971)."
+			},
+			{
+				"doi": "10.1063/1.459910",
+				"or":  "E. K. Parks, B. J. Winter, T. D. Klots, and S. J. Riley, J. Chem. Phys., 94, No. 3: 1882 (1991).",
+				"tr":  "E. K. Parks, B. J. Winter, T. D. Klots, and S. J. Riley, J. Chem. Phys., 94, No. 3: 1882 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "И. С. Ясников, А. А. Викарчук, Д. А. Денисова и др., ЖТФ, 77, № 10: 81 (2007).",
+				"tr":  "I. S. Yasnikov, A. A. Vikarchuk, D. A. Denisova i dr., ZhTF, 77, No. 10: 81 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Губин, Ю. А. Кокшаров, Неорганические материалы, 38, № 11: 1287 (2002).",
+				"tr":  "S. P. Gubin, Yu. A. Koksharov, Neorganicheskie materialy, 38, No. 11: 1287 (2002)."
+			},
+			{
+				"doi": "10.1070/RC2003v072n05ABEH000795",
+				"or":  "А. Л. Бучаченко, Успехи химии, 72, № 5: 419 (2003).",
+				"tr":  "A. L. Buchachenko, Uspekhi khimii, 72, No. 5: 419 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.58.14167",
+				"or":  "D. Zhang, K. J Klabunde., C. M. Sorensen, and G. C. Hadjipanayis, Phys. Rev. B, 58, No. 21: 14167 (1998).",
+				"tr":  "D. Zhang, K. J Klabunde., C. M. Sorensen, and G. C. Hadjipanayis, Phys. Rev. B, 58, No. 21: 14167 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Логвиненко, Н. Ф. Юданов, Г. Н. Чехова и др., Химия в интересах устойчивого развития, 8, № 1–2: 171 (2000).",
+				"tr":  "V. A. Logvinenko, N. F. Yudanov, G. N. Chekhova i dr., Khimiya v interesakh ustoichivogo razvitiya, 8, No. 1–2: 171 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. С. Исхаков, С. В. Комогорцев, А. Д. Балаев и др., Письма ЖЭТФ, 78, № 4: 271 (2003).",
+				"tr":  "R. S. Iskhakov, S. V. Komogortsev, A. D. Balaev i dr., Pis'ma ZhETF, 78, No. 4: 271 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Комогорцев, Р. С. Исхаков, Е. А. Денисова и др., Письма ЖТФ, 31, № 11: 12 (2005).",
+				"tr":  "S. V. Komogortsev, R. S. Iskhakov, E. A. Denisova i dr., Pis'ma ZhTF, 31, No. 11: 12 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.71.172404",
+				"or":  "H. Amekura, Y. Fudamoto, Y. Takeda, and N. Kishimoto, Phys. Rev. B, 71, No. 17: 172404 (2005).",
+				"tr":  "H. Amekura, Y. Fudamoto, Y. Takeda, and N. Kishimoto, Phys. Rev. B, 71, No. 17: 172404 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "L. L. Afremov and A. V. Panov, The Phys. Met. Metallogr., 86, No. 3: 269 (1998).",
+				"tr":  "L. L. Afremov and A. V. Panov, The Phys. Met. Metallogr., 86, No. 3: 269 (1998)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.66.104406",
+				"or":  "F. C. Fonseca, G. F. Goya, R. F. Jardim et al., Phys. Rev. B, 66, No. 10: 104406 (2002).",
+				"tr":  "F. C. Fonseca, G. F. Goya, R. F. Jardim et al., Phys. Rev. B, 66, No. 10: 104406 (2002)."
+			},
+			{
+				"doi": "10.1063/1.1525052",
+				"or":  "D. Kumar, S. J. Pennycook, A. Lupini et al., Appl. Phys. Lett., 81, No. 22: 4204 (2002).",
+				"tr":  "D. Kumar, S. J. Pennycook, A. Lupini et al., Appl. Phys. Lett., 81, No. 22: 4204 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Белотелов, А. С. Логвинов, А. В. Николаев, ФТТ, 45, № 3: 490 (2003).",
+				"tr":  "V. I. Belotelov, A. S. Logvinov, A. V. Nikolaev, FTT, 45, No. 3: 490 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Федосюк, А. М. Данишевский, Д. А. Курдюков и др., ФТТ, 45, № 9: 1667 (2003).",
+				"tr":  "V. M. Fedosyuk, A. M. Danishevskii, D. A. Kurdyukov i dr., FTT, 45, No. 9: 1667 (2003)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2004.01.008",
+				"or":  "P. B. Oliete, T. C. Rojas, A. Fernandez et al., Acta Mater., 52: 2165 (2004).",
+				"tr":  "P. B. Oliete, T. C. Rojas, A. Fernandez et al., Acta Mater., 52: 2165 (2004)."
+			},
+			{
+				"doi": "10.1039/B611256K",
+				"or":  "Y. Li, T. Kaneko, T. Ogawa, M. Takahashi, and R. Hatakeyama, Chemical Commun., No. 3: 254 (2007).",
+				"tr":  "Y. Li, T. Kaneko, T. Ogawa, M. Takahashi, and R. Hatakeyama, Chemical Commun., No. 3: 254 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Комогорцев, Р. С. Исхаков, А. Д. Балаев и др., ФТТ, 49, № 4: 700 (2007).",
+				"tr":  "S. V. Komogortsev, R. S. Iskhakov, A. D. Balaev i dr., FTT, 49, No. 4: 700 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Толочко, Д. В. Ли, Ч. Дж. Чой и др., Письма ЖТФ, 31, № 18: 30 (2005).",
+				"tr":  "O. V. Tolochko, D. V. Li, Ch. Dzh. Choi i dr., Pis'ma ZhTF, 31, No. 18: 30 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Никитчук, М. В. Лоханин, А. В. Проказников и др., Письма ЖТФ, 31, № 12: 48 (2005).",
+				"tr":  "S. A. Nikitchuk, M. V. Lokhanin, A. V. Prokaznikov i dr., Pis'ma ZhTF, 31, No. 12: 48 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Бажин, О. А. Лесева, И. Я. Никифоров, ФТТ, 45, № 9: 1667 (2003).",
+				"tr":  "I. V. Bazhin, O. A. Leseva, I. Ya. Nikiforov, FTT, 45, No. 9: 1667 (2003)."
+			},
+			{
+				"doi": "10.1063/1.2185846",
+				"or":  "A. E. Berkowitz and P. J. Flanders, J. Appl. Phys., 30, No. 4: 11 (1959).",
+				"tr":  "A. E. Berkowitz and P. J. Flanders, J. Appl. Phys., 30: S111 (1959)."
+			},
+			{
+				"doi": "10.1063/1.2000412",
+				"or":  "C. R. Abeledo and P. W. Selwood, J. Appl. Phys., 32, No. 3: 229 (1961).",
+				"tr":  "C. R. Abeledo and P. W. Selwood, J. Appl. Phys., 32, No. 3: 229 (1961)."
+			},
+			{
+				"doi": "10.1063/1.2000414",
+				"or":  "P. E. Luborsky and P. E. Lawrence, J. Appl. Phys., 32, No. 3: 231 (1961).",
+				"tr":  "P. E. Luborsky and P. E. Lawrence, J. Appl. Phys., 32, No. 3: 231 (1961)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Я. Ген, Е. В. Штольц, И. В. Платэ, Е. А. Федорова, ФММ, 30, № 2: 645 (1970).",
+				"tr":  "M. Ya. Gen, E. V. Shtol'ts, I. V. Plate, E. A. Fedorova, FMM, 30, No. 2: 645 (1970)."
+			},
+			{
+				"doi": "10.1063/1.1721912",
+				"or":  "C. P. Bean, J. Appl. Phys., 26, No. 11: 1381 (1955).",
+				"tr":  "C. P. Bean, J. Appl. Phys., 26, No. 11: 1381 (1955)."
+			},
+			{
+				"doi": "10.1063/1.2185850",
+				"or":  "C. P. Bean and J. D. Livingston, J. Appl. Phys., 30, No. 4: 120 (1959).",
+				"tr":  "C. P. Bean and J. D. Livingston, J. Appl. Phys., 30, No. 4: 120 (1959)."
+			},
+			{
+				"doi": "10.1063/1.2185851",
+				"or":  "W. F. Brown, J. Appl. Phys., 30, No. 4: 130 (1959).",
+				"tr":  "W. F. Brown, J. Appl. Phys., 30, No. 4: 130 (1959)."
+			},
+			{
+				"doi": "10.1103/PhysRev.130.1677",
+				"or":  "W. F. Brown, Phys. Rev., 130, No. 5:1677 (1963).",
+				"tr":  "W. F. Brown, Phys. Rev., 130, No. 5:1677 (1963)."
+			},
+			{
+				"doi": "10.1103/PhysRev.135.A447",
+				"or":  "A. Aharoni, Phys. Rev. A, 135, No. 2: 447 (1964).",
+				"tr":  "A. Aharoni, Phys. Rev. A, 135, No. 2: 447 (1964)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.7.1103",
+				"or":  "A. Aharoni, Phys. Rev. B, 7, No. 3: 1103 (1973).",
+				"tr":  "A. Aharoni, Phys. Rev. B, 7, No. 3: 1103 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Л. Райхер, М. И. Шлиомис, ЖЭТФ, 67, № 3(9): 1060 (1974).",
+				"tr":  "Yu. L. Raikher, M. I. Shliomis, ZhETF, 67, No. 3(9): 1060 (1974)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.16.1278",
+				"or":  "I. Eisenstein and A. Aharoni, Phys. Rev. B, 16, No. 3: 1278 (1977).",
+				"tr":  "I. Eisenstein and A. Aharoni, Phys. Rev. B, 16, No. 3: 1278 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Игнатченко, Р. С. Гехт, ЖЭТФ, 72, № 2(8): 632 (1977).",
+				"tr":  "V. A. Ignatchenko, R. S. Gekht, ZhETF, 72, No. 2(8): 632 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Герус, В. Д. Харитонов, Е. А. Лобанов, ФНТ, 6, № 12: 1523 (1980).",
+				"tr":  "S. V. Gerus, V. D. Kharitonov, E. A. Lobanov, FNT, 6, No. 12: 1523 (1980)."
+			},
+			{
+				"doi": "10.1063/1.1714075",
+				"or":  "W. J. Schuele, S. Shtrikman, and D. Treves, J. Appl. Phys., 36, No. 3: 1010 (1965).",
+				"tr":  "W. J. Schuele, S. Shtrikman, and D. Treves, J. Appl. Phys., 36, No. 3: 1010 (1965)."
+			},
+			{
+				"doi": "10.1063/1.1656142",
+				"or":  "R. H. Lindquist, G. Constabaris, W. Kundig, and A. M. Portis, J. Appl. Phys., 39, No. 2: 1001 (1968).",
+				"tr":  "R. H. Lindquist, G. Constabaris, W. Kundig, and A. M. Portis, J. Appl. Phys., 39, No. 2: 1001 (1968)."
+			},
+			{
+				"doi": "10.1016/0039-6028(81)90235-1",
+				"or":  "J. Korecki and K. Krop, Surf. Science, 106, No. 1–3: 444 (1981).",
+				"tr":  "J. Korecki and K. Krop, Surf. Science, 106, No. 1–3: 444 (1981)."
+			},
+			{
+				"doi": "10.1016/0022-3093(80)90030-7",
+				"or":  "D. L. Criscom, J. Non-Cryst. Solids, 42: 287 (1980).",
+				"tr":  "D. L. Criscom, J. Non-Cryst. Solids, 42: 287 (1980)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2004.09.129",
+				"or":  "J. R. Jeong, S. C. Shin, S. J. Lee, and J. D. Kim, JMMM, 286: 5 (2005).",
+				"tr":  "J. R. Jeong, S. C. Shin, S. J. Lee, and J. D. Kim, JMMM, 286: 5 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.56.10793",
+				"or":  "J. R. Friedman, U. Voskoboynik, and M. P. Sarachik, Phys. Rev. B, 56, No. 17: 10793 (1997).",
+				"tr":  "J. R. Friedman, U. Voskoboynik, and M. P. Sarachik, Phys. Rev. B, 56, No. 17: 10793 (1997)."
+			},
+			{
+				"doi": "10.1088/0953-8984/9/47/017",
+				"or":  "L. F. Kiss, T. Kemeny, and I. Vincze, J. Phys.: Condens. Matter, 9, No. 47:10501 (1997).",
+				"tr":  "L. F. Kiss, T. Kemeny, and I. Vincze, J. Phys.: Condens. Matter, 9, No. 47:10501 (1997)."
+			},
+			{
+				"doi": "10.1109/TMAG.2004.829265",
+				"or":  "J. R. Jeong, S. J. Lee, J. D. Kim, and S. C. Shin, IEEE Trans. Magn., 40, No. 4, Part 2: 3015 (2004).",
+				"tr":  "J. R. Jeong, S. J. Lee, J. D. Kim, and S. C. Shin, IEEE Trans. Magn., 40, No. 4, Part 2: 3015 (2004)."
+			},
+			{
+				"doi": "10.1063/1.1396317",
+				"or":  "G. A. Held and G. Grinstein, Appl. Phys. Lett., 79, No. 10: 1501 (2001).",
+				"tr":  "G. A. Held and G. Grinstein, Appl. Phys. Lett., 79, No. 10: 1501 (2001)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.25.324",
+				"or":  "L. Weil, Rev. Mod. Phys., 25, No. 1: 324 (1953).",
+				"tr":  "L. Weil, Rev. Mod. Phys., 25, No. 1: 324 (1953)."
+			},
+			{
+				"doi": "10.1063/1.1729324",
+				"or":  "E. Kneller and F. E. Luborsky, J. Appl. Phys., 34, No. 3: 656 (1963).",
+				"tr":  "E. Kneller and F. E. Luborsky, J. Appl. Phys., 34, No. 3: 656 (1963)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. М. Чудновский, ЖЭТФ, 77, № 5 (11): 2157 (1979).",
+				"tr":  "E. M. Chudnovskii, ZhETF, 77, No. 5 (11): 2157 (1979)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.60.661",
+				"or":  "E. M. Chudnovsky and L. Gunther, Phys. Rev. Lett., 60, No. 8: 661 (1988).",
+				"tr":  "E. M. Chudnovsky and L. Gunther, Phys. Rev. Lett., 60, No. 8: 661 (1988)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.54.388",
+				"or":  "M. G. Miguel and E. M. Chudnovsky, Phys. Rev. B, 54, No. 1: 388 (1996).",
+				"tr":  "M. G. Miguel and E. M. Chudnovsky, Phys. Rev. B, 54, No. 1: 388 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.55.8918",
+				"or":  "G. H. Kim and D. S. Hwang, Phys. Rev. B, 55, No. 14: 8918 (1997).",
+				"tr":  "G. H. Kim and D. S. Hwang, Phys. Rev. B, 55, No. 14: 8918 (1997)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.57.10688",
+				"or":  "G. H. Kim, Phys. Rev. B, 57, No. 17: 1068 (1998).",
+				"tr":  "G. H. Kim, Phys. Rev. B, 57, No. 17: 1068 (1998)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.57.13639",
+				"or":  "D. A. Granin, X. M. Hidalgo, and E. M. Chudnovsky, Phys. Rev. B, 57, No. 21: 13639 (1998).",
+				"tr":  "D. A. Granin, X. M. Hidalgo, and E. M. Chudnovsky, Phys. Rev. B, 57, No. 21: 13639 (1998)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.79.4014",
+				"or":  "W. Wernsdorfer, E. B. Orozco, K. Hasselbach et al., Phys. Rev. Lett., 79, No. 20: 4014 (1997).",
+				"tr":  "W. Wernsdorfer, E. B. Orozco, K. Hasselbach et al., Phys. Rev. Lett., 79, No. 20: 4014 (1997)."
+			},
+			{
+				"doi": "10.1007/BF02571060",
+				"or":  "K. Hasselbach, W. Wernsdorfer, D. Mailly et al., Czech. J. Phys., 46, Suppl. No. 4: 2137 (1996).",
+				"tr":  "K. Hasselbach, W. Wernsdorfer, D. Mailly et al., Czech. J. Phys., 46, Suppl. No. 4: 2137 (1996)."
+			},
+			{
+				"doi": "10.1063/1.352509",
+				"or":  "J. Tejada, X. X. Zhang, and L. I. Balcelles, J. Appl. Phys., 73, No. 10: 6709 (1993).",
+				"tr":  "J. Tejada, X. X. Zhang, and L. I. Balcelles, J. Appl. Phys., 73, No. 10: 6709 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, А. Б. Шевченко, Металлофиз. новейшие технол., 20, № 5: 30 (1998).",
+				"tr":  "A. P. Shpak, A. B. Shevchenko, Metallofiz. Noveishie Tekhnol., 20, No. 5: 30 (1998)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.373-376.47",
+				"or":  "A. P. Shpak, A. B. Shevchenko, and A. B. Melnik, Materials Science Forum, 373–376: 47 (2001).",
+				"tr":  "A. P. Shpak, A. B. Shevchenko, and A. B. Melnik, Materials Science Forum, 373–376: 47 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, А. Б. Шевченко, А. Б. Мельник, Металлофиз. новейшие технол., 24, № 3: 289 (2002).",
+				"tr":  "A. P. Shpak, A. B. Shevchenko, A. B. Mel'nik, Metallofiz. Noveishie Tekhnol., 24, No. 3: 289 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "A. P. Shpak, A. B. Shevchenko, and A. B. Melnik, VDI Berichte, No. 1803: 191 (2003).",
+				"tr":  "A. P. Shpak, A. B. Shevchenko, and A. B. Melnik, VDI Berichte, No. 1803: 191 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, А. Б. Шевченко, А. Б. Мельник, Металлофиз. новейшие технол., 25, № 10: 1249 (2003).",
+				"tr":  "A. P. Shpak, A. B. Shevchenko, A. B. Mel'nik, Metallofiz. Noveishie Tekhnol., 25, No. 10: 1249 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "A. P. Shpak, A. B. Shevchenko, and A. B. Melnik, Наносистеми, наноматеріали, нанотехнології, 1, № 2: 637 (2004).",
+				"tr":  "A. P. Shpak, A. B. Shevchenko, and A. B. Melnik, Nanosistemi, nanomateriali, nanotekhnologii, 1, No. 2: 637 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, А. Б. Шевченко, А. Б. Мельник, ЖТФ, 74, № 3: 81 (2004).",
+				"tr":  "A. P. Shpak, A. B. Shevchenko, A. B. Mel'nik, ZhTF, 74, No. 3: 81 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, А. Б. Шевченко, А. Б. Мельник, Металлофиз. новейшие технол., 25, № 5: 553 (2003).",
+				"tr":  "A. P. Shpak, A. B. Shevchenko, A. B. Mel'nik, Metallofiz. Noveishie Tekhnol., 25, No. 5: 553 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, А. Б. Шевченко, Металлофиз. новейшие технол., 27, № 7: 969 (2005).",
+				"tr":  "A. P. Shpak, A. B. Shevchenko, Metallofiz. Noveishie Tekhnol., 27, No. 7: 969 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Б. Шевченко, А. Б. Мельник, ЖТФ, 76, № 5: 140 (2006).",
+				"tr":  "A. B. Shevchenko, A. B. Mel'nik, ZhTF, 76, No. 5: 140 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "A. P. Shpak, A. B. Shevchenko, and A. B. Melnik, Наносистеми, наноматеріали, нанотехнології, 5, № 1: 17 (2007).",
+				"tr":  "A. P. Shpak, A. B. Shevchenko, and A. B. Melnik, Nanosistemi, Nanomateriali, Nanotehnologii, 5, No. 1: 17 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Тикадзуми, Физика ферромагнетизма (Москва: Мир: 1983).",
+				"tr":  "S. Tikadzumi, Fizika ferromagnetizma (Moskva: Mir: 1983)."
+			},
+			{
+				"doi": "10.1126/science.265.5179.1682",
+				"or":  "I. M. L. Billas, A. Chatelian, and W. A. de Heer, Science, 265: 1682 (1994).",
+				"tr":  "I. M. L. Billas, A. Chatelian, and W. A. de Heer, Science, 265: 1682 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Вонсовский, Магнетизм (Москва: Наука: 1971).",
+				"tr":  "S. V. Vonsovskii, Magnetizm (Moskva: Nauka: 1971)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2003.12.997",
+				"or":  "R. L. Novak and J. P. Sinnecker, JMMM, 272–276, Part 2: 1557 (2004).",
+				"tr":  "R. L. Novak and J. P. Sinnecker, JMMM, 272–276, Part 2: 1557 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.86.4676",
+				"or":  "M. Jamet, W. Wernsdorfer, C. Thirion et al., Phys. Rev. Lett., 86, No. 20: 4676 (2001).",
+				"tr":  "M. Jamet, W. Wernsdorfer, C. Thirion et al., Phys. Rev. Lett., 86, No. 20: 4676 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Тикадзуми, Физика ферромагнетизма (Москва: Мир: 1987).",
+				"tr":  "S. Tikadzumi, Fizika ferromagnetizma (Moskva: Mir: 1987)."
+			},
+			{
+				"doi": "10.1088/0305-4608/11/9/018",
+				"or":  "F. Vergand, D. Fargues, E. Belin, and C. Bonelle, J. Phys. F: Metal Phys., 11, No. 9: 1887 (1981).",
+				"tr":  "F. Vergand, D. Fargues, E. Belin, and C. Bonelle, J. Phys. F: Metal Phys., 11, No. 9: 1887 (1981)."
+			},
+			{
+				"doi": "10.1002/pssa.2210780226",
+				"or":  "S. Zhen and G. J. Davies, Phys. Stat. Sol. (а), 78, No. 2: 595 (1983).",
+				"tr":  "S. Zhen and G. J. Davies, Phys. Stat. Sol. (a), 78, No. 2: 595 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "Ч. Киттель, УФН, XLI, № 4: 453 (1950).",
+				"tr":  "Ch. Kittel', UFN, XLI, No. 4: 453 (1950)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Петров, В. И. Петинов, В. В. Шевченко, ФТТ, 14, № 10: 3031 (1972).",
+				"tr":  "A. E. Petrov, V. I. Petinov, V. V. Shevchenko, FTT, 14, No. 10: 3031 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Петров, А. Н. Костыгов, В. И. Петинов, ФТТ, 15, № 10: 2927 (1973).",
+				"tr":  "A. E. Petrov, A. N. Kostygov, V. I. Petinov, FTT, 15, No. 10: 2927 (1973)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.28.665",
+				"or":  "D. Tomanek, S. Mukherjee, and K. H. Bennemann, Phys. Rev. B, 28, No. 3: 665 (1983).",
+				"tr":  "D. Tomanek, S. Mukherjee, and K. H. Bennemann, Phys. Rev. B, 28, No. 3: 665 (1983)."
+			},
+			{
+				"doi": "10.1107/S0365110X6200239X",
+				"or":  "A. L. Mackay, Acta Crystallogr., 15, No. 10: 916 (1962).",
+				"tr":  "A. L. Mackay, Acta Crystallogr., 15, No. 10: 916 (1962)."
+			},
+			{
+				"doi": "10.1002/9780470142592.ch2",
+				"or":  "M. R. Hoare, Adv. Chem. Phys., 40: 49 (1979).",
+				"tr":  "M. R. Hoare, Adv. Chem. Phys., 40: 49 (1979)."
+			},
+			{
+				"doi": "10.1080/00018738300101611",
+				"or":  "M. R. Hoare and M. McInnes, Adv. Phys., 32, No. 5: 791 (1983).",
+				"tr":  "M. R. Hoare and M. McInnes, Adv. Phys., 32, No. 5: 791 (1983)."
+			},
+			{
+				"doi": "10.1063/1.445375",
+				"or":  "J. Farges, M. F. de Feraudu, B. Raoult, and G. Torchet, J. Chem. Phys., 78, No. 8: 5067 (1983).",
+				"tr":  "J. Farges, M. F. de Feraudu, B. Raoult, and G. Torchet, J. Chem. Phys., 78, No. 8: 5067 (1983)."
+			},
+			{
+				"doi": "10.1016/0039-6028(84)90563-6",
+				"or":  "S. W. Wang, L. M. Falikov, and A. W. Searcy, Surf. Science, 143, No. 2–3: 609 (1984).",
+				"tr":  "S. W. Wang, L. M. Falikov, and A. W. Searcy, Surf. Science, 143, No. 2–3: 609 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "J. A. Northby, J. Chem. Phys., 87, 10: 6166 (1987).",
+				"tr":  "J. A. Northby, J. Chem. Phys., 87, 10: 6166 (1987)."
+			},
+			{
+				"doi": "10.1021/j100294a001",
+				"or":  "J. W. Lee and G. D. Stein, J. Phys. Chem., 91, No. 10: 2450 (1987).",
+				"tr":  "J. W. Lee and G. D. Stein, J. Phys. Chem., 91, No. 10: 2450 (1987)."
+			},
+			{
+				"doi": "10.1002/pssb.2221430140",
+				"or":  "H. G. Fritsche, Phys. Stat. Sol. (b), 143, No. 1: K11 (1987).",
+				"tr":  "H. G. Fritsche, Phys. Stat. Sol. (b), 143, No. 1: K11 (1987)."
+			},
+			{
+				"doi": "10.1063/1.455848",
+				"or":  "B. W. Van de Waal, J. Chem. Phys., 90, No. 6: 3407 (1989).",
+				"tr":  "B. W. Van de Waal, J. Chem. Phys., 90, No. 6: 3407 (1989)."
+			},
+			{
+				"doi": "10.1116/1.570641",
+				"or":  "T. Halicioglu and P. J. White, J. Vac. Sci. Technol., 17, No. 5: 1213 (1980).",
+				"tr":  "T. Halicioglu and P. J. White, J. Vac. Sci. Technol., 17, No. 5: 1213 (1980)."
+			},
+			{
+				"doi": "10.1088/0022-3719/1/1/304",
+				"or":  "G. G. Chell and I. J. Zucker, J. Phys. C: Solid State Phys., 1, No. 2: 35 (1968).",
+				"tr":  "G. G. Chell and I. J. Zucker, J. Phys. C: Solid State Phys., 1, No. 2: 35 (1968)."
+			},
+			{
+				"doi": "10.1016/0039-6028(81)90179-5",
+				"or":  "T. Halicioglu and P. J. White, Surf. Science, 106, No. 1–3: 45 (1981).",
+				"tr":  "T. Halicioglu and P. J. White, Surf. Science, 106, No. 1–3: 45 (1981)."
+			},
+			{
+				"doi": "10.1016/0039-6028(77)90223-0",
+				"or":  "M. B. Gordon, F. Cyrot-Lackman, and M. C. Desjonqueres, Surf. Science, 68, No. 1: 359 (1977).",
+				"tr":  "M. B. Gordon, F. Cyrot-Lackman, and M. C. Desjonqueres, Surf. Science, 68, No. 1: 359 (1977)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.40.7642",
+				"or":  "G. M. Pastor, J. Dorantes, and K. H. Bennemann, Phys. Rev. B, 40, No. 11: 7642 (1989)",
+				"tr":  "G. M. Pastor, J. Dorantes, and K. H. Bennemann, Phys. Rev. B, 40, No. 11: 7642 (1989)"
+			},
+			{
+				"doi": "",
+				"or":  "Alloys and Compounds (Berlin: Springer: 1986), vol. 19, pt. a.",
+				"tr":  "Alloys and Compounds (Berlin: Springer: 1986), vol. 19, pt. a."
+			},
+			{
+				"doi": "10.1016/S0304-8853(00)00441-8",
+				"or":  "J. I. Martin, J. L. Costa-Kramer, F. Briones, and J. L. Vicent, JMMM, 221, No. 1–2: 215 (2000).",
+				"tr":  "J. I. Martin, J. L. Costa-Kramer, F. Briones, and J. L. Vicent, JMMM, 221, No. 1–2: 215 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.71.214425",
+				"or":  "Y. Li, P. Xiong, St. V. Molnar et al., Phys. Rev. B, 71, No. 21: 214425 (2005).",
+				"tr":  "Y. Li, P. Xiong, St. V. Molnar et al., Phys. Rev. B, 71, No. 21: 214425 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, А. Б. Шевченко, А. Б. Мельник, Ю. А. Куницкий, Наносистеми, наноматеріали, нанотехнології, 3, № 2: 563 (2005).",
+				"tr":  "A. P. Shpak, A. B. Shevchenko, A. B. Mel'nik, Yu. A. Kunitskii, Nanosistemi, nanomateriali, nanotehnologii, 3, No. 2: 563 (2005)."
+			},
+			{
+				"doi": "10.1051/jp4:20031037",
+				"or":  "V. Soolshenko, N. Lanska, and K. Ullakko, J. Phys. IV (France), 112: 947 (2003).",
+				"tr":  "V. Soolshenko, N. Lanska, and K. Ullakko, J. Phys. IV (France), 112: 947 (2003)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(00)01379-2",
+				"or":  "P. Zhang, F. Zuo, F. K. Urban et al., JMMM, 225, No. 3: 337 (2001).",
+				"tr":  "P. Zhang, F. Zuo, F. K. Urban et al., JMMM, 225, No. 3: 337 (2001)."
+			},
+			{
+				"doi": "10.1063/1.352507",
+				"or":  "E. M. Chudnovsky, J. Appl. Phys., 73, No. 10: 6697 (1993).",
+				"tr":  "E. M. Chudnovsky, J. Appl. Phys., 73, No. 10: 6697 (1993)."
+			},
+			{
+				"doi": "10.1007/BF01320938",
+				"or":  "LI. Barcells, J. L.Tholence, and S. Linderoth, Z. Phys. B: Condens. Matter, 89, No. 2: 209 (1992).",
+				"tr":  "LI. Barcells, J. L.Tholence, and S. Linderoth, Z. Phys. B: Condens. Matter, 89, No. 2: 209 (1992)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.65.783",
+				"or":  "D. D. Awschalom, M. A. McCord, and G. Grinstein, Phys. Rev. Lett., 65, No. 6: 783 (1990).",
+				"tr":  "D. D. Awschalom, M. A. McCord, and G. Grinstein, Phys. Rev. Lett., 65, No. 6: 783 (1990)."
+			}
+		]
+	}
+}

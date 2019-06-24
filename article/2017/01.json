@@ -1,0 +1,63 @@
+{
+	"year":   2017,
+	"volume": 18,
+	"issue":  1,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [1,26],
+			"title": {
+				"ua": "FeSe: високотемпературна надпровідність, нематичність та електронна структура",
+				"en": "FeSe: High-Temperature Superconductivity, Nematicity, and Electronic Structure",
+				"ru": "FeSe: высокотемпературная сверхпроводимость, нематичность и электронная структура"
+			},
+			"autors": {
+				"ua": "Ю. В. Пустовіт, О. А. Кордюк",
+				"en": "Yu. V. Pustovit and O. A. Kordyuk",
+				"ru": "Ю. В. Пустовит, А. А. Кордюк"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [27,57],
+			"title": {
+				"ua": "Теорія взаємодії фононів з електронами в металах",
+				"en": "Theory of Phonon–Electron Interaction in Metals",
+				"ru": "Теория взаимодействия фононов с электронами в металлах"
+			},
+			"autors": {
+				"ua": "С. М. Січкар",
+				"en": "S. M. Sichkar",
+				"ru": "С. М. Сичкар"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [59,105],
+			"title": {
+				"ua": "Синтеза та властивості нанорозмірних однодоменних феритів-шпінелей",
+				"en": "Synthesis and Properties of Nanosized Single-Domain Ferrite Spinels",
+				"ru": "Синтез и свойства наноразмерных однодоменных ферритов-шпинелей"
+			},
+			"autors": {
+				"ua": "П. П. Горбик, М. В. Абрамов, І. В. Дубровин, С. М. Махно, С. П. Туранська",
+				"en": "P. P. Gorbyk, M. V. Abramov, I. V. Dubrovin, S. M. Makhno, and S. P. Turanska",
+				"ru": "П. П. Горбик, М. В. Абрамов, И. В. Дубровин, С. М. Махно, С. П. Туранская"
+			}
+		},
+		{
+			"type":    2,
+			"pages":  [107,109],
+			"title": {
+				"ua": "До 80-річчя професора М. О. Васильєва",
+				"en": "On the Occasion of the 80-th Anniversary of Birthday of Professor M. O. Vasylyev",
+				"ru": "К 80-летию профессора М. А. Васильева"
+			},
+			"autors": {
+				"ua": "Редакційна колеґія",
+				"en": "Editorial Board",
+				"ru": "Редакционная коллегия"
+			}
+		}
+	]
+}

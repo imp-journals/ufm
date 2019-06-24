@@ -1,0 +1,627 @@
+{
+	"_id":    "UFM.05.02.167",
+	"year":   2004,
+	"volume": 5,
+	"issue":  2,
+	"pages":  [167,218],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["04.11.2003"],
+	"PACS":   "74.60.Ge, 74.60.Jg, 74.72.Bk, 74.76.Bz, 81.15.Gh, 81.15.Kk",
+	"title":   {
+		"ua": "Високотемпературні надпровідні матеріяли з високими струмонесними характеристиками та методи їх одержання",
+		"en": "High-Temperature Superconducting Materials with High Current-Carrying Characteristics and Methods of Their Fabrication",
+		"ru": "Высокотемпературные сверхпроводяшие материалы с высокими токонесущими характеристиками и методы их получения"
+	},
+	"abstract": {
+		"ua": "Розвиток технології отримання ВТНП-матеріалів, які можуть нести бездисипативні струми високої щільності, привів до теперішнього часу до появи комерційних надпровідних кабелів, які працюють при температурі рідкого азоту, а також плівкових ВТНП-матеріалів великої довжини. Під час вирішення завдання підвищення струмонесучої здібності металооксидних купратів приходиться вирішувати дві розбіжні задачі: з однієї сторони, необхідно отримати матеріал з високою досконалістю кристалічної структури, близької до монокристалу, і з іншої — для забезпечення високих значень щільності критичного струму зразок повинен містити в собі кристалічні дефекти, які ефективно сприяють пінінгу вихорів Абрикосова. У роботі проводиться аналіз технології обробки полікристалічних ВТНП-матеріалів, отриманих традиційними засобами механо-термічної обробки за допомогою потужної імпульсної плазми. Отримані результати зрівнюються із нетрадиційними засобами отримання ВТНП-матеріалів на прикладі тонкоплівкової технології хімічного осадження із парової фази з використанням металоорганічних з’єднань. Робиться висновок щодо високої перспективності саме нетрадиційних засобів отримання ВТНП-матеріалів з високими струмонесучими здібностями на основі металооксидних надпровідних плівок.",
+		"en": "The development of technology of HTSC-materials with their outstanding possibility to conduct high-dense superconducting currents without dissipation has led to the appearance of commercial superconducting cables with work temperature of liquid nitrogen and the large-long HTSC film materials. When anyone tries to increase the current capability of copper oxides, he will be met by two opposite problems: on the one hand, it is needed to create the material, which has the high perfect crystallinity close to the single crystal; on the other hand, to ensure high-dense superconducting currents in a specimen, special structure defects must be presented enough for effective pinning force of the Abrikosov vortex lines. In our work, we analyze the technology of preparing of traditional polycrystalline HTSC-materials, which includes their thermomechanical treatment by using the high-density pulsed plasma. These results are compared with the untraditional technology of HTSC’s preparing on the base of metal-organic chemical vapour deposition of thin films. The conclusion about the high perspectiveness of the untraditional technology of HTSC’s preparing based on synthesis of the copper-oxide superconducting thin films is made.",
+		"ru": "Развитие технологии получения ВТСП-материалов, которые могут нести бездиссипативные токи высокой плотности, привело к настоящему времени к появлению коммерческих сверхпроводящих кабелей, работающих при температуре жидкого азота, а также длинномерных пленочных ВТСП-материалов. При решении задачи повышения токонесущей способности металлооксидных купратов приходится решать две разнородные задачи: с одной стороны, необходимо получить материал с высоким совершенством кристаллической структуры, близким к монокристаллу, и с другой — для обеспечения высоких значений плотности критического тока образец должен содержать кристаллические дефекты, эффективно способствующие пиннингу вихрей Абрикосова. В работе проводится анализ технологии обработки поликристаллических ВТСП-материалов, полученных традиционными методами механотермической обработки с помощью мощной импульсной плазмы. Полученные результаты сравниваются с нетрадиционными методами получения ВТСП-материалов на примере тонкопленочной технологии химического осаждения из паровой фазы с применением металлоорганических соединений. Делается вывод о высокой перспективности именно нетрадиционных методов получения ВТСП-материалов с высокими токонесущими характеристиками на основе металлооксидных сверхпроводящих пленок."
+	},
+	"keywords": {
+		"ua": "ВТНП-матеріали, імпульсна плазма, технологія MOCVD",
+		"en": "HTSC-materials, pulsed plasma, MOCVD technology",
+		"ru": "ВТСП-материалы, импульсная плазма, технология MOCVD"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. А. Позігун", "en": "S. A. Pozigun", "ru": "С. А. Позигун"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Пан", "en": "V. M. Pan", "ru": "В. М. Пан"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. А. Алєксєєв", "en": "V. A. Alekseev", "ru": "В. А. Алексеев"},
+			"OID": [502]
+		},
+		{
+			"AID": {"ua": "В. М. Струнніков", "en": "V. M. Strunnikov", "ru": "В. М. Струнников"},
+			"OID": [502]
+		},
+		{
+			"AID": {"ua": "А. Р. Кауль", "en": "A. R. Kaul’", "ru": "А. Р. Кауль"},
+			"OID": [503]
+		},
+		{
+			"AID": {"ua": "О. Ю. Горбенко", "en": "O. Yu. Gorbenko", "ru": "О. Ю. Горбенко"},
+			"OID": [503]
+		}
+	],
+	"references": {
+		"count": 114,
+				"list":  [
+			{
+				"doi": "10.1007/BF01303701",
+				"or":  "J. G. Bednorz and K. Müller, Z. Phys. B: Condensed Matter, 64: 189 (1986).",
+				"tr":  "J. G. Bednorz and K. Müller, Z. Phys. B: Condensed Matter, 64: 189 (1986)."
+			},
+			{
+				"doi": "10.1016/0921-4534(90)90473-R",
+				"or":  "M. R. Chandrachood, D. E. Morris, and A. P. B. Sinha, Physica C, 171: 187 (1990).",
+				"tr":  "M. R. Chandrachood, D. E. Morris, and A. P. B. Sinha, Physica C, 171: 187 (1990)."
+			},
+			{
+				"doi": "10.1109/TASC.2003.811820",
+				"or":  "M. W. Rupich, U. Schoop, D. T. Verebelyi et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 2458 (2003).",
+				"tr":  "M. W. Rupich, U. Schoop, D. T. Verebelyi et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 2458 (2003)."
+			},
+			{
+				"doi": "10.1109/TASC.2003.811823",
+				"or":  "M. S. Hatzistergos, H. Efstathiadis, E. Lifshin et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 2470 (2003).",
+				"tr":  "M. S. Hatzistergos, H. Efstathiadis, E. Lifshin et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 2470 (2003)."
+			},
+			{
+				"doi": "10.1088/0022-3727/34/5/311",
+				"or":  "I. Peshko, V. Flis, and V. Matsui, J. Phys. D: Appl. Phys., 34: 732 (2001).",
+				"tr":  "I. Peshko, V. Flis, and V. Matsui, J. Phys. D: Appl. Phys., 34: 732 (2001)."
+			},
+			{
+				"doi": "10.1016/0921-4534(90)90123-V",
+				"or":  "W. M. Tiernan, J. M. Madsen, R. B. Hallock et al., Physica C, 168: 189 (1990).",
+				"tr":  "W. M. Tiernan, J. M. Madsen, R. B. Hallock et al., Physica C, 168: 189 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Никулин, В. Я. Филькин, Д. К. Шиков, Журнал Всесоюзного хим. общ-ва им. Д. И. Менделеева, 34, № 4: 519 (1989).",
+				"tr":  "A. D. Nikulin, V. Ya. Fil'kin, D. K. Shikov, Zhurnal Vsesoyuznogo khim. obshch-va im. D. I. Mendeleeva, 34, No. 4: 519 (1989)."
+			},
+			{
+				"doi": "10.1116/1.576329",
+				"or":  "M. Leskela, J. K. Truman, C. H. Mueller et al., J. of Vac. Sci. Technol. A, 7, No. 6: 3147 (1989).",
+				"tr":  "M. Leskela, J. K. Truman, C. H. Mueller et al., J. of Vac. Sci. Technol. A, 7, No. 6: 3147 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Гришин, И. В. Никонец, В. А. Хохлов, Обзоры по высокотемпературной сверхпроводимости, 5, № 1: 44 (1991).",
+				"tr":  "A. M. Grishin, I. V. Nikonets, V. A. Khokhlov, Obzory po vysokotemperaturnoy sverkhprovodimosti, 5, No. 1: 44 (1991)."
+			},
+			{
+				"doi": "10.1016/S0921-4526(99)02137-7",
+				"or":  "V. M. Pan, V. A. Komashko, V. S. Flis et al., Physica B, 284–288: 831 (2000).",
+				"tr":  "V. M. Pan, V. A. Komashko, V. S. Flis et al., Physica B, 284–288: 831 (2000)."
+			},
+			{
+				"doi": "10.1109/TASC.2003.812940",
+				"or":  "F. Grilli, S. Stavrev, B. Dutoit, and S. Sprefico, IEEE Trans. on Appl. Supercond., 13, No. 2: 1886 (2003).",
+				"tr":  "F. Grilli, S. Stavrev, B. Dutoit, and S. Sprefico, IEEE Trans. on Appl. Supercond., 13, No. 2: 1886 (2003)."
+			},
+			{
+				"doi": "10.1109/TASC.2003.812942",
+				"or":  "M. Yagi, S. Tanaka, S. Mukoyama et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 1902 (2003).",
+				"tr":  "M. Yagi, S. Tanaka, S. Mukoyama et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 1902 (2003)."
+			},
+			{
+				"doi": "10.1109/TASC.2003.812950",
+				"or":  "V. E. Sytnikov, P. I. Dolgosheev, M. G. Soloviev et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 1964 (2003).",
+				"tr":  "V. E. Sytnikov, P. I. Dolgosheev, M. G. Soloviev et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 1964 (2003)."
+			},
+			{
+				"doi": "10.1109/TASC.2003.812973",
+				"or":  "K. Ueda, O. Tsukamoto, S. Nagaya et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 1946 (2003).",
+				"tr":  "K. Ueda, O. Tsukamoto, S. Nagaya et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 1946 (2003)."
+			},
+			{
+				"doi": "10.1109/TASC.2003.812975",
+				"or":  "S. Honjo, M. Shimodate, Y. Takahashi et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 1952 (2003).",
+				"tr":  "S. Honjo, M. Shimodate, Y. Takahashi et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 1952 (2003)."
+			},
+			{
+				"doi": "10.1109/TASC.2003.812952",
+				"or":  "A. Usoskin, H.C. Freyhardt, A. Issaev et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 1972 (2003).",
+				"tr":  "A. Usoskin, H.C. Freyhardt, A. Issaev et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 1972 (2003)."
+			},
+			{
+				"doi": "10.1109/TASC.2003.812954",
+				"or":  "S. Elschner, F. Breuer, M. Noe et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 1980 (2003).",
+				"tr":  "S. Elschner, F. Breuer, M. Noe et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 1980 (2003)."
+			},
+			{
+				"doi": "10.1109/TASC.2003.813013",
+				"or":  "M. Frank, J. Frauenhofer, P. van Hasselt et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 2120 (2003).",
+				"tr":  "M. Frank, J. Frauenhofer, P. van Hasselt et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 2120 (2003)."
+			},
+			{
+				"doi": "10.1109/TASC.2003.813032",
+				"or":  "M. Fee, M. P. Staines, R. G. Buckley et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 2193 (2003).",
+				"tr":  "M. Fee, M. P. Staines, R. G. Buckley et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 2193 (2003)."
+			},
+			{
+				"doi": "10.1109/TASC.2003.813014",
+				"or":  "K. Nishijima, M. Asada, A. Izumi et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 2124 (2003).",
+				"tr":  "K. Nishijima, M. Asada, A. Izumi et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 2124 (2003)."
+			},
+			{
+				"doi": "10.1109/TASC.2003.813016",
+				"or":  "S. Hanany, T. Matsumura, B. Johnson et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 2128 (2003).",
+				"tr":  "S. Hanany, T. Matsumura, B. Johnson et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 2128 (2003)."
+			},
+			{
+				"doi": "10.1109/TASC.2003.813017",
+				"or":  "S. Wang, J. Wang, X. Wang et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 2134 (2003).",
+				"tr":  "S. Wang, J. Wang, X. Wang et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 2134 (2003)."
+			},
+			{
+				"doi": "10.1109/TASC.2003.813018",
+				"or":  "M. Tsuda, M. Tamura, H. Yamada et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 2138 (2003).",
+				"tr":  "M. Tsuda, M. Tamura, H. Yamada et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 2138 (2003)."
+			},
+			{
+				"doi": "10.1063/1.100542",
+				"or":  "J. Gao, Y. Z. Zhang, B. R. Zhao et al., Appl. Phys. Lett., 53, No. 26: 2675 (1988).",
+				"tr":  "J. Gao, Y. Z. Zhang, B. R. Zhao et al., Appl. Phys. Lett., 53, No. 26: 2675 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Ю. Горбенко, В. Н. Фуфлыгин, А. Р. Кауль, Сверхпроводимость: исследования и разработки, № 5/6: 38 (1995).",
+				"tr":  "O. Yu. Gorbenko, V. N. Fuflygin, A. R. Kaul', Sverkhprovodimost': issledovaniya i razrabotki, No. 5/6: 38 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Abrutis, A. Teiserskis, V. Kubilius et al., Applied Superconductivity 1999 (Sitges, Spain: 1999) (Eds. X. Obradors et al.), vol. 1, p. 223.",
+				"tr":  "A. Abrutis, A. Teiserskis, V. Kubilius et al., Applied Superconductivity 1999 (Sitges, Spain: 1999) (Eds. X. Obradors et al.), vol. 1, p. 223."
+			},
+			{
+				"doi": "10.1109/TASC.2003.811839",
+				"or":  "O. Stadel, J. Schmidt, M. Liekefett et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 2528 (2003).",
+				"tr":  "O. Stadel, J. Schmidt, M. Liekefett et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 2528 (2003)."
+			},
+			{
+				"doi": "10.1016/S0921-4534(02)00767-0",
+				"or":  "H. Sato, E. Fujimoto, T. Yamada et al., Physica C, 372–376: 68 (2002).",
+				"tr":  "H. Sato, E. Fujimoto, T. Yamada et al., Physica C, 372–376: 68 (2002)."
+			},
+			{
+				"doi": "10.1016/S0921-4534(02)00856-0",
+				"or":  "V. M. Krasnov, Physica C, 372–376: 103 (2002).",
+				"tr":  "V. M. Krasnov, Physica C, 372–376: 103 (2002)."
+			},
+			{
+				"doi": "10.1109/TASC.2003.811818",
+				"or":  "T. Watanabe, Y. Shiohara, and T. Izumi, IEEE Trans. on Appl. Supercond., 13, No. 2: 2445 (2003).",
+				"tr":  "T. Watanabe, Y. Shiohara, and T. Izumi, IEEE Trans. on Appl. Supercond., 13, No. 2: 2445 (2003)."
+			},
+			{
+				"doi": "10.1143/JJAP.27.L209",
+				"or":  "H. Maeda, Y. Tanaka, M. Fukutomi, and T. Asano, Jpn. J. of Appl. Phys., 27, No. 2: L209 (1988).",
+				"tr":  "H. Maeda, Y. Tanaka, M. Fukutomi, and T. Asano, Jpn. J. of Appl. Phys., 27, No. 2: L209 (1988)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.58.908",
+				"or":  "M. K. Wu, J. R. Ashburn, and C. J. Torng, Phys. Rev. Lett., 58, No. 9: 908 (1987).",
+				"tr":  "M. K. Wu, J. R. Ashburn, and C. J. Torng, Phys. Rev. Lett., 58, No. 9: 908 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Kumakura, K. Togano, and H. Maeda, Materials of ICSC (9 January, 1990, Bangalore, India).",
+				"tr":  "H. Kumakura, K. Togano, and H. Maeda, Materials of ICSC (9 January, 1990, Bangalore, India)."
+			},
+			{
+				"doi": "10.1109/5.34113",
+				"or":  "K. Tachikawa and K. Togano, Proc. of the IEEE, 77, No. 8: 1124 (1989).",
+				"tr":  "K. Tachikawa and K. Togano, Proc. of the IEEE, 77, No. 8: 1124 (1989)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.58.2687",
+				"or":  "T. R. Dinger, T. R. Worthington, W. J. Gallagher, and R. L. Sandstrom, Phys. Rev. Lett., 58, No. 25: 2687 (1987).",
+				"tr":  "T. R. Dinger, T. R. Worthington, W. J. Gallagher, and R. L. Sandstrom, Phys. Rev. Lett., 58, No. 25: 2687 (1987)."
+			},
+			{
+				"doi": "10.1142/S0217984989000601",
+				"or":  "G. Blatter, H. Dersch, T. Dupre et al., Mod. Phys. Lett. B, 3, No. 5: 375 (1989).",
+				"tr":  "G. Blatter, H. Dersch, T. Dupre et al., Mod. Phys. Lett. B, 3, No. 5: 375 (1989)."
+			},
+			{
+				"doi": "10.1126/science.247.4943.656",
+				"or":  "R. J. Cava, Science, 247, No. 4943: 656 (1990).",
+				"tr":  "R. J. Cava, Science, 247, No. 4943: 656 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Ю. Сумароков, Н. И. Шевцов, В. Ф. Ткаченко и др. (Харьков: 1993) (Препринт/НАН Украины. Институт монокристаллов. ИМК-93-10, 1993).",
+				"tr":  "S. Yu. Sumarokov, N. I. Shevtsov, V. F. Tkachenko et al. (Khar'kov: 1993) (Preprint/NAN Ukrainy. Institut monokristallov. IMK-93-10, 1993)."
+			},
+			{
+				"doi": "10.2497/jjspm.37.717",
+				"or":  "K. Motta, T. Suzuki, H. Magome, and K. Hirose, J. of Jpn. Soc. Powder and Powder Met., 37: 717 (1990).",
+				"tr":  "K. Motta, T. Suzuki, H. Magome, and K. Hirose, J. of Jpn. Soc. Powder and Powder Met., 37: 717 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Kase, N. Irisawa, T. Morimoto et al., Appl. Phys. Lett., 56: 783 (1990).",
+				"tr":  "J. Kase, N. Irisawa, T. Morimoto et al., Appl. Phys. Lett., 56: 783 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Murakami, T. Oyama, H. Fujimoto et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 1479 (2003).",
+				"tr":  "M. Murakami, T. Oyama, H. Fujimoto et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 1479 (2003)."
+			},
+			{
+				"doi": "10.1016/0921-4534(91)90714-A",
+				"or":  "P. McGinn, N. Zhu, W. Chen et al., Physica C, 176, No. 1/3: 203 (1991).",
+				"tr":  "P. McGinn, N. Zhu, W. Chen et al., Physica C, 176, No. 1/3: 203 (1991)."
+			},
+			{
+				"doi": "10.1557/JMR.1989.0911",
+				"or":  "H. Zheng, R. Xu, and J. D. Mackenzie, J. of Mater. Res., 4, No. 4: 911 (1989).",
+				"tr":  "H. Zheng, R. Xu, and J. D. Mackenzie, J. of Mater. Res., 4, No. 4: 911 (1989)."
+			},
+			{
+				"doi": "10.1088/0953-2048/1/4/009",
+				"or":  "L. Z. Yi and M. Persson, Supercond. Sci. and Technol., 1, No. 4: 198 (1988).",
+				"tr":  "L. Z. Yi and M. Persson, Supercond. Sci. and Technol., 1, No. 4: 198 (1988)."
+			},
+			{
+				"doi": "10.1016/0025-5408(89)90147-5",
+				"or":  "D. Bahadur, A. Banerjee, A. Das et al., Mat. Res. Bull., 24, No. 11: 1405 (1990).",
+				"tr":  "D. Bahadur, A. Banerjee, A. Das et al., Mat. Res. Bull., 24, No. 11: 1405 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Г. Алиханов, В. П. Бахтин, В. И. Васильев и др., Поверхность: Физика, химия, механика, № 5: 142 (1983).",
+				"tr":  "S. G. Alikhanov, V. P. Bakhtin, V. I. Vasil'ev et al., Poverkhnost': Fizika, khimiya, mekhanika, No. 5: 142 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Д. Томашов, И. Б. Скворцова, В. А. Алексеев и др., Защита металлов, 24, № 3: 395 (1988).",
+				"tr":  "N. D. Tomashov, I. B. Skvortsova, V. A. Alekseev et al., Zashchita metallov, 24, No. 3: 395 (1988)."
+			},
+			{
+				"doi": "10.1063/1.860218",
+				"or":  "Yu. V. Skvortsov, Phys. Fluids B, 4, No. 3: 750 (1992).",
+				"tr":  "Yu. V. Skvortsov, Phys. Fluids B, 4, No. 3: 750 (1992)."
+			},
+			{
+				"doi": "10.1063/1.98367",
+				"or":  "B. G. Bagley, L. H. Greene, J.-M. Tarascon, and G. W. Hull, Appl. Phys. Lett., 51: 622 (1987).",
+				"tr":  "B. G. Bagley, L. H. Greene, J.-M. Tarascon, and G. W. Hull, Appl. Phys. Lett., 51: 622 (1987)."
+			},
+			{
+				"doi": "10.1016/0022-0248(91)90544-F",
+				"or":  "J. Zhao, C. S. Chern, Y. Q. Li et al., J. of Cryst. Growth, 107: 699 (1991).",
+				"tr":  "J. Zhao, C. S. Chern, Y. Q. Li et al., J. of Cryst. Growth, 107: 699 (1991)."
+			},
+			{
+				"doi": "10.1007/BF00324731",
+				"or":  "H. Holzschuh and H. Suhr, Appl. Phys. A, 51: 486 (1990).",
+				"tr":  "H. Holzschuh and H. Suhr, Appl. Phys. A, 51: 486 (1990)."
+			},
+			{
+				"doi": "10.1063/1.103302",
+				"or":  "T. Yoshitaka, Appl. Phys. Lett., 56: 575 (1990).",
+				"tr":  "T. Yoshitaka, Appl. Phys. Lett., 56: 575 (1990)."
+			},
+			{
+				"doi": "10.1143/JJAP.28.L952",
+				"or":  "S. Takagi, A. Sekiguchi, N. Hosokawa et al., Jpn. J. Appl. Phys., 28, No. 6: L952 (1989).",
+				"tr":  "S. Takagi, A. Sekiguchi, N. Hosokawa et al., Jpn. J. Appl. Phys., 28, No. 6: L952 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "М. И. Гусева, В. М. Гуреев, Ю. В. Мартыненко и др., ЖТФ, 66: 106 (1996).",
+				"tr":  "M. I. Guseva, V. M. Gureev, Yu. V. Martynenko et al., ZhTF, 66: 106 (1996)."
+			},
+			{
+				"doi": "10.2320/matertrans1989.30.942",
+				"or":  "S. Takeuchi, Materials Transactions, 30: 942 (1989).",
+				"tr":  "S. Takeuchi, Materials Transactions, 30: 942 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Комаров, С. Н. Бондаренко, Ю. Н. Туманов и др., Весцi АН БССР. Сер. хiм. наук, 5: 25 (1990).",
+				"tr":  "V. S. Komarov, S. N. Bondarenko, Yu. N. Tumanov et al., Vestsi AN BSSR. Ser. khim. nauk, 5: 25 (1990)."
+			},
+			{
+				"doi": "10.1016/0040-6090(90)90238-9",
+				"or":  "D. Dube, P. Lambert, B. Arsenault, and B. Champagne, Thin Solid Films, 193–194: 847 (1990).",
+				"tr":  "D. Dube, P. Lambert, B. Arsenault, and B. Champagne, Thin Solid Films, 193–194: 847 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Мень, В. Б. Фетисов, А. В. Фетисов и др., Мат-лы конф. «Физ.-хим. основы синтеза и св-ва высокотемп. сверхпров. матер. Анализ, стр-ра, св-ва» (Свердловск: Россия: 1990), с. 6.",
+				"tr":  "A. N. Men', V. B. Fetisov, A. V. Fetisov et al., Mat-ly konf. «Fiz.-khim. osnovy sinteza i sv-va vysokotemp. sverkhprov. mater. Analiz, str-ra, sv-va» (Sverdlovsk: Rossiya: 1990), p. 6."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Алексеев, С. А. Позигун, Н. В. Шишков, В. К. Каретников, Сверхпроводимость: Физика, Химия, Техника, 3, № 8, ч. 1: 1678 (1990).",
+				"tr":  "V. A. Alekseev, S. A. Pozigun, N. V. Shishkov, and V. K. Karetnikov, Sverkhprovodimost': Fizika, Khimiya, Tekhnika, 3, No. 8, ch. 1: 1678 (1990)."
+			},
+			{
+				"doi": "10.1016/0921-4534(89)90300-6",
+				"or":  "M. Kikuchi, S. Nakajima, Y. Syono et al., Physica C, 158, № 1/2: 79 (1989).",
+				"tr":  "M. Kikuchi, S. Nakajima, Y. Syono et al., Physica C, 158, No. 1/2: 79 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Э. Грабой (Дисс. канд. химич. наук) (Москва: МГУ: 1991), 157с.",
+				"tr":  "I. E. Graboy (Diss. kand. khimich. nauk) (Moskva: MGU: 1991), 157s."
+			},
+			{
+				"doi": "10.1063/1.344299",
+				"or":  "D. Shi, M. S. Boley, M. Patel et al., J. of Appl. Phys., 66: 2074 (1989).",
+				"tr":  "D. Shi, M. S. Boley, M. Patel et al., J. of Appl. Phys., 66: 2074 (1989)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.59.2776",
+				"or":  "A. G. Khachaturyan and J. W. Morris, Phys. Rev. Lett., 59: 2776 (1987).",
+				"tr":  "A. G. Khachaturyan and J. W. Morris, Phys. Rev. Lett., 59: 2776 (1987)."
+			},
+			{
+				"doi": "10.1143/JJAP.26.L617",
+				"or":  "F. Izumi, H. Asano, and T. Ishigaki, Jpn. J. of Appl. Phys., 26: L617 (1987).",
+				"tr":  "F. Izumi, H. Asano, and T. Ishigaki, Jpn. J. of Appl. Phys., 26: L617 (1987)."
+			},
+			{
+				"doi": "10.1143/JJAP.26.L882",
+				"or":  "C. N. R. Rao and P. Ganguly, Jpn. J. of Appl. Phys., 26: L882 (1987).",
+				"tr":  "C. N. R. Rao and P. Ganguly, Jpn. J. of Appl. Phys., 26: L882 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Алексеев, А. В. Кулаков, В. К. Панкратов, В. Д. Письменный, С. А. Позигун и др., Мат-лы 4-й Всесоюзной Конференции по взаимодействию излучения, плазменных и электронных потоков с веществом (Фрунзе: Киргизия: 1990), с. 98.",
+				"tr":  "V. A. Alekseev, A. V. Kulakov, V. K. Pankratov, V. D. Pis'mennyy, S. A. Pozigun et al., Mat-ly 4-y Vsesoyuznoy Konferentsii po vzaimodeystviyu izlucheniya, plazmennykh i elektronnykh potokov s veshchestvom (Frunze: Kirgiziya: 1990), s. 98."
+			},
+			{
+				"doi": "10.1016/0921-4534(91)92055-G",
+				"or":  "V. A. Alekseev, S. A. Pozigun, V. M. Strunnikov, and N. V. Shishkov, Physica C, 185–189: 505 (1991).",
+				"tr":  "V. A. Alekseev, S. A. Pozigun, V. M. Strunnikov, and N. V. Shishkov, Physica C, 185–189: 505 (1991)."
+			},
+			{
+				"doi": "10.1016/0921-4534(90)90229-8",
+				"or":  "A. Taffin, T. Brousse, B. Mercey et al., Physica C, 170: 59 (1990).",
+				"tr":  "A. Taffin, T. Brousse, B. Mercey et al., Physica C, 170: 59 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "S. A. Pozigun and D. A. Lapshin, Physica C, 235–240: 3181 (1994).",
+				"tr":  "S. A. Pozigun and D. A. Lapshin, Physica C, 235–240: 3181 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. А. Лапшин, С. А. Позигун, Приборы и техника эксперимента, № 2: 162 (1995).",
+				"tr":  "D. A. Lapshin, S. A. Pozigun, Pribory i tekhnika eksperimenta, No. 2: 162 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Alekseev, S. A. Pozigun, V. M. Strunnikov, and N. V. Shishkov, The Thesis of The Second Int. Ceramic and Technology Congress (Orlando: USA: 1990), p. B124.",
+				"tr":  "V. A. Alekseev, S. A. Pozigun, V. M. Strunnikov, and N. V. Shishkov, The Thesis of The Second Int. Ceramic and Technology Congress (Orlando: USA: 1990), p. B124."
+			},
+			{
+				"doi": "10.1038/327101b0",
+				"or":  "L. Garwin, Nature, 327: 101 (1987).",
+				"tr":  "L. Garwin, Nature, 327: 101 (1987)."
+			},
+			{
+				"doi": "10.1063/1.99301",
+				"or":  "P. Narrotan, B. L. Sandkuhl, A. L. Sandkuhl, and D. E. Farrell, Appl. Phys. Lett., 52: 838 (1988).",
+				"tr":  "P. Narrotan, B. L. Sandkuhl, A. L. Sandkuhl, and D. E. Farrell, Appl. Phys. Lett., 52: 838 (1988)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.58.2579",
+				"or":  "S. R. Ovshinsky, R. T. Young, D. D. Allred et al., Phys. Rev. Lett., 58: 2579 (1987).",
+				"tr":  "S. R. Ovshinsky, R. T. Young, D. D. Allred et al., Phys. Rev. Lett., 58: 2579 (1987)."
+			},
+			{
+				"doi": "10.1016/0921-4534(89)90325-0",
+				"or":  "J. L. Tallon, R. Buckley, P. W. Gilberd, and M. R. Presland, Physica C, 158: 247 (1989).",
+				"tr":  "J. L. Tallon, R. Buckley, P. W. Gilberd, and M. R. Presland, Physica C, 158: 247 (1989)."
+			},
+			{
+				"doi": "10.2497/jjspm.37.813",
+				"or":  "K. Tsukamoto, H. Shimojima, M. Ishii, and C. Yamagishi, J. of Jpn. Soc. Powder and Powder Met., 37: 813 (1990).",
+				"tr":  "K. Tsukamoto, H. Shimojima, M. Ishii, and C. Yamagishi, J. of Jpn. Soc. Powder and Powder Met., 37: 813 (1990)."
+			},
+			{
+				"doi": "10.1016/0921-4534(89)90143-3",
+				"or":  "K.-H. Muller, Physica C, 159: 717 (1989).",
+				"tr":  "K.-H. Muller, Physica C, 159: 717 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "С.А. Позигун, В.Ф. Хирный, Вісник Дніпропетровського університету. Сер. фізика, радіоелектроніка, № 7: 66 (2001).",
+				"tr":  "S.A. Pozigun, V.F. Khirnyy, Visnik Dnipropetrovs'kogo universitetu. Ser. fizika, radioelektronika, No. 7: 66 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Alekseev, S. A. Pozigun, A. V. Permyakov et al., Proc. Int. Workshop MSU-HTSC II (Moscow: Russia: 1991), vol. 2, p. 385.",
+				"tr":  "V. A. Alekseev, S. A. Pozigun, A. V. Permyakov et al., Proc. Int. Workshop MSU-HTSC II (Moscow: Russia: 1991), vol. 2, p. 385."
+			},
+			{
+				"doi": "10.1007/978-1-4684-1345-8_58",
+				"or":  "A. R. Kaul, I. E. Korsakov, and A. V. Permyakov, in Science and Technology of Thin Film Superconductors 2 (Eds. R. D. McConnell and R. Noufi) (New York, USA: 1990), p. 403.",
+				"tr":  "A. R. Kaul, I. E. Korsakov, and A. V. Permyakov, in Science and Technology of Thin Film Superconductors 2 (Eds. R. D. McConnell and R. Noufi) (New York, USA: 1990), p. 403."
+			},
+			{
+				"doi": "",
+				"or":  "S. A. Pozigun, V. F. Khirnyi, V. A. Alekseev, and V. M. Strunnikov, Functional Materials, 9, No. 4: 762 (2002).",
+				"tr":  "S. A. Pozigun, V. F. Khirnyi, V. A. Alekseev, and V. M. Strunnikov, Functional Materials, 9, No. 4: 762 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "J. W. Ekin, The Proc. of SPIE Processing of Films for High-Tc Superconducting Electronics, 359 (1989).",
+				"tr":  "J. W. Ekin, The Proc. of SPIE Processing of Films for High-Tc Superconducting Electronics, 359 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "С. I. Сидоренко, С. М. Волошко Матерiалознавство високотемпературних надпровiдникiв (Київ: Україна: Вища школа: 1995).",
+				"tr":  "S. I. Sidorenko, S. M. Voloshko Materialoznavstvo visokotemperaturnikh nadprovidnikiv (Kiїv: Ukraїna: Vishcha shkola: 1995)."
+			},
+			{
+				"doi": "10.1016/0022-3093(90)91035-P",
+				"or":  "F. Miyaji, T. Yoko, and S. Sakka, J. of Non-Cryst. Solids., 126, No. 1/2: 170 (1990).",
+				"tr":  "F. Miyaji, T. Yoko, and S. Sakka, J. of Non-Cryst. Solids., 126, No. 1/2: 170 (1990)."
+			},
+			{
+				"doi": "10.1143/JJAP.27.L2088",
+				"or":  "K. Sato, S. Omae, K. Kojima et al., Jpn. J. of Appl. Phys., 27: L2088 (1988).",
+				"tr":  "K. Sato, S. Omae, K. Kojima et al., Jpn. J. of Appl. Phys., 27: L2088 (1988)."
+			},
+			{
+				"doi": "10.1016/0921-4534(92)90082-N",
+				"or":  "K. Kadowaki and T. Mochiki, Physica C, 195: 127 (1992).",
+				"tr":  "K. Kadowaki and T. Mochiki, Physica C, 195: 127 (1992)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.50.13724",
+				"or":  "V. F. Solovjov, V. M. Pan, and H. C. Freyhardt, Phys. Rev. B, 50: 13724 (1994).",
+				"tr":  "V. F. Solovjov, V. M. Pan, and H. C. Freyhardt, Phys. Rev. B, 50: 13724 (1994)."
+			},
+			{
+				"doi": "10.1088/0034-4885/58/11/003",
+				"or":  "E. H. Brandt, Rep. Progr. Phys., 58: 1465 (1995).",
+				"tr":  "E. H. Brandt, Rep. Progr. Phys., 58: 1465 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Pan, Proc. ‘Physics and Materials Science of Vortex States, Flux Pinning and Dynamics” (Eds. R. Kossowsky et al.) (Kusadasi: Turkey: 1998), p. 1.",
+				"tr":  "V. M. Pan, Proc. 'Physics and Materials Science of Vortex States, Flux Pinning and Dynamics\" (Eds. R. Kossowsky et al.) (Kusadasi: Turkey: 1998), p. 1."
+			},
+			{
+				"doi": "10.1016/0925-8388(93)90764-E",
+				"or":  "V. Hardy, J. Provost, D. Groult et al., J. Alloys & Compounds, 195: 395 (1993).",
+				"tr":  "V. Hardy, J. Provost, D. Groult et al., J. Alloys & Compounds, 195: 395 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Пан, Успехи физ. мет., 1, № 1: 49 (2000).",
+				"tr":  "V. M. Pan, Uspekhi fiz. met., 1, No. 1: 49 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.61.219",
+				"or":  "D. Dimos et al., Phys. Rev. Lett., 61, No. 2: 219 (1988).",
+				"tr":  "D. Dimos et al., Phys. Rev. Lett., 61, No. 2: 219 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Pan, A. L. Kasatkin, V. S. Flis, V. A. Komashko et al., Inst. Phys. Conf. Ser., No. 167: 699 (2000).",
+				"tr":  "V. M. Pan, A. L. Kasatkin, V. S. Flis, V. A. Komashko et al., Inst. Phys. Conf. Ser., No. 167: 699 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "A. R. Kaul, O. Yu. Gorbenko, and S. A. Pozigun, Proc. Int. Workshop MSU-HTSC II (Moscow, Russia: 1991), vol. 1, p. 165.",
+				"tr":  "A. R. Kaul, O. Yu. Gorbenko, and S. A. Pozigun, Proc. Int. Workshop MSU-HTSC II (Moscow, Russia: 1991), vol. 1, p. 165."
+			},
+			{
+				"doi": "",
+				"or":  "A. R. Kaul and B. V. Seleznev, J. de Physique IV (Coll. C3, Suppl. au J. de Physique II), 3: 375 (1993).",
+				"tr":  "A. R. Kaul and B. V. Seleznev, J. de Physique IV (Coll. C3, Suppl. au J. de Physique II), 3: 375 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "I. S. Chuprakov and A. R. Kaul, J. of CVD, 2: 123 (1993).",
+				"tr":  "I. S. Chuprakov and A. R. Kaul, J. of CVD, 2: 123 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Ebihara, S. Kanazawa, T. Ikegami, and M. Shiga, Proc. of 9th Int. Symp. on Plasma Chemistry (Pugnochiuso, Italy: 1989), vol. 3, p. 1509.",
+				"tr":  "K. Ebihara, S. Kanazawa, T. Ikegami, and M. Shiga, Proc. of 9th Int. Symp. on Plasma Chemistry (Pugnochiuso, Italy: 1989), vol. 3, p. 1509."
+			},
+			{
+				"doi": "10.1088/0953-2048/4/9/018",
+				"or":  "T. Ushida, K. Higashiyama, I. Hirabayashi, and S. Tanaka, Supercond. Sci. Technol., 4: 445 (1991).",
+				"tr":  "T. Ushida, K. Higashiyama, I. Hirabayashi, and S. Tanaka, Supercond. Sci. Technol., 4: 445 (1991)."
+			},
+			{
+				"doi": "10.1063/1.1144225",
+				"or":  "R. Singh, J. T. C. Ng, S. Sinha, and V. Dhall, Rev. Sci. Instrum., 64, No. 2: 514 (1993).",
+				"tr":  "R. Singh, J. T. C. Ng, S. Sinha, and V. Dhall, Rev. Sci. Instrum., 64, No. 2: 514 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Ю. Горбенко (Дисс. канд. хим. наук) (Москва: МГУ: 1994), 232 с.",
+				"tr":  "O. Yu. Gorbenko (Diss. kand. khim. nauk) (Moskva: MGU: 1994), 232 s."
+			},
+			{
+				"doi": "10.1016/0921-5107(93)90099-9",
+				"or":  "O. Yu. Gorbenko, A. R. Kaul, I. V. Pogosova, S. N. Polyakov et al., Material Science and Engineering, B17: 157 (1993).",
+				"tr":  "O. Yu. Gorbenko, A. R. Kaul, I. V. Pogosova, S. N. Polyakov et al., Material Science and Engineering, B17: 157 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Hirai and H. Yamane, Appl. Phys., 59, No. 2: 134 (1990).",
+				"tr":  "T. Hirai and H. Yamane, Appl. Phys., 59, No. 2: 134 (1990)."
+			},
+			{
+				"doi": "10.1016/S0921-4534(05)80244-8",
+				"or":  "O. Yu. Gorbenko, A. R. Kaul, Yu. D. Tretyakov et al., Physica C, 190: 180 (1991).",
+				"tr":  "O. Yu. Gorbenko, A. R. Kaul, Yu. D. Tretyakov et al., Physica C, 190: 180 (1991)."
+			},
+			{
+				"doi": "10.1063/1.108878",
+				"or":  "B. Schulte, M. Maul, P. Haussler et al., Appl. Phys. Lett., 62, No. 6: 633 (1993).",
+				"tr":  "B. Schulte, M. Maul, P. Haussler et al., Appl. Phys. Lett., 62, No. 6: 633 (1993)."
+			},
+			{
+				"doi": "10.1016/0921-4534(92)90086-R",
+				"or":  "Y. Q. Li, J. Zhao, C. S. Chern et al., Physica C, 195: 161 (1992).",
+				"tr":  "Y. Q. Li, J. Zhao, C. S. Chern et al., Physica C, 195: 161 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "V. N. Fuflyigin, A. R. Kaul, S. A. Pozigun, and Yu. D. Tretyakov, Appl. Supercond., 1: 587 (1993).",
+				"tr":  "V. N. Fuflyigin, A. R. Kaul, S. A. Pozigun, and Yu. D. Tretyakov, Appl. Supercond., 1: 587 (1993)."
+			},
+			{
+				"doi": "10.1016/0921-4534(93)90985-Y",
+				"or":  "M. Wang, G. Xiong, X. Tang, and Z. Hong, Physica C, 210: 413 (1993).",
+				"tr":  "M. Wang, G. Xiong, X. Tang, and Z. Hong, Physica C, 210: 413 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Фуфлыгин (Дисс. канд. хим. наук) (Москва: МГУ: 1995), 153 с.",
+				"tr":  "V. N. Fuflygin (Diss. kand. khim. nauk) (Moskva: MGU: 1995), 153 p."
+			},
+			{
+				"doi": "10.1016/0022-0248(91)90841-R",
+				"or":  "J. Ishiai, S. Yamada, S. Yoshozawa, and K. Endo, J. of Crystal Growth, 115: 762 (1991).",
+				"tr":  "J. Ishiai, S. Yamada, S. Yoshozawa, and K. Endo, J. of Crystal Growth, 115: 762 (1991)."
+			},
+			{
+				"doi": "10.1016/0921-4534(92)90750-7",
+				"or":  "T. Sugimoto, M. Nakagawa, Y. Shiohara, and S. Tanaka, Physica C, 192: 108 (1992).",
+				"tr":  "T. Sugimoto, M. Nakagawa, Y. Shiohara, and S. Tanaka, Physica C, 192: 108 (1992)."
+			},
+			{
+				"doi": "10.1080/01411599308203496",
+				"or":  "M. Yano, T. Moku, T. Maemoto et al., Phase Transitions, 42: 73 (1993).",
+				"tr":  "M. Yano, T. Moku, T. Maemoto et al., Phase Transitions, 42: 73 (1993)."
+			},
+			{
+				"doi": "10.1016/0022-0248(91)90542-D",
+				"or":  "T. Hirai and H. Yamane, J. Crystal Growth, 107: 683 (1991).",
+				"tr":  "T. Hirai and H. Yamane, J. Crystal Growth, 107: 683 (1991)."
+			},
+			{
+				"doi": "10.1063/1.102330",
+				"or":  "J. M. Zhang, H. O. Marcy, L. M. Tonge, and B. W. Wessels, Appl. Phys. Lett., 18: 1906 (1989).",
+				"tr":  "J. M. Zhang, H. O. Marcy, L. M. Tonge, and B. W. Wessels, Appl. Phys. Lett., 18: 1906 (1989)."
+			},
+			{
+				"doi": "10.1109/TASC.2003.811820",
+				"or":  "Y. Takahashi, Y. Aoki, T. Hasegawa et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 2458 (2003).",
+				"tr":  "Y. Takahashi, Y. Aoki, T. Hasegawa et al., IEEE Trans. on Appl. Supercond., 13, No. 2: 2458 (2003)."
+			}
+		]
+	}
+}

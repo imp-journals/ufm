@@ -1,0 +1,35 @@
+{
+	"year":   2015,
+	"volume": 16,
+	"issue":  3,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [175,227],
+			"title": {
+				"ua": "Структура, фазовий склад і властивості поверхневих шарів титану після електропідривного леґування Ітрієм та електронно-пучкового оброблення",
+				"en": "Structure, Phase Composition and Properties of Surface Layers of the Titanium after Electroexplosive Doping with Yttrium and Electron-Beam Processing",
+				"ru": "Структура, фазовый состав и свойства поверхностных слоёв титана после электровзрывного легирования иттрием и электронно-пучковой обработки"
+			},
+			"autors": {
+				"ua": "В. Є. Громов, К. В. Соснін, Ю. Ф. Іванов, О. А. Семіна",
+				"en": "V. E. Gromov, K. V. Sosnin, Yu. F. Ivanov, and O. A. Semina",
+				"ru": "В. Е. Громов, К. В. Соснин, Ю. Ф. Иванов, О. А. Семина"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [229,264],
+			"title": {
+				"ua": "Теорія фононів у металах",
+				"en": "The Theory of Phonons in Metals",
+				"ru": "Теория фононов в металлах"
+			},
+			"autors": {
+				"ua": "С. М. Січкар",
+				"en": "S. M. Sichkar",
+				"ru": "С. М. Сичкар"
+			}
+		}
+	]
+}

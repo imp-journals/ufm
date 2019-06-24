@@ -1,0 +1,49 @@
+{
+	"year":   2008,
+	"volume": 9,
+	"issue":  4,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [371,422],
+			"title": {
+				"ua": "Макрольокалізація пластичної деформації та стадійність пластичної течії в полікристалічних металах і стопах",
+				"en": "Macrolocalization of Plastic Deformation and Staging of Plastic Flow in Polycrystalline Metals and Alloys",
+				"ru": "Макролокализация пластической деформации и стадийность пластического течения в поликристаллических металлах и сплавах"
+			},
+			"autors": {
+				"ua": "В. І. Данилов, Л. Б. Зуєв",
+				"en": "V. І. Danilov and L. B. Zuev",
+				"ru": "В. И. Данилов, Л. Б. Зуев"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [423,450],
+			"title": {
+				"ua": "Про внесок В. Н. Гріднєва й В. Д. Садовського в розвиток робіт у галузі фазових і структурних перетворень в сталях і стопах у нерівноважних умовах",
+				"en": "On V. N. Gridnev’s and V. D. Sadovskiy’s Contribution to Development of Works in the Field of Phase and Structural Transformations in Steels and Alloys under Nonequilibrium Conditions",
+				"ru": "О вкладе В. Н. Гриднева и В. Д. Садовского в развитие работ в области фазовых и структурных превращений в сталях и сплавах в неравновесных условиях"
+			},
+			"autors": {
+				"ua": "С. П. Ошкадьоров",
+				"en": "S. P. Oshkadyorov",
+				"ru": "С. П. Ошкадеров"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [451,457],
+			"title": {
+				"ua": "В. Н. Гріднєв і педагогічна школа підготовки фахівців у КПІ з металознавства, термічної обробки й фізики металів",
+				"en": "V. N. Gridnev and Pedagogical School of Training of Specialists in Kyiv Polytechnic Institute in Physical Metallurgy, Heat Treatment and Metal Physics",
+				"ru": "В. Н. Гриднев и педагогическая школа подготовки специалистов в КПИ по металловедению, термической обработке и физике металлов"
+			},
+			"autors": {
+				"ua": "О. В. Білоцький",
+				"en": "О. V. Bilots’kyy",
+				"ru": "А. В. Белоцкий"
+			}
+		}
+	]
+}

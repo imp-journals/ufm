@@ -1,0 +1,255 @@
+{
+	"_id":    "UFM.15.03.145",
+	"year":   2014,
+	"volume": 15,
+	"issue":  3,
+	"pages":  [145,172],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["04.08.2014"],
+	"PACS":   "05.70.Ce, 05.70.Ln, 64.60.Ej, 64.70.kd, 64.75.Op, 66.30.J-, 81.10.Jt",
+	"title":   {
+		"ua": "Моделі та характеристики переривчастого перетворення аустеніту в залізовуглецевих стопах",
+		"en": "Models and Characteristics of Discontinuous Transformation of Austenite in Iron–Carbon Alloys",
+		"ru": "Модели и характеристики прерывистого превращения аустенита в железоуглеродистых сплавах"
+	},
+	"abstract": {
+		"ua": "Аналіза значної кількости праць, яких присвячено переривчастому перетворенню аустеніту, уможливлює визначити основні характеристики такого перетворення. Пластинчаста структура, що формується при переривчастому перетворенні аустеніту (перліт) є термодинамічно нестійкою, тому що має дуже значну протяжність міжфазних меж. Перліт утворюється у вигляді окремих колоній, тобто ділянок, в яких платівки $\\alpha$-заліза та цементиту приблизно паралельні та в яких міжплатівкова відстань $(S_0)$ залежить від швидкости охолодження. Зенер запропонував співвідношення для міжплатівкової відстані, як функції величини переохолодження криці у вигляді $S_0 \\varpropto \\Delta T^{-1} $. Експериментальні результати демонструють, одначе, що виміряні значення міжплатівкової відстані перліту є значно більшими за тих, що пропонує Зенерів модель. Авторами знайдено температурну залежність для міжплатівкової відстані перліту, як функції величини переохолодження стопу, у вигляді $S_0 \\varpropto (D/\\Delta T)^{1/2}$, що відповідає експериментальним даним. Важливою кінетичною характеристикою перетворення аустеніту є швидкість росту перліту $v$. Величину швидкости росту було одержано Мейлом у вигляді $v = KS_0^{-1}$. У наступних роботах вченими віднайдено різні розв’язки рівняння дифузії Карбону в аустеніті, які уможливили встановити значення коефіцієнту $K$ та врахувати вплив додаткових факторів — структурних напружень (Б.Я. Любов), кількости неметалевих включень (В.Є. Ольшанецький), що підвищує точність розрахунків. Розроблений авторами дифузійний модель переривчастого перетворення аустеніту уможливив пояснити утворення перліту та бейніту в залізовуглецевих стопах в одному й тому ж інтервалі температур. Теоретично знайдено залежність швидкости росту $\\alpha$-фази від величини переохолодження криці у вигляді $v \\varpropto \\Delta T \\exp^{-Q/(2RT)}$.",
+		"en": "The analysis of significant amount of works dealing with intermittent transformation of austenite allows determining the following basic characteristics of such transformation. The lamellar structure of perlite formed at intermittent transformation of austenite is thermodynamically unstable, since it has the very large extent of interphase boundaries. Perlite is formed as the separate colonies, i.e. areas, where $\\alpha$-iron and cementite plates are approximately parallel and interplate (interlamellar) distance $(S_0)$ depends on cooling speed. Zener has suggested a relation for the interlamellar distance as a function of the steel overcooling value, $S_0 \\varpropto \\Delta T^{-1} $. The experimental results demonstrate, however, that the measured values of interlamellar distance of perlite are much larger than the values, which are proposed within the Zener model. The authors found the temperature dependence of interlamellar distance of perlite as a function of the overcooling value of alloy, $S_0 \\varpropto (D/\\Delta T)^{1/2}$, that is in agreement with experimental data. The growth rate of perlite $v$ is an important kinetic characteristic of austenite transformation process. The value of the growth rate has been obtained by Меhl as $v = KS_0^{-1}$. In the subsequent works, the scientists found various solutions of equation for carbon diffusion in austenite, which allow determining the value of the $K$-coefficient and to take into account effects of additional factors—structural strains (B. Ya. Lyubov), non-metallic inclusions (V. E. Ol’shanetskiy), herewith improving the accuracy of calculations. The authors develop the diffusion model of intermittent transformation of austenite, which allows explain- ing the formation of perlite and bainitе in iron–carbon alloys in the same temperature interval. The temperature dependence of the growth rate of $\\alpha$-phase on the steel overcooling value is found theoretically as $v \\varpropto \\Delta T \\exp^{-Q/(2RT)}$.",
+		"ru": "Анализ значительного количества работ, посвящённых прерывистому превращению аустенита, позволяет определить основные характеристики такого превращения. Формирующаяся при прерывистом распаде аустенита пластинчатая структура (перлит) является термодинамически неустойчивой, так как имеет очень большую протяжённость межфазных границ. Перлит образуется в виде отдельных колоний, т.е. областей, в которых пластины $\\alpha$-железа и цементита приблизительно параллельны и в которых межпластинчатое расстояние $(S_0)$ зависит от￼скорости охлаждения. Зенер предложил соотношение между межпластинчатым расстоянием и величиной переохлаждения стали $S_0 \\varpropto \\Delta T^{-1} $. Экспериментальные результаты показывают, однако, что измеренные значения межпластинчатого расстояния перлита значительно больше тех значений, которые даёт модель Зенера. Авторами найдена температурная зависимость межпластинчатого расстояния перлита от величины переохлаждения сплава в виде $S_0 \\varpropto (D/\\Delta T)^{1/2}$, соответствующая экспериментальным данным. Важной кинетической характеристикой процесса превращения аустенита является скорость роста перлита $v$. Величина скорости роста была получена Мейлом в виде $v = KS_0^{-1}$. В последующих работах учёными найдены различные решения уравнения диффузии углерода в аустените, позволяющие определить величину коэффициента $K$ и учесть влияние дополнительных факторов — структурных напряжений (Б. Я. Любов), количества неметаллических включений (В. Е. Ольшанецкий), что повышает точность расчётов. Разрабатываемая авторами диффузионная модель прерывистого превращения аустенита позволила объяснить образование перлита и бейнита в железоуглеродистых сплавах в одном и том же интервале температур. Теоретически найдена зависимость скорости роста $\\alpha$-фазы от величины переохлаждения стали в виде $v \\varpropto \\Delta T \\exp^{-Q/(2RT)}$."
+	},
+	"keywords": {
+		"ua": "-",
+		"en": "diffusion model, austenite transformation, interlamellar distance, pearlite growth rate, bainite",
+		"ru": "диффузионная модель, превращение аустенита, межпластинчатое расстояние, скорость роста перлита, бейнит"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. В. Бобирь", "en": "S. V. Bobyr", "ru": "С. В. Бобырь"},
+			"OID": [14]
+		},
+		{
+			"AID": {"ua": "В. І. Большаков", "en": "V. I. Bol’shakov", "ru": "В. И. Большаков"},
+			"OID": [225]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.15407/mfint.38.07.0981",
+				"cit": "S. V. Bobyr and V. I. Bolshakov, <a href=\"https://doi.org/10.15407/mfint.38.07.0981\">Metallofiz. Noveishie Tekhnol. <b>38</b>, 981 (2016)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 41,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, Л. М. Утевский, Р. И. Энтин, Превращения в железе и стали (Москва: Наука: 1977).",
+				"tr":  "G. V. Kurdyumov, L. M. Utevskiy, and R. Y. Ehntin, Prevrashcheniya v Zheleze i Stali [Transformations in Iron and Steel] (Moscow: Nauka: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Я. Любов, Кинетическая теория фазовых превращений (Москва: Металлургия: 1969).",
+				"tr":  "B. Ya. Lyubov, Kineticheskaya Teoriya Fazovykh Prevrashcheniy [Kinetic Theory of Phase Transformations] (Moscow: Metallurgiya: 1969) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. С. Уманский, Ю. А. Скаков, Физика металлов. Атомное строение металлов и сплавов: Учебник для вузов (Москва: Атомиздат: 1978).",
+				"tr":  "Ya. S. Umanskiy and Yu. A. Skakov, Fizika Metallov. Atomnoe Stroenie Metallov i Splavov: Uchebnik dlya Vuzov [Physics of Metals. Atomic Structure of Metals and Alloys: Textbook for Universities] (Moscow: Atomizdat: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Л. Ройтбурд, Академик Георгий Вячеславович Курдюмов. Страницы жизни: Воспоминания (Москва: Наука: 2004).",
+				"tr":  "A. L. Roytburd, Akademik Georgiy Vyacheslavovich Kurdyumov. Stranitsy zhyzni: Vospominaniya [Academician Georgiy Vyacheslavovich Kurdyumov. Pages of Life: Memoirs] (Moscow: Nauka: 2004) (in Russian)."
+			},
+			{
+				"doi": "10.1180/minmag.1924.020.104.02",
+				"or":  "N. T. Belaiew, Mineralogical Magazine, No. 20: 173 (1924).",
+				"tr":  "N. T. Belaiew, Mineralogical Magazine, No. 20: 173 (1924)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Smith, Trans. ASM, 45: 533 (1953).",
+				"tr":  "C. Smith, Trans. ASM, 45: 533 (1953)."
+			},
+			{
+				"doi": "",
+				"or":  "К. П. Бунин, Ю. К. Бунина, В. И. Мазур, МиТОМ, № 10: 6 (1971).",
+				"tr":  "K. P. Bunin, Yu. K. Bunina, and V. I. Mazur, MiTOM, No. 10: 6 (1971) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Ф. Мейл, У. К. Хагель, Успехи физики металлов (Москва: ГосНТИ: 1960), т. 3.",
+				"tr":  "R. F. Meyl and U. K. Hagel', Uspekhi Fiziki Metallov [Progress in Physics of Metals] (Moscow: GosNTI: 1960), vol. 3 (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Л. Миркин, Труды Московского института стали. Сб. ХVIII (Москва: МИСиС: 1941).",
+				"tr":  "I. L. Mirkin, Trudy Moskovskogo Instituta Stali. Sb. KhVIII [Proceedings of the Moscow Institute of Steel. Collection KhVIII] (Moscow: MISiS: 1941)."
+			},
+			{
+				"doi": "",
+				"or":  "F. C. Hull and R. F. Mehl, Trans. Amer. Soc. Metals, 30: 381 (1942).",
+				"tr":  "F. C. Hull and R. F. Mehl, Trans. Amer. Soc. Metals, 30: 381 (1942)."
+			},
+			{
+				"doi": "",
+				"or":  "R. F. Mehl, Hardenability of Alloy Steels (Cleveland: Amer. Soc. Metals: 1938).",
+				"tr":  "R. F. Mehl, Hardenability of Alloy Steels (Cleveland: Amer. Soc. Metals: 1938)."
+			},
+			{
+				"doi": "10.1063/1.1707565",
+				"or":  "W. H. Brandt, J. Applied Physics, 16: 139 (1945).",
+				"tr":  "W. H. Brandt, J. Applied Physics, 16: 139 (1945)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Бобырь, Строительство, материаловедение, машиностроение: Сб. научных трудов (Днепропетровск: ПГаСиА: 2004), вып. 26, ч. 1, с. 363.",
+				"tr":  "S. V. Bobyr, Stroitelstvo, Materialovedenie, Mashinostroenie: Sb. Nauchnykh Trudov [Construction, Material Science, Machine Building: Collected Scientific Papers] (Dnipropetrovsk: PGaSiA: 2004), Iss. 26, part 1, p. 363 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. І. Ковальчик, М. І. Пашечко, Евтектика ІV: Збірка праць міжн. конф. (24–26 червня, 1997) (Дніпропетровськ: ДМетАУ: 1997), с. 65.",
+				"tr":  "Yu. I. Kovalchyk and M. I. Pashechko, Evtektyka IV: Zbirka Prats' Mizhnarodnoi Konferentsii [Eutectic IV: Proceeding of the International Conference] (24–26 June, 1997) (Dnipropetrovsk: DMetAU: 1997), p. 65 (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Бобырь, Строительство, материаловедение, машиностроение: Сб. научных трудов (Днепропетровск: ПГаСиА: 2003), вып. 22, ч. 2, с. 60.",
+				"tr":  "S. V. Bobyr, Stroitelstvo, Materialovedenie, Mashinostroenie: Sb. Nauchnykh Trudov [Construction, Material Science, Machine Building: Collected Scientific Papers] (Dnipropetrovsk: PGaSiA: 2004), Iss. 22, part 2, p. 60 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Zener, Trans. AIME, 167: 513 (1946).",
+				"tr":  "C. Zener, Trans. AIME, 167: 513 (1946)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Hillert, Jerncontorets Ann., 141, No. 11: 755 (1957).",
+				"tr":  "M. Hillert, Jerncontorets Ann., 141, No. 11: 755 (1957)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. У. Кристиан, Физическое металловедение. Том 2. Фазовые превращения (Москва: Мир: 1968).",
+				"tr":  "J. W. Christian, Fizicheskoe Metallovedenie. T. 2. Fazovye Prevrashcheniya [Physical Metallurgy. Vol. 2. Phase Transformations] (Moscow: Mir: 1968) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Önsager, Phase Transformations in Solids: Conference (Cornell, Ithaca, NY: Wiley: 1951), p. 37.",
+				"tr":  "L. Önsager, Phase Transformations in Solids: Conference (Cornell, Ithaca, NY: Wiley: 1951), p. 37."
+			},
+			{
+				"doi": "10.1016/0001-6160(55)90011-0",
+				"or":  "D. Turnball, Acta Met., 3: 43 (1955).",
+				"tr":  "D. Turnball, Acta Met., 3: 43 (1955)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Большаков, С. В. Бобырь, МиТОМ, № 8: 11 (2004).",
+				"tr":  "V. Y. Bolshakov and S. V. Bobyr, MiTOM, No. 8: 11 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. И. Энтин, Превращения аустенита в стали (Москва: ГНТИ: 1960).",
+				"tr":  "R. I. Ehntin, Prevrashcheniya Austenita v Stali [Transformation of Austenite in Steel] (Moscow: GNTI: 1960) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Ольшанецкий, Нові матеріали і технології в металургії та машинобудуванні, № 1: 14 (2002).",
+				"tr":  "V. E. Olshanetskiy, Novi Materialy i Tekhnologii v Metalurgii ta Mashynobuduvanni, No. 1: 14 (2002) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Ольшанецкий, МиТОМ, № 3: 3 (2003).",
+				"tr":  "V. E. Olshanetskiy, MiTOM, No. 3: 3 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Е. Бурке, Д. Тарнбалл, Успехи физики металлов (Москва: Металлургиздат: 1956), т. 1, с. 368.",
+				"tr":  "J. E. Burke and D. Turnball, Uspekhi Fiziki Metallov [Progress in Metal Physics] (Moscow: Metallurgizdat: 1956), vol. 1, p. 368 (Russian translation)."
+			},
+			{
+				"doi": "10.1016/0001-6160(56)90107-9",
+				"or":  "W. S. Hagel, G. M. Pound, and R. F. Mehl, Acta Met., 4: No. 1: 37 (1956).",
+				"tr":  "W. S. Hagel, G. M. Pound, and R. F. Mehl, Acta Met., 4, No. 1: 37 (1956)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Салли, Физические основы формирования структуры сплавов (Москва: Металлургиздат: 1963).",
+				"tr":  "I. V. Salli, Fizicheskie Osnovy Formirovaniya Struktury Splavov [Physical Foundations of Alloy Structure] (Moscow: Metallurgizdat: 1963) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Кононенко, В. Е. Ольшанецкий, Нові матеріали і технології в металургії та машинобудуванні, № 1: 37 (2010).",
+				"tr":  "Yu. I. Kononenko and V. E. Olshanetskiy, Novi Materialy i Tekhnologii v Metalurgii ta Mashynobuduvanni, No. 1: 37 (2010) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "R. F. Mehl, F. C. Hull, and R. A. Coltun, Trans. AIME, 150, No. 1: 185 (1942).",
+				"tr":  "R. F. Mehl, F. C. Hull, and R. A. Coltun, Trans. AIME, 150, No. 1: 185 (1942)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ю. Борисенко, М. Ф. Евсюков, Г. В. Левченко, Строительство, материаловедение, машиностроение: Сб. научных трудов (Днепропетровск: ПГАСА: 2005), вып. 32, ч. 1., с. 85.",
+				"tr":  "A. Yu. Borisenko, M. F. Evsyukov, and G. V. Levchenko, Stroitel'stvo, Materialovedenie, Mashynostroenie: Sb. Nauchnykh Trudov [Construction, Materials Science, Machine Building: Collected Scientific Papers] (Dnipropetrovsk: PGASA: 2005), Iss. 32, part 1, p. 85 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Александров, Б. Я. Любов, ДАН СССР, 151, № 3: 552 (1963).",
+				"tr":  "L. N. Aleksandrov and B. Ya. Lyubov, Doklady AN SSSR, 151, No. 3: 552 (1963) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Большаков, С. В. Бобырь, Металознавство та термічна обробка металів: Науков. та інформ. бюл. ПДАБА (Дніпропетровськ: ПДАБА: 2005), № 2: 27.",
+				"tr":  "V. I. Bolshakov and S. V. Bobyr, Metaloznavstvo ta Termichna Obrobka Metaliv: Naukov. ta Inform. Byul. PDABA [Physical Metallurgy and Heat Treatment of Metals: Scientific and Information Bulletin PDABA] (Dnipropetrovsk: PDABA, 2005), No. 2, p. 27 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Бобырь, Фундаментальные и прикладные проблемы черной металлургии: Сб. научных трудов (Днепропетровск: Изд. ИЧМ: 2006), вып. 13: 241.",
+				"tr":  "S. V. Bobyr, Fundamentalnye i Prikladnye Problemy Chyornoy Metallurgii: Sb. Nauchnykh Trudov [Fundamental and Applied Problems of Ferrous Metallurgy: Collected Scientific Papers] (Dnipropetrovsk: Izd. IChM: 2006), Iss. 13, p. 241 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Е. Попова, А. А. Попов, Диаграммы превращения аустенита в сталях и бета-растворах в сплавах титана: Справочник термиста (Москва: Металлургия: 1991).",
+				"tr":  "L. E. Popova and A. A. Popov, Diagrammy Prevrashcheniya Austenita v Stalyakh i Beta-Rastvorakh v Splavakh Titana. Spravochnik Termista [Diagrams of Transformation of Austenite in Steels and Beta-Solutions in Titanium Alloys: Heat-Treater Handbook] (Moscow: Metallurgiya: 1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Счастливцев, Д. А. Мирзаев, И. Л. Яковлева, К. Ю. Окишев, Т. И. Табатчикова, Ю. В. Хлебникова, Перлит в углеродистых сталях (Екатеринбург: УрО РАН: 2006).",
+				"tr":  "V. M. Schastlivtsev, D. A. Mirzaev, I. L. Yakovleva, K. Yu. Okishev, T. I. Tabatchikova, and Yu. V. Khlebnikova, Perlit v Uglerodistykh Stalyakh [Perlite in Carbon Steels] (Ekaterinburg: Ural Branch of RAN: 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Бобырь, Фундаментальные и прикладные проблемы черной металлургии: Сб. научных трудов (Киев: Наукова думка: 2008), вып. 18: 257.",
+				"tr":  "S. V. Bobyr, Fundamentalnye i Prikladnye Problemy Chyornoy Metallurgii: Sb. Nauchnykh Trudov [Fundamental and Applied Problems of Ferrous Metallurgy: Collected Scientific Papers] (Kyiv: Naukova Dumka: 2008), Iss. 18, p. 257 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Бобырь, В. И. Большаков, Нові матеріали і технології в металургії та машинобудуванні, № 1: 21 (2012).",
+				"tr":  "S. V. Bobyr and V. I. Bolshakov, Novi Materialy i Tekhnologii v Metalurgii ta Mashynobuduvanni, No. 1: 21 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Большаков, К. Ф. Стародубов, М. А. Тылкин, Термическая обработка строительной стали повышенной прочности (Москва: Металлургия: 1977).",
+				"tr":  "V. I. Bolshakov, K. F. Starodubov, and M. A. Tylkin, Termicheskaya Obrabotka Stroitel'noy Stali Povyshennoy Prochnosti [Heat Treatment of Constructional High-Strength Steel] (Moscow: Metallurgiya: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "H. D. K. H. Bhadeshia, Bainite in Steels (Cambridge: The University Press: 2001).",
+				"tr":  "H. D. K. H. Bhadeshia, Bainite in Steels (Cambridge: The University Press: 2001)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Zotov, O. Uzlov, V. Bolshakov, A. Weiss, and P. R. Sheller, Proc. of the 59th Int. Conf. ‘Freiberger Forschungsforum Berg- und Hüttenmännischer Tag (BHT-2008)’ (11–13 July, 2008, Freiberg), p. 238.",
+				"tr":  "D. Zotov, O. Uzlov, V. Bolshakov, A. Weiss, and P. R. Sheller, Proc. of the 59th Int. Conf. 'Freiberger Forschungsforum Berg- und Hüttenmännischer Tag (BHT-2008)' (11–13 July, 2008, Freiberg), p. 238."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Счастливцев, Д. А. Мирзаев, И. Л. Яковлева, Структура термически обработанной стали (Москва: Металлургия: 1994).",
+				"tr":  "V. M. Schastlivtsev, D. A. Mirzaev, and I. L. Yakovleva, Struktura Termicheski Obrabotannoy Stali [Structure of the Heat-Treated Steel] (Moscow: Metallurgiya: 1994) (in Russian)."
+			}
+		]
+	}
+}

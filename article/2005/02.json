@@ -1,0 +1,49 @@
+{
+	"year":   2005,
+	"volume": 6,
+	"issue":  2,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [105,134],
+			"title": {
+				"ua": "Вплив поляризаційної взаємодії на спектроскопію екситонів у квазинульмірних системах",
+				"en": "Influence of Polarizing Interaction on Spectroscopy of Excitons in Quasi-Zero-Dimensional Systems",
+				"ru": "Влияние поляризационного взаимодействия на спектроскопию экситонов в квазинульмерных системах"
+			},
+			"autors": {
+				"ua": "А. П. Шпак, С. И. Покутний",
+				"en": "A. P. Shpak and S. I. Pokutnyi",
+				"ru": "А. П. Шпак, С. И. Покутний"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [135,168],
+			"title": {
+				"ua": "Оптична та магнетооптична спектроскопія наноструктурних багатошарових плівок: можливі застосування",
+				"en": "Optical and Magnetooptical Spectroscopy of the Nanostructural Multilayered Films: Possible Applications",
+				"ru": "Оптическая и магнитооптическая спектроскопия наноструктурных многослойных пленок: возможные приложения"
+			},
+			"autors": {
+				"ua": "Ю. В. Кудрявцев, В. М. Уваров, Р. Гонтарц, Я. Дубовік, Й. П. Лі, Дж. Й. Рі, Ю. Н. Макогон, Е. П. Павлова",
+				"en": "Yu. V. Kudryavtsev, V. M. Uvarov, R. Gontarz, J. Dubowik, Y. P. Lee, J. Y. Rhee, Yu. N. Makogon, and E. P. Pavlova",
+				"ru": "Ю. В. Кудрявцев, В. Н. Уваров, Р. Гонтарц, Я. Дубовик, Й. П. Ли, Дж. Й. Ри, Ю. Н. Макогон, Е. П. Павлова"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [169,196],
+			"title": {
+				"ua": "Особливості релаксаційних процесів при мартенситному перетворенні",
+				"en": "Features of Relaxation Processes During Martensitic Transformation",
+				"ru": "Особенности релаксационных процессов при мартенситном превращении"
+			},
+			"autors": {
+				"ua": "Ю. М. Коваль",
+				"en": "Yu. M. Koval’",
+				"ru": "Ю. Н. Коваль"
+			}
+		}
+	]
+}

@@ -1,0 +1,275 @@
+{
+	"_id":    "UFM.02.01.085",
+	"year":   2001,
+	"volume": 2,
+	"issue":  1,
+	"pages":  [85,108],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["27.10.2000"],
+	"PACS":   "68.35.Bs, 68.35.Dv, 68.35.Gy, 68.35.Ja, 68.35.Rh, 75.70.Rf",
+	"title":   {
+		"ua": "Реконструкція поверхні: благородні метали",
+		"en": "Surface Reconstruction: Noble Metals",
+		"ru": "Реконструкция поверхности: благородные металлы"
+	},
+	"abstract": {
+		"ua": "В обзорі розглянуто останні досягнення в дослідженні реконструкційніх фазових перетворень в поверхневих шарах монокристалів Pt, Ir та Au. Наведено результати, які отримані за допомогою різних повехнево-чутливих експериментальних методів. Найбільш детально розглянуто питання, що відносяться до кінетики, енергії активації, геометричних моделей, критичних параметрів 2D-фазових перетворень. Представлено також результати теоретичних досліджень, що базовані на 2D-моделі Ізінга, методі зануреного атому та моделюванні за методом Монте-Карло.",
+		"en": "The paper reviews the most important achievements in the study of the surface-reconstruction phase transition on the low-index single crystals of Pt, Ir, and Au. A number of methods very sensitive to the surface layers are used to study the stable and metastable structures of the (100), (110), and (111) faces. Detailed consideration of the kinetics, critical parameters, activation energy, and geometrical models for 2D-surface phase transitions are presented. Main theoretical results based on the Ising 2D-model, calculations of the free energy with an embedded-atom method, and equilibrium Monte Carlo simulations are also given.",
+		"ru": "В обзоре рассмотрены последние достижения в исследовании реконструкционных фазовых превращений в поверхностных слоях монокристаллов Pt, Ir и Au. Приведены результаты, полученные с помощью различных поверхностно-чувствительных экспериментальных методов. Наиболее подробно рассмотрены вопросы, относящиеся к кинетике, энергии активации, геометрическим моделям, критическим параметрам 2D-фазовых превращений. Представлены также результаты теоретических исследований, основанных на 2D-модели Изинга, методе внедренного атома и моделировании методом Монте-Карло."
+	},
+	"keywords": {
+		"ua": "поверхневий фазовий перехід, поверхнева реконструкція, низькоенергетична електронна дифракція, модель Ізінга, 2$D$-симетрія",
+		"en": "surface phase transition, surface reconstruction, low-energy electron diffraction, Ising model, 2$D$-symmetry",
+		"ru": "поверхностный фазовый переход, поверхностная реконструкция, низкоэнергетическая электронная дифракция, модель Изинга, 2$D$-симметрия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. О. Васильєв", "en": "M. O. Vasyl`yev", "ru": "М. А. Васильев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. Б. Бондарчук", "en": "A. B. Bondarchuk", "ru": "А. Б. Бондарчук"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. А. Тіньков", "en": "V. A. Tinkov", "ru": "В. А. Тиньков"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 46,
+				"list":  [
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, Структура и динамика поверхности переходных металлов (Киев: Наукова думка: 1988).",
+				"tr":  "M. A. Vasil'ev, Struktura i dinamika poverkhnosti perekhodnykh metallov (Kiev: Naukova dumka: 1988)."
+			},
+			{
+				"doi": "10.1088/0022-3727/30/22/002",
+				"or":  "M. A. Vasylyev, J. Phys. D: Appl. Phys., 30: No. 22: 3037 (1997).",
+				"tr":  "M. A. Vasylyev, J. Phys. D: Appl. Phys., 30: No. 22: 3037 (1997)."
+			},
+			{
+				"doi": "10.1016/S0039-6028(98)00562-7",
+				"or":  "F. Nieto, C. Uebing, and V. Pereyra, Surface Sci., 416: No. 1–2: 152 (1998).",
+				"tr":  "F. Nieto, C. Uebing, and V. Pereyra, Surface Sci., 416: No. 1–2: 152 (1998)."
+			},
+			{
+				"doi": "10.1016/S0169-4332(98)00518-2",
+				"or":  "N. Spiridis and J. Korecki, Appl. Surface Sci., 141: No. 3–4: 313 (1999).",
+				"tr":  "N. Spiridis and J. Korecki, Appl. Surface Sci., 141: No. 3–4: 313 (1999)."
+			},
+			{
+				"doi": "10.1016/S0039-6028(99)00620-2",
+				"or":  "D. Alfu and S. Gironcoli, Surface Sci., 437: No. 1–2: 18 (1999).",
+				"tr":  "D. Alfu and S. Gironcoli, Surface Sci., 437: No. 1–2: 18 (1999)."
+			},
+			{
+				"doi": "10.1016/S0039-6028(00)00456-8",
+				"or":  "M. Lynch and P. Hu, Surface Sci., 458: No. 1–3: 1 (2000).",
+				"tr":  "M. Lynch and P. Hu, Surface Sci., 458: No. 1–3: 1 (2000)."
+			},
+			{
+				"doi": "10.1142/S0218625X96002795",
+				"or":  "B. E. Nieuwenhuys, Surface Rev. and Lett., 3: No. 5–6: 1869 (1996).",
+				"tr":  "B. E. Nieuwenhuys, Surface Rev. and Lett., 3: No. 5–6: 1869 (1996)."
+			},
+			{
+				"doi": "10.1016/S0360-0564(08)60514-3",
+				"or":  "B. E. Nieuwenhuys, Advances in Catalysis, 44: 259 (2000).",
+				"tr":  "B. E. Nieuwenhuys, Advances in Catalysis, 44: 259 (2000)."
+			},
+			{
+				"doi": "10.1016/S0039-6028(99)00310-6",
+				"or":  "C. Becker, T. Pelster, M. Taneumura et al., Surface Sci., 427–428: No. 1–3: 403 (1999).",
+				"tr":  "C. Becker, T. Pelster, M. Taneumura et al., Surface Sci., 427–428: No. 1–3: 403 (1999)."
+			},
+			{
+				"doi": "10.1006/jcat.1999.2463",
+				"or":  "D. K. Captain and M. D. Amiridis, J. Catalysis, 184: 377 (1999).",
+				"tr":  "D. K. Captain and M. D. Amiridis, J. Catalysis, 184: 377 (1999)."
+			},
+			{
+				"doi": "10.1016/0039-6028(81)90107-2",
+				"or":  "M. A. Van Hove, R. J. Koester, P. S. Stair et al., Surface Sci., 103: No. 1: 189 (1981).",
+				"tr":  "M. A. Van Hove, R. J. Koester, P. S. Stair et al., Surface Sci., 103: No. 1: 189 (1981)."
+			},
+			{
+				"doi": "10.1016/0378-5963(82)90106-4",
+				"or":  "K. Heinz, E. Lang, K. Strayss et al., Appl. Surface Sci., 11–12: 611 (1982).",
+				"tr":  "K. Heinz, E. Lang, K. Strayss et al., Appl. Surface Sci., 11–12: 611 (1982)."
+			},
+			{
+				"doi": "10.1016/0039-6028(82)90264-3",
+				"or":  "K. Heinz, E. Lang, K. Strayss et al., Surface Sci., 120: 401 (1982).",
+				"tr":  "K. Heinz, E. Lang, K. Strayss et al., Surface Sci., 120: 401 (1982)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.32.6214",
+				"or":  "K. Heinz, G. Schmidi, L. Hammer et al., Phys. Rev. B, 32: No. 10: 6214 (1982).",
+				"tr":  "K. Heinz, G. Schmidi, L. Hammer et al., Phys. Rev. B, 32: No. 10: 6214 (1982)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.42.7330",
+				"or":  "D. Gibbs, B. M. Ocko, D. M. Zehner et al., Phys. Rev. B, 42: No. 12: 7330 (1990).",
+				"tr":  "D. Gibbs, B. M. Ocko, D. M. Zehner et al., Phys. Rev. B, 42: No. 12: 7330 (1990)."
+			},
+			{
+				"doi": "10.1016/0039-6028(90)90665-U",
+				"or":  "L. D. Roelofs, S. M. Foiles, M. S. Daw et al., Surface Sci., 234: 63 (1990).",
+				"tr":  "L. D. Roelofs, S. M. Foiles, M. S. Daw et al., Surface Sci., 234: 63 (1990)."
+			},
+			{
+				"doi": "10.1016/0039-6028(78)90325-4",
+				"or":  "D. Wolf and H. Jagondzinski, Surface Sci., 71: No. 1: 178 (1978).",
+				"tr":  "D. Wolf and H. Jagondzinski, Surface Sci., 71: No. 1: 178 (1978)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.54.2684",
+				"or":  "J. C. Campuzano, M. S. Foster, G. Jennings et al., Phys. Rev. Lett., 54: No. 25: 2684 (1985).",
+				"tr":  "J. C. Campuzano, M. S. Foster, G. Jennings et al., Phys. Rev. Lett., 54: No. 25: 2684 (1985)."
+			},
+			{
+				"doi": "10.1016/0039-6028(85)90939-2",
+				"or":  "J. C. Campuzano, G. Jennings, R. F. Willis et al., Surface Sci., 162: 484 (1985).",
+				"tr":  "J. C. Campuzano, G. Jennings, R. F. Willis et al., Surface Sci., 162: 484 (1985)."
+			},
+			{
+				"doi": "10.1016/0038-1098(79)90381-8",
+				"or":  "P. Bak, Solid State Communs, 32: 581 (1979).",
+				"tr":  "P. Bak, Solid State Communs, 32: 581 (1979)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.34.4379",
+				"or":  "D. E. Clark, W. P Unertl, and P. H. Kleban, Phys. Rev. B, 34: No. 6: 4379 (1986).",
+				"tr":  "D. E. Clark, W. P Unertl, and P. H. Kleban, Phys. Rev. B, 34: No. 6: 4379 (1986)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.36.2341",
+				"or":  "A. U. MacRae, Phys. Rev. B, 36: 2341 (1987).",
+				"tr":  "A. U. MacRae, Phys. Rev. B, 36: 2341 (1987)."
+			},
+			{
+				"doi": "10.1016/S0039-6028(87)80137-1",
+				"or":  "H. Derks, J. Möller, and W. Heiland, Surface Sci., 188: 685 (1987).",
+				"tr":  "H. Derks, J. Möller, and W. Heiland, Surface Sci., 188: 685 (1987)."
+			},
+			{
+				"doi": "10.1016/0039-6028(87)90006-9",
+				"or":  "T. T. Tsong and Q. Gao, Surface Sci., 182: 2257 (1987).",
+				"tr":  "T. T. Tsong and Q. Gao, Surface Sci., 182: 2257 (1987)."
+			},
+			{
+				"doi": "10.1209/0295-5075/7/4/015",
+				"or":  "K. Dückers and H. P. Bonzel, Europhys. Lett., 7: No. 4: 371 (1988).",
+				"tr":  "K. Dückers and H. P. Bonzel, Europhys. Lett., 7: No. 4: 371 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Riet van de, H. Derks, and W. Heiland, Surface Sci., 234: 53 (1990).",
+				"tr":  "E. Riet van de, H. Derks, and W. Heiland, Surface Sci., 234: 53 (1990)."
+			},
+			{
+				"doi": "10.1016/0039-6028(91)90704-V",
+				"or":  "D. T. Keane, P. A. Bancel, J. L. Jordan-Sweet et al., Surface Sci., 250: 8 (1991).",
+				"tr":  "D. T. Keane, P. A. Bancel, J. L. Jordan-Sweet et al., Surface Sci., 250: 8 (1991)."
+			},
+			{
+				"doi": "10.1016/0039-6028(88)90405-0",
+				"or":  "J. Villain, Surface Sci., 199: 165 (1988).",
+				"tr":  "J. Villain, Surface Sci., 199: 165 (1988)."
+			},
+			{
+				"doi": "10.1116/1.576718",
+				"or":  "J.-K. Zuo, Y.-L. He, and G.-C. Wang, J. Vac. Sci. Technol., 8: No. 3: 2474 (1990).",
+				"tr":  "J.-K. Zuo, Y.-L. He, and G.-C. Wang, J. Vac. Sci. Technol., 8: No. 3: 2474 (1990)."
+			},
+			{
+				"doi": "10.1116/1.573174",
+				"or":  "S. M. Foils and M. S. Daw, J. Vac. Sci. Technol. A, 3: 1565 (1985).",
+				"tr":  "S. M. Foils and M. S. Daw, J. Vac. Sci. Technol. A, 3: 1565 (1985)."
+			},
+			{
+				"doi": "10.1116/1.573585",
+				"or":  "M. S. Daw and S. M. Foils, J. Vac. Sci. Technol. A, 4: 1412 (1986).",
+				"tr":  "M. S. Daw and S. M. Foils, J. Vac. Sci. Technol. A, 4: 1412 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "S. M. Foils, Surface Sci., 191: L779 (1987).",
+				"tr":  "S. M. Foils, Surface Sci., 191: L779 (1987)."
+			},
+			{
+				"doi": "10.1016/0039-6028(86)90678-3",
+				"or":  "M. S. Daw, Surface Sci., 166: L161 (1986).",
+				"tr":  "M. S. Daw, Surface Sci., 166: L161 (1986)."
+			},
+			{
+				"doi": "10.1016/0039-6028(88)90405-0",
+				"or":  "J. Villain and I. Vilfan, Surface Sci., 199: 165 (1988).",
+				"tr":  "J. Villain and I. Vilfan, Surface Sci., 199: 165 (1988)."
+			},
+			{
+				"doi": "10.1016/S0039-6028(98)00538-X",
+				"or":  "T. Ali, A. V. Walker, B. Klötzer et al., Surface Sci., 414: No. 1–2: 304 (1998).",
+				"tr":  "T. Ali, A. V. Walker, B. Klötzer et al., Surface Sci., 414: No. 1–2: 304 (1998)."
+			},
+			{
+				"doi": "10.1016/S0039-6028(98)00727-4",
+				"or":  "A. G. Makeev and B. E. Nieuwenhuys, Surface Sci., 418: No. 2: 432 (1998).",
+				"tr":  "A. G. Makeev and B. E. Nieuwenhuys, Surface Sci., 418: No. 2: 432 (1998)."
+			},
+			{
+				"doi": "10.1016/S0039-6028(98)00764-X",
+				"or":  "Q. Ge, D. A. King, N. Marzari et al., Surface Sci., 418: No. 3: 529 (1998).",
+				"tr":  "Q. Ge, D. A. King, N. Marzari et al., Surface Sci., 418: No. 3: 529 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Gonzbler, J. de la Figuera, O. R. de la Fuente et al., Surface Sci., 429: No. 1–3: L486 (1999).",
+				"tr":  "M. A. Gonzbler, J. de la Figuera, O. R. de la Fuente et al., Surface Sci., 429: No. 1–3: L486 (1999)."
+			},
+			{
+				"doi": "10.1016/S0039-6028(99)00401-X",
+				"or":  "V. Jahns, D. M. Zehner, G. M. Watson et al., Surface Sci., 430: No. 1–3: 55 (1999).",
+				"tr":  "V. Jahns, D. M. Zehner, G. M. Watson et al., Surface Sci., 430: No. 1–3: 55 (1999)."
+			},
+			{
+				"doi": "10.1016/S0039-6028(99)00822-5",
+				"or":  "I. Vilfan, F. Lanzon, and E. Adam, Surface Sci., 440: No. 1–2: 279 (1999).",
+				"tr":  "I. Vilfan, F. Lanzon, and E. Adam, Surface Sci., 440: No. 1–2: 279 (1999)."
+			},
+			{
+				"doi": "10.1016/S0039-6028(99)00806-7",
+				"or":  "M. S. Zei and G. Ertl, Surface Sci., 442: No. 1: 19 (1999).",
+				"tr":  "M. S. Zei and G. Ertl, Surface Sci., 442: No. 1: 19 (1999)."
+			},
+			{
+				"doi": "10.1016/S0039-6028(99)01075-4",
+				"or":  "Meng-Sheng Liao, C. R. Cabrera, and Y. Ichikawa, Surface Sci., 445: No. 2–3: 267 (2000).",
+				"tr":  "Meng-Sheng Liao, C. R. Cabrera, and Y. Ichikawa, Surface Sci., 445: No. 2–3: 267 (2000)."
+			},
+			{
+				"doi": "10.1016/S0039-6028(00)00205-3",
+				"or":  "D. Passerone, F. Ercolessi, and E. Tosatti, Surface Sci., 454–456: No. 1–3: 634: (2000).",
+				"tr":  "D. Passerone, F. Ercolessi, and E. Tosatti, Surface Sci., 454–456: No. 1–3: 634: (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Salmeron and G. A. Somorjai, Surface Sci., 91: No. 2, 3: 373 (1980).",
+				"tr":  "M. Salmeron and G. A. Somorjai, Surface Sci., 91: No. 2, 3: 373 (1980)."
+			},
+			{
+				"doi": "10.1088/0034-4885/57/10/001",
+				"or":  "U. Bardi, Prog. Phys., 57: 939 (1994).",
+				"tr":  "U. Bardi, Prog. Phys., 57: 939 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Vasylyev, A. G. Blashchuk, O. P. Hryshchenko, and N. S. Mashovets, Phys. Low-Dim. Struct., 11, 12: 115 (1999).",
+				"tr":  "M. A. Vasylyev, A. G. Blashchuk, O. P. Hryshchenko, and N. S. Mashovets, Phys. Low-Dim. Struct., 11, 12: 115 (1999)."
+			}
+		]
+	}
+}

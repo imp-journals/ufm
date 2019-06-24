@@ -1,0 +1,353 @@
+{
+	"_id":    "UFM.08.01.021",
+	"year":   2007,
+	"volume": 8,
+	"issue":  1,
+	"pages":  [21,64],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["26.12.2006"],
+	"PACS":   "68.35.Fx, 68.55.Jk, 72.10.Fk, 72.15.Lh, 72.15.Qm, 73.40.Jn, 73.50.Bk",
+	"title":   {
+		"ua": "Транспортні розмірні ефекти у двошарових полікристалічних плівках",
+		"en": "Transport Size Effects in Double-Layer Polycrystalline Films",
+		"ru": "Транспортные размерные эффекты в двухслойных поликристаллическх плёнках"
+	},
+	"abstract": {
+		"ua": "В огляді систематизовано результати теоретичних досліджень транспортних розмірних ефектів у двошарових полікристалічних плівках (ДП), кінетичні характеристики яких суттєво відріжняються від відповідних характеристик масивних металів і тонких плівок. Однією з головних причин такої відмінности є взаємодія носіїв заряду із зовнішніми межами і межею поділу шарів металу (зовнішній розмірний ефект) та взаємодія електронів з міжкристалітними межами (внутрішній розмірний ефект). Така взаємодія призводить до додаткового розсіяння носіїв заряду, і транспортні коефіцієнти можуть бути значно менші (більші) за кінетичні коефіцієнти металів, з яких виготовлено окремі шари металу. Внаслідок зерномежової низькотемпературної взаємної дифузії металів в ДП розсівна здатність міжкристалітних меж змінюється, що призводить до зміни провідности двошарової плівки. Дослідження такої зміни дозволяє визначити коефіцієнт зерномежової дифузії. Теоретично розглянуті в огляді ефекти можна використати для аналізи транспортних ефектів у двошаровій полікристалічній плівці та для оцінки коефіцієнта зерномежової дифузії.",
+		"en": "We have systemized the results of theoretical investigations of different size effects in transport phenomena in bilayer polycrystalline films (BF), whose kinetic characteristics are essentially different as compared with the characteristics of bulk metals and thin films. A primary reason is a scattering of the charge carriers at both the external boundaries and the interlayer interface (the external size effect) and at the grain boundaries (the internal size effect). As a result of the scattering, the transport coefficients may be decreased (or increased) essentially with respect to the coefficients of metals, which formed the BF. The low-temperature grain-boundary interdiffusion of metals in bilayer films leads to some changes in the scattering power of the grain boundaries, and consequently, it leads to changes of the conductivity of the BF. Investigating the changes, we may determine the coefficients of the grain-boundary diffusion. The effects investigated theoretically in our review may be used for both the analysis of transport phenomena in bilayer polycrystalline films and the estimation of coefficients of the grain-boundary diffusion.",
+		"ru": "В обзоре систематизированы результаты теоретического исследования транспортных размерных эффектов в двухслойной поликристаллической пленке (ДП) кинетические характеристики которой существенно отличаются от соответствующих характеристик массивных металлов и тонких пленок. Одной из основных причин такого отличия является взаимодействие носителей заряда с внешними поверхностями и границей раздела (внешний размерный эффект) и взаимодействие электронов с межкристаллитными границами (внутренний размерный эффект). Такое взаимодействие приводит к дополнительному рассеянию носителей заряда, и транспортные коэффициенты могут быть значительно меньше (больше) кинетических коэффициентов металлов, из которых изготовлены отдельные слои металла. Вследствие низкотемпературной зернограничной взаимной диффузии металлов рассеивающая способность межкристаллитных границ изменяется, что приводит к изменению проводимости двухслойной пленки. Исследование такого изменения позволяет определить коэффициент зернограничной диффузии. Теоретически рассмотренные в обзоре эффекты могут быть использованы для анализа транспортных коэффициентов в двухслойной поликристаллической пленке и для оценки коэффициента зернограничной диффузии."
+	},
+	"keywords": {
+		"ua": "двошарова полікристалічна плівка, транспортні коефіцієнти, модель Маядаса і Шацкеса, зовнішній та внутрішній розмірний ефект, інтерфейс, зерномежова дифузія",
+		"en": "two-layer polycrystalline film, transport coefficients, Mayadas and Shazkes model, external and internal size effect, interface, grain-boundary diffusion",
+		"ru": "двухслойная поликристаллическая плёнка, транспортные коэффициенты, модель Маядаса и Шацкеса, внешний и внутренний размерный эффект, интерфейс, зернограничная диффузия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Л. В. Дехтярук", "en": "L. V. Dekhtyaruk", "ru": "Л. В. Дехтярук"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "І. Ю. Проценко", "en": "I. Yu. Protsenko", "ru": "И. Ю. Проценко"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "А. М. Чорноус", "en": "A. M. Chornous", "ru": "А. Н. Чорноус"},
+			"OID": [208]
+		}
+	],
+	"cited_by": {
+		"count":  2,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.11.04.461",
+				"cit": "A. G. Basov, Yu. O. Shkurdoda, L. V. Dekhtyaruk and A. M. Chornous, <a href=\"https://doi.org/10.15407/ufm.11.04.461\">Usp. Fiz. Met. <b>11</b>, 461 (2010)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.08.04.247",
+				"cit": "S. I. Protsenko, I. V. Cheshko, D. V. Velykodnyj, I. V. Pazukha <i>et al.</i>, <a href=\"https://doi.org/10.15407/ufm.08.04.247\">Usp. Fiz. Met. <b>8</b>, 247 (2007)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 59,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Ч. П. Пул, Ф. Дж. Оуэнс, Нанотехнологии (Москва: Техносфера: 2006).",
+				"tr":  "Ch. P. Pul, F. Dzh. Ouens, Nanotekhnologii (Moskva: Tekhnosfera: 2006)."
+			},
+			{
+				"doi": "",
+				"or":  "І. Ю. Проценко, В. А. Наєнко, Тонкі металеві плівки (технологія та властивості) (Суми: СумДу: 2002).",
+				"tr":  "I. Yu. Protsenko, V. A. Nayenko, Tonki metalevi plivki (tekhnologiya ta vlastivosti) (Sumi: SumDu: 2002)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.1.1382",
+				"or":  "A. F. Mayadas and M. Shatzkes, Phys. Rev. B, 1, No. 4: 1382 (1970).",
+				"tr":  "A. F. Mayadas and M. Shatzkes, Phys. Rev. B, 1, No. 4: 1382 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "E. E. Mola and J. M. Heras, Thin Solid Films, 18, No. 1: 137 (1973).",
+				"tr":  "E. E. Mola and J. M. Heras, Thin Solid Films, 18, No. 1: 137 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Білоус, Л. В. Дехтярук, А. М. Чорноус, Металлофиз. новейшие технол., 23, № 1: 43 (2001).",
+				"tr":  "O. A. Bilous, L. V. Dekhtyaruk, A. M. Chornous, Metallofiz. Noveishie Tekhnol., 23, No. 1: 43 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Білоус, Л. В. Дехтярук, С. І. Проценко, А. М. Чорноус, Вісник СумДУ, № 3(24)–4(25): 67 (2001).",
+				"tr":  "O. A. Bilous, L. V. Dekhtyaruk, S. I. Protsenko, A. M. Chornous, Visnik SumDU, No. 3(24)–4(25): 67 (2001)."
+			},
+			{
+				"doi": "10.1016/0040-6090(78)90293-6",
+				"or":  "C. R. Tellier, Thin Solid Films, 51, No. 4: 311 (1978).",
+				"tr":  "C. R. Tellier, Thin Solid Films, 51, No. 4: 311 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "C. R. Pichard, A. J. Tosser, and C. R. Tellier, J. Matter. Sci., 16, No. 2: 451 (1981).",
+				"tr":  "C. R. Pichard, A. J. Tosser, and C. R. Tellier, J. Matter. Sci., 16, No. 2: 451 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "C. R. Tellier, C. R. Pichard, and A. J. Tosser, Thin Solid Films, 76, No. 2: 129 (1981).",
+				"tr":  "C. R. Tellier, C. R. Pichard, and A. J. Tosser, Thin Solid Films, 76, No. 2: 129 (1981)."
+			},
+			{
+				"doi": "10.1002/pssa.2210650138",
+				"or":  "C. R. Pichard, C. R. Tellier, and A. J. Tosser, Phys. Stat. Sol. (a), 65, No.1: 327 (1981).",
+				"tr":  "C. R. Pichard, C. R. Tellier, and A. J. Tosser, Phys. Stat. Sol. (a), 65, No.1: 327 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "C. R. Tellier and A. J. Tosser, Size Effects in Thin Films (Amsterdam–Oxford–New York: ESPC: 1982).",
+				"tr":  "C. R. Tellier and A. J. Tosser, Size Effects in Thin Films (Amsterdam–Oxford–New York: ESPC: 1982)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. И. Белевцев, Ю. Ф. Комник, В. Е. Копина, Л. А. Яцук, ФНТ, 6, № 6: 754 (1980).",
+				"tr":  "B. I. Belevtsev, Yu. F. Komnik, V. E. Kopina, L. A. Yatsuk, FNT, 6, No. 6: 754 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Лобода, И. Е. Проценко, В. Г. Шамоня, УФЖ, 27, № 9: 1343 (1982).",
+				"tr":  "V. B. Loboda, I. E. Protsenko, V. G. Shamonya, UFZh, 27, No. 9: 1343 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Е. Проценко, М. Д. Смолин, В. Г. Шамоня, А. В. Яременко, УФЖ, 29, № 6: 920 (1984).",
+				"tr":  "I. E. Protsenko, M. D. Smolin, V. G. Shamonya, A. V. Yaremenko, UFZh, 29, No. 6: 920 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Верченко, В. И. Гришаев, Л. В. Дехтярук, Ю. А. Колесниченко, Т. Д. Шермергор, ФММ, 69, вып. 4: 102 (1990).",
+				"tr":  "V. I. Verchenko, V. I. Grishaev, L. V. Dekhtyaruk, Yu. A. Kolesnichenko, T. D. Shermergor, FMM, 69, No. 4: 102 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Е. Проценко, Изв. вузов. Физ., № 6: 42 (1988).",
+				"tr":  "I. E. Protsenko, Izv. vuzov. Fiz., No. 6: 42 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. А. Волков, Р. П. Волкова, ФТТ, 37, вып. 12: 3687 (1995).",
+				"tr":  "Yu. A. Volkov, R. P. Volkova, FTT, 37, No. 12: 3687 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "L. V. Dekhtyaruk, S. I. Protcenko, A. M. Chornous, and I. O. Shpetnyi, Ukr. J. Phys., 49, No. 6: 587 (2004).",
+				"tr":  "L. V. Dekhtyaruk, S. I. Protcenko, A. M. Chornous, and I. O. Shpetnyi, Ukr. J. Phys., 49, No. 6: 587 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Chornous, L. Dekhtyaruk, M. Marszalek, and I. Protcenko, Cryst. Res. Technol., 41, No. 4: 388 (2006).",
+				"tr":  "A. Chornous, L. Dekhtyaruk, M. Marszalek, and I. Protcenko, Cryst. Res. Technol., 41, No. 4: 388 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Дехтярук, Є. В. Забіла, С. І. Проценко, А. М. Чорноус, Металлофиз. новейшие технол., 26, № 10: 1333 (2004).",
+				"tr":  "L. V. Dekhtyaruk, Ye. V. Zabila, S. I. Protsenko, A. M. Chornous, Metallofiz. noveyshie tekhnol., 26, No. 10: 1333 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "З. В. Стасюк, А. І. Лопатинський, ФХТТ, 2, № 4: 521 (2001).",
+				"tr":  "Z. V. Stasyuk, A. I. Lopatins'kiy, FKhTT, 2, No. 4: 521 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Dimmich, Thin Solid Films, 158, No. 1: 13 (1988).",
+				"tr":  "R. Dimmich, Thin Solid Films, 158, No. 1: 13 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Л. Бонч-Бруевич, С. Г. Калашников, Физика полупроводников (Москва: Наука: 1990).",
+				"tr":  "V. L. Bonch-Bruevich, S. G. Kalashnikov, Fizika poluprovodnikov (Moskva: Nauka: 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "И. М. Лифшиц, М. Я. Азбель, М. И. Каганов, Электронная теория металлов (Москва: Наука: 1971).",
+				"tr":  "I. M. Lifshits, M. Ya. Azbel', M. I. Kaganov, Elektronnaya teoriya metallov (Moskva: Nauka: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Абрикосов, Основы теории металлов (Москва: Наука: 1987).",
+				"tr":  "A. A. Abrikosov, Osnovy teorii metallov (Moskva: Nauka: 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Песчанский, М. Я. Азбель, ЖЭТФ, 55, вып. 5(11): 1980 (1968).",
+				"tr":  "V. G. Peschanskiy, M. Ya. Azbel', ZhETF, 55, No. 5(11): 1980 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "М. И. Каганов, В. Б. Фикс, ЖЭТФ, 73, вып. 2(8): 753 (1977).",
+				"tr":  "M. I. Kaganov, V. B. Fiks, ZhETF, 73, No. 2(8): 753 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Устинов, ФММ, 49, вып. 1: 31 (1980).",
+				"tr":  "V. V. Ustinov, FMM, 49, No. 1: 31 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Fuchs, Cambr. Phil. Soc., A34, No. 1: 100 (1938).",
+				"tr":  "K. Fuchs, Cambr. Phil. Soc., A34, No. 1: 100 (1938)."
+			},
+			{
+				"doi": "10.1063/1.1703100",
+				"or":  "M. S. P. Lucas, J. Appl. Phys., 36, No. 5: 1632 (1965).",
+				"tr":  "M. S. P. Lucas, J. Appl. Phys., 36, No. 5: 1632 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Займан, Принципы теории твердого тела (Москва: Мир: 1974).",
+				"tr":  "Dzh. Zayman, Printsipy teorii tverdogo tela (Moskva: Mir: 1974)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Л. Чопра, Электрические явления в тонких пленках (Москва: Мир: 1972).",
+				"tr":  "K. L. Chopra, Elektricheskie yavleniya v tonkikh plenkakh (Moskva: Mir: 1972)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Pippard, Proc. Roy. Soc., 224, No. 1157: 273 (1954).",
+				"tr":  "B. Pippard, Proc. Roy. Soc., 224, No. 1157: 273 (1954)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Дехтярук, Ю. А. Колесниченко, ФНТ, 19, № 9: 1013 (1993).",
+				"tr":  "L. V. Dekhtyaruk, Yu. A. Kolesnichenko, FNT, 19, No. 9: 1013 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Дехтярук, Ю. О. Колесніченко, УФЖ, 42, № 9: 1094 (1997).",
+				"tr":  "L. V. Dekhtyaruk, Yu. O. Kolesnichenko, UFZh, 42, No. 9: 1094 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Дехтярук, И. Е. Проценко, ФХТТ, 6, № 4: 576 (2005).",
+				"tr":  "L. V. Dekhtyaruk, I. E. Protsenko, FKhTT, 6, No. 4: 576 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Дехтярук, И. Е. Проценко, Вісник СумДУ, № 10: 54 (2004).",
+				"tr":  "L. V. Dekhtyaruk, I. E. Protsenko, Visnik SumDU, No. 10: 54 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "F. Khater, Acta Phys. Slov., 33, No. 1: 43 (1983).",
+				"tr":  "F. Khater, Acta Phys. Slov., 33, No. 1: 43 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Дехтярук, М. Маршалек, И. Е. Проценко, А. Н. Чорноус, Физ. инж. поверхн., 2, № 1: 130 (2004).",
+				"tr":  "L. V. Dekhtyaruk, M. Marshalek, I. E. Protsenko, A. N. Chornous, Fiz. inzh. poverkhn., 2, No. 1: 130 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. П. Клокова, Тензорезисторы (Москва: Машиностроение: 1990).",
+				"tr":  "N. P. Klokova, Tenzorezistory (Moskva: Mashinostroenie: 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "З. Г. Мейксин, Физика тонких пленок (Москва: Мир: 1978), т. VIII.",
+				"tr":  "Z. G. Meyksin, Fizika tonkikh plenok (Moskva: Mir: 1978), vol. VIII."
+			},
+			{
+				"doi": "",
+				"or":  "І. Ю. Проценко, Технологія та фізика тонких плівок (Суми: СумДу: 2000).",
+				"tr":  "I. Yu. Protsenko, Tekhnologiya ta fizika tonkikh plivok (Sumi: SumDu: 2000)."
+			},
+			{
+				"doi": "",
+				"or":  "І. Ю. Проценко, Н. І. Чумакова, Датчики неелектричних величин (Суми: СумДУ:2003).",
+				"tr":  "I. Yu. Protsenko, N. I. Chumakova, Datchiki neelektrichnikh velichin (Sumi: SumDU:2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Дехтярук, І. Ю. Проценко, Вісник СумДУ, № 6(90): 85 (2006).",
+				"tr":  "L. V. Dekhtyaruk, I. Yu. Protsenko, Visnik SumDU, No. 6(90): 85 (2006)."
+			},
+			{
+				"doi": "10.15407/ufm.07.01.001",
+				"or":  "С. В. Дивинский, С. М. Захаров, О. А. Шматко, Усп. физ. мет., 7, № 1: 1 (2006).",
+				"tr":  "S. V. Divinskiy, S. M. Zakharov, O. A. Shmatko, Usp. Fiz. Met., 7, No. 1: 1 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. П. Волкова, Л. С. Палатник, А. Т. Пугачев, Докл. АН СССР, 259, № 2: 351 (1981).",
+				"tr":  "R. P. Volkova, L. S. Palatnik, A. T. Pugachev, Dokl. AN SSSR, 259, No. 2: 351 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. П. Волкова, Л. С. Палатник, А. Т. Пугачев, ФТТ, 24, вып. 4: 1161 (1982).",
+				"tr":  "R. P. Volkova, L. S. Palatnik, A. T. Pugachev, FTT, 24, No. 4: 1161 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. А. Волков, Р. П. Волкова, А. Т. Пугачев, ФММ, 62, вып. 2: 298 (1986).",
+				"tr":  "Yu. A. Volkov, R. P. Volkova, A. T. Pugachev, FMM, 62, No. 2: 298 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. П. Волкова, Ю. А. Волков, Металлофиз. новейшие технол., 25, № 2: 227 (2003).",
+				"tr":  "R. P. Volkova, Yu. A. Volkov, Metallofiz. Noveishie Tekhnol., 25, No. 2: 227 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Дехтярук, Ю. А. Колесниченко, ФММ, 75, вып. 5: 21 (1993).",
+				"tr":  "L. V. Dekhtyaruk, Yu. A. Kolesnichenko, FMM, 75, No. 5: 21 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "L. V. Dekhtyaruk, Yu. A. Kolesnichenko, and V. G. Peschansky, Physics Reviews, 20, No. 4: 3 (2004).",
+				"tr":  "L. V. Dekhtyaruk, Yu. A. Kolesnichenko, and V. G. Peschansky, Physics Reviews, 20, No. 4: 3 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Дехтярук, И. М. Пазуха, С. И. Проценко, И. В. Чешко, ФТТ, 48, вып.10: 1729 (2006).",
+				"tr":  "L. V. Dekhtyaruk, I. M. Pazukha, S. I. Protsenko, I. V. Cheshko, FTT, 48, No.10: 1729 (2006)."
+			},
+			{
+				"doi": "10.1063/1.326168",
+				"or":  "J. C. M. Hwang and R. W. Balluffi, J. Appl. Phys., 50, No. 3(1): 1339 (1979).",
+				"tr":  "J. C. M. Hwang and R. W. Balluffi, J. Appl. Phys., 50, No. 3(1): 1339 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "J. W. Chan, J. D. Pan, and R. W. Balluffi, Scripta Met., 13, No. 6: 503 (1979).",
+				"tr":  "J. W. Chan, J. D. Pan, and R. W. Balluffi, Scripta Met., 13, No. 6: 503 (1979)."
+			},
+			{
+				"doi": "10.1063/1.1699825",
+				"or":  "J. C. Fisher, J. Appl. Phys., 22, No. 1: 74 (1951).",
+				"tr":  "J. C. Fisher, J. Appl. Phys., 22, No. 1: 74 (1951)."
+			},
+			{
+				"doi": "",
+				"or":  "С. М. Клоцман, Усп. из. наук, 160, № 1: 99 (1991).",
+				"tr":  "S. M. Klotsman, Uspekhi Fiz. Nauk, 160, No. 1: 99 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Ghodgaonkar and K. Ramani, Phys. Stat. Sol. A, 73, No. 1: K21 (1982).",
+				"tr":  "M. Ghodgaonkar and K. Ramani, Phys. Stat. Sol. A, 73, No. 1: K21 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Райченко Математическая теория диффузии в приложениях (Киев: Наукова думка: 1981).",
+				"tr":  "A. I. Raychenko Matematicheskaya teoriya diffuzii v prilozheniyakh (Kiev: Naukova dumka: 1981)."
+			},
+			{
+				"doi": "",
+				"or":  "Тонкие пленки. Взаимная диффузия и реакции (Ред. Дж. Поут, К. Ту, Дж. Мейер) (Москва: Мир: 1982).",
+				"tr":  "Tonkie plenki. Vzaimnaya diffuziya i reaktsii (Red. Dzh. Pout, K. Tu, Dzh. Meyer) (Moskva: Mir: 1982)."
+			}
+		]
+	}
+}

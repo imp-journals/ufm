@@ -1,0 +1,80 @@
+{
+	"_id":    "UFM.14.03.259",
+	"year":   2013,
+	"volume": 14,
+	"issue":  3,
+	"pages":  [259,273],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["28.02.2013"],
+	"PACS":   "01.10.Fv, 01.30.Ee, 01.65.+g, 46.40.Ff, 62.20.D-, 62.40.+i, 81.40.Jj",
+	"title":   {
+		"ua": "Сучасні проблеми механічної спектроскопії",
+		"en": "Current Problems of Mechanical Spectroscopy",
+		"ru": "Современные проблемы механической спектроскопии"
+	},
+	"abstract": {
+		"ua": "Огляд присвячено 75-річчю виходу роботи К. М. Зінера «Внутрішнє тертя в твердих тілах. Теорія та експеримент». Розглянуто історичний аспект розвитку досліджень в галузі механічної спектроскопії в Україні, Росії та інших країнах. Відзначено основні міжнародні конференції та симпозіуми за даною проблематикою, представлено найважливіші наукові результати досліджень процесів і механізмів розсіяння енергії механічних коливань у твердих тілах.",
+		"en": "A given review article is dedicated to the 75th anniversary of C. M. Zener’s published work ‘Internal friction in solids. Theory and experiment’. А historical aspect of research in the field of mechanical spectroscopy in Ukraine, Russia and other countries is discussed. The major international conferences and symposia on this problem as well as the most important scientific results on investigation of processes and mechanisms of the energy dissipation of mechanical vibrations in solids are reviewed.",
+		"ru": "Обзор посвящается 75-летию выхода работы К.М. Зинера «Внутреннее трение в твёрдых телах. Теория и эксперимент». Рассмотрен исторический аспект развития исследований в области механической спектроскопии в Украине, России и других странах. Отмечены основные международные конференции и симпозиумы по данной проблеме, представлены наиболее важные научные результаты исследований процессов и механизмов рассеяния энергии механических колебаний в твёрдых телах."
+	},
+	"keywords": {
+		"ua": "пружність і непружність у твердих тілах, внутрішнє тертя, механічна спектроскопія, розсіяння механічної енергії, дислокаційна структура",
+		"en": "elasticity and inelasticity in solids, internal friction, mechanical spectroscopy, mechanical energy scattering, dislocation structure",
+		"ru": "упругость и неупругость в твёрдых телах, внутреннее трение, механическая спектроскопия, рассеяние механической энергии, дислокационная структура"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. О. Головін", "en": "S. A. Golovin", "ru": "С. А. Головин"},
+			"OID": [446]
+		},
+		{
+			"AID": {"ua": "П. П. Паль-Валь", "en": "P. P. Pal-Val", "ru": "П. П. Паль-Валь"},
+			"OID": [4]
+		},
+		{
+			"AID": {"ua": "О. В. Мозговий", "en": "O. V. Mozgovyy", "ru": "А. В. Мозговой"},
+			"OID": [218]
+		}
+	],
+	"references": {
+		"count": 7,
+		"list":  [
+			{
+				"doi": "10.1103/PhysRev.52.230",
+				"or":  "C. Zener, Phys. Rev., 52, No. 3: 230 (1937).",
+				"tr":  "C. Zener, Phys. Rev., 52, No. 3: 230 (1937)."
+			},
+			{
+				"doi": "10.1103/PhysRev.53.90",
+				"or":  "C. Zener, Phys. Rev., 53, No. 1: 90 (1938).",
+				"tr":  "C. Zener, Phys. Rev., 53, No. 1: 90 (1938)."
+			},
+			{
+				"doi": "10.1016/0921-5093(93)90684-7",
+				"or":  "V. D. Natsik and P. P. Pal-Val, Materials Science and Engineering A, 164: 312 (1993).",
+				"tr":  "V. D. Natsik and P. P. Pal-Val, Materials Science and Engineering A, 164: 312 (1993)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/SSP.115.15",
+				"or":  "L. B. Magalas, S. A. Golovin, and B. M. Darinskii, Solid State Phenomena, 115: 15 (2006).",
+				"tr":  "L. B. Magalas, S. A. Golovin, and B. M. Darinskii, Solid State Phenomena, 115: 15 (2006)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/SSP.137.231",
+				"or":  "S. A. Golovin, Solid State Phenomena, 137: 231 (2008).",
+				"tr":  "S. A. Golovin, Solid State Phenomena, 137: 231 (2008)."
+			},
+			{
+				"doi": "10.1007/978-3-540-68758-0",
+				"or":  "M. S. Blanter, I. S. Golovin, H. Neuhäuser, and H.-R. Sinning, Internal Friction in Metallic Materials: A Handbook. Handbook, Springer Series in Materials Science (Berlin–Heidelberg: Springer-Verlag: 2007).",
+				"tr":  "M. S. Blanter, I. S. Golovin, H. Neuhäuser, and H.-R. Sinning, Internal Friction in Metallic Materials: A Handbook. Handbook, Springer Series in Materials Science (Berlin–Heidelberg: Springer-Verlag: 2007)."
+			},
+			{
+				"doi": "10.1016/j.msea.2008.10.074",
+				"or":  "L. B. Magalas, Materials Science and Engineering A, 521–522: 405 (2009).",
+				"tr":  "L. B. Magalas, Materials Science and Engineering A, 521–522: 405 (2009)."
+			}
+		]
+	}
+}

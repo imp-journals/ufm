@@ -1,0 +1,532 @@
+{
+	"_id":    "UFM.09.02.195",
+	"year":   2008,
+	"volume": 9,
+	"issue":  2,
+	"pages":  [195,258],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["08.04.2008"],
+	"PACS":   "61.50.Ks, 61.66.Dk, 61.72.-y, 64.60.Cn, 81.05.Bx, 81.30.Hd, 81.30.Kf",
+	"title":   {
+		"ua": "Фазові й структурні перетворення в стопах на основі моноалюмініду ніклю",
+		"en": "Phase and Structural Transformations in the Alloys Based on Monoaluminide of Nickel",
+		"ru": "Фазовые и структурные превращения в сплавах на основе моноалюминида никеля"
+	},
+	"abstract": {
+		"ua": "У роботі обговорюються фізичні та механічні властивості моноалюмініду ніклю, його поводження за пластичної деформації, утворені на основі NiAl ($\\beta$-фази) тверді розчини; розглядається розчинність леґувальних первнів у моноалюмініді ніклю, вплив леґувальних первнів на структуру й властивості $\\beta$-фази. З використанням результатів робіт В.С. Литвинова, К. Енамі і власних досліджень розглядаються температурно-концентраційна область існування мартенситного перетворення в системі Ni–Al, його оборотність, кристалографія перетворення, вплив леґувальних первнів на мартенситні точки, структурні особливості мартенситного перетворення в $\\beta$-фазі ріжного ступеня пересичення нікльом, хромом і кобальтом. Обговорюються питання нестабільности $\\beta$-фази, пов’язані з формуванням надструктур низької симетрії; розглядаються умови утворення і росту цих надструктур Ni$_{5}$Al$_{3}$ та Ni$_{2}$Al у стопах Ni–Al–Me(Co,Cr); виконано кристалографічну структурну аналізу перетворень L1$_{0}$ → Ni$_{5}$Al$_{3}$ й Ni$_{2}$Al.",
+		"en": "The aim of the present work is to study physical and mechanical properties of nickel monoaluminide, its behaviour during plastic deformation, solid solutions based on NiAl ($\\beta$-phase), solubility of alloying elements in nickel monoaluminide, and the effect of alloying elements on the structure and properties of the $\\beta$-phase. Results reported by V.S. Litvinov and K. Enami as well as our data underlie the consideration of the temperature-and-concentration range of the martensitic transformation in Ni–Al system, its reversibility, transformation crystallography, the effect of alloying elements on martensitic points, and structural features of the martensitic transformation in the $\\beta$-phase at different degrees of supersaturation with nickel, chromium, and cobalt. The $\\beta$-phase instability, which is concerned with the formation of low-symmetry superstructures, and conditions, which are necessary for the formation and growth of these Ni$_{5}$Al$_{3}$ and Ni$_{2}$Al superstructures in Ni–Al– Me(Co,Cr) $\\beta$-alloys, are discussed. The crystallographic structural analysis of the L1$_{0}$ → Ni$_{5}$Al$_{3}$ transformation and Ni$_{2}$Al structure is performed.",
+		"ru": "В работе обсуждаются физические и механические свойства моноалюминида никеля, его поведение при пластической деформации, образуемые на основе NiAl ($\\beta$-фазы) твердые растворы; рассматривается растворимость легирующих элементов в моноалюминиде никеля, влияние легирующих элементов на структуру и свойства $\\beta$-фазы. С использованием результатов работ В.С. Литвинова, К. Энами и собственных исследований рассматриваются температурно-концентрационная область существования мартенситного превращения в системе Ni–Al, его обратимость, кристаллография превращения, влияние легирующих элементов на мартенситные точки, структурные особенности мартенситного превращения в $\\beta$-фазе разной степени пересыщения никелем, хромом и кобальтом. Обсуждаются вопросы нестабильности $\\beta$-фазы, связанные с формированием сверхструктур низкой симметрии; рассматриваются условия образования и роста этих сверхструктур Ni$_{5}$Al$_{3}$ и Ni$_{2}$Al в $\\beta$-сплавах Ni–Al–Me(Co,Cr); сделан кристаллографический структурный анализ превращений L1$_{0}$ → Ni$_{5}$Al$_{3}$ и Ni$_{2}$Al."
+	},
+	"keywords": {
+		"ua": "моноалюмінід ніклю, стопи Ni–Al–Ме(Co,Cr), фазові перетворення, структура, властивості, мартенсит, атомове впорядкування",
+		"en": "monoaluminide of nickel, Ni–Al–Ме(Co,Cr) alloys, phase transformations, structure, properties, martensite, atomic ordering",
+		"ru": "моноалюминид никеля, сплавы Ni–Al–Ме(Co,Cr), фазовые превращения, структура, свойства, мартенсит, атомное упорядочение"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. В. Косіцин", "en": "S. V. Kositsyn", "ru": "С. В. Косицын"},
+			"OID": [419]
+		},
+		{
+			"AID": {"ua": "І. І. Косіцина", "en": "I. I. Kositsyna", "ru": "И. И. Косицына"},
+			"OID": [419]
+		}
+	],
+	"cited_by": {
+		"count":  4,
+		"list":  [
+			{
+				"doi": "10.1134/S0869864316060147",
+				"cit": "E. E. Kornienko, D. O. Mul’, O. A. Rubtsova, S. P. Vaschenko <i>et al.</i>, <a href=\"https://doi.org/10.1134/S0869864316060147\">Thermophys. Aeromech. <b>23</b>, 919 (2016)</a>."
+			},
+			{
+				"doi": "10.1007/s11182-018-1281-1",
+				"cit": "A. I. Potekaev, A. A. Chaplygina, P. A. Chaplygin, M. D. Starostenkov <i>et al.</i>, <a href=\"https://doi.org/10.1007/s11182-018-1281-1\">Russ Phys J <b>60</b>, 1776 (2018)</a>."
+			},
+			{
+				"doi": "10.1016/j.cattod.2017.09.021",
+				"cit": "Larisa A. Arkatova, Nikolai G. Kasatsky, Yury M. Maximov, Oleg V. Pakhnutov <i>et al.</i>, <a href=\"https://doi.org/10.1016/j.cattod.2017.09.021\">Catalysis Today <b>299</b>, 303 (2018)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.12.01.001",
+				"cit": "V. A. Tatarenko, O. V. Sobol’, D. S. Leonov, Yu. A. Kunyts’kyy <i>et al.</i>, <a href=\"https://doi.org/10.15407/ufm.12.01.001\">Usp. Fiz. Met. <b>12</b>, 1 (2011)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 95,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Б. А. Гринберг, М. А. Иванов, Интерметаллиды Ni3Al и TiAl: микроструктура, деформационное поведение (Екатеринбург: УрО РАН: 2002).",
+				"tr":  "B. A. Grinberg, M. A. Ivanov, Intermetallidy Ni3Al i TiAl: mikrostruktura, deformatsionnoe povedenie (Ekaterinburg: UrO RAN: 2002)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Т. Коломыцев, Жаростойкие диффузионные покрытия (Москва: Металлургия: 1979).",
+				"tr":  "P. T. Kolomytsev, Zharostoykie diffuzionnye pokrytiya (Moskva: Metallurgiya: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. А. Тамарин, Жаростойкие диффузионные покрытия лопаток ГТД (Москва: Машиностроение: 1978).",
+				"tr":  "Yu. A. Tamarin, Zharostoykie diffuzionnye pokrytiya lopatok GTD (Moskva: Mashinostroenie: 1978)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Банных, Н. П. Лякишев, К. Б. Поварова, Перспективные материалы, № 32: 69 (1995).",
+				"tr":  "O. A. Bannykh, N. P. Lyakishev, K. B. Povarova, Perspektivnye materialy, No. 32: 69 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Б. Поварова, О. А. Банных, Материаловедение, №2: 27 (1999) и №3: 29 (1999).",
+				"tr":  "K. B. Povarova, O. A. Bannykh, Materialovedenie, No. 2: 27 (1999); ibid. No. 3: 29 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "Материалы с эффектом памяти формы: Справочник (Ред. В. А. Лихачев) (С.-Петербург: НИИХ СпбГУ: 1997), т. 1; idem, (1998), тт. 2–4.",
+				"tr":  "Materialy s effektom pamyati formy: Spravochnik (Ed. V. A. Likhachev) (S.-Peterburg: NIIKh SpbGU: 1997), vol. 1; idem, (1998), vols. 2–4."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Косицын, А. И. Валиуллин, Н. В. Катаева, И. И. Косицына, ФММ, 102, №4: 418 (2006).",
+				"tr":  "S. V. Kositsyn, A. I. Valiullin, N. V. Kataeva, I. I. Kositsyna, Fiz. Met. Metalloved., 102, No. 4: 418 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Хансен, К. Андерко, Структуры двойных сплавов (Москва: Металлургиздат: 1962).",
+				"tr":  "M. Khansen, K. Anderko, Struktury dvoynykh splavov (Moskva: Metallurgizdat: 1962)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Самсонов, Н. М. Винницкий, Тугоплавкие соединения (Москва: Металлургия: 1976).",
+				"tr":  "G. V. Samsonov, N. M. Vinnitskiy, Tugoplavkie soedineniya (Moskva: Metallurgiya: 1976)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Синельникова, В. А. Подергин, В. Н. Речкин, Алюминиды (Киев: Наукова думка: 1965).",
+				"tr":  "V. S. Sinel'nikova, V. A. Podergin, V. N. Rechkin, Alyuminidy (Kiev: Naukova dumka: 1965)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. М. Савицкий, Г. С. Бурханов, И. М. Заливин, Проблемы прочности, №11: 111 (1976).",
+				"tr":  "E. M. Savitskiy, G. S. Burkhanov, I. M. Zalivin, Problemy prochnosti, No. 11: 111 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Лавес, Теория фаз в сплавах (Москва: Металлургиздат: 1961).",
+				"tr":  "F. Laves, Teoriya faz v splavakh (Moskva: Metallurgizdat: 1961)."
+			},
+			{
+				"doi": "10.1063/1.1659674",
+				"or":  "T. Hughes, E. P. Lautenschlager, J. B. Cohen, and J. O. Brittain, J. Appl. Phys., 42: 3705 (1971).",
+				"tr":  "T. Hughes, E. P. Lautenschlager, J. B. Cohen, and J. O. Brittain, J. Appl. Phys., 42: 3705 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Rosen and J. A. Goebel, Trans. Met. Soc. AIME, 242, No. 4:722 (1968).",
+				"tr":  "S. Rosen and J. A. Goebel, Trans. Met. Soc. AIME, 242, No. 4:722 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Башев, И. С. Мирошниченко, Ф. Ф. Доценко, Металлы, № 6: 55 (1989).",
+				"tr":  "V. F. Bashev, I. S. Miroshnichenko, F. F. Dotsenko, Metally, No. 6: 55 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Гусева, Е. С. Макаров, Докл. АН СССP, 77, № 4: 615 (1951).",
+				"tr":  "L. N. Guseva, E. S. Makarov, Dokl. AN SSSP, 77, No. 4: 615 (1951)."
+			},
+			{
+				"doi": "10.1179/msc.1967.1.1.47",
+				"or":  "A. Ball, Met. Scien. Journ, 1, No. 3: 47 (1967).",
+				"tr":  "A. Ball, Met. Scien. Journ, 1, No. 3: 47 (1967)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Литвинов, Л. П. Зеленин, Р. Ш. Шкляр, ФММ, 31, № 1: 138 (1971).",
+				"tr":  "V. S. Litvinov, L. P. Zelenin, R. Sh. Shklyar, Fiz. Met. Metalloved., 31, No. 1:138 (1971)."
+			},
+			{
+				"doi": "10.1007/BF02643970",
+				"or":  "S. Chakravorty and C. Wayman. Metal. Trans. A, 7A: 555 (1976).",
+				"tr":  "S. Chakravorty and C. Wayman. Metal. Trans. A, 7A: 555 (1976)."
+			},
+			{
+				"doi": "10.1016/0026-0800(84)90004-1",
+				"or":  "I. M. Robertson and C. M. Wayman, Metallography, 17: 43 (1984).",
+				"tr":  "I. M. Robertson and C. M. Wayman, Metallography, 17: 43 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "R. J. Wasilewski, S. R. Butler, and J. E. Hanlon, Trans. Met. Soc. AIME, 239, No. 9: 1357 (1967).",
+				"tr":  "R. J. Wasilewski, S. R. Butler, and J. E. Hanlon, Trans. Met. Soc. AIME, 239, No. 9: 1357 (1967)."
+			},
+			{
+				"doi": "10.1007/BF02649615",
+				"or":  "J. Bevk, R. A. Dodd, and P. R. Strutt, Met. Trans., 4, No. 1: 159 (1973).",
+				"tr":  "J. Bevk, R. A. Dodd, and P. R. Strutt, Met. Trans., 4, No. 1: 159 (1973)."
+			},
+			{
+				"doi": "10.1063/1.1702703",
+				"or":  "M. J. Marcinkowski and R. M. Fisher, J. Appl. Phys., 34, No. 8: 2135 (1963).",
+				"tr":  "M. J. Marcinkowski and R. M. Fisher, J. Appl. Phys., 34, No. 8: 2135 (1963)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Х. Вестбрук, Механические свойства металлических соединений (Москва: Металлургиздат: 1962).",
+				"tr":  "D. Kh. Vestbruk, Mekhanicheskie svoystva metallicheskikh soedineniy (Moskva: Metallurgizdat: 1962)."
+			},
+			{
+				"doi": "10.1149/1.2430233",
+				"or":  "J. H. Westbrook, J. Electrochem. Soc., 103, No. 1: 54 (1956).",
+				"tr":  "J. H. Westbrook, J. Electrochem. Soc., 103, No. 1: 54 (1956)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Четтерей, Р. С. Де-Врис, Ж. Ромео, Достижения науки о коррозии и технологии защиты от нее (Ред. М. Фонтана, Р. Стейл) (Москва: Металлургия: 1980), т. 6.",
+				"tr":  "D. Chetterey, R. S. De-Vris, Zh. Romeo, Dostizheniya nauki o korrozii i tekhnologii zashchity ot nee (Red. M. Fontana, R. Steyl) (Moskva: Metallurgiya: 1980), vol. 6."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Мартынов, К. Энами, Л. Г. Хандрос, С. Ненно, А. В. Ткаченко, ФММ, 55, № 5: 982 (1983).",
+				"tr":  "V. V. Martynov, K. Enami, L. G. Khandros, S. Nenno, A. V. Tkachenko, Fiz. Met. Metalloved., 55, No. 5: 982 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Левит, М. Й. Кауфман, Тез. докл. XIX Уральской школы металловедов (Екатеринбург: 2008), с. 51.",
+				"tr":  "V. I. Levit, M. Y. Kaufman, Tez. dokl. XIX Ural'skoy shkoly metallovedov (Ekaterinburg: 2008), s. 51."
+			},
+			{
+				"doi": "",
+				"or":  "Р. В. Гард, В. М. Туркало, Механические свойства металлических изделий (Москва: Металлургиздат: 1962).",
+				"tr":  "R. V. Gard, V. M. Turkalo, Mekhanicheskie svoystva metallicheskikh izdeliy (Moskva: Metallurgizdat: 1962)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Литвинов, Е. Г. Панцырева, Изв. АН СССР, Металлы, № 4:199 (1972).",
+				"tr":  "V. S. Litvinov, E. G. Pantsyreva, Izv. AN SSSR, Metally, No. 4: 199 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. С. Столофер, Р. Г. Дэвис, Механические свойства упорядочивающихся сплавов (Москва: Металлургия: 1969).",
+				"tr":  "N. S. Stolofer, R. G. Devis, Mekhanicheskie svoystva uporyadochivayushchikhsya splavov (Moskva: Metallurgiya: 1969)."
+			},
+			{
+				"doi": "",
+				"or":  "Ч. Симс, В. Хагель, Жаропрочные сплавы (Москва: Металлургия: 1976).",
+				"tr":  "Ch. Sims, V. Khagel', Zharoprochnye splavy (Moskva: Metallurgiya: 1976)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Е. Патон, Г. Б. Строганов, С. Т. Кишкин и др. Жаропрочность литейных никелевых сплавов и защита их от окисления (Киев: Наукова думка: 1987).",
+				"tr":  "B. E. Paton, G. B. Stroganov, S. T. Kishkin et al. Zharoprochnost' liteynykh nikelevykh splavov i zashchita ikh ot okisleniya (Kiev: Naukova dumka: 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Купченко, Л. Н. Нестерович, Структура и свойства эвтектических композиционных материалов (Минск: Наука и техника: 1986).",
+				"tr":  "G. V. Kupchenko, L. N. Nesterovich, Struktura i svoystva evtekticheskikh kompozitsionnykh materialov (Minsk: Nauka i tekhnika: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Бунтушкин, Д. А. Базылева, Авиационная промышленность, № 2: 47 (1999).",
+				"tr":  "V. G. Buntushkin, D. A. Bazyleva, Aviatsionnaya promyshlennost', No. 2: 47 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Б. Поварова, А. В. Антонова, В. И. Бурмистров, О. А. Скачков, Металлы, № 3: 75 (2005).",
+				"tr":  "K. B. Povarova, A. V. Antonova, V. I. Burmistrov, O. A. Skachkov, Metally, No. 3: 75 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Литвинов, А. А. Архангельская, ФММ, 44, № 4: 826 (1977).",
+				"tr":  "V. S. Litvinov, A. A. Arkhangel'skaya, Fiz. Met. Metalloved., 44, No. 4: 826 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Литвинов, Е. Г. Лесникова, ФММ, 44, № 6: 1297 (1977).",
+				"tr":  "V. S. Litvinov, E. G. Lesnikova, Fiz. Met. Metalloved., 44, No. 6: 1297 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Косицын, В. С. Литвинов, В. Г. Сорокин, М. А. Гервасьев, ФММ, 49, № 5: 1063 (1980).",
+				"tr":  "S. V. Kositsyn, V. S. Litvinov, V. G. Sorokin, M. A. Gervas'ev, Fiz. Met. Metalloved., 49, No. 5: 1063 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Г. Лесникова, В. С. Литвинов, Термическая обработка и физика металлов (Свердловск: Изд. УПИ: 1978), т. 4.",
+				"tr":  "E. G. Lesnikova, V. S. Litvinov, Termicheskaya obrabotka i fizika metallov (Sverdlovsk: Izd. UPI: 1978), t. 4."
+			},
+			{
+				"doi": "",
+				"or":  "К. Б. Поварова, Н. К. Казанская, А. А. Дроздов, А. Е. Морозов, Металлы, № 5: 58 (2006).",
+				"tr":  "K. B. Povarova, N. K. Kazanskaya, A. A. Drozdov, A. E. Morozov, Metally, No. 5: 58 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. М. Аристова, Л. А. Кучеренко, В. И. Фадеева и др, Вестник МГУ. Химия, № 3: 307 (1978).",
+				"tr":  "N. M. Aristova, L. A. Kucherenko, V. I. Fadeeva i dr, Vestnik MGU. Khimiya, No. 3: 307 (1978)."
+			},
+			{
+				"doi": "10.1007/BF02651589",
+				"or":  "С. C. Jia, K. Ishida, and T. Nishizawa, Met. and Mater. Trans. A, 25A: 473 (1994).",
+				"tr":  "S. C. Jia, K. Ishida, and T. Nishizawa, Met. and Mater. Trans. A, 25A: 473 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "M. M. P. Janssen, Met. Trans, 4, No. 6: 1623 (1973).",
+				"tr":  "M. M. P. Janssen, Met. Trans, 4, No. 6: 1623 (1973)."
+			},
+			{
+				"doi": "10.1007/BF02661819",
+				"or":  "S. Shankar and L. L. Seigle, Met. Trans., A9, No. 10: 1467 (1978).",
+				"tr":  "S. Shankar and L. L. Seigle, Met. Trans., A9, No. 10: 1467 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Хагель, Интерметаллические соединения (Москва: Металлургия: 1970).",
+				"tr":  "V. Khagel', Intermetallicheskie soedineniya (Moskva: Metallurgiya: 1970)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(99)00010-5",
+				"or":  "T. Helander and J. A. Аgren, Acta Mater., 47, No. 4: 1141 (1999).",
+				"tr":  "T. Helander and J. A. Agren, Acta Mater., 47, No. 4: 1141 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Я. Шиняев, О. Г. Пивкина, Диффузионные процессы в металлах (Тула: 1979).",
+				"tr":  "A. Ya. Shinyaev, O. G. Pivkina, Diffuzionnye protsessy v metallakh (Tula: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "R. W. Guard and E. A. Smith, J. Inst. Metals, 44: 369 (1960).",
+				"tr":  "R. W. Guard and E. A. Smith, J. Inst. Metals, 44: 369 (1960)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Д. Герцрикен, И. Я. Дехтяр, Диффузия в металлах и сплавах в твердой фазе (Москва: ГИФМЛ: 1960).",
+				"tr":  "S. D. Gertsriken, I. Ya. Dekhtyar, Diffuziya v metallakh i splavakh v tverdoy faze (Moskva: GIFML: 1960)."
+			},
+			{
+				"doi": "10.1016/0036-9748(72)90233-5",
+				"or":  "Y. K. Au and C. M. Wayman, Scripta Metall., 6, No. 12: 1209 (1972).",
+				"tr":  "Y. K. Au and C. M. Wayman, Scripta Metall., 6, No. 12: 1209 (1972)."
+			},
+			{
+				"doi": "10.1007/BF02669606",
+				"or":  "P. S. Khadkikar, J. E. Locci, K. Vedula, and G. M. Michal, Met. Trans. A, 24A: 83 (1993).",
+				"tr":  "P. S. Khadkikar, J. E. Locci, K. Vedula, and G. M. Michal, Met. Trans. A, 24A: 83 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Ш. Шкляр, В. С. Литвинов, Е. Г. Панцырева, ФММ, 32, № 1: 181 (1971).",
+				"tr":  "R. Sh. Shklyar, V. S. Litvinov, E. G. Pantsyreva, Fiz. Met. Metalloved., 32, No. 1: 181 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Архангельская, И. Н. Богачев, В. С. Литвинов, Е. Г. Панцырева, ФММ, 34, № 3: 541 (1972).",
+				"tr":  "A. A. Arkhangel'skaya, I. N. Bogachev, V. S. Litvinov, E. G. Pantsyreva, Fiz. Met. Metalloved., 34, No. 3: 541 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Архангельская, В. С. Литвинов, В. В. Полева, ФММ, 48, № 6: 1256 (1979).",
+				"tr":  "A. A. Arkhangel'skaya, V. S. Litvinov, V. V. Poleva, Fiz. Met. Metalloved., 48, No. 6: 1256 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Enami, S. Nenno, and K. Shimizu, Trans JIM, 14: 161 (1973).",
+				"tr":  "K. Enami, S. Nenno, and K. Shimizu, Trans JIM, 14: 161 (1973)."
+			},
+			{
+				"doi": "10.1016/0036-9748(78)90102-3",
+				"or":  "K. Enami, A. Nagasawa, and S. Nenno, Scripta Metallurgica, 12: 223 (1978).",
+				"tr":  "K. Enami, A. Nagasawa, and S. Nenno, Scripta Metallurgica, 12: 223 (1978)."
+			},
+			{
+				"doi": "10.1016/0956-7151(95)00101-Z",
+				"or":  "D. Schryvers, Y. Ma, L. Toth, and L. Tanner, Acta. Metall. Mater., 43, No. 11: 4045 (1995).",
+				"tr":  "D. Schryvers, Y. Ma, L. Toth, and L. Tanner, Acta. Metall. Mater., 43, No. 11: 4045 (1995)."
+			},
+			{
+				"doi": "10.1016/0956-7151(95)00102-2",
+				"or":  "D. Schryvers, Y. Ma, L. Toth, and L. Tanner, Acta Metall. Mater., 43, No. 11: 4057 (1995).",
+				"tr":  "D. Schryvers, Y. Ma, L. Toth, and L. Tanner, Acta Metall. Mater., 43, No. 11: 4057 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Косицын, Н. В. Катаева, А. И. Валиуллин, ФММ, 100, № 4: 57 (2005).",
+				"tr":  "S. V. Kositsyn, N. V. Kataeva, A. I. Valiullin, Fiz. Met. Metalloved., 100, No. 4: 57 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "J. H. Zhu, D. P. Dunne, G. W. Delamore, and N. F. Kennon, Monterey Institute for Advanced Studies: 911 (1993).",
+				"tr":  "J. H. Zhu, D. P. Dunne, G. W. Delamore, and N. F. Kennon, Monterey Institute for Advanced Studies: 911 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "N. F. Kennon, D. P. Dunne, and J. H. Zhu, J. de Physique IV, 5, C8: 1041 (1995).",
+				"tr":  "N. F. Kennon, D. P. Dunne, and J. H. Zhu, J. de Physique IV, 5, C8: 1041 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Schryvers, L. Njth, J. Van Humbeeck, and J. Beyer, J. de Physique IV, 5, C8: 1029 (1995).",
+				"tr":  "D. Schryvers, L. Njth, J. Van Humbeeck, and J. Beyer, J. de Physique IV, 5, C8: 1029 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "D. P. Dunne and J. H. Zhu, Mat. Sci. Engin., A273–275: 690 (1999).",
+				"tr":  "D. P. Dunne and J. H. Zhu, Mat. Sci. Engin., A273–275: 690 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Пушин, С. П. Павлова, Л. И. Юрченко. ФММ, 67, № 1: 164 (1989).",
+				"tr":  "V. G. Pushin, S. P. Pavlova, L. I. Yurchenko. Fiz. Met. Metalloved., 67, No. 1: 164 (1989)."
+			},
+			{
+				"doi": "10.1016/0956-7151(93)90317-L",
+				"or":  "S. Muto, D. Schryvers, N. Merk, and L. E. Tanner, Acta Metall. Mater., 41: 2377 (1993).",
+				"tr":  "S. Muto, D. Schryvers, N. Merk, and L. E. Tanner, Acta Metall. Mater., 41: 2377 (1993)."
+			},
+			{
+				"doi": "10.1016/0921-5093(90)90311-P",
+				"or":  "L. E. Tanner, D. Schryvers, and S. M. Shapiro, Mater. Sci. Eng., A127: 205 (1990).",
+				"tr":  "L. E. Tanner, D. Schryvers, and S. M. Shapiro, Mater. Sci. Eng., A127: 205 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. И. Николин, Фазовые превращения мартенситного типа (Киев: Наукова думка: 1993).",
+				"tr":  "B. I. Nikolin, Fazovye prevrashcheniya martensitnogo tipa (Kiev: Naukova dumka: 1993)."
+			},
+			{
+				"doi": "10.1007/s11661-997-0279-z",
+				"or":  "P. L. Potapov, S. Y. Song, V. A. Udovenko, and S. D. Prokoshkin, Met. Mater. Trans. A, 28A: 1133 (1997).",
+				"tr":  "P. L. Potapov, S. Y. Song, V. A. Udovenko, and S. D. Prokoshkin, Met. Mater. Trans. A, 28A: 1133 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Martynov, K. Enami, L. G. Khandros, A. V. Tkachenko, and S. Nenno, J. de Physique, 43, C4 : 659 (1982).",
+				"tr":  "V. V. Martynov, K. Enami, L. G. Khandros, A. V. Tkachenko, and S. Nenno, J. de Physique, 43, C4 : 659 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Г. Лесникова, В. С. Литвинов, А. А. Архангельская, ФММ, 38, № 3: 580 (1974).",
+				"tr":  "E. G. Lesnikova, V. S. Litvinov, A. A. Arkhangel'skaya, Fiz. Met. Metalloved., 38, No. 3: 580 (1974)."
+			},
+			{
+				"doi": "10.1007/BF02652338",
+				"or":  "R. Kainuma, H. Ohtani, and K. Ishida, Met. and Mater. Trans. A, 27A: 2445 (1996).",
+				"tr":  "R. Kainuma, H. Ohtani, and K. Ishida, Met. and Mater. Trans. A, 27A: 2445 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Косицын, И. И. Косицына, А. И. Валиуллин, Н. В. Катаева, Перспективные материалы, № 3: 59 (2005).",
+				"tr":  "S. V. Kositsyn, I. I. Kositsyna, A. I. Valiullin, N. V. Kataeva, Perspektivnye materialy, No. 3: 59 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Литвинов, А. А. Архангельская, В.В.Полева, ФММ, 38, № 2: 383 (1974).",
+				"tr":  "V. S. Litvinov, A. A. Arkhangel'skaya, V.V.Poleva, Fiz. Met. Metalloved., 38, No. 2: 383 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Архангельская, В. С. Литвинов, В. В. Полева, ФММ, 47, № 2: 388 (1979).",
+				"tr":  "A. A. Arkhangel'skaya, V. S. Litvinov, V. V. Poleva, Fiz. Met. Metalloved., 47, No. 2: 388 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Косицын, Н. В. Катаева, И. И. Косицына, В. С. Литвинов, ФММ, 91, № 4: 69 (2001).",
+				"tr":  "S. V. Kositsyn, N. V. Kataeva, I. I. Kositsyna, V. S. Litvinov, Fiz. Met. Metalloved., 91, No. 4: 69 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Косицын, Н. В. Катаева, ФММ, 88, № 3: 85 (1999).",
+				"tr":  "S. V. Kositsyn, N. V. Kataeva, Fiz. Met. Metalloved., 88, No. 3: 85 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Пушин, В. В. Кондратьев, В. Н. Хачин, Предпереходные явления и мартенситные превращения (Екатеринбург: УрО РАН: 1998).",
+				"tr":  "V. G. Pushin, V. V. Kondrat'ev, V. N. Khachin, Predperekhodnye yavleniya i martensitnye prevrashcheniya (Ekaterinburg: UrO RAN: 1998)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Н. Гузанов, С. В. Косицын, Н. Б. Пугачева, Упрочняющие защитные покрытия в машиностроении (Екатеринбург: УрО РАН: 2004).",
+				"tr":  "B. N. Guzanov, S. V. Kositsyn, N. B. Pugacheva, Uprochnyayushchie zashchitnye pokrytiya v mashinostroenii (Ekaterinburg: UrO RAN: 2004)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Литвинов, С. В. Косицын, Н. В. Катаева, ФММ, 84, № 3: 109 (1997).",
+				"tr":  "V. S. Litvinov, S. V. Kositsyn, N. V. Kataeva, Fiz. Met. Metalloved., 84, No. 3: 109 (1997)."
+			},
+			{
+				"doi": "10.1007/s11661-003-0273-z",
+				"or":  "S. H. Kim, M. N. Oh, and D. M. Wee, Met. and Mater. Trans. A, 34A: 2089 (2003).",
+				"tr":  "S. H. Kim, M. N. Oh, and D. M. Wee, Met. and Mater. Trans. A, 34A: 2089 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Lasamonie, Extrait des Comptes Rendus de l`Academie des Sciences, 280: 1501 (1975).",
+				"tr":  "A. Lasamonie, Extrait des Comptes Rendus de l`Academie des Sciences, 280: 1501 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Литвинов, А. А. Архангельская, ФММ, 43, № 5: 1044 (1977).",
+				"tr":  "V. S. Litvinov, A. A. Arkhangel'skaya, Fiz. Met. Metalloved., 43, No. 5:1044 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Enami and S. A. Nenno, Trans. Japan Inst. Met., 19: 571 (1978).",
+				"tr":  "K. Enami and S. A. Nenno, Trans. Japan Inst. Met., 19: 571 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Lasamonie, Proc. 6th Eur. Congr. on Electron Microscopy (Ed. D. G. Brandon) (Jerusalem: Tal International: 1976), vol. 1, p. 573.",
+				"tr":  "A. Lasamonie, Proc. 6th Eur. Congr. on Electron Microscopy (Ed. D. G. Brandon) (Jerusalem: Tal International: 1976), vol. 1, p. 573."
+			},
+			{
+				"doi": "10.1016/0036-9748(77)90101-6",
+				"or":  "A. Lasamonie, Scripta Metallurgica, 11: 527 (1977).",
+				"tr":  "A. Lasamonie, Scripta Metallurgica, 11: 527 (1977)."
+			},
+			{
+				"doi": "10.1107/S0021889876011333",
+				"or":  "F. Reunaund, J. Appl. Cryst., 9: 263 (1976).",
+				"tr":  "F. Reunaund, J. Appl. Cryst., 9: 263 (1976)."
+			},
+			{
+				"doi": "10.1016/0036-9748(77)90073-4",
+				"or":  "F. Reunaund, Scripta Metallurgica, 11: 765 (1977).",
+				"tr":  "F. Reunaund, Scripta Metallurgica, 11: 765 (1977)."
+			},
+			{
+				"doi": "10.1016/0921-5093(93)90453-L",
+				"or":  "J. H. Yang and C. M. Wayman, Mat. Sci. Eng., A160: 241 (1993).",
+				"tr":  "J. H. Yang and C. M. Wayman, Mat. Sci. Eng., A160: 241 (1993)."
+			},
+			{
+				"doi": "10.1007/s11661-000-0020-7",
+				"or":  "T. A. Venkatesh and D. C. Dunand, Metall. and Mater. Trans. A, 31A: 781 (2000).",
+				"tr":  "T. A. Venkatesh and D. C. Dunand, Metall. Mater. Trans. A, 31A: 781 (2000)."
+			},
+			{
+				"doi": "10.1016/0956-7151(93)90383-4",
+				"or":  "A. S. Murthy and E. Goo, Acta Metall. Mater., 41: 2135 (1993).",
+				"tr":  "A. S. Murthy and E. Goo, Acta Metall. Mater., 41: 2135 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Enami, J. de Physique, 43, C4: 727 (1982).",
+				"tr":  "K. Enami, J. de Physique, 43, C4: 727 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Литвинов, А. А. Архангельская, Термическая обработка и физика металлов (Свердловск: УПИ: 1982).",
+				"tr":  "V. S. Litvinov, A. A. Arkhangel'skaya, Termicheskaya obrabotka i fizika metallov (Sverdlovsk: UPI: 1982)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Косицын, Сплавы и покрытия на основе моноалюминида никеля (Екатеринбург: УрО РАН: 2008).",
+				"tr":  "S. V. Kositsyn, Splavy i pokrytiya na osnove monoalyuminida nikelya (Ekaterinburg: UrO RAN: 2008)."
+			}
+		]
+	}
+}

@@ -1,0 +1,368 @@
+{
+	"_id":    "UFM.10.03.229",
+	"year":   2009,
+	"volume": 10,
+	"issue":  3,
+	"pages":  [229,281],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["06.08.2009"],
+	"PACS":   "07.85.Jy, 61.05.cc, 61.05.cf, 61.05.cp, 61.46.Hk, 61.72.Dd, 81.07.Bc",
+	"title":   {
+		"ua": "Інтеґральна багатопараметрична дифрактометрія наносистем на основі ефектів багатократности дифузного розсіяння",
+		"en": "Integral Multiparameter Diffractometry of Nanosystems on the Basis of Effects of Multiplicity of Diffuse Scattering",
+		"ru": "Интегральная многопараметрическая дифрактометрия наносистем на основе эффектов многократности диффузного рассеяния"
+	},
+	"abstract": {
+		"ua": "В роботі викладено узагальнену динамічну теорію Бреґґового та дифузного розсіянь Рентґенових променів у кристалах з дефектами декількох типів. Розглянуто вирази для диференційної та інтеґральної інтенсивностей розсіяння, котрі пов’язують їх з характеристиками дефектів у кристалах, при дифракції як на відбиття, так і на проходження. Описано екстинкційні ефекти за рахунок розсіяння на дефектах без обмежень на їх розміри в когерентнім і дифузнім розсіяннях за малих і великих ефектів дифузної екстинкції для диференційного й інтеґральних коефіцієнтів та факторів екстинкції за рахунок багатократности розсіяння на флюктуаційних відхиленнях від періодичности кристалічних ґратниць. На основі побудованої динамічної теорії, у її порівнянні з кінематичною, створено нову фізичну концепцію, яка дозволила розкрити та детально проаналізувати фізичну природу відкритих явищ, що обумовлюють, з одного боку, принципове обмеження інформативности кінематичної картини розсіяння, а з іншого боку, радикальне підвищення інформативности картини динамічного розсіяння. Показано, що це підвищення інформативности обумовлене відкритим явищем дуже істотної залежности від умов дифракції характеру впливу дефектів на динамічну картину, що принципово не має місця в кінематичному випадку. Показано унікальні діягностичні можливості створеної інтеґральної дифузнодинамічної комбінованої дифрактометрії (ІДДКД), що обумовлені цим явищем та рядом наслідків із нього. Зокрема, показано якісно нові можливості здійснення вперше багатопараметричної діягностики матеріялів та виробів нанотехнологій. При цьому на основі побудованої теорії створено моделі високоінформативної ІДДКД для аналізи стрибків інтенсивностей поблизу $K$-краю вбирання та відхилів від Фрідельового закону, а також їх деформаційних і товщинних залежностей. Виконано експериментальну апробацію створених моделів.",
+		"en": "The generalized dynamical theory of Bragg and diffuse scatterings of x-rays in crystals with defects of several types is presented in a given article. Expressions for differential and integrated scattering intensities, which connect them with characteristics of defects in crystals, are considered in cases of Bragg and Laue geometries. Extinction effects due to scatterings on defects without limitation of their sizes are described in coherent and diffuse scatterings at small and large effects of diffuse extinction for differential and integrated coefficients of extinction due to multiple scattering on fluctuating deviations from the periodicity of crystal lattices. New physical conception is created and based on the built dynamical theory, at its comparison with kinematic one, that allowed to discover and analyse in detail the physical nature of discovered effects, which stipulate the principal limit of informativity of kinematic scattering, on the one hand, and the radical increasing of informativity in case of dynamical diffraction, on the other hand. As shown, this increase of informativity is caused by discovered effect of significant dependence of the character of defects’ influence to dynamical scattering on diffraction conditions that is absent in kinematic case. Unique diagnostic facilities of created integral diffuse-dynamical combined diffractometry (IDDCD) are shown. They are caused by this effect and by series of consequences from it. Particularly, qualitatively new possibilities of carrying out of multiparameter diagnostics of materials and products of nanotechnologies are shown. In addition, the models of high-informative IDDCD are created on the basis of developed theory for analysis of both the intensities’ leap near $K$-edge of extinction and the deviations from Friedel low as well as their deformation and thickness dependences. The experimental test of developed models is carried out.",
+		"ru": "В работе изложена обобщенная динамическая теория брэгговского и диффузного рассеяний рентгеновских лучей в кристаллах с дефектами нескольких типов. Рассмотрены выражения для дифференциальной и интегральной интенсивностей рассеяния, связывающие их с характеристиками дефектов в кристаллах при дифракции, как на отражение, так и на прохождение. Описаны экстинкционные эффекты за счет рассеяния на дефектах без ограничений на их размеры в когерентном и диффузном рассеяниях при малых и больших эффектах диффузной экстинкции для дифференциального и интегральных коэффициентов и факторов экстинкции за счет многократности рассеяния на флуктуационных отклонениях от периодичности решеток кристаллов. На основе построенной динамической теории, при ее сравнении с кинематической, создана новая физическая концепция, которая позволила раскрыть и детально проанализировать физическую природу обнаруженных явлений, обуславливающих, с одной стороны, принципиальное ограничение информативности кинематической картины рассеяния, а с другой стороны, радикальное повышение информативности картины динамического рассеяния. Показано, что это повышение информативности обусловлено обнаруженным явлением очень существенной зависимости от условий дифракции характера влияния дефектов на динамическую картину, что не имеет места принципиально в кинематическом случае. Показаны обусловленные этим явлением и рядом следствий из него уникальные диагностические возможности созданной интегральной диффузнодинамической комбинированной дифрактометрии (ИДДКД). В частности, показаны качественно новые возможности реализации впервые многопараметрической диагностики материалов и изделий нанотехнологий. При этом на основе построенной теории созданы модели высокоинформативной ИДДКД для анализа скачков интенсивности вблизи $K$-края поглощения и отклонений от закона Фриделя, а также их деформационных и толщинных зависимостей. Проведена экспериментальная апробация созданных моделей."
+	},
+	"keywords": {
+		"ua": "кристали з дефектами, когерентне та дифузне розсіяння, кінематична й динамічна картини розсіяння, неруйнівна багатопараметрична діягностика",
+		"en": "crystals with defects, coherent and diffuse scattering, kinematic and dynamic pattern of scattering, nondestructive multiparametric diagnostics",
+		"ru": "кристаллы с дефектами, когерентное и диффузное рассеяние, кинематическая и динамическая картины рассеяния, неразрушающая многопараметрическая диагностика"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. П. Шпак", "en": "A. P. Shpak", "ru": "А. П. Шпак"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. В. Ковальчук", "en": "M. V. Kovalchuk", "ru": "М. В. Ковальчук"},
+			"OID": [453]
+		},
+		{
+			"AID": {"ua": "В. Б. Молодкін", "en": "V. B. Molodkin", "ru": "В. Б. Молодкин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Л. Носик", "en": "V. L. Nosik", "ru": "В. Л. Носик"},
+			"OID": [453]
+		},
+		{
+			"AID": {"ua": "С. В. Дмитрієв", "en": "S. V. Dmitriev", "ru": "С. В. Дмитриев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Є. Г. Лень", "en": "E. G. Len", "ru": "Е. Г. Лень"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. Й. Оліховський", "en": "S. J. Olikhovskyi", "ru": "С. И. Олиховский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Г. І. Низкова", "en": "G. I. Nyzkova", "ru": "А. И. Низкова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. В. Молодкін", "en": "V. V. Molodkin", "ru": "В. В. Молодкин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "К. В. Первак", "en": "K. V. Pervak", "ru": "Е. В. Первак"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. А. Катасонов", "en": "A. A. Katasonov", "ru": "А. А. Катасонов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Л. И. Нінічук", "en": "L. I. Ninichuk", "ru": "Л. И. Никитчук"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. В. Мельник", "en": "A. V. Melnyk", "ru": "А. В. Мельник"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  2,
+		"list":  [
+			{
+				"doi": "10.1134/S1063774510070059",
+				"cit": "V. B. Molodkin, A. P. Shpak, M. V. Kovalchuk, V. L. Nosik <i>et al.</i>, <a href=\"https://doi.org/10.1134/S1063774510070059\">Crystallogr. Rep. <b>55</b>, 1122 (2010)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.12.03.295",
+				"cit": "V. B. Molodkin, M. V. Kovalchuk, V. F. Machulin, Eh. H. Muhamedjanov <i>et al.</i>, <a href=\"https://doi.org/10.15407/ufm.12.03.295\">Usp. Fiz. Met. <b>12</b>, 295 (2011)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 54,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "W. C. Röntgen, Nobel Lectures. Physics 1901–1921 (Amsterdam: Elsevier Publishing Co.: 1967).",
+				"tr":  "W. C. Röntgen, Nobel Lectures. Physics 1901–1921 (Amsterdam: Elsevier Publishing Co.: 1967)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Von Laue, Rontgenstrahlinterferezen (Leipzig: Akademishe Verlagsges: 1948), p. 410.",
+				"tr":  "M. Von Laue, Rontgenstrahlinterferezen (Leipzig: Akademishe Verlagsges: 1948), p. 410."
+			},
+			{
+				"doi": "",
+				"or":  "C. Hammond, The Basics of Crystallography and Diffraction. 2nd Ed. (London: Oxford University Press: 2001), p. 320.",
+				"tr":  "C. Hammond, The Basics of Crystallography and Diffraction. 2nd Ed. (London: Oxford University Press: 2001), p. 320."
+			},
+			{
+				"doi": "10.1016/S0081-1947(08)60592-5",
+				"or":  "R. W. James, Solid State Phys., 15: 55 (1963).",
+				"tr":  "R. W. James, Solid State Phys., 15: 55 (1963)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.36.681",
+				"or":  "B. W. Batterman and H. Cole, Rev. Mod. Phys., 36: 681 (1964).",
+				"tr":  "B. W. Batterman and H. Cole, Rev. Mod. Phys., 36: 681 (1964)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Ахиезер, И. Я. Померанчук, Некоторые вопросы теории ядра (ОГИЗ: 1948).",
+				"tr":  "A. I. Akhiezer, I. Ya. Pomeranchuk, Nekotorye voprosy teorii yadra (OGIZ: 1948)."
+			},
+			{
+				"doi": "10.1007/978-3-642-74291-0",
+				"or":  "M. A. Krivoglaz, X-Ray and Neutron Diffraction in Nonideal Crystals (Berlin: Springer: 1996), p. 466.",
+				"tr":  "M. A. Krivoglaz, X-Ray and Neutron Diffraction in Nonideal Crystals (Berlin: Springer: 1996), p. 466."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, Е. А. Тихонова, ФММ, 24, № 3: 385 (1967).",
+				"tr":  "V. B. Molodkin, E. A. Tikhonova, Fiz. Met. Metalloved., 24, No. 3: 385 (1967)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, ФММ, 25, № 3: 410 (1968).",
+				"tr":  "V. B. Molodkin, Fiz. Met. Metalloved., 25, No. 3: 410 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, ФММ, 27, № 4: 582 (1969).",
+				"tr":  "V. B. Molodkin, Fiz. Met. Metalloved., 27, No. 4: 582 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, Металлофизика, 2, № 1: 3 (1980).",
+				"tr":  "V. B. Molodkin, Metallofizika, 2, No. 1: 3 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Molodkin, Phys. Metals, 3: 615 (1981).",
+				"tr":  "V. B. Molodkin, Phys. Metals, 3: 615 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Molodkin, S. I. Olikhovskii, and M. E. Osinovskii, Phys. Metals, 5: 1 (1984).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, and M. E. Osinovskii, Phys. Metals, 5: 1 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Molodkin, S. I. Olikhovskii, and M. E. Osinovskii, Phys. Metals, 5: 847 (1985).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, and M. E. Osinovskii, Phys. Metals, 5: 847 (1985)."
+			},
+			{
+				"doi": "10.1002/pssa.2211080103",
+				"or":  "V. V. Kochelab, V. B. Molodkin, S. I. Olikhovskii, and M. E. Osinovskii, Phys. Status Solidi A, 108, No. 1: 67 (1988).",
+				"tr":  "V. V. Kochelab, V. B. Molodkin, S. I. Olikhovskii, and M. E. Osinovskii, Phys. Status Solidi A, 108, No. 1: 67 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Даценко , В. Б. Молодкин, М. Е. Осиновский, Динамическое рассеяние рентгеновских лучей реальными кристаллами (Киев: Наукова думка: 1988), с. 200.",
+				"tr":  "L. I. Datsenko, V. B. Molodkin, M. E. Osinovskiy, Dinamicheskoe rasseyanie rentgenovskikh luchey real'nymi kristallami (Kiev: Naukova dumka: 1988), s. 200."
+			},
+			{
+				"doi": "10.1002/1521-3951(200110)227:2<429::AID-PSSB429>3.0.CO;2-C",
+				"or":  "V. B. Molodkin, S. I. Olikhovskii, E. N. Kislovskii, E. G. Len et al., Phys. Status Solidi B, 227, No. 2: 429 (2001).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, E. N. Kislovskii, E. G. Len et al., Phys. Status Solidi B, 227, No. 2: 429 (2001)."
+			},
+			{
+				"doi": "10.1002/1521-3951(200205)231:1<199::AID-PSSB199>3.0.CO;2-Y",
+				"or":  "S. I. Olikhovskii, V. B. Molodkin, E. N. Kislovskii, E. G. Len et al., Phys. Status Solidi B, 231, No. 1: 199 (2002).",
+				"tr":  "S. I. Olikhovskii, V. B. Molodkin, E. N. Kislovskii, E. G. Len et al., Phys. Status Solidi B, 231, No. 1: 199 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Олиховский, В. Б. Молодкин, О. С. Кононенко, А. А. Катасонов и др., Металлофиз. новейшие технол., 29, № 7: 887 (2007).",
+				"tr":  "S. I. Olikhovskiy, V. B. Molodkin, O. S. Kononenko, A. A. Katasonov et al., Metallofiz. noveyshie tekhnol., 29, No. 7: 887 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Олиховский, В. Б. Молодкин, О. С. Кононенко, А. А. Катасонов и др., Металлофиз. новейшие технол., 29, № 9: 1225 (2007).",
+				"tr":  "S. I. Olikhovskiy, V. B. Molodkin, O. S. Kononenko, A. A. Katasonov et al., Metallofiz. noveyshie tekhnol., 29, No. 9: 1225 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Олиховский, В. Б. Молодкин, А. И. Низкова, О. С. Кононенко и др., Металлофиз. новейшие технол., 29, № 10: 1333 (2007).",
+				"tr":  "S. I. Olikhovskiy, V. B. Molodkin, A. I. Nizkova, O. S. Kononenko et al., Metallofiz. noveyshie tekhnol., 29, No. 10: 1333 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, А. И. Низкова, А. П. Шпак, В. Ф. Мачулин и др., Дифрактометрия наноразмерных дефектов и гетерослоев кристаллов (Киев: Академпериодика: 2005).",
+				"tr":  "V. B. Molodkin, A. I. Nizkova, A. P. Shpak, V. F. Machulin et al., Difraktometriya nanorazmernykh defektov i geterosloev kristallov (Kiev: Akademperiodika: 2005)."
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Molodkin, M. V. Kovalchuk, A. P. Shpak, S. I. Olikhovskii et al. Diffuse Scattering and the Fundamental Properties of Materials (New Jersey: Momentum Press: 2009), p. 401.",
+				"tr":  "V. B. Molodkin, M. V. Kovalchuk, A. P. Shpak, S. I. Olikhovskii et al. Diffuse Scattering and the Fundamental Properties of Materials (New Jersey: Momentum Press: 2009), p. 401."
+			},
+			{
+				"doi": "10.15407/ufm.09.03.305",
+				"or":  "А. П. Шпак, М. В. Ковальчук, И. М. Карнаухов, В. В. Молодкин и др., Успехи физ. мет., 9, № 3: 305 (2008).",
+				"tr":  "A. P. Shpak, M. V. Koval'chuk, I. M. Karnaukhov, V. V. Molodkin et al., Uspehi Fiziki Metallov, 9, No. 3: 305 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, М. В. Ковальчук, Г. І. Низкова, І. В. Гінько та ін., Спосіб багатопараметричної структурної діагностики монокристалів з декількома типами дефектів (Патент України № 36075) (Зареєстровано в Державному реєстрі патентів України на винаходи 10 жовтня 2008).",
+				"tr":  "A. P. Shpak, M. V. Koval'chuk, G. І. Nizkova, І. V. Gіn'ko ta іn., Sposіb bagatoparametrichnoї strukturnoї dіagnostiki monokristalіv z dekіl'koma tipami defektіv (Patent Ukraїni No. 36075) (Zareєstrovano v Derzhavnomu reєstrі patentіv Ukraїni na vinakhodi 10 zhovtnya 2008)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Багов, Ю. А. Динаев, А. А. Дышеков, Т. И. Оранова и др., Рентгенодифракционная диагностика упруго-напряженного состояния наногетероструктур (Нальчик: Каб.-Балк. ун-т: 2008), с. 206.",
+				"tr":  "A. N. Bagov, Yu. A. Dinaev, A. A. Dyshekov, T. I. Oranova et al., Rentgenodifraktsionnaya diagnostika uprugo-napryazhennogo sostoyaniya nanogeterostruktur (Nal'chik: Kab.-Balk. un-t: 2008), s. 206."
+			},
+			{
+				"doi": "10.1002/pssa.200675700",
+				"or":  "A. P. Shpak, V. B. Molodkin, S. I. Olikhovskii, Ye. M. Kyslovskyy et al., Phys. Status Solidi A, 204, No. 8: 2651 (2007).",
+				"tr":  "A. P. Shpak, V. B. Molodkin, S. I. Olikhovskii, Ye. M. Kyslovskyy et al., Phys. Status Solidi A, 204, No. 8: 2651 (2007)."
+			},
+			{
+				"doi": "10.1002/pssa.200675686",
+				"or":  "V. B. Molodkin, S. I. Olikhovskii, E. N. Kislovskii, I. M. Fodchuk et al., Phys. Status Solidi A, 204, No. 8: 2606 (2007).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, E. N. Kislovskii, I. M. Fodchuk et al., Phys. Status Solidi A, 204, No. 8: 2606 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "З. Г. Пинскер, Рентгеновская кристаллооптика (Москва: Наука: 1982).",
+				"tr":  "Z. G. Pinsker, Rentgenovskaya kristallooptika (Moskva: Nauka: 1982)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Тихонова, ФТТ, 9, № 2: 516 (1967).",
+				"tr":  "E. A. Tikhonova, Fiz. Tverdogo Tela, 9, No. 2: 516 (1967)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.1.1306",
+				"or":  "P. H. Dederichs, Phys. Rev. B, 1, No. 4: 1306 (1970).",
+				"tr":  "P. H. Dederichs, Phys. Rev. B, 1, No. 4: 1306 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Немошкаленко, В. Б. Молодкин, С. И. Олиховский, Е. Н. Кисловский и др., Металлофиз. новейшие технол., 22, № 2: 51 (2000).",
+				"tr":  "V. V. Nemoshkalenko, V. B. Molodkin, S. I. Olikhovskiy, E. N. Kislovskiy et al., Metallofiz. Noveishie Tekhnol., 22, No. 2: 51 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Й. Оліховський, Є. М. Кисловський, В. Б. Молодкін, Є. Г. Лень та ін., Металлофиз. новейшие технол., 22, № 6: 3 (2000).",
+				"tr":  "S. Y. Olіkhovs'kiy, Є. M. Kislovs'kiy, V. B. Molodkіn, Є. G. Len' ta іn., Metallofiz. Noveishie Tekhnol., 22, No. 6: 3 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Барьяхтар, Е. Н. Гаврилова, В. Б. Молодкин, С. И. Олиховский, Металлофизика, 14, № 11: 68 (1992).",
+				"tr":  "V. G. Bar'yakhtar, E. N. Gavrilova, V. B. Molodkin, S. I. Olikhovskiy, Metallofizika, 14, No. 11: 68 (1992)."
+			},
+			{
+				"doi": "10.1016/0168-9002(91)90651-6",
+				"or":  "V. V. Nemoshkalenko, V. B. Molodkin, S. I. Olikhovskii, M. V. Kovalchuk et al., Nucl. Instrum. and Meth. in Physics Research A, 308, № 1: 294 (1991).",
+				"tr":  "V. V. Nemoshkalenko, V. B. Molodkin, S. I. Olikhovskii, M. V. Kovalchuk et al., Nucl. Instrum. and Meth. in Physics Research A, 308, No. 1: 294 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, С. И. Олиховский, С. В. Дмитриев, Е. Г. Лень и др., Металлофиз. новейшие технол., 28, № 7: 953 (2006).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskiy, S. V. Dmitriev, E. G. Len' et al., Metallofiz. Noveishie Tekhnol., 28, No. 7: 953 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, С. В. Дмитриев, Е. В. Первак, А. А. Белоцкая и др., Металлофиз. новейшие технол., 28, № 8: 1047 (2006).",
+				"tr":  "V. B. Molodkin, S. V. Dmitriev, E. V. Pervak, A. A. Belotskaya et al., Metallofiz. Noveishie Tekhnol., 28, No. 8: 1047 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, В. Б. Молодкин, С. В. Дмитриев, Е. В. Первак и др., Металлофиз. новейшие технол., 30, № 9: 1189 (2008).",
+				"tr":  "A. P. Shpak, V. B. Molodkin, S. V. Dmitriev, E. V. Pervak et al., Metallofiz. Noveishie Tekhnol., 30, No. 9: 1189 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Даценко, Е. Н. Кисловский, УФЖ, 20, № 5: 810 (1975).",
+				"tr":  "L. I. Datsenko, E. N. Kislovskiy, UFZh, 20, No. 5: 810 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "L. I. Datsenko, E. N. Kislovsky, and I. V. Prokopenko, УФЖ, 22: 513 (1977).",
+				"tr":  "L. I. Datsenko, E. N. Kislovsky, and I. V. Prokopenko, UFZh, 22: 513 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, Г. И. Гудзенко, С. И. Олиховский, М. Е. Осиновский, Металлофизика, 5, № 3: 10 (1983).",
+				"tr":  "V. B. Molodkin, G. I. Gudzenko, S. I. Olikhovskiy, M. E. Osinovskiy, Metallofizika, 5, No. 3: 10 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, С. И. Олиховский, М. Е. Осиновский, А. Н. Гуреев и др., Металлофизика, 6, № 2: 18 (1984).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskiy, M. E. Osinovskiy, A. N. Gureev et al., Metallofizika, 6, No. 2: 18 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, С. И. Олиховский, М. Е. Осиновский, А. Н. Гуреев и др., Металлофизика, 6, № 3: 105 (1984).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskiy, M. E. Osinovskiy, A. N. Gureev et al., Metallofizika, 6, No. 3: 105 (1984)."
+			},
+			{
+				"doi": "10.1002/pssa.2210870223",
+				"or":  "V. B. Molodkin, S. I. Olikhovskii, M. E. Osinovskii, A. N. Gureev et al., Phys. Status Solidi A, 87, No. 2: 597 (1985).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, M. E. Osinovskii, A. N. Gureev et al., Phys. Status Solidi A, 87, No. 2: 597 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Nemoshkalenko, V. B. Molodkin, E. N. Kislovskii, and M. T. Kogut, Металлофизика, 16, № 2: 48 (1994).",
+				"tr":  "V. V. Nemoshkalenko, V. B. Molodkin, E. N. Kislovskii, and M. T. Kogut, Metallofizika, 16, No. 2: 48 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, В. Б. Молодкин, А. И. Низкова, Успехи физ. мет., 5, № 1: 51 (2004).",
+				"tr":  "A. P. Shpak, V. B. Molodkin, A. I. Nizkova, Uspehi Fiziki Metallov, 5, No. 1: 51 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Низкова, В. Б. Молодкин, И. А. Московка, Металлофиз. новейшие технол., 26, № 6: 783 (2004).",
+				"tr":  "A. I. Nizkova, V. B. Molodkin, I. A. Moskovka, Metallofiz. Noveishie Tekhnol., 26, No. 6: 783 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, В. Б. Молодкин, А. И. Низкова, Успехи физ. мет., 5, № 1: 51 (2004).",
+				"tr":  "A. P. Shpak, V. B. Molodkin, A. I. Nizkova, Uspehi Fiziki Metallov, 5, No. 1: 51 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, В. В. Немошкаленко, А. И. Низкова, С. И. Олиховский и др., Металлофиз. новейшие технол., 22, № 3: 3 (2000).",
+				"tr":  "V. B. Molodkin, V. V. Nemoshkalenko, A. I. Nizkova, S. I. Olikhovskiy et al., Metallofiz. Noveishie Tekhnol., 22, No. 3: 3 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, С. И. Олиховский, С. В. Дмитриев, Е. Г. Лень и др., Металлофиз. новейшие технол., 27, № 12: 1659 (2005).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskiy, S. V. Dmitriev, E. G. Len' et al., Metallofiz. Noveishie Tekhnol., 27, No. 12: 1659 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.78.224109",
+				"or":  "V. B. Molodkin, S. I. Olikhovskii, E. N. Kislovskii, T. P. Vladimirova et al., Phys. Rev. B, 78: 224109 (2008).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, E. N. Kislovskii, T. P. Vladimirova et al., Phys. Rev. B, 78: 224109 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, В. Б. Молодкин, М. В. Ковальчук, В. Л. Носик и др., Металлофиз. новейшие технол., 31, № 5: 615 (2009).",
+				"tr":  "A. P. Shpak, V. B. Molodkin, M. V. Koval'chuk, V. L. Nosik et al., Metallofiz. Noveishie Tekhnol., 31, No. 5: 615 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, В. Б. Молодкин, М. В. Ковальчук, В. Л. Носик и др., Металлофиз. новейшие технол., 31, № 7: 927 (2009).",
+				"tr":  "A. P. Shpak, V. B. Molodkin, M. V. Koval'chuk, V. L. Nosik et al., Metallofiz. Noveishie Tekhnol., 31, No. 7: 927 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, В. Б. Молодкин, М. В. Ковальчук, В. Л. Носик и др., Металлофиз. новейшие технол., 31, № 8: 1041 (2009).",
+				"tr":  "A. P. Shpak, V. B. Molodkin, M. V. Koval'chuk, V. L. Nosik et al., Metallofiz. Noveishie Tekhnol., 31, No. 8: 1041 (2009)."
+			}
+		]
+	}
+}

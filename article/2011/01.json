@@ -1,0 +1,21 @@
+{
+	"year":   2011,
+	"volume": 12,
+	"issue":  1,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [1,155],
+			"title": {
+				"ua": "Статистична термодинаміка та фізична кінетика структурних змін (квази)бінарних твердих розчинів на основі щільних простих ґратниць (за даними про еволюцію картини розсіяння різного типу хвиль)",
+				"en": "Statistical Thermodynamics and Physical Kinetics of Structural Changes of Quasi-Binary Solid Solutions Based on the Close-Packed Simple Lattices (According to the Data About Evolution of a Pattern of Scattering of Waves of Various Kinds)",
+				"ru": "Статистическая термодинамика и физическая кинетика структурных изменений (квази)бинарных твёрдых растворов на основе плотных простых решёток (по данным об эволюции картины рассеяния разного типа волн)"
+			},
+			"autors": {
+				"ua": "В. А. Татаренко, О. В. Соболь, Д. С. Леонов, Ю. А. Куницький, С. М. Бокоч",
+				"en": "V. A. Tatarenko, O. V. Sobol’, D. S. Leonov, Yu. A. Kunyts’kyy, and S. M. Bokoch",
+				"ru": "В. А. Татаренко, О. В. Соболь, Д. С. Леонов, Ю. А. Куницкий, С. М. Бокоч"
+			}
+		}
+	]
+}

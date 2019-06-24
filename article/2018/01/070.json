@@ -1,0 +1,228 @@
+{
+	"_id":    "UFM.19.01.070",
+	"year":   2018,
+	"volume": 19,
+	"issue":  1,
+	"pages":  [70,94],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["02.02.2018", "30.03.2018"],
+	"PACS":   "64.60.Bd, 64.70.kd, 66.10.cd, 66.30.Lw, 81.16.Hc, 81.30.Kf",
+	"title":   {
+		"ua": "Вплив циклічних мартенситних перетворень $\\gamma$-$\\epsilon$-$\\gamma$ на дифузійні характеристики Карбону в залізоманґановому стопі",
+		"en": "Effect of Cyclic Martensitic $\\gamma$-$\\epsilon$-$\\gamma$ Transformations on Diffusion Characteristics of Carbon in an Iron–Manganese Alloy",
+		"ru": "Влияние циклических мартенситных превращений $\\gamma$-$\\epsilon$-$\\gamma$ на диффузионные характеристики углерода в железомарганцевом сплаве"
+	},
+	"abstract": {
+		"ua": "Методою радіоактивних ізотопів досліджено дифузійні характеристики Карбону у метастабільному залізоманґановому стопі Г18С2, наклепаному циклічними мартенситними перетвореннями $\\gamma$-$\\epsilon$-$\\gamma$ (ГЦК–ГЩП–ГЦК). Показано, що інтенсифікація процесу транспорту Карбону у стопі, фазонаклепаному $\\gamma$-$\\epsilon$-$\\gamma$-перетвореннями, визначалася двома незалежними механізмами: атермічним, який реалізовувався за рахунок ґенерації поля напружень у процесі мартенситних перетворень, і термоактивованим, який реалізовувався в процесі наступного дифузійного відпалення за рахунок дії малокутових субмеж та одновимірних і двовимірних дефектів кристалічної будови ГЦК-аустеніту і ГЩП-$\\epsilon$-мартенситу, що формувалися в результаті цих перетворень. Після багаторазових циклів $\\gamma$-$\\epsilon$-$\\gamma$-перетворень коефіцієнт дифузії Карбону за низьких температур (100–350°C) підвищувався на понад три порядки. При цьому коефіцієнт за температури у 325°C відповідав коефіцієнту стаціонарної дифузії при 900°C. Максимальний приріст коефіцієнта дифузії Карбону спостерігали при збільшенні кількости термоциклів до ста, коли фіксували основний приріст густини дефектів будови. Додатковим чинником зміни дифузійних характеристик Карбону у фазонаклепаному стопі є зміна фазового складу як у результаті $\\gamma$-$\\epsilon$-$\\gamma$-циклування, так і в процесі наступного дифузійного відпалення.",
+		"en": "Carbon-diffusion characteristics in metastable Г18C2 iron–manganese alloy after the cyclic $\\gamma$-$\\epsilon$-$\\gamma$ (f.c.c.–h.c.p.–f.c.c.) martensitic transitions were investigated using the radioactive-isotope method. As shown, the process of carbon transport acceleration in the alloy phase-hardened by means of the $\\gamma$-$\\epsilon$-$\\gamma$ transformations was caused by two independent mechanisms. They are as follow: athermal one realized via the stress field occurrence under the cyclic martensitic transitions and thermoactivated one realized during subsequent diffusion annealing due to low-angle subboundaries as well as the one-dimensional and two-dimensional crystal structure defects in f.c.c. austenite and h.c.p. $\\epsilon$-martensite generated during these transitions. After the cyclic $\\gamma$-$\\epsilon$-$\\gamma$ martensitic transformations, the diffusion coefficient of carbon at low temperatures (100–350°C) increased by more than three orders of magnitude. In this case, the diffusion coefficient at 325°C corresponds to the stationary diffusion coefficient at 900°C. Maximum carbon-diffusion coefficient rising was observed when number of thermal cycles was increased up to 100 and maximum structure defects density increasing was fixed. Phase composition variation was as an additional cause of carbon-diffusion characteristics changing during the $\\gamma$-$\\epsilon$-$\\gamma$ cycling and subsequent diffusion annealing.",
+		"ru": "Методом радиоактивных изотопов исследованы диффузионные харак-теристики углерода в метастабильном железомарганцевом сплаве Г18С2, наклёпанном циклическими мартенситными превращениями $\\gamma$-$\\epsilon$-$\\gamma$ (ГЦК–ГПУ–ГЦК). Показано, что интенсификация процесса транспорта углерода в сплаве, фазонаклёпанном $\\gamma$-$\\epsilon$-$\\gamma$-превращениями, определялась двумя независимыми механизмами: атермическим, который реализовывался за счёт генерирования поля напряжений в процессе мартенситных превращений, и термоактивированным, который реализовывался в процессе последующего диффузионного отжига за счёт действия малоугловых субграниц, а также одномерных и двухмерных дефектов кристаллического строения ГЦК-аустенита и ГПУ-$\\epsilon$-мартенсита, сформированных в процессе этих превращений. После многократных циклов $\\gamma$-$\\epsilon$-$\\gamma$-превращений коэффициент диффузии углерода при низких температурах (100–350°C) повышался более чем на три порядка. При этом коэффициент диффузии при температуре 325°C соответствовал коэффициенту стационарной диффузии при температуре 900°C. Максимальный прирост коэффициента диффузии углерода наблюдали при увеличении количества термоциклов до ста, когда фиксировали основной прирост плотности дефектов строения. Дополнительным фактором изменения диффузионных характеристик углерода в фазонаклёпанном сплаве было изменение фазового состава как в процессе $\\gamma$-$\\epsilon$-$\\gamma$-циклирования, так и последующего диффузионного отжига."
+	},
+	"keywords": {
+		"ua": "дифузія, мартенсит, аустеніт, радіоізотоп, дислокація, дефект пакування",
+		"en": "diffusion, martensite, austenite, radioisotope, dislocation, stacking fault defect",
+		"ru": "диффузия, аустенит, мартенсит, радиоизотоп, дислокация, дефект упаковки"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Й. Бондар", "en": "V. Y. Bondar", "ru": "В. И. Бондар"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Ю. Данільченко", "en": "V. E. Danilchenko", "ru": "В. Ю. Данильченко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Ф. Мазанко", "en": "V. F. Mazanko", "ru": "В. Ф. Мазанко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. В. Філатов", "en": "O. V. Filatov", "ru": "А. В. Филатов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Є. Яковлев", "en": "V. E. Iakovlev", "ru": "В. Е. Яковлев"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 35,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "B. S. Bokshtein, Diffuziya v Metallakh [Diffusion in Metals] (Moscow: Metallurgiya: 1978) (in Russian).",
+				"tr":  "B. S. Bokshtein, Diffuziya v Metallakh [Diffusion in Metals] (Moscow: Metallurgiya: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Brik, Diffuzyia i Fazovye Prevrashchenyia v Metallakh i Splavakh [Diffusion and Phase Transformations in Metals and Alloys] (Kiev: Naukova Dumka: 1985) (in Russian).",
+				"tr":  "V. B. Brik, Diffuzyia i Fazovye Prevrashchenyia v Metallakh i Splavakh [Diffusion and Phase Transformations in Metals and Alloys] (Kiev: Naukova Dumka: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "D. S. Gertsriken, V. F. Mazanko, V. M. Tyshkevich, and V. M. Falchenko, Massoperenos v Metallakh pri Nizkikh Temperaturakh v Usloviyakh Vneshnikh Vozdeistviy [Mass Transfer in Metals at Low Temperatures under External Actions] (Kiev: RIO IMF: 2001) (in Russian).",
+				"tr":  "D. S. Gertsriken, V. F. Mazanko, V. M. Tyshkevich, and V. M. Falchenko, Massoperenos v Metallakh pri Nizkikh Temperaturakh v Usloviyakh Vneshnikh Vozdeistviy [Mass Transfer in Metals at Low Temperatures under External Actions] (Kiev: RIO IMF: 2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Andryushchenko, O. V. Bavol, T. L. Blinokhvatov, A. G. Garan, E. M. Dzevin, Metallofiz. Noveishie Tekhnol., 32, No. 7: 883 (2010) (in Russian).",
+				"tr":  "V. A. Andryushchenko, O. V. Bavol, T. L. Blinokhvatov, A. G. Garan, E. M. Dzevin, Metallofiz. Noveishie Tekhnol., 32, No. 7: 883 (2010) (in Russian)."
+			},
+			{
+				"doi": "10.1186/s11671-015-0785-7",
+				"or":  "I. M. Dzevin, Nanoscale Res. Lett., 10: 117 (2015).",
+				"tr":  "I. M. Dzevin, Nanoscale Res. Lett., 10: 117 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "L. N. Larikov, Metallofiz. Noveishie Tekhnol., 17, No. 1: 3 (1995) (in Russian).",
+				"tr":  "L. N. Larikov, Metallofiz. Noveishie Tekhnol., 17, No. 1: 3 (1995) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0001-6160(89)90046-1",
+				"or":  "S. Schumacher, R. Birringer, R. Strauss, and H. Gleiter, Acta Met., 37: 2485 (1989).",
+				"tr":  "S. Schumacher, R. Birringer, R. Strauss, and H. Gleiter, Acta Met., 37: 2485 (1989)."
+			},
+			{
+				"doi": "10.1002/pssb.2221720106",
+				"or":  "H. Gleiter, phys. status solidi (b), 172: 5 (1992).",
+				"tr":  "H. Gleiter, phys. status solidi (b), 172: 5 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "P. L. Gruzin, G. V. Kurdjumov, and E. V. Kuznetsov, Problemy Metallovedeniya i Fizika Metallov, 4: 153 (1955) (in Russian).",
+				"tr":  "P. L. Gruzin, G. V. Kurdjumov, and E. V. Kuznetsov, Problemy Metallovedeniya i Fizika Metallov, 4: 153 (1955) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Brik, A. M. Kumok, B. I. Nikolin, and V. M. Falchenko, Metally, No. 4: 131 (1981) (in Russian).",
+				"tr":  "V. B. Brik, A. M. Kumok, B. I. Nikolin, and V. M. Falchenko, Metally, No. 4: 131 (1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Andrushschenko and E. N. Dzevin, Materials Structure, 6, No. 2: 122 (1999).",
+				"tr":  "V. A. Andrushschenko and E. N. Dzevin, Materials Structure, 6, No. 2: 122 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Andryushchenko, O. V. Bavol, T. L. Blinokhvatov, A. G. Garan, and E. M. Dzevin, Metallofiz. Noveishie Tekhnol., 31, No. 9: 1257 (2009).",
+				"tr":  "V. A. Andryushchenko, O. V. Bavol, T. L. Blinokhvatov, A. G. Garan, and E. M. Dzevin, Metallofiz. Noveishie Tekhnol., 31, No. 9: 1257 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. N. Koval, D. S. Gertsriken, V. P. Bevz, V. M. Mironov, V. V. Alekseeva, and T. V. Mironova, Metallofiz. Noveishie Tekhnol., 32, No. 10: 1293 (2010) (in Russian).",
+				"tr":  "Yu. N. Koval, D. S. Gertsriken, V. P. Bevz, V. M. Mironov, V. V. Alekseeva, and T. V. Mironova, Metallofiz. Noveishie Tekhnol., 32, No. 10: 1293 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "K. A. Malyshev, V. V. Sagaradze, I. P. Sorokin, N. D. Zemtsova, V. A. Teplov, and A. I. Uvarov, Fazovyy Naklep Austenitnykh Splavov na Zhelezonikelevoy Osnove [Phase Hardening of Iron–Nickel-Based Austenite Alloys] (Moscow: Nauka: 1982) (in Russian).",
+				"tr":  "K. A. Malyshev, V. V. Sagaradze, I. P. Sorokin, N. D. Zemtsova, V. A. Teplov, and A. I. Uvarov, Fazovyy Naklep Austenitnykh Splavov na Zhelezonikelevoy Osnove [Phase Hardening of Iron–Nickel-Based Austenite Alloys] (Moscow: Nauka: 1982) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(02)00023-0",
+				"or":  "V. V. Sagaradze,V. E. Danilchenko, Ph. L’Hetitier, and V. A. Shabashov, Mat. Sci. Eng., A, 337: 146 (2002).",
+				"tr":  "V. V. Sagaradze,V. E. Danilchenko, Ph. L’Hetitier, and V. A. Shabashov, Mat. Sci. Eng., A, 337: 146 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "V. P. Bevz, V. J. Bondar, D. V. Veriha, V. Yu. Danilchenko, and V. F. Mazanko, Metallofiz. Noveishie Tekhnol., 30, No. 10: 1307 (2008) (in Ukrainian).",
+				"tr":  "V. P. Bevz, V. J. Bondar, D. V. Veriha, V. Yu. Danilchenko, and V. F. Mazanko, Metallofiz. Noveishie Tekhnol., 30, No. 10: 1307 (2008) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Iu. Danilchenko, V. F. Mazanko, and V. Ie. Yakovlev, Metallofiz. Noveishie Tekhnol., 31, No. 12: 1621 (2009) (in Ukrainian).",
+				"tr":  "V. Iu. Danilchenko, V. F. Mazanko, and V. Ie. Yakovlev, Metallofiz. Noveishie Tekhnol., 31, No. 12: 1621 (2009) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. I. Lysak and B. I. Nikolin, Fizicheskie Osnovy Termicheskoy Obrabotki Stali [Physical Basis of Heat Treatment of Steel] (Kiev: Tekhnika: 1975) (in Russian).",
+				"tr":  "L. I. Lysak and B. I. Nikolin, Fizicheskie Osnovy Termicheskoy Obrabotki Stali [Physical Basis of Heat Treatment of Steel] (Kiev: Tekhnika: 1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. D. Gertsriken and V. M. Falchenko, Voprosy Fiziki Metallov i Metallovedeniya, No. 16: 154 (1962) (in Russian).",
+				"tr":  "S. D. Gertsriken and V. M. Falchenko, Voprosy Fiziki Metallov i Metallovedeniya, No. 16: 154 (1962) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.1702312",
+				"or":  "M. S. Paterson, J. Appl. Phys., 23: 805 (1952).",
+				"tr":  "M. S. Paterson, J. Appl. Phys., 23: 805 (1952)."
+			},
+			{
+				"doi": "10.1016/0001-6160(55)90138-3",
+				"or":  "B. E. Warren and E. P. Warekols, Acta Metall., 3: 473 (1955).",
+				"tr":  "B. E. Warren and E. P. Warekols, Acta Metall., 3: 473 (1955)."
+			},
+			{
+				"doi": "",
+				"or":  "Ya. D. Vishnyakov, Defekty Upakovki v Kristallicheskoy Strukture [Stacking Faults in the Crystal Structure] (Moscow: Metallurgiya: 1970) (in Russian).",
+				"tr":  "Ya. D. Vishnyakov, Defekty Upakovki v Kristallicheskoy Strukture [Stacking Faults in the Crystal Structure] (Moscow: Metallurgiya: 1970) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0502-8205(59)90015-2",
+				"or":  "B. E. Warren, Progress in Metal Physics, 8: 147 (1959).",
+				"tr":  "B. E. Warren, Progress in Metal Physics, 8: 147 (1959)."
+			},
+			{
+				"doi": "10.1107/S0365110X54001259",
+				"or":  "J. W. Christian, Acta Cryst., 7: 415 (1954).",
+				"tr":  "J. W. Christian, Acta Cryst., 7: 415 (1954)."
+			},
+			{
+				"doi": "10.1107/S0365110X64002225",
+				"or":  "B. Mitra and N. C. Halder, Acta Cryst., 17: 817 (1964).",
+				"tr":  "B. Mitra and N. C. Halder, Acta Cryst., 17: 817 (1964)."
+			},
+			{
+				"doi": "",
+				"or":  "I. N. Bogachev and V. F. Egolaev, Struktura i Svoistva Zhelezomargantsevykh Splavov [Structure and Properties of the Iron–Manganese Alloys] (Moscow: Metallurgiya: 1973) (in Russian).",
+				"tr":  "I. N. Bogachev and V. F. Egolaev, Struktura i Svoistva Zhelezomargantsevykh Splavov [Structure and Properties of the Iron–Manganese Alloys] (Moscow: Metallurgiya: 1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. I. Lysak and I. B. Goncharenko, Fiz. Met. Metalloved., 31: 1004 (1971) (in Russian).",
+				"tr":  "L. I. Lysak and I. B. Goncharenko, Fiz. Met. Metalloved., 31: 1004 (1971) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "F. Weinberg, Progress in Metal Physics (Eds. B. Chalmers and R. King) (New York: Academic Press: 1959), vol. 8, p. 105.",
+				"tr":  "F. Weinberg, Progress in Metal Physics (Eds. B. Chalmers and R. King) (New York: Academic Press: 1959), vol. 8, p. 105."
+			},
+			{
+				"doi": "",
+				"or":  "O. G. Sokolov and K. B. Katsov, Zhelezomargantsevye Splavy [Iron–Manganese Alloys] (Kiev: Naukova Dumka: 1982) (in Russian).",
+				"tr":  "O. G. Sokolov and K. B. Katsov, Zhelezomargantsevye Splavy [Iron–Manganese Alloys] (Kiev: Naukova Dumka: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. N. Petrov, Defekty i Bezdiffuzionnoe Prevrashchenie v Stali [Defects and Diffusionless Transformation in Steel] (Kiev: Naukova Dumka: 1978) (in Russian).",
+				"tr":  "Yu. N. Petrov, Defekty i Bezdiffuzionnoe Prevrashchenie v Stali [Defects and Diffusionless Transformation in Steel] (Kiev: Naukova Dumka: 1978) (in Russian)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/DDF.280-281.29",
+				"or":  "V. A. Tatarenko, S. M. Bokoch, V. M. Nadutov, T. M. Radchenko, and Y. B. Park, Defect and Diffusion Forum, 280–281: 29 (2008).",
+				"tr":  "V. A. Tatarenko, S. M. Bokoch, V. M. Nadutov, T. M. Radchenko, and Y. B. Park, Defect and Diffusion Forum, 280–281: 29 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Tatarenko, T. M. Radchenko, and V. M. Nadutov, Metallofizika i Noveishie Tekhnologii, 25, No. 10: 1303 (2003) (in Ukrainian).",
+				"tr":  "V. A. Tatarenko, T. M. Radchenko, and V. M. Nadutov, Metallofizika i Noveishie Tekhnologii, 25, No. 10: 1303 (2003) (in Ukrainian)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/DDF.273-276.525",
+				"or":  "T. M. Radchenko and V. A. Tatarenko, Defect and Diffusion Forum, 273: 525 (2008).",
+				"tr":  "T. M. Radchenko and V. A. Tatarenko, Defect and Diffusion Forum, 273: 525 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Skorokhod and Yu. M. Solonin, Defekty Upakovky v Perekhodnykh Metallakh [Stacking Faults in Transition Metals] (Kiev: Naukova Dumka: 1976) (in Russian).",
+				"tr":  "V. V. Skorokhod and Yu. M. Solonin, Defekty Upakovky v Perekhodnykh Metallakh [Stacking Faults in Transition Metals] (Kiev: Naukova Dumka: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "B. M. Mogutnov, I. A. Tomilin, and L. A. Shvartsman, Termodinamika Zhelezouglerodistykh Splavov [Thermodynamics of Iron–Carbon Alloys] (Moscow: Metallurgiya: 1972) (in Russian).",
+				"tr":  "B. M. Mogutnov, I. A. Tomilin, and L. A. Shvartsman, Termodinamika Zhelezouglerodistykh Splavov [Thermodynamics of Iron–Carbon Alloys] (Moscow: Metallurgiya: 1972) (in Russian)."
+			}
+		]
+	}
+}

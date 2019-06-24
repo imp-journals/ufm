@@ -1,0 +1,397 @@
+{
+	"_id":    "UFM.13.01.071",
+	"year":   2012,
+	"volume": 13,
+	"issue":  1,
+	"pages":  [71,100],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["28.11.2011", "21.02.2012"],
+	"PACS":   "42.25.Fx, 71.36.+c, 71.45.Gm, 73.20.Mf, 78.20.Bh, 78.67.-n, 78.68.+m",
+	"title":   {
+		"ua": "Особливості взаємодії електромагнетного випромінення з малими частинками та їх ансамблями: теоретичні аспекти",
+		"en": "Features of Interaction of an Electromagnetic Radiation with Small Particles and Their Ensembles: Theoretical Aspects",
+		"ru": "Особенности взаимодействия электромагнитного излучения с малыми частицами и их ансамблями: теоретические аспекты"
+	},
+	"abstract": {
+		"ua": "Розглянуто сучасний стан досліджень взаємодії електромагнетного випромінення з наночастинками та матрично-дисперсними системами на їх основі. Наведено основні розрахункові формули у хвильовому та електростатичному наближеннях. Проаналізовано відомі на цей час результати для окремих частинок і відповідних дисперсних систем. Виконано обговорення деяких чисельних результатів, одержаних авторами упродовж останніх років.",
+		"en": "The state-of-the-art of researches of interaction of an electromagnetic radiation with nanoparticles and matrix–disperse systems based on them is considered. The basic calculation formulas are given within the wave and electrostatic approximations. Known results by this time are analysed for separate particles and corresponding disperse systems. Some numerical results obtained by authors last years are discussed.",
+		"ru": "Рассмотрено современное состояние исследований взаимодействия электромагнитного излучения с наночастицами и матрично-дисперсными системами на их основе. Приведены основные расчётные формулы в волновом и электростатическом приближениях. Проанализированы известные к этому времени результаты для отдельных частиц и соответствующих дисперсных систем. Проведено обсуждение некоторых численных результатов, полученных авторами в последние годы."
+	},
+	"keywords": {
+		"ua": "нанотехнології, наночастинки, ефективна діелектрична проникність, спектри вбирання",
+		"en": "nanotechnology, nanoparticles, effecyive permittivity, absorption spectrum",
+		"ru": "нанотехнологии, наночастицы, эффективная диэлектрическая проницаемость, спектры поглощения"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Л. Б. Лерман", "en": "L. B. Lerman", "ru": "Л. Б. Лерман"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "О. Ю. Грищук", "en": "O. Yu. Gryshchuk", "ru": "Е. Ю. Грищук"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "Н. Г. Шкода", "en": "N. G. Shkoda", "ru": "Н. Г. Шкода"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "С. В. Шостка", "en": "S. V. Shostka", "ru": "С. В. Шостак"},
+			"OID": [237]
+		}
+	],
+	"cited_by": {
+		"count":  2,
+		"list":  [
+			{
+				"doi": "10.15407/mfint.36.03.0391",
+				"cit": "O. Yu. Gryshchuk and S. V. Stetsenko, <a href=\"https://doi.org/10.15407/mfint.36.03.0391\">Metallofiz. Noveishie Tekhnol. <b>36</b>, 391 (2016)</a>."
+			},
+			{
+				"doi": "10.15407/hftp07.03.255",
+				"cit": "L.B. Lerman, <a href=\"https://doi.org/10.15407/hftp07.03.255\">Him. Fiz. Tehnol. Poverhni <b>7</b>, 255 (2016)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 67,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "R. P. Feynman, Engineering and Science, 23, No. 5: 22 (1960).",
+				"tr":  "R. P. Feynman, Engineering and Science, 23, No. 5: 22 (1960)."
+			},
+			{
+				"doi": "",
+				"or":  "N. Tanigychi, Proc. Int. Conf. Prod. Eng. (Tokyo: 1974), part 2, p. 18.",
+				"tr":  "N. Tanigychi, Proc. Int. Conf. Prod. Eng. (Tokyo: 1974), part 2, p. 18."
+			},
+			{
+				"doi": "",
+				"or":  "K. E. Drexler, Engines of Creation: The Coming Era of Nanotechnology (New York: Anchor Books: 1986).",
+				"tr":  "K. E. Drexler, Engines of Creation: The Coming Era of Nanotechnology (New York: Anchor Books: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "K. E. Drexler, Nanosystems. Molecular Machinery, Manufacturing, and Computation (New York: Willey: 1992).",
+				"tr":  "K. E. Drexler, Nanosystems. Molecular Machinery, Manufacturing, and Computation (New York: Willey: 1992)."
+			},
+			{
+				"doi": "",
+				"or":  "Springer Series in Optical Sciences (Eds. M. L. Brongersma and P. G. Kik) (Springer: 2007), vol. 131, p. 169.",
+				"tr":  "Springer Series in Optical Sciences (Eds. M. L. Brongersma and P. G. Kik) (Springer: 2007), vol. 131, p. 169."
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Udovitskii, FIP PSE, 6, No. 3–4: 193 (2008) (in Russian).",
+				"tr":  "V. G. Udovitskii, FIP PSE, 6, No. 3–4: 193 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. G. Krushenko, Nanotechnology, No. 1 (13): 9 (2008) (in Russian).",
+				"tr":  "G. G. Krushenko, Nanotechnology, No. 1 (13): 9 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. V. Gaponenko, N. N. Rozanov, E. L. Ivchenko et al., Optica Nanostructur (Optics of Nanostructures) (Saint Petersburg: Nedra: 2005) (in Russian).",
+				"tr":  "S. V. Gaponenko, N. N. Rozanov, E. L. Ivchenko et al., Optica Nanostructur (Optics of Nanostructures) (Saint Petersburg: Nedra: 2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "U. Kreibig and M. Volmer, Springer Series in Material Science (Springer: 1995), vol. 25, p. 527.",
+				"tr":  "U. Kreibig and M. Volmer, Springer Series in Material Science (Springer: 1995), vol. 25, p. 527."
+			},
+			{
+				"doi": "",
+				"or":  "C. F. Boren and D. R. Huffman, Absorption and Scattering of Light by Small Particles (New York: Wiley: 1983).",
+				"tr":  "C. F. Boren and D. R. Huffman, Absorption and Scattering of Light by Small Particles (New York: Wiley: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Stretton, Teoriya Ehlectromagnetizma (Theory of Electromagnetism) (Moscow–Leningrad: Gostekhizdat: 1948) (Russian translation).",
+				"tr":  "J. Stretton, Teoriya Ehlectromagnetizma (Theory of Electromagnetism) (Moscow–Leningrad: Gostekhizdat: 1948) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "V. N. Lopatin and F. Ya. Sid’ko, Vvedenie v Optiku Vzvesei Kletok (Introduction to Optics of Cell Suspensions) (Novosibirsk: Nauka: 1988) (in Russian).",
+				"tr":  "V. N. Lopatin and F. Ya. Sid'ko, Vvedenie v Optiku Vzvesei Kletok (Introduction to Optics of Cell Suspensions) (Novosibirsk: Nauka: 1988) (in Russian)."
+			},
+			{
+				"doi": "10.1142/0784",
+				"or":  "P. W. Barber, Light Scattering by Particles: Computational Methods (Singapore–New Jersey–London–Hong Kong: World Scientific: 1990), vol. 2.",
+				"tr":  "P. W. Barber, Light Scattering by Particles: Computational Methods (Singapore–New Jersey–London–Hong Kong: World Scientific: 1990), vol. 2."
+			},
+			{
+				"doi": "",
+				"or":  "M. I. Mischenko, J. W. Hovenier, and L. D. Travis, Light Scattering by Nonspherical Particles (San Diego: Academic Press: 2000).",
+				"tr":  "M. I. Mischenko, J. W. Hovenier, and L. D. Travis, Light Scattering by Nonspherical Particles (San Diego: Academic Press: 2000)."
+			},
+			{
+				"doi": "",
+				"or":  "M. I. Mischenko, Ehlektromagnitnoe Rasseyanie v Sluchainykh Dispersnykh Sredakh: Fundamental’naya Teoriya i Prilozheniya (Electromagnetic Scattering in Random Dispersed Media: Fundamental Theory and Applications) (Thesis of Disser. for Dr. Phys.-Math. Sci.) (Kyyiv–New York: 2007).",
+				"tr":  "M. I. Mischenko, Ehlektromagnitnoe Rasseyanie v Sluchainykh Dispersnykh Sredakh: Fundamental'naya Teoriya i Prilozheniya (Electromagnetic Scattering in Random Dispersed Media: Fundamental Theory and Applications) (Thesis of Disser. for Dr. Phys.-Math. Sci.) (Kyyiv–New York: 2007)."
+			},
+			{
+				"doi": "10.1139/p77-235",
+				"or":  "C. G. Bohren and A. J. Hunt, Can. J. Phys, 55: 1930 (1977).",
+				"tr":  "C. G. Bohren and A. J. Hunt, Can. J. Phys, 55: 1930 (1977)."
+			},
+			{
+				"doi": "10.1007/s003400100701",
+				"or":  "M. Scharte, R. Porath, T. Ohms et al., Appl. Phys. B, 73, No. 4: 305 (2001).",
+				"tr":  "M. Scharte, R. Porath, T. Ohms et al., Appl. Phys. B, 73, No. 4: 305 (2001)."
+			},
+			{
+				"doi": "10.1139/p77-182",
+				"or":  "A. Mousssiaux, A. Ronveaux, and A. Lucas, Can. J. Phys., 55: 1423 (1977).",
+				"tr":  "A. Mousssiaux, A. Ronveaux, and A. Lucas, Can. J. Phys., 55: 1423 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Link and M. A. El-Sayed, J. Phys. Chem. B, 103: 1423 (1999).",
+				"tr":  "S. Link and M. A. El-Sayed, J. Phys. Chem. B, 103: 1423 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "L. G. Grechko, O. A. Davidova, V. M. Ogenko, and N. G. Shkoda, Radiophysics and Radioastronomy, 6, No. 4: 143 (2001).",
+				"tr":  "L. G. Grechko, O. A. Davidova, V. M. Ogenko, and N. G. Shkoda, Radiophysics and Radioastronomy, 6, No. 4: 143 (2001)."
+			},
+			{
+				"doi": "10.1364/JOSA.63.000308",
+				"or":  "J. Roth and M. J. Digman, J. Opt. Soc. Amer., 63, No. 3: 308 (1973).",
+				"tr":  "J. Roth and M. J. Digman, J. Opt. Soc. Amer., 63, No. 3: 308 (1973)."
+			},
+			{
+				"doi": "10.1063/1.444284",
+				"or":  "R. Sergio and S. Aragόn, J. Chem. Phys., 77, No. 7: 3406 (1982).",
+				"tr":  "R. Sergio and S. Aragόn, J. Chem. Phys., 77, No. 7: 3406 (1982)."
+			},
+			{
+				"doi": "10.1063/1.457731",
+				"or":  "B. Lange and S. R. Aragόn, J. Chem. Phys., 92, No. 15: 4643 (1990).",
+				"tr":  "B. Lange and S. R. Aragόn, J. Chem. Phys., 92, No. 15: 4643 (1990)."
+			},
+			{
+				"doi": "10.1029/91RS01192",
+				"or":  "Z. S. Wu and Y. P. Wang, Radio. Sci., 26: 1393 (1991).",
+				"tr":  "Z. S. Wu and Y. P. Wang, Radio. Sci., 26: 1393 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "A. P. Prishivalko, V. A. Babenko, and V. N. Kuz’min, Rasseyanie i Pogloshchenie Sveta Neodnorodnymi i Anizotropnymi Sfericheskimi Chastitsami (Scattering and Absorption of Light by Nonuniform and Anisotropic Spherical Particles) (Minsk: Nauka i Tekhnika: 1984) (in Russian).",
+				"tr":  "A. P. Prishivalko, V. A. Babenko, and V. N. Kuz'min, Rasseyanie i Pogloshchenie Sveta Neodnorodnymi i Anizotropnymi Sfericheskimi Chastitsami (Scattering and Absorption of Light by Nonuniform and Anisotropic Spherical Particles) (Minsk: Nauka i Tekhnika: 1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Kerker, The Scattering of Light and Other Electromagnetic Radiation (New York–London: Academic Press: 1969).",
+				"tr":  "M. Kerker, The Scattering of Light and Other Electromagnetic Radiation (New York–London: Academic Press: 1969)."
+			},
+			{
+				"doi": "10.1063/1.126190",
+				"or":  "L. G. Grechko, V. N. Pustovit, and K. W. Whites, Appl. Phys. Lett., 76, No. 14: 1854 (2000).",
+				"tr":  "L. G. Grechko, V. N. Pustovit, and K. W. Whites, Appl. Phys. Lett., 76, No. 14: 1854 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "L. G. Grechko, V. V. Gozhenko, and K. W. Whites, Interdepartmental Digest of Scientific Paper (Ed. O. O. Chuiko) (Kyyiv: 2002), Iss. 4–6, p. 179.",
+				"tr":  "L. G. Grechko, V. V. Gozhenko, and K. W. Whites, Interdepartmental Digest of Scientific Paper (Ed. O. O. Chuiko) (Kyyiv: 2002), Iss. 4–6, p. 179."
+			},
+			{
+				"doi": "10.1098/rsta.1904.0024",
+				"or":  "J. C. Maxwell-Garnett, Philos. Trans. Roy. Soc., 203: 385 (1904).",
+				"tr":  "J. C. Maxwell-Garnett, Philos. Trans. Roy. Soc., 203: 385 (1904)."
+			},
+			{
+				"doi": "",
+				"or":  "L. G. Grechko, V. V. Motrych, V. M. Pustovit, and S. V. Shostak, Proc. of Confer. ‘Physical Chemistry of Condensed Structural Nonuniform Systems’ (Kyyiv: 1998), p. 20 (in Ukrainian).",
+				"tr":  "L. G. Grechko, V. V. Motrych, V. M. Pustovit, and S. V. Shostak, Proc. of Confer. 'Physical Chemistry of Condensed Structural Nonuniform Systems' (Kyyiv: 1998), p. 20 (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "E. F. Venger, A. V. Goncharenko, and M. L. Dmytruk, Optyka Malykh Chastynok i Dyspersnykh Seredovyshch (Optics of Small Particles and Dispersed Media) (Kyyiv: Naukova Dumka: 1999) (in Ukrainian).",
+				"tr":  "E. F. Venger, A. V. Goncharenko, and M. L. Dmytruk, Optyka Malykh Chastynok i Dyspersnykh Seredovyshch (Optics of Small Particles and Dispersed Media) (Kyyiv: Naukova Dumka: 1999) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1063/1.324659",
+				"or":  "W. T. Doyle, J. Appl. Phys., 49 , No. 2:795 (1978).",
+				"tr":  "W. T. Doyle, J. Appl. Phys., 49, No. 2:795 (1978)."
+			},
+			{
+				"doi": "10.1016/0378-4371(94)90349-2",
+				"or":  "B. U. Felderhof, Physica A, 207, No. 1:13 (1994).",
+				"tr":  "B. U. Felderhof, Physica A, 207, No. 1:13 (1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.38.5371",
+				"or":  "R. G. Barrera, G. Monsivais, and W. L. Mochan, Phys. Rev. B, 38, No. 8: 5371 (1988).",
+				"tr":  "R. G. Barrera, G. Monsivais, and W. L. Mochan, Phys. Rev. B, 38, No. 8: 5371 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "L. G. Grechko, V. G. Levandovskii, V. M. Ogenko, and A. N. Pinchuk, Proc. SPIE ‘International Conference on Optical Storage, Imaging, and Transmission of Information’ (May 14–16, Kiev, 1996) (Bellingham: SPIE Press: 1997), vol. 3055, p. 111.",
+				"tr":  "L. G. Grechko, V. G. Levandovskii, V. M. Ogenko, and A. N. Pinchuk, Proc. SPIE 'International Conference on Optical Storage, Imaging, and Transmission of Information' (May 14–16, Kiev, 1996) (Bellingham: SPIE Press: 1997), vol. 3055, p. 111."
+			},
+			{
+				"doi": "10.1103/PhysRevB.39.9998",
+				"or":  "R. G. Barrera, G. Monsivais, W. L. Mochan, and E. Anda, Phys. Rev. B, 39, No. 14: 9998 (1989).",
+				"tr":  "R. G. Barrera, G. Monsivais, W. L. Mochan, and E. Anda, Phys. Rev. B, 39, No. 14: 9998 (1989)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.34.3730",
+				"or":  "R. Rojas and F. Claro, Phys. Rev. B, 34, No. 6: 3730 (1989).",
+				"tr":  "R. Rojas and F. Claro, Phys. Rev. B, 34, No. 6: 3730 (1989)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.44.12014",
+				"or":  "A. M. Jayannavar and N. Kumar, Phys. Rev. B, 44, No. 21: 12014 (1991).",
+				"tr":  "A. M. Jayannavar and N. Kumar, Phys. Rev. B, 44, No. 21: 12014 (1991)."
+			},
+			{
+				"doi": "10.1002/andp.19354160705",
+				"or":  "D. A. G. Bruggeman, P. J. Ann. Phys., 24, No. 7: 636 (1935) (in German).",
+				"tr":  "D. A. G. Bruggeman, P. J. Ann. Phys., 24, No. 7: 636 (1935) (in German)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.12.3368",
+				"or":  "D. Stroud, Phys. Rev. B, 12, No. 8: 3368 (1975).",
+				"tr":  "D. Stroud, Phys. Rev. B, 12, No. 8: 3368 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Lichtenecker, Physik Z., B27: 115 (1926) (in German).",
+				"tr":  "K. Lichtenecker, Physik Z., B27: 115 (1926) (in German)."
+			},
+			{
+				"doi": "10.1016/0031-8914(65)90045-5",
+				"or":  "H. Looyenga, Physica, 31, No. 3: 401 (1965).",
+				"tr":  "H. Looyenga, Physica, 31, No. 3: 401 (1965)."
+			},
+			{
+				"doi": "10.1109/PROC.1974.9388",
+				"or":  "J. R. Birchak, C. G. Gardner, J. E. Hipp, and J. M. Victor, Proc. IEEE, 62: 93 (1974).",
+				"tr":  "J. R. Birchak, C. G. Gardner, J. E. Hipp, and J. M. Victor, Proc. IEEE, 62: 93 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "D. J. Bergman, Les Méthodes de I‘homogénéisation: Théorie et Application en Physique (Paris: Ecole d’Eté d’Analyse Numérique, Edition Eyrolles: 1985).",
+				"tr":  "D. J. Bergman, Les Méthodes de I'homogénéisation: Théorie et Application en Physique (Paris: Ecole d'Eté d'Analyse Numérique, Edition Eyrolles: 1985)."
+			},
+			{
+				"doi": "",
+				"or":  "L. G. Grechko, N. G. Shkoda, and S. V. Shostak, Ukr. Fiz. Zhurnal, 47, No. 7: 694 (2002) (in Ukrainian).",
+				"tr":  "L. G. Grechko, N. G. Shkoda, and S. V. Shostak, Ukr. Fiz. Zhurnal, 47, No. 7: 694 (2002) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Spravochnik po Spetsialnym Funktsiyam (Handbook of Special Functions) (Eds. M. Abramowitz and I. A. Stegun) (Moscow: Nauka: 1979) (in Russian).",
+				"tr":  "Spravochnik po Spetsialnym Funktsiyam (Handbook of Special Functions) (Eds. M. Abramowitz and I. A. Stegun) (Moscow: Nauka: 1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "K. S. Shifrin, Rasseyanie Sveta v Mutnoi Srede (Light Scattering in Muddy Media) (Moscow–Leningrad: Gostechteorizdat: 1951) (in Russian).",
+				"tr":  "K. S. Shifrin, Rasseyanie Sveta v Mutnoi Srede (Light Scattering in Muddy Media) (Moscow–Leningrad: Gostechteorizdat: 1951) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. G. Grechko, L. B. Lerman, and N. G. Shkoda, Visnyk of Kyyiv University. Ser. Physics and Mathematics, No. 1: 386 (2004) (in Ukrainian).",
+				"tr":  "L. G. Grechko, L. B. Lerman, and N. G. Shkoda, Visnyk of Kyyiv University. Ser. Physics and Mathematics, No. 1: 386 (2004) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. G. Grechko, L. B. Lerman, and N. G. Shkoda, Visnyk of Kyyiv University. Ser. Physics and Mathematics, No. 2: 474 (2004) (in Ukrainian).",
+				"tr":  "L. G. Grechko, L. B. Lerman, and N. G. Shkoda, Visnyk of Kyyiv University. Ser. Physics and Mathematics, No. 2: 474 (2004) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. G. Grechko, L. B. Lerman, and N. G. Shkoda, Visnyk of Kyyiv University. Ser. Physics and Mathematics, No. 3: 376 (2004) (in Ukrainian).",
+				"tr":  "L. G. Grechko, L. B. Lerman, and N. G. Shkoda, Visnyk of Kyyiv University. Ser. Physics and Mathematics, No. 3: 376 (2004) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. G. Grechko, G. A. Eremenko, G. V. Krylova et al., Visnyk of Kyyiv University. Ser. Physics and Mathematics, No. 4: 450 (2004) (in Ukrainian).",
+				"tr":  "L. G. Grechko, G. A. Eremenko, G. V. Krylova et al., Visnyk of Kyyiv University. Ser. Physics and Mathematics, No. 4: 450 (2004) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. G. Grechko, L. B. Lerman, O. Ya. Pokotylo, and N. G. Shkoda, Visnyk of Kyyiv University. Ser. Physics and Mathematics, No. 3: 490 (2005) (in Ukrainian).",
+				"tr":  "L. G. Grechko, L. B. Lerman, O. Ya. Pokotylo, and N. G. Shkoda, Visnyk of Kyyiv University. Ser. Physics and Mathematics, No. 3: 490 (2005) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. S. Goncharuk, L. G. Grechko, O. Yu. Gryschuk et al., Visnyk of Kyyiv University. Ser. Physics and Mathematics, No. 2: 376 (2006) (in Ukrainian).",
+				"tr":  "Yu. S. Goncharuk, L. G. Grechko, O. Yu. Gryschuk et al., Visnyk of Kyyiv University. Ser. Physics and Mathematics, No. 2: 376 (2006) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. G. Grechko, L. B. Lerman, Yu. S. Goncharuk et al., Visnyk of Kyyiv University. Ser. Physics and Mathematics, No. 3: 451 (2006) (in Ukrainian).",
+				"tr":  "L. G. Grechko, L. B. Lerman, Yu. S. Goncharuk et al., Visnyk of Kyyiv University. Ser. Physics and Mathematics, No. 3: 451 (2006) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. G. Grechko, L. B. Lerman, L. M. Bilokrynytska, and S. V. Shostak, Visnyk of Kyyiv University. Ser. Physics and Mathematics, No. 1: 416 (2007) (in Ukrainian).",
+				"tr":  "L. G. Grechko, L. B. Lerman, L. M. Bilokrynytska, and S. V. Shostak, Visnyk of Kyyiv University. Ser. Physics and Mathematics, No. 1: 416 (2007) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. G. Grechko, L. B. Lerman, D. L. Vodop’yanov, and S. V. Shostak, Visnyk of Kyyiv University. Ser. Physics and Mathematics, No. 1: 416 (2007) (in Ukrainian).",
+				"tr":  "L. G. Grechko, L. B. Lerman, D. L. Vodop'yanov, and S. V. Shostak, Visnyk of Kyyiv University. Ser. Physics and Mathematics, No. 1: 416 (2007) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "D. L. Vodop’yanov, L. G. Grechko, L. B. Lerman, and L. M. Bilokrynytska, Visnyk of Kyyiv University. Ser. Physics and Mathematics, No. 3: 345 (2007) (in Ukrainian).",
+				"tr":  "D. L. Vodop'yanov, L. G. Grechko, L. B. Lerman, and L. M. Bilokrynytska, Visnyk of Kyyiv University. Ser. Physics and Mathematics, No. 3: 345 (2007) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "D. L. Vodop’yanov, L. G. Grechko, P. P. Gorbyk et al., Chemistry Physics and Technology of Surface, No. 13: 48 (2007) (in Russian).",
+				"tr":  "D. L. Vodop'yanov, L. G. Grechko, P. P. Gorbyk et al., Chemistry Physics and Technology of Surface, No. 13: 48 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. G. Grechko, O. Yu. Gryshchuk, L. Yu. Kunyts’ka et al., Metallofiz. Noveishie Tekhnol., 30, No. 6: 789 (2008) (in Russian).",
+				"tr":  "L. G. Grechko, O. Yu. Gryshchuk, L. Yu. Kunyts'ka et al., Metallofiz. Noveishie Tekhnol., 30, No. 6: 789 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. B. Lerman, Chemistry Physics and Technology of Surface, No. 14: 91 (2008) (in Russian).",
+				"tr":  "L. B. Lerman, Chemistry Physics and Technology of Surface, No. 14: 91 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. B. Lerman, M. A. Lyuschenko, Yu. S. Krivoruchko et al., Chemistry Physics and Technology of Surface, No. 14: 101 (2008) (in Russian).",
+				"tr":  "L. B. Lerman, M. A. Lyuschenko, Yu. S. Krivoruchko et al., Chemistry Physics and Technology of Surface, No. 14: 101 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. B. Lerman, Nanosystems, Nanomaterials, Nanotechnologies, 7: 37 (2009) (in Ukrainian).",
+				"tr":  "L. B. Lerman, Nanosystems, Nanomaterials, Nanotechnologies, 7: 37 (2009) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. G. Grechko, L. B. Lerman, S. L. Korech’kii et al., Visnyk of Kyyiv University. Ser. Physics and Mathematics, No. 4: 260 (2008) (in Ukrainian).",
+				"tr":  "L. G. Grechko, L. B. Lerman, S. L. Korech'kii et al., Visnyk of Kyyiv University. Ser. Physics and Mathematics, No. 4: 260 (2008) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. B. Lerman, M. A. Lyuschenko, and Yu. S. Krivoruchko, Chemistry Physics and Technology of Surface, No. 15: 51 (2009) (in Russian).",
+				"tr":  "L. B. Lerman, M. A. Lyuschenko, and Yu. S. Krivoruchko, Chemistry Physics and Technology of Surface, No. 15: 51 (2009) (in Russian)."
+			},
+			{
+				"doi": "10.1007/978-90-481-2309-4_1",
+				"or":  "L. G. Grechko, O. Yu. Grischuk, L. B. Lerman, and L. D. Shpak, Nanomaterials and Supramolecular Structures: Physics, Chemistry and Applications (Eds. A. P. Shpak and P. P. Gorbyk) (Springer: 2009), p. 3.",
+				"tr":  "L. G. Grechko, O. Yu. Grischuk, L. B. Lerman, and L. D. Shpak, Nanomaterials and Supramolecular Structures: Physics, Chemistry and Applications (Eds. A. P. Shpak and P. P. Gorbyk) (Springer: 2009), p. 3."
+			},
+			{
+				"doi": "",
+				"or":  "L. G. Grechko, L. B. Lerman, N. G. Shkoda et al., Visnyk of Kyyiv University. Ser. Physics and Mathematics, No. 4: 195 (2009) (in Ukrainian).",
+				"tr":  "L. G. Grechko, L. B. Lerman, N. G. Shkoda et al., Visnyk of Kyyiv University. Ser. Physics and Mathematics, No. 4: 195 (2009) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.6.4370",
+				"or":  "P. B. Jonson and R. W. Christy, Phys. Rev. B, 6, No. 12: 4370 (1972).",
+				"tr":  "P. B. Jonson and R. W. Christy, Phys. Rev. B, 6, No. 12: 4370 (1972)."
+			}
+		]
+	}
+}

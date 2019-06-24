@@ -1,0 +1,208 @@
+{
+	"_id":    "UFM.17.01.029",
+	"year":   2016,
+	"volume": 17,
+	"issue":  1,
+	"pages":  [29,51],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["29.09.2015"],
+	"PACS":   "68.37.Hk, 73.40.Rw, 73.61.Ng, 77.84.-s, 81.15.Cd, 81.15.Gh, 84.60.Rb",
+	"title":   {
+		"ua": "Аналіза конкурентоспроможних метод підвищення експлуатаційних властивостей функціональних шарів пласких нагрівальних елементів",
+		"en": "The Analysis of Competitive Methods of Improvement of Operational Properties of Functional Layers of Flat Heating Elements",
+		"ru": "Анализ конкурентоспособных методов повышения эксплуатационных свойств функциональных слоёв плоских нагревательных элементов"
+	},
+	"abstract": {
+		"ua": "За умов збільшення дефіциту природних енергоносіїв використання електричного струму в якості джерела теплової енергії набуває все більшої актуальности. Однією із нагальних проблем є розробка екологічно чистого, низькоінерційного електричного обігрівача для обігріву житлових приміщень, рухомого залізничного та міського транспорту. Наразі технологія виготовлення пласких нагрівальних елементів є низькопродуктивною, дороговартісною та енергоємною. Вона ґрунтується на методі багаторазового трафаретного друку з наступним складним термічним обробленням функціональних шарів. Причому діелектричні та резистивні пасти, які застосовуються в даній технології, містять дорогоцінні метали. У статті проаналізовано альтернативні технології виготовлення пласких нагрівальних елементів методами інженерії поверхні. Перша ґрунтується на використанні йонно-плазмового (магнетронного) розпорошення катоди, склад якої відповідає складу функціонального діелектричного або резистивного покриттів на підложжях із неіржавійної сталі, а друга — на розробці технології виготовлення функціональних шарів пласких нагрівальних елементів із діелектричних або резистивних паст на основі ситалоцементів із мінімальним вмістом дорогоцінних металів або без них.",
+		"en": "Applying of electric current as a source of thermal energy in the conditions of increasing scarcity of natural energy resources is becoming more important. The development of environmentally friendly electric heaters with low inertia for heating of premises, trains and municipal electric transport vehicles (cabins and carriages for trains, trams, trolleybuses) is one of energy conservation problem. Production technology of flat heaters is currently expensive and low productive. This technology is based on a multiple screen printing method followed by the complicated heat treatment. To product dielectric and resistive pastes, precious metals are used. The article focuses on development of alternative production technologies of flat heating elements via the surface-engineering methods using ion–plasma (magnetron) sputtering of cathode with composition close to the composition of functional dielectric or resistive layer on stainless-steel substrates and the development of new dielectric and resistor pastes based on glass-ceramic sealants with a minimal content of precious metals or without them.",
+		"ru": "В условиях возрастающего дефицита природных энергоносителей применение электрического тока как источника тепловой энергии приобретает всё большую актуальность. Одной из проблем является разработка экологически чистого, низкоинерционного электрического обогревателя для обогрева помещений, подвижного железнодорожного и городского электротранспорта. Сейчас технология производства плоских нагревательных элементов дорогая, низкопроизводительная, энергоёмкая и основана на методе многократной трафаретной печати с последующей сложной термической обработкой функциональных слоёв. Применяемые при этом диэлектрические и резистивные пасты изготовляются на основе драгоценных металлов. В статье проанализированы альтернативные технологии изготовления плоских нагревательных элементов методами инженерии поверхности. Первая основана на использовании ионно-плазменного (магнетронного) распыления катода, состав которого отвечает составу функционального диэлектрического или резистивного слоя на пластинах из нержавеющей стали, а вторая — на разработке новых диэлектрических и резистивных паст на основе ситаллоцементов с минимальным содержанием драгоценных металлов или без них."
+	},
+	"keywords": {
+		"ua": "плаский нагрівальний елемент, інженерія поверхні, діелектричні покриття, резистивні покриття, йонно-плазмове напорошення, склокристалічний матеріял",
+		"en": "flat heating element, surface engineering, dielectric coatings, resistive coatings, ion–plasma sputtering, glass-ceramic material",
+		"ru": "плоский нагревательный элемент, инженерия поверхности, диэлектрические покрытия, резистивные покрытия, ионно-плазменное напыление, стеклокристаллический материал"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "З. А. Дурягіна", "en": "Z. A. Duriagina", "ru": "З. А. Дурягина"},
+			"OID": [204, 445]
+		},
+		{
+			"AID": {"ua": "Т. М. Ковбасюк", "en": "T. M. Kovbasyuk", "ru": "Т. М. Ковбасюк"},
+			"OID": [204]
+		},
+		{
+			"AID": {"ua": "С. А. Беспалов", "en": " S. A. Bespalov", "ru": "С. А. Беспалов"},
+			"OID": [24]
+		}
+	],
+	"cited_by": {
+		"count":  2,
+		"list":  [
+			{
+				"doi": "10.15407/fm24.02.250",
+				"cit": "Z. Duriagina, <a href=\"https://doi.org/10.15407/fm24.02.250\">Funct.Mater. <b>24</b>, 005 (2017)</a>."
+			},
+			{
+				"doi": "10.15407/mfint.38.10.1367",
+				"cit": "Z. А. Duriagina, Т. М. Kovbasyuk, M. Zagula-Yavorska and S. A. Bespalov, <a href=\"https://doi.org/10.15407/mfint.38.10.1367\">Metallofiz. Noveishie Tekhnol. <b>38</b>, 1367 (2016)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 30,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "З. А. Дурягіна, В. Ю. Ольшанецький, Ю. І. Кононенко, Структурно-енергетичний стан внутрішніх та зовнішніх меж поділу у металевих системах (Львів: Видавництво Львівської політехніки: 2013).",
+				"tr":  "Z. A. Duryahina, V. Yu. Ol'shanets'kyy, and Yu. I. Kononenko, Strukturno-Energetychnyy Stan Vnutrishnikh ta Zovnishnikh Mezh Podilu u Metalevykh Systemakh [Structural and Energy State of Internal and External Surface Boundaries in Metallic Systems] (Lviv: Vydavnytstvo Lvivskoyi Politekhniky: 2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "З. А. Дурягіна, Фізика та хімія поверхні (Львів: Видавництво Львівської політехніки: 2009).",
+				"tr":  "Z. A. Duryahina, Fizyka ta Khimiya Poverkhni [Physics and Chemistry of Surface] (Lviv: Vydavnytstvo Lvivskoyi Politekhniky: 2009) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "З. А. Дурягіна, С. А. Беспалов, В. Я. Підкова, Д. Ю. Полоцький, Металлофиз. новейшие технол., 33, спецвып.: 395 (2011).",
+				"tr":  "Z. A. Duryahina, S. A. Bespalov, V. Ya. Pidkova, and D. Yu. Polots'kyy, Metalofiz. Noveishie Tekhnol., 33, Special Iss.: 395 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. А. Геодакян, Материаловедение, № 2: 232 (2008).",
+				"tr":  "D. A. Heodakian, Materialovedenie, No. 2: 232 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "З. А. Дурягіна, С. А. Беспалов, А. К. Борисюк, В. Я. Підкова, Металлофиз. новейшие технол., 33, № 5: 615 (2011).",
+				"tr":  "Z. A. Duryahina, S. A. Bespalov, A. K. Borysyuk, and V. Ya. Pidkova, Metallofiz. Noveishie Tekhnol., 33, No. 5: 615 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "З. А. Дурягіна, Н. В. Щербовських, В. Я. Підкова, Вісник національного університету «Львівська політехніка»: Нові матеріали і технології, № 702: 92 (2011).",
+				"tr":  "Z. A. Duryahina, N. V. Shcherbovs'kykh, and V. Ya. Pidkova, Visnyk Natsional'nogo Universytetu 'Lvivska Politekhnika': Novi Materialy i Tekhnologii, No. 702: 92 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1007/s11003-012-9514-x",
+				"or":  "Z. A. Duryahina, A. K. Borysyuk, S. A. Bespalov, and V. Ya. Pidkova, Materials Science, No. 48: 364 (2012).",
+				"tr":  "Z. A. Duryahina, A. K. Borysyuk, S. A. Bespalov, and V. Ya. Pidkova, Materials Science, No. 48: 364 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. С. Гроссман, Технология и конструирование в электронной аппаратуре, № 4: 65 (1992).",
+				"tr":  "B. S. Grossman, Tekhnologiya i Konstruirovanie Elektronnoi Apparatury, No. 4: 65 (1992) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Волкова, Т. К. Горбачева, Т. Н. Иванова, Л. Ф. Юрков, Электронная промышленность, № 9: 12 (1959).",
+				"tr":  "V. F. Volkova, T. K. Gorbacheva, T. N. Ivanova, and L. F. Yurkov, Elektronnaya Promyshlennost’, No. 9: 12 (1959) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "З. Дурягіна, В. Підкова, С. Беспалов, Фізико-хімічна механіка матеріалів, спецвип. № 9: 506 (2012)",
+				"tr":  "Z. Duryahina, V. Pidkova, and S. Bespalov, Fizyko-Khimichna Mekhanika Materialiv, Special Iss. No. 9: 506 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Короташ, В. Одиноков, Г. Павлов, Д. Полоцкий, Э. Руденко, В. Семенюк, В. Сологуб, Наноиндустрия, № 4: 14 (2010).",
+				"tr":  "I. Korotash, V. Odinokov, G. Pavlov, D. Polotskiy, E. Rudenko, V. Semenyuk, and V. Sologub, Nanoindustriya, No. 4: 14 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Шпак, Э. Руденко, И. Короташ, В. Семенюк, К. Шамрай, В. Одиноков, Г. Павлов, В. Сологуб, Наноиндустрия, № 4: 12 (2009).",
+				"tr":  "A. Shpak, E. Rudenko, I. Korotash, V. Semenyuk, K. Shamray, V. Odinokov, G. Pavlov, and V. Sologub, Nanoindustriya, No. 4: 12 (2009) (in Russian)."
+			},
+			{
+				"doi": "10.1038/354056a0",
+				"or":  "S Iijima, Nature, 354: 56 (1991).",
+				"tr":  "S Iijima, Nature, 354: 56 (1991)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.46.1804",
+				"or":  "R. Saito, M. Fujita, and G. Dresselhaus, Phys. Rev. B, 46: 1804 (1992).",
+				"tr":  "R. Saito, M. Fujita, and G. Dresselhaus, Phys. Rev. B, 46: 1804 (1992)."
+			},
+			{
+				"doi": "10.1116/1.579491",
+				"or":  "J. E. Stevens, M. J. Sowa, and J. L. Cecchi, J. Vac. Sci. Techhnol. A, 13: 2476 (1995).",
+				"tr":  "J. E. Stevens, M. J. Sowa, and J. L. Cecchi, J. Vac. Sci. Techhnol. A, 13: 2476 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "Z. A. Duryahina, V. Ya. Pidkova, and S. O. Olshevska, Functional Materials, 20, No. 2: 1 (2013).",
+				"tr":  "Z. A. Duryahina, V. Ya. Pidkova, and S. O. Olshevska, Functional Materials, 20, No. 2: 1 (2013)."
+			},
+			{
+				"doi": "10.15407/fm22.01.034",
+				"or":  "V. Pidkova, I. Brodnokovska, Z. Duryahina, and V. Petrovskyy, Functional Materials, 22, No. 1: 1 (2015).",
+				"tr":  "V. Pidkova, I. Brodnokovska, Z. Duryahina, and V. Petrovskyy, Functional Materials, 22, No. 1: 1 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "З. А. Дурягіна, А. П. Оксенюк, В. Я. Підкова, С. О. Ольшевська, Н. В. Цигилик, Спосіб отримання діелектричної плівки на основі оксиду алюмінію: Патент України № 81673 (опубліковано 10 липня 2013 р.).",
+				"tr":  "Z. A. Duryahina, A. P. Oksenyuk, V. Ya. Pidkova, S. O. Ol'shevs'ka, andN. V. Tsyhylyk, Sposib Otrymannya Dielektrychnoyi Plivky na Osnovi Oksydu Alyuminiyu [Method for Obtaining of Alumina-Based Dielectric Films]: Patent of Ukraine # 81673 (Published 10 July, 2013)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. М. Павлушкин, Г. Г. Сентюрин, Р. Я. Ходаковская, Практикум по технологии ситаллов (Москва: Стройиздат: 1970).",
+				"tr":  "N. M. Pavlushkyn, G. G. Sentyurin, and R. Ya. Khodakovskaya, Praktikum po Tekhnologii Sitallov [Practice on Pyroceramic Technology] (Moscow: Stroyizdat: 1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "З. Стрнад, Стеклокристаллические материалы (Москва: Стройиздат: 1988) (пер. с чеш.).",
+				"tr":  "Z. Strnad, Steklokristallicheskie Materialy [Glass-Ceramic Materials] (Moscow: Stroyizdat: 1988) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. М. Павлушкин, Основы технологии ситаллов (Москва: Стройиздат: 1979).",
+				"tr":  "N. M. Pavlushkin, Osnovy Tekhnologii Sitallov [Bases of Pyroceramic Technology] (Moscow: Stroyizdat: 1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Гребенкина, В. С. Доброер, Л. И. Панов, Ю. П. Тризна, Толстопленочная микроэлектроника (Киев: Наукова думка: 1983).",
+				"tr":  "V. H. Grebenkina, V. S. Dobroyer, L. I. Panov, and Yu. P. Trizna, Tolstoplyonochnaya Mikroelektronika [Thick-Film Microelectronics] (Kiev: Naukova Dumka: 1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Артамонова, М. С. Асланова, И. М. Бужинский, Химическая технология стекла и ситаллов: Учебное пособие для вузов (ред. Н. М. Павлушкин) (Москва: Стройиздат: 1983).",
+				"tr":  "M. V. Artamonova, M. S. Aslanova, and I. M. Buzhynskiy, Khimicheskaya Tekhnologiya Stekla i Sitallov: Uchebnoye Posobie dlya VUZov [Chemical Technology of Glass and Pyroceramics: Tutorial for Institutes of Higher Education] (Ed. N. M. Pavlushkin) (Moscow: Stroyizdat: 1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. М. Павлушкин, Стекло: Справочник (Москва: Стройиздат: 1973).",
+				"tr":  "N. M. Pavlushkin, Steklo: Spravochnik [Glass: Handbook] (Moscow: Stroyizdat: 1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Сорокин, А. В. Волосникова, С. А. Вяткин и др., Марочник сталей и сплавов (ред. В. Г. Сорокин) (Москва: Машиностроение: 1989).",
+				"tr":  "V. G. Sorokin, A. V. Volosnikova, S. A. Vyatkin et al., Marochnik Staley i Splavov [Labels for Steels and Alloys] (Ed. V. G. Sorokin) (Moscow: Mashinostroenie: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. К. Дружинин, В. В. Кудинов, Получение покрытий высокотемпературным распылением (Москва: Атомиздат: 1973).",
+				"tr":  "L. K. Druzhynin and V. V. Kudinov, Poluchenie Pokrytiy Vysokotemperaturnym Raspyleniem [Fabrication of Coatings by High-Temperature Sputtering] (Moscow: Atomizdat: 1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Kawasumi, Source Book on Applications of Metalworking (Metals Park, Ohio: ASM: 1981).",
+				"tr":  "H. Kawasumi, Source Book on Applications of Metalworking (Metals Park, Ohio: ASM: 1981)."
+			},
+			{
+				"doi": "",
+				"or":  "Технология толстых и тонких плёнок (ред. А. Рейсман, К. Роуз) (Москва: Мир: 1972) (пер. с англ.).",
+				"tr":  "Tekhnologiya Tolstykh i Tonkikh Plyonok [Thick and Thin Films for Electronic Applications] (Eds. A. Reisman and K. Rose) (Moscow: Mir: 1972) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "S. D. Stookey, DBR Patent 962.110 (1957).",
+				"tr":  "S. D. Stookey, DBR Patent 962.110 (1957)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Зимон, Адгезия жидкости и смачивание (Москва: Химия: 1974).",
+				"tr":  "A. D. Zimon, Adheziya Zhydkosti i Smachivanie [Adhesion of Liquid and Wetting] (Moscow: Khimiya: 1974) (in Russian)."
+			}
+		]
+	}
+}

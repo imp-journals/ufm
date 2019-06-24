@@ -1,0 +1,237 @@
+{
+	"_id":    "UFM.17.02.153",
+	"year":   2016,
+	"volume": 17,
+	"issue":  2,
+	"pages":  [153,172],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["28.12.2015"],
+	"PACS":   "63.70.+h, 65.40.De, 68.35.Ja, 68.49.-h, 75.50.Bb, 75.50.Cc, 75.70.Rf",
+	"title":   {
+		"ua": "Особливості динаміки атомів у нанорозмірній поверхневій області стопів на основі феромагнетних 3d-металів",
+		"en": "Features of Dynamics of Atoms in Nanosize Surface Area of the Ferromagnetic 3d-Metal-Based Alloys",
+		"ru": "Особенности динамики атомов в наноразмерной поверхностной области сплавов на основе ферромагнитных 3d-металлов"
+	},
+	"abstract": {
+		"ua": "Дану оглядову роботу присвячено 70-річчю Інституту металофізики ім. Г. В. Курдюмова Національної академії наук України (1945–2015 рр.). В огляді містяться результати досліджень динамічних характеристик поверхні феромагнетних монокристалічних стопів систем Fe–Ni і Cо–Nі відділу атомної структури і динаміки поверхні. Інтерес до вивчення динамічних властивостей поверхні металів і стопів обумовлено тим, що пояснення багатьох фізичних, хемічних і механічних властивостей поверхні матеріялів та їх макроскопічної поведінки прямо чи посередньо пов’язується з розгляданням коливального руху поверхневих атомів. Розроблена нова метода комплексної неруйнівної пошарової аналізи з моношаровим розділенням дозволяє вивчати атомову структуру й фізико-хемічні властивості поверхні, такі як елементний склад і динамічні характеристики (Дебайову температуру, середньоквадратичне зміщення атомів, коефіцієнт термічного розширення та силових констант). Встановлено зміну сил міжатомової взаємодії, що відбувається за фазових перетворень у поверхневих шарах феромагнетних стопів. Магнетне впорядкування спричинює значні зміни, як гармонічної, так і ангармонічної компоненти сил міжатомової взаємодії. У свою чергу це приводить до змін коефіцієнта термічного розширення у межах феромагнетної температури Кюрі, а також появи внеску у величини динамічних характеристик, визначених гармонічною складовою. Очевидно, що для поверхні подібні зміни відрізняться від об’ємних, внаслідок специфіки розподілу сил міжатомової взаємодії у поверхневих шарах.",
+		"en": "This review work is dedicated to the 70th anniversary of the G. V. Kurdyumov Institute for Metal Physics of National Academy of Sciences of Ukraine (1945–2015). The review reports on the results of investigations of dynamic characteristics of the surface of ferromagnetic single-crystal Fe–Ni and Co–Ni alloys obtained in department of the surface atomic structure and dynamics. Interest in the study of the surface dynamic properties of the metals and alloys is caused by the fact that the explanation of many physical, chemical, and mechanical properties of the surface materials and their macroscopic behaviour is directly or indirectly associated with the consideration of the vibrational motion of the surface atoms. The developed new method for complex non-destructive layer-by-layer analysis with monolayer resolution allows studying the atomic structure, element composition, and dynamic characteristics (Debye temperature, mean-square displacements of atoms, the coefficient of thermal expansion and the force constants). The change of the interatomic forces occurring during the phase transformations in surface region of the ferromagnetic alloys it determined. Magnetic ordering causes significant changes of both harmonic and anharmonic components of interatomic interaction forces. In turn, this leads to changes of thermal expansion coefficient within the range of ferromagnetic Curie temperature and also to the appearance of a contribution to the dynamic characteristics. It is obvious that these changes in the surface differ from the crystal bulk due to the specific distribution of the interatomic interaction forces in the surface layers.",
+		"ru": "Данная обзорная работа посвящена 70-летию Института металлофизики им. Г. В. Курдюмова Национальной академии наук Украины (1945–2015 гг.). В обзоре содержатся результаты исследований динамических характеристик поверхности ферромагнитных монокристаллических сплавов систем Fe–Ni и Cо–N отдела атомной структуры и динамики поверхности. Интерес к изучению динамических свойств поверхности металлов и сплавов вызван тем, что объяснение многих физических, химических и механических свойств поверхности материалов и их макроскопического поведения прямо или косвенно связывается с рассмотрением колебательного движения поверхностных атомов. Разработанный новый метод комплексного неразрушающего послойного анализа с монослойных разрешением позволяет изучать атомную структуру, элементный состав и динамические характеристики (температуру Дебая, среднеквадратичные смещения атомов, коэффициент термического расширения и силовые константы). Установлено изменение сил межатомного взаимодействия, которые происходят при фазовых превращениях в поверхностных слоях ферромагнитных сплавах. Магнитное упорядочение вызывает значительные изменения как гармоничной, так и ангармоничной компонент сил межатомного взаимодействия. В свою очередь это приводит к изменениям коэффициента термического расширения в пределах ферромагнитной температуры Кюри, а также появления вклада в величины динамических характеристик. Очевидно, что для поверхности подобные изменения отличатся от объемных в силу специфики распределения сил межатомного взаимодействия в поверхностных слоях."
+	},
+	"keywords": {
+		"ua": "Дебайова температура, динаміка ґратниці, термічне розширення, коливання атомів, дифракція повільних електронів",
+		"en": "Debye temperature, lattice dynamics, thermal expansion, atom  vibrations, low energy electron diffraction",
+		"ru": "температура Дебая, динамика решётки, термическое расширение, колебания атомов, дифракция свободных электронов"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. О. Васильєв", "en": "M. O. Vasylyev", "ru": "М. А. Васильев"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 40,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "С. Г. Калашников, О. И. Замша, ЖЭТФ, № 2: 1408 (1939).",
+				"tr":  "S. G. Kalashnikov and O. I. Zamsha, ZhETF, No. 2: 1408 (1939) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRev.133.A1188",
+				"or":  "A. A. Maradudin and J. Melugailes, Phys. Rev. A, 133: 1188 (1964).",
+				"tr":  "A. A. Maradudin and J. Melugailes, Phys. Rev. A, 133: 1188 (1964)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Алехин, Физика прочности и пластичности поверхностных слоёв материалов (Москва: Наука: 1983).",
+				"tr":  "V. P. Alekhin, Fizika Prochnosti i Plastichnosti Poverhnostnykh Sloyov Materialov [Physics of Strength and Plasticity of Surface Layer Materials] (Moscow: Nauka: 1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, Структура и динамика поверхности переходных металлов (Киев: Наукова думка: 1988).",
+				"tr":  "M. A. Vasiliev, Struktura i Dinamika Poverkhnosti Perekhodnykh Metallov [Structure and Dynamics of the Surface of Transition Metals] (Kiev: Naukova Dumka: 1988) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0039-6028(76)90393-9",
+				"or":  "V. S. Sundaram and W. D. Robertson, Surf. Sci., 55: 324 (1976).",
+				"tr":  "V. S. Sundaram and W. D. Robertson, Surf. Sci., 55: 324 (1976)."
+			},
+			{
+				"doi": "10.1103/PhysRev.129.2529",
+				"or":  "A. A. Maradulin and P. A Flinn, Phys. Rev., 129: 2529 (1963).",
+				"tr":  "A. A. Maradulin and P. A Flinn, Phys. Rev., 129: 2529 (1963)."
+			},
+			{
+				"doi": "10.1016/0039-6028(76)90396-4",
+				"or":  "W. Copel and G. Neuenfeldt, Surf. Sci., 55: 362 (1976).",
+				"tr":  "W. Copel and G. Neuenfeldt, Surf. Sci., 55: 362 (1976)."
+			},
+			{
+				"doi": "10.1016/0039-6028(71)90189-0",
+				"or":  "D. Aberdam and C. Gallbert, Surf. Sci., 27: 571 (1971).",
+				"tr":  "D. Aberdam and C. Gallbert, Surf. Sci., 27: 571 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Я. Томашпольский, Е. Н. Лубин, Поверхность. Физика. Химия. Механика, № 8: 120 (1982).",
+				"tr":  "Yu. Ya. Tomashpol'skiy and E. N. Lubin, Poverkhnost'. Fizika. Khimiya. Mekhanika, No. 8: 120 (1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Задонцев, Г. К. Зырянов, ФТТ, № 10: 3164 (1982).",
+				"tr":  "V. F. Zadontsev and G. K. Zyryanov, Fizika Tverdogo Tela, No. 10: 3164 (1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Князев, Г. К.Зырянов, И. А. Пчелкин, Успехи физ. наук, № 1: 73 (1985).",
+				"tr":  "S. A. Knyazev, G. K. Zyryanov, and I. A. Pchelkin, Uspekhi Fiz. Nauk, No. 1: 73 (1985) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.commatsci.2015.07.018",
+				"or":  "B. Romanowski, D. Chrobak, J. Raisanen, and R. Nowak, Comp. Mater. Sci., 109: 194 (2015).",
+				"tr":  "B. Romanowski, D. Chrobak, J. Raisanen, and R. Nowak, Comp. Mater. Sci., 109: 194 (2015)."
+			},
+			{
+				"doi": "10.1016/S0039-6028(03)00140-7",
+				"or":  "R. Luscher, T. F. Luckiger, M. Erbudak, and A. R. Kortan, Surf. Sci., 532–535: 8 (2003).",
+				"tr":  "R. Luscher, T. F. Luckiger, M. Erbudak, and A. R. Kortan, Surf. Sci., 532–535: 8 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Т. Черепин, М. А. Васильев, Методы и приборы для анализа поверхности материалов: Справочник (Киев: Наукова думка: 1982).",
+				"tr":  "V. T. Cherepin and M. A. Vasiliev, Metody i Pribory dlya Analiza Poverkhnosti Materialov: Spravochnik [Methods and Tools for Analysis of Surface of Materials: Handbook] (Kiev: Naukova Dumka: 1982) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0039-6028(01)00947-5",
+				"or":  "M. A. Vasiliev, A. Atrei, U. Bardi, and G. Rovida, Surf. Sci., 478: 18 (2001).",
+				"tr":  "M. A. Vasiliev, A. Atrei, U. Bardi, and G. Rovida, Surf. Sci., 478: 18 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Бабанская, Б. А. Бойко, М. А. Васильев, С. Д. Городецкий, В. Т. Черепин, Поверхность. Физика. Химия. Механика, № 5: 76 (1983).",
+				"tr":  "L. N. Babanskaya, B. A. Boyko, M. A. Vasiliev, S. D. Gorodeckiy, and V. T. Cherepin, Poverhnost'. Fizika. Khimiya. Mekhanika, No. 5: 76 (1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Бабанская, М. А. Васильев, С. Д. Городецкий, В. Т. Черепин, Приборы и техника эксперимента, № 1: 126 (1984).",
+				"tr":  "L. N. Babanskaya, M. A. Vasiliev, S. D. Gorodeckiy, and V. T. Cherepin, Pribory i Tekhnika Eksperimenta, No. 1: 126 (1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Бабанская, М. А. Васильев, С. Д. Городецкий, А. С. Филиппов, Приборы и техника эксперимента, № 2: 153 (1984).",
+				"tr":  "L. N. Babanskaja, M. A. Vasiliev, S. D. Gorodeckiy, and A. S. Filippov, Pribory i Tekhnika Eksperimenta, No. 2: 153 (1984) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0042-207X(87)90261-2",
+				"or":  "M. A. Vasiliev and S. D. Gorodetsky, Vacuum, 37: 723 (1987).",
+				"tr":  "M. A. Vasiliev and S. D. Gorodetskiy, Vacuum, 37: 723 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, С. Д. Городецкий, А. М. Мосейчук, Приборы и техника эксперимента, № 4: 205 (1990).",
+				"tr":  "M. A. Vasiliev, S. D. Gorodetskiy, and A. M. Moseichuk, Pribory i Tekhnika Eksperimenta, No. 4: 205 (1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, С. Д. Городецкий, А. М. Мосейчук, Приборы и техника эксперимента, № 5: 193 (1991).",
+				"tr":  "M. A. Vasiliev, S. D. Gorodetskiy, and A. M. Moseichuk, Pribory i Tekhnika Eksperimenta, No. 5: 193 (1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "J. B. Pendry, Low-Energy Electron Diffraction (London: Academic Press: 1974).",
+				"tr":  "J. B. Pendry, Low-Energy Electron Diffraction (London: Academic Press: 1974)."
+			},
+			{
+				"doi": "10.1063/1.1714559",
+				"or":  "R. L. Jacobson and G. K. Wehner, J. Appl. Phys., 36: 2674 (1965).",
+				"tr":  "R. L. Jacobson and G. K. Wehner, J. Appl. Phys., 36: 2674 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "К. К. Азов, В. П. Денисов, Г. К. Зырянов, Изв. АН СССР. Сер. Физ., № 12: 2617 (1973).",
+				"tr":  "K. K. Azov, V. P. Denisov, and G. K. Zyryanov, Izvestiya Akademii Nauk SSSR. Seriya Fizicheskaya, No. 12: 2617 (1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Нестеренко, О. В. Снитко, Физические свойства атомно-чистой поверхности полупроводников (Киев: Наукова думка: 1983).",
+				"tr":  "B. A. Nesterenko and O. V. Snitko, Fizicheskie Svoistva Atomno-Chistoy Poverkhnosti Poluprovodnikov [Physical Properties of Atomically Clean Semiconductor Surfaces] (Kiev: Naukova Dumka: 1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, С. Д. Городецкий, В. В. Мартынюк, А. С. Филиппов, Измерительная техника, № 8: 59 (1988).",
+				"tr":  "M. A. Vasiliev, S. D. Gorodetskiy, V. V. Martynyuk, and A. S. Filippov, Izmeritel'naya Tekhnika, No. 8: 59 (1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, С. Д. Городецкий, Поверхность. Физика. Химия. Механика, № 5: 98 (1987).",
+				"tr":  "M. A. Vasiliev and S. D. Gorodetskiy, Poverkhnost'. Fizika. Khimiya. Mekhanika, No. 5: 98 (1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, С. Д. Городецкий, А. М. Мосейчук, Б. Ю. Яворский, Металлофизика, № 5: 81 (1990).",
+				"tr":  "M. A. Vasiliev, S. D. Gorodetskiy, A. M. Moseichuk, B. Yu. Yavorskiy, Metallofizika, No. 5: 81 (1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, С. Д. Городецкий, А. Г. Блащук, Поверхность. Физика. Химия. Механика, № 5: 114 (1993).",
+				"tr":  "M. A. Vasiliev, S. D. Gorodetskiy, and A. G. Blashhuk, Poverkhnost'. Fizika. Khimiya. Mekhanika, No. 5: 114 (1993) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0042-207X(01)00393-1",
+				"or":  "A. Yoshimori, Vacuum, 65: 223 (2002).",
+				"tr":  "A. Yoshimori, Vacuum, 65: 223 (2002)."
+			},
+			{
+				"doi": "10.1088/0022-3727/30/22/002",
+				"or":  "M. A. Vasiliev, J. Phys. D: Appl. Phys., 30: 3037 (1997).",
+				"tr":  "M. A. Vasiliev, J. Phys. D: Appl. Phys., 30: 3037 (1997)."
+			},
+			{
+				"doi": "10.1016/0039-6028(86)91059-9",
+				"or":  "M. A. Vasiliev and S. D. Gorodetsky, Surf. Sci., 171: 543 (1986).",
+				"tr":  "M. A. Vasiliev and S. D. Gorodetsky, Surf. Sci., 171: 543 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, М. А. Иванов, М. Б. Шевченко, А. Г. Блащук, ЖЭТФ, 122: 392 (2002).",
+				"tr":  "M. A. Vasiliev, M. A. Ivanov, M. B. Shevchenko, and A. G. Blashchuk, ZhETF, 122: 392 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Vasiliev, M. A. Ivanov, M. B. Shevchenko, and A. G. Blaschuk, phys. stat. sol. (a), 189: 955 (2002).",
+				"tr":  "M. A. Vasylyev, M. A. Ivanov, M. B. Shevchenko, and A. G. Blaschuk, phys. stat. sol. (a), 189: 955 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Vasiliev, M. A. Ivanov, M. B. Shevchenko, and A. G. Blaschuk, Metallofiz. Noveishie Tekhnol., 27: 277 (2005).",
+				"tr":  "M. A. Vasiliev, M. A. Ivanov, M. B. Shevchenko, and A. G. Blashchuk, Metallofiz. Noveishie Tekhnol., 27: 277 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, С. Д. Городецкий, А. М. Мосейчук, Поверхность. Физика. Химия. Механика, № 8: 140 (1991).",
+				"tr":  "M. A. Vasiliev, S. D. Gorodetskiy, and A. M. Moseichuk, Poverhnost'. Fizika. Khimiya. Mekhanika, No. 8: 140 (1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, С. Д. Городецкий, Б. Ю. Яворский, Поверхность. Физика. Химия. Механика, № 8: 93 (1992).",
+				"tr":  "M. A. Vasiliev, S. D. Gorodetskiy, and B. Yu. Yavorskiy, Poverhnost'. Fizika. Khimiya. Mekhanika, No. 8: 93 (1992) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, С. М. Волошко, И. П. Литвицкая, Металлофиз. новейшие технол., № 8: 55 (1994).",
+				"tr":  "M. A. Vasiliev, S. M. Voloshko, and I. P. Litvitskaya, Metallofiz. Noveishie Tekhnol., No. 8: 55 (1994) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, И. П. Литвицкая, О. А. Мищук, Металлофиз. новейшие технол., № 5: 70 (1994).",
+				"tr":  "M. A. Vasiliev, I. P. Litvitskaya, and O. A. Mishhuk, Metallofiz. Noveishie Tekhnol., No. 5: 70 (1994) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, А. Г. Блащук, И. Н. Макеева, Металлофиз. новейшие технол., № 4: 489 (2005).",
+				"tr":  "M. A. Vasiliev, A. G. Blashchuk, and I. N. Makeeva, Metallofiz. Noveishie Tekhnol., No. 4: 489 (2005) (in Russian)."
+			}
+		]
+	}
+}

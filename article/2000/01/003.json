@@ -1,0 +1,36 @@
+{
+	"_id":    "UFM.01.01.003",
+	"year":   2000,
+	"volume": 1,
+	"issue":  1,
+	"pages":  [3,7],
+	"type":   2,
+	"lang":   "ru",
+	"date":   [""],
+	"PACS":   "01.10.Hx, 01.30.Rr, 01.30.Tt, 01.90.+g",
+	"title":   {
+		"ua": "Щоквартальні огляди в журналі «Успехи физики металлов»",
+		"en": "Quarterly Reviews in the Journal 'Uspehi Fiziki Metallov'",
+		"ru": "Ежеквартальные обзоры в журнале «Успехи физики металлов»"
+	},
+	"abstract": {
+		"ua": "",
+		"en": "",
+		"ru": ""
+	},
+	"keywords": {
+		"ua": "",
+		"en": "",
+		"ru": ""
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Редакційна колеґія", "en": "Editorial Board", "ru": "Редакционная коллегия"},
+			"OID": []
+		}
+	],
+	"references": {
+		"count": 0,
+		"list":  []
+	}
+}

@@ -1,0 +1,206 @@
+{
+	"_id":    "UFM.02.01.007",
+	"year":   2001,
+	"volume": 2,
+	"issue":  1,
+	"pages":  [7,50],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["13.06.2000", "21.09.2000"],
+	"PACS":   "62.20.Dc, 62.20.Mk, 65.40.De, 65.70.+y, 65.80.+n, 68.35.Md",
+	"title":   {
+		"ua": "Концепція критичної густини енергії у моделях руйнування твердих тіл",
+		"en": "The Concept of a Critical Density of Energy in Models of Fracture of Solids",
+		"ru": "Концепция критической плотности энергии в моделях разрушения твердых тел"
+	},
+	"abstract": {
+		"ua": "В роботі розвинуто нову енергетичну концепцію руйнування твердих тіл (ТТ), що базується на критеріях критичної густини пружної енергії в джерелі руйнування $p_{с}$, яка різниться для трьох масштабних рівнів процесу — атомного, мікроскопічного та макроскопічного. Обгрунтуванням цих критеріїв служить емпірична закономірність пропорційної залежності між приростами об’єму ТТ і потенційної енергії міжатомних зв’язків при механічному розтягу (поза межами лінійної області пружних деформацій) і тепловому нагріванні ТТ. Коефіцієнтом пропорційності є параметр густини енергії міжатомних зв’язків $p_{0} = Q_{c}/V_{0}$ ($Q_{c}$ — енергія сублімації, $V_{0}$ — молярний об’єм при 0 К). Цю закономірність названо принципом збереження густини потенційної енергії у надлишковому об’ємі (ПЗГПЕ), виходячи з якого в роботі отримано прості співвідношення для вирахування цілого ряду фундаментальних механічних і теплових характеристик — коефіцієнту термічного розширення, модулів Юнга, зсуву і всебічного стиску, енергії сублімації, граничної (теоретичної) міцності на відрив і зсув, постійної Грюнайзена, поверхневої енергії тощо. Всі критерії густини енергії мають в собі константу $p_{0}$ і для матеріалу, що містить ідеально гострі нанотріщини набувають вигляду критерію, аналогічного критерію Гріфітса, проте з уточненим (в 6 разів більшим) показником енерговитрат, які є достатніми для утворення вільної поверхні тіла. Показано, що новий критерій є єдиним для руйнування як ідеально крихких тіл, так і квазікрихких матеріалів, чим принципово відрізняється від класичного критерія Грифітса.",
+		"en": "New energy conception of both solid’s fracture based on criteria of critical density of elastic energy, $p_{с}$, in fracture nuclei and three scale levels of the process, viz. atomic, microscopic and macroscopic ones, is developed in a given paper. Empirically observed regularity — the proportionality between increments of solid volume and potential energy of interatomic bonds at mechanical tension (in non-liner area of elastic deformations) and heating of solids—gives rise to these criteria. Parameter of density of interatomic-bond energy, $p_{0} = Q_{c}/V_{0}$ (where $Q_{c}$ is the sublimation energy, $V_{0}$ is the molar volume at 0 K), is a proportionality coefficient. This regularity is called as ‘the principle of constancy of density of potential energy within increment volume’ (PCDPE). On the basis of this principle, simple relations for calculation of a whole series of fundamental mechanical and thermal characteristics such as thermal-expansion coefficient, Young’s modulus, shear modulus, uniform (triaxial) compression modulus, sublimation energy, theoretical (ultimate) tearing and shearing strength, Grüneisen parameter, surface energy, etc. were obtained. All criteria of the critical density of energy include the constant $p_{0}$, and in specific case of material with atomically-sharp nanocracks, result in criterion similar to the Griffith’s one, but with a more precise (6 times greater) sufficient value of specific energy of the free-surface formation. It is shown that this new criterion is common for fracture in perfectly brittle solids as well as in quasi-brittle materials, and thereby substantially differs from classical Griffith’s criterion.",
+		"ru": "В работе развивается новая энергетическая концепция разрушения твердых тел (ТТ), основанная на критериях критической плотности упругой энергии в очаге разрушения $p_{с}$, для трех масштабных уровней процесса — атомного, микроскопического и макроскопического. В обосновании критериев положена эмпирически наблюдаемая закономерность о пропорциональном соотношении между приращениями объема ТТ и потенциальной энергии межатомных связей при механическом растяжении (в нелинейной области упругих деформаций) и тепловом нагревании твердых тел. Коэффициентом пропорциональности является параметр плотности энергии межатомных связей $p_{0} = Q_{c}/V_{0}$ ($Q_{c}$ — энергия сублимации, $V_{0}$ — молярный объем при 0 К). Эта закономерность названа принципом сохранения плотности потенциальной энергии в приращенном объеме (ПСППЭ), исходя из которого в работе получены простые соотношения для вычисления целого ряда фундаментальных механических и тепловых характеристик — коэффициента термического расширения, модулей Юнга, сдвига и всестороннего сжатия, энергии сублимации, предельной (теоретической) прочности на отрыв и сдвиг, постоянной Грюнайзена, поверхностной энергии и др. Все критерии критической плотности энергии содержат константу $p_{0}$ и в частном случае материала, содержащего предельно острые нанотрещины, приводят к критерию, аналогичному критерию Гриффитса, однако с уточненным (в 6 раз большим) показателем энергозатрат, достаточных для обр азования свободной поверхности. Показано, что новый критерий является единым для разрушения как идеально хрупких тел, так и для квазихрупких материалов, чем принципиально отличается от классического критерия Гриффитса."
+	},
+	"keywords": {
+		"ua": "енергія зв'язку, об'єм атома, густина енергії, пружні модулі, гранична міцність, критерій руйнування",
+		"en": "binding energy, atomic volume, energy density, elastic moduli, ultimate strength, fracture criterion",
+		"ru": "энергия связи, объем атома, плотность энергии, упругие модули, предельная прочность, критерий разрушения"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. Я. Мешков", "en": "Yu. Ya. Meshkov", "ru": "Ю. Я. Мешков"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.11.01.019",
+				"cit": "I. M. Laptev and O. O. Parkhomenko, <a href=\"https://doi.org/10.15407/ufm.11.01.019\">Usp. Fiz. Met. <b>11</b>, 19 (2010)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 32,
+		"list":  [
+			{
+				"doi": "10.1098/rsta.1921.0006",
+				"or":  "A. A. Griffith, Phil. Trans. Roy. Soc. A, 221: 163 (1920).",
+				"tr":  "A. A. Griffith, Phil. Trans. Roy. Soc. A, 221: 163 (1920)."
+			},
+			{
+				"doi": "",
+				"or":  "A. H. Cottrell, Fracture. A Topical Encyclopedia of Current Knowledge (Malabar, Florida: Kriger Publishing Company: 1998), p. 368.",
+				"tr":  "A. H. Cottrell, Fracture. A Topical Encyclopedia of Current Knowledge (Malabar, Florida: Kriger Publishing Company: 1998), p. 368."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Я. Мешков, Физические основы разрушения стальных конструкций (Киев: Наукова думка: 1981).",
+				"tr":  "Yu. Ya. Meshkov, Fizicheskie osnovy razrusheniya stal'nykh konstruktsiy (Kiev: Naukova dumka: 1981)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Я. Мешков, Г. А. Пахаренко, Структура металла и хрупкость стальных изделий (Киев: Наукова думка: 1985).",
+				"tr":  "Yu. Ya. Meshkov, G. A. Pakharenko, Struktura metalla i khrupkost' stal'nykh izdeliy (Kiev: Naukova dumka: 1985)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Котречко, Металлофизика и новейшие технологии, 16, № 10: 37 (1994).",
+				"tr":  "S. A. Kotrechko, Metallofizika i Noveishie Tekhnologii, 16, No. 10: 37 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "J. F. Knott, Физико-химическая механика материалов, 29, № 3: 42 (1993).",
+				"tr":  "J. F. Knott, Fiziko-khimicheskaya mekhanika materialov, 29, No. 3: 42 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Orowan, Fatigue and Fract. of Met. MIT Symposium (New York: 1950), p. 139.",
+				"tr":  "E. Orowan, Fatigue and Fract. of Met. MIT Symposium (New York: 1950), p. 139."
+			},
+			{
+				"doi": "",
+				"or":  "E. Orowan, Welding J., 34: 157 (1955).",
+				"tr":  "E. Orowan, Welding J., 34: 157 (1955)."
+			},
+			{
+				"doi": "10.1063/1.1721615",
+				"or":  "J. D. Eshelby, J. Appl. Phys., 25: 255 (1954).",
+				"tr":  "J. D. Eshelby, J. Appl. Phys., 25: 255 (1954)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Я. Мешков, Металлофизика и новейшие технологии, 18, № 5: 60 (1996).",
+				"tr":  "Yu. Ya. Meshkov, Metallofizika i Noveishie Tekhnologii, 18, No. 5: 60 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Кэй, Т. Леби, Таблицы физических и химических постоянных (Москва: Физматгиз: 1962).",
+				"tr":  "Dzh. Key, T. Lebi, Tablitsy fizicheskikh i khimicheskikh postoyannykh (Moskva: Fizmatgiz: 1962)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. И. Френкель, Введение в теорию металлов (Москва–Ленинград: Госиздат технико-теоретич. литературы: 1950).",
+				"tr":  "Ya. I. Frenkel', Vvedenie v teoriyu metallov (Moskva–Leningrad: Gosizdat tekhniko-teoretich. literatury: 1950)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Белоус, М. П. Браун, Физика металлов (Киев: Вища школа: 1986).",
+				"tr":  "M. V. Belous, M. P. Braun, Fizika metallov (Kiev: Vishcha shkola: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Г. Лившиц, Г. С. Крапошин, Я. А. Линецкий, Физические свойства металлов и сплавов (Москва: Металлургия: 1980).",
+				"tr":  "B. G. Livshits, G. S. Kraposhin, Ya. A. Linetskiy, Fizicheskie svoystva metallov i splavov (Moskva: Metallurgiya: 1980)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Лариков, Вопросы физики металлов и металловедения (Киев: Наукова думка: 1967), с. 35.",
+				"tr":  "L. N. Larikov, Voprosy fiziki metallov i metallovedeniya (Kiev: Naukova dumka: 1967), s. 35."
+			},
+			{
+				"doi": "10.1007/BF01326309",
+				"or":  "A. Seeger and H. Stehle, Z. Phys., 146: 242 (1956).",
+				"tr":  "A. Seeger and H. Stehle, Z. Phys., 146: 242 (1956)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Штремель, Прочность сплавов. Дефекты решетки (Москва: Металлургия: 1982).",
+				"tr":  "M. A. Shtremel', Prochnost' splavov. Defekty reshetki (Moskva: Metallurgiya: 1982)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Я. Пинес, Очерки по металлофизике (Харьков: Изд-во Харьковского университета: 1951), с. 98.",
+				"tr":  "B. Ya. Pines, Ocherki po metallofizike (Khar'kov: Izd-vo Khar'kovskogo universiteta: 1951), s. 98."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Макмиллан, Идеальная прочность тел. Механика, атомистика разрушения (Москва: Мир: 1987).",
+				"tr":  "N. Makmillan, Ideal'naya prochnost' tel. Mekhanika, atomistika razrusheniya (Moskva: Mir: 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Л. Бернштейн, В. А. Займовский, Структура и механические свойства металлов (Москва: Металлургия: 1970).",
+				"tr":  "M. L. Bernshteyn, V. A. Zaymovskiy, Struktura i mekhanicheskie svoystva metallov (Moskva: Metallurgiya: 1970)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Иванова, Усталостное разрушение металлов (Москва: Металлургия: 1983).",
+				"tr":  "V. S. Ivanova, Ustalostnoe razrushenie metallov (Moskva: Metallurgiya: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Петров, В. И. Бетехтин, Физ. мет. металловед., 34, вып. 1: 39 (1972).",
+				"tr":  "A. I. Petrov, V. I. Betekhtin, Fiz. met. metalloved., 34, No. 1: 39 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "J. E. Mackenzie, Phil. Doct. Thesis (Bristol: 1949).",
+				"tr":  "J. E. Mackenzie, Phil. Doct. Thesis (Bristol: 1949)."
+			},
+			{
+				"doi": "10.1080/01418618208236930",
+				"or":  "M. Mullins and M. A. Dokainish, Phil. Mag. A, 46, No. 5: 771 (1982).",
+				"tr":  "M. Mullins and M. A. Dokainish, Phil. Mag. A, 46, No. 5: 771 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Я. Ярема, А.-А. Гріффітс (1893–1963), Физико-химическая механика материалов, 29, № 3: 7 (1993).",
+				"tr":  "S. Ya. Yarema, A.-A. Griffits (1893–1963), Fiziko-khimicheskaya mekhanika materialov, 29, No. 3: 7 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Я. Мешков, МиТОМ, 1: 30 (1996).",
+				"tr":  "Yu. Ya. Meshkov, MiTOM, 1: 30 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "C. E. Inglis, Trans. Roy. Inst. Nav. Archit., 55: 219 (1913).",
+				"tr":  "C. E. Inglis, Trans. Roy. Inst. Nav. Archit., 55: 219 (1913)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Я. Мешков, Т. Н. Сердитова, Разрушение деформированной стали (Киев: Наукова думка: 1989).",
+				"tr":  "Yu. Ya. Meshkov, T. N. Serditova, Razrushenie deformirovannoy stali (Kiev: Naukova dumka: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Броек, Основы механики разрушения (Москва: Высшая школа: 1980).",
+				"tr":  "D. Broek, Osnovy mekhaniki razrusheniya (Moskva: Vysshaya shkola: 1980)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Хан, Б. Авербах, В. Оуэн, М. Коэн, Атомный механизм разрушения (Москва: Гос. НТИ чер. и цвет. металл.: 1963), с. 109.",
+				"tr":  "Dzh. Khan, B. Averbakh, V. Ouen, M. Koen, Atomnyy mekhanizm razrusheniya (Moskva: Gos. NTI cher. i tsvet. metall.: 1963), s. 109."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Котречко, Ю. Я. Мешков, К. П. Рябошапка, Н. Н. Стеценко, Металлофизика и новейшие технологии, 17, № 1: 51 (1995).",
+				"tr":  "S. A. Kotrechko, Yu. Ya. Meshkov, K. P. Ryaboshapka, N. N. Stetsenko, Metallofizika i Noveishie Tekhnologii, 17, No. 1: 51 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. П. Зимина, С. А. Котречко, Ю. Я. Мешков, Сб. «Электронная микроскопия и прочность материалов». Труды ИПМ НАН Украины (Киев: ИПМ НАН Украины: 1999), вып. 10, с. 54.",
+				"tr":  "G. P. Zimina, S. A. Kotrechko, Yu. Ya. Meshkov, Sb. «Elektronnaya mikroskopiya i prochnost' materialov». Trudy IPM NAN Ukrainy (Kiev: IPM NAN Ukrainy: 1999), No. 10, s. 54."
+			}
+		]
+	}
+}

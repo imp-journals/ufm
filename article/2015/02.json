@@ -1,0 +1,49 @@
+{
+	"year":   2015,
+	"volume": 16,
+	"issue":  2,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [85,117],
+			"title": {
+				"ua": "Абсорбція водню тонкими плівками",
+				"en": "Absorption of Hydrogen by Thin Films",
+				"ru": "Абсорбция водорода тонкими плёнками"
+			},
+			"autors": {
+				"ua": "В. В. Власов, О. Г. Гугля, Ю. О. Марченко, О. С. Мельникова",
+				"en": "V. V. Vlasov, O. G. Guglya, Yu. O. Marchenko, and O. S. Melnikova",
+				"ru": "В. В. Власов, А. Г. Гугля, Ю. А. Марченко, Е. С. Мельникова"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [119,157],
+			"title": {
+				"ua": "Закономірності формування структурно-фазових станів на поверхні металів і стопів за електровибухового леґування",
+				"en": "Regularities of Formation of Structural–Phase States on a Surface of Metals and Alloys at an Electroexplosive Alloying",
+				"ru": "Закономерности формирования структурно-фазовых состояний на поверхности металлов и сплавов при электровзрывном легировании"
+			},
+			"autors": {
+				"ua": "Д. А. Романов, В. Є. Громов, Є. А. Будовских, Ю. Ф. Іванов",
+				"en": "D. A. Romanov, V. E. Gromov, Е. А. Budovskikh, and Yu. F. Ivanov",
+				"ru": "Д. А. Романов, В. Е. Громов, Е. А. Будовских, Ю. Ф. Иванов"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [159,173],
+			"title": {
+				"ua": "Нові фізичні уявлення щодо природи прояву недосконалостей структури матеріялів у картині багатократного розсіяння випромінення та перспективи їх використання",
+				"en": "New Physical Conceptions about the Nature of Manifestation of Imperfections of Structure of Materials in a Pattern of Multiple Scattering of Radiation and Prospect of Their Application",
+				"ru": "Новые физические представления о природе проявления несовершенств структуры материалов в картине многократного рассеяния излучения и перспективы их применения"
+			},
+			"autors": {
+				"ua": "В. Б. Молодкін, В. Ю. Сторіжко, В. В. Лізунов, С. В. Лізунова, М. Г. Толмачов, Л. М. Скапа, К. В. Фузік, В. В. Молодкін, О. С. Скакунова, Б. В. Шелудченко, С. В. Дмітрієв, Є. В. Кочелаб, Р. В. Лехняк",
+				"en": "V. B. Molodkin, V. Yu. Storizhko, V. V. Lizunov, S. V. Lizunova, M. G. Tolmachov, L. M. Skapa, K. V. Fuzik, V. V. Molodkin, O. S. Skakunova, B. V. Sheludchenko, S. V. Dmitriev, Ye. V. Kochelab, and R. V. Lekhnyak",
+				"ru": "В. Б. Молодкин, В. Е. Сторижко, В. В. Лизунов, С. В. Лизунова, Н. Г. Толмачёв, Л. Н. Скапа, Е. В. Фузик, В. В. Молодкин, Е. С. Скакунова, Б. В. Шелудченко, С. В. Дмитриев, Е. В. Кочелаб, Р. В. Лехняк"
+			}
+		}
+	]
+}

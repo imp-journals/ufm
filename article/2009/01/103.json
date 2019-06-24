@@ -1,0 +1,278 @@
+{
+	"_id":    "UFM.10.01.103",
+	"year":   2009,
+	"volume": 10,
+	"issue":  1,
+	"pages":  [103,130],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["17.11.2008"],
+	"PACS":   "61.72.jd, 62.20.Hg, 62.20.M-, 62.23.Pq, 66.30.J-, 79.60.Jv, 81.40.Np",
+	"title":   {
+		"ua": "Сучасні тенденції розвитку фізики легких металів",
+		"en": "Contemporary Trends of the Development of Physics of Light Metals",
+		"ru": "Современные тенденции развития физики лёгких металлов"
+	},
+	"abstract": {
+		"ua": "Узагальнено результати ориґінальних теоретичних і експериментальних досліджень в області фізики міцности, мікро- і наноплинности, кінетики й механізму домішкового окрихчення найбільш легких металів із ГЩП-ґратницею − берилію і магнію, а також алюмінію і титану. Частина з них пов’язана з науковими дослідженнями видатних фізиків — академіків В. Н. Гріднєва й А. А. Смирнова. Дано короткий огляд існуючих підходів до проблеми низькотемпературної крихкости й крихкої міцности, заснованих на силових (атермічних) критеріях зародження руйнування. Розглянуто новий підхід до оцінки механічних властивостей металів, що враховує атермічний і термічно активований внески на субкритичній стадії стабільного росту структурних дефектів. У термінах розробленої дисльокаційної теорії температурної залежности істинного руйнуючого напруження й термоактиваційної аналізи мікроплинности, що передує й супроводжує поширення руйнування, побудовано нову принципову (узагальнену) схему квазикрихкого переходу. Досліджено відкриті системи із частково порушеним далеким порядком і відхилом від клясичного (Арреніюсового) механізму дифузії, що спричинено зміною механізму дифузії та кластеризацією структури (ГЩП-Ті−Н, ГЩП-Ве−С). Розроблено фізичні принципи прецизійного леґування для in situ об’ємної нанокластеризації структури конденсованих металевих систем (розтопів і їх твердих розчинів, пересичених надлишковими вакансіями). На цій основі розв’язано фізичну проблему радикального підвищення квантового виходу фотоемісії ГЩП-Mg і ГЦК-Al в УФ-області спектру. Розроблено нову клясу перспективних фотоемісійних матеріялів на основі металічних систем стопів Mg−Ba−Li й Al−Li−Ba, які призначені для інжекторів лазерів на вільних електронах і технологічних електронних прискорювачів нового покоління. Зазначено нові області застосування легких металів і їх стопів, що містять нанокластери з власною електронною структурою.",
+		"en": "The results of original theoretical and experimental researches in a field of strength physics, microand nanoyield, kinetics and mechanisms of the delayed fracture and impurity embrittlement of light metals (h.c.p. Mg, h.c.p. Be, h.c.p. Ti and f.c.c. Al) are generalized. Some of them are concerned with scientific legacy of outstanding physicists–academicians V. N. Gridnev and A. A. Smirnov. It is deduced that existing traditional approaches to a problem of low-temperature brittleness of metals and their brittle strength based on power (athermal) criteria of the fracture nucleation do not provide valuable information for the understanding of an origin of the temperature dependences of true fracture stress to be observed in the temperature range of quasi-brittle transition in h.c.p. and b.c.c. metals, their solid solutions and eutectic metal-alloy systems. On the basis of the thermally-activated analysis of the microyield, which is predecessor and accompanying for the fracture propagation, another approach is proposed to an estimation of mechanical properties of light metals, which allows for athermal and thermally-activated contributions at a subcritical stage of the microcrack growth and interaction of the structural defects with a goal of improving the strength characteristics of these metal alloy systems. In terms of the newly developed physical (dislocation) theory of temperature dependence of the true fracture stress to be valid for b.c.c. and h.c.p. metals, the new basic (generalized) scheme of the quasi-brittle transition is constructed that includes the well-known Ioffe−Davidenkov’s scheme as a special case. Effects of deviations from classical (Arrhenius) behaviour in Mg−Ba and Al−Li systems to be observed at high temperatures are caused by a change of the diffusion mechanism in h.c.p. interstitial solid solutions such as h.c.p.-Be−C as well as by the nanoclustering of a structure in substitutional solid solution such as h.c.p.-Ti−H and h.c.p.-Mg−Ba oversaturated by excess vacancies. Physical principles of the precise alloying for the in situ bulk nanoclustering of a structure of the condensed metal systems (metal melts and their extended solid solutions) are formulated in order to solve the physical problem and thereby to reveal the origin of the cluster-induced photoemission centres responsible for the crucial increase (by two—three orders of magnitude) of quantum efficiency of simple light metals (h.c.p. Mg and f.c.c. Al) within the UV-spectrum range. The class of promising photoemission materials based on ternary Mg−Ba−Li and Al−Li−Ba alloy systems is developed with the goal of applying them as pulse bulk photocathodes in high-current electronics including the next RF-guns of FELs and electron accelerators. The new scopes of applying these materials containing nanoclusters with the intrinsic (shell) electronic structure are specified.",
+		"ru": "Обобщены результаты оригинальных теоретических и экспериментальных исследований в области физики прочности, микро- и нанотекучести, кинетики и механизма примесного охрупчивания наиболее легких металлов с ГПУ-решеткой ⎯ бериллия и магния, а также алюминия и титана. Часть из них связана с научным наследием выдающихся физиков – академиков В. Н. Гриднева и А. А. Смирнова. Дан краткий анализ существующих подходов к проблеме низкотемпературной хрупкости и хрупкой прочности, основанных на силовых (атермических) критериях зарождения разрушения. Рассмотрен новый подход к оценке механических свойств ГПУ-металлов, учитывающий атермический и термически активированный вклады на субкритической стадии стабильного роста и взаимодействия структурных дефектов. В терминах разработанной дислокационной теории температурной зависимости истинного разрушающего напряжения и термоактивационного анализа микротекучести, предшествующей и сопутствующей распространению разрушения, построена новая принципиальная (обобщенная) схема квазихрупкого перехода. Исследованы открытые системы с частично нарушенным дальним порядком и отклонением от классического (аррениусовского) поведения, вызванными сменой механизма диффузии и кластеризацией структуры (ГПУ-Ti—H, ГПУ-Be—C). Разработаны физические принципы прецизионного легирования для in situ объемной нанокластеризации структуры конденсированных металлических систем (расплавов и их твердых растворов, пересыщенных избыточными вакансиями). На этой основе решена физическая проблема и установлена природа радикального повышения квантового выхода фотоэмиссии ГПУ-Mg и ГЦК-Al в УФ-области спектра. Разработан класс перспективных фотоэмиссионных материалов на основе металлических систем сплавов Mg−Ba−Li и Al−Li−Ba, предназначенных для импульсных фотоэлектронных инжекторов лазеров на свободных электронах и технологических электронных ускорителей нового поколения. Указаны новые области применения легких металлов и их сплавов, содержащих нанокластеры с собственной электронной структурой."
+	},
+	"keywords": {
+		"ua": "міцність, квазикрихке руйнування, нанокластер, фотоемісія",
+		"en": "strength, quasibrittle fracture, nanocluster, photoemission",
+		"ru": "прочность, квазихрупкое разрушение, нанокластер, фотоэмиссия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Г. Ткаченко", "en": "V. G. Tkachenko", "ru": "В. Г. Ткаченко"},
+			"OID": [2]
+		}
+	],
+	"cited_by": {
+		"count":  4,
+		"list":  [
+			{
+				"doi": "10.1007/s11223-013-9493-7",
+				"cit": "V. G. Tkachenko, <a href=\"https://doi.org/10.1007/s11223-013-9493-7\">Strength Mater <b>45</b>, 555 (2013)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.11.02.249",
+				"cit": "V. G. Tkachenko, K. H. Kim, B. G. Moon, O. I. Dekhtyar <i>et al.</i>, <a href=\"https://doi.org/10.15407/ufm.11.02.249\">Usp. Fiz. Met. <b>11</b>, 249 (2010)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.17.02.173",
+				"cit": "V. G. Tkachenko, <a href=\"https://doi.org/10.15407/ufm.17.02.173\">Usp. Fiz. Met. <b>17</b>, 173 (2016)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.18.02.155",
+				"cit": "V. V. Kurylyak and G. I. Khimicheva, <a href=\"https://doi.org/10.15407/ufm.18.02.155\">Usp. Fiz. Met. <b>18</b>, 155 (2017)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 44,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. И. Владимиров, Ш. Х. Ханнанов, ФММ, 30, № 3: 490 (1970).",
+				"tr":  "V. I. Vladimirov, Sh. Kh. Khannanov, FMM, 30, No. 3: 490 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Владимиров, Физическая природа разрушения металлов (Москва: Металлургия: 1984).",
+				"tr":  "V. I. Vladimirov, Fizicheskaya priroda razrusheniya metallov (Moskva: Metallurgiya: 1984)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. С. Журков, Неорганические металлы, 3, № 10: 1767 (1973).",
+				"tr":  "N. S. Zhurkov, Neorganicheskie metally, 3, No. 10: 1767 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Р. Регель, А. И. Слуцкий, Э. Б. Томашевский, Кинетическая природа прочности твердых тел (Москва: Наука: 1974).",
+				"tr":  "V. R. Regel', A. I. Slutskii, E. B. Tomashevskii, Kineticheskaya priroda prochnosti tverdykh tel (Moskva: Nauka: 1974)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Степанов, Основы практической прочности кристаллов (Москва: Наука: 1974).",
+				"tr":  "A. V. Stepanov, Osnovy prakticheskoi prochnosti kristallov (Moskva: Nauka: 1974)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Я. Мешков, Физические основы разрушения стальных конструкций (Киев: Наукова думка: 1981).",
+				"tr":  "Yu. Ya. Meshkov, Fizicheskie osnovy razrusheniya stal'nykh konstruktsii (Kiev: Naukova dumka: 1981)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Ладьянов, И. А. Новохатский, С. В. Логунов, Металлы, № 2: 3 (1995).",
+				"tr":  "V. I. Lad'yanov, I. A. Novokhatskii, S. V. Logunov, Metally, No. 2: 3 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Архаров, И. А. Новохатский, ДАН СССР, 185, № 5: 1069 (1969).",
+				"tr":  "V. I. Arkharov, I. A. Novokhatskii, DAN SSSR, 185, No. 5: 1069 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Новохатский, В. И. Архаров, В. Ладьянов, ДАН СССР, 185, № 5: 1069 (1969).",
+				"tr":  "I. A. Novokhatskii, V. I. Arkharov, V. Lad'yanov, DAN SSSR, 185, No. 5: 1069 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Мелихов, Неорганические материалы, 36, № 3: 350 (2000).",
+				"tr":  "I. V. Melikhov, Neorganicheskie materialy, 36, No. 3: 350 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Nanophase Matеrials: Synthesis–Properties–Application. NATO–ASI Ser. E. Vol. 260 (Eds. G. C. Hadjipanayis and R. W. Siegel) (Dordrecht: Kluwer: 1994).",
+				"tr":  "Nanophase Materials: Synthesis–Properties–Application. NATO–ASI Ser. E. Vol. 260 (Eds. G. C. Hadjipanayis and R. W. Siegel) (Dordrecht: Kluwer: 1994)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Иванова, Введение в междисциплинарное наноматериаловедение, (Москва: Сайнс-Пресс: 2005).",
+				"tr":  "V. S. Ivanova, Vvedenie v mezhdistsiplinarnoe nanomaterialovedenie, (Moskva: Sains-Press: 2005)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, Ю. А. Куницкий, В. Л. Карбовский, Кластерные и наноструктурные материалы (Киев: Академпериодика: 2001).",
+				"tr":  "A. P. Shpak, Yu. A. Kunitskii, V. L. Karbovskii, Klasternye i nanostrukturnye materialy (Kiev: Akademperiodika: 2001)."
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Tkachenko, I. N. Maksimchuk, P. Yu. Volosevich et al., High Temperature Materials and Processes, 25, Nos. 12: 97 (2006).",
+				"tr":  "V. G. Tkachenko, I. N. Maksimchuk, P. Yu. Volosevich et al., High Temperature Materials and Processes, 25, Nos. 12: 97 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. К. Лашук, В. Г. Ткаченко, В. И. Трефилов, ДАН СССР, 258, № 5: 1103 (1981).",
+				"tr":  "N. K. Lashuk, V. G. Tkachenko, V. I. Trefilov, DAN SSSR, 258, No. 5: 1103 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Смирнов, Теория сплавов внедрения (Москва: Наука: 1970).",
+				"tr":  "A. A. Smirnov, Teoriya splavov vnedreniya (Moskva: Nauka: 1970)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Смирнов, Теория диффузии в сплавах внедрения (Киев: Наукова думка: 1982).",
+				"tr":  "A. A. Smirnov, Teoriya diffuzii v splavakh vnedreniya (Kiev: Naukova dumka: 1982)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Бугаев, В. А. Татаренко, Взаимодействие и распределение атомов в сплавах внедрения на основе плотноупакованных металлов (Киев: Наукова думка: 1989).",
+				"tr":  "V. N. Bugaev, V. A. Tatarenko, Vzaimodeistvie i raspredelenie atomov v splavakh vnedreniya na osnove plotnoupakovannykh metallov (Kiev: Naukova dumka: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Бугаев, Н. С. Косенко, В. А. Татаренко, В. Г. Ткаченко, В. И. Трефилов, ДАН СССР, 276, № 5: 1098 (1984).",
+				"tr":  "V. N. Bugaev, N. S. Kosenko, V. A. Tatarenko, V. G. Tkachenko, V. I. Trefilov, DAN SSSR, 276, No. 5: 1098 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Бугаев, Н. К. Лашук, В. А. Татаренко, В. Г. Ткаченко, Металлофизика, 8, № 5: 33 (1986).",
+				"tr":  "V. N. Bugaev, N. K. Lashuk, V. A. Tatarenko, V. G. Tkachenko, Metallofizika, 8, No. 5: 33 (1986)."
+			},
+			{
+				"doi": "10.1016/S0360-3199(98)00059-7",
+				"or":  "V. M. Bugaev, V. A. Tatarenko, C. L. Tsynman, B. Z. Yanchitskii, I. N. Maksimchuk, and V. G. Tkachenko, Int. J. Hydrogen Energy, 24, 135 (1999).",
+				"tr":  "V. M. Bugaev, V. A. Tatarenko, C. L. Tsynman, B. Z. Yanchitskii, I. N. Maksimchuk, and V. G. Tkachenko, Int. J. Hydrogen Energy, 24, 135 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Ткаченко, И. Н. Максимчук, В. Н. Бугаев, Влияние водорода на концентрацию вакансий и физические свойства твердых растворов (Киев: 1999) (Препринт/НАН Украины. ИПМ № 1, 1999).",
+				"tr":  "V. G. Tkachenko, I. N. Maksimchuk, V. N. Bugaev, Vliyanie vodoroda na kontsentratsiyu vakansii i fizicheskie svoistva tverdykh rastvorov (Kiev: 1999) (Preprint/NAN Ukrainy. IPM No. 1, 1999)."
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Tkachenko, V. A. Tatarenko et al., Metallofiz. Noveishie Tekhnol., 23, No. 3: 367 (2001).",
+				"tr":  "V. G. Tkachenko, V. A. Tatarenko et al., Metallofiz. Noveishie Tekhnol., 23, No. 3: 367 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Tkachenko, B. G. Strongin, I. N. Maksimchuk et al., Int. J. Hydrogen Energy, 21, Nos. 1112: 1091 (1996).",
+				"tr":  "V. G. Tkachenko, B. G. Strongin, I. N. Maksimchuk et al., Int. J. Hydrogen Energy, 21, Nos. 1112: 1091 (1996)."
+			},
+			{
+				"doi": "10.1007/978-94-010-0600-2_9",
+				"or":  "V. G. Tkachenko, I. I. Schulyak, A. V. Strutinsky et al., Hydrogen Materials Science and Chemistry of Metal Hydrides (Dordrecht, Netherlands: Kluwer Academic Publishers: 2002), p. 77.",
+				"tr":  "V. G. Tkachenko, I. I. Schulyak, A. V. Strutinsky et al., Hydrogen Materials Science and Chemistry of Metal Hydrides (Dordrecht, Netherlands: Kluwer Academic Publishers: 2002), p. 77."
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Tkachenko, I. N. Maksimchuk, P. Yu. Volosevich et al., High Temperature Materials and Processes, 25, Nos. 12: 97 (2006).",
+				"tr":  "V. G. Tkachenko, I. N. Maksimchuk, P. Yu. Volosevich et al., High Temperature Materials and Processes, 25, Nos. 12: 97 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Tkachenko, Strength Physics of Less-Common Metals and Their Alloys (London: Cambridge Int. Sci. Publish.: 2008).",
+				"tr":  "V. G. Tkachenko, Strength Physics of Less-Common Metals and Their Alloys (London: Cambridge Int. Sci. Publish.: 2008)."
+			},
+			{
+				"doi": "",
+				"or":  "И. П. Суздалев, П. И. Суздалев, Успехи химии, 75, № 5: 715 (2006).",
+				"tr":  "I. P. Suzdalev, P. I. Suzdalev, Uspekhi khimii, 75, No. 5: 715 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Воронов, Л. П. Переверзева, Ю. М. Поплавко, Физическое материаловедение (Киев: НТУУ «КПИ»: 2004), ч. 1, с. 194.",
+				"tr":  "S. A. Voronov, L. P. Pereverzeva, Yu. M. Poplavko, Fizicheskoe materialovedenie (Kiev: NTUU 'KPI': 2004), pt. 1, s. 194."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Гриднев, В. И. Трефилов, Физико-химические исследования жаропрочных сплавов (Москва: Наука: 1968).",
+				"tr":  "V. N. Gridnev, V. I. Trefilov, Fiziko-khimicheskie issledovaniya zharoprochnykh splavov (Moskva: Nauka: 1968)."
+			},
+			{
+				"doi": "10.1080/00018735700101406",
+				"or":  "A. N. Stroh, Adv. Phys., 24: 418 (1957).",
+				"tr":  "A. N. Stroh, Adv. Phys., 24: 418 (1957)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Ткаченко, Физические основы формирования и восстановления механических свойств редких металлов, легких и прецизионных сплавов (Киев: ИПМ НАНУ: 1996).",
+				"tr":  "V. G. Tkachenko, Fizicheskie osnovy formirovaniya i vosstanovleniya mekhanicheskikh svoistv redkikh metallov, legkikh i pretsizionnykh splavov (Kiev: IPM NANU: 1996)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Ткаченко, И. Н. Максимчук, В. И. Трефилов, ДАН СССР, 320, № 2: 330 (1991).",
+				"tr":  "V. G. Tkachenko, I. N. Maksimchuk, V. I. Trefilov, DAN SSSR, 320, No. 2: 330 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Ткаченко, И. Н. Максимчук, В. И. Трефилов, ДАН СССР, 320, № 3: 615 (1991).",
+				"tr":  "V. G. Tkachenko, I. N. Maksimchuk, V. I. Trefilov, DAN SSSR, 320, No. 3: 615 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Ткаченко, И. Н. Максимчук, В. И. Трефилов, ДАН СССР, 320, № 4: 873 (1991).",
+				"tr":  "V. G. Tkachenko, I. N. Maksimchuk, V. I. Trefilov, DAN SSSR, 320, No. 4: 873 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "J. R. Moon, Powder Met., 33, No. 2: 114 (1990).",
+				"tr":  "J. R. Moon, Powder Met., 33, No. 2: 114 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Ткаченко, ФММ, 52, № 3: 647 (1981).",
+				"tr":  "V. G. Tkachenko, FMM, 52, No. 3: 647 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Ю. Волосевич, Дислокационные процессы при фазовых и структурных превращениях в сплавах железа (Автореф. дисс. … д.ф.-м.н.) (Киев: ИПМ НАН Украины: 2008).",
+				"tr":  "P. Yu. Volosevich, Dislokatsionnye protsessy pri fazovykh i strukturnykh prevrashcheniyakh v splavakh zheleza (Avtoref. diss. … d.f.-m.n.) (Kiev: IPM NAN Ukrainy: 2008)."
+			},
+			{
+				"doi": "10.3139/146.031157",
+				"or":  "Y. Zhou, U. Erb, K. T. Aust, and G. Palumbo, Z. Metallkd., 94, No. 10: 1157 (2003).",
+				"tr":  "Y. Zhou, U. Erb, K. T. Aust, and G. Palumbo, Z. Metallkd., 94, No. 10: 1157 (2003)."
+			},
+			{
+				"doi": "10.3139/146.031091",
+				"or":  "D. Wolf, V. Yamakov, S. R. Phillpot, and A. K. Mukherjee, Z. Metallkd., 94, No. 10: 1091 (2003).",
+				"tr":  "D. Wolf, V. Yamakov, S. R. Phillpot, and A. K. Mukherjee, Z. Metallkd., 94, No. 10: 1091 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Tkachenko, V. A. Tatarenko, A. N. Malka et al., Металлофиз. новейшие технол., 23, № 3: 367 (2001).",
+				"tr":  "V. G. Tkachenko, V. A. Tatarenko, A. N. Malka et al., Metallofiz. Noveishie Tekhnol., 23, No. 3: 367 (2001)."
+			},
+			{
+				"doi": "10.3139/146.031134",
+				"or":  "H.-I. Fecht, Z. Metallkd., 94, No. 10: 1134 (2003).",
+				"tr":  "H.-I. Fecht, Z. Metallkd., 94, No. 10: 1134 (2003)."
+			},
+			{
+				"doi": "10.3139/146.031106",
+				"or":  "H. van Swygenhoven, P. M. Derlet, Z. Budrovic, and A. Hasnaoui, Z. Metallkd., 94, No. 10: 1106 (2003).",
+				"tr":  "H. van Swygenhoven, P. M. Derlet, Z. Budrovic, and A. Hasnaoui, Z. Metallkd., 94, No. 10: 1106 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Ткаченко, И. Н. Максимчук, А. И. Кондрашев, Успехи физ. мет., 5, № 3: 313 (2004).",
+				"tr":  "V. G. Tkachenko, I. N. Maksimchuk, A. I. Kondrashev, Uspeki Fiziki Metallov, 5, No. 3: 313 (2004)."
+			}
+		]
+	}
+}

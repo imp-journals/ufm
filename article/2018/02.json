@@ -1,0 +1,91 @@
+{
+	"year":   2018,
+	"volume": 19,
+	"issue":  2,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [115,151],
+			"title": {
+				"ua": "Макроскопічні квантові ефекти у доменних межах одновісних феромагнетних плівок із сильною магнетною анізотропією",
+				"en": "Macroscopic Quantum Effects in Domain Boundaries of the Uniaxial Ferromagnetic Films with the Strong Magnetic Anisotropy",
+				"ru": "Макроскопические квантовые эффекты в доменных границах одноосных ферромагнитных плёнок с сильной магнитной анизотропией"
+			},
+			"autors": {
+				"ua": "А. Б. Шевченко",
+				"en": "A. B. Shevchenko",
+				"ru": "А. Б. Шевченко"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [152,167],
+			"title": {
+				"ua": "Модулювання розподілу взаємодійних вакансій у пружньо анізотропних ОЦК-кристалах після опромінення",
+				"en": "Post-Irradiation Modulation of Distribution of Interacting Vacancies in the Elastically Anisotropic B.C.C. Crystals",
+				"ru": "Модулирование распределения взаимодействующих вакансий в упруго анизотропных ОЦК-кристаллах после облучения"
+			},
+			"autors": {
+				"ua": "О. В. Олійник, В. А. Татаренко",
+				"en": "O. V. Oliinyk and V. A. Tatarenko",
+				"ru": "Е. В. Олейник, В. А. Татаренко"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [168,184],
+			"title": {
+				"ua": "Кореляція між поверхневим натягом, роботою адгезії у системах рідкі метали/кераміка та акустичними параметрами",
+				"en": "Correlation between Surface Tension, Work of Adhesion in Liquid Metals/Ceramic Systems, and Acoustic Parameters",
+				"ru": "Корреляция между поверхностным натяжением, работой адгезии в системах жидкие металлы/керамика и акустическими параметрами"
+			},
+			"autors": {
+				"ua": "З. Хадеф, А. Догман, К. Камлі, З. Хаджуб",
+				"en": "Z. Hadef, A. Doghmane, K. Kamli, and Z. Hadjoub",
+				"ru": "З. Хадеф, А. Догман, К. Камли, З. Хаджуб"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [185,194],
+			"title": {
+				"ua": "Аналіза морфологічної стабільности фронту перекристалізації",
+				"en": "The Analysis of Morphological Stability of a Recrystallization Front",
+				"ru": "Анализ морфологической стабильности фронта перекристаллизации"
+			},
+			"autors": {
+				"ua": "О. В. Мовчан, К. О. Чорноіваненко",
+				"en": "O. V. Movchan and K. O. Chornoivanenko",
+				"ru": "А. В. Мовчан, Е. А. Черноиваненко"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [195,222],
+			"title": {
+				"ua": "Модифікація структури та властивостей поверхні доевтектичного силуміну інтенсивними імпульсними електронними пучками",
+				"en": "Modification of Structure and Surface Properties of Hypoeutectic Silumin by Intense Pulse Electron Beams",
+				"ru": "Модификация структуры и свойств поверхности доэвтектического силумина интенсивными импульсными электронными пучками"
+			},
+			"autors": {
+				"ua": "Ю. Ф. Іванов, В. Є. Громов, С. В. Коновалов, Д. В. Загуляєв, Є. А. Петрікова, А. П. Семін",
+				"en": "Yu. F. Ivanov, V. Е. Gromov, S. V. Konovalov, D. V. Zagulyaev, Е. А. Petrikova, А. P. Semin",
+				"ru": "Ю. Ф. Иванов, В. Е. Громов, С. В. Коновалов, Д. В. Загуляев, Е. А. Петрикова, А. П. Семин"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [223,250],
+			"title": {
+				"ua": "Концентратори напружень у металевих матеріялах за умов всебічного стискання",
+				"en": "Stress Concentrators in Metal Materials in the Conditions of Uniform Compression",
+				"ru": "Концентраторы напряжений в металлических материалах в условиях всестороннего сжатия"
+			},
+			"autors": {
+				"ua": "П. Ю. Волосевич",
+				"en": "P. Yu. Volosevich",
+				"ru": "П. Ю. Волосевич"
+			}
+		}
+	]
+}

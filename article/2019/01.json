@@ -1,0 +1,63 @@
+{
+	"year":   2019,
+	"volume": 20,
+	"issue":  1,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [5,51],
+			"title": {
+				"ua": "Вплив вуглецевих нанотрубок на механохемічну синтезу нанопорошків карбідів $d$-металів і нанокомпозитів на їх основі",
+				"en": "Effect of Carbon Nanotubes on Mechanochemical Synthesis of $d$-Metal Carbide Nanopowders and Nanocomposites",
+				"ru": "Влияние углеродных нанотрубок на механохимический синтез нанопорошков карбидов $d$-металлов и нанокомпозитов на их основе"
+			},
+			"autors": {
+				"ua": "О. І. Наконечна, М. М. Дашевський, О. І. Бошко, В. В. Заводянний, Н. М. Білявина", 
+				"en": "O. I. Nakonechna, M. M. Dashevskyi, О. І. Boshko, V. V. Zavodyannyi, N. N. Belyavina",
+				"ru": "О. И. Наконечная, Н. Н. Дашевский, О. И. Бошко, В. В. Заводянный, Н. Н. Белявина"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [52,74],
+			"title": {
+				"ua": "Квантова природа механізмів утворення моношарових структур Ag на монокристалічних напівпровідникових поверхнях",
+				"en": "The Quantum Nature of the Formation Mechanisms of Ag Monolayer Structures on the Monocrystalline Semiconductor Surfaces",
+				"ru": "Квантовая природа механизмов образования монослойных структур Ag на монокристаллических полупроводниковых поверхностях"
+			},
+			"autors": {
+				"ua": "Л. І. Карбівська, О. Я. Кузнєцова, В. Л. Карбівський, С. С. Смоляк, В. А. Артемюк",
+				"en": "L. I. Karbivska, O. Ya. Kuznetsova, V. L. Karbivskyy, S. S. Smolyak, V. A. Artemyuk",
+				"ru": "Л. И. Карбовская, Е. Я. Кузнецова, В. Л. Карбовский, С. С. Смоляк, В. А. Артемюк"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [75,95],
+			"title": {
+				"ua": "Інтеґральна дифрактометрія: досягнуті успіхи та нові можливості",
+				"en": "Integrated Diffractometry: Achieved Progress and New Performance Capabilities",
+				"ru": "Интегральная дифрактометрия: достигнутые успехи и новые возможности"
+			},
+			"autors": {
+				"ua": "В. В. Лізунов, І. М. Заболотний, Я. В. Василик, І. Е. Голентус, М. В. Ушаков",
+				"en": "V. V. Lizunov, I. M. Zabolotnyy, Ya. V. Vasylyk, I. E. Golentus, M. V. Ushakov",
+				"ru": "В. В. Лизунов, И. Н. Заболотный, Я. В. Василик, И. Э. Голентус, Н. В. Ушаков"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [96,192],
+			"title": {
+				"ua": "Теорія та застосування механоплазмового ефекту в процесах інтенсифікації механічного оброблення",
+				"en": "Theory and Applications of Mechanoplasma Effect in the Processes of Machining Intensification",
+				"ru": "Теория и применения механоплазменного эффекта в процессах интенсификации механической обработки"
+			},
+			"autors": {
+				"ua": "О. І. Сошко, В. О. Сошко",
+				"en": "O. I. Soshko, V. O. Soshko",
+				"ru": "А. И. Сошко, В. А. Сошко"
+			}
+		}
+	]
+}

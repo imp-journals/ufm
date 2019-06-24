@@ -1,0 +1,313 @@
+{
+	"_id":    "UFM.19.01.049",
+	"year":   2018,
+	"volume": 19,
+	"issue":  1,
+	"pages":  [49,69],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["28.11.2017", "22.01.2018"],
+	"PACS":   "07.75.+h, 14.20.Dh, 34.35+a, 41.75.Ak, 61.80.Lj, 68.49.Sf",
+	"title":   {
+		"ua": "Вторинна йонна емісія при бомбуванні металевих поверхонь протонами",
+		"en": "Secondary Ion Emission during the Proton Bombardment of Metal Surfaces",
+		"ru": "Вторичная ионная эмиссия при бомбардировке металлических поверхностей протонами"
+	},
+	"abstract": {
+		"ua": "В оглядовій статті аналізуються результати досліджень закономірностей і особливостей вторинної йонної емісії при бомбардуванні металевих поверхонь найлегшими йонами — протонами, що мають найнижчі коефіцієнти розпорошення і, отже, спричинюють мінімальну ерозію досліджуваної поверхні. Інтерес до вивчення закономірностей та особливостей протонної мас-спектрометрії зумовлено пошуком нових фізичних можливостей підвищення виходу вторинних йонів з метою поліпшення аналітичних характеристик методи мас-спектрометрії вторинних йонів. У роботі наведено результати порівняльного систематичного дослідження процесів емісії вторинних йонів перехідних металів, бінарних стопів і сполук, що відрізняються електронною структурою, фазовим і стехіометричним складами, при бомбардуванні протонами та йонами Арґону. Достовірно встановлено, що процеси вторинної йонної емісії при бомбардуванні протонами мають основні закономірності, виявлені при бомбардуванні йонами інертних газів, у частині залежности від атомового номеру металів і концентраційних співвідношень у бінарних стопах і сполуках, але принципово відрізняються аномально високою ймовірністю йонізації частинок, розпорошених з металевих мішеней. Показано, що в разі бомбардування протонами багатокомпонентних мішеней спостерігається зменшення структурних, фазових та інших матричних ефектів, істотних при бомбардуванні йонами інертних газів. Ефекти посилення вторинної йонної емісії під впливом адсорбції та імплантації Гідрогену з бомбардувального пучка протонів пов’язано з утворенням поверхневих зв’язків $Me$–H і кількісно пояснено в рамках моделів, що враховують розрив хемічних зв’язків атомів металу й адсорбату в процесі розпорошення та подальшої йонізації розпорошуваних атомів металу.",
+		"en": "Secondary ion mass spectrometry (SIMS) is successfully used for fundamental and applied studies of the solid surfaces. Thus, it is important to know regularities in the secondary ion emission (SIE) induced by the primary beams of the inert or chemically active elements. The SIE intensity is found to be dependent not only on the surface sputtering processes (the intensity increases with the atomic number of the bombarding ion), but on the ionization probability of the sputtered atoms (the probability is strongly dependent on the physical and chemical states of target surface and experimental conditions) too. Analytical capabilities of SIMS might be improved by the use of light ions producing low sputtering and causing minimum surface erosion. The goal of the present review paper is a systematic study of various SIE aspects for metals, alloys, and chemical compounds in the case when the surface is bombarded with lightest ions—protons. To reveal the possibilities of proton applications in SIMS, the target surface was also bombarded with argon ions. The SIE regularities for metal targets were studied on the ion microprobe analyser equipped with a spherical 180°C sector energy analyser and a system, which pumps gas into the chamber. This made it possible to investigate not only the SIE factors, but also the secondary ion energy distribution and the change of the emission character at the target interaction with active gases. The SIE coefficients are measured for metals of I–III large periods. The use of primary protons and argon ions leads to a similar dependence of the SIE differential coefficients on the target atomic number. The SIE coefficients for primary protons and argon ions for the same elements are similar. Sputtering coefficients for the Ar$^{+}$ ions are known to exceed those for protons. The fact that the metal-ion emission intensity for bombardment with lighter ions commensurate with a signal of secondary ions sputtered from the surface by heavy species is of a high practical importance for use of protons with analytical purposes. This fact may be explained as a result of extraordinary high ionization probability due to H$^{+}$ ions. However, along with the general regularities based on the nature of materials at hand, there are essential differences in mechanisms of the atom ionization for the sputtering by protons and inert gas ions. Therefore, we have investigated the energy distributions of metal secondary ions ejected from surface bombarded with H$^{+}$ and Ar$^{+}$ ions. It is shown that, in the case of proton bombardment of multicomponent targets, a partial suppression of the structural, phase, and other matrix effects is observed. These effects as well as the increasing ionization probability of metal atoms sputtered by protons are quantitatively described concerning the important role of the local surface bonds in the ionization mechanism.",
+		"ru": "В обзорной статье содержатся результаты исследований закономерностей и особенностей вторичной ионной эмиссии при бомбардировке металлических поверхностей самыми лёгкими ионами — протонами, которые обладают наиболее низкими коэффициентами распыления и, следовательно, вызывают минимальную эрозию исследуемой поверхности. Интерес к изучению закономерностей и особенностей протонной масс-спектрометрии вызван поиском новых физических возможностей повышения выхода вторичных ионов с целью улучшения аналитических характеристик метода масс-спектрометрии вторичных ионов. В работе приведены результаты сравнительного систематического исследования процессов эмиссии вторичных ионов переходных металлов, бинарных сплавов и соединений, отличающихся электронной структурой, фазовым и стехиометрическим составами, при бомбардировке протонами и ионами аргона. Достоверно установлено, что процессы вторичной ионной эмиссии при бомбардировке протонами подчиняются основным закономерностям, выявленным при бомбардировке ионами инертных газов, в части зависимостей от атомного номера металлов и концентрационных соотношений в бинарных сплавах и соединениях, но принципиально отличаются аномально высокой вероятностью ионизации частиц, распылённых из металлических мишеней. Показано, что в случае бомбардировки протонами многокомпонентных мишеней, наблюдается частичное подавление структурных, фазовых и других матричных эффектов, существенных при бомбардировке ионами инертных газов. Эффекты усиления вторичной ионной эмиссии под влиянием адсорбции и имплантации водорода из бомбардирующего пучка протонов связаны с образованием поверхностных связей $Me$–H и количественно объяснены в рамках моделей, учитывающих разрыв химических связей атомов металла и адсорбата в процессе распыления и последующей ионизации распыляющихся атомов металла."
+	},
+	"keywords": {
+		"ua": "вторинна йонна емісія, мас-спектрометрія вторинних йонів, протони, йони Арґону, металева поверхня, робота виходу електронів",
+		"en": "secondary ion emission, secondary ion mass spectrometry, protons, argon ions, metal surface, electron work function",
+		"ru": "вторичная ионная эмиссия, масс-спектрометрия вторичных ионов, протоны, ионы аргона, металлическая поверхность, работа выхода электронов"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Т. Черепін", "en": "V. T. Cherepin", "ru": "В. Т. Черепин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. О. Васильєв", "en": "M. O. Vasylyev", "ru": "М. А. Васильев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "І. М. Макеєва", "en": "I. M. Makeeva", "ru": "И. Н. Макеева"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Колесник", "en": "V. M. Kolesnik", "ru": "В. Н. Колесник"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. М. Волошко", "en": "S. M. Voloshko", "ru": "С. М. Волошко"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 52,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "V. I. Veksler, Vtorichnaya Ionnaya Ehmissiya Metallov [Secondary Ion Emission of Metals] (Moscow: Nauka: 1978) (in Russina).",
+				"tr":  "V. I. Veksler, Vtorichnaya Ionnaya Ehmissiya Metallov [Secondary Ion Emission of Metals] (Moscow: Nauka: 1978) (in Russina)."
+			},
+			{
+				"doi": "",
+				"or":  "V. T. Cherepin and M. A. Ivanov, Vtorichnaya Ionno-Ionnaya Ehmissiya Metallov i Splavaov [Secondary Ion-Ion Emission of Metals and Alloys] (Moscow: Nauka: 1975) (in Russina).",
+				"tr":  "V. T. Cherepin and M. A. Ivanov, Vtorichnaya Ionno-Ionnaya Ehmissiya Metallov i Splavaov [Secondary Ion-Ion Emission of Metals and Alloys] (Moscow: Nauka: 1975) (in Russina)."
+			},
+			{
+				"doi": "",
+				"or":  "V. T. Cherepin, Ionnyy Zond [ion Probe] (Kiev: Naukova Dumka: 1981) [in Russian].",
+				"tr":  "V. T. Cherepin, Ionnyy Zond [ion Probe] (Kiev: Naukova Dumka: 1981) [in Russian]."
+			},
+			{
+				"doi": "",
+				"or":  "V. T. Cherepin, Ionnyy Mikrozondovyy Analiz [Ion Microprobe Analysis] (Kiev: Naukova Dumka: 1981) (in Russina).",
+				"tr":  "V. T. Cherepin, Ionnyy Mikrozondovyy Analiz [Ion Microprobe Analysis] (Kiev: Naukova Dumka: 1981) (in Russina)."
+			},
+			{
+				"doi": "",
+				"or":  "V. T. Cherepin and M. A. Vasiliev, Metody i Pribory dlya Analiza Poverkhnosti Materialov [Methods and Devices for Analysis of the Material Surfaces] (Kiev: Naukova Dumka: 1982) (in Russian).",
+				"tr":  "V. T. Cherepin and M. A. Vasiliev, Metody i Pribory dlya Analiza Poverkhnosti Materialov [Methods and Devices for Analysis of the Material Surfaces] (Kiev: Naukova Dumka: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. T. Cherepin, Secondary Ion Mass Spectroscopy of Solid Surfaces (Oxford: Alden Press: 1987).",
+				"tr":  "V. T. Cherepin, Secondary Ion Mass Spectroscopy of Solid Surfaces (Oxford: Alden Press: 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "V. E. Yurasova, Vzaimodeistvie Ionov s Poverkhnostyu [Interaction of Ions with Surface] (Moscow: Prima В: 1999) (in Russina).",
+				"tr":  "V. E. Yurasova, Vzaimodeistvie Ionov s Poverkhnostyu [Interaction of Ions with Surface] (Moscow: Prima В: 1999) (in Russina)."
+			},
+			{
+				"doi": "",
+				"or":  "R. J.-B. Castaing and G. Slodzian, C.R. Acad. Sci. B, 251: 1010 (1960).",
+				"tr":  "R. J.-B. Castaing and G. Slodzian, C.R. Acad. Sci. B, 251: 1010 (1960)."
+			},
+			{
+				"doi": "10.1070/PU1967v010n01ABEH003196",
+				"or":  "Ya. M. Fogel, Sov. Phys. Usp., 10: 17 (1967).",
+				"tr":  "Ya. M. Fogel, Sov. Phys. Usp., 10: 17 (1967)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Slodzian and J.-F. Hennequin, C. R. Acad.Sci., B, 263, No. 22: 1246 (1966).",
+				"tr":  "G. Slodzian and J.-F. Hennequin, C. R. Acad.Sci., B, 263, No. 22: 1246 (1966)."
+			},
+			{
+				"doi": "10.1016/0039-6028(75)90158-2",
+				"or":  "A. Benninghoven, Surf. Sci., 53, No. 3: 596 (1975).",
+				"tr":  "A. Benninghoven, Surf. Sci., 53, No. 3: 596 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Benninghoven, F. G. Rudenauer, and H. W. Werner, Secondary Ion Mass Spectrometry: Basic Concepts, Instrumental Aspects, Applications, and Trends, (New York: Wiley: 1987).",
+				"tr":  "A. Benninghoven, F. G. Rudenauer, and H. W. Werner, Secondary Ion Mass Spectrometry: Basic Concepts, Instrumental Aspects, Applications, and Trends, (New York: Wiley: 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "L. A. Giannuzzi, B. I. Prenitzer, and B. W. Kempshall, Ion-Solid Interaction, (Berlin: Springer: 2005).",
+				"tr":  "L. A. Giannuzzi, B. I. Prenitzer, and B. W. Kempshall, Ion-Solid Interaction, (Berlin: Springer: 2005)."
+			},
+			{
+				"doi": "10.1016/0039-6028(94)00696-2",
+				"or":  "J. C. Lee, H. J. Kang, K. J. Kim, Y. S. Kim, and D. W. Moon, Surf. Sci. 324: 338 (1995).",
+				"tr":  "J. C. Lee, H. J. Kang, K. J. Kim, Y. S. Kim, and D. W. Moon, Surf. Sci. 324: 338 (1995)."
+			},
+			{
+				"doi": "10.1134/S002247661405031X",
+				"or":  "V. P. Ivanov and S. N. Trukhan, J. Struct. Chem., 55, No. 5: 995 (2014).",
+				"tr":  "V. P. Ivanov and S. N. Trukhan, J. Struct. Chem., 55, No. 5: 995 (2014)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2013.10.050",
+				"or":  "S. Fajardoa, D. M. Bastidasa, M. P. Ryanb, M. Criadoc, D. S. McPhailb, and R. J. H. Morrisd, Appl. Surf. Sci., 288: 423 (2014).",
+				"tr":  "S. Fajardoa, D. M. Bastidasa, M. P. Ryanb, M. Criadoc, D. S. McPhailb, and R. J. H. Morrisd, Appl. Surf. Sci., 288: 423 (2014)."
+			},
+			{
+				"doi": "10.1016/j.vacuum.2013.07.009",
+				"or":  "V. V. Khvostov, I. K. Khrustachev, K. F. Minnebaev, E. Yu. Zykova, and V.  E. Yurasova, Vacuum, 100: 84 (2014).",
+				"tr":  "V. V. Khvostov, I. K. Khrustachev, K. F. Minnebaev, E. Yu. Zykova, and V.  E. Yurasova, Vacuum, 100: 84 (2014)."
+			},
+			{
+				"doi": "10.7868/S0207352813020042",
+				"or":  "K. F. Minnebaev, A. A. Khaidarov, and V. E. Yurasova, Surface Investigation X-Ray, Synchrotron and Neutron Techniques, 9: No. 5: 1107 (2015).",
+				"tr":  "K. F. Minnebaev, A. A. Khaidarov, and V. E. Yurasova, Surface Investigation X-Ray, Synchrotron and Neutron Techniques, 9: No. 5: 1107 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "S. A. Firstov, N. A. Krapivka, M. A. Vasiliev, S. I. Sidorenko, and S. M. Voloshko, Powder Metallurgy, No. 07/08: 98 (2016) (in Russina).",
+				"tr":  "S. A. Firstov, N. A. Krapivka, M. A. Vasiliev, S. I. Sidorenko, and S. M. Voloshko, Powder Metallurgy, No. 07/08: 98 (2016) (in Russina)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Vasiliev, A. A. Kosyachkov, I. N. Makeeva, and V. T. Cherepin, Poverkhnost’, No. 1: 103 (1982) (in Russian).",
+				"tr":  "M. A. Vasiliev, A. A. Kosyachkov, I. N. Makeeva, and V. T. Cherepin, Poverkhnost’, No. 1: 103 (1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "N. Kh. Dzhemelev and R. T. Kurbanov, Poverkhnost’, No. 1: 56 (1984).",
+				"tr":  "N. Kh. Dzhemelev and R. T. Kurbanov, Poverkhnost’, No. 1: 56 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Vasiliev and I. N. Makeeva, Zavodskaya Laboratoriya. Diagnostika Materialov, 64, No. 9: 26 (1997).",
+				"tr":  "M. A. Vasiliev and I. N. Makeeva, Zavodskaya Laboratoriya. Diagnostika Materialov, 64, No. 9: 26 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Vasiliev, I. N. Dubinskiy, A. A. Kosyachkov, I. N. Makeeva, S. P. Chenakin, V. T. Cherepin, and V. G. Kostyuchenko, Sposob Mass-Spektroskopicheskogo Posloinogo Analiza Tverdykh Tel, A. s. No. 1138855 (Published 07.02.1985. Bulletin No. 5).",
+				"tr":  "M. A. Vasiliev, I. N. Dubinskiy, A. A. Kosyachkov, I. N. Makeeva, S. P. Chenakin, V. T. Cherepin, and V. G. Kostyuchenko, Sposob Mass-Spektroskopicheskogo Posloinogo Analiza Tverdykh Tel, A. s. No. 1138855 (Published 07.02.1985. Bulletin No. 5)."
+			},
+			{
+				"doi": "10.1007/978-3-642-87148-1_22",
+				"or":  "M. Junack, A. Eicke, W. Sichtermann, A. Benninghoven, Ion Formation from Organic Solids (Springer Series in Chemical Physics, 25) (Berlin, Heidelberg: Springer: 1983), p. 177.",
+				"tr":  "M. Junack, A. Eicke, W. Sichtermann, A. Benninghoven, Ion Formation from Organic Solids (Springer Series in Chemical Physics, 25) (Berlin, Heidelberg: Springer: 1983), p. 177."
+			},
+			{
+				"doi": "10.1007/s13361-017-1624-0",
+				"or":  "N. J. Popczun, L. Breuer, A. Wucher, and N. Winograd, J. Am. Soc. Mass. Spectrom., 28: 1182 (2017).",
+				"tr":  "N. J. Popczun, L. Breuer, A. Wucher, and N. Winograd, J. Am. Soc. Mass. Spectrom., 28: 1182 (2017)."
+			},
+			{
+				"doi": "10.1021/jp9066179",
+				"or":  "J. Brison, S. Muramoto, and D. G. Castner, J. Phys. Chem. C, 114, No. 12: 5565 (2010).",
+				"tr":  "J. Brison, S. Muramoto, and D. G. Castner, J. Phys. Chem. C, 114, No. 12: 5565 (2010)."
+			},
+			{
+				"doi": "10.1002/sia.3585",
+				"or":  "J. Matsuo, S. Ninomiya, H. Yamada, K. Ichiki, Y. Wakamatsu, M. Hada, T. Seki, and T. Aoki, Surf. Interfaсe Anal., 42, Nos. 10–11: 1612 (2010).",
+				"tr":  "J. Matsuo, S. Ninomiya, H. Yamada, K. Ichiki, Y. Wakamatsu, M. Hada, T. Seki, and T. Aoki, Surf. Interfaсe Anal., 42, Nos. 10–11: 1612 (2010)."
+			},
+			{
+				"doi": "10.1016/0168-583X(86)90135-7",
+				"or":  "M. L. Yu and N. D. Lang, Nucl. Instr. Meth. Phys. Res. B, 14: 403 (1986).",
+				"tr":  "M. L. Yu and N. D. Lang, Nucl. Instr. Meth. Phys. Res. B, 14: 403 (1986)."
+			},
+			{
+				"doi": "10.1016/0039-6028(75)90315-5",
+				"or":  "G. Slodzian, Surf. Sci., 48: 161 (1975).",
+				"tr":  "G. Slodzian, Surf. Sci., 48: 161 (1975)."
+			},
+			{
+				"doi": "10.1016/S0168-583X(86)80085-4",
+				"or":  "M. L. Yu, Nucl. Instr. Meth. Phys. Res. B, 18: 542 (1986).",
+				"tr":  "M. L. Yu, Nucl. Instr. Meth. Phys. Res. B, 18: 542 (1986)."
+			},
+			{
+				"doi": "10.1016/0039-6028(83)90396-5",
+				"or":  "H. Oechsner, Z. Sroubek, Surf. Sci.,127: 10 (1983).",
+				"tr":  "H. Oechsner, Z. Sroubek, Surf. Sci.,127: 10 (1983)."
+			},
+			{
+				"doi": "10.1103/PhysRev.184.383",
+				"or":  "P. Sigmund, Phys. Rev., 184, No. 2: 416 (1969).",
+				"tr":  "P. Sigmund, Phys. Rev., 184, No. 2: 416 (1969)."
+			},
+			{
+				"doi": "10.1016/0022-3115(76)90333-0",
+				"or":  "M. I. Guseva and Yu. V. Martynenko, J. Nucl. Mater., 63, No. 1: 241 (1976).",
+				"tr":  "M. I. Guseva and Yu. V. Martynenko, J. Nucl. Mater., 63, No. 1: 241 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "N. V. Plishivtsev, Fizicheskie Problemy Katodnogo Rasspyleniya [Physical Problems of Cathode Sputtering] (Москва: Izdatelstvo IAEh AN SSSR: 1979).",
+				"tr":  "N. V. Plishivtsev, Fizicheskie Problemy Katodnogo Rasspyleniya [Physical Problems of Cathode Sputtering] (Москва: Izdatelstvo IAEh AN SSSR: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Kosyachkov, Poverkhnost’, No. 4: 25 (1994).",
+				"tr":  "A. A. Kosyachkov, Poverkhnost’, No. 4: 25 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "V. T. Cherepin, A. A. Kosyachkov, I. N. Dubinskiy, and V. Eh. Is’yanov, Pribory i Tekhnika Ehksperimenta, No. 1: 152 (1986) (in Russian).",
+				"tr":  "V. T. Cherepin, A. A. Kosyachkov, I. N. Dubinskiy, and V. Eh. Is’yanov, Pribory i Tekhnika Ehksperimenta, No. 1: 152 (1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Nemoshkalenko, Ehlektronnaya Spektroskopiya Kristallov [Electron Spectroskopy of Crystals] (Kiev: Naukova Dumka: 1976) (in Russian).",
+				"tr":  "V. V. Nemoshkalenko, Ehlektronnaya Spektroskopiya Kristallov [Electron Spectroskopy of Crystals] (Kiev: Naukova Dumka: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Kosyachkov, Poverkhnost’, No. 9: 128 (1989) (in Russian).",
+				"tr":  "A. A. Kosyachkov, Poverkhnost’, No. 9: 128 (1989) (in Russian)."
+			},
+			{
+				"doi": "10.1088/0031-8949/1983/T6/011",
+				"or":  "K. Wittmaack, Phys. Scr., 6: 71 (1983).",
+				"tr":  "K. Wittmaack, Phys. Scr., 6: 71 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Vasiliev, A. A. Ksyachkov, I. N. Makeeva, and V. T. Cherepin, Metallofizika, 4, No. 3: 69 (1982) (in Russian).",
+				"tr":  "M. A. Vasiliev, A. A. Ksyachkov, I. N. Makeeva, and V. T. Cherepin, Metallofizika, 4, No. 3: 69 (1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. T. Сherepin, A. A. Kosyachkov, I. N. Makeeva, Secondary Ion Mass Spectrometry-SIMS IV (Eds. A. Benninghoven, J. Okano, R. Shimizu, and H. W. Werner) (Berlin Heidelberg: Springer-Verlag: 1984), p. 57.",
+				"tr":  "V. T. Сherepin, A. A. Kosyachkov, I. N. Makeeva, Secondary Ion Mass Spectrometry-SIMS IV (Eds. A. Benninghoven, J. Okano, R. Shimizu, and H. W. Werner) (Berlin Heidelberg: Springer-Verlag: 1984), p. 57."
+			},
+			{
+				"doi": "",
+				"or":  "W. Gerhard, Z. Phys. B, 22: 31 (1975).",
+				"tr":  "W. Gerhard, Z. Phys. B, 22: 31 (1975)."
+			},
+			{
+				"doi": "10.1016/0375-9601(79)90421-3",
+				"or":  "K .Wittmaack, Phys. Lett. A, 69: 322 (1979).",
+				"tr":  "K .Wittmaack, Phys. Lett. A, 69: 322 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "I. S. Bitenskiy and Eh. S. Paralis, Zhurnal Tekhnicheskoy Fiziki, 48: 1941 (1978) (in Russian).",
+				"tr":  "I. S. Bitenskiy and Eh. S. Paralis, Zhurnal Tekhnicheskoy Fiziki, 48: 1941 (1978) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0039-6028(73)90026-5",
+				"or":  "J. M. Schroeer, T. N. Rhodin, and R. C. Bradley, Surf. Sci., 34, No. 3: 571 (1973).",
+				"tr":  "J. M. Schroeer, T. N. Rhodin, and R. C. Bradley, Surf. Sci., 34, No. 3: 571 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "K. F. Minnebaev, A. E. Saburov, and V. S. Chernysh, Poverkhnost’, No. 11: 150 (1987) (in Russian).",
+				"tr":  "K. F. Minnebaev, A. E. Saburov, and V. S. Chernysh, Poverkhnost’, No. 11: 150 (1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "O. A. Bannykh, P. B. Budberg, and S. P. Alsova, Diagrammy Sostoyaniya Dvoinykh i Mnogokomponenthykh Sistem na osnove Zheleza [State Diagrams of Binary and Multicomponent Iron-Based Systems] (Mosow: Metallurgiya: 1986) (in Russian).",
+				"tr":  "O. A. Bannykh, P. B. Budberg, and S. P. Alsova, Diagrammy Sostoyaniya Dvoinykh i Mnogokomponenthykh Sistem na osnove Zheleza [State Diagrams of Binary and Multicomponent Iron-Based Systems] (Mosow: Metallurgiya: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Vasil’ev, А. А. Kosyachkov, I. N. Makeeva, and V. T. Cherepin, Metallofizika, 9, No. 1: 43 (1987) (in Russian).",
+				"tr":  "M. A. Vasil’ev, А. А. Kosyachkov, I. N. Makeeva, and V. T. Cherepin, Metallofizika, 9, No. 1: 43 (1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Vasil’ev, A. A. Kosyachkov, I. N. Makeeva, and V. T. Cherepin, Poverkhnost’, No. 8: 39 (1987) (in Russian).",
+				"tr":  "M. A. Vasil’ev, A. A. Kosyachkov, I. N. Makeeva, and V. T. Cherepin, Poverkhnost’, No. 8: 39 (1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Kosyachkov, V. T. Cherepin, and S. M. Chichkan’, Pis’ma v Zhurnal Tekhnicheskoj Fiziki, 17, No. 5, 61 (1991).",
+				"tr":  "A. A. Kosyachkov, V. T. Cherepin, and S. M. Chichkan’, Pis’ma v Zhurnal Tekhnicheskoj Fiziki, 17, No. 5, 61 (1991)."
+			},
+			{
+				"doi": "10.1016/0039-6028(87)90090-2",
+				"or":  "K. W. Frese, Surf. Sci., 182: 85 (1987).",
+				"tr":  "K. W. Frese, Surf. Sci., 182: 85 (1987)."
+			},
+			{
+				"doi": "10.1016/0925-8388(95)01846-8",
+				"or":  "H. Zuchner and T. Bruning, J. Alloys and Compounds, 231: 347 (1995).",
+				"tr":  "H. Zuchner and T. Bruning, J. Alloys and Compounds, 231: 347 (1995)."
+			}
+		]
+	}
+}

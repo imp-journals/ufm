@@ -1,0 +1,264 @@
+{
+	"_id":    "UFM.16.02.159",
+	"year":   2015,
+	"volume": 16,
+	"issue":  2,
+	"pages":  [159,173],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["21.03.2015"],
+	"PACS":   "01.52.+r, 07.85.Jy, 61.05.cc, 61.05.cf, 61.05.cp, 61.72.Dd, 81.07.Dc",
+	"title":   {
+		"ua": "Нові фізичні уявлення щодо природи прояву недосконалостей структури матеріялів у картині багатократного розсіяння випромінення та перспективи їх використання",
+		"en": "New Physical Conceptions about the Nature of Manifestation of Imperfections of Structure of Materials in a Pattern of Multiple Scattering of Radiation and Prospect of Their Application",
+		"ru": "Новые физические представления о природе проявления несовершенств структуры материалов в картине многократного рассеяния излучения и перспективы их применения"
+	},
+	"abstract": {
+		"ua": "Наведено квантово-механічну інтерпретацію деяких класичних фізичних явищ (дифракції, заломлення, поглинання, екстинкції та ін.), а також механізмів впливу недосконалосте структури досліджуваних об'єктів на ці явища з метою істотного поглиблення розуміння їхньої природи і більш ефективного використання їх при створенні новітніх функціональних можливосте у діягностиці об'єктів, як наноіндустрії, так і медицини.",
+		"en": "The quantum-mechanical interpretation of both some classical physical phenomena (diffraction, refraction, absorption, extinction, etc.) and mechanisms of the effects of structural imperfections of objects at issue on these phenomena is presented. This substantially extends understanding of their nature and contributes to efficient use of them for a creation of new functional capabilities in diagnostics of the nanotechnology and medicine objects.",
+		"ru": "Дана квантово-механическая интерпретация некоторых классических физических явлений (дифракции, преломления, поглощения, экстинкции и др.), а также механизмов влияния несовершенств структуры исследуемых объектов на эти явления с целью существенного углубления понимания их природы и более эффективного использования их при создании новейших функциональных возможностей в диагностике объектов, как наноиндустрии, так и медицины."
+	},
+	"keywords": {
+		"ua": "недосконалості структури, динамічна дифракція, дисперсіни механізм",
+		"en": "imperfections of structure, dynamic diffraction, dispersion mechanism",
+		"ru": "несовершенства структуры, динамическая дифракция, дисперсионный механизм"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Б. Молодкін", "en": "V. B. Molodkin", "ru": "В. Б. Молодкин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Ю. Сторіжко", "en": "V. Yu. Storizhko", "ru": "В. Е. Сторижко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. В. Лізунов", "en": "V. V. Lizunov", "ru": "В. В. Лизунов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. В. Лізунова", "en": "S. V. Lizunova", "ru": "С. В. Лизунова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. Г. Толмачов", "en": "M. G. Tolmachov", "ru": "Н. Г. Толмачёв"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Л. М. Скапа", "en": "L. M. Skapa", "ru": "Л. Н. Скапа"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "К. В. Фузік", "en": "K. V. Fuzik", "ru": "Е. В. Фузик"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. В. Молодкін", "en": "V. V. Molodkin", "ru": "В. В. Молодкин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. С. Скакунова", "en": "O. S. Skakunova", "ru": "Е. С. Скакунова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Б. В. Шелудченко", "en": "B. V. Sheludchenko", "ru": "Б. В. Шелудченко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. В. Дмітрієв", "en": "S. V. Dmitriev", "ru": "С. В. Дмитриев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Є. В. Кочелаб", "en": "Ye. V. Kochelab", "ru": "Е. В. Кочелаб"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Р. В. Лехняк", "en": "R. V. Lekhnyak", "ru": "Р. В. Лехняк"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.18.02.155",
+				"cit": "V. V. Kurylyak and G. I. Khimicheva, <a href=\"https://doi.org/10.15407/ufm.18.02.155\">Usp. Fiz. Met. <b>18</b>, 155 (2017)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 34,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "М. А. Кривоглаз, Металлы, электроны, решётка (Ред. В. Н. Гриднев) (Киев: Наукова думка: 1975), с. 355.",
+				"tr":  "M. A. Krivoglaz, Metally, Elektrony, Reshyotka [Metals, Electrons, Lattice] (Ed. V. N. Gridnev) (Kiev: Naukova Dumka: 1975), p. 355 (in Russian)."
+			},
+			{
+				"doi": "10.1007/978-3-642-74291-0",
+				"or":  "M. A. Krivoglaz, X-Ray and Neutron Diffraction in Nonideal Crystals (Berlin: Springer: 1996).",
+				"tr":  "M. A. Krivoglaz, X-Ray and Neutron Diffraction in Nonideal Crystals (Berlin: Springer: 1996)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, Е. А. Тихонова, Физ. мет. металловед., 24, № 3: 385 (1967).",
+				"tr":  "V. B. Molodkin and E. A. Tikhonova, Fiz. Met. Metalloved., 24, No. 3: 385 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, Физ. мет. металловед., 25, № 3: 410 (1968).",
+				"tr":  "V. B. Molodkin, Fiz. Met. Metalloved., 25, No. 3: 410 (1968) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, Физ. мет. металловед., 27, № 4: 582 (1969).",
+				"tr":  "V. B. Molodkin, Fiz. Met. Metalloved., 27, No. 4: 582 (1969) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, Металлофизика, 2, № 1: 3 (1980).",
+				"tr":  "V. B. Molodkin, Metallofizika, 2, No. 1: 3 (1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Molodkin, Phys. Metals, 3: 615 (1981).",
+				"tr":  "V. B. Molodkin, Phys. Metals, 3: 615 (1981)."
+			},
+			{
+				"doi": "10.1002/1521-3951(200110)",
+				"or":  "V. B. Molodkin, S. I. Olikhovskii, E. N. Kislovskii, E. G. Len, and E. V. Pervak, phys. status solidi (b), 227: 429 (2001).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, E. N. Kislovskii, E. G. Len, and E. V. Pervak, phys. status solidi (b), 227: 429 (2001)."
+			},
+			{
+				"doi": "10.1002/1521-3951(200205)231:1<199::AID-PSSB199>3.0.CO;2-Y",
+				"or":  "S. I. Olikhovskii, V. B. Molodkin, E. N. Kislovskii, E. G. Len, and E. V. Pervak, phys. status solidi (b), 231: 199 (2002).",
+				"tr":  "S. I. Olikhovskii, V. B. Molodkin, E. N. Kislovskii, E. G. Len, and E. V. Pervak, phys. status solidi (b), 231: 199 (2002)."
+			},
+			{
+				"doi": "10.1002/1521-3951(200205)231:1<213::AID-PSSB213>3.0.CO;2-C",
+				"or":  "E. N. Kislovskii, S. I. Olikhovskii, V. B. Molodkin, V. V. Nemoshkalenko, V. P. Krivitsky, E. G. Len, E. V. Pervak, G. E. Ice, and B. C. Larson, phys. status solidi (b), 231: 213 (2002).",
+				"tr":  "E. N. Kislovskii, S. I. Olikhovskii, V. B. Molodkin, V. V. Nemoshkalenko, V. P. Krivitsky, E. G. Len, E. V. Pervak, G. E. Ice, and B. C. Larson, phys. status solidi (b), 231: 213 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Molodkin, M. V. Kovalchuk, A. P. Shpak, S. I. Olikhovskii, Ye. M. Kyslovskyy, A. I. Nizkova, E. G. Len, T. P. Vladimirova, E. S. Skakunova, V. V. Molodkin, G. E. Ice, R. I. Barabash, and I. M. Karnaukhov, Diffuse Scattering and the Fundamental Properties of Materials (Eds. R. I. Barabash, G. E. Ice, and P. E. A. Turchi) (New Jersey: Momentum Press: 2009), p. 391.",
+				"tr":  "V. B. Molodkin, M. V. Kovalchuk, A. P. Shpak, S. I. Olikhovskii, Ye. M. Kyslovskyy, A. I. Nizkova, E. G. Len, T. P. Vladimirova, E. S. Skakunova, V. V. Molodkin, G. E. Ice, R. I. Barabash, and I. M. Karnaukhov, Diffuse Scattering and the Fundamental Properties of Materials (Eds. R. I. Barabash, G. E. Ice, and P. E. A. Turchi) (New Jersey: Momentum Press: 2009), p. 391."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, М. В. Ковальчук, В. Б. Молодкін, Г. І. Низкова, І. В. Гинько, С. Й. Оліховський, Є. М. Кисловський, Є. Г. Лень, А. О. Білоцька, К. В. Первак, В. В. Молодкін, Спосіб багатопараметричної структурної діагностики монокристалів з декількома типами дефектів, Патент України № 36075 (опубліковано 10 жовтня 2008 р.).",
+				"tr":  "A. P. Shpak, M. V. Koval'chuk, V. B. Molodkin, H. I. Nyzkova, I. V. Hyn'ko, S. J. Olikhovs'kyy, Ye. M. Kyslovs'kyy, Ye. G. Len', A. O. Bilots'ka, K. V. Pervak, and V. V. Molodkin, Sposib Bahatoparametrychnoyi Strukturnoyi Diagnostyky Monokrystaliv z Dekil'koma Typamy Defektiv [Method of Multiparametric Structural Diagnostics of Single Crystals with Several Types of Defects], Patent of Ukraine No. 36075 (Published October 10, 2008) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, М. В. Ковальчук, В. Б. Молодкін, В. Л. Носик, В. Ю. Сторіжко, Л. А. Булавін, І. М. Карнаухов, Р. І. Барабаш, Дж. Е. Айс, Г. І. Низкова, І. В. Гинько, С. Й. Оліховський, Є. М. Кисловський, В. А. Татаренко, Є. Г. Лень, А. О. Білоцька, К. В. Первак, В. В.Молодкін, Спосіб багатопараметричної структурної діагностики монокристалів з декількома типами дефектів, Патент України № 89594 (опубліковано 10 лютого 2010 р.).",
+				"tr":  "A. P. Shpak, M. V. Koval'chuk, V. B. Molodkin, V. L. Nosyk, V. Yu. Storizhko, L. A. Bulavin, I. M. Karnaukhov, R. I. Barabash, G. E. Ice, H. I. Nyzkova, I. V. Hyn'ko, S. J. Olikhovs'kyy, Ye. M. Kyslovs'kyy, V. A. Tatarenko, Ye. G. Len', A. O. Bilots'ka, K. V. Pervak, and V. V. Molodkin, Sposib Bahatoparametrychnoyi Strukturnoyi Diagnostyky Monokrystaliv z Dekil'koma Typamy Defektiv [Method of Multiparametric Structural Diagnostics of Single Crystals with Several Types of Defects], Patent of Ukraine No. 89594 (Published February 02, 2010) (in Ukrainian)."
+			},
+			{
+				"doi": "10.3367/UFNe.0181.201107a.0681",
+				"or":  "V. B. Molodkin, A. P. Shpak, M. V. Kovalchuk, V. F. Machulin, and V. L. Nosik, Phys. Uspekhi, 54, No. 7: 661 (2011).",
+				"tr":  "V. B. Molodkin, A. P. Shpak, M. V. Kovalchuk, V. F. Machulin, and V. L. Nosik, Phys. Uspekhi, 54, No. 7: 661 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Даценко, В. Б. Молодкин, М. Е. Осиновский, Динамическое рассеяние рентгеновских лучей реальными кристаллами (Киев: Наукова думка: 1988).",
+				"tr":  "L. I. Datsenko, V. B. Molodkin, and M. E. Osinovskiy, Dinamicheskoe Rasseyanie Rentgenovskikh Luchey Real'nymi Kristallami [Dynamical X-Ray Scattering by Real Crystals] (Kiev: Naukova Dumka: 1988) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0168-9002(91)90651-6",
+				"or":  "V. V. Nemoshkalenko, V. B. Molodkin, S. I. Olikhovskii, M. V. Kovalchuk, Yu. M. Litvinov, E. N. Kislovskii, and A. I. Nizkova, Nucl. Instrum. and Meth. in Physics Research A, 308, No. 1: 294 (1991).",
+				"tr":  "V. V. Nemoshkalenko, V. B. Molodkin, S. I. Olikhovskii, M. V. Kovalchuk, Yu. M. Litvinov, E. N. Kislovskii, and A. I. Nizkova, Nucl. Instrum. and Meth. in Physics Research A, 308, No. 1: 294 (1991)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.78.224109",
+				"or":  "V. B. Molodkin, S. I. Olikhovskii, E. N. Kislovskii, T. P. Vladimirova, E. S. Skakunova, R. F. Seredenko, and B. V. Sheludchenko, Phys. Rev. B, 78: 224109 (2008).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, E. N. Kislovskii, T. P. Vladimirova, E. S. Skakunova, R. F. Seredenko, and B. V. Sheludchenko, Phys. Rev. B, 78: 224109 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, М. В. Ковальчук, И. М. Карнаухов, В. Ф. Мачулин, В. Е. Сторижко, Э. Х. Мухамеджанов, А. И. Низкова, С. В. Лизунова, Е. Н. Кисловский, С. И. Олиховский, Б. В. Шелудченко, С. В. Дмитриев, Е. С. Скакунова, В. В. Молодкин, В. В. Лизунов, В. А. Бушуев, Р. Н. Кютт, Б. С. Карамурзов, А. А. Дышеков, Т. И. Оранова, Ю. П. Хапачев, Основы динамической высокоразрешающей дифрактометрии функциональных материалов (Нальчик: Кабардино-Балкарский университет: 2013).",
+				"tr":  "V. B. Molodkin, M. V. Koval'chuk, I. M. Karnaukhov, V. F. Machulin, V. E. Storizhko, E. Kh. Mukhamedzhanov, A. I. Nizkova, S. V. Lizunova, E. N. Kislovskiy, S. I. Olikhovskiy, B. V. Sheludchenko, S. V. Dmitriev, E. S. Skakunova, V. V. Molodkin, V. V. Lizunov, V. A. Bushuev, R. N. Kyutt, B. S. Karamurzov, A. A. Dyshekov, T. I. Oranova, and Yu. P. Khapachev, Osnovy Dinamicheskoy Vysokorazreshayushchey Difraktometrii Funktsional'nykh Materialov [Fundamentals of Dynamical High-Resolution Diffractometry of Functional Materials] (Nal'chik: Kabardino-Balkarskiy Universitet: 2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, М. В. Ковальчук, И. М. Карнаухов, В. Е. Сторижко, С. В. Лизунова, С. В. Дмитриев, А. И. Низкова, Е. Н. Кисловский, В. В. Молодкин, Е. В. Первак, А. А. Катасонов, В. В. Лизунов, Е. С. Скакунова, Б. С. Карамурзов, А. А. Дышеков, А. Н. Багов, Т. И. Оранова, Ю. П. Хапачев, Основы интегральной многопараметрической диффузнодинамической дифрактометрии (Нальчик: Кабардино-Балкарский университет: 2013).",
+				"tr":  "V. B. Molodkin, M. V. Koval'chuk, I. M. Karnaukhov, V. E. Storizhko, S. V. Lizunova, S. V. Dmitriev, A. I. Nizkova, E. N. Kislovskii, V. V. Molodkin, E. V. Pervak, A. A. Katasonov, V. V. Lizunov, E. S. Skakunova, B. S. Karamurzov, A. A. Dyshekov, A. N. Bagov, T. I. Oranova, and Yu. P. Khapachev, Osnovy Integral'noy Mnogoparametricheskoy Diffuznodinamicheskoy Difraktometrii [Fundamentals of Integrated Multiparametric Diffuse-Dynamical Diffractometry] (Nal'chik: Kabardino-Balkarskiy Universitet: 2013) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.36.07.0857",
+				"or":  "В. В. Лизунов, В. Б. Молодкин, С. В. Лизунова, Н. Г. Толмачев, Е. С. Скакунова, С. В. Дмитриев, Б. В. Шелудченко, С. М. Бровчук, Л. Н. Скапа, Р. В. Лехняк, Металлофиз. новейшие технол., 36, № 7: 857 (2014).",
+				"tr":  "V. V. Lizunov, V. B. Molodkin, S. V. Lizunova, M. G. Tolmachyov, O. S. Skakunova, S. V. Dmitriev, B. V. Sheludchenko, S. M. Brovchuk, L. M. Skapa, R. V. Lekhnyak, and K. V. Fuzik, Metallofiz. Noveishie Tekhnol., 36, No. 7: 857 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Лизунов, В. Б. Молодкин, С. В. Лизунова, Н. Г. Толмачев, Е. С. Скакунова, С. В. Дмитриев, Б. В. Шелудченко, С. М. Бровчук, Л. Н. Скапа, Р. В. Лехняк, В. В. Молодкин, Е. В. Фузик, Успехи физики металлов, 15, № 2: 55 (2014); http://ufm.imp.kiev.ua/ru/abstract/v15/i02/055.html.",
+				"tr":  "V. V. Lizunov, V. B. Molodkin, S. V. Lizunova, N. G. Tolmachev, O. S. Skakunova, S. V. Dmitriev, B. V. Sheludchenko, S. M. Brovchuk, L. M. Skapa, R. V. Lekhnyak, V. V. Molodkin, and K. V. Fuzik, Uspehi Fiziki Metallov, 15, No. 2: 55 (2014) (in Russian).22. V. V. Lizunov, E. V. Kochelab, O. S. Skakunova, E. G. Len, V. B. Molodkin, S. J. Olikhovs'kyy, M. G. Tolmachov, B. V. Sheludchenko, S. V. Lizunova, and L. M. Skapa, Nanosistemi, Nanomateriali, Nanotehnologii, 13, No. 1: 99 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Лизунов, Е. В. Кочелаб, Е. С. Скакунова, Е. Г. Лень, В. Б. Молодкин, С. И. Олиховский, Н. Г. Толмачёв, Б. В. Шелудченко, С. В. Лизунова, Л. Н. Скапа, Наносистеми, наноматеріали, нанотехнології, 13, № 1: 99 (2015).",
+				"tr":  "V. V. Lizunov, E. V. Kochelab, O. S. Skakunova, E. G. Len, V. B. Molodkin,  S. J. Olikhovs'kyy, M. G. Tolmachov, B. V. Sheludchenko, S. V. Lizunova, and L. M. Skapa, Nanosistemi, Nanomateriali, Nanotehnologii, 13, No. 1: 99 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.37.03.0409",
+				"or":  "О. С. Скакунова, С. Й. Оліховський, В. Б. Молодкін, Є. Г. Лень, Є. М. Кисловський, О. В. Решетник, Т. П. Владімірова, Є. В. Кочелаб, В. В. Лізунов, С. В. Лізунова, В. Л. Маківська, М. Г. Толмачов, Л. М. Скапа, Я. В. Василик, К. В. Фузік, Металлофиз. новейшие технол., 37, № 3: 409 (2015).",
+				"tr":  "O. S. Skakunova, S. I. Olikhovskii, V. B. Molodkin, E. G. Len, E. M. Kislovskii, O. V. Reshetnyk, T. P. Vladimirova, E. V. Kochelab, V. V. Lizunov, S. V. Lizunova, V. L. Makivs'ka, M. G. Tolmachov, L. M. Skapa, Ya. V. Vasylyk, and K. V. Fuzik, Metallofiz. Noveishie Tekhnol., 37, No. 3: 409 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/mfint.36.04.0559",
+				"or":  "Б. В. Шелудченко, В. Б. Молодкин, С. В. Лизунова, С. И. Олиховский, Е. Н. Кисловский, А. Ю. Гаевский, В. В. Лизунов, А. И. Низкова, Т. П. Владимирова, В. В. Молодкин, Е. В. Фузик, А. В. Гошкодеря, А. А. Белоцкая, Г. О. Велиховский, А. А. Музыченко, Р. В. Лехняк, Металлофиз. новейшие технол., 36, № 4: 559 (2014).",
+				"tr":  "B. V. Sheludchenko, V. B. Molodkin, S. V. Lizunova, S. J. Olikhovskyi, Ye. M. Kyslovskyi, O. Yu. Gaevskyi, V. V. Lizunov, A. I. Nizkova, T. P. Vladimirova, V. V. Molodkin, K. V. Fuzyk, A. V. Goshkoderya, A. O. Bilotska, G. O. Velikhovskyi, A. A. Muzychenko, and R. V. Lekhnyak, Metallofiz. Noveishie Tekhnol., 36, No. 4: 559 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. В. Шелудченко, В. Б. Молодкин, С. В. Лизунова, М. В. Ковальчук, Э. Х. Мухамеджанов, В. А. Бушуев, Ю. П. Хапачев, В. Е. Сторижко, С. И. Олиховский, Е. Н. Кисловский, А. Ю. Гаевский, В. В. Лизунов, А. И. Низкова, Т. П. Владимирова, В. В. Молодкин, Е. В. Фузик, А. В. Гошкодеря, Я. В. Василик, А. А. Белоцкая, Г. О. Велиховский, А. А. Музыченко, Р. В. Лехняк, Актуальные вопросы современного естествознания, вып. 12: 32 (2014).",
+				"tr":  "B. V. Sheludchenko, V. B. Molodkin, S. V. Lizunova, M. V. Koval'chuk, E. Kh. Mukhamedzhanov, V. A. Bushuev, Yu. P. Khapachev, V. E. Storizhko, S. I. Olikhovskiy, E. N. Kislovskiy, A. Yu. Gaevskiy, V. V. Lizunov, A. I. Nizkova, T. P. Vladimirova, V. V. Molodkin, E. V. Fuzik, A. V. Goshkoderya, Ya. V. Vasilik, A. A. Belotskaya, G. O. Velikhovskiy, A. A. Muzychenko, and R. V. Lekhnyak, Aktual'nye Voprosy Sovremennogo Estestvoznaniya, Iss. 12: 32 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.37.02.0265",
+				"or":  "В. В. Лизунов, В. Б. Молодкин, С. И. Олиховский, С. В. Лизунова, Н. Г. Толмачев, А. И. Низкова, Е. С. Скакунова, С. В. Дмитриев, Б. В. Шелудченко, Я. В. Василик, Т. Г. Сыч, Е. В. Фузик, Р. В. Лехняк, Л. Н. Скапа, Металлофиз. новейшие технол., 37, № 2: 265 (2015).",
+				"tr":  "V. V. Lizunov, V. B. Molodkin, S. I. Olikhovskii, S. V. Lizunova, N. G. Tolmachev, H. I. Nizkova, O. S. Skakunova, S. V. Dmitriev, B. V. Sheludchenko, K. V. Fuzik, R. V. Lekhnyak, and L. M. Skapa, Metallofiz. Noveishie Tekhnol., 37, No. 2: 265 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.36.08.1035",
+				"or":  "S. M. Brovchuk, V. B. Molodkin, A. I. Nizkova, I. I. Rudnytska, G. I. Grankina, V. V. Lizunov, S. V. Lizunova, B. V. Sheludchenko, E. S. Skakunova, S. V. Dmitriev, I. N. Zabolotnyi, A. A. Katasonov, B. F. Zhuravlev, R. V. Lekhnyak, L. N. Skapa, and N. P. Irha, Металлофиз. новейшие технол., 36, № 8: 1035 (2014).",
+				"tr":  "S. M. Brovchuk, V. B. Molodkin, A. I. Nizkova, I. I. Rudnytska, G. I. Grankina, V. V. Lizunov, S. V. Lizunova, B. V. Sheludchenko, E. S. Skakunova, S. V. Dmitriev, I. N. Zabolotnyi, A. A. Katasonov, B. F. Zhuravlev, R. V. Lekhnyak, L. N. Skapa, and N. P. Irha, Metallofiz. Noveishie Tekhnol., 36, No. 8: 1035 (2014)."
+			},
+			{
+				"doi": "10.15407/mfint.36.09.1271",
+				"or":  "В. В. Лизунов, С. М. Бровчук, А. И. Низкова, В. Б. Молодкин, С. В. Лизунова, Б. В. Шелудченко, А. И. Гранкина, И. И. Рудницкая, С. В. Дмитриев, Н. Г. Толмачев, Р. В. Лехняк, Л. Н. Скапа, Н. П. Ирха, Металлофиз. новейшие технол., 36, № 9: 1271 (2014).",
+				"tr":  "V. V. Lizunov, S. M. Brovchuk, A. I. Nizkova, V. B. Molodkin, S. V. Lizunova, B. V. Sheludchenko, A. I. Grankina, I. I. Rudnitska, S. V. Dmitriev, M. G. Tolmachev, R. V. Lekhnyak, L. M. Skapa, and N. P. Irkha, Metallofiz. Noveishie Tekhnol., 36, No. 9: 1271 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, В. В. Лизунов, Е. С. Скакунова, С. В. Дмитриев, Б. В. Шелудченко, С. М. Бровчук, Л. Н. Скапа, Наноразмерные системы и наноматериалы: исследования в Украине (Киев: Академпериодика: 2014), с. 253.",
+				"tr":  "V. B. Molodkin, V. V. Lizunov, E. S. Skakunova, S. V. Dmitriev, B. V. Sheludchenko, S. M. Brovchuk, and L. N. Skapa, Nanorazmernye Sistemy i Nanomaterialy: Issledovaniya v Ukraine [Nanoscale Systems and Nanomaterials: Research in Ukraine] (Kyiv: Akademperiodyka: 2014), p. 253 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Лизунов, С. М. Бровчук, А. И. Низкова, В. Б. Молодкин, С. В. Лизунова, Б. В. Шелудченко, А. И. Гранкина, И. И. Рудницкая, С. В. Дмитриев, Н. Г. Толмачев, Р. В. Лехняк, Л. Н. Скапа, Н. П. Ирха, Наносистеми, наноматеріали, нанотехнології, 12, № 3: 565 (2014).",
+				"tr":  "V. V. Lizunov, S. M. Brovchuk, A. I. Nizkova, V. B. Molodkin, S. V. Lizunova, B. V. Sheludchenko, A. I. Grankina, I. I. Rudnytska, S. V. Dmitriev, N. G. Tolmachev, R. V. Lekhnyak, L. M. Skapa, and N. P. Irkha, Nanosistemi, Nanomateriali, Nanotehnologii, 12, No. 3: 565 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Лизунов, Е. В. Кочелаб, Е. С. Скакунова, Е. Г. Лень, В. Б. Молодкин, С. И. Олиховский, Н. Г. Толмачёв, Б. В. Шелудченко, С. В. Лизунова, Л. Н. Скапа, Наносистеми, наноматеріали, нанотехнології, 13, № 2: 349 (2015).",
+				"tr":  "V. V. Lizunov, E. V. Kochelab, O. S. Skakunova, E. G. Len, V. B. Molodkin, S. J. Olikhovs'kyy, M. G. Tolmachov, B. V. Sheludchenko, S. V. Lizunova, and L. M. Skapa, Nanosistemi, Nanomateriali, Nanotehnologii, 13, No. 2: 349 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.37.08.1017",
+				"or":  "V. B. Molodkin, S. I. Olikhovskii, E. S. Skakunova, E. G. Len, E. N. Kislovskii, O. V. Reshetnyk, T. P. Vladimirova, V. V. Lizunov, L. N. Skapa, S. V. Lizunova, K. V. Fuzik, M. G. Tolmachov, B. K. Ostafiychuk, V. M. Pylypiv, and O. Z. Garpul', Металлофиз. новейшие технол., 37 (2015) (в печати).",
+				"tr":  "V. B. Molodkin, S. J. Olikhovs'kyy, O. S. Skakunova, E. G. Len, E. M. Kislovs'kyy, O. V. Reshetnyk, T. P. Vladimirova, V. V. Lizunov, L. M. Skapa, S. V. Lizunova, K. V. Fuzik, M. G. Tolmachov, B. K. Ostafiychuk, V. M. Pylypiv, and O. Z. Garpul', Metallofiz. Noveishie Tekhnol., 37, No. 8: 1017—1026 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1143/JPSJ.26.1239",
+				"or":  "S. Takagi, J. Phys. Soc. Jpn., 26: 1239 (1969).",
+				"tr":  "S. Takagi, J. Phys. Soc. Jpn., 26: 1239 (1969)."
+			},
+			{
+				"doi": "10.1107/S0567739480001544",
+				"or":  "N. Kato, Acta Cryst. A, 36, No. 5: 763 (1980).",
+				"tr":  "N. Kato, Acta Cryst. A, 36, No. 5: 763 (1980)."
+			}
+		]
+	}
+}

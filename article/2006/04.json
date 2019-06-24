@@ -1,0 +1,35 @@
+{
+	"year":   2006,
+	"volume": 7,
+	"issue":  4,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [189,241],
+			"title": {
+				"ua": "Фізико-технологічні основи осадження тонких ВТНП-плівок YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$",
+				"en": "Physicotechnological Principles of Deposition of Thin High-T$_{c}$ Superconducting Films of YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$",
+				"ru": "Физико-технологические основы осаждения тонких ВТСП-плёнок YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$"
+			},
+			"autors": {
+				"ua": "В. С. Фліс, В. М. Пан, В. А. Комашко, В. О. Москалюк, І. І. Пешко",
+				"en": "V. S. Flis, V. M. Pan, V. A. Komashko, V. O. Moskalyuk, and I. I. Peshko",
+				"ru": "В. С. Флис, В. М. Пан, В. А. Комашко, В. О. Москалюк, И. И. Пешко"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [243,281],
+			"title": {
+				"ua": "Міцність і пластичність спечених матеріялів на основі титанового наноламінату Ti$_{3}$SiC$_{2}$",
+				"en": "Strength and Plasticity of the Sintered Materials on the Base of a Titanium Nanolaminate Ti$_{3}$SiC$_{2}$",
+				"ru": "Прочность и пластичность спеченных материалов на основе титанового наноламината Ti$_{3}$SiC$_{2}$"
+			},
+			"autors": {
+				"ua": "С. О. Фірстов, Е. П. Печковський, В. Ф. Горбань",
+				"en": "S. O. Firstov, Eh. P. Pechkovsky, and V. F. Gorban’",
+				"ru": "С. А. Фирстов, Э. П. Печковский, В. Ф. Горбань"
+			}
+		}
+	]
+}

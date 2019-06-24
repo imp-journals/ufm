@@ -1,0 +1,525 @@
+{
+	"_id":    "UFM.05.04.433",
+	"year":   2004,
+	"volume": 5,
+	"issue":  4,
+	"pages":  [433,502],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["10.02.2004"],
+	"PACS":   "05.70.Np, 64.75.+g, 66.30.Ny, 66.30.Pa, 68.55.Ac, 82.60.Nh, 82.60.Qr",
+	"title":   {
+		"ua": "Зародкоутворення та ріст у наносистемах: деякі нові концепції",
+		"en": "Nucleation and Growth in Nanosystems: Some New Concepts",
+		"ru": "Зародышеобразование и рост в наносистемах: некоторые новые концепции"
+	},
+	"abstract": {
+		"ua": "Огляд містить набір деяких нових концепцій в теорії і моделюванні початкових стадій твердофазних реакцій у тонких плівках, мультишарах, наночастинках та в об’ємі нанокристалічних матеріалів. Обговорено наступні теми: можливість осциляційного впорядкування і зародкоутворення в полі градієнта концентрації; критерій пригнічення/росту стабільних і метастабільних фаз на стадії зародкоутворення; можливість різних мод зародкоутворення в полі градієнта концентрації та їх конкуренція; конкурентне зародкоутворення і розпад в малих об’ємах; критерій однозначного вибору параметрів коміркового розпаду, що базується на балансі та максимумі виробництва ентропії; формування наноструктур під дією одновісного стискання монокристалічного стопу.",
+		"en": "Review covers some new concepts in theory and modelling of the initial stages of solid-state reactions in thin films, multilayers, nanoparticles, and bulk nanocrystalline materials. The following topics are included: possibility of oscillatory ordering and nucleation in the sharp concentration gradient; criteria of suppression/growth of stable and metastable phases at the nucleation stage; possible nucleation modes in sharp concentration gradient and their competition; competitive nucleation and decomposition in small volumes; criteria of unambiguous choosing the parameters of discontinuous precipitation based on the balance and maximum production of the entropy; formation of nanostructure under uniaxial compression of single-crystalline alloy.",
+		"ru": "Обзор содержит набор некоторых новых концепций в теории и моделировании начальных стадий твердофазных реакций в тонких пленках, мультислоях, наночастицах и в объеме нанокристаллических материалов. Обсуждаются следующие темы: возможность осцилляционного упорядочения и зародышеобразования в поле градиента концентрации; критерий подавления/роста стабильных и метастабильных фаз на стадии зародышеобразования; возможность различных мод зародышеобразования в поле градиента концентрации и их конкуренция; конкурентное зародышеобразование и распад в малых объемах; критерий однозначного выбора параметров ячеистого распада, основанный на балансе и максимуме производства энтропии; формирование наноструктур под воздействием одноосного сжатия монокристаллического сплава"
+	},
+	"keywords": {
+		"ua": "градієнт концентрації, дифузія, зародкоутворення, розпад, моделювання",
+		"en": "concentration gradient, diffusion, nucleation, decomposition, simulation",
+		"ru": "градиент концентрации, диффузия, зародышеобразование, распад, моделирование"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. М. Гусак", "en": "A. M. Gusak", "ru": "А. М. Гусак"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "О. О. Богатирьов", "en": "O. O. Bogatyrev", "ru": "А. О. Богатырёв"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "А. О. Ковальчук", "en": "A. O. Kovalchuk", "ru": "А. О. Ковальчук"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "С. В. Корнієнко", "en": "S. V. Kornienko", "ru": "С. В. Корниенко"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "Г. В. Луценко", "en": "Gr. V. Lutsenko", "ru": "Г. В. Луценко"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "Ю. О. Ляшенко", "en": "Yu. A. Lyashenko", "ru": "Ю. А. Ляшенко"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "А. С. Ширинян", "en": "A. S. Shirinyan", "ru": "А. С. Ширинян"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "Т. В. Запорожець", "en": "T. V. Zaporoghets", "ru": "Т. В. Запорожец"},
+			"OID": [214]
+		}
+	],
+	"references": {
+		"count": 92,
+				"list":  [
+			{
+				"doi": "",
+				"or":  "Ya. E. Geguzin, Diffusionnaya Zona (Diffusion Zone) (Moscow: Nauka: 1981) (in Russian).",
+				"tr":  "Ya. E. Geguzin, Diffusionnaya Zona (Diffusion Zone) (Moscow: Nauka: 1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "C. P. Gurov, B. A. Kartashkin, and Yu. E. Ugaste, Vzaimnaya Diffusiya v Mnogofaznykh Metallicheskikh Sistemakh (Interdiffusion in Multiphase Metallic Systems) (Moscow: Nauka: 1981) (in Russian).",
+				"tr":  "C. P. Gurov, B. A. Kartashkin, and Yu. E. Ugaste, Vzaimnaya Diffusiya v Mnogofaznykh Metallicheskikh Sistemakh (Interdiffusion in Multiphase Metallic Systems) (Moscow: Nauka: 1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. V. Nazarov and K. P. Gurov, Fiz. Met. Metalloved., 38, No. 4: 698 (1975) (in Russian).",
+				"tr":  "A. V. Nazarov and K. P. Gurov, Fiz. Met. Metalloved., 38, No. 4: 698 (1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "K. P. Gurov and A. M. Gusak, Fiz. Met. Metalloved., 59, No. 6: 1062 (1985) (in Russian).",
+				"tr":  "K. P. Gurov and A. M. Gusak, Fiz. Met. Metalloved., 59, No. 6: 1062 (1985) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.64.245418",
+				"or":  "F. Hartung and G. Schmitz, Phys. Rev. B, 64: 245418 (2001).",
+				"tr":  "F. Hartung and G. Schmitz, Phys. Rev. B, 64: 245418 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "I. Kaur and W. Gust, Fundamentals of Grain and Interphase Boundary Diffusion (Stuttgart: Ziegler Press: 1989); idem (Moscow: Mashinostroenie 1991) (Russian translation).",
+				"tr":  "I. Kaur and W. Gust, Fundamentals of Grain and Interphase Boundary Diffusion (Stuttgart: Ziegler Press: 1989); idem (Moscow: Mashinostroenie 1991) (Russian translation)."
+			},
+			{
+				"doi": "10.1557/JMR.1988.0167",
+				"or":  "F. M. d’Heurle, J. Materials Research, 3: 167 (1988).",
+				"tr":  "F. M. d'Heurle, J. Materials Research, 3: 167 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Ya. Pines, Essays on Metal Physics (Kharkov: University Publ.: 1961) (in Russian).",
+				"tr":  "B. Ya. Pines, Essays on Metal Physics (Kharkov: University Publ.: 1961) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Philibert, Defect and Diffusion Forum, 66–69: 995 (1989).",
+				"tr":  "J. Philibert, Defect and Diffusion Forum, 66–69: 995 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Dybkov, J. Materials Science, 21, No. 9: 3078 (1986); ibidem, 22, No. 12: 4233 (1986).",
+				"tr":  "V. I. Dybkov, J. Materials Science, 21, No. 9: 3078 (1986); ibidem, 22, No. 12: 4233 (1986)."
+			},
+			{
+				"doi": "10.1063/1.331134",
+				"or":  "U. Goesele and K. N. Tu, J. Appl. Phys., 53: 3552 (1982).",
+				"tr":  "U. Goesele and K. N. Tu, J. Appl. Phys., 53: 3552 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "W. L. Johnson, J. Mater. Sci., 30: 81 (1986).",
+				"tr":  "W. L. Johnson, J. Mater. Sci., 30: 81 (1986)."
+			},
+			{
+				"doi": "10.1016/0022-3115(90)90266-P",
+				"or":  "V. Vieregge and Chr. Herzig, J. Nucl. Mater., 175: 29 (1990).",
+				"tr":  "V. Vieregge and Chr. Herzig, J. Nucl. Mater., 175: 29 (1990)."
+			},
+			{
+				"doi": "10.1088/0022-3727/30/23/001",
+				"or":  "C. Michaelsen, K. Barmak, and T. P. Weihs, J. Phys. D: Appl. Phys., No. 30: 3167 (1997).",
+				"tr":  "C. Michaelsen, K. Barmak, and T. P. Weihs, J. Phys. D: Appl. Phys., No. 30: 3167 (1997)."
+			},
+			{
+				"doi": "10.1016/S0167-9317(99)00294-4",
+				"or":  "E. Emeric, P. Gas, G. Clugnet, and C. Bergman, Microelectronic Engineering, 50: 285 (2000).",
+				"tr":  "E. Emeric, P. Gas, G. Clugnet, and C. Bergman, Microelectronic Engineering, 50: 285 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Emeric, Etude des Reactions a l’Etat Solide dans des Multicouches Al/Co (Thesis of Disser. for Ph.D.) (Marseille: 1998) (in French).",
+				"tr":  "E. Emeric, Etude des Reactions a l'Etat Solide dans des Multicouches Al/Co (Thesis of Disser. for Ph.D.) (Marseille: 1998) (in French)."
+			},
+			{
+				"doi": "10.1016/S1359-6462(01)01058-2",
+				"or":  "T. Jeske and G. Schmitz, Scripta Mat., 45: 555 (2001).",
+				"tr":  "T. Jeske and G. Schmitz, Scripta Mat., 45: 555 (2001)."
+			},
+			{
+				"doi": "10.2320/matertrans1989.31.425",
+				"or":  "A. Inoue, T. Zhang, and T. Masumoto, Mater. Trans. JIM, 31: 425 (1990).",
+				"tr":  "A. Inoue, T. Zhang, and T. Masumoto, Mater. Trans. JIM, 31: 425 (1990)."
+			},
+			{
+				"doi": "10.1063/1.110520",
+				"or":  "A. Paker and W. L. Johnson, Appl. Phys. Lett., 63: 2342 (1993).",
+				"tr":  "A. Paker and W. L. Johnson, Appl. Phys. Lett., 63: 2342 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Calin and U. Koster, Mater. Sci. Forum, 269–272: 749 (1997).",
+				"tr":  "M. Calin and U. Koster, Mater. Sci. Forum, 269–272: 749 (1997)."
+			},
+			{
+				"doi": "10.1080/095008398178318",
+				"or":  "K. F. Kelton, Phil. Mag. Lett., 77, No 6: 337 (1998).",
+				"tr":  "K. F. Kelton, Phil. Mag. Lett., 77, No 6: 337 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Gusak and K. P. Gurov, Fiz. Met. Metalloved., 53, No. 5: 842 (1982) (in Russian).",
+				"tr":  "A. M. Gusak and K. P. Gurov, Fiz. Met. Metalloved., 53, No. 5: 842 (1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Gusak and K. P. Gurov, Izv. AN SSSR. Metal., No. 1: 163 (1990) (in Russian).",
+				"tr":  "A. M. Gusak and K. P. Gurov, Izv. AN SSSR. Metal., No. 1: 163 (1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Gusak and K. P. Gurov, Fiz. Met. Metalloved., 53, No. 5: 848 (1982) (in Russian).",
+				"tr":  "A. M. Gusak and K. P. Gurov, Fiz. Met. Metalloved., 53, No. 5: 848 (1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Gusak and Yu. A. Lyashenko, Fiz. Khim. Obrabotki Mater., No. 5: 140 (1993) (in Russian).",
+				"tr":  "A. M. Gusak and Yu. A. Lyashenko, Fiz. Khim. Obrabotki Mater., No. 5: 140 (1993) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Gusak, Poroshkovaya Metallurgiya, No. 3: 39 (1989) (in Russian).",
+				"tr":  "A. M. Gusak, Poroshkovaya Metallurgiya, No. 3: 39 (1989) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(98)00054-8",
+				"or":  "A. M. Gusak and G. V. Lucenko, Acta Mater., 46, No. 10: 3343 (1998).",
+				"tr":  "A. M. Gusak and G. V. Lucenko, Acta Mater., 46, No. 10: 3343 (1998)."
+			},
+			{
+				"doi": "10.1063/1.1517165",
+				"or":  "K. N. Tu, A. M. Gusak, and M. Li, J. Appl. Phys., 93, No. 3: 1335 (2003).",
+				"tr":  "K. N. Tu, A. M. Gusak, and M. Li, J. Appl. Phys., 93, No. 3: 1335 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Tu (private communication).",
+				"tr":  "K. Tu (private communication)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Gusak, Ukr. Fiz. Zh., No. 5: 725 (1990) (in Russian)",
+				"tr":  "A. M. Gusak, Ukr. Fiz. Zh., No. 5: 725 (1990) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Gusak and K. P. Gurov, Solid State Phenomena, 23&24: 117 (1992).",
+				"tr":  "A. M. Gusak and K. P. Gurov, Solid State Phenomena, 23&24: 117 (1992)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.64.1553",
+				"or":  "P. J. Desré and A. P. Yavari, Phys. Rev. Lett., 64: 1553 (1990).",
+				"tr":  "P. J. Desré and A. P. Yavari, Phys. Rev. Lett., 64: 1553 (1990)."
+			},
+			{
+				"doi": "10.1016/0956-7151(91)90013-Q",
+				"or":  "P. J. Desré, Acta Metal., 39, No. 10: 2309 (1991).",
+				"tr":  "P. J. Desré, Acta Metal., 39, No. 10: 2309 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Gusak and A. V. Nazarov, Metallofizika, 12, No. 2: 48 (1990) (in Russian).",
+				"tr":  "A. M. Gusak and A. V. Nazarov, Metallofizika, 12, No. 2: 48 (1990) (in Russian)."
+			},
+			{
+				"doi": "10.1088/0953-8984/4/20/002",
+				"or":  "A. M. Gusak and A. V. Nazarov, J. Phys. Condens. Matter, 4: 4753 (1992).",
+				"tr":  "A. M. Gusak and A. V. Nazarov, J. Phys. Condens. Matter, 4: 4753 (1992)."
+			},
+			{
+				"doi": "10.1016/1359-6454(96)00085-7",
+				"or":  "F. Hodaj and P. J. Desré, Acta Mater., 44, No. 11: 4485 (1996).",
+				"tr":  "F. Hodaj and P. J. Desré, Acta Mater., 44, No. 11: 4485 (1996)."
+			},
+			{
+				"doi": "10.1080/01418619808214264",
+				"or":  "F. Hodaj, A. M. Gusak, and P. J. Desré, Phil. Mag. A, 77: 1471 (1998).",
+				"tr":  "F. Hodaj, A. M. Gusak, and P. J. Desré, Phil. Mag. A, 77: 1471 (1998)."
+			},
+			{
+				"doi": "10.1088/0953-8984/13/12/302",
+				"or":  "A. M. Gusak, F. Hodaj, and A. O. Bogatyrev, J. Phys.: Condens. Matter, 13, No. 12: 2767 (2001).",
+				"tr":  "A. M. Gusak, F. Hodaj, and A. O. Bogatyrev, J. Phys.: Condens. Matter, 13, No. 12: 2767 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Gusak, O. V. Dubiy, S. V. Kornienko, Ukr. Fiz. Zh., 36, No. 2: 286 (1991) (in Russian).",
+				"tr":  "A. M. Gusak, O. V. Dubiy, S. V. Kornienko, Ukr. Fiz. Zh., 36, No. 2: 286 (1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Gusak and A. O. Bogatyrev, Metallofizika, 16, No. 9: 28 (1994) (in Russian).",
+				"tr":  "A. M. Gusak and A. O. Bogatyrev, Metallofizika, 16, No. 9: 28 (1994) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Gusak, Yu. A. Lyashenko, and A. O. Bogatyrev, Solid–Solid Phase Transformation (Eds. W. C. Johnson et al.) (1994), p. 1171.",
+				"tr":  "A. M. Gusak, Yu. A. Lyashenko, and A. O. Bogatyrev, Solid–Solid Phase Transformation (Eds. W. C. Johnson et al.) (1994), p. 1171."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Gusak, Yu. A. Lyashenko, and A. O. Bogatyryev, Defect and Diffusion Forum, 129–130: 95 (1996).",
+				"tr":  "A. M. Gusak, Yu. A. Lyashenko, and A. O. Bogatyryev, Defect and Diffusion Forum, 129–130: 95 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "A. O. Bogatyrev and A. M. Gusak, Metallofiz. Noveishie Tekhnol., 18: 897 (2000).",
+				"tr":  "A. O. Bogatyrev and A. M. Gusak, Metallofiz. Noveishie Tekhnol., 18: 897 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Gusak, Yu. A. Lyashenko, and S. V. Kornienko, Functional Materials, 6, No 2: 242 (1999).",
+				"tr":  "A. M. Gusak, Yu. A. Lyashenko, and S. V. Kornienko, Functional Materials, 6, No 2: 242 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "A. O. Bogatyrev, F. Hodaj, and A. M. Gusak, Bull. of Cherkasy State University. Physics, 37–38: 89 (2001–2002).",
+				"tr":  "A. O. Bogatyrev, F. Hodaj, and A. M. Gusak, Bull. of Cherkasy State University. Physics, 37–38: 89 (2001–2002)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Farkas, Z. Phys. Chem., 125: 239 (1927).",
+				"tr":  "L. Farkas, Z. Phys. Chem., 125: 239 (1927)."
+			},
+			{
+				"doi": "",
+				"or":  "Y. B. Zeldovich, Acta Physicochim., 18: 1 (1943).",
+				"tr":  "Y. B. Zeldovich, Acta Physicochim., 18: 1 (1943)."
+			},
+			{
+				"doi": "10.1016/S0167-577X(99)00017-8",
+				"or":  "G. Lucadamo, K. Barmak, S. Hyun, C. Cabral, Jr., and C. Lavoie, Materials Letters, 39: 268 (1999).",
+				"tr":  "G. Lucadamo, K. Barmak, S. Hyun, C. Cabral, Jr., and C. Lavoie, Materials Letters, 39: 268 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Gusak and A. S. Shirinyan, Metallofiz. Noveishie Tekhnol., 20, No. 6: 40 (1998) (in Russian).",
+				"tr":  "A. M. Gusak and A. S. Shirinyan, Metallofiz. Noveishie Tekhnol., 20, No. 6: 40 (1998) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. S. Shirinyan and A. M. Gusak, Ukr. Fiz. Zh., 44, No. 7: 883 (1999) (in Russian).",
+				"tr":  "A. S. Shirinyan and A. M. Gusak, Ukr. Fiz. Zh., 44, No. 7: 883 (1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. I. Rusanov, Fazovyye Ravnovesia i Poverkhnostnyye Yavleniya (Phase Equilibria and Surface Phenomena) (Leningrad: Chemistry: 1967) (in Russian).",
+				"tr":  "A. I. Rusanov, Fazovyye Ravnovesia i Poverkhnostnyye Yavleniya (Phase Equilibria and Surface Phenomena) (Leningrad: Chemistry: 1967) (in Russian)."
+			},
+			{
+				"doi": "10.1007/978-3-322-96427-4",
+				"or":  "H. Ulbricht, J. Schmelzer, R. Mahnke, and F. Schweitzer, Thermodynamics of Finite Systems and Kinetics of First-Order Phase Transitions (Leipzig: BSB Teubner: 1988).",
+				"tr":  "H. Ulbricht, J. Schmelzer, R. Mahnke, and F. Schweitzer, Thermodynamics of Finite Systems and Kinetics of First-Order Phase Transitions (Leipzig: BSB Teubner: 1988)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/JMNM.7.17",
+				"or":  "A. S. Shirinyan, A. M. Gusak, and P. J. Desré, J. of Metastable and Nanocrystalline Materials, 7: 17 (2000) (http:/www.scientific.net/jmnm).",
+				"tr":  "A. S. Shirinyan, A. M. Gusak, and P. J. Desré, J. of Metastable and Nanocrystalline Materials, 7: 17 (2000) (http:/www.scientific.net/jmnm)."
+			},
+			{
+				"doi": "",
+				"or":  "L. N. Larikov and O. A. Shmatko, Cellular Decomposition of Oversaturated Solid Solutions (Kiev: Naukova Dumka: 1976) (in Russian).",
+				"tr":  "L. N. Larikov and O. A. Shmatko, Cellular Decomposition of Oversaturated Solid Solutions (Kiev: Naukova Dumka: 1976) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0001-6160(61)90182-1",
+				"or":  "J. W. Cahn, Acta Metall., 9: 795 (1961).",
+				"tr":  "J. W. Cahn, Acta Metall., 9: 795 (1961)."
+			},
+			{
+				"doi": "",
+				"or":  "A. G. Khachaturyan, The Theory of Phase Transformations and the Structure of Solid Solutions (Moscow: Nauka: 1974) (in Russian).",
+				"tr":  "A. G. Khachaturyan, The Theory of Phase Transformations and the Structure of Solid Solutions (Moscow: Nauka: 1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. A. Lyashenko, Technical Physics Letters, 30, No 2: 109 (2004) (translated from Pis’ma v Zhurnal Teknicheskoi Fiziki, 30, No 3: 54–61 (2004)).",
+				"tr":  "Yu. A. Lyashenko, Technical Physics Letters, 30, No 2: 109 (2004) (translated from Pis'ma v Zhurnal Teknicheskoi Fiziki, 30, No 3: 54–61 (2004))."
+			},
+			{
+				"doi": "",
+				"or":  "D. S. Gertzricken, V. F. Mazanko, and V. M. Fal’chenko, Pulse Processing and Mass-Transfer in Metals at Low Temperatures (Kiev: Naukova Dumka: 1991) (in Russian)",
+				"tr":  "D. S. Gertzricken, V. F. Mazanko, and V. M. Fal'chenko, Pulse Processing and Mass-Transfer in Metals at Low Temperatures (Kiev: Naukova Dumka: 1991) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "D. S. Gertzricken, T. V. Kolenova, and A. M. Gusak, Defect and Diffusion Forum, 194–199: 1469 (2001).",
+				"tr":  "D. S. Gertzricken, T. V. Kolenova, and A. M. Gusak, Defect and Diffusion Forum, 194–199: 1469 (2001)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(02)00420-2",
+				"or":  "M. A. Meyers, F. Gregori, B.K. Kad, M. S. Schneider et al., Acta Materialia, 51: 1211 (2003).",
+				"tr":  "M. A. Meyers, F. Gregori, B.K. Kad, M. S. Schneider et al., Acta Materialia, 51: 1211 (2003)."
+			},
+			{
+				"doi": "10.1063/1.1709056",
+				"or":  "A. L. Ruoff, J. Appl. Phys., 38, No. 10: 3999 (1967).",
+				"tr":  "A. L. Ruoff, J. Appl. Phys., 38, No. 10: 3999 (1967)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.58.2551",
+				"or":  "A. M. Gusak and A. O. Kovalchuk, Phys. Rev. B, 58, No. 5: 2551 (1998).",
+				"tr":  "A. M. Gusak and A. O. Kovalchuk, Phys. Rev. B, 58, No. 5: 2551 (1998)."
+			},
+			{
+				"doi": "10.1080/01418619708214023",
+				"or":  "M. Athenes, P. Bellon, and G. Martin, Phil. Mag. A, 76, No. 3: 565 (1997).",
+				"tr":  "M. Athenes, P. Bellon, and G. Martin, Phil. Mag. A, 76, No. 3: 565 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Gusak, A. O. Bogatyrev, and A. O. Kovalchuk, Defect and Diffusion Forum, 194–199: 1625 (2000).",
+				"tr":  "A. M. Gusak, A. O. Bogatyrev, and A. O. Kovalchuk, Defect and Diffusion Forum, 194–199: 1625 (2000)."
+			},
+			{
+				"doi": "10.1016/0079-6786(90)90007-3",
+				"or":  "F. J. J. van Loo, Prog. Solid State Chem., 20: 47 (1990).",
+				"tr":  "F. J. J. van Loo, Prog. Solid State Chem., 20: 47 (1990)."
+			},
+			{
+				"doi": "10.1063/1.353805",
+				"or":  "A. M. Gusak and M. V. Yarmolenko, J. of Applied Physics, 73: 4881 (1993).",
+				"tr":  "A. M. Gusak and M. V. Yarmolenko, J. of Applied Physics, 73: 4881 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Lucadamo, K. Barmak, D. T. Carpenter, C. Lavoie et al., Mat. Res. Symp. Proc., 562: 159 (1999).",
+				"tr":  "G. Lucadamo, K. Barmak, D. T. Carpenter, C. Lavoie et al., Mat. Res. Symp. Proc., 562: 159 (1999)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(97)00471-0",
+				"or":  "L. Klinger, Y. Brechet, and G. Purdy, Acta mater., 46: No. 8: 2617 (1998).",
+				"tr":  "L. Klinger, Y. Brechet, and G. Purdy, Acta mater., 46: No. 8: 2617 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Lucenko and A. Gusak, Bull. of Cherkasy State University. Physics, 37–38: 145 (2001–2002).",
+				"tr":  "G. Lucenko and A. Gusak, Bull. of Cherkasy State University. Physics, 37–38: 145 (2001–2002)."
+			},
+			{
+				"doi": "10.1016/S0167-9317(03)00432-5",
+				"or":  "G. Lucenko and A. Gusak, Microelectronic Engineering, 70: 529 (2003).",
+				"tr":  "G. Lucenko and A. Gusak, Microelectronic Engineering, 70: 529 (2003)."
+			},
+			{
+				"doi": "10.1063/1.1730447",
+				"or":  "J. W. Cahn and J. E. Hilliard, J. Chem. Phys., 31: 688 (1959).",
+				"tr":  "J. W. Cahn and J. E. Hilliard, J. Chem. Phys., 31: 688 (1959)."
+			},
+			{
+				"doi": "10.1080/14786430310001635431",
+				"or":  "A. S. Shirinyan and А. M. Gusak, Phil. Mag. A, 84, No. 6: 579 (2004).",
+				"tr":  "A. S. Shirinyan and A. M. Gusak, Phil. Mag. A, 84, No. 6: 579 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "A. S. Shirinyan, Proc. of 15-th Intern. Symp ‘Thin Films in Optics and Electronics’ (Eds. A. F. Belyanin, V. I. Lapshin, I. E. Protsenko, and V. M. Shulayev) (Kharkov: 2003) (in Russian).",
+				"tr":  "A. S. Shirinyan, Proc. of 15-th Intern. Symp 'Thin Films in Optics and Electronics' (Eds. A. F. Belyanin, V. I. Lapshin, I. E. Protsenko, and V. M. Shulayev) (Kharkov: 2003) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0001-6160(59)90164-6",
+				"or":  "J. W. Cahn, Acta. Metall., 7: 18 (1959).",
+				"tr":  "J. W. Cahn, Acta. Metall., 7: 18 (1959)."
+			},
+			{
+				"doi": "",
+				"or":  "G. R. Speich, Trans. Metall. Soc. AIME, 242: 1359 (1968).",
+				"tr":  "G. R. Speich, Trans. Metall. Soc. AIME, 242: 1359 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Ziegler, Progress in Solid Mechanics (Eds. I. N. Sneddon et al.) (Amsterdam: North-Holland: 1963), vol. 4, chap. 2, p. 93.",
+				"tr":  "H. Ziegler, Progress in Solid Mechanics (Eds. I. N. Sneddon et al.) (Amsterdam: North-Holland: 1963), vol. 4, chap. 2, p. 93."
+			},
+			{
+				"doi": "",
+				"or":  "S. R. De Groot and P. Mazur, Non-Equilibrium Thermodynamics (Amsterdam: North-Holland: 1962); idem (Moscow: Mir: 1964) (Russian translation).",
+				"tr":  "S. R. De Groot and P. Mazur, Non-Equilibrium Thermodynamics (Amsterdam: North-Holland: 1962); idem (Moscow: Mir: 1964) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "I. Gyarmati, Non-Equilibrium Thermodynamics (Berlin: Springer-Verlag: 1970); idem (Moscow: Mir: 1974) (Russian translation).",
+				"tr":  "I. Gyarmati, Non-Equilibrium Thermodynamics (Berlin: Springer-Verlag: 1970); idem (Moscow: Mir: 1974) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "J. S. Kirkaldy and D. J. Young, Diffusion in the Condensed State (London: The Institute of Metals: 1987).",
+				"tr":  "J. S. Kirkaldy and D. J. Young, Diffusion in the Condensed State (London: The Institute of Metals: 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "L. N. Larikov, V. M. Fal’chenko, V. F. Mazanko et al., Avtomaticheskaya Svarka, 5: 19 (1974) (in Russian).",
+				"tr":  "L. N. Larikov, V. M. Fal'chenko, V. F. Mazanko et al., Avtomaticheskaya Svarka, 5: 19 (1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. N. Larikov, V. M. Fal’chenko, V. F. Mazanko et al., Dokl. AN Ukr. SSR, 2: 167 (1975).",
+				"tr":  "L. N. Larikov, V. M. Fal'chenko, V. F. Mazanko et al., Dokl. AN Ukr. SSR, 2: 167 (1975)."
+			},
+			{
+				"doi": "10.1002/pssa.2210760209",
+				"or":  "M. E. Gourevich, L. N. Larikov, A. E. Pogorelov et al., Phys. status solidi A, 76: 479 (1983).",
+				"tr":  "M. E. Gourevich, L. N. Larikov, A. E. Pogorelov et al., Phys. Status Solidi A, 76: 479 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "D. S. Gertzricken, V. F. Mazanko, V. M. Tyshkevich, and V. M. Fal’chenko, Mass-Transfer in Metals at Low Temperatures under External Actions (Kyyiv: 1999) (Prepr./N.A.S. of the Ukraine. Inst. for Metal Physics) (in Russian).",
+				"tr":  "D. S. Gertzricken, V. F. Mazanko, V. M. Tyshkevich, and V. M. Fal'chenko, Mass-Transfer in Metals at Low Temperatures under External Actions (Kyyiv: 1999) (Prepr./N.A.S. of the Ukraine. Inst. for Metal Physics) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.59.3527",
+				"or":  "Y. Qi, T. Gagin, Y. Kimura, and W. A. Goddard III, Phys. Rev. B, 59: 3527 (1999).",
+				"tr":  "Y. Qi, T. Gagin, Y. Kimura, and W. A. Goddard III, Phys. Rev. B, 59: 3527 (1999)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2004.05.047",
+				"or":  "F. Hodaj and A. Gusak (submitted to Acta Mater.)",
+				"tr":  "F. Hodaj and A. Gusak, Acta Mat., 52, No. 14: 4305 (2004)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(03)00214-3",
+				"or":  "A. Gusak and K. N. Tu. (submitted to Acta Mater.)",
+				"tr":  "A. Gusak and K. N. Tu., Acta Mat., 51, No. 13: 3895 (2003)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(03)00214-3",
+				"or":  "A. Gusak and K. N. Tu, Acta Mater., 51: 3895 (2003).",
+				"tr":  "A. Gusak and K. N. Tu, Acta Mater., 51: 3895 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.66.115403",
+				"or":  "A. M. Gusak and K. N. Tu, Phys. Rev. B, 66: 115403 (2002).",
+				"tr":  "A. M. Gusak and K. N. Tu, Phys. Rev. B, 66: 115403 (2002)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.67.245408",
+				"or":  "A. M. Gusak, K. N. Tu, and I. Sobchenko, Phys. Rev. B, 67: 245408 (2003).",
+				"tr":  "A. M. Gusak, K. N. Tu, and I. Sobchenko, Phys. Rev. B, 67: 245408 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "L. S. Darken, Trans. AIME, 175: 184 (1948).",
+				"tr":  "L. S. Darken, Trans. AIME, 175: 184 (1948)."
+			},
+			{
+				"doi": "10.1016/0001-6160(67)90363-X",
+				"or":  "J. R. Manning, Acta Metall., 15: 817 (1967).",
+				"tr":  "J. R. Manning, Acta Metall., 15: 817 (1967)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Gusak and K. P. Gurov, Solid–Solid Phase Transformation (Eds. W. C. Johnson et al.) (1994), p. 1133.",
+				"tr":  "A. M. Gusak and K. P. Gurov, Solid–Solid Phase Transformation (Eds. W. C. Johnson et al.) (1994), p. 1133."
+			}
+		]
+	}
+}

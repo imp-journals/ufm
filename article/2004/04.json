@@ -1,0 +1,35 @@
+{
+	"year":   2004,
+	"volume": 5,
+	"issue":  4,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [433,502],
+			"title": {
+				"ua": "Зародкоутворення та ріст у наносистемах: деякі нові концепції",
+				"en": "Nucleation and Growth in Nanosystems: Some New Concepts",
+				"ru": "Зародышеобразование и рост в наносистемах: некоторые новые концепции"
+			},
+			"autors": {
+				"ua": "А. М. Гусак, О. О. Богатирьов, А. О. Ковальчук, С. В. Корнієнко, Г. В. Луценко, Ю. О. Ляшенко, А. С. Ширинян, Т. В. Запорожець",
+				"en": "A. M. Gusak, O. O. Bogatyrev, A. O. Kovalchuk, S. V. Kornienko, Gr. V. Lutsenko, Yu. A. Lyashenko, A. S. Shirinyan, and T. V. Zaporoghets",
+				"ru": "А. М. Гусак, А. О. Богатырёв, А. О. Ковальчук, С. В. Корниенко, Г. В. Луценко, Ю. А. Ляшенко, А. С. Ширинян, Т. В. Запорожец"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [503,534],
+			"title": {
+				"ua": "Деформаційне й «електрохемічні» взаємодії розчинених атомів у твердих розчинах системи ГЦК-(Fe,Ni)–C й ізоморфних їй",
+				"en": "Strain-Induced and 'Electrochemical' Interactions of Solute Atoms in Solid Solutions of the F.C.C.-(Fe,Ni)–C System and Isomorphous Ones",
+				"ru": "Деформационное и «электрохимические» взаимодействия растворённых атомов в твёрдых растворах системы ГЦК-(Fe,Ni)–C и изоморфных ей"
+			},
+			"autors": {
+				"ua": "В. А. Татаренко, В. М. Надутов",
+				"en": "V. A. Tatarenko and V. M. Nadutov",
+				"ru": "В. А. Татаренко, В. М. Надутов"
+			}
+		}
+	]
+}

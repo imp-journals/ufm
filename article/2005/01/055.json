@@ -1,0 +1,472 @@
+{
+	"_id":    "UFM.06.01.055",
+	"year":   2005,
+	"volume": 6,
+	"issue":  1,
+	"pages":  [55,103],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["21.03.2004"],
+	"PACS":   "",
+	"title":   {
+		"ua": "Мідно-титанові тверді розчини — нове покоління високоміцних старіючих стопів",
+		"en": "Copper–Titanium Solid Solutions are a New Generation of High-Strength Age-Hardening Alloys",
+		"ru": "Медно-титановые твердые растворы — новое поколение высокопрочных стареющих сплавов"
+	},
+	"abstract": {
+		"ua": "Виконано огляд оригінальних досліджень українських та російських авторів, які від-носяться до вивчення явища виділення і зміцнення при старінні Cu-Ti-сплавів. При цьому особливо підкреслено, що механізм початкових стадій розпаду не є спинодаль-ним (точка зору американських авторів), а скоріше являє собою зародкування диспер-сних частинок когерентної метастабільної $\\alpha^{’}$-фази (Cu$_4$Ti). В огляді також розглянуто: закономірності кінетики і морфології неперервного та переривчастого (коміркового) розпаду, морфологію виділення метастабільної $\\alpha^{’}$- і стабільної $\\beta$-фаз; вплив зовнішніх чинників (пластичної та ультразвукової деформації, зовнішнього тиску, радіоактивного опромінювання) на ці процеси; можливі механізми надзвичайного зміцнення старіючих Cu–Ti-сплавів та явище звороту міцності. Зроблено висновок, що за своїми механічними властивостями ці сплави можуть замінити берилійову бронзу.",
+		"en": "In this review the precipitation phenomenon and age-hardening response in Cu–Ti alloys founded on the Ukrainian and Russian authors investigations mainly was discussed. At that point, it was especially underlined that a mechanism of the early stage of the decomposition was not as spinodal one (American authors point of view) but more likely as a nucleation of fine-scale coherent precipitates of the metastable $\\alpha^{′}$-phase (Cu$_4$Ti). The kinetics of the continuous and discontinuous (cellular) precipitation; the morphology of the metastable $\\alpha^{′}$-phase and stable $\\beta$-phase precipitation; an influence of the external effects (plastic and ultrasonic deformation, external pressure, radioactive irradiation) on these processes; the nature of the high age-hardening response in Cu–Ti alloys and the reversion phenomenon was considered. It was postulated that these alloys could replace the beryllium bronze successfully according to their mechanical properties.",
+		"ru": "Проведен обзор результатов процессов старения Cu-Ti сплавов, сопровождающихся их необычно высоким упрочнением, основанной в основном на исследованиях украинских и российских авторов. При этом особо подчеркнута малая вероятность спинодального механизма в этих сплавах (точка зрения американских авторов). Полученные экспериментальные данные указывают на большую вероятность зародышеобразования дисперсных зародышей метастабильной когерентной $\\alpha^{’}$-фазы (Cu$_4$Ti). В обзоре рассмотрена кинетика и морфология непрерывного и прерывистого (ячеистого) выделения метастабильной $\\alpha^{’}$- и стабильной $\\beta$-фаз; влияние внешних воздействий (пластической и ультразвуковой деформации, внешнего давления и радиоактивного облучения) на эти процессы; возможные механизмы высокого упрочнения состаренных Cu-Ti сплавов и явление возврата твердости. Сделан вывод, что по своим механическим свойствам эти сплавы вполне могут заменить бериллиевую бронзу."
+	},
+	"keywords": {
+		"ua": "старіюча модульована структура, коґеретність, сателіти, преципітація, обернений розпад",
+		"en": "an aging, modulated structure, coherency, satellites, precipitation, decomposition reversion",
+		"ru": "стареющая модулированная структура, сателлиты, когерентность, преципитация, обратный распад"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "К. В. Чуістов", "en": "K. V. Chuistov", "ru": "К. В. Чуистов"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 87,
+				"list":  [
+			{
+				"doi": "",
+				"or":  "J. Pastuhova, A. Rachshtadt, Pruginnie splavi medi (Spring Copper Alloys) (Moscow: Metallurgy: 1979) (in Russian).",
+				"tr":  "J. Pastuhova, A. Rachshtadt, Pruginnie splavi medi (Spring Copper Alloys) (Moscow: Metallurgy: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "W. A. Soffa, D. E. Laughlin, Prog. Mater. Sci., 2004 (in press).",
+				"tr":  "W. A. Soffa, D. E. Laughlin, Prog. Mater. Sci., 2004 (in press)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Z. Kroll, Z. Metallkd., 23: 33 (1931).",
+				"tr":  "W. Z. Kroll, Z. Metallkd., 23: 33 (1931)."
+			},
+			{
+				"doi": "",
+				"or":  "E. E. Shumacher, W. C. Ellis, Metals Alloys, 2: 111 (1931).",
+				"tr":  "E. E. Shumacher, W. C. Ellis, Metals Alloys, 2: 111 (1931)."
+			},
+			{
+				"doi": "",
+				"or":  "F. R. Hensel, E. I. Larsen, Trans. AIME, 99: 55 (1932).",
+				"tr":  "F. R. Hensel, E. I. Larsen, Trans. AIME, 99: 55 (1932)."
+			},
+			{
+				"doi": "",
+				"or":  "N. Karllsson, J. Inst. Metals, 79: 391 (1951).",
+				"tr":  "N. Karllsson, J. Inst. Metals, 79: 391 (1951)."
+			},
+			{
+				"doi": "",
+				"or":  "E. G. Nesterenko, K. V. Chuistov, Ukr. Fiz. Zh. 3: 276 (1958) (in Russian).",
+				"tr":  "E. G. Nesterenko, K. V. Chuistov, Ukr. Fiz. Zh. 3: 276 (1958)."
+			},
+			{
+				"doi": "10.1016/0001-6160(59)90097-5",
+				"or":  "J. Manenc, Acta Metall., 7: 807 (1959).",
+				"tr":  "J. Manenc, Acta Metall., 7: 807 (1959)."
+			},
+			{
+				"doi": "",
+				"or":  "E. G. Nesterenko, K. V. Chuistov, Fiz. Met. Metalloved., 9: 140 (1960) (in Russian).",
+				"tr":  "E. G. Nesterenko, K. V. Chuistov, Fiz. Met. Metalloved., 9: 140 (1960)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Bückle, J. Manenc, J. Mem. Sci. Rev. Metal., 57: 435 (1960).",
+				"tr":  "C. Bückle, J. Manenc, J. Mem. Sci. Rev. Metal., 57: 435 (1960)."
+			},
+			{
+				"doi": "10.1088/0959-5309/52/1/311",
+				"or":  "V. Daniel, H. Lipson, Proc. R. Soc. London A, 52: 80 (1940).",
+				"tr":  "V. Daniel, H. Lipson, Proc. R. Soc. London A, 52: 80 (1940)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Manemc, C. R. Acad. Sci., 250: 1814 (1959).",
+				"tr":  "J. Manemc, C. R. Acad. Sci., 250: 1814 (1959)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Y. Nesterenko, K. V. Chuistov,. Kristallogr., 10: 325 (1965) (in Russian).",
+				"tr":  "E. Y. Nesterenko, K. V. Chuistov, Kristallogr., 10: 325 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Kokorin, K. V. Chuistov, Ukr. Fiz. Zh., 13: 1461 (1968) (in Russian).",
+				"tr":  "V. V. Kokorin, K. V. Chuistov, Ukr. Fiz. Zh., 13: 1461 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Kokorin, K. V. Chuistov,. Fiz. Met. Metalloved., 27: 804 (1969) (in Russian).",
+				"tr":  "V. V. Kokorin, K. V. Chuistov, Fiz. Met. Metalloved., 27: 804 (1969)."
+			},
+			{
+				"doi": "10.1146/annurev.ms.07.080177.001233",
+				"or":  "Yu. D. Tiapkin, Ann. Rev. Mater. Sci., 7: 209 (1977).",
+				"tr":  "Yu. D. Tiapkin, Ann. Rev. Mater. Sci., 7: 209 (1977)."
+			},
+			{
+				"doi": "10.1016/0001-6160(77)90148-1",
+				"or":  "T. Tsujimoto, K. Hashimoto, K. Saito, Acta Metall., 35: 295 (1977).",
+				"tr":  "T. Tsujimoto, K. Hashimoto, K. Saito, Acta Metall., 35: 295 (1977)."
+			},
+			{
+				"doi": "10.1016/0001-6160(55)90145-0",
+				"or":  "A. Guinier, Acta Metall., 3: 510 (1955).",
+				"tr":  "A. Guinier, Acta Metall., 3: 510 (1955)."
+			},
+			{
+				"doi": "",
+				"or":  "O. E. Tkachenko, K. V. Chuistov, Fiz. Met. Metalloved., 29: 834 (1970) (in Russian).",
+				"tr":  "O. E. Tkachenko, K. V. Chuistov, Fiz. Met. Metalloved., 29: 834 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "L. P. Gunko, V. V. Kokorin, K. V. Chuistov, Fiz. Met. Metalloved., 33: 106 (1973) (in Russian).",
+				"tr":  "L. P. Gunko, V. V. Kokorin, K. V. Chuistov, Fiz. Met. Metalloved., 33: 106 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Y. Nesterenko, K. V. Chuistov, Fiz. Met. Metalloved., 9: 415 (1960) (in Russian).",
+				"tr":  "E. Y. Nesterenko, K. V. Chuistov, Fiz. Met. Metalloved., 9: 415 (1960)."
+			},
+			{
+				"doi": "",
+				"or":  "U. Heubner, G. Wassermann, Z. Metallkd., 53: 152 (1962) (in German).",
+				"tr":  "U. Heubner, G. Wassermann, Z. Metallkd., 53: 152 (1962)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Hakkarainen, Doctoral Thesis (Helsenki Univ. of Techn.: Helsenki: 1971).",
+				"tr":  "T. Hakkarainen, Doctoral Thesis (Helsenki Univ. of Techn.: Helsenki: 1971)."
+			},
+			{
+				"doi": "10.1016/0001-6160(75)90125-X",
+				"or":  "D. E. Laughlin, J. W. Cahn, Acta Metall., 23: 329 (1975).",
+				"tr":  "D. E. Laughlin, J. W. Cahn, Acta Metall., 23: 329 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Saito, K. Iida, R. Watanabe, Trans. Nat. Res. Inst. Metals, 9: 267 (1967).",
+				"tr":  "K. Saito, K. Iida, R. Watanabe, Trans. Nat. Res. Inst. Metals, 9: 267 (1967)."
+			},
+			{
+				"doi": "10.1002/pssa.2210520121",
+				"or":  "R. C. Ecob, J. V. Bee, B. Ralph, Phys. Status Solidi A, 52:201 (1979).",
+				"tr":  "R. C. Ecob, J. V. Bee, B. Ralph, Phys. Status Solidi A, 52:201 (1979)."
+			},
+			{
+				"doi": "10.1002/pssa.2210880210",
+				"or":  "J. P. Zhang, H. Q. Ye, K. H. Kuo, S. Amelinks, Phys. Status Solidi A, 88: 475 (1985).",
+				"tr":  "J. P. Zhang, H. Q. Ye, K. H. Kuo, S. Amelinks, Phys. Status Solidi A, 88: 475 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "L. S. Bushnev, A.D.Korotaev, A.T. Protasov, Fiz. Met. Metalloved., 30: 63 (1968) (in Russian).",
+				"tr":  "L. S. Bushnev, A.D.Korotaev, A.T. Protasov, Fiz. Met. Metalloved., 30: 63 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "K. V. Chuistov, Metallofiz., 41: 55 (1972) (in Russian).",
+				"tr":  "K. V. Chuistov, Metallofiz., 41: 55 (1972)."
+			},
+			{
+				"doi": "10.1007/BF02642749",
+				"or":  "H. T. Michels, I. B. Cadoff, E. Levine, Metall. Trans., 3: 667 (1972).",
+				"tr":  "H. T. Michels, I. B. Cadoff, E. Levine, Metall. Trans., 3: 667 (1972)."
+			},
+			{
+				"doi": "10.1007/BF02643081",
+				"or":  "J. A. Cornie., A. Datta, W. A. Soffa, Metall. Trans., 4: 727. 1973.",
+				"tr":  "J. A. Cornie., A. Datta, W. A. Soffa, Metall. Trans., 4: 727. 1973."
+			},
+			{
+				"doi": "10.1016/0001-6160(75)90125-X",
+				"or":  "D. E. Laughlin, J. W. Cahn, Acta Metall., 23: 329 (1975).",
+				"tr":  "D. E. Laughlin, J. W. Cahn, Acta Metall., 23: 329 (1975)."
+			},
+			{
+				"doi": "10.1016/0001-6160(76)90129-2",
+				"or":  "A. Datta, W. A. Soffa, Acta Metall., 24: 987 (1976).",
+				"tr":  "A. Datta, W. A. Soffa, Acta Metall., 24: 987 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Kokorin, Fiz. Met. Metalloved., 33: 247 (1972).",
+				"tr":  "V. V. Kokorin, Fiz. Met. Metalloved., 33: 247 (1972)."
+			},
+			{
+				"doi": "10.1016/0001-6160(66)90247-1",
+				"or":  "A. J. Ardell, R. B. Nicholson, J. D. Eshelby, Acta Metall., 14: 1295 (1966).",
+				"tr":  "A. J. Ardell, R. B. Nicholson, J. D. Eshelby, Acta Metall., 14: 1295 (1966)."
+			},
+			{
+				"doi": "10.1063/1.1755058",
+				"or":  "A. Nagarajan, P. A. Flin, Appl. Phys. Lett., 11: 120 (1957).",
+				"tr":  "A. Nagarajan, P. A. Flin, Appl. Phys. Lett., 11: 120 (1957)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Saito, A. Kanio, Trans. Jap. Inst. Met., 31: 25 (1990).",
+				"tr":  "T. Saito, A. Kanio, Trans. Jap. Inst. Met., 31: 25 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "K. V Chuistov. Uporyadochenie i raspad.peresishenich tverdich rastvorov (Ordering and Decomposition of the Super Saturated Solid Solutions) (Kiev: RIO IMP: 1999) (in Russian).",
+				"tr":  "K. V Chuistov. Uporyadochenie i raspad.peresishenich tverdich rastvorov (Ordering and Decomposition of the Super Saturated Solid Solutions) (Kiev: RIO IMP: 1999)."
+			},
+			{
+				"doi": "",
+				"or":  "N. N. Gangyla, V. V. Kokorin, K. V. Chuistov, Fiz. Met. Metalloved., 33:247 (1972) (in Russian).",
+				"tr":  "N. N. Gangyla, V. V. Kokorin, K. V. Chuistov, Fiz. Met. Metalloved., 33:247 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "K. V Chuistov. Starenie metallicheskih. Splavov (An Aging of Metallic Alloys) (Kiev: Academperiodika: 2003) (in Russian)",
+				"tr":  "K. V Chuistov. Starenie metallicheskih. Splavov (An Aging of Metallic Alloys) (Kiev: Academperiodika: 2003)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Krivoglaz, Diffuse Scattering of X-Rays and Neutrons by Fluctuations (Springer: 1994).",
+				"tr":  "M. A. Krivoglaz, Diffuse Scattering of X-Rays and Neutrons by Fluctuations (Springer: 1994)."
+			},
+			{
+				"doi": "",
+				"or":  "N. J. Karlson, J. Inst. Metals, 79: 391 (1951).",
+				"tr":  "N. J. Karlson, J. Inst. Metals, 79: 391 (1951)."
+			},
+			{
+				"doi": "",
+				"or":  "K. V. Chuistov, Modulirovanie strukturi v stareyuschih splavah (Modulated Structures in Aging Alloys) (Kiev: Nauk. Dumka: 1975) (in Russian).",
+				"tr":  "K. V. Chuistov, Modulirovanie strukturi v stareyuschih splavah (Modulated Structures in Aging Alloys) (Kiev: Nauk. Dumka: 1975)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. D. Tiapkin, I. V.Gongadze, E. I. Malienko, Fiz. Met. Metalloved., 66: 589 (1988) (in Russian).",
+				"tr":  "Yu. D. Tiapkin, I. V.Gongadze, E. I. Malienko, Fiz. Met. Metalloved., 66: 589 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "A. G. Khachaturyan Theory of structure transformations in solids (New York: John Willey & Sons: 1983).",
+				"tr":  "A. G. Khachaturyan Theory of structure transformations in solids (New York: John Willey & Sons: 1983)."
+			},
+			{
+				"doi": "10.1016/0001-6160(89)90171-5",
+				"or":  "Y. Enomoto, K. Kawasaki, Acta Metal. 37: 1399 (1989).",
+				"tr":  "Y. Enomoto, K. Kawasaki, Acta Metal. 37: 1399 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "E. I. Malienko, Yu. D. Tiapkin, Fiz. Met. Metalloved., 57: 942 (1984) (in Russian).",
+				"tr":  "E. I. Malienko, Yu. D. Tiapkin, Fiz. Met. Metalloved., 57: 942 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "A. D. Korotaev, O. V. Tcinenko, A. T. Protasov, Fiz. Met. Metalloved., 26: 789 (1968) (in Russian).",
+				"tr":  "A. D. Korotaev, O. V. Tcinenko, A. T. Protasov, Fiz. Met. Metalloved., 26: 789 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "A. D. Korotaev, A. T. Protasov. O. V. Tcinenko, O. O. Lambakahar, Izv. Vissh. Ucheb. Zaved. Fiz., No. 9: 113 (1968) (in Russian).",
+				"tr":  "A. D. Korotaev, A. T. Protasov. O. V. Tcinenko, O. O. Lambakahar, Izv. Vissh. Ucheb. Zaved. Fiz., No. 9: 113 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "J. W. Christian, Theory of transformations in metals and alloys (New York: Pergamon Press: 1967)",
+				"tr":  "J. W. Christian, Theory of transformations in metals and alloys (New York: Pergamon Press: 1967)"
+			},
+			{
+				"doi": "10.1016/0022-3697(61)90054-3",
+				"or":  "I. M. Lifshits, V. V. Slyozov, J. Phys. Chem. Solids, 19: 35 (1961).",
+				"tr":  "I. M. Lifshits, V. V. Slyozov, J. Phys. Chem. Solids, 19: 35 (1961)."
+			},
+			{
+				"doi": "10.1016/0001-6160(59)90023-9",
+				"or":  "T. Doi, Acta Metal., 7: 291 (1959).",
+				"tr":  "T. Doi, Acta Metal., 7: 291 (1959)."
+			},
+			{
+				"doi": "10.1016/0001-6160(55)90012-2",
+				"or":  "D. Turnbull, Acta Metal., 3: 55 (1955).",
+				"tr":  "D. Turnbull, Acta Metal., 3: 55 (1955)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Itkin, O. Smatko, Dokl. Akad. Nauk UkSSR, No. 7: 66 (1980) (in Russian).",
+				"tr":  "M. Itkin, O. Smatko, Dokl. Akad. Nauk UkSSR, No. 7: 66 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Itkin, O. Smatko, Metallofiz., 4, No 4: 118 (1982) (in Russian).",
+				"tr":  "M. Itkin, O. Smatko, Metallofiz., 4, No 4: 118 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Itkin, O. Smatko Dokl. Akad. Nauk UkSSR., No. 10: 54 (1984) (in Russian).",
+				"tr":  "M. Itkin, O. Smatko Dokl. Akad. Nauk UkSSR., No. 10: 54 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Itkin, V. Krasilnikov, O. Smatko, Metallofiz., 7, No. 6: 26 (1985) (in Russian).",
+				"tr":  "M. Itkin, V. Krasilnikov, O. Smatko, Metallofiz., 7, No. 6: 26 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "U. Zwicker, Z. Metallkd. 53: 706 (1963).",
+				"tr":  "U. Zwicker, Z. Metallkd. 53: 706 (1963)."
+			},
+			{
+				"doi": "10.1016/0001-6160(56)90041-4",
+				"or":  "J. W. Cahn, Acta Metal., 4: 449 (1956).",
+				"tr":  "J. W. Cahn, Acta Metal., 4: 449 (1956)."
+			},
+			{
+				"doi": "",
+				"or":  "L. N. Larikov, O. A. Shmatko. Yacheisty raspad peresischennih tverdih rastvorov (The Cellular Decomposition of Super Saturated Solid Solutions) (Kiev: Nauk. Dumka: 1976).",
+				"tr":  "L. N. Larikov, O. A. Shmatko. Yacheisty raspad peresischennih tverdih rastvorov (The Cellular Decomposition of Super Saturated Solid Solutions) (Kiev: Nauk. Dumka: 1976)."
+			},
+			{
+				"doi": "",
+				"or":  "M. V. Itkin, O. A. Shmatko, I. G. Primak, Metallofiz., 9, No. 25 (1987) (in Russian).",
+				"tr":  "M. V. Itkin, O. A. Shmatko, I. G. Primak, Metallofiz., 9, No. 25 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "E. G. Nestrenko, K. V. Chuistov, Fiz. Met. Metalloved., 12: 567 (1961) (in Russian).",
+				"tr":  "E. G. Nestrenko, K. V. Chuistov, Fiz. Met. Metalloved., 12: 567 (1961)."
+			},
+			{
+				"doi": "",
+				"or":  "A. D. Korotaev, A. T. Protasov, O. V.Tcinenko, M. V. Lubchenko, Fiz. Met. Metalloved., 27: 1271969 (in Russian).",
+				"tr":  "A. D. Korotaev, A. T. Protasov, O. V.Tcinenko, M. V. Lubchenko, Fiz. Met. Metalloved., 27: 1271969."
+			},
+			{
+				"doi": "",
+				"or":  "V. N. Vigdorovich, M. V. Malcev, Izv. Vissh. Ucheb. Zaved. Fiz., No 2: 142 (1958) (in Russian).",
+				"tr":  "V. N. Vigdorovich, M. V. Malcev, Izv. Vissh. Ucheb. Zaved. Fiz., No 2: 142 (1958)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Cruhl, H. Cordier, Metall., 11: 928 (1957).",
+				"tr":  "W. Cruhl, H. Cordier, Metall., 11: 928 (1957)."
+			},
+			{
+				"doi": "",
+				"or":  "E. G. Nesterenko., K. V. Chuistov. Vopr. Fiz. Met. Metalloved., No. 13: 142 (1961) (in Russian).",
+				"tr":  "E. G. Nesterenko., K. V. Chuistov. Vopr. Fiz. Met. Metalloved., No. 13: 142 (1961)."
+			},
+			{
+				"doi": "10.1016/0001-6160(73)90180-6",
+				"or":  "R. Knights, P. Wilkes, Acta Metal., 21: 1503 (1973).",
+				"tr":  "R. Knights, P. Wilkes, Acta Metal., 21: 1503 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "E. G. Nesterenko, K. V. Chuistov, Fiz. Met. Metalloved., 12: 756 (1961) (in Russian).",
+				"tr":  "E. G. Nesterenko, K. V. Chuistov, Fiz. Met. Metalloved., 12: 756 (1961)."
+			},
+			{
+				"doi": "",
+				"or":  "E. G. Nesterenko, K. V. Chuistov, Vopr. Fiz. Met. Metalloved., No. 15: 90 (1962) (in Russian).",
+				"tr":  "E. G. Nesterenko, K. V. Chuistov, Vopr. Fiz. Met. Metalloved., No. 15: 90 (1962)."
+			},
+			{
+				"doi": "",
+				"or":  "M. V. Itkin, Kinetika Yacheistogo Raspada v Splavakh Med–Titan i Vliyanie Razlichnikh Vozdeystviy na ee Parametri (The Kinetics of the Cellular Decomposition in Copper–Titanium Alloys and The Effect of the Influences on its Parameters (Thesis of Disser. for Ph.D.) (Kyiv: Inst. of Metal Physics: 1986) (in Russian).",
+				"tr":  "M. V. Itkin, Kinetika Yacheistogo Raspada v Splavakh Med–Titan i Vliyanie Razlichnikh Vozdeystviy na ee Parametri (The Kinetics of the Cellular Decomposition in Copper–Titanium Alloys and The Effect of the Influences on its Parameters (Thesis of Disser. for Ph.D.) (Kyiv: Inst. of Metal Physics: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Bazeluk, L. N. Trofimova, K. V. Chuistov, Vliyanie ultrazvukovoy deformatcii na fazovie i stukturnie izmeneniya v ctareyuchith splavach (Effect of Ultrasonic Deformation on Phase and Structural Transformations. I. Aging Alloys) (Kyiv, 1979) (Prepr./ N.A.S. of the Ukraine, Inst. for Metal Physics, No. 7, 1997) (in Russian).",
+				"tr":  "G. Bazeluk, L. N. Trofimova, K. V. Chuistov, Vliyanie ultrazvukovoy deformatcii na fazovie i stukturnie izmeneniya v ctareyuchith splavach (Effect of Ultrasonic Deformation on Phase and Structural Transformations. I. Aging Alloys) (Kyiv, 1979) (Prepr./ N.A.S. of the Ukraine, Inst. for Metal Physics, No. 7, 1997)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Bazeluk, A. L. Berezina, I. G. Polockiy, K. V. Chuistov, Ukr. Fiz. Zh. 22: 541 (1977) (in Russian).",
+				"tr":  "G. Bazeluk, A. L. Berezina, I. G. Polockiy, K. V. Chuistov, Ukr. Fiz. Zh. 22: 541 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Bazeluk, A. L. Berezina, I. G. Polockiy, K. V. Chuistov, Fiz. i Khim. Obrab. Mater. No. 3: 116 (1979) (in Russian).",
+				"tr":  "G. Bazeluk, A. L. Berezina, I. G. Polockiy, K. V. Chuistov, Fiz. i Khim. Obrab. Mater. No. 3: 116 (1979)."
+			},
+			{
+				"doi": "10.1016/0036-9748(73)90223-8",
+				"or":  "G. Stanjck, G. Hornbogen, Scr. Metal. 7: 615 (1973).",
+				"tr":  "G. Stanjck, G. Hornbogen, Scr. Metal. 7: 615 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "V. F. Belostotsky, I. G. Polockiy, Metallofiz., 63: 81(1976) (in Russian).",
+				"tr":  "V. F. Belostotsky, I. G. Polockiy, Metallofiz., 63: 81(1976)."
+			},
+			{
+				"doi": "",
+				"or":  "O. B. Abramov, S. S. Gorelik, V. P. Grabchak, Fiz. Tverd. Tela, 10: 2514 (1968) (in Russian).",
+				"tr":  "O. B. Abramov, S. S. Gorelik, V. P. Grabchak, Fiz. Tverd. Tela, 10: 2514 (1968)."
+			},
+			{
+				"doi": "10.1179/030634568790443459",
+				"or":  "G. A. Hayes, I. C. Shyne. Metal. Sci. J., 2: 81 (1968).",
+				"tr":  "G. A. Hayes, I. C. Shyne. Metal. Sci. J., 2: 81 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Shinyaev, Fazovie prevrascheniya i svoystva splavov pri visokith davleniyath (Phase Transformations and Alloys Properties at High Pressures) (Moscow: Nauka: 1973).",
+				"tr":  "A. Shinyaev, Fazovie prevrascheniya i svoystva splavov pri visokith davleniyath (Phase Transformations and Alloys Properties at High Pressures) (Moscow: Nauka: 1973)."
+			},
+			{
+				"doi": "",
+				"or":  "M. V. Itkin, I. A. Osipenko, T. V. Shirina, O. A. Shmatko, Fiz. Met. Metalloved., 65: 1027 (1988) (in Russian).",
+				"tr":  "M. V. Itkin, I. A. Osipenko, T. V. Shirina, O. A. Shmatko, Fiz. Met. Metalloved., 65: 1027 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Wirtl, H. Gleiter, Acta Metal., 29: 1829 (1981).",
+				"tr":  "R. Wirtl, H. Gleiter, Acta Metal., 29: 1829 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "M. V. Itkin, Yu. V. Kornushin, O. A. Shmatko, Fiz. Met. Metalloved., 68: 772 (1989) (in Russian).",
+				"tr":  "M. V. Itkin, Yu. V. Kornushin, O. A. Shmatko, Fiz. Met. Metalloved., 68: 772 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "A. D. Korotaev, O. O. Lambakahar, A. T. Protasov, Fiz. Met. Metalloved., 27: 645 (1969) (in Russian).",
+				"tr":  "A. D. Korotaev, O. O. Lambakahar, A. T. Protasov, Fiz. Met. Metalloved., 27: 645 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "K. P. Kalinin, M. Z. Spiridonova, Tcvetn. Met. (Moscow), No. 1: 82 (1959) (in Russian).",
+				"tr":  "K. P. Kalinin, M. Z. Spiridonova, Tcvetn. Met. (Moscow), No. 1: 82 (1959)."
+			},
+			{
+				"doi": "",
+				"or":  "R. R. Romanova, A. N. Uksusnikov, Yu. M. Ustugov, Fiz. Met. Metalloved. 78: 5 (1994) (in Russian).",
+				"tr":  "R. R. Romanova, A. N. Uksusnikov, Yu. M. Ustugov, Fiz. Met. Metalloved. 78: 5 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "A. L. Berezina, K. V. Chuistov, Metallofiz., 49: 72 (1973) (in Russian).",
+				"tr":  "A. L. Berezina, K. V. Chuistov, Metallofiz., 49: 72 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "A. L. Berezina, K. V. Chuistov, Fiz. Met. Metalloved., 50: 333 (1980) (in Russian).",
+				"tr":  "A. L. Berezina, K. V. Chuistov, Fiz. Met. Metalloved., 50: 333 (1980)."
+			},
+			{
+				"doi": "10.1063/1.1657957",
+				"or":  "H. K. Cook, J. E. Hilliard, J. Appl. Phys., 40: 2191 (1969).",
+				"tr":  "H. K. Cook, J. E. Hilliard, J. Appl. Phys., 40: 2191 (1969)."
+			}
+		]
+	}
+}

@@ -1,0 +1,511 @@
+{
+	"_id":    "UFM.17.02.119",
+	"year":   2016,
+	"volume": 17,
+	"issue":  2,
+	"pages":  [119,152],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["15.10.2015"],
+	"PACS":   "43.35.+d, 61.72.-y, 62.20.-x, 81.07.-b, 81.40.-z, 81.65.Kn, 81.65.Ps",
+	"title":   {
+		"ua": "Закономірності формування структурно-фазових станів і функціональних властивостей цирконійових стопів за умов ультразвукового ударного оброблення",
+		"en": "Regularities of Formation of Structure–Phase States and Functional Properties of Zirconium Alloys in Conditions of Ultrasonic Impact Treatment",
+		"ru": "Закономерности формирования структурно-фазовых состояний и функциональных свойств циркониевых сплавов в условиях ультразвуковой ударной обработки"
+	},
+	"abstract": {
+		"ua": "В роботі проведено огляд літературних даних, щодо обґрунтування використання цирконійових стопів з різним фазовим складом в деформаційно-зміцненому стані в якості біосумісних матеріялів. Проаналізовано нещодавні дослідження щодо впливу структурного стану поверхневих шарів цирконійових стопів на їх релаксаційну та корозійну стійкість. Особливу увагу приділено механізмам формування ультрадисперсних та нанорозмірних зеренних структур, текстуроутворенню та механо-хемічним реакціям формування оксидних шарів при дії ультразвукового ударного оброблення (УЗУО) за контактно-зсувною схемою. Визначено причини позитивного впливу сформованих при УЗУО ультрадисперсних зеренних структур та оксидних шарів на опір мікропластичній деформації та корозійну стійкість стопів Zr.",
+		"en": "This paper is reviewing published data on a substantiation of using zirconium alloys with different phase composition in the strain-hardened condition as biocompatible materials. The recent studies of the impact of the structural state of the surface layers of zirconium alloys at their relaxation and corrosion resistance are analyzed. Special attention is paid to the mechanism of formation of ultradispersed and nanosized grain structures, texture, and mechano-chemical reactions of formation of oxide layers under the influence of ultrasonic impact treatment (UIT) by contact-shift scheme. The reasons of the positive impact generated when UIT of ultradispersed grain structure and oxide layers on microplastic deformation resistance and corrosion resistance of Zr alloys are also explained.",
+		"ru": "В работе проведен обзор литературных данных, по обоснованию использования циркониевых сплавов с различным фазовым составом в деформационно-упрочненном состоянии в качестве биосовместимых материалов. Проанализированы недавние исследования о влиянии структурного состояния поверхностных слоёв циркониевых сплавов на их релаксационную и коррозионную стойкость. Особое внимание уделено механизмам формирования ультрадисперсных и наноразмерных зёренных структур, текстурообразованию и механо-химической реакции формирования оксидных слоёв, при воздействии ультразвуковой ударной обработки (УЗУО) по контактно-сдвиговой схеме. Определены причины положительного влияния сформированных при УЗУО ультрадисперсных зёренных структур и оксидных слоёв на сопротивление микропластической деформации и коррозионную стойкость сплавов Zr."
+	},
+	"keywords": {
+		"ua": "цирконійові стопи, дислокаційна структура, ультразвукове ударне оброблення, ультрадисперсні зерна, мікропластична деформація, корозійна стійкість",
+		"en": "zirconium alloys, dislocation structure, ultrasonic impact treatment, ultrafine grains, microplastic deformation, corrosion resistance",
+		"ru": "сплавы циркония, дислокационная структура, ультразвуковая ударная обработка, ультрадисперсные зёрна, микропластическая деформация, коррозионная стойкость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Н. І. Хріпта", "en": "N. I. Khripta", "ru": "Н. И. Хрипта"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.1007/s11665-017-2983-1",
+				"cit": "N. I. Khripta, O. P. Karasevska and B. N. Mordyuk, <a href=\"https://doi.org/10.1007/s11665-017-2983-1\">J. of Materi Eng and Perform <b>26</b>, 5446 (2017)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 93,
+		"list":  [
+			{
+				"doi": "10.1016/0022-3115(60)90059-3",
+				"or":  "L. M. Howe and W. R. Thomas, J. Nucl. Mater., 2, No. 3: 248 (1960).",
+				"tr":  "L. M. Howe and W. R. Thomas, J. Nucl. Mater., 2, No. 3: 248 (1960)."
+			},
+			{
+				"doi": "10.1016/0022-5088(62)90072-3",
+				"or":  "H. Richter, P. Wincierz, K. Anderko, and U. Zwicker, J. Les. Com. Met., 4, No. 3: 252 (1962).",
+				"tr":  "H. Richter, P. Wincierz, K. Anderko, and U. Zwicker, J. Les. Com. Met., 4, No. 3: 252 (1962)."
+			},
+			{
+				"doi": "10.1115/1.482763",
+				"or":  "X. Lin, J. Eng. Matert. Technol., 122, No. 1: 42 (1999).",
+				"tr":  "X. Lin, J. Eng. Matert. Technol., 122, No. 1: 42 (1999)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(01)00190-2",
+				"or":  "C. N. Tomé, P. J. Maudlin, R. A. Lebensohn, and G. C. Kaschner, Acta Mater., 49, No. 15: 3085 (2001).",
+				"tr":  "C. N. Tomé, P. J. Maudlin, R. A. Lebensohn, and G. C. Kaschner, Acta Mater., 49, No. 15: 3085 (2001)."
+			},
+			{
+				"doi": "10.1016/j.ijfatigue.2006.09.021",
+				"or":  "M. Niinomi, Int. J. Fatigue, 29, No. 6: 992 (2007).",
+				"tr":  "M. Niinomi, Int. J. Fatigue, 29, No. 6: 992 (2007)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(97)00808-3",
+				"or":  "D. Kuroda, M. Niinomi, M. Morinaga, Y. Kato, and T. Yashiro, Mater. Sci. Eng. A., 243, Nos. 1–2: 244 (1998).",
+				"tr":  "D. Kuroda, M. Niinomi, M. Morinaga, Y. Kato, and T. Yashiro, Mater. Sci. Eng. A, 243, Nos. 1–2: 244 (1998)."
+			},
+			{
+				"doi": "10.1016/j.jnucmat.2004.09.029",
+				"or":  "B. Cox, J. Nucl. Mater., 336, Nos. 2–3: 331 (2005).",
+				"tr":  "B. Cox, J. Nucl. Mater., 336, Nos. 2–3: 331 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Дуглас, Металловедение циркония (Москва: Атомиздат: 1975) (пер. с англ.).",
+				"tr":  "D. L. Douglass, The Metallurgy of Zirconium (Vienna: International Atomic Energy Agency: 1971)."
+			},
+			{
+				"doi": "10.1016/j.biomaterials.2007.06.015",
+				"or":  "L. Saldaña, A. Méndez-Vilas, L. Jiang, M. Multigner, J. L. González-Carrasco, M. T. Pérez-Prado, M. L. González-Martín, L. Munuera, and N. Vilaboa, Biomater., 28, No. 30: 4343 (2007).",
+				"tr":  "L. Salda-a, A. Méndez-Vilas, L. Jiang, M. Multigner, J. L. González-Carrasco, M. T. Pérez-Prado, M. L. González-Martín, L. Munuera, and N. Vilaboa, Biomater., 28, No. 30: 4343 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Колпашников, А. С. Белоусов, В. Ф. Майнулов, Высокопрочная нержавеющая проволока (Москва: Металлургия: 1971).",
+				"tr":  "A. I. Kolpashnikov, A. S. Belousov, and V. F. Maynulov, Vysokoprochnaya Nerzhaveyushchaya Provoloka [High-Tensile Stainless Wire] (Moscow: Metallurgiya: 1971) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Остаточные напряжения: Сборник статей (ред. В. Р. Осгуд) (Москва: Иностранная литература: 1957) (пер. с англ.).",
+				"tr":  "Residual Stresses in Metals and Metal Construction (Ed. W. R. Osgood) (New York: Reinhold Publishing Corporation: 1954)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Гурьев, В. И. Водопьянов, Заводская лаборатория, № 9: 1124 (1971).",
+				"tr":  "A. V. Gur'yev and V. I. Vodop'yanov, Zavodskaya Laboratoriya, No. 9: 1124 (1971) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Ф. Дударев, Микропластическая деформация и предел текучести поликристаллов (Томск: Изд-во Томского ун-та: 1988).",
+				"tr":  "E. F. Dudarev, Mikroplasticheskaya Deformatsiya i Predel Tekuchesti Polikristallov [Microplastic Deformation and Yield Stress of Polycrystals] (Tomsk: Tomsk University: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Головин, В. Г. Епифанов, А. И. Ефимов, А. Ю. Коломиец, А. Л. Созинов, В. Э. Шевкопляс, Установка для определения сопротивления микропластическим деформациям при температурах 20–1000С (Киев: 1990) (Препринт/НАН Украины, Институт металлофизики, 1990).",
+				"tr":  "A. V. Golovin, V. G. Epifanov, A. I. Efimov, A. Yu. Kolomiets, A. L. Sozinov, and V. E. Shevkoplyas, Ustanovka dlya Opredeleniya Soprotivleniya Mikroplasticheskim Deformatsiyam pri Temperaturakh 20–1000C [Installation for Determining Microplastic Deformation Resistance at the 20–1000C Temperatures] (Kiev: 1990) (Prepr./N.A.S. of Ukraine. Inst. for Metal Physics. 1990) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(99)00285-2",
+				"or":  "G. Gleiter, Acta Mater., 48, No. 1: 1 (2000).",
+				"tr":  "G. Gleiter, Acta Mater., 48, No. 1: 1 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "C. І. Сидоренко, Ю. М. Макогон, С. М. Волошко, Матеріалознавство тонкоплівкових наноструктур. Дифузія і реакції (Київ: Наукова думка: 2000).",
+				"tr":  "C. I. Sidorenko, Yu. M. Makogon, and S. M. Voloshko, Materialoznavstvo Tonkoplivkovikh Nanostruktur. Dyfuziya i Reaktsii [Materials Science of the Thin-Film Nanostructures] (Kyiv: Naukova Dumka: 2000) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, Ю. А. Куницкий, В. И. Лысов, Кластерные и наноструктурные материалы (Киев: Академпериодика: 2002).",
+				"tr":  "A. P. Shpak, Yu. A. Kunitskiy, and V. I. Lysov, Klasternye i Nanostrukturnye Materialy [Cluster and Nanostructure Materials] (Kiev: Akademperiodika: 2002) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2003.08.032",
+				"or":  "K. S. Kumar, H. Van Swygenhoven, and S. Suresh, Acta Mater., 51, No. 19: 5743 (2003).",
+				"tr":  "K. S. Kumar, H. Van Swygenhoven, and S. Suresh, Acta Mater., 51, No. 19: 5743 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Lu and J. Lu, J. Mater. Sci. Technol., 15, No. 3: 193 (1999).",
+				"tr":  "K. Lu and J. Lu, J. Mater. Sci. Technol., 15, No. 3: 193 (1999)."
+			},
+			{
+				"doi": "10.1016/S0965-9773(99)00324-4",
+				"or":  "N. R. Tao, M. L. Sui, J. Lu, and K. Lua, Nanostructured Mater., 11, No. 4: 433 (1999).",
+				"tr":  "N. R. Tao, M. L. Sui, J. Lu, and K. Lua, Nanostructured Mater., 11, No. 4: 433 (1999)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(00)00686-9",
+				"or":  "G. Liu, J. Lu, and K. Lu, Mater. Sci. Eng. A., 286, No. 1: 91 (2000).",
+				"tr":  "G. Liu, J. Lu, and K. Lu, Mater. Sci. Eng. A, 286, No. 1: 91 (2000)."
+			},
+			{
+				"doi": "10.1016/S1359-6462(01)00738-2",
+				"or":  "G. Liu, S. C. Wang, X. F. Lou, J. Lu, and K. Lu, Scr. Mater., 44, Nos. 8–9: 1791 (2001).",
+				"tr":  "G. Liu, S. C. Wang, X. F. Lou, J. Lu, and K. Lu, Scr. Mater., 44, Nos. 8–9: 1791 (2001)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(02)00870-5",
+				"or":  "Z. B. Wang, N. R. Tao, S. Li, W. Wang, G. Liu, J. Lu, and K. Lu, Mater. Sci. Eng. A., 352, Nos. 1–2: 144 (2003).",
+				"tr":  "Z. B. Wang, N. R. Tao, S. Li, W. Wang, G. Liu, J. Lu, and K. Lu, Mater. Sci. Eng. A, 352, Nos. 1–2: 144 (2003)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(02)00310-5",
+				"or":  "N. R. Tao, Z. B. Wang, W. P. Tong, M. L. Sui, J. Lu, and K. Lu, Acta Mater., 50, No. 18: 4603 (2002).",
+				"tr":  "N. R. Tao, Z. B. Wang, W. P. Tong, M. L. Sui, J. Lu, and K. Lu, Acta Mater., 50, No. 18: 4603 (2002)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(02)00594-3",
+				"or":  "H. W. Zhang, Z. K. Hei, G. Liu, J. Lu, and K. Lu, Acta Mater., 51, No. 7: 1871 (2003).",
+				"tr":  "H. W. Zhang, Z. K. Hei, G. Liu, J. Lu, and K. Lu, Acta Mater., 51, No. 7: 1871 (2003)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(03)00254-8",
+				"or":  "M. Ya, Y. Xing, F. Dai, K. Lu, and J. Lu, Surf. Coat. Technol., 168, Nos. 2–3: 148 (2003).",
+				"tr":  "M. Ya, Y. Xing, F. Dai, K. Lu, and J. Lu, Surf. Coat. Technol., 168, Nos. 2–3: 148 (2003)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(02)00051-4",
+				"or":  "X. Wu, N. Tao, Y. Hong, B. Xu, J. Lu, and K. Lu, Acta Mater., 50, No. 8: 2075 (2002).",
+				"tr":  "X. Wu, N. Tao, Y. Hong, B. Xu, J. Lu, and K. Lu, Acta Mater., 50, No. 8: 2075 (2002)."
+			},
+			{
+				"doi": "10.1016/S0921-4526(03)00069-3",
+				"or":  "Z. Ni, X. Wang, J. Wang, and E. Wu, Physica B, 334, Nos. 1–2: 221 (2003).",
+				"tr":  "Z. Ni, X. Wang, J. Wang, and E. Wu, Physica B, 334, Nos. 1–2: 221 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Муханов, Ю. М. Голубев, Вестник машиностроения, № 11: 52 (1966).",
+				"tr":  "I. I. Mukhanov and Yu. M. Golubev, Vestnik Mashinostroeniya, No. 11: 52 (1966) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Котко, Г. И. Прокопенко, С. А. Фирстов, Физика металлов и ме-талловедение, 37, № 2: 444 (1974).",
+				"tr":  "V. A. Kotko, G. I. Prokopenko, and S. A. Firstov, Fizika Metallov i Metallovedenie, 37, No. 2: 444 (1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Марков, А. М. Чураев, В. Н. Каленов, Вестник машиностроения, № 5: 75 (1977).",
+				"tr":  "A. I. Markov, A. M. Churaev, and V. N. Kalenov, Vestnik Mashinostroeniya, No. 5: 75 (1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Г. Полоцкий, А. Я. Недосека, Г. И. Прокопенко, Автоматическая сварка, № 5: 74 (1974).",
+				"tr":  "I. G. Polotskiy, A. Ya. Nedoseka, and G. I. Prokopenko, Avtomaticheskaya Svarka, No. 5: 74 (1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Степанов, Е. Ш. Статников, М. И. Клестов, Е. М. Шевцов, Технология судостроения, № 7: 32 (1974).",
+				"tr":  "V. G. Stepanov, E. Sh. Statnikov, M. I. Klestov, and E. M. Shevtsov, Tekhnologiya Sudostroeniya, No. 7: 32 (1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Y. Wei, C. Zhu, and X. Wu, Sci. China: G, 47: 86 (2004).",
+				"tr":  "Y. Wei, C. Zhu, and X. Wu, Sci. China: G, 47: 86 (2004)."
+			},
+			{
+				"doi": "10.1016/j.stam.2003.10.015",
+				"or":  "M. Sato, N. Tsuji, Y. Minamino, and Y. Koizumi, Sci. Technol. Adv. Mater., 5, Nos. 1–2: 145 (2004).",
+				"tr":  "M. Sato, N. Tsuji, Y. Minamino, and Y. Koizumi, Sci. Technol. Adv. Mater., 5, Nos. 1–2: 145 (2004)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2013.10.025",
+				"or":  "R. Kapoor, A. Sarkar, J. Singh, I. Samajdar, and D. Raabe, Scr. Mater., 74: 72 (2014).",
+				"tr":  "R. Kapoor, A. Sarkar, J. Singh, I. Samajdar, and D. Raabe, Scr. Mater., 74: 72 (2014)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2012.09.041",
+				"or":  "M. Tane, T. Nakano, S. Kuramoto, M. Niinomi, N. Takesue, and H. Nakajima, Acta Mater., 61, No. 1: 139 (2013).",
+				"tr":  "M. Tane, T. Nakano, S. Kuramoto, M. Niinomi, N. Takesue, and H. Nakajima, Acta Mater., 61, No. 1: 139 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. М. Мордюк, Г. І. Прокопенко, І. О. Скиба, Н. І. Хріпта, П. Е. Рудой, О. О. Дринь, Пристрій для ультразвукової обробки поверхні довгомірних виробів: Патент України № 86299 (опубліковано 10 квітня 2009 р.).",
+				"tr":  "B. M. Mordyuk, H. I. Prokopenko, I. O. Skyba, N. I. Khripta, P. E. Rudoy, and O. O. Dryn', Prystriy dlya Ul'trazvukovoyi Obrobky Poverkhni Dovgomirnykh Vyrobiv [Device for Ultrasonic Machining of Two-Dimensional Prods' Surfaces]: Patent of Ukraine # 86299 (Published April 10, 2009) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "B. N. Mordyuk and G. I. Prokopenko, J. Sound Vib., 308, Nos. 3–5: 855 (2007).",
+				"tr":  "B. N. Mordyuk and G. I. Prokopenko, J. Sound Vib., 308, Nos. 3–5: 855 (2007)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.12.049",
+				"or":  "B. N. Mordyuk, G. I. Prokopenko, M. O. Vasylyev, and M. O. Iefimov, Mater. Sci. Eng. A, 458: 253 (2007).",
+				"tr":  "B. N. Mordyuk, G. I. Prokopenko, M. O. Vasylyev, and M. O. Iefimov, Mater. Sci. Eng. A, 458: 253 (2007)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2009.10.009",
+				"or":  "B. N. Mordyuk, M. O. Iefimov, G. I. Prokopenko, T. V. Golub, and M. I. Danylenko, Surf. Coat. Technol., 204, Nos. 9–10: 1590 (2010).",
+				"tr":  "B. N. Mordyuk, M. O. Iefimov, G. I. Prokopenko, T. V. Golub, and M. I. Danylenko, Surf. Coat. Technol., 204, Nos. 9–10: 1590 (2010)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2011.05.046",
+				"or":  "B. N. Mordyuk, M. O. Iefimov, K. E. Grinkevych, A. V. Sameljuk, and M. I. Danylenko, Surf. Coat. Technol., 205, Nos. 23–24: 5278 (2011).",
+				"tr":  "B. N. Mordyuk, M. O. Iefimov, K. E. Grinkevych, A. V. Sameljuk, and M. I. Danylenko, Surf. Coat. Technol., 205, Nos. 23–24: 5278 (2011)."
+			},
+			{
+				"doi": "10.1016/0921-5093(96)10412-3",
+				"or":  "H. Huang, J. Ding, and P. G. McCormick, Mater. Sci. Eng. A, 216, Nos. 1–2: 178 (1996).",
+				"tr":  "H. Huang, J. Ding, and P. G. McCormick, Mater. Sci. Eng. A, 216, Nos. 1–2: 178 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "C. С. Горелик, Ю. А. Скаков, Л. Н. Расторгуев, Рентгенографический и электронно-оптический анализ (Москва: МИСиС: 1994).",
+				"tr":  "C. S. Gorelik, Yu. A. Skakov, and L. N. Rastorguev, Rentgenograficheskiy i Ehlektronno-Opticheskiy Analiz [X-Ray and Electron-Optical Analysis] (Moscow: MISiS: 1994) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2007.06.059",
+				"or":  "P. Jiang, Q. Wei, Y. S. Hong, J. Lu, and X. L. Wu, Surf. Coat. Technol., 202, No. 3: 583 (2007).",
+				"tr":  "P. Jiang, Q. Wei, Y. S. Hong, J. Lu, and X. L. Wu, Surf. Coat. Technol., 202, No. 3: 583 (2007)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.07.119",
+				"or":  "B. N. Mordyuk and G. I. Prokopenko, Mater. Sci. Eng. A, 437, No. 2: 396 (2006).",
+				"tr":  "B. N. Mordyuk and G. I. Prokopenko, Mater. Sci. Eng. A, 437, No. 2: 396 (2006)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2004.05.023",
+				"or":  "K. Y. Zhu, A. Vassel, F. Brisset, K. Lu, and J. Lu, Acta Mater., 52, No. 14: 4101 (2004).",
+				"tr":  "K. Y. Zhu, A. Vassel, F. Brisset, K. Lu, and J. Lu, Acta Mater., 52, No. 14: 4101 (2004)."
+			},
+			{
+				"doi": "10.1016/j.msea.2015.06.072",
+				"or":  "A. I. Dekhtyar, B. N. Mordyuk, D. G. Savvakin, V. I. Bondarchuk, I. V. Moiseeva, and N. I. Khripta, Mater. Sci. Eng. A, 641: 348 (2015).",
+				"tr":  "A. I. Dekhtyar, B. N. Mordyuk, D. G. Savvakin, V. I. Bondarchuk, I. V. Moiseeva, and N. I. Khripta, Mater. Sci. Eng. A, 641: 348 (2015)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2008.09.031",
+				"or":  "F. Gerspach, N. Bozzolo, and F. Wagner, Scr. Mater., 60, No. 4: 203 (2009).",
+				"tr":  "F. Gerspach, N. Bozzolo, and F. Wagner, Scr. Mater., 60, No. 4: 203 (2009)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2007.11.017",
+				"or":  "L. Jiang, M. T. Pérez-Prado, P. A. Gruber, E. Arzt, O. A. Ruano, and M. E. Kassner, Acta Mater., 56, No. 6: 1228 (2008).",
+				"tr":  "L. Jiang, M. T. Pérez-Prado, P. A. Gruber, E. Arzt, O. A. Ruano, and M. E. Kassner, Acta Mater., 56, No. 6: 1228 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Горелик, Л. Н. Расторгуев, Ю. А. Скаков, Рентгенографический и электрооптический анализ: Приложения (Москва: Металлургиздат: 1970).",
+				"tr":  "S. S. Gorelik, L. N. Rastorguev, and Yu. A. Skakov, Rentgenograficheskiy i Elektroopticheskiy Analiz: Prilozheniya [X-Ray and Electron-Optical Analysis: Application] (Moscow: Metallurgizdat: 1970) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2012.08.063",
+				"or":  "B. N. Mordyuk, O. P. Karasevskaya, G. I. Prokopenko, and N. I. Khripta, Surf. Coat. Technol., 210: 54 (2012).",
+				"tr":  "B. N. Mordyuk, O. P. Karasevskaya, G. I. Prokopenko, and N. I. Khripta, Surf. Coat. Technol., 210: 54 (2012)."
+			},
+			{
+				"doi": "10.1016/0022-3115(95)00210-3",
+				"or":  "R. A. Lebensohn, M. I. Gonzaléz, C. N. Tomé, and A. A. Pochettino, J. Nucl. Mater., 229: 57 (1996).",
+				"tr":  "R. A. Lebensohn, M. I. Gonzaléz, C. N. Tomé, and A. A. Pochettino, J. Nucl. Mater., 229: 57 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Прокопенко, М. А. Васильев, Б. Н. Мордюк, В. С. Скородзиевский, Н. С. Машовец, Металлофиз. новейшие технол., 28, № 6: 781 (2006).",
+				"tr":  "G. I. Prokopenko, M. A. Vasylyev, B. N. Mordyuk, V. S. Skorodzievskiy, and N. S. Mashovets, Metallofiz. Noveishie Tekhnol., 28, No. 6: 781 (2006) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2006.03.053",
+				"or":  "B. K. Kad, J.-M. Gebert, M. T. Perez-Prado, M. E. Kassner, and M. A. Meyers, Acta Mater., 54, No. 16: 4111 (2006).",
+				"tr":  "B. K. Kad, J.-M. Gebert, M. T. Perez-Prado, M. E. Kassner, and M. A. Meyers, Acta Mater., 54, No. 16: 4111 (2006)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2009.10.034",
+				"or":  "Y. B. Wang, M. Louie, Y. Cao, X. Z. Liao, H. J. Li, S. P. Ringer, and Y. T. Zhu, Scr. Mater., 62, No. 4: 214 (2010).",
+				"tr":  "Y. B. Wang, M. Louie, Y. Cao, X. Z. Liao, H. J. Li, S. P. Ringer, and Y. T. Zhu, Scr. Mater., 62, No. 4: 214 (2010)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2008.04.054",
+				"or":  "M. Wen, G. Liu, J. Gu, W. Guan, and J. Lu, Surf. Coat. Technol., 202, No. 19: 4728 (2008).",
+				"tr":  "M. Wen, G. Liu, J. Gu, W. Guan, and J. Lu, Surf. Coat. Technol., 202, No. 19: 4728 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. И. Хрипта, Б. Н. Мордюк, О. П. Карасевская Г. И. Прокопенко, И. А. Скиба, Металлофиз. новейшие технол., 30: 369 (2008).",
+				"tr":  "N. I. Khripta, B. N. Mordyuk, O. P. Karasevskaya G. I. Prokopenko, and I. A. Skiba, Metallofiz. Noveishie Tekhnol., 30: 369 (2008) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(02)00714-1",
+				"or":  "E. Sukedai, D. Yoshimitsu, H. Matsumoto, H. Hashimoto, and M. Kiritani, Mater. Sci. Eng. A, 350, Nos. 1–2: 133 (2003).",
+				"tr":  "E. Sukedai, D. Yoshimitsu, H. Matsumoto, H. Hashimoto, and M. Kiritani, Mater. Sci. Eng. A, 350, Nos. 1–2: 133 (2003)."
+			},
+			{
+				"doi": "10.1016/j.physb.2006.05.352",
+				"or":  "Y. Choi, E. J. Shin, and H. Inoue, Physica B, 385–386, No. 1: 529 (2006).",
+				"tr":  "Y. Choi, E. J. Shin, and H. Inoue, Physica B, 385–386, No. 1: 529 (2006)."
+			},
+			{
+				"doi": "10.1016/j.corsci.2009.08.017",
+				"or":  "M. Hoseini, A. Shahryari, S. Omanovic, and J. A. Szpunar, Corros. Sci., 51, No. 12: 3064 (2009).",
+				"tr":  "M. Hoseini, A. Shahryari, S. Omanovic, and J. A. Szpunar, Corros. Sci., 51, No. 12: 3064 (2009)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2011.06.013",
+				"or":  "Z. Pu, S. Yang, G.-L. Song, O. W. Dillon Jr., D. A. Puleo, and I. S. Jawahir, Scr. Mater., 65, No. 6: 520 (2011).",
+				"tr":  "Z. Pu, S. Yang, G.-L. Song, O. W. Dillon Jr., D. A. Puleo, and I. S. Jawahir, Scr. Mater., 65, No. 6: 520 (2011)."
+			},
+			{
+				"doi": "10.1098/rspa.1988.0012",
+				"or":  "V. Randle and B. Ralph, Proc. R. Soc. А, 415: 239 (1988).",
+				"tr":  "V. Randle and B. Ralph, Proc. R. Soc. A, 415: 239 (1988)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.558-559.863",
+				"or":  "N. Bozzolo, G. Sawina, F. Gerspach, K. Sztwiertnia, A. D. Rollett, and F. Wagner, Mater. Sci. Forum, 558–559: 863 (2007).",
+				"tr":  "N. Bozzolo, G. Sawina, F. Gerspach, K. Sztwiertnia, A. D. Rollett, and F. Wagner, Mater. Sci. Forum, 558–559: 863 (2007)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.02.261",
+				"or":  "B. S. Lee, M. H. Kim, S. K. Hwang, S. I. Kwun, and S. W. Chae, Mater. Sci. Eng. A, 449–451: 1087 ( 2007).",
+				"tr":  "B. S. Lee, M. H. Kim, S. K. Hwang, S. I. Kwun, and S. W. Chae, Mater. Sci. Eng. A, 449–451: 1087 (2007)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.10.029",
+				"or":  "X. Y. Zhang, M. H. Shi, C. Li, N. F. Liu, and Y. M. Wei, Mater. Sci. Eng. A, 448, Nos. 1–2: 259 (2007).",
+				"tr":  "X. Y. Zhang, M. H. Shi, C. Li, N. F. Liu, and Y. M. Wei, Mater. Sci. Eng. A, 448, Nos. 1–2: 259 (2007)."
+			},
+			{
+				"doi": "10.1016/j.msea.2012.11.061",
+				"or":  "B. N. Mordyuk, G. I. Prokopenko, Y.V. Milman, M. O. Iefimov, and A. V. Sameljuk, Mater. Sci. Eng. A, 563: 138 (2013).",
+				"tr":  "B. N. Mordyuk, G. I. Prokopenko, Y. V. Milman, M. O. Iefimov, and A. V. Sameljuk, Mater. Sci. Eng. A, 563: 138 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. М. Мордюк, Закономірності структуроутворення та кінетика деформаційних процесів у металевих матеріалах при комбінованих впливах із застосуванням ультразвуку (Автореферат дис. … д.ф.-м.н.) (Київ: Інститут металофізики ім. Г. В. Курдюмова НАН України: 2012).",
+				"tr":  "B. M. Mordyuk, Zakonomirnosti Strukturoutvorennya ta Kinetika Deformatsiynykh Protsesiv u Metalevykh Materialakh pry Kombinovanykh Vplyvakh iz Zastosuvannyam Ul’trazvuku [Regularities of Structural Formation and Kinetics of Deformation Processes in Metallic Materials under Complex Ultrasonic Effects] (Thesis of Disser. for Dr. Phys.-Math. Sci.) (Kyiv: G.V. Kurdyumov Institute for Metal Physics, N.A.S.U.: 2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Белоцкий, В. Н. Винниченко, И. М. Муха, Ультразвуковое упрочнение металлов (Киев: Техника: 1989).",
+				"tr":  "A. V. Belotskiy, V. N. Vinnichenko, and I. M. Mukha, Ul'trazvukovoe Uprochnenie Metallov [Ultrasonic Metal Hardening] (Kiev: Tekhnika: 1989) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.msea.2003.10.261",
+				"or":  "K. Lu and J. Lu, Mater. Sci. Eng. A, 375–377: 38 (2004).",
+				"tr":  "K. Lu and J. Lu, Mater. Sci. Eng. A, 375–377: 38 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, Г. И. Прокопенко, В. С. Филатова, Успехи физики металлов, 5: 345 (2004).",
+				"tr":  "M. A. Vasylyev, G. I. Prokopenko, and V. S. Filatova, Uspehi Fiziki Metallov, 5: 345 (2004)."
+			},
+			{
+				"doi": "10.1016/j.msea.2012.08.125",
+				"or":  "B. N. Morduyk, O. P. Karasevskaya, and G. I. Prokopenko, Mater. Sci. Eng. A, 559: 453 (2013).",
+				"tr":  "B. N. Morduyk, O. P. Karasevskaya, and G. I. Prokopenko, Mater. Sci. Eng. A, 559: 453 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Прокопенко, Т. В. Голуб, О. Н. Кашевская, Б. Н. Мордюк, Н. А. Ефимов, В. Г. Безкоровайный, Металлофиз. новейшие технол., 28, № 2: 151 (2006).",
+				"tr":  "G. I. Prokopenko, T. V. Golub, O. N. Kashevskaya, B. N. Mordyuk, N. A. Efimov, and V. G. Bezkorovaynyy, Metallofiz. Noveishie Tekhnol., 28, No. 2: 151 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Сулима, М. И. Евстигнеев, Качество поверхностного слоя и усталостная прочность деталей из жаропрочных и Ті сплавов (Москва: Машиностроение: 1974).",
+				"tr":  "A. M. Sulima and M. I. Evstigneev, Kachestvo Poverkhnostnogo Sloya i Ustalostnaya Prochnost’ Detaley iz Zharoprochnykh i Ti Splavov [Quality of Surface Layer and Fatigue Strength of Elements of Heat-Resisting and Ti Alloys] (Moscow: Mashinostroenie: 1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. И. Хрипта, Г. И. Прокопенко, Б. Н. Мордюк, О. П. Карасевская, И. А. Скиба, Металлофиз. новейшие технол., 30, № 8: 1065 (2008).",
+				"tr":  "N. I. Khripta, G. I. Prokopenko, B. N. Mordyuk, O. P. Karasevskaya, and I. A. Skiba, Metallofiz. Noveishie Tekhnol., 30, No. 8: 1065 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Х. Гляйтер, Е. Хорнбоген, Упрочнение при образовании твёрдых растворов и дисперсионном твердении (Москва: Металлургия: 1986) (пер. с англ.).",
+				"tr":  "H. Gleiter and E. Hornbogen, Uprochnenie pri Obrazovanii Tverdykh Rastvorov i Dispersionnom Tverdenii [Strengthening during Formation of Solis Solutions and Dispersion Hardening] (Moscow: Metallurgiya: 1986)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2004.07.008",
+				"or":  "G. K. Dey, R. Tewari, S. Banerjee, G. Jyoti, S. C. Gupta, K. D. Joshi, and S. K. Sikka, Acta Mater., 52, No. 18: 5243 (2004).",
+				"tr":  "G. K. Dey, R. Tewari, S. Banerjee, G. Jyoti, S. C. Gupta, K. D. Joshi, and S. K. Sikka, Acta Mater., 52, No. 18: 5243 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, В. Ф. Моисеев, Э. П. Печковский, Деформационное упрочнение и разрушение поликристаллических металлов (Киев: Наукова думка: 1989).",
+				"tr":  "V. I. Trefilov, V. F. Moiseev, and E. P. Pechkovskiy, Deformatsionnoe Uprochnenie i Razrushenie Polikristallicheskikh Metallov [Deformation Strengthening and Fracture of Polycrystalline Metals] (Kyiv: Naukova Dumka: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Келли, Р. Николсон, Дисперсное твердение (Москва: Металлургия: 1966) (пер. с англ.).",
+				"tr":  "A. Kelly and R. B. Nicholson, Precipitation Hardening (Oxford, NY: Pergamon Press: 1963)."
+			},
+			{
+				"doi": "10.1016/j.biomaterials.2004.01.021",
+				"or":  "E. Eisenbarth, D. Velten, M. Müller, R. Thull, and J. Breme, Biomater., 25, No. 26: 5705 (2004).",
+				"tr":  "E. Eisenbarth, D. Velten, M. Müller, R. Thull, and J. Breme, Biomater., 25, No. 26: 5705 (2004)."
+			},
+			{
+				"doi": "10.1016/j.jnucmat.2003.08.031",
+				"or":  "Y. H. Jeong, H. G. Kim, D. J. Kim, B. K. Choi, and J. H. Kim, J. Nucl. Mater., 323, No. 1: 72 (2003).",
+				"tr":  "Y. H. Jeong, H. G. Kim, D. J. Kim, B. K. Choi, and J. H. Kim, J. Nucl. Mater., 323, No. 1: 72 (2003)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2006.08.014",
+				"or":  "Y. Lin, J. Lu, L. Wang, T. Xu, and Q. Xue, Acta Mater., 54, No. 20: 5599 (2006).",
+				"tr":  "Y. Lin, J. Lu, L. Wang, T. Xu, and Q. Xue, Acta Mater., 54, No. 20: 5599 (2006)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.04.024",
+				"or":  "X. P. Jiang, X. Y. Wang, J. X. Li, D. Y. Li, C.-S. Man, M. J. Shepard, and T. Zhai, Mater. Sci. Eng. A, 429, Nos. 1–2: 30 (2006).",
+				"tr":  "X. P. Jiang, X. Y. Wang, J. X. Li, D. Y. Li, C.-S. Man, M. J. Shepard, and T. Zhai, Mater. Sci. Eng. A, 429, Nos. 1–2: 30 (2006)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2008.03.033",
+				"or":  "I. Roy, H. W. Yang, L. Dinh, I. Lund, J. C. Earthman, and F. A. Mohamed, Scr. Mater., 59, No. 3: 305 (2008).",
+				"tr":  "I. Roy, H. W. Yang, L. Dinh, I. Lund, J. C. Earthman, and F. A. Mohamed, Scr. Mater., 59, No. 3: 305 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Петельгузов, Физико-химическая механика материалов, 36, № 5: 36 (2000).",
+				"tr":  "I. A. Petel'guzov, Fiziko-Khimicheskaya Mekhanika Materialov, 36, No. 5: (2000) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(99)00698-X",
+				"or":  "P. Peyre, X. Scherpereel, L. Berthe, C. Carboni, R. Fabbro, G. Béranger, and C. Lemaitre, Mater. Sci. Eng. A, 280, No. 2: 294 (2000).",
+				"tr":  "P. Peyre, X. Scherpereel, L. Berthe, C. Carboni, R. Fabbro, G. Béranger, and C. Lemaitre, Mater. Sci. Eng. A, 280, No. 2: 294 (2000)."
+			},
+			{
+				"doi": "10.1016/j.corsci.2012.03.019",
+				"or":  "U. Trdan and J. Grum, Corros. Sci., 59: 324 (2012).",
+				"tr":  "U. Trdan and J. Grum, Corros. Sci., 59: 324 (2012)."
+			},
+			{
+				"doi": "10.1016/j.corsci.2009.08.008",
+				"or":  "H. Lee, D. Kim, J. Jung, Y. Pyoun, and K. Shin, Corros. Sci., 51, No. 12: 2826 (2009).",
+				"tr":  "H. Lee, D. Kim, J. Jung, Y. Pyoun, and K. Shin, Corros. Sci., 51, No. 12: 2826 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Binary Alloy Phase Diagrams (Ed. T. B. Massalski) (Materials Park, OH: American Society of Metals International: 1990).",
+				"tr":  "Binary Alloy Phase Diagrams (Ed. T. B. Massalski) (Materials Park, OH: American Society of Metals International: 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Hunter, S. C. Jani, and V. Pawar, Method of Surface Oxidizing Zirconium and Zirconium Alloys and Resulting Product: US Patent # 7,896,926: No. 12277013 (Issued on March 1, 2011).",
+				"tr":  "G. Hunter, S. C. Jani, and V. Pawar, Method of Surface Oxidizing Zirconium and Zirconium Alloys and Resulting Product: US Patent # 7,896,926: No. 12277013 (Issued on March 1, 2011)."
+			},
+			{
+				"doi": "10.1016/j.electacta.2008.02.034",
+				"or":  "P. Kar, K. Wang, and H. Liang, Electrochim. Acta, 53, No. 16: 5084 (2008).",
+				"tr":  "P. Kar, K. Wang, and H. Liang, Electrochim. Acta, 53, No. 16: 5084 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Кубашевский, Б. Гопкинс, Окисление металлов и сплавов (Москва: Металлургия: 1965) (пер. с англ.).",
+				"tr":  "O. Kubaschewski and B. E. Hopkins, Oxidation of Metals and Alloys (Butterworths: University of Michigan: 1967)."
+			},
+			{
+				"doi": "10.1016/0022-3115(77)90097-6",
+				"or":  "I. G. Ritche and A. Atrens, J. Nucl. Mater., 67, No. 3: 254 (1977).",
+				"tr":  "I. G. Ritche and A. Atrens, J. Nucl. Mater., 67, No. 3: 254 (1977)."
+			}
+		]
+	}
+}

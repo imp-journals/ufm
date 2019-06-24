@@ -1,0 +1,745 @@
+{
+	"_id":    "UFM.07.02.053",
+	"year":   2006,
+	"volume": 7,
+	"issue":  2,
+	"pages":  [53,116],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["10.02.2006"],
+	"PACS":   "61.50.Ks, 61.72.Hh, 62.20.Fe, 64.70.Kb, 65.40.De, 81.30.Kf, 81.40.-z",
+	"title":   {
+		"ua": "Деформаційні явища при мартенситних перетвореннях",
+		"en": "The Deformation Phenomena at Martensitic Transformations",
+		"ru": "Деформационные явления при мартенситных превращениях"
+	},
+	"abstract": {
+		"ua": "Розглянуто і проаналізовано такі незвичайні явища та властивості, спричинені оборотніми мартенситними перетвореннями, як ефект пам’яті форми, надпружність та деякі інші, а також такі визначаючі їх параметри, як кристалічна структура початкової та мартенситної фаз, морфологія мартенситних кристалів, їхня тонка структура, механізми перебудови при мартенситних перетвореннях у ріжноманітних металах та стопах. Розглянуто та обговорено механізми, що обумовлюють відновлення вихідної форми та початкового стану. Приведено найбільш характерні приклади практичного використання таких незвичайних властивостей.",
+		"en": "Some unusual phenomena and properties caused by the reversible martensitic transformations such as the shape memory effect, superelasticity, etc. and such parameters as crystal structure of the parent and martensitic phases, morphology of the martensitic crystals, their fine structure, mechanisms of the reconstruction during austenite–martensite transformations are considered and analysed. The mechanisms, which cause a restoration of the initial form and state, are examined and discussed. The most typical examples of the practical applications of these unusual properties are given.",
+		"ru": "Рассмотрены и проанализированы такие необычные явления и свойства, обусловленные обратимыми мартенситными превращениями, как эффект памяти формы, сверхупругость и некоторые другие, а также такие определяющие их параметры, как кристаллическая структура исходной и мартенситной фаз, морфология мартенситных кристаллов, их тонкая структура, механизмы перестройки при мартенситных превращениях в различных металлах и сплавах. Рассмотрены и обсуждены механизмы, обуславливающие восстановление исходной формы и состояния. Приведены наиболее характерные примеры практического использования этих необычных свойств."
+	},
+	"keywords": {
+		"ua": "структура, мартенсите перетворення, перебудова, деформація, міжфазні межі, рухомість, оберненість, ефект пам’яті форми, надпружність",
+		"en": "state, martensitic transformation, reconstruction, deformation, interphase boundaries, mobility, reversibility, shape-memory effect, superelasticity",
+		"ru": "структура, мартенситное превращение, перестройка, деформация, межфазные границы, подвижность, обратимость, эффект памяти формы, сверхупругость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. М. Коваль", "en": "Yu. M. Koval’", "ru": "Ю. Н. Коваль"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. А. Лободюк", "en": "V. A. Lobodyuk", "ru": "В. А. Лободюк"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.11.01.019",
+				"cit": "I. M. Laptev and O. O. Parkhomenko, <a href=\"https://doi.org/10.15407/ufm.11.01.019\">Usp. Fiz. Met. <b>11</b>, 19 (2010)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 139,
+		"list":  [
+			{
+				"doi": "10.1063/1.1729603",
+				"or":  "W. J. Buehler, J. V. Gilfrich, and R.C. Wiley, J. Appl. Phys., 34: 1475 (1963).",
+				"tr":  "W. J. Buehler, J. V. Gilfrich, and R.C. Wiley, J. Appl. Phys., 34: 1475 (1963)."
+			},
+			{
+				"doi": "",
+				"or":  "J. A. Zijderveld, R. G. de Lange, and C. A. Verbraak, Mem. Sci. Rev. Met., 63: 885 (1966).",
+				"tr":  "J. A. Zijderveld, R. G. de Lange, and C. A. Verbraak, Mem. Sci. Rev. Met., 63: 885 (1966)."
+			},
+			{
+				"doi": "10.1063/1.1656526",
+				"or":  "R. G. de Lange and J.A. Zijderveld, J. Appl. Phys., 39: 2195 (1968).",
+				"tr":  "R. G. de Lange and J.A. Zijderveld, J. Appl. Phys., 39: 2195 (1968)."
+			},
+			{
+				"doi": "10.1063/1.1702955",
+				"or":  "F. E. Wang, W. J. Buehler, and S. J. Pickart, J. Appl. Phys., 36: 3232 (1965).",
+				"tr":  "F. E. Wang, W. J. Buehler, and S. J. Pickart, J. Appl. Phys., 36: 3232 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "L. C. Chang and T. A. Read, Trans. AIME, 191: 47 (1951).",
+				"tr":  "L. C. Chang and T. A. Read, Trans. AIME, 191: 47 (1951)."
+			},
+			{
+				"doi": "",
+				"or":  "M. W. Burkart and T. A. Read, Trans. AIME, 197: 1516 (1953).",
+				"tr":  "M. W. Burkart and T. A. Read, Trans. AIME, 197: 1516 (1953)."
+			},
+			{
+				"doi": "",
+				"or":  "Z. S. Basinski and J. W. Christian, Acta Met., 2: 101 (1954).",
+				"tr":  "Z. S. Basinski and J. W. Christian, Acta Met., 2: 101 (1954)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Hornbogen and Z. Wassermann, Z. Metallk., 47: 427 (1956).",
+				"tr":  "E. Hornbogen and Z. Wassermann, Z. Metallk., 47: 427 (1956)."
+			},
+			{
+				"doi": "",
+				"or":  "H. K. Birnbaum and T. A. Read, Trans. AIME, 218: 662 (1960).",
+				"tr":  "H. K. Birnbaum and T. A. Read, Trans. AIME, 218: 662 (1960)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Арбузова, Л. Г. Хандрос, ФММ, 17: 390 (1964).",
+				"tr":  "I. A. Arbuzova, L. G. Khandros, FMM, 17: 390 (1964)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, Изв. АН СССР. Сер. хим., 2: 271 (1936).",
+				"tr":  "G. V. Kurdyumov, Izv. AN SSSR. Ser. khim., 2: 271 (1936)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, ЖТФ, 18: 999 (1948).",
+				"tr":  "G. V. Kurdyumov, ZhTF, 18: 999 (1948)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, О. П. Максимова, ДАН СССР, 61: 83 (1948).",
+				"tr":  "G. V. Kurdyumov, O. P. Maksimova, DAN SSSR, 61: 83 (1948)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, Л. Г. Хандрос, ЖТФ, 19: 761 (1949).",
+				"tr":  "G. V. Kurdyumov, L. G. Khandros, ZhTF, 19: 761 (1949)."
+			},
+			{
+				"doi": "10.1016/0036-9748(75)90418-4",
+				"or":  "G. B. Olson and M. Cohen, Scr. Met., 9: 1247 (1975).",
+				"tr":  "G. B. Olson and M. Cohen, Scr. Met., 9: 1247 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Sinclair and H. A. Mohamed, Acta Met., 26: 623 (1978).",
+				"tr":  "R. Sinclair and H. A. Mohamed, Acta Met., 26: 623 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Коваль, В. В. Кокорин, Структурный механизм фазовых превращений металлов и сплавов (Москва: Наука: 1976), с. 140.",
+				"tr":  "Yu. N. Koval', V. V. Kokorin, Strukturnyy mekhanizm fazovykh prevrashcheniy metallov i splavov (Moskva: Nauka: 1976), P. 140."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Ганжула, Ю. Н. Коваль, В.В. Кокорин, ФММ, 47: 881 (1979).",
+				"tr":  "N. N. Ganzhula, Yu. N. Koval', V.V. Kokorin, FMM, 47: 881 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лободюк, Фазовые превращения мартенситного типа (Киев: Наукова думка: 1993), с. 140.",
+				"tr":  "V. A. Lobodyuk, Fazovye prevrashcheniya martensitnogo tipa (Kiev: Naukova dumka: 1993), P. 140."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лободюк, Э. И. Эстрин, УФН, 175: 745 (2005).",
+				"tr":  "V. A. Lobodyuk, E. I. Estrin, UFN, 175: 745 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Х. Варлимонт, Л. Дилей, Мартенситные превращения в сплавах на основе меди, серебра, золота (Москва: Наука: 1980).",
+				"tr":  "Kh. Varlimont, L. Diley, Martensitnye prevrashcheniya v splavakh na osnove medi, serebra, zolota (Moskva: Nauka: 1980)."
+			},
+			{
+				"doi": "",
+				"or":  "M. J. Duggin and W. A. Rachinger, Acta Met., 12: 529 (1964).",
+				"tr":  "M. J. Duggin and W. A. Rachinger, Acta Met., 12: 529 (1964)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Корнилов, О. К. Белоусов, Е. В. Качур, Никелид титана и другие сплавы с «эффектом памяти» (Москва: Наука: 1977).",
+				"tr":  "I. I. Kornilov, O. K. Belousov, E. V. Kachur, Nikelid titana i drugie splavy s «effektom pamyati» (Moskva: Nauka: 1977)."
+			},
+			{
+				"doi": "",
+				"or":  "S. P. Gupta, A. Johnson, and K. Mukherjee, Mater. Sci. Eng., 11: 29 (1973).",
+				"tr":  "S. P. Gupta, A. Johnson, and K. Mukherjee, Mater. Sci. Eng., 11: 29 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "G. D. Sandrock, A. J. Perkins, and R. F. Hehemann, Met. Trans., 2: 2769 (1971).",
+				"tr":  "G. D. Sandrock, A. J. Perkins, and R. F. Hehemann, Met. Trans., 2: 2769 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "C. M. Hwang, M. Meichle, M.B. Salamon, and C.M. Wayman, Phil. Mag. A, 47: 9 (1983).",
+				"tr":  "C. M. Hwang, M. Meichle, M.B. Salamon, and C.M. Wayman, Phil. Mag. A, 47: 9 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "N. P. Allen and C. C. Earley, J. Iron and Steel Inst., 166: 281 (1950).",
+				"tr":  "N. P. Allen and C. C. Earley, J. Iron and Steel Inst., 166: 281 (1950)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Rang, D. Pin, Y. Li, and C. Shi, Acta Met. Sin., 31: A399 (1995).",
+				"tr":  "L. Rang, D. Pin, Y. Li, and C. Shi, Acta Met. Sin., 31: A399 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Н. Богачев, В. Ф. Еголаев, Структура и свойства железомарганцевых сплавов (Москва: Металлургия: 1973).",
+				"tr":  "I. N. Bogachev, V. F. Egolaev, Struktura i svoystva zhelezomargantsevykh splavov (Moskva: Metallurgiya: 1973)."
+			},
+			{
+				"doi": "10.1016/0025-5416(72)90003-1",
+				"or":  "R. L. Grunes, C. D’Antonio, and K. Mukherjee, Mater. Sci. Eng., 9: 1 (1972).",
+				"tr":  "R. L. Grunes, C. D'Antonio, and K. Mukherjee, Mater. Sci. Eng., 9: 1 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Малинов, Мартенситные превращения в металлах и сплавах (Киев: Наукова думка: 1979), с. 104.",
+				"tr":  "L. S. Malinov, Martensitnye prevrashcheniya v metallakh i splavakh (Kiev: Naukova dumka: 1979), P. 104."
+			},
+			{
+				"doi": "",
+				"or":  "E. C. Bain, Trans. AIME, 70: 25 (1924).",
+				"tr":  "E. C. Bain, Trans. AIME, 70: 25 (1924)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Kurdjumov and G. Sachs, Z. Phys., 64: 325 (1930).",
+				"tr":  "G. Kurdjumov and G. Sachs, Z. Phys., 64: 325 (1930)."
+			},
+			{
+				"doi": "",
+				"or":  "A. B. Greninger and A. R. Troino, Trans. AIME, 140: 307 (1940).",
+				"tr":  "A. B. Greninger and A. R. Troino, Trans. AIME, 140: 307 (1940)."
+			},
+			{
+				"doi": "",
+				"or":  "Z. Nishiyama, Sci. Rep. Tohoku Univ., 23: 638 (1934–1935).",
+				"tr":  "Z. Nishiyama, Sci. Rep. Tohoku Univ., 23: 638 (1934–1935)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Burgers, Physika, 1: 361 (1934).",
+				"tr":  "W. Burgers, Physika, 1: 361 (1934)."
+			},
+			{
+				"doi": "",
+				"or":  "A. J. J. Ginneken and W. Burgers, Acta Cryst., 5: 548 (1952).",
+				"tr":  "A. J. J. Ginneken and W. Burgers, Acta Cryst., 5: 548 (1952)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Курдюмов, В. Мирецкий, Т. Стеллецкая, ЖТФ, VIII: 1959 (1938).",
+				"tr":  "G. Kurdyumov, V. Miretskiy, T. Stelletskaya, ZhTF, VIII: 1959 (1938)."
+			},
+			{
+				"doi": "",
+				"or":  "A. B. Greninger and A.R. Troino, Trans. AIME, 185: 590 (1949).",
+				"tr":  "A. B. Greninger and A.R. Troino, Trans. AIME, 185: 590 (1949)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, В. А. Лободюк, Л. Г. Хандрос, Кристаллография, 6: 210 (1961).",
+				"tr":  "G. V. Kurdyumov, V. A. Lobodyuk, L. G. Khandros, Kristallografiya, 6: 210 (1961)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Tas, L. Delaey, and A. Deruyttere, Met. Trans., 4: 2833 (1973).",
+				"tr":  "H. Tas, L. Delaey, and A. Deruyttere, Met. Trans., 4: 2833 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лободюк, В. К. Ткачук, Л. Г. Хандрос, ФММ, 33: 339 (1972).",
+				"tr":  "V. A. Lobodyuk, V. K. Tkachuk, L. G. Khandros, FMM, 33: 339 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лободюк, В. К. Ткачук, Л. Г. Хандрос, ФММ, 30: 1082 (1970).",
+				"tr":  "V. A. Lobodyuk, V. K. Tkachuk, L. G. Khandros, FMM, 30: 1082 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "S. P. Gupta, A. A. Johnson, and K. Mukherjee, Mater. Sci. Eng., 11: 43 (1973).",
+				"tr":  "S. P. Gupta, A. A. Johnson, and K. Mukherjee, Mater. Sci. Eng., 11: 43 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "S. P. Gupta and A. A. Johnson, Trans. JIM, 14: 292 (1973).",
+				"tr":  "S. P. Gupta and A. A. Johnson, Trans. JIM, 14: 292 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "S. R. Zijlstra, J. Beijer, and J. A. Klostermann, J. Mater. Sci., 9: 145 (1974).",
+				"tr":  "S. R. Zijlstra, J. Beijer, and J. A. Klostermann, J. Mater. Sci., 9: 145 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "H. A. Mohamed and J. Washburn, J. Mater. Sci., 12: 469 (1977).",
+				"tr":  "H. A. Mohamed and J. Washburn, J. Mater. Sci., 12: 469 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Miyazaki, K. Otsuka, and C. M. Wayman, Acta Met., 37: 1837 (1989).",
+				"tr":  "S. Miyazaki, K. Otsuka, and C. M. Wayman, Acta Met., 37: 1837 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "W. S. Owen, E. A. Wilson, and T. Bell, High-strength materials (New York–London: J. Willey Interscience: 1965), р. 167.",
+				"tr":  "W. S. Owen, E. A. Wilson, and T. Bell, High-strength materials (New York–London: J. Willey Interscience: 1965), p. 167."
+			},
+			{
+				"doi": "10.1016/0001-6160(67)90004-1",
+				"or":  "R. P. Reed, Acta Met., 15: 1287 (1967).",
+				"tr":  "R. P. Reed, Acta Met., 15: 1287 (1967)."
+			},
+			{
+				"doi": "",
+				"or":  "P. M. Kelly and J. Nutting, Acta Met., 9: 980 (1961).",
+				"tr":  "P. M. Kelly and J. Nutting, Acta Met., 9: 980 (1961)."
+			},
+			{
+				"doi": "10.1016/0001-6160(62)90101-3",
+				"or":  "R. P. Reed, Acta Met., 10: 865 (1962).",
+				"tr":  "R. P. Reed, Acta Met., 10: 865 (1962)."
+			},
+			{
+				"doi": "10.1016/0001-6160(65)90126-4",
+				"or":  "P. M. Kelly, Acta Met., 13: 635 (1965).",
+				"tr":  "P. M. Kelly, Acta Met., 13: 635 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "J. F. Bredis and L. Kaufman, Met. Trans., 2: 2359 (1971).",
+				"tr":  "J. F. Bredis and L. Kaufman, Met. Trans., 2: 2359 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "B. P. J. Sandvik and C. M. Wayman, Met. Trans. A, 14A: 809 (1983).",
+				"tr":  "B. P. J. Sandvik and C. M. Wayman, Met. Trans. A, 14A: 809 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лободюк, Л. Г. Хандрос, ФММ, 18: 409 (1964).",
+				"tr":  "V. A. Lobodyuk, L. G. Khandros, FMM, 18: 409 (1964)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лободюк, В. К. Ткачук, Л. Г. Хандрос, ФММ, 33: 137 (1971).",
+				"tr":  "V. A. Lobodyuk, V. K. Tkachuk, L. G. Khandros, FMM, 33: 137 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Шимизу, К. Оцука, Эффект памяти формы в сплавах (Москва: Металлургия: 1979), с. 60.",
+				"tr":  "K. Shimizu, K. Otsuka, Effekt pamyati formy v splavakh (Moskva: Metallurgiya: 1979), p. 60."
+			},
+			{
+				"doi": "",
+				"or":  "A. Nagasawa, J. Phys. Soc. Jap., 31: 136 (1971).",
+				"tr":  "A. Nagasawa, J. Phys. Soc. Jap., 31: 136 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "G. R. Speich and P. R. Swann, JISI, 203: 480 (1965).",
+				"tr":  "G. R. Speich and P. R. Swann, JISI, 203: 480 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лободюк, Л. Г. Хандрос, Н. П. Федас, Металлофизика, № 27: 113 (1970).",
+				"tr":  "V. A. Lobodyuk, L. G. Khandros, N. P. Fedas, Metallofizika, No. 27: 113 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Shapiro and G. Krauss, Trans. AIME, 239: 1408 (1967).",
+				"tr":  "S. Shapiro and G. Krauss, Trans. AIME, 239: 1408 (1967)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Pahuta, L. Hyspecka, and K. Mazanec, Microscopie Electron. Paris, 2: 499 (1970).",
+				"tr":  "P. Pahuta, L. Hyspecka, and K. Mazanec, Microscopie Electron. Paris, 2: 499 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Krauss, Acta Met., 11: 499 (1963).",
+				"tr":  "G. Krauss, Acta Met., 11: 499 (1963)."
+			},
+			{
+				"doi": "",
+				"or":  "A. B. Greninger and V.G. Mooradian, Trans. AIME, 128: 337 (1938).",
+				"tr":  "A. B. Greninger and V.G. Mooradian, Trans. AIME, 128: 337 (1938)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Арбузова, Г. В. Курдюмов, Л. Г. Хандрос, ФММ, 11: 263 (1961).",
+				"tr":  "I. A. Arbuzova, G. V. Kurdyumov, L. G. Khandros, FMM, 11: 263 (1961)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Oishi and L. C. Brown, Met. Trans., 2: 1971 (1971).",
+				"tr":  "K. Oishi and L. C. Brown, Met. Trans., 2: 1971 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лободюк, Л. Г. Хандрос, ДАН СССР, 153: 807 (1963).",
+				"tr":  "V. A. Lobodyuk, L. G. Khandros, DAN SSSR, 153: 807 (1963)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лободюк, Л. Г. Хандрос, ФММ, 18: 573 (1964).",
+				"tr":  "V. A. Lobodyuk, L. G. Khandros, FMM, 18: 573 (1964)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Л. Купорев, Л. Г. Хандрос, ФММ, 32: 1322 (1971).",
+				"tr":  "A. L. Kuporev, L. G. Khandros, FMM, 32: 1322 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Otsuka and K. Shimizu, Phil. Mag., 24: 481 (1971).",
+				"tr":  "K. Otsuka and K. Shimizu, Phil. Mag., 24: 481 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Otsuka, T. Nakamura, and K. Shimizu, Trans. JIM, 15: 200 (1974).",
+				"tr":  "K. Otsuka, T. Nakamura, and K. Shimizu, Trans. JIM, 15: 200 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Otsuka, T. Nakamura, and K. Shimizu, Trans. JIM, 15: 211 (1974).",
+				"tr":  "K. Otsuka, T. Nakamura, and K. Shimizu, Trans. JIM, 15: 211 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Otsuka, K. Nakai, and K. Shimizu, Scr. Met., 8: 913 (1974).",
+				"tr":  "K. Otsuka, K. Nakai, and K. Shimizu, Scr. Met., 8: 913 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Rodriguez and L. C. Brown, Met. Trans. A, A7: 265 (1976).",
+				"tr":  "C. Rodriguez and L. C. Brown, Met. Trans. A, A7: 265 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Otsuka, H. Sakamoto, and K. Shimizu, Scr. Met., 9: 491 (1975).",
+				"tr":  "K. Otsuka, H. Sakamoto, and K. Shimizu, Scr. Met., 9: 491 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лободюк, В. К. Ткачук, УФЖ, 23: 1661 (1978).",
+				"tr":  "V. A. Lobodyuk, V. K. Tkachuk, UFZh, 23: 1661 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Otsuka, H. Sakamoto, and K. Shimizu, Scr. Met., 10: 983 (1976).",
+				"tr":  "K. Otsuka, H. Sakamoto, and K. Shimizu, Scr. Met., 10: 983 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Мартынов, Л. Г. Хандрос, ДАН СССР, 233: 345 (1977).",
+				"tr":  "V. V. Martynov, L. G. Khandros, DAN SSSR, 233: 345 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Мартынов, Л. Г Хандрос, ДАН СССР, 237: 1349 (1977).",
+				"tr":  "V. V. Martynov, L. G Khandros, DAN SSSR, 237: 1349 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лободюк, В. К. Ткачук, Л. Г. Хандрос, Металлофизика, № 63: 55 (1976).",
+				"tr":  "V. A. Lobodyuk, V. K. Tkachuk, L. G. Khandros, Metallofizika, No. 63: 55 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лободюк, В. К. Ткачук, Л. Г. Хандрос, ФММ, 37: 198 (1974).",
+				"tr":  "V. A. Lobodyuk, V. K. Tkachuk, L. G. Khandros, FMM, 37: 198 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лободюк, В. К. Ткачук, Л. Г. Хандрос, Металлофизика, № 67: 27 (1977).",
+				"tr":  "V. A. Lobodyuk, V. K. Tkachuk, L. G. Khandros, Metallofizika, No. 67: 27 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Perkins, Phil. Mag., 30: 379 (1974).",
+				"tr":  "J. Perkins, Phil. Mag., 30: 379 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Tas, L. Delaey, and A. Deruyttere, J. Less-Common Metals, 28: 141 (1972).",
+				"tr":  "H. Tas, L. Delaey, and A. Deruyttere, J. Less-Common Metals, 28: 141 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Adachi and J. Perkins, Met. Trans. A, 17A: 945 (1986).",
+				"tr":  "K. Adachi and J. Perkins, Met. Trans. A, 17A: 945 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Коваль, УФМ, 6: 171 (2005).",
+				"tr":  "Yu. N. Koval', UFM, 6: 171 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Коваль, В. В. Немошкаленко, О природе мартенситных превращений (Київ: 1998) (Препр. ІМФ ім. Г. В. Курдюмова НАН Украини, № 1).",
+				"tr":  "Yu. N. Koval', V. V. Nemoshkalenko, O prirode martensitnykh prevrashcheniy (Kyiv: 1998) (Prepr. ІMF іm. G. V. Kurdyumova NAN Ukraini, No. 1)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лободюк, Н. П. Федас, Л. Г. Хандрос, Металлофизика, № 30: 49 (1970).",
+				"tr":  "V. A. Lobodyuk, N. P. Fedas, L. G. Khandros, Metallofizika, No. 30: 49 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "R. T. Read, Phil. Mag., 15: 1051 (1967).",
+				"tr":  "R. T. Read, Phil. Mag., 15: 1051 (1967)."
+			},
+			{
+				"doi": "",
+				"or":  "P. C. Rowlands and E. O. Fearon, Trans. AIME, 242: 1559 (1968).",
+				"tr":  "P. C. Rowlands and E. O. Fearon, Trans. AIME, 242: 1559 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "F. W. Shaller and D. J. Schamtz, Acta Met., 11: 1193 (1963).",
+				"tr":  "F. W. Shaller and D. J. Schamtz, Acta Met., 11: 1193 (1963)."
+			},
+			{
+				"doi": "",
+				"or":  "М. И. Спасский, Л. М. Утевский, Ф. Р. Хашимов, ФММ, 20: 614 (1965).",
+				"tr":  "M. I. Spasskiy, L. M. Utevskiy, F. R. Khashimov, FMM, 20: 614 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лободюк, Изучение субструктуры кристаллов и кристаллографических характеристик при мартенситных превращениях в сплавах на основе меди (Диссертация на соискание ученой степени канд. физ.- мат. наук) (Киев: 1964).",
+				"tr":  "V. A. Lobodyuk, Izuchenie substruktury kristallov i kristallograficheskikh kharakteristik pri martensitnykh prevrashcheniyakh v splavakh na osnove medi (Dissertatsiya na soiskanie uchenoy stepeni kand. fiz.- mat. nauk) (Kiev: 1964)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лободюк, Эффект памяти формы и тонкая структура мартенсита (Киев: Общество «Знание» Украинской ССР. Металлургия: 1980).",
+				"tr":  "V. A. Lobodyuk, Effekt pamyati formy i tonkaya struktura martensita (Kiev: Obshchestvo «Znanie» Ukrainskoy SSR. Metallurgiya: 1980)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лободюк, ФММ, 96: 46 (2003).",
+				"tr":  "V. A. Lobodyuk, FMM, 96: 46 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Baro and H. Gleiter, Acta Met., 22: 141 (1974).",
+				"tr":  "G. Baro and H. Gleiter, Acta Met., 22: 141 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Perkins, Phil. Mag., 30: 379 (1974).",
+				"tr":  "J. Perkins, Phil. Mag., 30: 379 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Lobodyuk, Met. Phys. Adv. Techn., 18: 201 (1999).",
+				"tr":  "V. A. Lobodyuk, Met. Phys. Adv. Techn., 18: 201 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лободюк, В. К. Ткачук, Л. Г. Хандрос, Укр. физ. журн., 22: 460 (1977).",
+				"tr":  "V. A. Lobodyuk, V. K. Tkachuk, L. G. Khandros, Ukr. fiz. zhurn., 22: 460 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Baro and H. Gleiter, Acta Met., 21: 1405 (1973).",
+				"tr":  "G. Baro and H. Gleiter, Acta Met., 21: 1405 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Condo and F. C. Lovey, Scr. Mater., 45: 669 (2001).",
+				"tr":  "A. M. Condo and F. C. Lovey, Scr. Mater., 45: 669 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Kajiwara and T. Kikuchi, Acta Met., 30: 589 (1982).",
+				"tr":  "S. Kajiwara and T. Kikuchi, Acta Met., 30: 589 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Chakravorty and C. M. Wayman, Acta Met., 25: 989 (1977).",
+				"tr":  "S. Chakravorty and C. M. Wayman, Acta Met., 25: 989 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Sinclair and H. A. Mohamed, Acta Met., 26: 623 (1978).",
+				"tr":  "R. Sinclair and H. A. Mohamed, Acta Met., 26: 623 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "F. C. Lovey, G. Van Tendeloo, and G. Van Landuyt, Scr. Met., 21: 1627 (1987).",
+				"tr":  "F. C. Lovey, G. Van Tendeloo, and G. Van Landuyt, Scr. Met., 21: 1627 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "J. M. Penisson and G. Regheere, Mater. Sci. and Eng., A107: 199 (1989).",
+				"tr":  "J. M. Penisson and G. Regheere, Mater. Sci. and Eng., A107: 199 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Adachi and J. Perkins, Metallurg. Trans., 16A: 1551 (1985).",
+				"tr":  "K. Adachi and J. Perkins, Metallurg. Trans., 16A: 1551 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лободюк, Л. Г. Хандрос, Металлофизика, № 17: 170 (1963).",
+				"tr":  "V. A. Lobodyuk, L. G. Khandros, Metallofizika, No. 17: 170 (1963)."
+			},
+			{
+				"doi": "",
+				"or":  "J. W. Howe, Proceeding ICOMAT-92 (1992), p. 185.",
+				"tr":  "J. W. Howe, Proceeding ICOMAT-92 (1992), p. 185."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лободюк, Влияние внешних воздействий на формирование тонкой структуры кристаллов мартенсита и ее связь с эффектом памяти формы (Диссертация на соискание доктора техн. наук) (Киев: 1982).",
+				"tr":  "V. A. Lobodyuk, Vliyanie vneshnikh vozdeystviy na formirovanie tonkoy struktury kristallov martensita i ee svyaz' s effektom pamyati formy (Dissertatsiya na soiskanie doktora tekhn. nauk) (Kiev: 1982)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Мартынов, Г. П. Мартынова, Л. Г. Хандрос, Фазовые превращения при деформации CuAl сплавов (Киев: 1984) (Препр. ИМФ АН УССР).",
+				"tr":  "V. V. Martynov, G. P. Martynova, L. G. Khandros, Fazovye prevrashcheniya pri deformatsii CuAl splavov (Kiev: 1984) (Prepr. IMF AN USSR)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Арбузова, Ю. Н. Коваль, В. В. Мартынов, Л. Г. Хандрос, ФММ, 35: 1278 (1973).",
+				"tr":  "I. A. Arbuzova, Yu. N. Koval', V. V. Martynov, L. G. Khandros, FMM, 35: 1278 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "C. M. Wayman and K. Shimizu, J. Mater. Sci., 6: 175 (1972).",
+				"tr":  "C. M. Wayman and K. Shimizu, J. Mater. Sci., 6: 175 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "B. B. Мартынов, Л. Г. Хандрос, ФММ, 39: 1037 (1975).",
+				"tr":  "B. B. Martynov, L. G. Khandros, FMM, 39: 1037 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "C. M. Wayman, Scr. Met., 5: 489 (1971).",
+				"tr":  "C. M. Wayman, Scr. Met., 5: 489 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Коваль, В. И. Коломыцев, В. А. Лободюк, В. В. Мартынов, Л. Г. Хандрос, Мартенситные превращения в металлах и сплавах (Киев: Наукова думка: 1979), с. 145.",
+				"tr":  "Yu. N. Koval', V. I. Kolomytsev, V. A. Lobodyuk, V. V. Martynov, L. G. Khandros, Martensitnye prevrashcheniya v metallakh i splavakh (Kiev: Naukova dumka: 1979), P. 145."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Ермаков, В. И. Коломыцев, В. А. Лободюк, Л.Г. Хандрос, Состояние высокотемпературной фазы и эффект памяти формы в сплавах титан-никель (Киев: 1980) (Препр. ИМФ АН УССР, № 9.8).",
+				"tr":  "V. M. Ermakov, V. I. Kolomytsev, V. A. Lobodyuk, L.G. Khandros, Sostoyanie vysokotemperaturnoy fazy i effekt pamyati formy v splavakh titan-nikel' (Kiev: 1980) (Prepr. IMF AN USSR, No. 9.8)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Коломыцев, В. А. Лободюк, Л. Г. Хандрос, УФЖ, 24: 348 (1979).",
+				"tr":  "V. I. Kolomytsev, V. A. Lobodyuk, L. G. Khandros, UFZh, 24: 348 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "C. M. Wayman, T. Cornelis, and K. Shimizu, Scr. Met., 6: 115 (1978).",
+				"tr":  "C. M. Wayman, T. Cornelis, and K. Shimizu, Scr. Met., 6: 115 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Mukherjee, F. Millilo, and H. Chandrasekaran, Mater. Sci. Eng., 14: 143 (1974).",
+				"tr":  "K. Mukherjee, F. Millilo, and H. Chandrasekaran, Mater. Sci. Eng., 14: 143 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Kolomytsev, V. A. Lobodyuk, and L. G. Khandros, Phys. Stat. Sol. (a), 50: K127 (1978).",
+				"tr":  "V. I. Kolomytsev, V. A. Lobodyuk, and L. G. Khandros, Phys. Stat. Sol. (a), 50: K127 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Kolomytsev, V. A. Lobodyuk, and L. G. Khandros, Phys. Stat. Sol. (a), 65: 87 (1981).",
+				"tr":  "V. I. Kolomytsev, V. A. Lobodyuk, and L. G. Khandros, Phys. Stat. Sol. (a), 65: 87 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Nagasawa, Phys. Stat. Sol. (a), 8: 531 (1971).",
+				"tr":  "A. Nagasawa, Phys. Stat. Sol. (a), 8: 531 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Арбузова, Ю. Н. Коваль, В. В. Мартынов, Л. Г. Хандрос, ДАН СССР, 206: 841 (1972).",
+				"tr":  "I. A. Arbuzova, Yu. N. Koval', V. V. Martynov, L. G. Khandros, DAN SSSR, 206: 841 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "О. П. Грищенко, В. А. Лободюк, Металлофиз. новейшие технол., 22: 66 (2000).",
+				"tr":  "O. P. Grishchenko, V. A. Lobodyuk, Metallofiz. Noveishie Tekhnol., 22: 66 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Арбузова, Ю. Н. Коваль, В. В. Мартынов, Л. Г. Хандрос, ФММ, 37: 1103 (1974).",
+				"tr":  "I. A. Arbuzova, Yu. N. Koval', V. V. Martynov, L. G. Khandros, FMM, 37: 1103 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Sato, E. Chishima, Y. Yamaji, and T. Mori, Acta Met., 32: 539 (1984).",
+				"tr":  "A. Sato, E. Chishima, Y. Yamaji, and T. Mori, Acta Met., 32: 539 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Zhang, F. Yin, R. Wang, N. Gu, and X. Song, Shape Memory Materials-94—Proceedings of the International Symposium on Shape Memory Materials 94 (Eds. H. Chu and H. Tu) (International Academic Publishers: 1994).",
+				"tr":  "J. Zhang, F. Yin, R. Wang, N. Gu, and X. Song, Shape Memory Materials-94—Proceedings of the International Symposium on Shape Memory Materials 94 (Eds. H. Chu and H. Tu) (International Academic Publishers: 1994)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Otsuka, C. M. Wayman, K. Nakai, H. Sakamoto, and K. Shimizu, Acta Met., 24: 207 (1976).",
+				"tr":  "K. Otsuka, C. M. Wayman, K. Nakai, H. Sakamoto, and K. Shimizu, Acta Met., 24: 207 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Otsuka, H. Sakamoto, and K. Shimizu, Acta Met., 27: 585 (1979).",
+				"tr":  "K. Otsuka, H. Sakamoto, and K. Shimizu, Acta Met., 27: 585 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Miyazaki and K. Otsuka, Met. Trans., 17A: 53 (1986).",
+				"tr":  "S. Miyazaki and K. Otsuka, Met. Trans., 17A: 53 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Otsuka, Jap. J. Appl. Phys., 10: 571 (1971).",
+				"tr":  "K. Otsuka, Jap. J. Appl. Phys., 10: 571 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "S. S. Hsu and J. H. Chen, Scr. Met., 13: 781 (1979).",
+				"tr":  "S. S. Hsu and J. H. Chen, Scr. Met., 13: 781 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Otsuka and C. M. Wayman, Scr. Met., 9: 1017 (1975).",
+				"tr":  "K. Otsuka and C. M. Wayman, Scr. Met., 9: 1017 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Я. Винников, И. Я. Георгиева, Л. Г. Майстренко и др., Металлофизика, вып. 32: 24 (1974).",
+				"tr":  "L. Ya. Vinnikov, I. Ya. Georgieva, L. G. Maystrenko et al., Metallofizika, No. 32: 24 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "K. F. Hale and M. H. Brown, Proc. Roy. Soc. A., 310: 479 (1969).",
+				"tr":  "K. F. Hale and M. H. Brown, Proc. Roy. Soc. A., 310: 479 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. N. Koval, G. S. Firstov, J. Van Humbeeck, L. Delaey, and W.Y. Jang, J. Physique IV, 5: 1103 (1995).",
+				"tr":  "Yu. N. Koval, G. S. Firstov, J. Van Humbeeck, L. Delaey, and W.Y. Jang, J. Physique IV, 5: 1103 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "G. S. Firstov, Yu. N. Koval, and J. Van Humbeeck, J. Physique IV, 7: 549 (1997).",
+				"tr":  "G. S. Firstov, Yu. N. Koval, and J. Van Humbeeck, J. Physique IV, 7: 549 (1997)."
+			}
+		]
+	}
+}

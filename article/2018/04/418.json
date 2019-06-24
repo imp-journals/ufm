@@ -1,0 +1,268 @@
+{
+	"_id":    "UFM.19.04.418",
+	"year":   2018,
+	"volume": 19,
+	"issue":  4,
+	"pages":  [418,441],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["20.08.2018", "18.10.2018"],
+	"PACS":   "07.75.+h, 34.35.+a, 41.75.Ak, 61.80.Lj, 68.49.Sf, 79.20.Rf, 82.80.Ms",
+	"title":   {
+		"ua": "Вторинно-йонна емісія: матричний ефект",
+		"en": "The Secondary-Ion Emission: Matrix Effect",
+		"ru": "Вторично-ионная эмиссия: матричный эффект"
+	},
+	"abstract": {
+		"ua": "У статті описано фізичну природу залежности ймовірности йонізації розпорошених атомів від атомарної й електронної структур металевої мішені, бомбардовуваної йонами нейтральних газів (матричний ефект). Проведено систематичну аналізу літературних даних і результатів авторів даного огляду, одержаних при дослідженні вторинної йонної емісії (ВЙЕ) чистих металів, розбавлених твердих розчинів і концентрованих стопів. Практичну важливість таких досліджень зумовлено тим, що явище ВЙЕ є основою унікальної методи хемічної, ізотопної та фізико-хемічної аналізи не лише металевих матеріялів, але також напівпровідників і органічних речовин. Встановлено високу чутливість ВЙЕ до зміни сил міжатомової взаємодії та параметрів електронної структури. Систематичні дані щодо «ефекту матриці» в емісії вторинних йонів можуть бути основою створення унікальної кількісної методи визначення енергії зв’язку різноманітних атомів у складі багатокомпонентних матеріялів.",
+		"en": "The paper is concerned with the description of the physical nature of the dependence of the sputtered-atoms’ ionization probability on the atomic and electronic structures of a metal target bombarded with ions of neutral gases (matrix effect). A systematic analysis of the literature data and results of authors of this review is carried studying the secondary ion emission (SIE) of pure metals, dilute solid solutions, and concentrated alloys. The practical importance of such studies is because the phenomenon of renewable energy is the basis of a unique method of chemical, isotope as well as physical and chemical analysis not only of metallic materials, but of semiconductors and organic substances too. The high sensitivity of SIE to the change in the forces of interatomic interaction and the parameters of the electronic structure is revealed. Experimental and theoretical studies in this direction have made it possible to deepen the knowledge of the nature of the phenomenon of secondary ion emission that arises when metal targets are bombarded with inert-gas ions, and to outline ways for further studying and applying this phenomenon for diagnostics of solid surfaces and bulks. Particularly, the method of mass-spectrometry of secondary ions based on the SIE can be used to study the phase equilibrium diagrams as well as the first and second kind phase transformations. Taking into account the high sensitivity of SIE to the change in the forces of interatomic interaction and the parameters of the electronic structure, further investigations should be aimed at establishing stricter correlations between these properties of the material and such characteristics of SIE as the emission coefficient and the ionization probability of sputtered atoms. The solution of this problem will create a new quantitative method for determination of the binding energy of various atoms in the composition of multicomponent materials.",
+		"ru": "В статье описана физическая природа зависимости вероятности ионизации распылённых атомов от атомной и электронной структур металлической мишени, бомбардируемой ионами нейтральных газов (матричный эффект). Проведён систематический анализ литературных данных и результатов авторов данного обзора, полученных при исследовании вторичной ионной эмиссии (ВИЭ) чистых металлов, разбавленных твёрдых растворов и концентрированных сплавов. Практическая важность таких исследований обусловлена тем, что явление ВИЭ является основой уникального метода химического, изотопного и физико-химического анализа не только металлических материалов, но также полупроводников и органических веществ. Установлена высокая чувствительность ВИЭ к изменению сил межатомного взаимодействия и параметров электронной структуры. Систематические данные по «эффекту матрицы» в эмиссии вторичных ионов могут быть основой создания уникального количественного метода определения энергии связи различных атомов в составе многокомпонентных материалов."
+	},
+	"keywords": {
+		"ua": "металеві стопи, вторинно-йонна емісія, мас-спектрометрія, хемічна аналіза, ізотопи, енергія зв’язку, електронна структура",
+		"en": "metal alloys, secondary ion emission, mass spectrometry, chemical analysis, isotopes, binding energy, electronic structure",
+		"ru": "металлические сплавы, вторично-ионная эмиссия, масс-спектрометрия, химический анализ, изотопы, энергия связи, электронная структура"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Т. Черепін", "en": "V. T. Cherepin", "ru": "В. Т. Черепин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. О. Васильєв", "en": "M. O. Vasylyev", "ru": "М. А. Васильев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. І. Сидоренко", "en": "S. I. Sidorenko", "ru": "С. И. Сидоренко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "С. М. Волошко", "en": "S. M. Voloshko", "ru": "С. М. Волошко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "І. О. Круглов", "en": "І. O. Kruhlov", "ru": "И. А. Круглов"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 43,
+		"list":  [
+			{
+				"doi": "10.1016/C2009-0-07448-0",
+				"or":  "И. А. Мак-Хью, Методы анализа поверхности (ред. А. В. Зандерна) (Москва: Мир: 1979), глава 6, с. 276 (пер с англ.).",
+				"tr":  "J. A. McHugh, Methods of Surface Analysis (Ed. A. W. Czanderna) (North Holland: Elsevier: 1975), Chapter 6, p. 223."
+			},
+			{
+				"doi": "",
+				"or":  "В. Т. Черепин, М. А. Васильев, Методы и приборы для анализа поверхности материалов: справочник (Киев: Наукова думка: 1982).",
+				"tr":  "V. T. Cherepin and M. A. Vasiliev, Metody i Pribory dlya Analiza Poverkhnosti Materialov: Spravochnik [Methods and Devices for the Materials’ Surface Analysis: A Handbook] (Kiev: Naukova Dumka: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Т. Черепин, М. А. Васильев, Вторичная ионно-ионная эмиссия металлов и сплавов (Киев: Наукова думка: 1975).",
+				"tr":  "V. T. Cherepin and M. A. Vasiliev, Vtorichnaya Ionno-Ionnaya Ehmissiya Metallov i Splavov [Secondary Ion-Ion Emission of Metals and Alloys] (Kiev: Naukova Dumka: 1975) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2015.04.069",
+				"or":  "A. Tynkova, G. L. Katona, G. Erdélyi, L. Daróczi, А. I. Oleshkevych, I. A. Vladymyrskyi, S. I. Sidorenko, S. M. Voloshko, and D. L. Beke, Thin Solid Films, 589: 173 (2015).",
+				"tr":  "A. Tynkova, G. L. Katona, G. Erdélyi, L. Daróczi, А. I. Oleshkevych, I. A. Vladymyrskyi, S. I. Sidorenko, S. M. Voloshko, and D. L. Beke, Thin Solid Films, 589: 173 (2015)."
+			},
+			{
+				"doi": "10.1116/1.4943658",
+				"or":  "P. Jörchel, P. Helm, F. Brunner, A. Thies, O. Krüger, and M. Weyers, J. Vac. Sci. Technol. B, 34, Iss. 3: 03H128 (2016).",
+				"tr":  "P. Jorchel, P. Helm, F. Brunner, A. Thies, O. Kruger, and M. Weyers, J. Vac. Sci. Technol. B, 34, Iss. 3: 03H128 (2016)."
+			},
+			{
+				"doi": "10.1116/1.4941009",
+				"or":  "A. M. Alnajeebi, J. C. Vickerman, and N. P. Lockyer, Biointerphases, 11, Iss. 2: 02A317 (2016).",
+				"tr":  "A. M. Alnajeebi, J. C. Vickerman, and N. P. Lockyer, Biointerphases, 11, Iss. 2: 02A317 (2016)."
+			},
+			{
+				"doi": "10.1016/j.matchemphys.2016.02.041",
+				"or":  "Ch. K. Singh, S. Ilango, S. Dash, and A. K. Tyagi, Mater. Chem. Phys., 173: 475 (2016).",
+				"tr":  "Ch. K. Singh, S. Ilango, S. Dash, and A. K. Tyagi, Mater. Chem. Phys., 173: 475 (2016)."
+			},
+			{
+				"doi": "10.1002/sia.5928",
+				"or":  "B. Gong and Ch. E. Marjo, Surf. Interface Analys., 48, Iss. 7: 422 (2016).",
+				"tr":  "B. Gong and Ch. E. Marjo, Surf. Interface Analys., 48, Iss. 7: 422 (2016)."
+			},
+			{
+				"doi": "10.1007/s13361-016-1492-z",
+				"or":  "H. Tian, A. Wucher, and N. Winograd, J. Am. Soc. Mass Spectrom., 27, Iss. 12: 2014 (2016).",
+				"tr":  "H. Tian, A. Wucher, and N. Winograd, J. Am. Soc. Mass Spectrom., 27, Iss. 12: 2014 (2016)."
+			},
+			{
+				"doi": "10.1016/j.aca.2017.07.042",
+				"or":  "D. Huang, X. Hua, G.-L. Xiu, Y.-J. Zheng, X.-Y. Yu, and Y.-T. Long, Analyt. Chim. Acta, 989: 1 (2017).",
+				"tr":  "D. Huang, X. Hua, G.-L. Xiu, Y.-J. Zheng, X.-Y. Yu, and Y.-T. Long, Analyt. Chim. Acta, 989: 1 (2017)."
+			},
+			{
+				"doi": "10.1002/sia.6214",
+				"or":  "K. Takahashi, S. Aoyagia, and T. Kawashima, Surf. Interface Analys., 49, Iss. 8: 721 (2017).",
+				"tr":  "K. Takahashi, S. Aoyagia, and T. Kawashima, Surf. Interface Analys., 49, Iss. 8: 721 (2017)."
+			},
+			{
+				"doi": "10.1016/j.chemgeo.2017.08.003",
+				"or":  "A. C. Patrick, D. N. Marc, and C. B. Vickie, Chem. Geol., 467: 122 (2017).",
+				"tr":  "A. C. Patrick, D. N. Marc, and C. B. Vickie, Chem. Geol., 467: 122 (2017)."
+			},
+			{
+				"doi": "10.1017/S1431927617005876",
+				"or":  "A. V. Walker, Microsc. Microanal., 23: 1042 (2017).",
+				"tr":  "A. V. Walker, Microsc. Microanal., 23: 1042 (2017)."
+			},
+			{
+				"doi": "10.15407/ufm.19.01.049",
+				"or":  "V. T. Cherepin, M. O. Vasylyev, I. M. Makeeva, V. M. Kolesnik, and S. M. Voloshko, Usp. Fiz. Met., 19, No. 1: 49 (2018).",
+				"tr":  "V. T. Cherepin, M. O. Vasylyev, I. M. Makeeva, V. M. Kolesnik, and S. M. Voloshko, Usp. Fiz. Met., 19, No. 1: 49 (2018)."
+			},
+			{
+				"doi": "10.1016/j.scitotenv.2018.05.118",
+				"or":  "R. R.-M. Smith, S. Sayen, N. Nuns, and E. Berrier, Sci. Total Environment, 639: 841 (2018).",
+				"tr":  "R. R.-M. Smith, S. Sayen, N. Nuns, and E. Berrier, Sci. Total Environment, 639: 841 (2018)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2018.01.065",
+				"or":  "M. P. Seah and A. G. Shard, Appl. Surf. Sci., 439: 605 (2018).",
+				"tr":  "M. P. Seah and A. G. Shard, Appl. Surf. Sci., 439: 605 (2018)."
+			},
+			{
+				"doi": "",
+				"or":  "V. T. Cherepin, Secondary Ion Mass Spectroscopy of Solid Surfaces (The Netherlands, Utrecht: VNU Science Press BV: 1987).",
+				"tr":  "V. T. Cherepin, Secondary Ion Mass Spectroscopy of Solid Surfaces (The Netherlands, Utrecht: VNU Science Press BV: 1987)."
+			},
+			{
+				"doi": "10.1116/1.1492484",
+				"or":  "A. E. Barrington, R. P. K. Herzog, and W. P. Poschensieder, J. Vac. Sci. Technol., 3, Iss. 5: 239 (1966).",
+				"tr":  "A. E. Barrington, R. P. K. Herzog, and W. P. Poschensieder, J. Vac. Sci. Technol., 3, Iss. 5: 239 (1966)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, Ю. Н. Иващенко, В. Т. Черепин, Фазовые превращения (Киев: Наукова думка: 1970), с. 148.",
+				"tr":  "M. A. Vasiliev, Yu. N. Ivashchenko, and V. T. Cherepin, Fazovye Prevrashcheniya (Kiev: Naukova Dumka: 1970), p. 148 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, Ю. Н. Иващенко, В. Т. Черепин, Металлофизика (Киев: Наукова думка: 1973), с. 42.",
+				"tr":  "M. A. Vasiliev, Yu. N. Ivashchenko, and V. T. Cherepin, Metallofizika (Kiev: Naukova Dumka: 1973), p. 42 (in Russian)."
+			},
+			{
+				"doi": "10.1016/0039-6028(79)90358-3",
+				"or":  "G. Blaise and A. Nourtier, Surf. Sci., 90, Iss. 2: 495 (1979).",
+				"tr":  "G. Blaise and A. Nourtier, Surf. Sci., 90, Iss. 2: 495 (1979)."
+			},
+			{
+				"doi": "10.1016/0020-7381(79)80088-1",
+				"or":  "W. H. Gries, Int. J. Mass Spectrom. Ion Phys., 30, Iss. 2: 97 (1979).",
+				"tr":  "W. H. Gries, Int. J. Mass Spectrom. Ion Phys., 30, Iss. 2: 97 (1979)."
+			},
+			{
+				"doi": "10.1103/PhysRev.184.383",
+				"or":  "P. Sigmund, Phys. Rev., 184, Iss. 2: 383 (1969).",
+				"tr":  "P. Sigmund, Phys. Rev., 184, Iss. 2: 383 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, Ю. Н. Иващенко, В. Т. Черепин, Доклады АН УССР, 2: 45 (1970).",
+				"tr":  "M. A. Vasiliev, Yu. N. Ivashchenko, and V. T. Cherepin, Doklady AN USSR, 2: 45 (1970) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0039-6028(73)90026-5",
+				"or":  "J. M. Schroeer, T. N. Rhodin, and R. C. Bradley, Surf. Sci., 34, Iss. 3: 571 (1973).",
+				"tr":  "J. M. Schroeer, T. N. Rhodin, and R. C. Bradley, Surf. Sci., 34, Iss. 3: 571 (1973)."
+			},
+			{
+				"doi": "10.1080/00337577308232221",
+				"or":  "R. Weissmann, R. Stier, and Z. Naturforsch, Rad. Eff., 19, Iss. 2: 69 (1973).",
+				"tr":  "R. Weissmann, R. Stier, and Z. Naturforsch, Rad. Eff., 19, Iss. 2: 69 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Pauling, The Nature of the Chemical Bonds (Ithaca, New-York: Cornel Univ. Press: 1960).",
+				"tr":  "L. Pauling, The Nature of the Chemical Bonds (Ithaca, New-York: Cornel Univ. Press: 1960)."
+			},
+			{
+				"doi": "10.1016/0039-6028(74)90253-2",
+				"or":  "A. K. Vijh, Surf. Sci., 46, Iss. 1: 282 (1974).",
+				"tr":  "A. K. Vijh, Surf. Sci., 46, Iss. 1: 282 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Я. Дехтяр, В. В. Немошкаленко, Электронная структура и электронные свойства переходных металлов и сплавов (Киев: Наукова думка: 1971).",
+				"tr":  "I. Ya. Dekhtyar and V. V. Nemoshkalenko, Ehlektronnaya Struktura i Ehlektronnye Svoistva Perekhodnykh Metallov i Splavov [Electronic Structure and Electronic Properties of Transition Metals and Alloys] (Kiev: Naukova Dumka: 1971) (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF02751483",
+				"or":  "J. Friedel, Nuovo Cimento, 7, Suppl. 2: 287 (1958).",
+				"tr":  "J. Friedel, Nuovo Cimento, 7, Suppl. 2: 287 (1958)."
+			},
+			{
+				"doi": "10.1007/BF03158723",
+				"or":  "M. M. Riedel, J. Antal, and S. Kugler, Acta Phys. Academ. Sci. Hung., 49, Iss. 1–3: 105 (1980).",
+				"tr":  "M. M. Riedel, J. Antal, and S. Kugler, Acta Phys. Academ. Sci. Hung., 49, Iss. 1–3: 105 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "H. C. Z. Beske, Z. Naturforschung, 22a: 459 (1967).",
+				"tr":  "H. C. Z. Beske, Z. Naturforschung, 22a: 459 (1967)."
+			},
+			{
+				"doi": "10.1051/jphys:01975003606054500",
+				"or":  "G. Blaise and M. C. Cadeville, J. Phys. France, 36, No. 6: 545 (1975).",
+				"tr":  "G. Blaise and M. C. Cadeville, J. Phys. France, 36, No. 6: 545 (1975)."
+			},
+			{
+				"doi": "10.15407/ufm.17.03.209",
+				"or":  "М. А. Васильев, С. И. Сидоренко, С. М. Волошко, Т. Ишикава, Успехи физ. мет., 17, № 3: 209 (2016).",
+				"tr":  "M. O. Vasylyev, S. I. Sidorenko, S. M. Voloshko, and T. Ishikawa, Usp. Fiz. Met., 17, No. 3: 209 (2016)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/DDF.280-281.29",
+				"or":  "V. A. Tatarenko, S. M. Bokoch, V. M. Nadutov, T. M. Radchenko, and Y. B. Park, Defect Diffus. Forum, 280–281: 29 (2008).",
+				"tr":  "V. A. Tatarenko, S. M. Bokoch, V. M. Nadutov, T. M. Radchenko, and Y. B. Park, Defect Diffus. Forum, 280–281: 29 (2008)."
+			},
+			{
+				"doi": "10.15407/ufm.09.01.001",
+				"or":  "Т. М. Радченко, В. А. Татаренко, Успехи физ. мет., 9, № 1: 1 (2008).",
+				"tr":  "T. M. Radchenko and V. A. Tatarenko, Usp. Fiz. Met., 9, No. 1: 1 (2008)."
+			},
+			{
+				"doi": "10.1016/0039-6028(84)90391-1",
+				"or":  "F. Henennequin, R.-L. Inglebert, and P. V. De Lesegno, Surf. Sci., 140, Iss. 1: 197 (1984).",
+				"tr":  "F. Henennequin, R.-L. Inglebert, and P. V. De Lesegno, Surf. Sci., 140, Iss. 1: 197 (1984)."
+			},
+			{
+				"doi": "10.1016/0169-4332(88)90086-4",
+				"or":  "M. Abon, J. C. Bertolini, and H. Montes, Appl. Surf. Sci., 32, Iss. 4: 343 (1988).",
+				"tr":  "M. Abon, J. C. Bertolini, and H. Montes, Appl. Surf. Sci., 32, Iss. 4: 343 (1988)."
+			},
+			{
+				"doi": "10.1016/0039-6028(90)90672-U",
+				"or":  "J.-F. Hennequin and J.-L. Bernard, Surf. Sci., 234, Iss. 1–2: 127 (1990).",
+				"tr":  "J.-F. Hennequin and J.-L. Bernard, Surf. Sci., 234, Iss. 1–2: 127 (1990)."
+			},
+			{
+				"doi": "10.1148/radiology.196.2.7617844",
+				"or":  "L. M. Hennequin, O. Fade, J. G. Fays, J. F. Bic, S. Jaafar, A. Bertal, and D. Anthoine, Radiology, 196, No. 2: 45 (1995).",
+				"tr":  "L. M. Hennequin, O. Fade, J. G. Fays, J. F. Bic, S. Jaafar, A. Bertal, and D. Anthoine, Radiology, 196, No. 2: 45 (1995)."
+			},
+			{
+				"doi": "10.1007/s11106-016-9827-7",
+				"or":  "S. A. Firstov, N. A. Krapivka, M. A. Vasiliev, S. I. Sidorenko, S. M. Voloshko, Powder Metall. Met. Ceram., 55, Iss. 7–8: 458 (2016).",
+				"tr":  "S. A. Firstov, N. A. Krapivka, M. A. Vasiliev, S. I. Sidorenko, S. M. Voloshko, Powder Metall. Met. Ceram., 55, Iss. 7–8: 458 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Kittel, Introduction to Solid State Physics, 6th ed. (New York: Jonn Wiley: 1986).",
+				"tr":  "C. Kittel, Introduction to Solid State Physics, 6th ed. (New York: Jonn Wiley: 1986)."
+			},
+			{
+				"doi": "10.1016/j.ijms.2008.03.013",
+				"or":  "U. Bardi, F. Niccolaic, M. Tostic, and A. Tolstogouzov, Int. J. Mass Spectrom., 273, Iss. 3: 138 (2008).",
+				"tr":  "U. Bardi, F. Niccolaic, M. Tostic, and A. Tolstogouzov, Int. J. Mass Spectrom., 273, Iss. 3: 138 (2008)."
+			}
+		]
+	}
+}

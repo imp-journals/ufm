@@ -1,0 +1,209 @@
+{
+	"_id":    "UFM.10.02.207",
+	"year":   2009,
+	"volume": 10,
+	"issue":  2,
+	"pages":  [207,228],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["23.03.2009"],
+	"PACS":   "46.50.+a, 61.72.Hh, 62.20.fk, 62.20.fq, 62.20.mj, 62.20.mm, 62.20.mt",
+	"title":   {
+		"ua": "Механічна стабільність — універсальна міра опору переходу в крихкий стан металу",
+		"en": "Mechanical Stability — Universal Measure of Resistance to Transition in a Brittle State of Metal",
+		"ru": "Механическая стабильность — универсальная мера сопротивления переходу в хрупкое состояние металла"
+	},
+	"abstract": {
+		"ua": "На основі фізичних уявлень про мікромеханізм переходу металу із пластичного стану в крихкий сформульовано уявлення про фізичну природу пластичного стану металу і запропоновано макроскопічні характеристики стабільности пластичного стану металу: «параметер механічної стабільности» $P_{ms}$ і «коефіцієнт механічної стабільности» $K_{ms}$. Введено нову характеристику «силовий еквівалент окрихчування» $E_{m}$, що дозволяє в єдиній шкалі описати окрихчувальну дію таких різних за фізичною природою факторів, як складний напружений стан, концентрація напруг, низькі температури, динамічне навантаження. Одержано критерій, що описує стабільність пластичного стану металу у вершині макротріщини й запропоновано методику експериментального визначення величини параметра $E_{m}$ для стандартного зразка з тріщиною. Для типових представників конструкційних сталей низької, середньої і високої міцности наведено експериментальні значення величини «коефіцієнта механічної стабільности» $K_{ms}$. Виконано співставлення конструкційних сталей за їх здатністю чинити опір крихкому руйнуванню в умовах концентрації напруг.",
+		"en": "Conception of physical nature of ductile state of metal is formulated grounded on physical ideas of micromechanism of ductile-to-brittle transition. Macroscopic characteristics of plastic state stability, namely, ‘the parameter of mechanical stability’, $P_{ms}$, and ‘the coefficient of mechanical stability’, $K_{ms}$, are offered as well. New characteristic—‘the force equivalent of embrittlement’, $E_{m}$, is introduced. It enables to describe equally the effect of embrittlement of such factors different by their nature as combined stress state, stress concentration, low temperatures, dynamic loading. The obtained criterion describes stability of ductile state of metal ahead of macrocrack tip. The technique of experimental finding of the value of $E_{m}$ parameter for standard specimen with a crack is suggested. For typical structural steels of low, medium and high strength, experimental values of the coefficient of mechanical stability, $K_{ms}$, are presented. The structural steels are compared by their ability to resist brittle fracture under the stress concentration.",
+		"ru": "На основе физических представлений о микромеханизме перехода металла из пластичного состояния в хрупкое сформулированы представления о физической природе пластичного состояния металла и предложены макроскопические характеристики стабильности пластического состояния металла: «параметр механической стабильности» $P_{ms}$ и «коэффициент механической стабильности» $K_{ms}$. Введена новая характеристика «силовой эквивалент охрупчивания» $E_{m}$, позволяющая в единой шкале описать охрупчивающее действие таких разных по физической природе факторов, как сложное напряженное состояние, концентрация напряжений, низкие температуры, динамическое нагружение. Получен критерий, описывающий стабильность пластического состояния металла в вершине макротрещины и предложена методика экспериментального определения величины параметра $E_{m}$ для стандартного образца с трещиной. Для типичных представителей конструкционных сталей низкой, средней и высокой прочности приведены экспериментальные значения величины «коэффициента механической стабильности» $K_{ms}$. Проведено сопоставление конструкционных сталей по их способности сопротивляться хрупкому разрушению в условиях концентрации напряжений."
+	},
+	"keywords": {
+		"ua": "пластичний стан, крихкий стан, льокальна напруга руйнування, в'язкість руйнування",
+		"en": "plastic state, brittle state, local fracture stress, fracture toughness",
+		"ru": "пластичное состояние, хрупкое состояние, локальное напряжение разрушения, вязкость разрушения"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. О. Котречко", "en": "S. O. Kotrechko", "ru": "С. А. Котречко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Ю. Я. Мєшков", "en": "Yu. Ya. Meshkov", "ru": "Ю. Я. Мешков"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. В. Шіян", "en": "A. V. Shiyan", "ru": "А. В. Шиян"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  6,
+		"list":  [
+			{
+				"doi": "10.1007/s11003-015-9790-3",
+				"cit": "Yu. Ya. Meshkov, А. V. Shyyan and О. І. Zvirko, <a href=\"https://doi.org/10.1007/s11003-015-9790-3\">Mater Sci <b>50</b>, 830 (2015)</a>."
+			},
+			{
+				"doi": "10.3103/S0967091213120097",
+				"cit": "Yu. Ya. Meshkov, S. A. Kotrechko and A. V. Shiyan, <a href=\"https://doi.org/10.3103/S0967091213120097\">Steel Transl. <b>43</b>, 846 (2013)</a>."
+			},
+			{
+				"doi": "10.3103/S0967091213060107",
+				"cit": "S. A. Kotrechko, Yu. Ya. Meshkov, A. V. Shiyan, E. F. Soroka <i>et al.</i>, <a href=\"https://doi.org/10.3103/S0967091213060107\">Steel Transl. <b>43</b>, 399 (2013)</a>."
+			},
+			{
+				"doi": "10.3103/S0967091213110193",
+				"cit": "A. V. Shiyan, <a href=\"https://doi.org/10.3103/S0967091213110193\">Steel Transl. <b>43</b>, 762 (2013)</a>."
+			},
+			{
+				"doi": "10.3103/S0967091212080050",
+				"cit": "Yu. Ya. Meshkov, S. A. Kotrechko, A. V. Shiyan, V. I. Bol’shakov <i>et al.</i>, <a href=\"https://doi.org/10.3103/S0967091212080050\">Steel Transl. <b>42</b>, 663 (2012)</a>."
+			},
+			{
+				"doi": "10.3103/S0967091214110126",
+				"cit": "Yu. Ya. Meshkov and A. V. Shiyan, <a href=\"https://doi.org/10.3103/S0967091214110126\">Steel Transl. <b>44</b>, 857 (2014)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 27,
+		"list":  [
+			{
+				"doi": "10.1007/BF02663302",
+				"or":  "F. M. Beremin, Metall Trans., A14: 2277 (1983).",
+				"tr":  "F. M. Beremin, Metall Trans., A14: 2277 (1983)."
+			},
+			{
+				"doi": "10.1016/0029-5493(87)90230-5",
+				"or":  "F. Mudry, Nucl. Engng. Des., 105: 65 (1987).",
+				"tr":  "F. Mudry, Nucl. Engng. Des., 105: 65 (1987)."
+			},
+			{
+				"doi": "10.1016/S0013-7944(99)00076-4",
+				"or":  "G. Bernauer, W. Brocks, and W. Schmitt, Engng. Fract. Mech., 64: 305 (1999).",
+				"tr":  "G. Bernauer, W. Brocks, and W. Schmitt, Engng. Fract. Mech., 64: 305 (1999)."
+			},
+			{
+				"doi": "10.1023/A:1013268620186",
+				"or":  "S. Kotrechko and Yu. Ja. Meshkov, Materials Science, 37, No 4: 583 (2001).",
+				"tr":  "S. Kotrechko and Yu. Ja. Meshkov, Materials Science, 37, No 4: 583 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Котречко, Проблемы прочности, № 4: 14 (2003).",
+				"tr":  "S. A. Kotrechko, Problemy prochnosti, No. 4: 14 (2003)."
+			},
+			{
+				"doi": "10.1016/S0013-7944(00)00053-9",
+				"or":  "H. Stockl, R. Boschen, W. Schmitt, I. Varfolomeyev, and J. H. Chen, Engng. Fract. Mech., 67, No 2: 119 (2000).",
+				"tr":  "H. Stockl, R. Boschen, W. Schmitt, I. Varfolomeyev, and J. H. Chen, Engng. Fract. Mech., 67, No 2: 119 (2000)."
+			},
+			{
+				"doi": "10.1016/S0308-0161(98)00083-0",
+				"or":  "B. Z. Margolin, A. G. Gulenko, and V. A. Shvetsova, Int. J. Pres. Ves. Pip., 75, No. 12: 843 (1998).",
+				"tr":  "B. Z. Margolin, A. G. Gulenko, and V. A. Shvetsova, Int. J. Pres. Ves. Pip., 75, No. 12: 843 (1998)."
+			},
+			{
+				"doi": "10.1023/A:1022864513654",
+				"or":  "M. Kroon and J. Faleskog, Int. J. Fract., 118: 99 (2002).",
+				"tr":  "M. Kroon and J. Faleskog, Int. J. Fract., 118: 99 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. Б. Фридман, Механические свойства металлов (Москва: Машиностроение: 1974).",
+				"tr":  "Ya. B. Fridman, Mekhanicheskie svoystva metallov (Moskva: Mashinostroenie: 1974)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Давиденко, Динамические испытания металлов (Москва: ОНТИ: 1936).",
+				"tr":  "N. N. Davidenko, Dinamicheskie ispytaniya metallov (Moskva: ONTI: 1936)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Котречко, Ю. Я. Мешков, УФЖ, 36, № 7: 1087 (1991).",
+				"tr":  "S. A. Kotrechko, Yu. Ya. Meshkov, Ukrainian Journal of Physics, 36, No. 7: 1087 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Котречко, Ю. Я. Мешков, Г. С. Меттус, Металлофизика, 12, № 6: 3 (1990).",
+				"tr":  "S. A. Kotrechko, Yu. Ya. Meshkov, G. S. Mettus, Metallofizika, 12, No. 6: 3 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Котречко, Ю. Я. Мешков, Г. С. Меттус, Д. И. Никоненко, Проблемы прочности, № 1: 72 (2000).",
+				"tr":  "S. A. Kotrechko, Yu. Ya. Meshkov, G. S. Mettus, D. I. Nikonenko, Problemy prochnosti, No. 1: 72 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Владимиров, ФММ, 30, № 3: 450 (1970).",
+				"tr":  "V. I. Vladimirov, Fizika Metallov i Metallovedenie, 30, No. 3: 450 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Владимиров, Физическая природа разрушения металлов (Москва: Металлургия: 1984).",
+				"tr":  "V. I. Vladimirov, Fizicheskaya priroda razrusheniya metallov (Moskva: Metallurgiya: 1984)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Котречко, Металлофиз. новейшие технол., 16, № 10: 37 (1994).",
+				"tr":  "S. A. Kotrechko, Metallofiz. Noveishie Tekhnol., 16, No. 10: 37 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Котречко, Металлофиз. новейшие технол., 23, № 1: 103 (2001).",
+				"tr":  "S. A. Kotrechko, Metallofiz. Noveishie Tekhnol., 23, No. 1: 103 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Бетехтин, В. И. Владимиров, А. Г. Кадомцев, А. И. Петров, Проблемы прочности, № 7: 38 (1979).",
+				"tr":  "V. I. Betekhtin, V. I. Vladimirov, A. G. Kadomtsev, A. I. Petrov, Problemy prochnosti, No. 7: 38 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Я. Мешков, Г. А. Пахаренко, Структура металла и хрупкость стальных изделий (Киев: Наукова думка: 1985).",
+				"tr":  "Yu. Ya. Meshkov, G. A. Pakharenko, Struktura metalla i khrupkost' stal'nykh izdeliy (Kiev: Naukova dumka: 1985)."
+			},
+			{
+				"doi": "10.1016/j.engfracmech.2004.02.009",
+				"or":  "S. R. Bordet, A. D. Karstensen, D. M. Knowles, and C. S. Wiesner, Engng. Fract. Mech., 72: 435 (2005).",
+				"tr":  "S. R. Bordet, A. D. Karstensen, D. M. Knowles, and C. S. Wiesner, Engng. Fract. Mech., 72: 435 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Котречко, Металлофизика, 14, № 5: 37 (1992).",
+				"tr":  "S. A. Kotrechko, Metallofizika, 14, No. 5: 37 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Котречко, Ю. Я. Мешков, Проблемы прочности, № 3: 5 (1999).",
+				"tr":  "S. A. Kotrechko, Yu. Ya. Meshkov, Problemy prochnosti, No. 3: 5 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. С. Писаренко, А. А. Лебедев, Деформирование и прочность материалов при сложном напряженном состоянии (Киев: Наукова думка: 1976).",
+				"tr":  "G. S. Pisarenko, A. A. Lebedev, Deformirovanie i prochnost' materialov pri slozhnom napryazhennom sostoyanii (Kiev: Naukova dumka: 1976)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Kotrechko, Transferability of Fracture Mechanical Characteristics (Ed. I. Dlouhy), NATO Science Series. II. Vol. 78 (Kluwer Academic Publishers: 2002), p. 135.",
+				"tr":  "S. Kotrechko, Transferability of Fracture Mechanical Characteristics (Ed. I. Dlouhy), NATO Science Series. II. Vol. 78 (Kluwer Academic Publishers: 2002), p. 135."
+			},
+			{
+				"doi": "10.1023/A:1022694607292",
+				"or":  "G. Z. Wang, J. H. Chen, and G. H. Liu, Int. J. Fract., 118: 57 (2002).",
+				"tr":  "G. Z. Wang, J. H. Chen, and G. H. Liu, Int. J. Fract., 118: 57 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "I. Dlouhy, M. Holzmann, and Z. Chlup, Transferability of Fracture Mechanical Characteristics (Ed. I. Dlouhy), NATO Science Series. II. Vol. 78 (Kluwer Academic Publishers: 2002), p. 47.",
+				"tr":  "I. Dlouhy, M. Holzmann, and Z. Chlup, Transferability of Fracture Mechanical Characteristics (Ed. I. Dlouhy), NATO Science Series. II. Vol. 78 (Kluwer Academic Publishers: 2002), p. 47."
+			},
+			{
+				"doi": "10.1016/j.engfracmech.2005.07.008",
+				"or":  "H. J. Rathbun, G. R. Odette, T. Yamamoto, and G. E. Lucas, Engng. Fract. Mech., 73: 134 (2006).",
+				"tr":  "H. J. Rathbun, G. R. Odette, T. Yamamoto, and G. E. Lucas, Engng. Fract. Mech., 73: 134 (2006)."
+			}
+		]
+	}
+}

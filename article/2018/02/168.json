@@ -1,0 +1,264 @@
+{
+	"_id":    "UFM.19.02.168",
+	"year":   2018,
+	"volume": 19,
+	"issue":  2,
+	"pages":  [168,184],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["01.05.2018", "03.05.2018"],
+	"PACS":   "43.20.+g, 62.20.De, 68.03.Cd, 68.08.Bc, 68.08.De, 68.35.Np, 68.60.Bs, 81.05.Mh, 81.40.Jj, 81.70.Bt",
+	"title":   {
+		"ua": "Кореляція між поверхневим натягом, роботою адгезії у системах рідкі метали/кераміка та акустичними параметрами",
+		"en": "Correlation between Surface Tension, Work of Adhesion in Liquid Metals/Ceramic Systems, and Acoustic Parameters",
+		"ru": "Корреляция между поверхностным натяжением, работой адгезии в системах жидкие металлы/керамика и акустическими параметрами"
+	},
+	"abstract": {
+		"ua": "В статті вперше демонструється кореляція між акустичними швидкостями, пружніми модулями, густинами та поверхневим натягом, а також роботою адгезії різних рідких металів на фіксованій кераміці. Використовується обчислювальна програма для сканувального акустичного мікроскопу за умов, що є сприятливими задля ґенерування акустичних хвиль. Виявлено, що для конкретних систем усі досліджені акустичні параметри демонструють хорошу залежність від поверхневого натягу та роботи адгезії. Аналіза та кількісне визначення результатів привели до встановлення напівемпіричних формул. Важливість одержаних формул полягає у можливості передбачення поверхневого натягу та роботи адгезії меж поділу метал/кераміка, залежно від пружніх і акустичних характеристик.",
+		"en": "In the paper, a correlation between acoustic velocities, elastic moduli, and densities, with surface tension, and work of adhesion of different liquid metals on a given ceramic is studied and demonstrated. Simulation program is developed and used for scanning acoustic microscopy under operating conditions, which favour the generation of acoustic waves. As found, for the given systems, all investigated acoustic parameters exhibit good dependences with both surface tension and work of adhesion. Analysis and quantification of the results lead to the determination of semi-empirical formulas. The importance of the deduced formulas lies in the possibility of prediction of surface tension and work of adhesion of such metal/ceramic interfaces depending on the elastic and acoustic characteristics.",
+		"ru": "В статье исследуется и впервые демонстрируется корреляция между акустическими скоростями, упругими модулями, плотностями и поверхностным натяжением, а также работой адгезии различных жидких металлов на фиксированной керамике. Используется вычислительная программа для сканирующего акустического микроскопа в условиях, благоприятных для генерирования акустических волн. Обнаружено, что для конкретных систем все исследованные акустические параметры демонстрируют хорошую зависимость от поверхностного натяжения и работы адгезии. Анализ и количественное определение результатов привели к установлению полуэмпирических формул. Важность полученных формул заключается в возможности предсказания поверхностного натяжения и работы адгезии границ раздела метал/керамика в зависимости от упругих и акустических характеристик."
+	},
+	"keywords": {
+		"ua": "поверхневий натяг, робота адгезії, акустичні швидкості, пружні сталі, кераміка, рідкі метали, межа поділу",
+		"en": "surface tension, work of adhesion, acoustic velocities, elastic constants, ceramics, liquid metals, interfaces",
+		"ru": "поверхностное натяжение, работа адгезии, акустические скорости, упругие постоянные, керамика, жидкие металлы, границы раздела"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "З. Хадеф", "en": "Z. Hadef", "ru": "З. Хадеф"},
+			"OID": [520]
+		},
+		{
+			"AID": {"ua": "А. Догман", "en": "A. Doghmane", "ru": "А. Догман"},
+			"OID": [520]
+		},
+		{
+			"AID": {"ua": "К. Камлі", "en": "K. Kamli", "ru": "К. Камли"},
+			"OID": [520]
+		},
+		{
+			"AID": {"ua": "З. Хаджуб", "en": "Z. Hadjoub", "ru": "З. Хаджуб"},
+			"OID": [520]
+		}
+	],
+	"references": {
+		"count": 43,
+		"list":  [
+			{
+				"doi": "10.1016/0167-577X(94)00244-4",
+				"or":  "J. G. Li, Mat. Let., 22, Iss. 3–4: 169 (1995).",
+				"tr":  "J. G. Li, Mat. Let., 22, Iss. 3–4: 169 (1995)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2014.01.049",
+				"or":  "P. H. Mayrhofer, D. Sonnleitner, M. Bartosik, and D. Holec, Surf. Coat. Technol., 244: 52 (2014).",
+				"tr":  "P. H. Mayrhofer, D. Sonnleitner, M. Bartosik, and D. Holec, Surf. Coat. Technol., 244: 52 (2014)."
+			},
+			{
+				"doi": "10.1016/j.commatsci.2013.04.028",
+				"or":  "P. Seiler, M. Baker, and J. Roesler, J. Comput. Mater. Sci., 80: 27 (2013).",
+				"tr":  "P. Seiler, M. Baker, and J. Roesler, J. Comput. Mater. Sci., 80: 27 (2013)."
+			},
+			{
+				"doi": "10.1088/0022-3727/46/26/264007",
+				"or":  "N. J. Ekins-Daukes, K.-H. Lee, L. Hirst, A. Chan, M. Führer, J. Adams, B. Browne, K. W. J. Barnham, P. Stavrinou, and J. Connolly, J. Phys. D: Appl. Phys., 46: 264007 (2013).",
+				"tr":  "N. J. Ekins-Daukes, K.-H. Lee, L. Hirst, A. Chan, M. Führer, J. Adams, B. Browne, K. W. J. Barnham, P. Stavrinou, and J. Connolly, J. Phys. D: Appl. Phys., 46: 264007 (2013)."
+			},
+			{
+				"doi": "10.1002/adem.201300174",
+				"or":  "Y. Imanaka, H. Amada, F. Kumasaka, N. Takahashi, T. Yamasaki, M. Ohfuchi, and C. Kaneta, Adv. Eng. Mater., 15, No. 11: 1129 (2013).",
+				"tr":  "Y. Imanaka, H. Amada, F. Kumasaka, N. Takahashi, T. Yamasaki, M. Ohfuchi, and C. Kaneta, Adv. Eng. Mater., 15, No. 11: 1129 (2013)."
+			},
+			{
+				"doi": "10.1016/j.surfrep.2007.07.001",
+				"or":  "Q. Fu and T. Wagner, Surf. Sci. Rep., 62, Iss. 11: 431 (2007).",
+				"tr":  "Q. Fu and T. Wagner, Surf. Sci. Rep., 62, Iss. 11: 431 (2007)."
+			},
+			{
+				"doi": "10.1007/s10853-015-9536-5",
+				"or":  "G. Triantafyllou and J. T. S. Irvine, J. Mat. Sci., 51, No. 4: 1766 (2016).",
+				"tr":  "G. Triantafyllou and J. T. S. Irvine, J. Mat. Sci., 51, No. 4: 1766 (2016)."
+			},
+			{
+				"doi": "10.1016/j.matlet.2006.10.058",
+				"or":  "A. Kar and A. K. Ray, Mat. Let., 61, Nos. 14–15: 2982 (2007).",
+				"tr":  "A. Kar and A. K. Ray, Mat. Let., 61, Nos. 14–15: 2982 (2007)."
+			},
+			{
+				"doi": "10.1016/S0169-4332(97)00597-7",
+				"or":  "B. Cros, M. F. Vallat, and G. Despaux, Appl. Surf. Sci., 126, Nos. 1–2: 159 (1998).",
+				"tr":  "B. Cros, M. F. Vallat, and G. Despaux, Appl. Surf. Sci., 126, Nos. 1–2: 159 (1998)."
+			},
+			{
+				"doi": "10.1007/978-1-4615-1873-0",
+				"or":  "A. Briggs, Advances in Acoustic Microscopy (New York: Plenum Press: 1995), vol. 1.",
+				"tr":  "A. Briggs, Advances in Acoustic Microscopy (New York: Plenum Press: 1995), vol. 1."
+			},
+			{
+				"doi": "",
+				"or":  "L. Viktorov, Rayleigh and Lamb Waves (New York: Plenum Press: 1967).",
+				"tr":  "L. Viktorov, Rayleigh and Lamb Waves (New York: Plenum Press: 1967)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Doghmane, S. Douafer, and Z. Hadjoub, J. Optoelec. Adv. Mat., 16, Nos. 11–12: 1339 (2014).",
+				"tr":  "A. Doghmane, S. Douafer, and Z. Hadjoub, J. Optoelec. Adv. Mat., 16, Nos. 11–12: 1339 (2014)."
+			},
+			{
+				"doi": "10.1016/j.crhy.2007.08.001",
+				"or":  "Z. Hadjoub, I. Beldi, and A. Doghmane, C. R. Phys., 8, Nos. 7–8: 948 (2007).",
+				"tr":  "Z. Hadjoub, I. Beldi, and A. Doghmane, C. R. Phys., 8, Nos. 7–8: 948 (2007)."
+			},
+			{
+				"doi": "10.1063/1.92198",
+				"or":  "C. G. R. Sheppard and T. Wilson, Appl. Phys. Lett., 38, No. 11: 858 (1981).",
+				"tr":  "C. G. R. Sheppard and T. Wilson, Appl. Phys. Lett., 38, No. 11: 858 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "L. M. Brekhovskikh, Wave in Layered Media (New York: Academic Press: 1980).",
+				"tr":  "L. M. Brekhovskikh, Wave in Layered Media (New York: Academic Press: 1980)."
+			},
+			{
+				"doi": "10.1007/978-3-642-52369-4",
+				"or":  "L. M. Breekhovskikh and O. A. Godin, Acoustics of Layered Media I (Berlin: Springer-Verlag: 1990).",
+				"tr":  "L. M. Breekhovskikh and O. A. Godin, Acoustics of Layered Media I (Berlin: Springer-Verlag: 1990)."
+			},
+			{
+				"doi": "10.1016/j.matlet.2006.05.080",
+				"or":  "M. Doghmane, F. Hadjoub, A. Doghmane, and Z. Hadjoub, Mat. Let., 61, No. 3: 813 (2007).",
+				"tr":  "M. Doghmane, F. Hadjoub, A. Doghmane, and Z. Hadjoub, Mat. Let., 61, No. 3: 813 (2007)."
+			},
+			{
+				"doi": "10.1016/j.jcis.2006.06.025",
+				"or":  "S. Blairs, J. Coll. Interface Sci., 302, No. 1: 312 (2006).",
+				"tr":  "S. Blairs, J. Coll. Interface Sci., 302, No. 1: 312 (2006)."
+			},
+			{
+				"doi": "10.1179/imr.1993.38.4.157",
+				"or":  "B. J. Keene, Int. Mat. Rev., 38, No. 4: 157 (1993).",
+				"tr":  "B. J. Keene, Int. Mat. Rev., 38, No. 4: 157 (1993)."
+			},
+			{
+				"doi": "10.1179/imtlr.1974.19.1.32",
+				"or":  "A. F. Crawley, Int. Met. Rev., 19, No. 1: 32 (1974).",
+				"tr":  "A. F. Crawley, Int. Met. Rev., 19, No. 1: 32 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Baykara, R. H. Hauge, N. Noren, P. Lee, and J. L. Margrave, High Temp. Sci., 32: 113 (1991).",
+				"tr":  "T. Baykara, R. H. Hauge, N. Noren, P. Lee, and J. L. Margrave, High Temp. Sci., 32: 113 (1991)."
+			},
+			{
+				"doi": "10.1021/ja01071a023",
+				"or":  "P. J. Flory, R. A. Orwall, and A. Vrij, J. Am. Chem. Soc., 86, No. 17: 3507 (1964).",
+				"tr":  "P. J. Flory, R. A. Orwall, and A. Vrij, J. Am. Chem. Soc., 86, No. 17: 3507 (1964)."
+			},
+			{
+				"doi": "10.1039/F29807601215",
+				"or":  "D. J. J. Pandey, J. Chem. Soc., Faraday Trans. 1, 76: 1215 (1980).",
+				"tr":  "D. J. J. Pandey, J. Chem. Soc., Faraday Trans. 1, 76: 1215 (1980)."
+			},
+			{
+				"doi": "10.1111/j.1151-2916.1979.tb09483.x",
+				"or":  "R. K. Mishra, G. Thomas, and R. L. Mishra, J. Am. Ceram. Soc., 62, Nos. 5–6: 293 (1979).",
+				"tr":  "R. K. Mishra, G. Thomas, and R. L. Mishra, J. Am. Ceram. Soc., 62, Nos. 5–6: 293 (1979)."
+			},
+			{
+				"doi": "10.1039/F19827801039",
+				"or":  "B. R. Chaturvedi, R. P. Pandey, and J. D. Pandey, J. Chem. Soc., Faraday Trans. 1, 78, No. 4: 1039 (1982).",
+				"tr":  "B. R. Chaturvedi, R. P. Pandey, and J. D. Pandey, J. Chem. Soc., Faraday Trans. 1, 78, No. 4: 1039 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "N. Auerbach, Experientia, 4: 473 (1948).",
+				"tr":  "N. Auerbach, Experientia, 4: 473 (1948)."
+			},
+			{
+				"doi": "10.1021/j100804a046",
+				"or":  "S. W. Mayer, J. Phys. Chem., 67, No. 10: 2160 (1963).",
+				"tr":  "S. W. Mayer, J. Phys. Chem., 67, No. 10: 2160 (1963)."
+			},
+			{
+				"doi": "10.1007/BF01328834",
+				"or":  "N. Y. Taranets and Y. V. Naidich, Powder Metall. Met. Ceram., 35, Nos. 5–6: 282 (1996).",
+				"tr":  "N. Y. Taranets and Y. V. Naidich, Powder Metall. Met. Ceram., 35, Nos. 5–6: 282 (1996)."
+			},
+			{
+				"doi": "10.1007/s11665-016-1990-y",
+				"or":  "A. Passerone, M.L. Muolo, and F. Valenza, J. Mater. Eng. Perform., 25, Iss. 8: 3330 (2016).",
+				"tr":  "A. Passerone, M.L. Muolo, and F. Valenza, J. Mater. Eng. Perform., 25, Iss. 8: 3330 (2016)."
+			},
+			{
+				"doi": "10.1051/jcp/1986830561",
+				"or":  "D. Chatain, I. Rivollet, and N. Eustathopoulos, J. Chem. Phys., 83: 561 (1986).",
+				"tr":  "D. Chatain, I. Rivollet, and N. Eustathopoulos, J. Chem. Phys., 83: 561 (1986)."
+			},
+			{
+				"doi": "10.1016/0272-8842(94)90027-2",
+				"or":  "J. G. Li, Ceramic Int., 20, Iss. 6: 391 (1994).",
+				"tr":  "J. G. Li, Ceramic Int., 20, Iss. 6: 391 (1994)."
+			},
+			{
+				"doi": "10.1111/j.1151-2916.1992.tb04396.x",
+				"or":  "J. G. Li, J. Am. Ceram. Soc., 75, Iss. 11: 3118 (1992).",
+				"tr":  "J. G. Li, J. Am. Ceram. Soc., 75, Iss. 11: 3118 (1992)."
+			},
+			{
+				"doi": "10.1016/B978-0-12-571814-1.50011-7",
+				"or":  "Ju. V. Naidich, Progr. Surface Membrane Sci., 14: 353 (1981).",
+				"tr":  "Ju. V. Naidich, Progr. Surface Membrane Sci., 14: 353 (1981)."
+			},
+			{
+				"doi": "10.1016/j.surfrep.2006.03.002",
+				"or":  "M. C. Munoz, S. Gallego, J. I. Beltran, and J. Cerda, Surf. Sci. Rep., 61, No. 7: 303 (2006).",
+				"tr":  "M. C. Munoz, S. Gallego, J. I. Beltran, and J. Cerda, Surf. Sci. Rep., 61, No. 7: 303 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "J. G. Li, Rare Metals, 12: 84 (1993).",
+				"tr":  "J. G. Li, Rare Metals, 12: 84 (1993)."
+			},
+			{
+				"doi": "10.1111/j.1151-2916.1954.tb13972.x",
+				"or":  "M. Humenik and W. D. Kingery, J. Am. Ceram. Soc., 37, No. 1: 18 (1954).",
+				"tr":  "M. Humenik and W. D. Kingery, J. Am. Ceram. Soc., 37, No. 1: 18 (1954)."
+			},
+			{
+				"doi": "10.1111/j.1151-2916.1970.tb12016.x",
+				"or":  "F. L. Harding and D. R. Rossington, J. Am. Ceram. Soc., 53, No. 2: 87 (1970).",
+				"tr":  "F. L. Harding and D. R. Rossington, J. Am. Ceram. Soc., 53, No. 2: 87 (1970)."
+			},
+			{
+				"doi": "10.1016/0167-577X(92)90047-N",
+				"or":  "J. G. Li and H. Hausner, Mat. Let., 14, Nos. 5–6: 329 (1992).",
+				"tr":  "J. G. Li and H. Hausner, Mat. Let., 14, Nos. 5–6: 329 (1992)."
+			},
+			{
+				"doi": "10.15407/ufm.17.04.375",
+				"or":  "V. V. Kurylyak and G. I. Khimicheva, Usp. Fiz. Met., 17, No. 4: 375 (2016).",
+				"tr":  "V. V. Kurylyak and G. I. Khimicheva, Usp. Fiz. Met., 17, No. 4: 375 (2016)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/DDF.280-281.29",
+				"or":  "V. A. Tatarenko, S. M. Bokoch, V. M. Nadutov, T. M. Radchenko, and Y. B. Park, Defect and Diffusion Forum, 280–281: 29 (2008).",
+				"tr":  "V. A. Tatarenko, S. M. Bokoch, V. M. Nadutov, T. M. Radchenko, and Y. B. Park, Defect and Diffusion Forum, 280–281: 29 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "T. M. Radchenko, V. A. Tatarenko, and S. M. Bokoch, Metallofiz. Noveishie Tekhnol., 28, No. 12: 1699 (2006).",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, and S. M. Bokoch, Metallofiz. Noveishie Tekhnol., 28, No. 12: 1699 (2006)."
+			},
+			{
+				"doi": "10.1016/S0966-9795(03)00174-2",
+				"or":  "V. A. Tatarenko and T. M. Radchenko, Intermetallics, 11, Nos. 11–12: 1319 (2003).",
+				"tr":  "V. A. Tatarenko and T. M. Radchenko, Intermetallics, 11, Nos. 11–12: 1319 (2003)."
+			},
+			{
+				"doi": "10.15407/ufm.18.02.155",
+				"or":  "V. V. Kurylyak and G. I. Khimicheva, Usp. Fiz. Met., 18, No. 2: 155 (2017).",
+				"tr":  "V. V. Kurylyak and G. I. Khimicheva, Usp. Fiz. Met., 18, No. 2: 155 (2017)."
+			}
+		]
+	}
+}

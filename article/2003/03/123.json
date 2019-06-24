@@ -1,0 +1,725 @@
+{
+	"_id":    "UFM.04.03.123",
+	"year":   2003,
+	"volume": 4,
+	"issue":  3,
+	"pages":  [123,233],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["03.06.2003"],
+	"PACS":   "61.25.Mv, 61.46.+w, 61.50.Lt, 61.72.Ff, 61.72.Mm, 81.07.Bc",
+	"title":   {
+		"ua": "Спонтанне фрагментування металів в області фазових перетворень",
+		"en": "Spontaneous Fragmentation of Metals in Range of Phase Transformations",
+		"ru": "Спонтанное фрагментирование металлов в области фазовых превращений"
+	},
+	"abstract": {
+		"ua": "Наводяться дані про зміни когезійних енергій (на 1–2%) в ОЦК- і ГЦК-фазах заліза та міді при збільшенні параметрів граток до значень, що відповідають стадії передплавління. З урахуванням схованої теплоти плавлення ці зміни складають 4–5% і свідчать про відсутність фізичних причин для поатомного розупорядкування розплаву. Різка залежність когезійної енергії від параметрів гратки призводить до виникнення великих напружень (у порівнянні з міцністними характеристиками і напруженнями Пайєрлса). Цей процес при нагріванні кристалів до температур, що перевищують у 1,5–2 рази дебаївські, призводить до множинного народження дислокацій, а їх полігонізація — до спонтанного фрагментування структури. Оборотність цього явища при охолодженні свідчить про те, що термічно активовані полігональні процеси відображають виникнення нового ступеня вільності руху атомів при термічній активації твердих тіл. Результати структурних досліджень металів (in situ) охоплюють криогенні температури, стадії передплавлення, плавлення, нагріву розплаву і затвердіння. Охолодження заліза і хрому до температур $\\leq 140$ К призводить до спонтанного фрагментування їх зерен. Процес супроводжується виникненням двійників і утворенням витягнутих комірчастих дислокаційних структур. Нагрівання плівок чистих металів (Fe, Cu, Ni, Ag і Au) вище температури Дебая призводить до початку спонтанного фрагментування зерен. При подальшому підвищенні температури до стадії передплавлення фрагментування підсилюється, а щільність дислокацій досягає величин $\\sim 10^{11}$ см$^2$. Перехід металів в межах області схованої теплоти плавлення супроводжується кластерним фрагментуванням на блоки когерентного розсіювання величиною $\\sim 3–5$ нм. Процес супроводжується виникненням явища коалесценції і посиленням броунівської рухливості структурних фрагментів розплаву. В ущільненому стані така система була б подібна до сильнодеформованої зі щільністю дислокацій $\\sim 10^{13}$ см$^2$. Сильно нагрітий розплав є розупорядкованим до кластера. Течія розплаву призводить до його розшарування на структурні поліфрагменти, що успадковуються при затвердінні. Початкова стадія затвердіння супроводжується збільшенням на порядок (і більше) кількості кристалічних нанофрагментів, що зіставляється зі зниженням щільності дислокацій на два (і більше) порядки ($\\leq 10^{11}$ см$^2$). Наступне зменшення температури призводить до росту наноструктурних фрагментів.",
+		"en": "The data on changing cohesion energies (by 1–2%) in b.c.c. and f.c.c. phases of iron and cupper at increasing lattice parameters up to values corresponding to premelting stage are presented. Taking into account the latent heat of melting, these changes compose 4–5% and testify about an absence of the physical causes for atomwise disordering of a melt. The sharp dependence of cohesion energy on lattice parameter causes the appearing of large tensions in comparison with strength characteristics and Peierls tensions. This process during heating of crystals up to temperatures higher the Debye temperature by 1.5–2 times causes the multiple generation of dislocations, and their polygonization— to spontaneous fragmentation of a structure. The reversibility of this phenomenon during a cooling testifies that thermally-activated polygonal processes manifests arising new degrees of freedom of atoms’ motion at thermal activation of solids. The results of structural investigations (in situ) of metals embrace the cryogenic temperatures, stages of premelting, melting, heating of melt, and solidification. The cooling of iron and chromium up to the temperatures $\\leq 140$ К causes the spontaneous fragmentation of their grains. The process is provided with an arising of twinnings and formation of growing cellular dislocation structures. According to data of electron microscopy, heating of films of pure metals (Fe, Cu, Ni, Ag, and Au) up to the temperatures higher the Debye temperature leads to beginning of spontaneous fragmentation of grains. At further elevation of temperature up to the premelting stage, the phenomenon of fragmentation is increasing, and dislocation density reaches the values $\\sim 10^{11}$ sm$^2$. The transition of metals within the range of latent heat of melting is accompanied with cluster fragmentation on blocks of coherent scattering with a size $\\sim 3–5$ nm. This process accompanies an appearing of coalescence and increasing of Brownian mobility of structural fragments of a melt. In compressed state, such a system would be similar to a heavily-deformed one with a dislocation density $\\sim 10^{13}$ sm$^2$. Very overheated melt is disordered up to the cluster level. A flow of the melt causes its separation onto structural polyfragments, which are inherited during a solidification. The initial stage of solidification accompanies an increasing (by an order of magnitude and more) of a number of crystalline nanofragments that is compared with a decreasing of dislocation density (by two orders of magnitude and more). The aftercooling leads to the creation of nanostructural fragments.",
+		"ru": "Приводятся данные об изменениях когезионных энергий (на 1–2%) в ОЦК- и ГЦК-фазах железа и меди при увеличении параметров решеток до значений, соответствующих стадии предплавления. С учетом скрытой теплоты плавления эти изменения составляют 4–5% и свидетельствуют об отсутствии физических причин для поатомного разупорядочения расплава. Резкая зависимость когезионной энергии от параметра решетки приводит к возникновению больших напряжений (в сравнении с прочностными характеристиками и напряжениями Пайерлса). Этот процесс при нагреве кристаллов до температур, превышающих в 1,5–2 раза дебаевские, приводит к множественному рождению дислокаций, а их полигонизация — к спонтанному фрагментированию структуры. Обратимость этого явления при охлаждении свидетельствует, что термически активируемые полигональные процессы отражают возникновение новой степени свободы движения атомов при термической активации твердых тел. Результаты структурных исследований металлов (in situ) охватывают криогенные температуры, стадии предплавления, плавления, нагрева расплава и затвердевания. Охлаждение железа и хрома до температур $\\leq 140$ К приводит к спонтанному фрагментированию их зерен. Процесс сопровождается возникновением двойников и образованием вытянутых ячеистых дислокационных структур. Нагрев пленок чистых металлов (Fe, Cu, Ni, Ag и Au) выше температуры Дебая приводит к началу спонтанного фрагментирования зерен. При дальнейшем повышении температуры до стадии предплавления фрагментирование усиливается, а плотность дислокаций достигает величин $\\sim 10^{11}$ см$^2$. Переход металлов в пределах области скрытой теплоты плавления сопровождается кластерным фрагментированием на блоки когерентного рассеяния величиной $\\sim 3–5$ нм. Процесс сопровождается возникновением свойства коалесценции и усилением броуновской подвижности структурных фрагментов расплава. В уплотненном состоянии такая система была бы сходной с сильнодеформированной системой с плотностью дислокаций $\\sim 10^{13}$ см$^2$. Сильно нагретый расплав разупорядочен до кластера. Течение расплава приводит к его расслаиванию на структурные полифрагменты, которые наследуются при затвердевании. Начальная стадия затвердевания сопровождается увеличением на порядок (и более) количества кристаллических нанофрагментов, что сопоставляется с понижением плотности дислокаций на два (и более) порядка ($\\leq 10^{11}$ см$^2$). Последующее уменьшение температуры приводит к росту наноструктурных фрагментов."
+	},
+	"keywords": {
+		"ua": "фрагментування, розплав, кластер, розшарування, наноструктура",
+		"en": "fragmentation, melt, cluster, delamination, nanostructure",
+		"ru": "фрагментирование, расплав, кластер, расслаивание, наноструктура"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. П. Майборода", "en": "V. P. Majboroda", "ru": "В. П. Майборода"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "А. П. Шпак", "en": "A. P. Shpak", "ru": "А. П. Шпак"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Ю. А. Куницький", "en": "Yu. A. Kunitskiy", "ru": "Ю. А. Куницкий"},
+			"OID": [16]
+		}
+	],
+	"references": {
+		"count": 136,
+				"list":  [
+			{
+				"doi": "",
+				"or":  "Х. Зак, Внутреннее трение и дефекты в металлах (Москва: Металлургия: 1965), с. 307.",
+				"tr":  "Kh. Zak, Vnutrennee trenie i defekty v metallakh (Moskva: Metallurgiya: 1965), p. 307."
+			},
+			{
+				"doi": "",
+				"or":  "А. Новик, Б. Берри, Релаксационные явления к кристаллах (Москва: Атомиздат: 1975).",
+				"tr":  "A. Novik, B. Berri, Relaksatsionnye yavleniya k kristallakh (Moskva: Atomizdat: 1975)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Лариков, Л. М. Бакланова, А. Г. Драчинская, А. Н. Устинов, Металлы, № 5: 182 (1978).",
+				"tr":  "L. N. Larikov, L. M. Baklanova, A. G. Drachinskaya, A. N. Ustinov, Metally, No. 5: 182 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Хоникомб, Пластическая деформация металлов (Москва: Мир: 1972).",
+				"tr":  "R. Khonikomb, Plasticheskaya deformatsiya metallov (Moskva: Mir: 1972)."
+			},
+			{
+				"doi": "10.1103/PhysRev.162.549",
+				"or":  "R. Stedman, L. Almqvist, and G. Nilsson, Phys. Rev., 162: 549 (1967).",
+				"tr":  "R. Stedman, L. Almqvist, and G. Nilsson, Phyp. Rev., 162: 549 (1967)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Новикова, Тепловое расширение твердых тел (Москва: Наука: 1974).",
+				"tr":  "S. I. Novikova, Teplovoe rasshirenie tverdykh tel (Moskva: Nauka: 1974)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, А. П. Шпак, Ю. А. Куницкий, Структурные аспекты теории плавления и затвердевания (Киев: Академпериодика: 2002).",
+				"tr":  "V. P. Maiboroda, A. P. Shpak, Yu. A. Kunitskii, Strukturnye aspekty teorii plavleniya i zatverdevaniya (Kiev: Akademperiodika: 2002)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Гаврилин, Плавление и кристаллизация металлов и сплавов (Владимир: 2000).",
+				"tr":  "I. V. Gavrilin, Plavlenie i kristallizatsiya metallov i splavov (Vladimir: 2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Лейбрид, Микроскопическая теория механических и тепловых свойств кристаллов (Москва–Ленинград: Физматгиз: 1963).",
+				"tr":  "G. Leibrid, Mikroskopicheskaya teoriya mekhanicheskikh i teplovykh svoistv kristallov (Moskva–Leningrad: Fizmatgiz: 1963)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, А. А. Лисенко, В. П. Майборода, Ю. А. Куницкий, Металлофиз. новейшие технол., 25, № 7: 843 (2003).",
+				"tr":  "A. P. Shpak, A. A. Lisenko, V. P. Maiboroda, Yu. A. Kunitskii, Metallofiz. noveishie tekhnol., 25, No. 7: 843 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Фридель, Физика металлов. I. Электроны (Ред. Дж. Займан) (Москва: Мир: 1972).",
+				"tr":  "Dzh. Fridel', Fizika metallov. I. Elektrony (Red. Dzh. Zaiman) (Moskva: Mir: 1972)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Лисенко, В. П. Майборода, В. Л. Бекенев и др., Зависимость электронной структуры ОЦК- и ГЦК-фаз железа от параметра решетки (Киев: 1985) (Препр./АН УССР. ИПМ. № 15, 1985).",
+				"tr":  "A. A. Lisenko, V. P. Maiboroda, V. L. Bekenev et al., Zavisimost' elektronnoi struktury OTsK- i GTsK-faz zheleza ot parametra reshetki (Kiev: 1985) (Prepr./AN USSR. IPM. No. 15, 1985)."
+			},
+			{
+				"doi": "10.1103/PhysRev.136.B864",
+				"or":  "P. Hohenberg and W. Kohn, Phys Rev., 136, No. 3B: 864 (1964).",
+				"tr":  "P. Hohenberg and W. Kohn, Phys Rev., 136, No. 3B: 864 (1964)."
+			},
+			{
+				"doi": "10.1103/PhysRev.140.A1133",
+				"or":  "W. Kohn and L. J. Sham, Phys. Rev., 140, No. 4A: 1133 (1965).",
+				"tr":  "W. Kohn and L. J. Sham, Phyp. Rev., 140, No. 4A: 1133 (1965)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.9.3985",
+				"or":  "J. F. Janak, Phys. Rev., B9, No. 10: 3985 (1974).",
+				"tr":  "J. F. Janak, Phyp. Rev., B9, No. 10: 3985 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "V. L. Moruzzi, J. F. Janak, and A. R. Williams, Calculated Electronic Properties of Metals (New York: Pergamon Press: 1978).",
+				"tr":  "V. L. Moruzzi, J. F. Janak, and A. R. Williams, Calculated Electronic Properties of Metals (New York: Pergamon Press: 1978)."
+			},
+			{
+				"doi": "10.1002/pssb.2221980208",
+				"or":  "A. G. Milevskii, A. A. Lisenko, M. M. Morozov, and E. A. Zhurakovskii, Phys. Stat. Sol. (b), 198, No. 2: 629 (1996).",
+				"tr":  "A. G. Milevskii, A. A. Lisenko, M. M. Morozov, and E. A. Zhurakovskii, Phyp. Stavol. Sol. (b), 198, No. 2: 629 (1996)."
+			},
+			{
+				"doi": "10.1088/0022-3719/4/14/022",
+				"or":  "L. Hedin and B. I. Lundqvist, J. Phys. C: Solid State Phys., 4, No. 14: 2064 (1971).",
+				"tr":  "L. Hedin and B. I. Lundqvist, J. Phyp. C: Solid State Phyp., 4, No. 14: 2064 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, В. І. Іващенко, Г. О. Максимова, Укр. физ. журн., 39, № 7–8: 869 (1994).",
+				"tr":  "V. P. Maiboroda, V. I. Ivashchenko, G. O. Maksimova, Ukr. fiz. zhurn., 39, No. 7–8: 869 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Лариков, Ю. Ф. Юрченко, Тепловые свойства металлов и сплавов (Киев: Наук. думка: 1985).",
+				"tr":  "L. N. Larikov, Yu. F. Yurchenko, Teplovye svoistva metallov i splavov (Kiev: Nauk. dumka: 1985)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Хирт, И. Лоте, Теория дислокаций (Москва: Атомиздат: 1972).",
+				"tr":  "J. Chirt, I. Lote, Teoriya dislokatsii (Moskva: Atomizdat: 1972)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Вонсовский, Магнетизм (Москва: Наука: 1971).",
+				"tr":  "P. V. Vonsovskii, Magnetizm (Moskva: Nauka: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Новиков, Дефекты кристаллического строения (Москва: Металлургия: 1975).",
+				"tr":  "I. I. Novikov, Defekty kristallicheskogo stroeniya (Moskva: Metallurgiya: 1975)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Косевич, Физическая механика реальных кристаллов (Киев: Наук. думка: 1981).",
+				"tr":  "A. M. Kosevich, Fizicheskaya mekhanika real'nykh kristallov (Kiev: Nauk. dumka: 1981)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Стенли, Фазовые переходы и критические явления (Москва: Мир: 1973).",
+				"tr":  "G. Stenli, Fazovye perekhody i kriticheskie yavleniya (Moskva: Mir: 1973)."
+			},
+			{
+				"doi": "",
+				"or":  "В. К. Григорович, Электронное строение и термодинамика сплавов железа (Москва: Наука: 1970).",
+				"tr":  "V. K. Grigorovich, Elektronnoe stroenie i termodinamika splavov zheleza (Moskva: Nauka: 1970)."
+			},
+			{
+				"doi": "",
+				"or":  "Свойства элементов. Справочник (Москва: Металлургия: 1985).",
+				"tr":  "Svoistva elementov. Spravochnik (Moskva: Metallurgiya: 1985)."
+			},
+			{
+				"doi": "10.1063/1.555761",
+				"or":  "P. D. Desai, J. Phys. Chem. Ref. Data., 15, No. 3: 967 (1986).",
+				"tr":  "P. D. Desai, J. Phyp. Chem. Ref. Data., 15, No. 3: 967 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Зиновьев, Теплофизические свойства металлов при высоких температурах. Справочник (Москва: Металлургия: 1989).",
+				"tr":  "V. E. Zinov'ev, Teplofizicheskie svoistva metallov pri vysokikh temperaturakh. Spravochnik (Moskva: Metallurgiya: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "Ya. A. Kraftmakher and T. Yu. Peinegina, Phys. Stat. Sol., 42: 151 (1970).",
+				"tr":  "Ya. A. Kraftmakher and T. Yu. Peinegina, Phyp. Stavol. Sol., 42: 151 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Г. Кожевников, Л. А. Новицкий, Теплофизические свойства материалов при низких температурах. Справочник (Москва: Машиностроение: 1982).",
+				"tr":  "I. G. Kozhevnikov, L. A. Novitskii, Teplofizicheskie svoistva materialov pri nizkikh temperaturakh. Spravochnik (Moskva: Mashinostroenie: 1982)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Манжуев, С. Г. Талуц, М. И. Сандакова, Б. В. Власов, В. Е. Зиновьев, Физ. мет. металловед., 201 (1989).",
+				"tr":  "V. M. Manzhuev, P. G. Taluts, M. I. Sandakova, B. V. Vlasov, V. E. Zinov'ev, Fiz. mevol. metalloved., 201 (1989)."
+			},
+			{
+				"doi": "10.1063/1.1661710",
+				"or":  "D. J. Dever, J. Appl. Phys., 43: 3293 (1972).",
+				"tr":  "D. J. Dever, J. Appl. Phyp., 43: 3293 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. И. Гарбер, А. И. Ковалев, Завод. лаб., № 4: 477 (1958).",
+				"tr":  "R. I. Garber, A. I. Kovalev, Zavod. lab., No. 4: 477 (1958)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. В. Новиков, Н. В. Филин, Н. И. Городынский и др. Прочность материалов и конструкций криогенной техники (Ред. Н. В. Новиков) (Киев: Наук. думка: 1992).",
+				"tr":  "N. V. Novikov, N. V. Filin, N. I. Gorodynskii et al. Prochnost' materialov i konstruktsii kriogennoi tekhniki (Red. N. V. Novikov) (Kiev: Nauk. dumka: 1992)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ф. Войтенко, Ю. Д. Скрипник, Н. Г. Соловьева, Прочность материалов и конструкций при низких температурах (Киев: Наук. думка: 1984), с. 52.",
+				"tr":  "A. F. Voitenko, Yu. D. Skripnik, N. G. Solov'eva, Prochnost' materialov i konstruktsii pri nizkikh temperaturakh (Kiev: Nauk. dumka: 1984), p. 52."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, Ю. В. Мильман, С. А. Фирстов, Физические основы прочности металлов (Киев: Наук. думка: 1975).",
+				"tr":  "V. I. Trefilov, Yu. V. Mil'man, S. A. Firstov, Fizicheskie osnovy prochnosti metallov (Kiev: Nauk. dumka: 1975)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Халл, Разрушение твердых тел (Москва: Металлургия: 1967), с. 222.",
+				"tr":  "D. Khall, Razrushenie tverdykh tel (Moskva: Metallurgiya: 1967), p. 222."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Старцев, В. А. Ильичев, В. В. Пустовалов, Пластичность и прочность металлов и сплавов при низких температурах (Москва: Металлургия: 1975).",
+				"tr":  "V. I. Startsev, V. A. Il'ichev, V. V. Pustovalov, Plastichnost' i prochnost' metallov i splavov pri nizkikh temperaturakh (Moskva: Metallurgiya: 1975)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Стрижало, Циклическая прочность и ползучесть металлов при малоцикловом нагружении в условиях низких и высоких температур (Киев: Наук. думка: 1977), с. 157.",
+				"tr":  "V. A. Strizhalo, Tsiklicheskaya prochnost' i polzuchest' metallov pri malotsiklovom nagruzhenii v usloviyakh nizkikh i vysokikh temperatur (Kiev: Nauk. dumka: 1977), p. 157."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, Г. А. Максимова, Металлы, № 1: 117 (1993).",
+				"tr":  "V. P. Maiboroda, G. A. Maksimova, Metally, No. 1: 117 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, В. Ф. Моисеев, Э. П. Печковский, ДАН УССР. Сер. А, № 11: 81 (1985).",
+				"tr":  "V. I. Trefilov, V. F. Moiseev, E. P. Pechkovskii, DAN USSR. Ser. A, No. 11: 81 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Хирш, Р. Николсон, А. Хови, Д. Пэшли и др., Электронная микроскопия тонких кристаллов (Москва: Мир: 1968).",
+				"tr":  "P. Khirsh, R. Nikolson, A. Khovi, D. Peshli et al., Elektronnaya mikroskopiya tonkikh kristallov (Moskva: Mir: 1968)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Пушин, Р. Р. Романова, Ю. Д. Тяпкин и др., Физ. мет. металловед., 43, № 4: 826 (1977).",
+				"tr":  "V. G. Pushin, R. R. Romanova, Yu. D. Tyapkin et al., Fiz. mevol. metalloved., 43, No. 4: 826 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. И. Горбачев, П. Г. Иваницкий, В. Т. Кротенко и др., Укр. физ. журн., 18, № 9: 1528 (1973).",
+				"tr":  "B. I. Gorbachev, P. G. Ivanitskii, V. T. Krotenko et al., Ukr. fiz. zhurn., 18, No. 9: 1528 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Лысак, Я. Н. Вовк, Ю. М. Полищук, Завод. лаб., № 8: 1021 (1968).",
+				"tr":  "L. I. Lysak, Ya. N. Vovk, Yu. M. Polishchuk, Zavod. lab., No. 8: 1021 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "V. P. Maiboroda, V. M. Adeev, G. A. Maksimova, and G. M. Molchanovskaya, Proc. of International Conf. ‘Science for Materials in the Frontier of Centuries: Advantages and Challenges’ (Nov. 4–8, 2002) (Kyiv: Ukraine: 2002), vol. 1, p. 167.",
+				"tr":  "V. P. Maiboroda, V. M. Adeev, G. A. Maksimova, and G. M. Molchanovskaya, Proc. of International Conf. 'Science for Materials in the Frontier of Centuries: Advantages and Challenges' (Nov. 4–8, 2002) (Kyiv: Ukraine: 2002), vol. 1, p. 167."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Кайбышев, Пластичность и сверхпластичность металлов (Москва: Металлургия: 1984).",
+				"tr":  "O. A. Kaibyshev, Plastichnost' i sverkhplastichnost' metallov (Moskva: Metallurgiya: 1984)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Кайбышев, Сверхпластичность промышленных сплавов (Москва: Металлугия: 1984).",
+				"tr":  "O. A. Kaibyshev, Sverkhplastichnost' promyshlennykh splavov (Moskva: Metallugiya: 1984)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Гуляев, Сверхпластичность стали (Москва: Металлургия: 1982), с. 56.",
+				"tr":  "A. P. Gulyaev, Sverkhplastichnost' stali (Moskva: Metallurgiya: 1982), p. 56."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Гуляев, Л. М. Сарманова, МиТОМ, № 4: 43 (1972).",
+				"tr":  "A. P. Gulyaev, L. M. Sarmanova, MiTOM, No. 4: 43 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Ф. Волынова, А. П. Гуляев, МиТОМ, № 3: 24 (1981).",
+				"tr":  "T. F. Volynova, A. P. Gulyaev, MiTOM, No. 3: 24 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Р. Имаев, Физ. мет. металловед., 64, вып. 4: 824 (1987).",
+				"tr":  "M. R. Imaev, Fiz. mevol. metalloved., 64, No. 4: 824 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, Г. А. Максимова, Изв. АН СССР. Металлы, № 6: 67 (1990).",
+				"tr":  "V. P. Maiboroda, G. A. Maksimova, Izv. AN SSSR. Metally, No. 6: 67 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Тимофеев, Теплофизичекие свойства веществ и материалов, № 19: 108 (1983).",
+				"tr":  "V. N. Timofeev, Teplofizichekie svoistva veshchestv i materialov, No. 19: 108 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, Г. А. Максимова, Металлофиз., 12, № 5: 127 (1990).",
+				"tr":  "V. P. Maiboroda, G. A. Maksimova, Metallofiz., 12, No. 5: 127 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Л. Рево, В. П. Майборода, К. О. Іваненко, І. П. Шевченко, Вісник Київського університету. Серія: фізико-математичні науки, вип. 1: 482 (2000).",
+				"tr":  "P. L. Revo, V. P. Maiboroda, K. O. Ivanenko, I. P. Shevchenko, Visnik Kyivs'kogo universitetu. Seriya: fiziko-matematichni nauki, No. 1: 482 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Пушин, Л. И. Юрченко, С. П. Павлова, Ю. Э. Турхан, Физ. мет. металловед., 66, № 4: 777 (1988).",
+				"tr":  "V. G. Pushin, L. I. Yurchenko, S. P. Pavlova, Yu. E. Turkhan, Fiz. mevol. metalloved., 66, No. 4: 777 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Бялік, В. С. Черненко, В. М. Писаренко, Ю. Н. Москаленко, Металознавство (Київ: Політехніка: 2002).",
+				"tr":  "O. M. Byalik, V. p. Chernenko, V. M. Pisarenko, Yu. N. Moskalenko, Metaloznavstvo (Kyiv: Politekhnika: 2002)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, Г. А. Максимова, Тез. докл. VI Всесоюзн. конф. «Физика разрушения» (26–28 сентября 1989 г.) (Киев: ИПМ АН УССР: 1989), ч. 1, с. 82.",
+				"tr":  "V. P. Maiboroda, G. A. Maksimova, Tez. dokl. VI Vsesoyuzn. konf. «Fizika razrusheniya» (26–28 sentyabrya 1989 g.) (Kiev: IPM AN USSR: 1989), ch. 1, p. 82."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, Г. А. Максимова, МиТОМ, № 5: 28 (1992).",
+				"tr":  "V. P. Maiboroda, G. A. Maksimova, MiTOM, No. 5: 28 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, Г. О. Максимова, Г. М. Молчановська, С. Л. Рево, Вісник Київського університету. Серія: Фізико-математичні науки, вип. 2: 517 (2000).",
+				"tr":  "V. P. Maiboroda, G. O. Maksimova, G. M. Molchanovs'ka, S. L. Revo, Visnik Kyivs'kogo universitetu. Seriya: Fiziko-matematichni nauki, No. 2: 517 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Ашкрофт, Н. Мермин, Физика твердого тела (Москва: Мир: 1979), т. 2, с. 88.",
+				"tr":  "N. Ashkroft, N. Mermin, Fizika tverdogo tela (Moskva: Mir: 1979), vol. 2, p. 88."
+			},
+			{
+				"doi": "",
+				"or":  "В. І. Трефілов, В. П. Майборода, Г. О. Максимова, Г. М. Молчановська, С. Л. Рево, Вісник Київського університету. Серія: фізико-математичні науки, вип. 4: 530 (2000).",
+				"tr":  "V. I. Trefilov, V. P. Maiboroda, G. O. Maksimova, G. M. Molchanovs'ka, p. L. Revo, Visnik Kyivs'kogo universitetu. Seriya: fiziko-matematichni nauki, No. 4: 530 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "V. P. Maiboroda, G. A. Maksimova, and G. M. Molchanovskaya, Proc. of Inter-national Conf. ‘Science for Materials in the Frontier of Centuries: Advantages and Challenges’ (November 4–8, 2002) (Kyiv, Ukraine: 2002), vol. 1, p. 165.",
+				"tr":  "V. P. Maiboroda, G. A. Maksimova, and G. M. Molchanovskaya, Proc. of Inter-national Conf. 'Science for Materials in the Frontier of Centuries: Advantages and Challenges' (November 4–8, 2002) (Kyiv, Ukraine: 2002), vol. 1, p. 165."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. М. Перельман, А. Я. Зворыкин и Н. В. Гудыма, Кобальт (Москва: Изд. АН СССР: 1949).",
+				"tr":  "F. M. Perel'man, A. Ya. Zvorykin i N. V. Gudyma, Kobal't (Moskva: Izd. AN SSSR: 1949)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, А. А. Лисенко, Исследование природы возникновения ультрамелкокристаллической реечной структуры железа на стадии предплавления (Киев: 1986) (Препр./АН УССР. ИПМ. № 12, 1986).",
+				"tr":  "V. P. Maiboroda, A. A. Lisenko, Issledovanie prirody vozniknoveniya ul'tramelkokristallicheskoi reechnoi struktury zheleza na stadii predplavleniya (Kiev: 1986) (Prepr./AN USSR. IPM. No. 12, 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Коттрелл, Теория дислокаций (Москва: Мир: 1969).",
+				"tr":  "A. Kottrell, Teoriya dislokatsii (Moskva: Mir: 1969)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, Л. М. Утевский, Р. И. Энтин, Превращение в железе и стали (Москва: Наука: 1977).",
+				"tr":  "G. V. Kurdyumov, L. M. Utevskii, R. I. Entin, Prevrashchenie v zheleze i stali (Moskva: Nauka: 1977)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Амелинкс, Методы прямого наблюдения дислокаций (Москва: Мир: 1968).",
+				"tr":  "S. Amelinks, Metody pryamogo nablyudeniya dislokatsii (Moskva: Mir: 1968)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лихачев, В. В. Рыбин, Изв. АН СССР. Сер. физ., 37, № 11: 2433 (1973).",
+				"tr":  "V. A. Likhachev, V. V. Rybin, Izv. AN SSSR. Ser. fiz., 37, No. 11: 2433 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Рыбин, В. Н. Переверзенцев, ФТТ, № 17: 3188 (1975).",
+				"tr":  "V. V. Rybin, V. N. Pereverzentsev, FTT, No. 17: 3188 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Переверзенцев, А. С. Рубцов, В. В. Рыбин, ФТТ, № 18: 3247 (1976).",
+				"tr":  "V. N. Pereverzentsev, A. p. Rubtsov, V. V. Rybin, FTT, No. 18: 3247 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "П. И. Полухин, С. С. Горелик, В. К. Воронцов, Физические основы пластической деформации (Москва: Металлургия: 1982).",
+				"tr":  "P. I. Polukhin, S. S. Gorelik, V. K. Vorontsov, Fizicheskie osnovy plasticheskoi deformatsii (Moskva: Metallurgiya: 1982)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, Металлы, № 3: 43 (1993).",
+				"tr":  "V. P. Maiboroda, Metally, No. 3: 43 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. С. Уманский, Рентгенография металлов (Москва: Металлургия: 1967).",
+				"tr":  "Ya. S. Umanskii, Rentgenografiya metallov (Moskva: Metallurgiya: 1967)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Миркин, Справочник по рентгеноструктурному анализу поликристаллов (Москва: Наука: 1961).",
+				"tr":  "L. I. Mirkin, Spravochnik po rentgenostrukturnomu analizu polikristallov (Moskva: Nauka: 1961)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, Исследование процессов структурообразования в металлах при фазовых переходах (Дисс. ... д-ра ... н.) (Киев: Киевский госуниверситет: 1991).",
+				"tr":  "V. P. Maiboroda, Issledovanie protsessov strukturoobrazovaniya v metallakh pri fazovykh perekhodakh (Disp. ... d-ra ... n.) (Kiev: Kievskii gosuniversitet: 1991)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, Влияние обработки расплава на структуру и плотность цинка. Деп. ВИНИТИ от 17.05.90, № 2711-В90 (Металлофиз., № 5: (1990)).",
+				"tr":  "V. P. Maiboroda, Vliyanie obrabotki rasplava na strukturu i plotnost' tsinka. Dep. VINITI ot 17.05.90, No. 2711-V90 (Metallofiz., No. 5: (1990))."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, Тез. докл. VI Всесоюзн. конф. «Физика разрушения» (26–28 сент. 1989) (Киев: 1989), с. 322.",
+				"tr":  "V. P. Maiboroda, Tez. dokl. VI Vsesoyuzn. konf. «Fizika razrusheniya» (26–28 senvol. 1989) (Kiev: 1989), p. 322."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, Пластические свойства и структура меди на стадии предплавления. Деп.ВИНИТИ от 27.09.90, № 5168-В90 (Металлофиз., №1 (1991)).",
+				"tr":  "V. P. Maiboroda, Plasticheskie svoistva i struktura medi na stadii predplavleniya. Dep.VINITI ot 27.09.90, No. 5168-V90 (Metallofiz., No.1 (1991))."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, Изв. АН СССР. Металлы, № 4: 49 (1990).",
+				"tr":  "V. P. Maiboroda, Izv. AN SSSR. Metally, No. 4: 49 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Чалмерс, Теория затвердевания (Москва: Металлургия: 1968).",
+				"tr":  "B. Chalmers, Teoriya zatverdevaniya (Moskva: Metallurgiya: 1968)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Р. Вилсон, Структура жидких металлов и сплавов (Москва: Металлургия: 1972).",
+				"tr":  "D. R. Vilson, Struktura zhidkikh metallov i splavov (Moskva: Metallurgiya: 1972)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, Физ. хим. обработки материалов, № 3: 30 (1996).",
+				"tr":  "V. P. Maiboroda, Fiz. khim. obrabotki materialov, No. 3: 30 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. М. Утевский, Дифракционная электронная микроскопия в металловедении (Москва: Металлургия: 1973).",
+				"tr":  "L. M. Utevskii, Difraktsionnaya elektronnaya mikroskopiya v metallovedenii (Moskva: Metallurgiya: 1973)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Ватолин, Э. А. Пастухов, Дифракционные исследования строения высокотемпературных расплавов (Москва: Наука: 1980).",
+				"tr":  "N. A. Vatolin, E. A. Pastukhov, Difraktsionnye issledovaniya stroeniya vysokotemperaturnykh rasplavov (Moskva: Nauka: 1980)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Горелик, Л. Н. Расторгуев, Ю. А. Скаков, Рентгенографический и электроннооптический анали (Москва: Металлургия: 1970).",
+				"tr":  "S. S. Gorelik, L. N. Rastorguev, Yu. A. Skakov, Rentgenograficheskii i elektronnoopticheskii anali (Moskva: Metallurgiya: 1970)."
+			},
+			{
+				"doi": "",
+				"or":  "V. H. Richter and G. Breitling, Metallkunde, 1, No. 9: 628 (1970).",
+				"tr":  "V. H. Richter and G. Breitling, Metallkunde, 1, No. 9: 628 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, А. Б. Мельник, Укр. физ. журн., 39, № 7–8: 826 (1994).",
+				"tr":  "A. P. Shpak, A. B. Mel'nik, Ukr. fiz. zhurn., 39, No. 7–8: 826 (1994)."
+			},
+			{
+				"doi": "10.1088/0305-4608/17/3/002",
+				"or":  "B. R. Orton, G. R. Marba, and A. T. Steel, J. Phys. F: Metal Phys., 17: 45 (1987).",
+				"tr":  "B. R. Orton, G. R. Marba, and A. T. Steel, J. Phyp. F: Metal Phyp., 17: 45 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Барьяхтар, Л. Е. Михайлова, А. Г. Ильинский и др., ЖЭТФ, 95, № 4: 1404 (1989).",
+				"tr":  "V. G. Bar'yakhtar, L. E. Mikhailova, A. G. Il'inskii et al., ZhETF, 95, No. 4: 1404 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Д. Бернал, Успехи химии, 60, № 10: 1312 (1961).",
+				"tr":  "Dzh. D. Bernal, Uspekhi khimii, 60, No. 10: 1312 (1961)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Д. Бернал, Кристаллография, 7, № 4: 505 (1962).",
+				"tr":  "Dzh. D. Bernal, Kristallografiya, 7, No. 4: 505 (1962)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. И. Френкель, Кинетическая теория жидкостей (Ленинград: Наука: 1975).",
+				"tr":  "Ya. I. Frenkel', Kineticheskaya teoriya zhidkostei (Leningrad: Nauka: 1975)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Крокстон, Физика жидкого состояния (Москва: Мир: 1978).",
+				"tr":  "K. Krokston, Fizika zhidkogo sostoyaniya (Moskva: Mir: 1978)."
+			},
+			{
+				"doi": "",
+				"or":  "V. P. Maiboroda and A. K. Sinelnichenko, Proc. of International Conf. ‘Science for Materials in the Frontier of Centuries: Advantages and Challenges’ (November 4–8, 2002) (Kyiv, Ukraine: 2002), vol. 1, p. 171.",
+				"tr":  "V. P. Maiboroda and A. K. Sinelnichenko, Proc. of International Conf. 'Science for Materials in the Frontier of Centuries: Advantages and Challenges' (November 4–8, 2002) (Kyiv, Ukraine: 2002), vol. 1, p. 171."
+			},
+			{
+				"doi": "",
+				"or":  "С. Л. Рево, В. С. Копань, В. П. Майборода, Внутреннее трение в металлах и неорганических соединениях (Москва: Наука: 1982), с. 147.",
+				"tr":  "P. L. Revo, V. S. Kopan', V. P. Maiboroda, Vnutrennee trenie v metallakh i neorganicheskikh soedineniyakh (Moskva: Nauka: 1982), p. 147."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, Расплавы, № 2: 82 (1996).",
+				"tr":  "V. P. Maiboroda, Rasplavy, No. 2: 82 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, В. И. Трефилов, Г. А. Максимова, С. Л. Рево, Металлофиз. новейшие технол., 19, № 8: 19 (1997).",
+				"tr":  "V. P. Maiboroda, V. I. Trefilov, G. A. Maksimova, p. L. Revo, Metallofiz. noveishie tekhnol., 19, No. 8: 19 (1997)."
+			},
+			{
+				"doi": "10.1098/rstb.1952.0012",
+				"or":  "A. V. Turning, Phil. Trans. Roy. Soc. Ser. B, 237: 37 (1952).",
+				"tr":  "A. V. Turning, Phil. Tranp. Roy. Soc. Ser. B, 237: 37 (1952)."
+			},
+			{
+				"doi": "10.1016/0040-6090(91)90286-7",
+				"or":  "V. P. Maiboroda, Thin Solid Films, 195, Nо. 1–2: 357 (1991).",
+				"tr":  "V. P. Maiboroda, Thin Solid Films, 195, No. 1–2: 357 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, Расплавы, № 3: 117 (1991).",
+				"tr":  "V. P. Maiboroda, Rasplavy, No. 3: 117 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, Укр. физ. журн., 36, № 7: 1083 (1991).",
+				"tr":  "V. P. Maiboroda, Ukr. fiz. zhurn., 36, No. 7: 1083 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Т. Бойко, Л. С. Палатник, Н. И. Редькина, Физ. мет. металловед., 13, вып. 4: 555 (1962).",
+				"tr":  "B. T. Boiko, L. p. Palatnik, N. I. Red'kina, Fiz. mevol. metalloved., 13, No. 4: 555 (1962)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Комник, Кристаллография, вып. 2: 213 (1966).",
+				"tr":  "Yu. F. Komnik, Kristallografiya, No. 2: 213 (1966)."
+			},
+			{
+				"doi": "10.1080/14786437708244947",
+				"or":  "R. M. J. Cotterill and J. K. Kristensen, Phil. Mag., No. 2: 453 (1977).",
+				"tr":  "R. M. J. Cotterill and J. K. Kristensen, Phil. Mag., No. 2: 453 (1977)."
+			},
+			{
+				"doi": "10.1071/PH850209",
+				"or":  "J. L. Tallon and R. M. J. Cotterill, Australian J. of Physics, 38, No. 2: 209 (1985).",
+				"tr":  "J. L. Tallon and R. M. J. Cotterill, Australian J. of Physics, 38, No. 2: 209 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, Тез. докл. 2-й Всесоюзн. конф. «Физикохимия ультрадисперсных систем» (17–21 окт. 1989) (Юрмала: 1989), с. 240.",
+				"tr":  "V. P. Maiboroda, Tez. dokl. 2-i Vsesoyuzn. konf. 'Fizikokhimiya ul'tradispersnykh sistem' (17–21 okvol. 1989) (Yurmala: 1989), p. 240."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, Расплавы, № 4: 105 (1991).",
+				"tr":  "V. P. Maiboroda, Rasplavy, No. 4: 105 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, Г. А. Максимова, А. К. Синельниченко, Расплавы, № 6: 13 (1994).",
+				"tr":  "V. P. Maiboroda, G. A. Maksimova, A. K. Sinel'nichenko, Rasplavy, No. 6: 13 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, Г. А. Максимова, А. К. Синельниченко, Укр. физ. журн., № 11: 1752 (1991).",
+				"tr":  "V. P. Maiboroda, G. A. Maksimova, A. K. Sinel'nichenko, Ukr. fiz. zhurn., No. 11: 1752 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, Г. А. Максимова, Укр. физ. журн., 38, № 2: 251 (1993).",
+				"tr":  "V. P. Maiboroda, G. A. Maksimova, Ukr. fiz. zhurn., 38, No. 2: 251 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Кубашевский, Б. Гонкинс, Окисление металлов и сплавов (Москва: Металлургия: 1965).",
+				"tr":  "O. Kubashevskii, B. Gonkins, Okislenie metallov i splavov (Moskva: Metallurgiya: 1965)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Нефедов, Рентгеноэлектронная спектроскопия химических соединений: Справочник (Москва: Химия: 1984).",
+				"tr":  "V. I. Nefedov, Rentgenoelektronnaya spektroskopiya khimicheskikh soedinenii: Spravochnik (Moskva: Khimiya: 1984)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, Расплавы, № 4: 19 (1992).",
+				"tr":  "V. P. Maiboroda, Rasplavy, No. 4: 19 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Лесник, Металлофиз., 6, № 1: 64 (1984).",
+				"tr":  "A. G. Lesnik, Metallofiz., 6, No. 1: 64 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, Г. О. Максимова, Г. М. Молчановська, Укр. физ. журн., 41, № 11–12: 1063 (1996).",
+				"tr":  "V. P. Maiboroda, G. O. Maksimova, G. M. Molchanovs'ka, Ukr. fiz. zhurn., 41, No. 11–12: 1063 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, Г. О. Максимова, С. Л. Рево и др., Вісник Київського університету, Серія: Фізико-математичні науки, вип. 3: 452 (2000).",
+				"tr":  "V. P. Maiboroda, G. O. Maksimova, p. L. Revo et al., Visnik Kyivs'kogo universitetu, Seriya: Fiziko-matematichni nauki, No. 3: 452 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Уббелоде, Плавление и кристаллическая структура (Москва: Мир: 1969).",
+				"tr":  "A. Ubbelode, Plavlenie i kristallicheskaya struktura (Moskva: Mir: 1969)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, В. И. Трефилов и др., Металлы, № 2: 124 (1999).",
+				"tr":  "V. P. Maiboroda, V. I. Trefilov et al., Metally, No. 2: 124 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Иевлев, Л. И. Трусов, В. А. Холмянский, Структурные превращения в тонких пленках (Москва: Металлургия: 1982).",
+				"tr":  "V. M. Ievlev, L. I. Trusov, V. A. Kholmyanskii, Strukturnye prevrashcheniya v tonkikh plenkakh (Moskva: Metallurgiya: 1982)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, Исследование закономерности переохлаждения жидкого железа от температуры перегрева (Киев: 1987) (Препр./АН УССР. ИПМ. № 11, 1987).",
+				"tr":  "V. P. Maiboroda, Issledovanie zakonomernosti pereokhlazhdeniya zhidkogo zheleza ot temperatury peregreva (Kiev: 1987) (Prepr./AN USSR. IPM. No. 11, 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Костюченко, О. П. Федоров, Металлофизика, 7, № 4: 65 (1985).",
+				"tr":  "V. P. Kostyuchenko, O. P. Fedorov, Metallofizika, 7, No. 4: 65 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Духин, Проблемы металловедения и физика металлов (Москва: Металлургиздат: 1959), т. 6, с. 9.",
+				"tr":  "A. I. Dukhin, Problemy metallovedeniya i fizika metallov (Moskva: Metallurgizdat: 1959), vol. 6, p. 9."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, Расплавы, № 5: 64 (1995).",
+				"tr":  "V. P. Maiboroda, Rasplavy, No. 5: 64 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "V. P. Maiboroda and Yu. A. Kynitskiy, Proc. of International Conf. ‘Science for Materials in the Frontier of Centuries: Advantages and Challenges’ (Nov. 4–8, 2002) (Kyiv, Ukraine: 2002).",
+				"tr":  "V. P. Maiboroda and Yu. A. Kynitskiy, Proc. of International Conf. 'Science for Materials in the Frontier of Centuries: Advantages and Challenges' (Nov. 4–8, 2002) (Kyiv, Ukraine: 2002)."
+			},
+			{
+				"doi": "10.1016/0001-6160(62)90180-3",
+				"or":  "G. A. Chadwick, Acta Met., 10, No. 1: 1 (1962).",
+				"tr":  "G. A. Chadwick, Acta Met., vol., 10, No. 1: 1 (1962)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, Г. О. Максимова, Г. М. Молчановська и др., Вісник Київського університету, Серія: Фізико-математичні науки, вип. 2: 520 (2000).",
+				"tr":  "V. P. Maiboroda, G. O. Maksimova, G. M. Molchanovs'ka et al., Visnik Kyivs'kogo universitetu, Seriya: Fiziko-matematichni nauki, No. 2: 520 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, Расплавы, № 3: 115 (1991).",
+				"tr":  "V. P. Maiboroda, Rasplavy, No. 3: 115 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, В. А. Макара, Г. М. Молчановська та ін., Доп. НАН України, № 11: 64 (2001).",
+				"tr":  "V. P. Maiboroda, V. A. Makara, G. M. Molchanovs'ka et al., Dop. NAN Ukrayini, No. 11: 64 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Майборода, Укр. физ. журн., 36, № 6: 904 (1991).",
+				"tr":  "V. P. Maiboroda, Ukr. Fiz. Zhurn., 36, No. 6: 904 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, Б. А. Мельник, В. Д. Краля и др., Процессы литья, № 1: 20 (1996).",
+				"tr":  "A. P. Shpak, B. A. Mel'nik, V. D. Kralya et al., Protsessy lit'ya, No. 1: 20 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Иванова, Л. К. Гордиенко, Новые пути повышения прочности металлов (Москва: Наука: 1964).",
+				"tr":  "V. S. Ivanova, L. K. Gordienko, Novye puti povysheniya prochnosti metallov (Moskva: Nauka: 1964)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Иванова, А. С. Балакин, И. Ж. Букин, А. Л. Оксагаев, Синергетика и фракталы в материаловедении (Моква: Наука: 1994).",
+				"tr":  "V. S. Ivanova, A. S. Balakin, I. Zh. Bukin, A. L. Oksagaev, Sinergetika i fraktaly v materialovedenii (Mokva: Nauka: 1994)."
+			},
+			{
+				"doi": "",
+				"or":  "А. С. Бакай, И. М. Михайловский, Т. И. Мазилова, Н. Вандерка, Физ. низких температур, 28, вып. 4: (2002).",
+				"tr":  "A. S. Bakai, I. M. Mikhailovskii, T. I. Mazilova, N. Vanderka, Fiz. nizkikh temperatur, 28, No. 4: (2002)."
+			}
+		]
+	}
+}

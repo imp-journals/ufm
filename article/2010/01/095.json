@@ -1,0 +1,823 @@
+{
+	"_id":    "UFM.11.01.095",
+	"year":   2010,
+	"volume": 11,
+	"issue":  1,
+	"pages":  [95,138],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["12.01.2010", "04.03.2010"],
+	"PACS":   "61.48.Gh,63.22.Rc,65.80.Ck,68.65.Pq,72.80.Vp,73.22.Pr,78.67.Wj,81.05.ue",
+	"title":   {
+		"ua": "Графенові системи: способи виготовлення й оброблення, структуроутворення та функціональні властивості",
+		"en": "Graphene Systems: Methods of Fabrication and Treatment, Structure Formation, and Functional Properties",
+		"ru": "Графеновые системы: способы изготовления и обработки, структурообразование и функциональные свойства"
+	},
+	"abstract": {
+		"ua": "Оглянуто літературні дані стосовно графенової структури, в тім числі, леґованої, основних метод виготовлення й оброблення та фізичних властивостей, які уможливлюють використання цього функціонального наноматеріялу. Теоретично описано впорядковані розподіли атомів заміщення по вузлах двовимірної щільникової ґратниці за різних складів і температур. Визначено області значень енергетичних параметрів міжатомових взаємодій, що сприяли б низькотемпературній стабільності надструктур на графеновій основі. Навіть короткосяжні міжатомові взаємодії забезпечили б стабільність одних надструктур, проте лише далекосяжні взаємодії стабілізували б інші надструктури. Конкуренція внутрішньопідґратницевих і міжпідґратницевих міжатомових взаємодій та домінування в ній (за енергією) останніх уможливили б часову немонотонність релаксації атомового порядку.",
+		"en": "The literary data on the structure, basic methods of fabrication and treatment as well as physical properties of graphene, including a doped one, which enable use of it as a functional nanomaterial, are reviewed. Ordered distributions of substitutional atoms over the sites of a two-dimensional honeycomb lattice at different compositions and temperatures are described theoretically. The ranges of values of interatomic-interaction energy parameters promoting the low-temperature stability of graphene-based superstructures are determined. Even the short-range interatomic interactions provide a stability of some superstructures, while the long-range interactions only stabilize other ones. The competition of intrasublattice and intersublattice interatomic interactions and the domination of the last ones (by energies) enable a time nonmonotony of the atomic-order-parameter relaxation.",
+		"ru": "Обозреваются литературные данные о графеновой структуре, в том числе, легированной, основных методах изготовления и обработки, а также физических свойствах, которые делают возможным использование этого функционального наноматериала. Теоретически описаны упорядоченные распределения атомов замещения по узлам двумерной сотовой решётки при разных составах и температурах. Определены области значений энергетических параметров межатомных взаимодействий, которые способствовали бы низкотемпературной стабильности сверхструктур на графеновой основе. Даже короткодействующие межатомные взаимодействия обеспечивали бы стабильность одних сверхструктур, однако лишь дальнедействующие взаимодействия стабилизировали бы другие сверхструктуры. Конкуренция внутриподрешёточных и межподрешёточных межатомных взаимодействий и доминирование в ней (по энергии) последних сделали бы возможной временную немонотонность релаксации атомного порядка."
+	},
+	"keywords": {
+		"ua": "щільникова ґратниця, графен, леґування, домішка, міжатомові взаємодії, далекий атомовий порядок, енергетична стабільність",
+		"en": "honeycomb lattice, graphene, doping, impurity, interatomic interactions, long-range atomic order, energy stability",
+		"ru": "сотовая решётка, графен, легирование, примесь, межатомные взаимодействия, дальний атомный порядок, энергетическая стабильность"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. Ю. Сагалянов", "en": "I. Yu. Sagalyanov", "ru": "И. Ю. Сагалянов"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "Ю. І. Прилуцький", "en": "Yu. I. Prylutskyy", "ru": "Ю. И. Прилуцкий"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "Т. М. Радченко", "en": "T. M. Radchenko", "ru": "Т. М. Радченко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. А. Татаренко", "en": "V. A. Tatarenko", "ru": "В. А. Татаренко"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  6,
+		"list":  [
+			{
+				"doi": "10.1140/epjb/e2017-80091-x",
+				"cit": "Iyor Yu. Sagalianov, Taras M. Radchenko, Yuriy I. Prylutskyy, Valentyn A. Tatarenko <i>et al.</i>, <a href=\"https://doi.org/10.1140/epjb/e2017-80091-x\">Eur. Phys. J. B <b>90</b>, 112 (2017)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.18.01.059",
+				"cit": "P. P. Gorbyk, M. V. Abramov, I. V. Dubrovin, S. M. Makhno <i>et al.</i>, <a href=\"https://doi.org/10.15407/ufm.18.01.059\">Usp. Fiz. Met. <b>18</b>, 59 (2017)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.18.02.155",
+				"cit": "V. V. Kurylyak and G. I. Khimicheva, <a href=\"https://doi.org/10.15407/ufm.18.02.155\">Usp. Fiz. Met. <b>18</b>, 155 (2017)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.11.03.369",
+				"cit": "L. L. Kondratenko, O. V. Mykhailenko, Yu. I. Prylutskyy, T. M. Radchenko <i>et al.</i>, <a href=\"https://doi.org/10.15407/ufm.11.03.369\">Usp. Fiz. Met. <b>11</b>, 369 (2010)</a>."
+			},
+			{
+				"doi": "10.1002/mawe.201300094",
+				"cit": "T.M. Radchenko and V.A. Tatarenko, <a href=\"https://doi.org/10.1002/mawe.201300094\">Mat.-wiss. u. Werkstofftech. <b>44</b>, 231 (2013)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.17.04.375",
+				"cit": "V. V. Kurylyak and G. I. Khimicheva, <a href=\"https://doi.org/10.15407/ufm.17.04.375\">Usp. Fiz. Met. <b>17</b>, 375 (2016)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 149,
+		"list":  [
+			{
+				"doi": "10.1126/science.1102896",
+				"or":  "K. S. Novoselov, A. K. Geim, S. V. Morozov, D. Jiang, Y. Zhang, S. V. Dubonos, I. V. Grigorieva, and A. A. Firsov, Science, 306: 666 (2004).",
+				"tr":  "K. S. Novoselov, A. K. Geim, S. V. Morozov, D. Jiang, Y. Zhang, S. V. Dubonos, I. V. Grigorieva, and A. A. Firsov, Science, 306: 666 (2004)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.69.691",
+				"or":  "R. F. Curl, Rev. Mod. Phys., 69: 691 (1997).",
+				"tr":  "R. F. Curl, Rev. Mod. Phys., 69: 691 (1997)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.69.703",
+				"or":  "H. Kroto, Rev. Mod. Phys., 69: 703 (1997).",
+				"tr":  "H. Kroto, Rev. Mod. Phys., 69: 703 (1997)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.69.723",
+				"or":  "R. E. Smalley, Rev. Mod. Phys., 69: 723 (1997).",
+				"tr":  "R. E. Smalley, Rev. Mod. Phys., 69: 723 (1997)."
+			},
+			{
+				"doi": "10.1038/354056a0",
+				"or":  "S. Iijima, Nature, 354: 56 (1991).",
+				"tr":  "S. Iijima, Nature, 354: 56 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "Інформація на http://en.wikipedia.org/wiki/Graphene.",
+				"tr":  "Іnformation at http://en.wikipedia.org/wiki/Graphene."
+			},
+			{
+				"doi": "",
+				"or":  "R. E. Peierls, Ann. Inst. Henri Poincare, 5: 177 (1935).",
+				"tr":  "R. E. Peierls, Ann. Inst. Henri Poincare, 5: 177 (1935)."
+			},
+			{
+				"doi": "",
+				"or":  "L. D. Landau, Phys. Z. Sowjetunion, 11: 26 (1937).",
+				"tr":  "L. D. Landau, Phys. Z. Sowjetunion, 11: 26 (1937)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Peierls, Surprises in Theoretical Physics (Princeton, New Jersey: Princeton University Press: 1979); Р. Пайерлс, Сюрпризы в теоретической физике (Москва: Наука: 1988).",
+				"tr":  "R. Peierls, Surprises in Theoretical Physics (Princeton, New Jersey: Princeton University Press: 1979); R. Paierls, Syurprizy v teoreticheskoi fizike (Moskva: Nauka: 1988)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.17.1133",
+				"or":  "N. D. Mermin and H. Wagner, Phys. Rev. Lett., 17, No. 22: 1133 (1966); N. D. Mermin, Phys. Rev., 178, No. 1: 250 (1968).",
+				"tr":  "N. D. Mermin and H. Wagner, Phys. Rev. Lett., 17, No. 22: 1133 (1966)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.19.2457",
+				"or":  "D. R. Nelson and B. I. Halperin, Phys. Rev. B, 19, No. 5: 2457 (1979).",
+				"tr":  "D. R. Nelson and B. I. Halperin, Phys. Rev. B, 19, No. 5: 2457 (1979)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.19.1855",
+				"or":  "A. P. Young, Phys. Rev. B, 19, No. 4: 1855 (1979).",
+				"tr":  "A. P. Young, Phys. Rev. B, 19, No. 4: 1855 (1979)."
+			},
+			{
+				"doi": "10.1088/0022-3719/6/7/010",
+				"or":  "J. M. Kosterlitz and D. I. Thouless, J. Phys. C: Solid State Phys., 6, No. 7: 1181 (1973).",
+				"tr":  "J. M. Kosterlitz and D. I. Thouless, J. Phys. C: Solid State Phys., 6, No. 7: 1181 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Л. Березинский, ЖЭТФ, 59: 907 (1970).",
+				"tr":  "V. L. Berezinskii, ZhETF, 59: 907 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Рыжов, Е. Е. Тареева, Теор. мат. физ., 73, № 3: 463 (1987).",
+				"tr":  "V. N. Ryzhov, E. E. Tareeva, Teor. mat. fiz., 73, No. 3: 463 (1987)."
+			},
+			{
+				"doi": "10.1073/pnas.0502848102",
+				"or":  "K. S. Novoselov, D. Jiang, F. Schedin, T. J. Booth, V. V. Khotkevich, S. V. Morozov, and A. K. Geim, Proc. Natl. Acad. Sci. USA, 102: 10451 (2005).",
+				"tr":  "K. S. Novoselov, D. Jiang, F. Schedin, T. J. Booth, V. V. Khotkevich, S. V. Morozov, and A. K. Geim, Proc. Natl. Acad. Sci. USA, 102: 10451 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "X. Ma, Q. Wang, L.-Q. Chen, W. Cermignani, H. H. Achobert, and C. G. Pantano, Carbon, 35, No. 1011: 1517 (1997).",
+				"tr":  "X. Ma, Q. Wang, L.-Q. Chen, W. Cermignani, H. H. Achobert, and C. G. Pantano, Carbon, 35, No. 1011: 1517 (1997)."
+			},
+			{
+				"doi": "10.1088/0957-4484/19/15/155708",
+				"or":  "R. H. Miwa, T. B. Martins, and A. Fazzio, Nanotechnology, 19: 155708 (2008).",
+				"tr":  "R. H. Miwa, T. B. Martins, and A. Fazzio, Nanotechnology, 19: 155708 (2008)."
+			},
+			{
+				"doi": "10.1021/nl803279t",
+				"or":  "D. Wei, Y. Liu, Yu Wang, H. Zhang, L. Huangi, and G. Yu, Nano Lett., 9: 1752 (2009).",
+				"tr":  "D. Wei, Y. Liu, Yu Wang, H. Zhang, L. Huangi, and G. Yu, Nano Lett., 9: 1752 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Інформація на http://www.edn.com/search/siteall?qgraphene.",
+				"tr":  "Information at http://www.edn.com/search/siteall?q=graphene."
+			},
+			{
+				"doi": "",
+				"or":  "T. E. Weller, M. Ellerby, S. S. Saxena, R. P. Smith, and N. T. Skipper, Nature Phys., 1: 39 (2005).",
+				"tr":  "T. E. Weller, M. Ellerby, S. S. Saxena, R. P. Smith, and N. T. Skipper, Nature Phys., 1: 39 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.95.087003",
+				"or":  "N. Emery, C. Hérold, M. d’Astudo, V. Garcia, Ch. Bellin, J.F. Marêché, P. Lagrange, and G. Loupias, Phys. Rev. Lett., 95: 087003 (2005).",
+				"tr":  "N. Emery, C. Hérold, M. d'Astudo, V. Garcia, Ch. Bellin, J.F. Marêché, P. Lagrange, and G. Loupias, Phys. Rev. Lett., 95: 087003 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.98.067002",
+				"or":  "A. Gauzzi, S. Takashima, N. Takeshita, C. Terakura, H. Takagi, N. Emery, C. Hérold, P. Lagrange, and G. Loupias, Phys. Rev. Lett., 98: 067002 (2007).",
+				"tr":  "A. Gauzzi, S. Takashima, N. Takeshita, C. Terakura, H. Takagi, N. Emery, C. Hérold, P. Lagrange, and G. Loupias, Phys. Rev. Lett., 98: 067002 (2007)."
+			},
+			{
+				"doi": "10.1038/nmat2006",
+				"or":  "K. S. Novoselov and A. K. Geim, Nature Mater., 6: 183 (2007).",
+				"tr":  "K. S. Novoselov and A. K. Geim, Nature Mater., 6: 183 (2007)."
+			},
+			{
+				"doi": "10.1021/jp040650f",
+				"or":  "C. Berger, Z. Song, T. Li, X. Li, A. Y. Ogbazghi, R. Feng, Z. Dai, A. N. Marchenkov, E. H. Conrad, P. N. First, and W. A. de Heer, J. Phys. Chem. B, 108: 19912 (2004).",
+				"tr":  "C. Berger, Z. Song, T. Li, X. Li, A. Y. Ogbazghi, R. Feng, Z. Dai, A. N. Marchenkov, E. H. Conrad, P. N. First, and W. A. de Heer, J. Phys. Chem. B, 108: 19912 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.76.161406",
+				"or":  "M. Calandra and F. Mauri, Phys. Rev. B, 76: 161406(R) (2007).",
+				"tr":  "M. Calandra and F. Mauri, Phys. Rev. B, 76: 161406 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "J. L. McChesney, A. Bostwick, T. Ohta, K. V. Emtsev, T. Seyller, K. Horn, and E. Rotenberg, arXiv:0705.3264v1 [cond-mat.str-el].",
+				"tr":  "J. L. McChesney, A. Bostwick, T. Ohta, K. V. Emtsev, T. Seyller, K. Horn, and E. Rotenberg, arXiv:0705.3264v1 [cond-mat.str-el]."
+			},
+			{
+				"doi": "10.1038/nature04233",
+				"or":  "K. S. Novoselov, A. K. Geim, S. V. Morozov, D. Jiang, M. I. Katsnelson, I. V. Gregorieva, S. V. Dubonos, A. A. Firsov, Nature, 438: 197 (2005).",
+				"tr":  "K. S. Novoselov, A. K. Geim, S. V. Morozov, D. Jiang, M. I. Katsnelson, I. V. Gregorieva, S. V. Dubonos, A. A. Firsov, Nature, 438: 197 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.71.161403",
+				"or":  "S. Y. Zhou, G.-H. Gweon, C. D. Spataru, J. Graf, D.-H. Lee, S. G. Louie, and A. Lanzara, Phys. Rev. B, 71: 161403(R) (2005).",
+				"tr":  "S. Y. Zhou, G.-H. Gweon, C. D. Spataru, J. Graf, D.-H. Lee, S. G. Louie, and A. Lanzara, Phys. Rev. B, 71: 161403 (2005)."
+			},
+			{
+				"doi": "10.1038/nphys393",
+				"or":  "S. Y. Zhou, G.-H. Gweon, J. Graf, A. V. Fedorov, C. D. Spataru, R. D. Diehl, Y. Kopelevich, D.-H. Lee, S. G. Louie, and A. Lanazara, Nature Phys., 2: 595 (2006).",
+				"tr":  "S. Y. Zhou, G.-H. Gweon, J. Graf, A. V. Fedorov, C. D. Spataru, R. D. Diehl, Y. Kopelevich, D.-H. Lee, S. G. Louie, and A. Lanazara, Nature Phys., 2: 595 (2006)."
+			},
+			{
+				"doi": "10.1038/nphys477",
+				"or":  "A. Bostwick, T. Ohta, T. Seyller, K. Horn, and E. Rotenberg, Nature Phys., 3: 36 (2007).",
+				"tr":  "A. Bostwick, T. Ohta, T. Seyller, K. Horn, and E. Rotenberg, Nature Phys., 3: 36 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.95.237002",
+				"or":  "M. Calandra and F. Mauri, Phys. Rev. Lett., 95: 237002 (2005).",
+				"tr":  "M. Calandra and F. Mauri, Phys. Rev. Lett., 95: 237002 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.99.236802",
+				"or":  "W.-K. Tse and S. D. Sarma, Phys. Rev. Lett., 99: 236802 (2007).",
+				"tr":  "W.-K. Tse and S. D. Sarma, Phys. Rev. Lett., 99: 236802 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.99.086804",
+				"or":  "C.-H. Park, F. Giustino, M. L. Cohen, and S. G. Louie, Phys. Rev. Lett., 99: 086804 (2007).",
+				"tr":  "C.-H. Park, F. Giustino, M. L. Cohen, and S. G. Louie, Phys. Rev. Lett., 99: 086804 (2007)."
+			},
+			{
+				"doi": "10.1063/1.2768624",
+				"or":  "P. Blake, E. W. Hill, A. H. Castro Neto, K. S. Novoselov, D. Jiang, R. Yang, T. J. Booth, and A. K. Geim, Appl. Phys. Lett., 91: 063124 (2007).",
+				"tr":  "P. Blake, E. W. Hill, A. H. Castro Neto, K. S. Novoselov, D. Jiang, R. Yang, T. J. Booth, and A. K. Geim, Appl. Phys. Lett., 91: 063124 (2007)."
+			},
+			{
+				"doi": "10.1063/1.2768625",
+				"or":  "D. S. L. Abergel, A. Russell, and V. I. Fal’ko, Appl. Phys. Lett., 91: 063125 (2007).",
+				"tr":  "D. S. L. Abergel, A. Russell, and V. I. Fal'ko, Appl. Phys. Lett., 91: 063125 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.100.117401",
+				"or":  "A. B. Kuzmenko, E. van Heumen, F. Carbone, and D. van der Marel, Phys. Rev. Lett., 100: 117401 (2008).",
+				"tr":  "A. B. Kuzmenko, E. van Heumen, F. Carbone, and D. van der Marel, Phys. Rev. Lett., 100: 117401 (2008)."
+			},
+			{
+				"doi": "10.1126/science.1156965",
+				"or":  "R. R. Nair, P. Blake, A. N. Grigorenko, K. S. Novoselov, T. J. Booth, T. Stauber, N. M. R. Peres, and A. K. Geim, Science, 320: 1308 (2008).",
+				"tr":  "R. R. Nair, P. Blake, A. N. Grigorenko, K. S. Novoselov, T. J. Booth, T. Stauber, N. M. R. Peres, and A. K. Geim, Science, 320: 1308 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.97.187401",
+				"or":  "A. C. Ferrari, J. C. Meyer, V. Scardaci, C. Casiraghi, M. Lazzeri, F. Mauri, S. Piscanec, D. Jiang, K. S. Novoselov, S. Roth, and A. K. Geim, Phys. Rev. Lett. 97: 187401 (2006).",
+				"tr":  "A. C. Ferrari, J. C. Meyer, V. Scardaci, C. Casiraghi, M. Lazzeri, F. Mauri, S. Piscanec, D. Jiang, K. S. Novoselov, S. Roth, and A. K. Geim, Phys. Rev. Lett. 97: 187401 (2006)."
+			},
+			{
+				"doi": "10.1126/science.1142882",
+				"or":  "G. M. Rutter, J. N. Crain, N. P. Guisinger, T. Li, P. N. First, and J. A. Stroscio, Science, 317: 219 (2007).",
+				"tr":  "G. M. Rutter, J. N. Crain, N. P. Guisinger, T. Li, P. N. First, and J. A. Stroscio, Science, 317: 219 (2007)."
+			},
+			{
+				"doi": "10.1126/science.1171810",
+				"or":  "D. L. Miller, K. D. Kubista, G. M. Rutter, M. Ruan, W. A. de Heer, P. N. First, and J. A. Stroscio, Science, 324: 924 (2009).",
+				"tr":  "D. L. Miller, K. D. Kubista, G. M. Rutter, M. Ruan, W. A. de Heer, P. N. First, and J. A. Stroscio, Science, 324: 924 (2009)."
+			},
+			{
+				"doi": "10.1021/nl803331q",
+				"or":  "N. P. Guisinger, G. M. Rutter, J. N. Crain, P. N. First, J. A. Stroscio, Nano Lett., 9: 1462 (2009).",
+				"tr":  "N. P. Guisinger, G. M. Rutter, J. N. Crain, P. N. First, J. A. Stroscio, Nano Lett., 9: 1462 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.101.157402",
+				"or":  "D. Sun, Z.-K. Wu, C. Divin, X. Li, C. Berger, W. A. de Heer, P. N. First, and T. B. Norris, Phys. Rev. Lett., 101: 157402 (2008).",
+				"tr":  "D. Sun, Z.-K. Wu, C. Divin, X. Li, C. Berger, W. A. de Heer, P. N. First, and T. B. Norris, Phys. Rev. Lett., 101: 157402 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.80.245415",
+				"or":  "P. Plochocka, P. Kossacki, A. Golnik, T. Kazimierczuk, C. Berger, W.A. de Heer, and M. Potemski, Phys. Rev. B, 80: 245415 (2009).",
+				"tr":  "P. Plochocka, P. Kossacki, A. Golnik, T. Kazimierczuk, C. Berger, W.A. de Heer, and M. Potemski, Phys. Rev. B, 80: 245415 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.97.266405",
+				"or":  "M. L. Sadowski, G. Martinez, M. Potemski, C. Berger, and W. A. de Heer, Phys. Rev. Lett., 97: 266405 (2006).",
+				"tr":  "M. L. Sadowski, G. Martinez, M. Potemski, C. Berger, and W. A. de Heer, Phys. Rev. Lett., 97: 266405 (2006)."
+			},
+			{
+				"doi": "10.1142/S0217979207042586",
+				"or":  "M. L. Sadowski, G. Martinez, M. Potemski, C. Berger, and W. A. de Heer, Int. J. Mod. Phys. B, 21: 1145 (2007).",
+				"tr":  "M. L. Sadowski, G. Martinez, M. Potemski, C. Berger, and W. A. de Heer, Int. J. Mod. Phys. B, 21: 1145 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.101.267601",
+				"or":  "M. Orlita, C. Faugeras, P. Plochocka, P. Neugebauer, G. Martinez, D. K. Maude, A.-L. Barra, M. Sprinkle, C. Berger, W. A. de Heer, and M. Potemski, Phys. Rev. Lett., 101: 267601 (2008).",
+				"tr":  "M. Orlita, C. Faugeras, P. Plochocka, P. Neugebauer, G. Martinez, D. K. Maude, A.-L. Barra, M. Sprinkle, C. Berger, W. A. de Heer, and M. Potemski, Phys. Rev. Lett., 101: 267601 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.100.087401",
+				"or":  "P. Plochocka, C. Faugeras, M. Orlita, M. L. Sadowski, G. Martinez, M. Potemski, M. O. Goerbig, J.-N. Fuchs, C. Berger, and W.A. de Heer, Phys. Rev. Lett., 100: 087401 (2008).",
+				"tr":  "P. Plochocka, C. Faugeras, M. Orlita, M. L. Sadowski, G. Martinez, M. Potemski, M. O. Goerbig, J.-N. Fuchs, C. Berger, and W.A. de Heer, Phys. Rev. Lett., 100: 087401 (2008)."
+			},
+			{
+				"doi": "10.1021/jp048736w",
+				"or":  "A. G. Kudashov, A. V. Okotrub, L. G. Bulusheva, I. P. Asanov, Yu. V. Shubin, N. F. Yudanov, L. I. Yudanova, V. S. Danilovich, and O. G. Abrosimov, J. Phys. Chem. B, 108, No. 26: 9048 (2004).",
+				"tr":  "A. G. Kudashov, A. V. Okotrub, L. G. Bulusheva, I. P. Asanov, Yu. V. Shubin, N. F. Yudanov, L. I. Yudanova, V. S. Danilovich, and O. G. Abrosimov, J. Phys. Chem. B, 108, No. 26: 9048 (2004)."
+			},
+			{
+				"doi": "10.1038/nmat1849",
+				"or":  "A. K. Geim and K. S. Novoselov, Nature Mater., 6: 183 (2007).",
+				"tr":  "A. K. Geim and K. S. Novoselov, Nature Mater., 6: 183 (2007)."
+			},
+			{
+				"doi": "10.1088/0957-4484/19/45/455601",
+				"or":  "V. Huc, N. Bendiab, N. Rosman, T. Ebbesen, C. Delacourcile, and V. Bouchiat, Nanotechnology, 19: 455601 (2008).",
+				"tr":  "V. Huc, N. Bendiab, N. Rosman, T. Ebbesen, C. Delacourcile, and V. Bouchiat, Nanotechnology, 19: 455601 (2008)."
+			},
+			{
+				"doi": "10.1038/nmat2382",
+				"or":  "K. V. Emtsev, A. Bostwick, K. Horn, J. Jobst, G. L. Kellogg, L. Ley, J. L. McChesney, T. Ohta, S. A. Reshanov, J. Röhrl, E. Rotenberg, A. K. Schmid, D. Waldmann, H. B. Weber, and T. Seyller, Nature Mater., 8: 203 (2009).",
+				"tr":  "K. V. Emtsev, A. Bostwick, K. Horn, J. Jobst, G. L. Kellogg, L. Ley, J. L. McChesney, T. Ohta, S. A. Reshanov, J. Röhrl, E. Rotenberg, A. K. Schmid, D. Waldmann, H. B. Weber, and T. Seyller, Nature Mater., 8: 203 (2009)."
+			},
+			{
+				"doi": "10.1088/0957-4484/18/13/135301",
+				"or":  "A. N. Sidorov, M. M. Yazdanpanah, R. Jalilian, P. J. Ouseph, R. W. Cohn, and G. U. Sumanasekera, Nanotechnology, 18: 135301 (2007).",
+				"tr":  "A. N. Sidorov, M. M. Yazdanpanah, R. Jalilian, P. J. Ouseph, R. W. Cohn, and G. U. Sumanasekera, Nanotechnology, 18: 135301 (2007)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.81.109",
+				"or":  "A. H. Castro Neto, F. Guinea, N. M. R. Peres, K. S. Novoselov, and A. K. Geim, Rev. Mod. Phys., 81: 109 (2009).",
+				"tr":  "A. H. Castro Neto, F. Guinea, N. M. R. Peres, K. S. Novoselov, and A. K. Geim, Rev. Mod. Phys., 81: 109 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRev.71.622",
+				"or":  "P. R. Wallace, Phys. Rev., 71: 622 (1947).",
+				"tr":  "P. R. Wallace, Phys. Rev., 71: 622 (1947)."
+			},
+			{
+				"doi": "10.1103/PhysRev.109.272",
+				"or":  "J. C. Slonczewski and P. R. Weiss, Phys. Rev., 109: 272 (1958).",
+				"tr":  "J. C. Slonczewski and P. R. Weiss, Phys. Rev., 109: 272 (1958)."
+			},
+			{
+				"doi": "10.1038/nature04235",
+				"or":  "Y. Zhang, Y. W. Tan, H. L. Stormer, and P. Kim, Nature, 438: 201 (2005).",
+				"tr":  "Y. Zhang, Y. W. Tan, H. L. Stormer, and P. Kim, Nature, 438: 201 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.61.2015",
+				"or":  "F. D. M. Haldane, Phys. Rev. Lett., 61: 2015 (1988).",
+				"tr":  "F. D. M. Haldane, Phys. Rev. Lett., 61: 2015 (1988)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.95.146801",
+				"or":  "V. P. Gusynin and S. G. Sharapov, Phys. Rev. Lett., 95: 146801 (2005).",
+				"tr":  "V. P. Gusynin and S. G. Sharapov, Phys. Rev. Lett., 95: 146801 (2005)."
+			},
+			{
+				"doi": "10.1038/nphys384",
+				"or":  "M. I. Katsnelson, K. S. Novoselov, and A. K. Geim, Nature Phys., 2: 620 (2006).",
+				"tr":  "M. I. Katsnelson, K. S. Novoselov, and A. K. Geim, Nature Phys., 2: 620 (2006)."
+			},
+			{
+				"doi": "10.1016/j.ssc.2008.02.024",
+				"or":  "K. I. Bolotin, K. J. Sikes, Z. Jiang, M. Klima, G. Fudenberg, and J. Hone, Solid St. Commun., 146: 351 (2008).",
+				"tr":  "K. I. Bolotin, K. J. Sikes, Z. Jiang, M. Klima, G. Fudenberg, and J. Hone, Solid St. Commun., 146: 351 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.100.016602",
+				"or":  "S. V. Morozov, K. S. Novoselov, M. I. Katsnelson, F. Schedin, D. C. Elias, J. A. Jaszczak, and A. K. Geim, Phys. Rev. Lett., 100: 016602 (2008).",
+				"tr":  "S. V. Morozov, K. S. Novoselov, M. I. Katsnelson, F. Schedin, D. C. Elias, J. A. Jaszczak, and A. K. Geim, Phys. Rev. Lett., 100: 016602 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.101.096802",
+				"or":  "K. I. Bolotin, K. J. Sikes, J. Hone, H. L. Stormer, and P. Kim, Phys. Rev. Lett., 101: 096802 (2008).",
+				"tr":  "K. I. Bolotin, K. J. Sikes, J. Hone, H. L. Stormer, and P. Kim, Phys. Rev. Lett., 101: 096802 (2008)."
+			},
+			{
+				"doi": "10.1038/nnano.2008.199",
+				"or":  "X. Du, I. Skachko, A. Barker, and E. Y. Andrei, Nature Nanotech., 3: 491 (2008).",
+				"tr":  "X. Du, I. Skachko, A. Barker, and E. Y. Andrei, Nature Nanotech., 3: 491 (2008)."
+			},
+			{
+				"doi": "10.1038/nphys935",
+				"or":  "J. H. Chen, C. Jang, S. Adam, M. S. Fuhrer, E. D. Williams, and M. Ishigami, Nature Phys., 4: 377 (2008).",
+				"tr":  "J. H. Chen, C. Jang, S. Adam, M. S. Fuhrer, E. D. Williams, and M. Ishigami, Nature Phys., 4: 377 (2008)."
+			},
+			{
+				"doi": "10.1038/nnano.2008.58",
+				"or":  "J.-H. Chen, C. Jang, S. Xiao, M. Ishigami, and M. S. Fuhrer, Nature Nanotech., 3: 206 (2008).",
+				"tr":  "J.-H. Chen, C. Jang, S. Xiao, M. Ishigami, and M. S. Fuhrer, Nature Nanotech., 3: 206 (2008)."
+			},
+			{
+				"doi": "10.1038/nmat1967",
+				"or":  "F. Schedin, A. K. Geim, S. V. Morozov, E. W. Hill, P. Blake, M. I. Katsnelson, and K. S. Novoselov, Nature Mater., 6: 652 (2007).",
+				"tr":  "F. Schedin, A. K. Geim, S. V. Morozov, E. W. Hill, P. Blake, M. I. Katsnelson, and K. S. Novoselov, Nature Mater., 6: 652 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.98.186806",
+				"or":  "E. H. Hwang, S. Adam, and S. D. Saema, Phys. Rev. Lett., 98: 186806 (2007).",
+				"tr":  "E. H. Hwang, S. Adam, and S. D. Saema, Phys. Rev. Lett., 98: 186806 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.76.205423",
+				"or":  "T. Stauber, N. M. R. Peres, and F. Guinea, Phys. Rev. B, 76: 205423 (2007).",
+				"tr":  "T. Stauber, N. M. R. Peres, and F. Guinea, Phys. Rev. B, 76: 205423 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.77.115449",
+				"or":  "E. H. Hwang, S. Sarma, and S. Das, Phys. Rev. B, 77: 115449 (2008).",
+				"tr":  "E. H. Hwang, S. Sarma, and S. Das, Phys. Rev. B, 77: 115449 (2008)."
+			},
+			{
+				"doi": "10.1038/nature06037",
+				"or":  "N. Tombros, C. Jozsa, M. Popinciuc, H. T. Jonkman, and B. J. van Wees, Nature, 448: 571 (2007).",
+				"tr":  "N. Tombros, C. Jozsa, M. Popinciuc, H. T. Jonkman, and B. J. van Wees, Nature, 448: 571 (2007)."
+			},
+			{
+				"doi": "10.1109/LED.2007.891668",
+				"or":  "M. C. Lemme, T.J. Echtermeyer, M. Baus, and H. Kurz, Electron Device Lett., 28: 282 (2007).",
+				"tr":  "M. C. Lemme, T.J. Echtermeyer, M. Baus, and H. Kurz, Electron Device Lett., 28: 282 (2007)."
+			},
+			{
+				"doi": "10.1126/science.1154663",
+				"or":  "L. A. Ponomarenko, F. Schedin, M. I. Katsnelson, R. Yang, E. W. Hill, K. S. Novoselov, and A. K. Geim, Science, 320: 356 (2008).",
+				"tr":  "L. A. Ponomarenko, F. Schedin, M. I. Katsnelson, R. Yang, E. W. Hill, K. S. Novoselov, and A. K. Geim, Science, 320: 356 (2008)."
+			},
+			{
+				"doi": "10.1016/j.susc.2008.08.037",
+				"or":  "J. Winterrlin and M. L. Bocquet, Surf. Sci., 603: 1841 (2009).",
+				"tr":  "J. Winterrlin and M. L. Bocquet, Surf. Sci., 603: 1841 (2009)."
+			},
+			{
+				"doi": "10.1038/nmat2056",
+				"or":  "S. Y. Zhou, G. H. Gweon, A. V. Fedorov, P. N. First, W. A. de Heer, and D. H. Lee, Nat. Mater., 6: 916 (2007).",
+				"tr":  "S. Y. Zhou, G. H. Gweon, A. V. Fedorov, P. N. First, W. A. de Heer, and D. H. Lee, Nat. Mater., 6: 916 (2007)."
+			},
+			{
+				"doi": "10.1038/nmat2154a",
+				"or":  "E. Rotenberg, A. Bostwick, T. Ohta, J. L. McChesney, T. Seyller, and K. Horn, Nat. Mater., 7: 258 (2008).",
+				"tr":  "E. Rotenberg, A. Bostwick, T. Ohta, J. L. McChesney, T. Seyller, and K. Horn, Nat. Mater., 7: 258 (2008)."
+			},
+			{
+				"doi": "10.1063/1.3028015",
+				"or":  "D. A. Siegel, S. Y. Zhou, E. I. Gabaly, A. V. Fedorov, A. K. Schmid, and A. Lanzara, Appl. Phys. Lett., 93: 243119 (2008).",
+				"tr":  "D. A. Siegel, S. Y. Zhou, E. I. Gabaly, A. V. Fedorov, A. K. Schmid, and A. Lanzara, Appl. Phys. Lett., 93: 243119 (2008)."
+			},
+			{
+				"doi": "10.1021/nl0617033",
+				"or":  "V. Barone, O. Hod, and G. E. Scuseria, Nano Lett., 6: 2748 (2006).",
+				"tr":  "V. Barone, O. Hod, and G. E. Scuseria, Nano Lett., 6: 2748 (2006)."
+			},
+			{
+				"doi": "10.1063/1.2761531",
+				"or":  "P. Shemella, Y. Zhang, M. Mailman, P. M. Ajayan, and S. K. Nayak, Appl. Phys. Lett., 91: 042101 (2007).",
+				"tr":  "P. Shemella, Y. Zhang, M. Mailman, P. M. Ajayan, and S. K. Nayak, Appl. Phys. Lett., 91: 042101 (2007)."
+			},
+			{
+				"doi": "10.1088/1367-2630/11/9/095016",
+				"or":  "K. Wakabayashi, Y. Takane, M. Yamamoto, and M. Sigrist, New J. Phys., 11: 095016 (2009).",
+				"tr":  "K. Wakabayashi, Y. Takane, M. Yamamoto, and M. Sigrist, New J. Phys., 11: 095016 (2009)."
+			},
+			{
+				"doi": "10.1021/nl0717917",
+				"or":  "D. Gunlycke, D. A. Areshkin, J. Li, J. W. Mintmire, and C. T. White, Nano Lett., 7: 3608 (2007).",
+				"tr":  "D. Gunlycke, D. A. Areshkin, J. Li, J. W. Mintmire, and C. T. White, Nano Lett., 7: 3608 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.95.146801",
+				"or":  "V. P. Gusynin and S. G. Sharapov, Phys. Rev. Lett., 95, 146801 (2005).",
+				"tr":  "V. P. Gusynin and S. G. Sharapov, Phys. Rev. Lett., 95, 146801 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.96.256802",
+				"or":  "V. P. Gusynin, S. G. Sharapov, and J. P. Carbotte, Phys. Rev. Lett., 96: 256802 (2006).",
+				"tr":  "V. P. Gusynin, S. G. Sharapov, and J. P. Carbotte, Phys. Rev. Lett., 96: 256802 (2006)."
+			},
+			{
+				"doi": "10.1063/1.2389023",
+				"or":  "Ю. Б. Гайдидей, В. М. Локтев, Физика низк. темпер., 32, № 7: 923 (2006).",
+				"tr":  "Yu. B. Gaididei, V. M. Loktev, Fizika Nizk. Temper., 32, No. 7: 923 (2006); idem, Low Temperature Physics, 32: 1111 (2006)"
+			},
+			{
+				"doi": "10.1103/PhysRevB.73.241402",
+				"or":  "Yu. V. Skrypnyk and V. M. Loktev, Phys. Rev. B, 73: 241402-4 (2006).",
+				"tr":  "Yu. V. Skrypnyk and V. M. Loktev, Phys. Rev. B, 73: 241402-4 (2006)."
+			},
+			{
+				"doi": "10.1063/1.2219501",
+				"or":  "V. M. Loktev and V. M. Turkowski, Физика низк. темпер., 32, № 8: 1055 (2006).",
+				"tr":  "V. M. Loktev and V. M. Turkowski, Fizika Nizk. Temper., 32, No. 8: 1055 (2006); idem, Low Temperature Physics, 32: 802 (2006)"
+			},
+			{
+				"doi": "",
+				"or":  "Yu. V. Skrypnyk and V. M. Loktev, Физика низк. темпер., 33, № 9: 1002 (2007).",
+				"tr":  "Yu. V. Skrypnyk and V. M. Loktev, Fizika Nizk. Temper., 33, No. 9: 1002 (2007); idem, Low Temperature Physics, 33: 762 (2007)"
+			},
+			{
+				"doi": "10.1103/PhysRevB.75.245401",
+				"or":  "Yu. V. Skrypnyk and V. M. Loktev, Phys. Rev. B, 75: 245401-4 (2007).",
+				"tr":  "Yu. V. Skrypnyk and V. M. Loktev, Phys. Rev. B, 75: 245401-4 (2007)."
+			},
+			{
+				"doi": "10.1063/1.2981395",
+				"or":  "Yu. V. Skrypnyk and V. M. Loktev, Физика низк. темпер., 34, No. 10: 1040 (2008).",
+				"tr":  "Yu. V. Skrypnyk and V. M. Loktev, Fizika Nizk. Temper., 34, No. 10: 1040 (2008); idem, Low Temperature Physics, 34: 818 (2008)"
+			},
+			{
+				"doi": "10.1103/PhysRevLett.98.157402",
+				"or":  "V. P. Gusynin, S. G. Sharapov, and J. P. Carbotte, Phys. Rev. Lett., 98: 157402 (2007).",
+				"tr":  "V. P. Gusynin, S. G. Sharapov, and J. P. Carbotte, Phys. Rev. Lett., 98: 157402 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.80.214201",
+				"or":  "S. Pershoguba, Yu. V. Skrypnyk, and V. M. Loktev, Phys. Rev. B, 80: 420121 (2009).",
+				"tr":  "S. Pershoguba, Yu. V. Skrypnyk, and V. M. Loktev, Phys. Rev. B, 80: 420121 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.79.233402",
+				"or":  "V. M. Loktev and V. M. Turkowski, Phys. Rev. B, 79: 233402-4 (2009).",
+				"tr":  "V. M. Loktev and V. M. Turkowski, Phys. Rev. B, 79: 233402-4 (2009)."
+			},
+			{
+				"doi": "10.1088/1367-2630/11/9/095013",
+				"or":  "V. P. Gusynin, S. G. Sharapov, and J. P. Carbotte, New J. Phys., 11: 095013 (2009).",
+				"tr":  "V. P. Gusynin, S. G. Sharapov, and J. P. Carbotte, New J. Phys., 11: 095013 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.79.115431",
+				"or":  "V. P. Gusynin, V. A. Miransky, S. G. Sharapov, I. A. Shovkovy, and C. M. Wyenberg, Phys. Rev. B, 79, 115431 (2009).",
+				"tr":  "V. P. Gusynin, V. A. Miransky, S. G. Sharapov, I. A. Shovkovy, and C. M. Wyenberg, Phys. Rev. B, 79, 115431 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.81.045419",
+				"or":  "J. P. Carbotte, E. J. Nicol, and S. G. Sharapov, Phys. Rev. B, 81: 045419 (2010).",
+				"tr":  "J. P. Carbotte, E. J. Nicol, and S. G. Sharapov, Phys. Rev. B, 81: 045419 (2010)."
+			},
+			{
+				"doi": "10.1126/science.1157996",
+				"or":  "Ch. Lee, X. Wei, J. W. Kysar, and J. Hone, Science, 321: 385 (2008).",
+				"tr":  "Ch. Lee, X. Wei, J. W. Kysar, and J. Hone, Science, 321: 385 (2008)."
+			},
+			{
+				"doi": "10.1038/nature05545",
+				"or":  "J. C. Meyer, A. K. Geim, M. I. Katsnelson, K. S. Novoselov, T. J. Booth, and S. Roth, Nature, 446: 60 (2007).",
+				"tr":  "J. C. Meyer, A. K. Geim, M. I. Katsnelson, K. S. Novoselov, T. J. Booth, and S. Roth, Nature, 446: 60 (2007)."
+			},
+			{
+				"doi": "10.1038/nmat2011",
+				"or":  "A. Fasolino, J. H. Los, and M. I. Katsnelson, Nature Mater., 6: 858 (2007).",
+				"tr":  "A. Fasolino, J. H. Los, and M. I. Katsnelson, Nature Mater., 6: 858 (2007)."
+			},
+			{
+				"doi": "10.1038/nmat2378",
+				"or":  "K. A. Ritter and J. W. Lyding, Nature Mater., 8: 235 (2008).",
+				"tr":  "K. A. Ritter and J. W. Lyding, Nature Mater., 8: 235 (2008)."
+			},
+			{
+				"doi": "10.1021/nl801457b",
+				"or":  "J. S. Bunch, S. S. Verbridge, J. S. Alden, A. M. van der Zande, J. M. Parpia, H. G. Craighead, and P. L. McEuen, Nano Lett., 8: 2458 (2008).",
+				"tr":  "J. S. Bunch, S. S. Verbridge, J. S. Alden, A. M. van der Zande, J. M. Parpia, H. G. Craighead, and P. L. McEuen, Nano Lett., 8: 2458 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.77.125416",
+				"or":  "O. Leenaerts, B. Partoens, and F. M. Peeters, Phys. Rev. B, 77: 125416 (2008).",
+				"tr":  "O. Leenaerts, B. Partoens, and F. M. Peeters, Phys. Rev. B, 77: 125416 (2008)."
+			},
+			{
+				"doi": "10.1063/1.3033202",
+				"or":  "T. O. Wehling, A. I. Lichtenstein, and M. I. Katsnelson, Appl. Phys. Lett., 93: 202110 (2008).",
+				"tr":  "T. O. Wehling, A. I. Lichtenstein, and M. I. Katsnelson, Appl. Phys. Lett., 93: 202110 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.77.195409",
+				"or":  "J. Sabio, C. Seoánez, S. Fratini, F. Guinea, A. H. Castro, and F. Neto, Phys. Rev. B, 77: 195409 (2008).",
+				"tr":  "J. Sabio, C. Seoánez, S. Fratini, F. Guinea, A. H. Castro, and F. Neto, Phys. Rev. B, 77: 195409 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.78.075442",
+				"or":  "R. M. Ribeiro, N. M. R. Peres, J. Coutinho, and P. R. Briddon, Phys. Rev. B, 78: 075442 (2008).",
+				"tr":  "R. M. Ribeiro, N. M. R. Peres, J. Coutinho, and P. R. Briddon, Phys. Rev. B, 78: 075442 (2008)."
+			},
+			{
+				"doi": "10.1126/science.1167130",
+				"or":  "D. C. Elias, R. R. Nair, T. M. G. Mohiuddin, S. V. Morozov, P. Blake, M. P. Halsall, A. C. Ferrari, D. W. Boukhvalov, M. I. Katsnelson, A. K. Geim, and K. S. Novoselov, Science, 323: 610 (2009).",
+				"tr":  "D. C. Elias, R. R. Nair, T. M. G. Mohiuddin, S. V. Morozov, P. Blake, M. P. Halsall, A. C. Ferrari, D. W. Boukhvalov, M. I. Katsnelson, A. K. Geim, and K. S. Novoselov, Science, 323: 610 (2009)."
+			},
+			{
+				"doi": "10.1016/0378-4371(76)90058-3",
+				"or":  "S. Frøyen, Aa. S. Sudbø, and P. C. Hemmer, Physica A, 85, Iss. 2: 399 (1976).",
+				"tr":  "S. Frøyen, Aa. S. Sudbø, and P. C. Hemmer, Physica A, 85, Iss. 2: 399 (1976)."
+			},
+			{
+				"doi": "10.1016/0375-9601(76)90491-6",
+				"or":  "M. Schick, J. S. Walker, and M. Wortis, Phys. Lett. A, 58, Iss. 7: 479 (1976).",
+				"tr":  "M. Schick, J. S. Walker, and M. Wortis, Phys. Lett. A, 58, Iss. 7: 479 (1976)."
+			},
+			{
+				"doi": "10.1016/0378-4371(81)90011-X",
+				"or":  "J. Dóczi-Réger and P. C. Hemmer, Physica A, 109, Iss. 3: 541 (1981); P. A. Slotte and P. C. Hemmer, J. Phys. C: Solid State Phys., 17, No. 26: 4645 (1984).",
+				"tr":  "J. Dóczi-Réger and P. C. Hemmer, Physica A, 109, Iss. 3: 541 (1981)."
+			},
+			{
+				"doi": "10.1016/0304-8853(83)90789-8",
+				"or":  "K. Wada, H. Takayama, and T. Ishikawa, J. Magn. Magn. Mater., 31–34, Pt. 3: 1043 (1983).",
+				"tr":  "K. Wada, H. Takayama, and T. Ishikawa, J. Magn. Magn. Mater., 31–34, Pt. 3: 1043 (1983)."
+			},
+			{
+				"doi": "10.1016/0038-1098(84)90262-X",
+				"or":  "M. Danino, Solid State Commun., 52, Iss. 10: 885 (1984); B. Frank and M. Danino, Solid State Commun., 56, Iss. 7: 643 (1985).",
+				"tr":  "M. Danino, Solid State Commun., 52, Iss. 10: 885 (1984)."
+			},
+			{
+				"doi": "10.1016/j.physa.2004.03.028",
+				"or":  "S. Lacková, M. Jaščur, and T. Horiguchi, Physica A, 339, Iss. 3–4: 416 (2004).",
+				"tr":  "S. Lacková, M. Jaščur, and T. Horiguchi, Physica A, 339, Iss. 3–4: 416 (2004)."
+			},
+			{
+				"doi": "10.1016/0375-9601(84)90270-6",
+				"or":  "T. Horiguchi, Phys. Lett. A, 104, Iss. 4: 228 (1984); T. Horiguchi, Phys. Lett. A, 108, Iss. 7: 353 (1985).",
+				"tr":  "T. Horiguchi, Phys. Lett. A, 104, Iss. 4: 228 (1984)."
+			},
+			{
+				"doi": "10.1016/0375-9601(85)90827-8",
+				"or":  "H. Kitatani, S. Miyashita, and M. Suzuki, Phys. Lett. A, 108, Iss. 1: 45 (1985).",
+				"tr":  "H. Kitatani, S. Miyashita, and M. Suzuki, Phys. Lett. A, 108, Iss. 1: 45 (1985)."
+			},
+			{
+				"doi": "10.1016/0378-4371(86)90045-2",
+				"or":  "T. Horiguchi, Physica A, 136, Iss. 1: 109 (1986).",
+				"tr":  "T. Horiguchi, Physica A, 136, Iss. 1: 109 (1986)."
+			},
+			{
+				"doi": "10.1016/0304-8853(86)90115-0",
+				"or":  "K. Ziegler, J. Magn. Magn. Mater., 60, Iss. 2–3: 311 (1986).",
+				"tr":  "K. Ziegler, J. Magn. Magn. Mater., 60, Iss. 2–3: 311 (1986)."
+			},
+			{
+				"doi": "10.1016/0378-4371(88)90061-1",
+				"or":  "V. Urumov, Physica A, 150, Iss. 1: 293 (1988).",
+				"tr":  "V. Urumov, Physica A, 150, Iss. 1: 293 (1988)."
+			},
+			{
+				"doi": "10.1016/0039-6028(95)00180-8; 10.1016/S0039-6028(98)80040-X",
+				"or":  "I. Jäger, Surface Sci., 331–333, Pt. 1: 156 (1995); idem, 398, Iss. 3: 342 (1998).",
+				"tr":  "I. Jäger, Surface Sci., 331–333, Pt. 1: 156 (1995); idem, 398, Iss. 3: 342 (1998)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(99)00399-6",
+				"or":  "G. Z. Wei, Z. H. Xin, and Jiang Wei, J. Magn. Magn. Mater., 204, Iss. 1–2: 144 (1999); Wei Jiang, G.-Z. Wei, and Z.-H. Xin, idem, 220, Iss. 1: 96 (2000); idem, Physica A, 293, Iss. 3–4: 455 (2001); Wei Jiang and G.-Z. Wei, idem, 284, Iss. 1–4: 215 (2000).",
+				"tr":  "G. Z. Wei, Z. H. Xin, and Jiang Wei, J. Magn. Magn. Mater., 204, Iss. 1–2: 144 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.64.036126",
+				"or":  "S. Lacková and M. Jaščur, J. Magn. Magn. Mater., 217, Iss. 1–3: 216 (2000); idem, Phys. Rev. E, 64: 036126 (2001); M. Jaščur and S. Lacková, J. Phys.: Condens. Matter, 12, No. 36: L583 (2000).",
+				"tr":  "S. Lacková and M. Jaščur, J. Magn. Magn. Mater., 217, Iss. 1–3: 216 (2000); idem, Phys. Rev. E, 64: 036126 (2001)."
+			},
+			{
+				"doi": "10.1016/j.physa.2005.01.023",
+				"or":  "T. Kaneyoshi, Physica A, 353, August: 297 (2005).",
+				"tr":  "T. Kaneyoshi, Physica A, 353: 297 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Хачатурян, Теория фазовых превращений и структура твердых растворов (Москва: Наука: 1974).",
+				"tr":  "A. G. Khachaturyan, Teoriya fazovykh prevrashchenii i struktura tverdykh rastvorov (Moskva: Nauka: 1974)."
+			},
+			{
+				"doi": "",
+				"or":  "A. G. Khachaturyan, Theory of Structural Transformations in Solids (New York: John Wiley & Sons: 1983).",
+				"tr":  "A. G. Khachaturyan, Theory of Structural Transformations in Solids (New York: John Wiley & Sons: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. М. Радченко, Металлофиз. новейшие технол., 30, № 8: 1021 (2008).",
+				"tr":  "T. M. Radchenko, Metallofiz. Noveishie Tekhnol., 30, No. 8: 1021 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. М. Радченко, В. А. Татаренко, Наносистеми, наноматеріали, нанотехнології, 6, № 3: 867 (2008).",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, Nanosistemi, nanomateriali, nanotekhnologii, 6, No. 3: 867 (2008)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/SSP.150.43",
+				"or":  "T. M. Radchenko and V. A. Tatarenko, Solid State Phenom., 150: 43 (2009).",
+				"tr":  "T. M. Radchenko and V. A. Tatarenko, Solid State Phenom., 150: 43 (2009)."
+			},
+			{
+				"doi": "10.1016/j.solidstatesciences.2009.05.027",
+				"or":  "T. M. Radchenko and V. A. Tatarenko, Solid State Sci., 12, No. 2: 204 (2010).",
+				"tr":  "T. M. Radchenko and V. A. Tatarenko, Solid State Sci., 12, No. 2: 204 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. М. Матвеева, Э. В. Козлов, Упорядоченные фазы в металлических системах (Москва: Наука: 1989).",
+				"tr":  "N. M. Matveeva, E. V. Kozlov, Uporyadochennye fazy v metallicheskikh sistemakh (Moskva: Nauka: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. В. Козлов, В. М. Дементьев, Н. М. Кормин, Д. М. Штерн, Структуры и стабильность упорядоченных фаз (Томск: Изд-во Томского ун-та: 1994).",
+				"tr":  "E. V. Kozlov, V. M. Dement'ev, N. M. Kormin, D. M. Shtern, Struktury i stabil'nost' uporyadochennykh faz (Tomsk: Izd-vo Tomskogo un-ta: 1994)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Бугаев, В. А. Татаренко, Взаимодействие и распределение атомов в сплавах внедрения на основе плотноупакованных металлов (Киев: Наукова думка: 1989).",
+				"tr":  "V. N. Bugaev, V. A. Tatarenko, Vzaimodeistvie i raspredelenie atomov v splavakh vnedreniya na osnove plotnoupakovannykh metallov (Kiev: Naukova dumka: 1989)."
+			},
+			{
+				"doi": "10.1016/j.physe.2010.03.024",
+				"or":  "T. M. Radchenko and V. A. Tatarenko, Physica E, 42, No. 8: 2047 (2010).",
+				"tr":  "T. M. Radchenko and V. A. Tatarenko, Physica E, 42, No. 8: 2047 (2010)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.44.4681",
+				"or":  "L.-Q. Chen and A. G. Khachaturyan, Phys. Rev. B, 44, No. 9: 4681 (1991).",
+				"tr":  "L.-Q. Chen and A. G. Khachaturyan, Phys. Rev. B, 44, No. 9: 4681 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Q. Chen and A. G. Khachaturyan, Kinetics of Ordering Transformations in Metals (Eds. H. Chen and V. K. Vasudevan) (Warrendale, Pennsylvania: TMS: 1992), p. 197.",
+				"tr":  "L. Q. Chen and A. G. Khachaturyan, Kinetics of Ordering Transformations in Metals (Eds. H. Chen and V. K. Vasudevan) (Warrendale, Pennsylvania: TMS: 1992), p. 197."
+			},
+			{
+				"doi": "10.1103/PhysRevB.46.5899",
+				"or":  "L.-Q. Chen and A. G. Khachaturyan, Phys. Rev. B, 46, No. 10: 5899 (1992).",
+				"tr":  "L.-Q. Chen and A. G. Khachaturyan, Phys. Rev. B, 46, No. 10: 5899 (1992)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(96)00137-1",
+				"or":  "R. Poduri and L.-Q. Chen, Acta Mater., 45, No. 1: 245 (1997).",
+				"tr":  "R. Poduri and L.-Q. Chen, Acta Mater., 45, No. 1: 245 (1997)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(97)00335-2",
+				"or":  "R. Poduri and L.-Q. Chen, Acta Mater., 46, No. 5: 1719 (1998).",
+				"tr":  "R. Poduri and L.-Q. Chen, Acta Mater., 46, No. 5: 1719 (1998)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(98)00015-9",
+				"or":  "Y. Wang, D. Banerjee, C. C. Su, and A. G. Khachaturyan, Acta Mater., 46, No. 9: 2983 (1998).",
+				"tr":  "Y. Wang, D. Banerjee, C. C. Su, and A. G. Khachaturyan, Acta Mater., 46, No. 9: 2983 (1998)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(99)00107-X",
+				"or":  "G. Rubin and A. G. Khachaturyan, Acta Mater., 47, No. 7: 1995 (1999).",
+				"tr":  "G. Rubin and A. G. Khachaturyan, Acta Mater., 47, No. 7: 1995 (1999)."
+			},
+			{
+				"doi": "10.1038/nnano.2009.58",
+				"or":  "S. Park and R. S. Ruoff, Nature Nanotech., 4: 217 (2009).",
+				"tr":  "S. Park and R. S. Ruoff, Nature Nanotech., 4: 217 (2009)."
+			},
+			{
+				"doi": "10.1038/nature04969",
+				"or":  "S. Stankovich, D. A. Dikin, G. H. Dommett, K. M. Kohlhaas, E. J. Zimney, E. A. Stach, R. D. Piner, S. T. Nguyen, and R. S. Ruoff, Nature, 442: 282 (2006).",
+				"tr":  "S. Stankovich, D. A. Dikin, G. H. Dommett, K. M. Kohlhaas, E. J. Zimney, E. A. Stach, R. D. Piner, S. T. Nguyen, and R. S. Ruoff, Nature, 442: 282 (2006)."
+			},
+			{
+				"doi": "10.1021/nl0731872",
+				"or":  "A. A. Balandin, S. Ghosh, W. Bao, I. Calizo, D. Teweldebrhan, F. Miao, and C. N. Lau, Nano Lett., 8: 902 (2008).",
+				"tr":  "A. A. Balandin, S. Ghosh, W. Bao, I. Calizo, D. Teweldebrhan, F. Miao, and C. N. Lau, Nano Lett., 8: 902 (2008)."
+			},
+			{
+				"doi": "10.1038/nnano.2007.451",
+				"or":  "D. Lee, M. B. Muller, S. Gilje, R. B. Kaner, and G. G. Wallace, Nature Nanotech., 3: 101 (2008).",
+				"tr":  "D. Lee, M. B. Muller, S. Gilje, R. B. Kaner, and G. G. Wallace, Nature Nanotech., 3: 101 (2008)."
+			},
+			{
+				"doi": "10.1038/nature05555",
+				"or":  "H. В. Heersche, P. Jarillo-Herrero, J. B. Oostinga, L. M. K. Vandersypen, and A. F. Morpurgo, Nature, 446: 56 (2007).",
+				"tr":  "H. V. Heersche, P. Jarillo-Herrero, J. B. Oostinga, L. M. K. Vandersypen, and A. F. Morpurgo, Nature, 446: 56 (2007)."
+			},
+			{
+				"doi": "10.1038/nphys544",
+				"or":  "B. Trauzettel, D. V. Bulaev, D. Loss, and G. Burkard, Nature Phys., 3: 192 (2007).",
+				"tr":  "B. Trauzettel, D. V. Bulaev, D. Loss, and G. Burkard, Nature Phys., 3: 192 (2007)."
+			},
+			{
+				"doi": "10.1016/j.physe.2007.06.020",
+				"or":  "Z. Chen, Yu-M. Lin, M. J. Rooks, and P. Avour, Physica E, 40: 228 (2007).",
+				"tr":  "Z. Chen, Yu-M. Lin, M. J. Rooks, and P. Avour, Physica E, 40: 228 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Nanomaterials Handbook (Ed. Yuri Gogotsi) (Boca Raton–London–New York: CRC Press–Taylor & Francis Group: 2006).",
+				"tr":  "Nanomaterials Handbook (Ed. Yuri Gogotsi) (Boca Raton–London–New York: CRC Press–Taylor & Francis Group: 2006)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Кривоглаз, А. А. Смирнов, Теория упорядочивающихся сплавов (Москва: Физматгиз: 1958) (а); M. A. Krivoglaz and A. A. Smirnov, The Theory of Order–Disorder in Alloys (Elsevier: New York: 1965) (б).",
+				"tr":  "M. A. Krivoglaz, A. A. Smirnov, Teoriya uporyadochivayushchikhsya splavov (Moskva: Fizmatgiz: 1958) (a); M. A. Krivoglaz and A. A. Smirnov, The Theory of Order–Disorder in Alloys (Elsevier: New York: 1965) (b)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Смирнов, Молекулярно-кинетическая теория металлов (Москва: Наука: 1966).",
+				"tr":  "A. A. Smirnov, Molekulyarno-Kineticheskaya Teoriya Metallov (Moskva: Nauka: 1966)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Смирнов, Обобщенная теория упорядочения сплавов (Киев: Наукова думка: 1986).",
+				"tr":  "A. A. Smirnov, Obobshchennaya Teoriya Uporyadocheniya Splavov (Kiev: Naukova dumka: 1986)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.103.016806",
+				"or":  "A. V. Shytov, D. A. Abanin, and L. S. Levitov, Phys. Rev. Lett., 103: 016806 (2009).",
+				"tr":  "A. V. Shytov, D. A. Abanin, and L. S. Levitov, Phys. Rev. Lett., 103: 016806 (2009)."
+			}
+		]
+	}
+}

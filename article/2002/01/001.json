@@ -1,0 +1,629 @@
+{
+	"_id":    "UFM.03.01.001",
+	"year":   2002,
+	"volume": 3,
+	"issue":  1,
+	"pages":  [1,86],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["01.02.2002"],
+	"PACS":   "05.70.Ln, 61.43.Hv, 61.72.Cc, 64.70.Kb",
+	"title":   {
+		"ua": "Структурні перетворення далеко від рівноваги",
+		"en": "Structural Transformations Far Off Equilibrium",
+		"ru": "Структурные превращения вдали от равновесия"
+	},
+	"abstract": {
+		"ua": "В межах методів статистичної фізики, що базуються на використанні неергодичної теорії і фазового простору з ультраметричною топологією, досліджено перетворення сильно нерівноважного конденсованого середовища на мікро- і макроскопічному структурних рівнях. На основі концепції про перебудову потенціального рельєфу проведено поділ вектора зсуву атомів на пружну й пластичну складові. Показано, що мартенситне перетворення зводиться не до термодинамічного, а до синергетичного переходу, що є властивим сильно нерівноважній системі. На макроскопічних масштабах віддалення від рівноваги призводить до втрати ергодичності, завдяки чому виникає ієрархічний зв’язок між різними структурними рівнями. У просторі станів такі структури виявляють фрактальний характер, і їхнє адекватне представлення досягається за рахунок використання розкладу Фур’є по хвилям розподілу атомів, модульованим в ультраметричному просторі. В якості застосування розвинутих методів розглядаються: еволюція кристалічної структури в ході полиморфного ГЩУ$\\leftrightarrow$ГЦК-перетворення через стадію утворення одновимірних довгоперіодних структур; кінетика низькотемпературної еволюції орторомбічної фази нестехіометричних оксидів через стадію гомологічних структур; закономірності прямого й оберненого перетворень кристалічної і дефектної структур паладію в ході насичення воднем і дегазації; особливості мартенситного перетворення (атермічний характер і замороженість змін макроструктури, сполучення детермінованості і стохастичності, різноманітний прояв гістерезису, вибуховий характер перетворення при неповному циклюванні, структурно залежний дефект модуля, нетривіальний прояв ефекту пам’яті, особливості акустичної емісії). На основі аналізу фрактальної структури розподілу термодинамічного потенціалу в конфігураційному просторі знайдено особливості часових асимптотик структурного фактора.",
+		"en": "Within the framework of the methods of statistical physics based on the use of the nonergodic theory and phase space with ultrametric topology, transformations of strong nonequilibrium condensed matter are studied at micro- and macroscopic structural levels. Based on the conception of rearranged potential relief, a displacement-vector partition into elastic and plastic parts is obtained. The martensitic transformation is shown to be not reducible to thermodynamic transformation, but to synergetic transition that inherent in systems far off equilibrium. On macroscopic scales, a moving off equilibrium causes ergodicity breaking, due to which the hierarchical coupling between different structure levels is appeared. Within the state space, such structures exhibit the fractal nature to be represented by means of Fourier series of atom distribution waves modulated in ultrametric space. As applications of proposed methods, we treat the following: crystal-structure evolution during polymorphic transformation of h.c.p. lattice to f.c.c. one through the stage of one-dimensional long-period structures; kinetics of low-temperature evolution of orthorhombic phase of HTSC nonstoichiometric metal oxides through the stage of homological structures; peculiarities of direct and backward transformations of crystal and defect structures of the palladium during its saturation by hydrogen and degassing process; peculiarities of the martensitic transformation (athermic character and freezing in macrostructure rearrangements, combination of both determinancy and stochasticity, different manifestation of hysteresis, explosive-like transformation at incomplete cycling, structure-dependent defect of modulus, nontrivial manifestation of the memory effect, peculiarities of acoustic emission). On the basis of analysis of a fractal structure of thermodynamic-potential distribution in a configuration space, peculiarities of time asymptotics of the structure factor are revealed.",
+		"ru": "В рамках методов статистической физики, основанных на использовании неэргодической теории и фазового пространства с ультраметрической топологией, исследованы превращения сильно неравновесный конденсированной среды на микро- и макроскопическом структурных уровнях. На основе концепции перестраиваемого потенциального рельефа проведено разделение вектора смещения атомов на упругую и пластическую составляющие. Показано, что мартенситное превращение сводится не к термодинамическому, а синергетическому переходу, присущему сильно неравновесной системе. На макроскопических масштабах удаление от равновесия приводит к потере эргодичности, благодаря чему возникает иерархическая связь между различными структурными уровнями. В пространстве состояний такие структуры проявляют фрактальный характер, и их адекватное представление достигается за счет использования разложения Фурье по волнам распределения атомов, модулированным в ультраметрическом пространстве. В качестве приложения развитых методов рассматриваются: эволюция кристаллической структуры в ходе полиморфного ГПУ$\\leftrightarrow$ГЦК-превращения через стадию образования одномерных длиннопериодных структур; кинетика низкотемпературной эволюции орторомбической фазы нестехиометрических оксидов через стадию гомологических структур; закономерности прямого и обратного превращений кристаллической и дефектной структур палладия в ходе насыщения водородом и дегазации; особенности мартенситного превращения (атермический характер и замороженность изменений макроструктуры, сочетание детерминированности и стохастичности, различное проявление гистерезиса, взрывной характер превращения при неполном циклировании, структурно зависимый дефект модуля, нетривиальное проявление эффекта памяти, особенности акустической эмиссии). На основе анализа фрактальной структуры распределения термодинамического потенциала в конфигурационном пространстве найдены особенности временных асимптотик структурного фактора."
+	},
+	"keywords": {
+		"ua": "структура, мартенситне перетворення, ієрархічна підпорядкованість, ультраметричний простір, неергодичність",
+		"en": "structure, martensitic transformation, hierarchy, ultrametric space, nonergodicity",
+		"ru": "структура, мартенситное превращение, иерархическая соподчиненность, ультраметрическое пространство, неэргодичность"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Олємськой", "en": "O. I. Olemskoi", "ru": "А. И. Олемской"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "А. А. Кацнельсон", "en": "A. A. Katsnelson", "ru": "А. А. Кацнельсон"},
+			"OID": [503]
+		}
+	],
+	"cited_by": {
+		"count":  2,
+		"list":  [
+			{
+				"doi": "10.1134/1.1687852",
+				"cit": "V. M. Avdyukhina, A. A. Anishchenko, A. A. Katsnel’son, A. I. Olemskoi <i>et al.</i>, <a href=\"https://doi.org/10.1134/1.1687852\">Phys. Solid State <b>46</b>, 411 (2004)</a>."
+			},
+			{
+				"doi": "10.1134/1.1649422",
+				"cit": "V. M. Avdyukhina, A. A. Anishchenko, A. A. Katsnel’son and G. P. Revkevich, <a href=\"https://doi.org/10.1134/1.1649422\">Phys. Solid State <b>46</b>, 265 (2004)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 115,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "А. А. Смирнов, Молекулярно-кинетическая теория металлов (Москва: Наука: 1966).",
+				"tr":  "A. A. Smirnov, Molekulyarno-kineticheskaya teoriya metallov (Moskva: Nauka: 1966)."
+			},
+			{
+				"doi": "",
+				"or":  "Физическое металловедение, вып. 3: Фазовые превращения. Металлография (Под ред. Р. Кана) (Москва: Мир: 1968).",
+				"tr":  "Fizicheskoe metallovedenie, No. 3: Fazovye prevrashcheniya. Metallografiya (Pod red. R. Kana) (Moskva: Mir: 1968)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Косевич, Основы механики кристаллической решетки (Москва: Наука: 1972).",
+				"tr":  "A. M. Kosevich, Osnovy mekhaniki kristallicheskoi reshetki (Moskva: Nauka: 1972)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Хачатурян, Теория фазовых превращений и структура твердых растворов (Москва: Наука: 1974).",
+				"tr":  "A. G. Khachaturyan, Teoriya fazovykh prevrashchenii i struktura tverdykh rastvorov (Moskva: Nauka: 1974)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Иверонова, А. А. Кацнельсон, Ближний порядок в твердых растворах (Москва: Наука: 1977).",
+				"tr":  "V. I. Iveronova, A. A. Katsnel'son, Blizhnii poryadok v tverdykh rastvorakh (Moskva: Nauka: 1977)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Кристиан, Теория превращений в металлах и сплавах (Москва: Мир: 1978), ч. 1.",
+				"tr":  "Dzh. Kristian, Teoriya prevrashchenii v metallakh i splavakh (Moskva: Mir: 1978), ch. 1."
+			},
+			{
+				"doi": "",
+				"or":  "A. D. Bruce and R. A. Cowley, Structural Phase Transitions (London: Taylor and Francis Ltd.: 1981).",
+				"tr":  "A. D. Bruce and R. A. Cowley, Structural Phase Transitions (London: Taylor and Francis Ltd.: 1981)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Кривоглаз, Диффузное рассеяние рентгеновских лучей и нейтронов на флуктуационных неоднородностях в неидеальных кристаллах (Киев: Наукова думка: 1984).",
+				"tr":  "M. A. Krivoglaz, Diffuznoe rasseyanie rentgenovskikh luchei i neitronov na fluktuatsionnykh neodnorodnostyakh v neideal'nykh kristallakh (Kiev: Naukova dumka: 1984)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Бугаев, В. А. Татаренко, Взаимодействие и распределение атомов в сплавах внедрения на основе плотноупакованных металлов (Киев: Наукова думка: 1989).",
+				"tr":  "V. N. Bugaev, V. A. Tatarenko, Vzaimodeistvie i raspredelenie atomov v splavakh vnedreniya na osnove plotnoupakovannykh metallov (Kiev: Naukova dumka: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Katsnelson and A. I. Olemskoi, Microscopic Theory of Inhomogeneous Structures (Moscow: Mir Publishers: 1990).",
+				"tr":  "A. A. Katsnelson and A. I. Olemskoi, Microscopic Theory of Inhomogeneous Structures (Moscow: Mir Publishers: 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "H. E. Stanley, Introduction to Phase Transitions and Critical Phenomena (Oxford: Clarendon Press: 1971).",
+				"tr":  "H. E. Stanley, Introduction to Phase Transitions and Critical Phenomena (Oxford: Clarendon Press: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "L. D. Landau and E. M. Lifshitz, Statistical Physics (Oxford: Pergamon Press: 1980).",
+				"tr":  "L. D. Landau and E. M. Lifshitz, Statistical Physics (Oxford: Pergamon Press: 1980)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Статистическая физика (Москва: Наука: 1978), ч. 2.",
+				"tr":  "L. D. Landau, E. M. Lifshits, Statisticheskaya fizika (Moskva: Nauka: 1978), ch. 2."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Абрикосов, Л. П. Горьков, И. Е. Дзялошинский, Методы квантовой теории поля в статистической физике (Москва: ГИФМЛ: 1962).",
+				"tr":  "A. A. Abrikosov, L. P. Gor'kov, I. E. Dzyaloshinskii, Metody kvantovoi teorii polya v statisticheskoi fizike (Moskva: GIFML: 1962)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Н. Зубарев, Неравновесная статистическая термодинамика (Москва: Наука: 1971).",
+				"tr":  "D. N. Zubarev, Neravnovesnaya statisticheskaya termodinamika (Moskva: Nauka: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Forster, Hydrodynamic Fluctuations, Broken Symmetry, and Correlation Functions (Reading: Benjamin W.A., Inc.: 1975).",
+				"tr":  "D. Forster, Hydrodynamic Fluctuations, Broken Symmetry, and Correlation Functions (Reading: Benjamin W.A., Inc.: 1975)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Барьяхтар, В. Н. Криворучко, Д. А. Яблонский, Функции Грина в теории магнетизма (Киев: Наукова думка: 1984).",
+				"tr":  "V. G. Bar'yakhtar, V. N. Krivoruchko, D. A. Yablonskii, Funktsii Grina v teorii magnetizma (Kiev: Naukova dumka: 1984)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Гетзе, Фазовые переходы жидкость–стекло (Москва: Наука: 1991).",
+				"tr":  "V. Getze, Fazovye perekhody zhidkost'–steklo (Moskva: Nauka: 1991)."
+			},
+			{
+				"doi": "",
+				"or":  "Glassy Metals (Eds. H.-J. Guntherodt and H. Beck) (Berlin, Heidelberg, New York: Springer-Verlag: 1981).",
+				"tr":  "Glassy Metals (Eds. H.-J. Guntherodt and H. Beck) (Berlin, Heidelberg, New York: Springer-Verlag: 1981)."
+			},
+			{
+				"doi": "",
+				"or":  "Metallic Glasses (Eds. J. J. Hillman and H. J. Limy) (American Society for Metals: 1978).",
+				"tr":  "Metallic Glasses (Eds. J. J. Hillman and H. J. Limy) (American Society for Metals: 1978)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.58.801",
+				"or":  "K. Binder and A. P. Young, Rev. Mod. Phys., 58: 801 (1986).",
+				"tr":  "K. Binder and A. P. Young, Rev. Mod. Phys., 58: 801 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Mezard, G. Parisi, and M. A. Virasoro, Spin Glass Theory and Beyond (Singapore: World Scientific: 1987).",
+				"tr":  "M. Mezard, G. Parisi, and M. A. Virasoro, Spin Glass Theory and Beyond (Singapore: World Scientific: 1987)."
+			},
+			{
+				"doi": "10.1080/00018738200101438",
+				"or":  "R. G. Palmer, Adv. Phys., 31: 669 (1982).",
+				"tr":  "R. G. Palmer, Adv. Phys., 31: 669 (1982)."
+			},
+			{
+				"doi": "10.1051/jphys:01984004505084300",
+				"or":  "M. Mezard, G. Parisi, N. Sourlas, G. Toulouse, and M. Virasoro, J. Physique, 45: 843 (1984).",
+				"tr":  "M. Mezard, G. Parisi, N. Sourlas, G. Toulouse, and M. Virasoro, J. Physique, 45: 843 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "A. I. Olemskoi, Theory of Structure Transformations in Non-Equilibrium Condensed Matter (New York: NOVA Science: 1999).",
+				"tr":  "A. I. Olemskoi, Theory of Structure Transformations in Non-Equilibrium Condensed Matter (New York: NOVA Science: 1999)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Bцtger, Principles of the Theory of Lattice Dynamics (Berlin: Academie Verlag: 1983).",
+				"tr":  "H. Btstger, Principles of the Theory of Lattice Dynamics (Berlin: Academie Verlag: 1983)."
+			},
+			{
+				"doi": "10.1002/qua.560240302",
+				"or":  "E. H. Lieb, Int. J. Quant. Chem., 34: 243 (1983).",
+				"tr":  "E. H. Lieb, Int. J. Quant. Chem., 34: 243 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Д. Тяпкин, И. В. Лясоцкий, Е. И. Малиенко, ФММ, 34: 107 (1974).",
+				"tr":  "Yu. D. Tyapkin, I. V. Lyasotskii, E. I. Malienko, FMM, 34: 107 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, ЖТФ, 18: 999 (1948).",
+				"tr":  "G. V. Kurdyumov, ZhTF, 18: 999 (1948)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Олемской, А. В. Хоменко, ЖЭТФ, 110: 2144 (1996).",
+				"tr":  "A. I. Olemskoi, A. V. Khomenko, ZhETF, 110: 2144 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "I. Prigogine, Non-Equilibrium Statistical Mechanics (New York, London: John Wiley and Sons: 1962).",
+				"tr":  "I. Prigogine, Non-Equilibrium Statistical Mechanics (New York, London: John Wiley and Sons: 1962)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Паскаль, Изв. вузов. Физика, № 5: 41 (1985).",
+				"tr":  "Yu. I. Paskal', Izv. vuzov. Fizika, No. 5: 41 (1985)."
+			},
+			{
+				"doi": "10.1088/0305-4608/14/3/022",
+				"or":  "Jin-Ming Zhang, J. Phys. F, 15: 769 (1984).",
+				"tr":  "Jin-Ming Zhang, J. Phys. F, 15: 769 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "М. П. Кащенко, Р. И. Минц, ЖЭТФ, 75: 2280 (1978).",
+				"tr":  "M. P. Kashchenko, R. I. Mints, ZhETF, 75: 2280 (1978)."
+			},
+			{
+				"doi": "10.1007/978-3-642-88338-5",
+				"or":  "H. Haken, Synergetics (Berlin, Heidelberg, New York: Springer-Verlag: 1983).",
+				"tr":  "H. Haken, Synergetics (Berlin, Heidelberg, New York: Springer-Verlag: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Олемской, В. А. Петрунин, Изв. вузов. Физика, № 1: 82 (1987).",
+				"tr":  "A. I. Olemskoi, V. A. Petrunin, Izv. vuzov. Fizika, No. 1: 82 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Теория упругости (Москва: Наука: 1987).",
+				"tr":  "L. D. Landau, E. M. Lifshits, Teoriya uprugosti (Moskva: Nauka: 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. И. Николин, Многослойные структуры и политипизм в металлических сплавах (Киев: Наукова ¬думка: 1984).",
+				"tr":  "B. I. Nikolin, Mnogosloinye struktury i politipizm v metallicheskikh splavakh (Kiev: Naukova ¬dumka: 1984)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Кондратьев, Металлофизика, 3: вып.6: 13 (1981).",
+				"tr":  "V. V. Kondrat'ev, Metallofizika, 3: No.6: 13 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. А. Вуль, М. А. Кривоглаз, ФММ, 51: 231 (1981); Металлофизика, 4: вып. 5: 3 (1982).",
+				"tr":  "D. A. Vul', M. A. Krivoglaz, FMM, 51: 231 (1981); Metallofizika, 4: No. 5: 3 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Устинов, А. Ю. Гаевский, А. Д. Рудь, В. С. Скородзиевский, К. В. Чуистов, ФММ, 62: 519 (1986).",
+				"tr":  "A. I. Ustinov, A. Yu. Gaevskii, A. D. Rud', V. S. Skorodzievskii, K. V. Chuistov, FMM, 62: 519 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Олемской, ФММ, 68: 56 (1989).",
+				"tr":  "A. I. Olemskoi, FMM, 68: 56 (1989)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.53.958",
+				"or":  "R. G. Palmer, D. L. Stein, E. Abrahams, and P. W. Anderson, Phys. Rev. Lett., 53: 958 (1984).",
+				"tr":  "R. G. Palmer, D. L. Stein, E. Abrahams, and P. W. Anderson, Phys. Rev. Lett., 53: 958 (1984)."
+			},
+			{
+				"doi": "10.1016/S0375-9601(98)00549-0",
+				"or":  "A. I. Olemskoi and A. D. Kiselev, Phys. Lett. A, 247: 221 (1998).",
+				"tr":  "A. I. Olemskoi and A. D. Kiselev, Phys. Lett. A, 247: 221 (1998)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.55.1634",
+				"or":  "A. T. Ogielski, Phys. Rev. Lett., 55: 1634 (1986).",
+				"tr":  "A. T. Ogielski, Phys. Rev. Lett., 55: 1634 (1986)."
+			},
+			{
+				"doi": "10.1007/BF01307892",
+				"or":  "K. Yvon and M. Francois, Z. Phys. B, 76: 413 (1989).",
+				"tr":  "K. Yvon and M. Francois, Z. Phys. B, 76: 413 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Зубкус, С. Р. Лапинскас, Э. Э. Торнау, СФХТ, 2: 82 (1989).",
+				"tr":  "V. E. Zubkus, S. R. Lapinskas, E. E. Tornau, SFKhT, 2: 82 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Van Tandello, H. W. Zandbergen, and S. Amelinckx, Solid State Commun., 63: 289, 603 (1987).",
+				"tr":  "G. Van Tandello, H. W. Zandbergen, and S. Amelinckx, Solid State Commun., 63: 289, 603 (1987)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.37.2317",
+				"or":  "D. I. Werder, C. H. Chen, and R. J. Cava, Phys. Rev. B, 37: 2318 (1988).",
+				"tr":  "D. I. Werder, C. H. Chen, and R. J. Cava, Phys. Rev. B, 37: 2318 (1988)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.61.215",
+				"or":  "A. G. Khachaturyan and J. M. Morris, Phys. Rev. Lett., 61: 215 (1988).",
+				"tr":  "A. G. Khachaturyan and J. M. Morris, Phys. Rev. Lett., 61: 215 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Олемской, Е. А. Торопов, ФММ, № 7: 32 (1991).",
+				"tr":  "A. I. Olemskoi, E. A. Toropov, FMM, No. 7: 32 (1991)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.39.4784",
+				"or":  "M. E. McHenry and M. P. Maley, Phys. Rev. B, 39: 4784 (1989).",
+				"tr":  "M. E. McHenry and M. P. Maley, Phys. Rev. B, 39: 4784 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. З. Мейлихов, СФХТ, 2, № 9: 5 (1989).",
+				"tr":  "E. Z. Meilikhov, SFKhT, 2, No. 9: 5 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Л. Гинзбург, ЖЭТФ, 90: 754 (1986).",
+				"tr":  "S. L. Ginzburg, ZhETF, 90: 754 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Мощалков, А. А. Жуков, Л. И. Леонюк и др., СФХТ, 2, № 12: 84 (1989).",
+				"tr":  "V. V. Moshchalkov, A. A. Zhukov, L. I. Leonyuk i dr., SFKhT, 2, No. 12: 84 (1989)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.39.11475",
+				"or":  "M. Foldeaki, M. E. McHenry, and R. C. O’Handley, Phys. Rev. B, 39: 11475 (1989).",
+				"tr":  "M. Foldeaki, M. E. McHenry, and R. C. O'Handley, Phys. Rev. B, 39: 11475 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Гиппиус, В. В. Мощалков, Хо Хыу Нян и др., Письма в ЖЭТФ, 49: 392 (1989).",
+				"tr":  "A. A. Gippius, V. V. Moshchalkov, Kho Khyu Nyan i dr., Pis'ma v ZhETF, 49: 392 (1989)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.58.765",
+				"or":  "R. Rammal, G. Toulouse, and M. A. Virasoro, Rev. Mod. Phys., 58: 765 (1986).",
+				"tr":  "R. Rammal, G. Toulouse, and M. A. Virasoro, Rev. Mod. Phys., 58: 765 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Г. Гусаковская, С. Н. Пирумова, Л. О. Атовмян, СФХТ, 2, № 7: 61 (1989).",
+				"tr":  "I. G. Gusakovskaya, S. N. Pirumova, L. O. Atovmyan, SFKhT, 2, No. 7: 61 (1989)."
+			},
+			{
+				"doi": "10.1007/3-540-08705-2",
+				"or":  "Topics in Applied Physics, vol. 28: Hydrogen in Metals (Ed. G. Alefeld and J. Vцlkl), (Berlin, Heidelberg, New York: Springer-Verlag: 1978).",
+				"tr":  "Topics in Applied Physics, vol. 28: Hydrogen in Metals (Ed. G. Alefeld and J. Vtslkl), (Berlin, Heidelberg, New York: Springer-Verlag: 1978)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Левинский, Диаграммы состояния (Москва: Металлургия: 1975).",
+				"tr":  "Yu. V. Levinskii, Diagrammy sostoyaniya (Moskva: Metallurgiya: 1975)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. П. Ревкевич, А. И. Олемской, М. А. Князева, А. А. Кацнельсон, Металлофизика, 13, № 9: 45 (1991).",
+				"tr":  "G. P. Revkevich, A. I. Olemskoi, M. A. Knyazeva, A. A. Katsnel'son, Metallofizika, 13, No. 9: 45 (1991)."
+			},
+			{
+				"doi": "10.1016/0022-5088(76)90255-1",
+				"or":  "H. C. Jamieson, G. C. Weatherly, and F. D. Manchester, J. Less-Common Metals, 50: 85 (1976).",
+				"tr":  "H. C. Jamieson, G. C. Weatherly, and F. D. Manchester, J. Less-Common Metals, 50: 85 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. П. Ревкевич, А. А. Кацнельсон, В. М. Христов, Металлофизика, 11, № 3: 57 (1989).",
+				"tr":  "G. P. Revkevich, A. A. Katsnel'son, V. M. Khristov, Metallofizika, 11, No. 3: 57 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. П. Ревкевич, А. И. Олемской, А. А. Кацнельсон, В. М. Христов, Металлофизика, 12, № 3: 71 (1990).",
+				"tr":  "G. P. Revkevich, A. I. Olemskoi, A. A. Katsnel'son, V. M. Khristov, Metallofizika, 12, No. 3: 71 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Иверонова, Г. П. Ревкевич, Теория рассеяния рентгеновских лучей (Москва: Изд. МГУ: 1968).",
+				"tr":  "V. I. Iveronova, G. P. Revkevich, Teoriya rasseyaniya rentgenovskikh luchei (Moskva: Izd. MGU: 1968)."
+			},
+			{
+				"doi": "",
+				"or":  "Physical Metallurgy (Ed. R. W. Cahn) (Amsterdam: North Holland and Publishing Company: 1965).",
+				"tr":  "Physical Metallurgy (Ed. R. W. Cahn) (Amsterdam: North Holland and Publishing Company: 1965)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. П. Ревкевич, С. В. Свешников, А. А. Кацнельсон, В. М. Христов, Изв. вузов. Физика, 76: 117 (1988).",
+				"tr":  "G. P. Revkevich, S. V. Sveshnikov, A. A. Katsnel'son, V. M. Khristov, Izv. vuzov. Fizika, 76: 117 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "S. D. Axelrod and A. C. Makrides, J. Phys. Chem., 43: 50 (1969).",
+				"tr":  "S. D. Axelrod and A. C. Makrides, J. Phys. Chem., 43: 50 (1969)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.20.1339",
+				"or":  "D. K. Hsu and R. G. Leisure, Phys. Rev. B, 20: 1339 (1979).",
+				"tr":  "D. K. Hsu and R. G. Leisure, Phys. Rev. B, 20: 1339 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. С. Уманский, Ю. А. Скаков, Физика металлов (Москва: Атомиздат: 1978).",
+				"tr":  "Ya. S. Umanskii, Yu. A. Skakov, Fizika metallov (Moskva: Atomizdat: 1978)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. П. Ревкевич, С. В. Свешников, А. А. Кацнельсон, Изв. вузов. Физика, 75: 102 (1988).",
+				"tr":  "G. P. Revkevich, S. V. Sveshnikov, A. A. Katsnel'son, Izv. vuzov. Fizika, 75: 102 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. П. Ревкевич, А. А. Кацнельсон, В. М. Христов, Вестник МГУ. Физика–Асторономия, 29, 73: 72 (1988).",
+				"tr":  "G. P. Revkevich, A. A. Katsnel'son, V. M. Khristov, Vestnik MGU. Fizika–Astoronomiya, 29, 73: 72 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Олемской, ФТТ, 30: 3384 (1988).",
+				"tr":  "A. I. Olemskoi, FTT, 30: 3384 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. П. Ревкевич, М. А.Князева, А. И. Олемской, А. А. Кацнельсон, ФММ, № 9: 43 (1992).",
+				"tr":  "G. P. Revkevich, M. A.Knyazeva, A. I. Olemskoi, A. A. Katsnel'son, FMM, No. 9: 43 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, ДАН СССР, 6: 1543 (1948).",
+				"tr":  "G. V. Kurdyumov, DAN SSSR, 6: 1543 (1948)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Олемской, Ю. И. Паскаль, Проявление неравновесности и неэргодичности при мартенситном превращении (Препр. № 30 Томского филиала СО АН СССР, Томск: 1988).",
+				"tr":  "A. I. Olemskoi, Yu. I. Paskal', Proyavlenie neravnovesnosti i neergodichnosti pri martensitnom prevrashchenii (Prepr. No. 30 Tomskogo filiala SO AN SSSR, Tomsk: 1988)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, Л. Г. Хандрос, ЖТФ, 19: 761 (1948).",
+				"tr":  "G. V. Kurdyumov, L. G. Khandros, ZhTF, 19: 761 (1948)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, Л. Г. Хандрос, ДАН СССР, 66: 211 (1949).",
+				"tr":  "G. V. Kurdyumov, L. G. Khandros, DAN SSSR, 66: 211 (1949)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Г. Хандрос, И. А. Арбузова, Металлы, электроны, решетка (Киев: Наукова думка: 1975), с. 109.",
+				"tr":  "L. G. Khandros, I. A. Arbuzova, Metally, elektrony, reshetka (Kiev: Naukova dumka: 1975), s. 109."
+			},
+			{
+				"doi": "10.1016/0001-6160(74)90050-9",
+				"or":  "P. Z. Terraqlio and K. Mukherjee, Acta Met., 22: 835 (1974).",
+				"tr":  "P. Z. Terraqlio and K. Mukherjee, Acta Met., 22: 835 (1974)."
+			},
+			{
+				"doi": "10.2320/matertrans1960.16.285",
+				"or":  "T. Tadaki, M. Tokoro, and K. Shimizu, Trans. JIM, 6: 285 (1975).",
+				"tr":  "T. Tadaki, M. Tokoro, and K. Shimizu, Trans. JIM, 6: 285 (1975)."
+			},
+			{
+				"doi": "10.1016/0026-0800(71)90052-8",
+				"or":  "J. D. Sandrock and R. F. Hehemann, Metallography, 4: 451 (1971).",
+				"tr":  "J. D. Sandrock and R. F. Hehemann, Metallography, 4: 451 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лихачев, Изв. вузов. Физика, № 5: 21 (1985).",
+				"tr":  "V. A. Likhachev, Izv. vuzov. Fizika, No. 5: 21 (1985)."
+			},
+			{
+				"doi": "10.1016/0001-6160(74)90055-8",
+				"or":  "H. S. Tonq and C. M. Wayman, Acta Met., 22: 887 (1974).",
+				"tr":  "H. S. Tonq and C. M. Wayman, Acta Met., 22: 887 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Я. Ерофеев, Л. А. Монасевич, В. А. Павская, Ю. И. Паскаль, Металлофизика, 4, № 1: 52 (1982).",
+				"tr":  "V. Ya. Erofeev, L. A. Monasevich, V. A. Pavskaya, Yu. I. Paskal', Metallofizika, 4, No. 1: 52 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. А. Монасевич, В. Я. Ерофеев, Ю. И. Паскаль, Рукопись деп. в ВИНИТИ, Рег. № 3143-82 Деп. (Томск: 1982).",
+				"tr":  "L. A. Monasevich, V. Ya. Erofeev, Yu. I. Paskal', Rukopis' dep. v VINITI, Reg. No. 3143-82 Dep. (Tomsk: 1982)."
+			},
+			{
+				"doi": "10.1016/0036-9748(76)90092-2",
+				"or":  "A. Cornelis and C. M. Wayman, Scripta Met., 10: 359 (1976).",
+				"tr":  "A. Cornelis and C. M. Wayman, Scripta Met., 10: 359 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Паскаль, Л. А. Монасевич, ФММ, 52: 1011 (1981).",
+				"tr":  "Yu. I. Paskal', L. A. Monasevich, FMM, 52: 1011 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Паскаль, Л. А. Монасевич, Рукопись деп. в ВИНИТИ, Рег. № 1667-80 Деп. (Томск: 1980).",
+				"tr":  "Yu. I. Paskal', L. A. Monasevich, Rukopis' dep. v VINITI, Reg. No. 1667-80 Dep. (Tomsk: 1980)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Корнилов, О. К. Качур, Е. В. Белоусов, Никелид титана и другие сплавы с эффектом памяти (Москва: Наука: 1977).",
+				"tr":  "I. I. Kornilov, O. K. Kachur, E. V. Belousov, Nikelid titana i drugie splavy s effektom pamyati (Moskva: Nauka: 1977)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Warlimont and L. Delaey, Martensitic Transformations in Copper–Silver and Gold-Based Alloys (Oxford, New York, Toronto, Sydney: Pergamon Press: 1974).",
+				"tr":  "H. Warlimont and L. Delaey, Martensitic Transformations in Copper–Silver and Gold-Based Alloys (Oxford, New York, Toronto, Sydney: Pergamon Press: 1974)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Я. Ерофеев, Ю. И. Паскаль, ДАН СССР, 286: 879 (1985).",
+				"tr":  "V. Ya. Erofeev, Yu. I. Paskal', DAN SSSR, 286: 879 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Паскаль, В. Я. Ерофеев, Л. А. Монасевич, Металлофизика, 6, № 6: 36 (1984).",
+				"tr":  "Yu. I. Paskal', V. Ya. Erofeev, L. A. Monasevich, Metallofizika, 6, No. 6: 36 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Паскаль, Л. А. Монасевич, Физика деформированного упрочнения сплавов и сталей (Томск: Изд-во ТГУ: 1980), с. 154.",
+				"tr":  "Yu. I. Paskal', L. A. Monasevich, Fizika deformirovannogo uprochneniya splavov i stalei (Tomsk: Izd-vo TGU: 1980), s. 154."
+			},
+			{
+				"doi": "",
+				"or":  "В. Я. Ерофеев, Л. А. Монасевич, В. А. Павская, Ю. И. Паскаль, ФММ, 53: 963 (1982).",
+				"tr":  "V. Ya. Erofeev, L. A. Monasevich, V. A. Pavskaya, Yu. I. Paskal', FMM, 53: 963 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Иевлев, В. П. Мелехин, Р. И. Минц, В. М. Сегаль, ФТТ, 15: 2647 (1973).",
+				"tr":  "Yu. I. Ievlev, V. P. Melekhin, R. I. Mints, V. M. Segal', FTT, 15: 2647 (1973)."
+			},
+			{
+				"doi": "10.1016/0036-9748(81)90261-1",
+				"or":  "J. Baram, V. Gafen, and M. Rosen, Scripta Met., 15: 835 (1981).",
+				"tr":  "J. Baram, V. Gafen, and M. Rosen, Scripta Met., 15: 835 (1981)."
+			},
+			{
+				"doi": "10.1016/0001-6160(82)90114-6",
+				"or":  "J. Baram and M. Rosen, Acta Met., 30: 655 (1982).",
+				"tr":  "J. Baram and M. Rosen, Acta Met., 30: 655 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Плотников, Л. А. Монасевич, Ю. И. Паскаль, ФТТ, 273: 3174 (1985).",
+				"tr":  "V. A. Plotnikov, L. A. Monasevich, Yu. I. Paskal', FTT, 273: 3174 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Плотников, Л. А. Монасевич, Ю. И. Паскаль, ФММ, 63: 757 (1987).",
+				"tr":  "V. A. Plotnikov, L. A. Monasevich, Yu. I. Paskal', FMM, 63: 757 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Плотников, Л. А. Монасевич, В. Э. Гюнтер, Ю. И. Паскаль, ДАН СССР, 290: 110 (1986).",
+				"tr":  "V. A. Plotnikov, L. A. Monasevich, V. E. Gyunter, Yu. I. Paskal', DAN SSSR, 290: 110 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Плотников, Л. А. Монасевич, Ю. И. Паскаль, ФММ, 61: 769 (1986).",
+				"tr":  "V. A. Plotnikov, L. A. Monasevich, Yu. I. Paskal', FMM, 61: 769 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "С. де Гроот, П. Мазур, Неравновесная термодинамика (Москва: Мир: 1964).",
+				"tr":  "S. de Groot, P. Mazur, Neravnovesnaya termodinamika (Moskva: Mir: 1964)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Кауфман, М. Коэн, Успехи физики металлов, вып. 4: Термодинамика и кинетика мартенситных превращений (Москва: Наука: 1961), с. 192.",
+				"tr":  "L. Kaufman, M. Koen, Uspekhi fiziki metallov, No. 4: Termodinamika i kinetika martensitnykh prevrashchenii (Moskva: Nauka: 1961), s. 192."
+			},
+			{
+				"doi": "",
+				"or":  "F. Falk, J. Physique, 43, Suppl. No. 12: C4-3 (1982).",
+				"tr":  "F. Falk, J. Physique, 43, Suppl. No. 12: C4-3 (1982)."
+			},
+			{
+				"doi": "10.1007/BF02814877",
+				"or":  "A. R. Entwisle, Met. Trans., 2: 2395 (1971).",
+				"tr":  "A. R. Entwisle, Met. Trans., 2: 2395 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. М. Заславский, Стохастичность динамических систем (Москва: Наука, 1984).",
+				"tr":  "G. M. Zaslavskii, Stokhastichnost' dinamicheskikh sistem (Moskva: Nauka, 1984)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Келли, В. Гровз, Кристаллография и дефекты в кристаллах (Москва: Мир: 1970), с. 125.",
+				"tr":  "A. Kelli, V. Grovz, Kristallografiya i defekty v kristallakh (Moskva: Mir: 1970), s. 125."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Паскаль, В. Л. Ерофеев, Л. А. Монасевич, Металлофизика, 6, вып.6: 36 (1984).",
+				"tr":  "Yu. I. Paskal', V. L. Erofeev, L. A. Monasevich, Metallofizika, 6, No. 6: 36 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Кондратьев, ФММ, 41: 1169 (1976).",
+				"tr":  "V. V. Kondrat'ev, FMM, 41: 1169 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Хачин, Изв. вузов. Физика, № 5: 88 (1985).",
+				"tr":  "V. N. Khachin, Izv. vuzov. Fizika, No. 5: 88 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Паскаль, В. Л. Ерофеев, Л. А. Монасевич, В. А. Павская, Изв. вузов. Физика, № 6: 103 (1982).",
+				"tr":  "Yu. I. Paskal', V. L. Erofeev, L. A. Monasevich, V. A. Pavskaya, Izv. vuzov. Fizika, No. 6: 103 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "C. M. Wayman, Introduction to the Crystallography of Martensitic Transformations (New York, London: McMillan: 1967).",
+				"tr":  "C. M. Wayman, Introduction to the Crystallography of Martensitic Transformations (New York, London: McMillan: 1967)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Паскаль, Изв. вузов. Физика, № 1: 82 (1983).",
+				"tr":  "Yu. I. Paskal', Izv. vuzov. Fizika, No. 1: 82 (1983)."
+			}
+		]
+	}
+}

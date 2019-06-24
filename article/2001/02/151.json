@@ -1,0 +1,231 @@
+{
+	"_id":    "UFM.02.02.151",
+	"year":   2001,
+	"volume": 2,
+	"issue":  2,
+	"pages":  [151,187],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["08.02.2001"],
+	"PACS":   "61.72.Lk, 61.72.Nn, 62.20.Fe, 81.40.Ef, 81.40.Lm",
+	"title":   {
+		"ua": "Деформаційна структура металів і діяграми ІДТ",
+		"en": "Deformation Structure of Metals an TDT Diagrams",
+		"ru": "Деформационная структура металлов и диаграммы ИДТ"
+	},
+	"abstract": {
+		"ua": "Виконано теоретичний аналіз еволюції дислокаційних структур та експериментально вивчені закономірності їх формування в процесі деформації більш як 20-ти металів та сплавів (Mo, Fe, Fe–Si, Cu, Ni, Ti, V, Nb та інші) з різним типом кристалічної гратки та різними величинами енергії дефекту пакування. Зроблено обгрунтування перебудови діаграм деформації в координатах S–e$^{n}$ (іcтинна напруга–істинна деформація у ступені $n$) для отримання експресної інформації про межі (по шкалі деформації) існування різних структурних станів. Розглядається вплив деформації на окремі параметри деформаційного зміцнення. Побудовані діаграми ІДТ (істинна деформація–температура) для металів та сплавів, кожна з яких уявляє собою систему температурних залежностей критичних деформацій зміни структурного стану в процесі пластичної деформації від початкових етапів до руйнування в інтервалі температур до початку динамічної рекристалізації. Діаграми ІДТ дозволяють безпосередньо визначати режими термомеханічної обробки металів для отримання потрібних значень механічних характеристик і в той же час ідентифікувати механізми пластичної деформації в заданих інтервалах температури, деформації та структурного стану.",
+		"en": "The theoretical analysis of dislocation-structures’ changes is carried out, and regularities of their formation in 20 metals and alloys (Mo, Fe, Fe–Si, Cu, Ni, Ti, V, Nb and others) with different types of a crystalline lattice and different quantities of a stacking-fault energy are studied experimentally. For obtaining the express information about boundaries (on a strain scale) of presence of different structure states, the justification of replotting the stress–strain curves in S–e$^{n}$ (true stress–true strain in a degree $n$) co-ordinates is made. An influence of the strain on separate parameters of deformation strengthening is considered. The TDT (true strain–temperature) diagrams for metals and alloys are plotted; each TDT diagram represents a set of the temperature dependences of critical strains of the structure-state change during a plastic deformation from the initial stages down to the fracture within the temperature interval prior right up to the beginning of dynamical recrystallization. The TDT diagrams allow directly to determine concrete regimes of thermomechanical treatment of metals, which can ensure desired values of the mechanical characteristics and, at the same time, to identify mechanisms of a plastic deformation within the given intervals of temperature, strain, and structure state.",
+		"ru": "Выполнен теоретический анализ эволюции дислокационных структур и экспериментально изучены закономерности их формирования в процессе деформации более чем в 20-ти металлах и сплавах (Mo, Fe, Fe–Si, Cu, Ni, Ti, V, Nb и другие) с различным типом кристаллической решетки и разными величинами энергии дефекта упаковки. Сделано обоснование перестройки диаграмм деформации в координатах S–e$^{n}$ (истинное напряжение–истинная деформация в степени $n$) для получения экспрессной информации о границах (по шкале деформации) существования различных структурных состояний. Обсуждается влияние деформации на отдельные параметры деформационного упрочнения. Построены диаграммы ИДТ (истинная деформация–температура) для металлов и сплавов, каждая из которых представляет собой систему температурных зависимостей критических деформаций смены структурного состояния в процессе пластической деформации от начальных этапов вплоть до разрушения в интервале температур вплоть до начала динамической рекристаллизации. Диаграммы ИДТ позволяют непосредственно определять режимы термомеханической обработки металлов для получения требуемых значений механических характеристик и в то же время идентифицировать механизмы пластической деформации в заданных интервалах температуры, деформации и структурного состояния."
+	},
+	"keywords": {
+		"ua": "деформаційна структура, перебудова діаграм деформації, критичні деформації, діаграми СДТ (справжня деформація–температура), механізми пластичної деформації, режими термомеханічної обробки",
+		"en": "деформационная структура, перестройка диаграмм деформации, критические деформации, TDT (true deformation–temperature) diagrams, механизмы пластической деформации, режимы термомеханической обработки",
+		"ru": "деформационная структура, перестройка диаграмм деформации, критические деформации, диаграммы ИДТ (истинная деформация–температура), механизмы пластической деформации, режимы термомеханической обработки"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Ф. Моісеєв", "en": "V. F. Moiseyev", "ru": "В. Ф. Моисеев"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "Е. П. Печковський", "en": "Eh. P. Pechkovs`ky", "ru": "Э. П. Печковский"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 38,
+				"list":  [
+			{
+				"doi": "",
+				"or":  "Г. Дж. Фрост, М. Ф. Эшби, Карты механизмов деформации (Челябинск: Металлургия: 1989).",
+				"tr":  "G. Dzh. Frost, M. F. Eshbi, Karty mekhanizmov deformatsii (Chelyabinsk: Metallurgiya: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "M. F. Ashby, Adv. Appl. Mech., 24: 118 (1983).",
+				"tr":  "M. F. Ashby, Adv. Appl. Mech., 24: 118 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, Ю. В. Мильман, С. А. Фирстов, Физические основы прочности тугоплавких металлов (Киев: Наукова думка: 1975).",
+				"tr":  "V. I. Trefilov, Yu. V. Mil'man, S. A. Firstov, Fizicheskie osnovy prochnosti tugoplavkikh metallov (Kiev: Naukova dumka: 1975)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Барабаш, Ю. Н. Коваль, Структура и свойства металлов и сплавов (Справочник) (Киев: Наукова думка: 1986).",
+				"tr":  "O. M. Barabash, Yu. N. Koval', Struktura i svoistva metallov i splavov (Spravochnik) (Kiev: Naukova dumka: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Хоникомб, Пластическая деформация металлов (Москва: Мир: 1972).",
+				"tr":  "R. Khonikomb, Plasticheskaya deformatsiya metallov (Moskva: Mir: 1972)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Фирстов, Г. Ф. Саржан, Известия вузов. Физика, 34, №3: 23 (1991).",
+				"tr":  "S. A. Firstov, G. F. Sarzhan, Izvestiya Vuzov. Fizika, 34, No. 3: 23 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, В. Ф. Моисеев, Э. П. Печковский и др., Деформационное упрочнение и разрушение поликристаллических металлов (Киев: Наукова думка: 1989).",
+				"tr":  "V. I. Trefilov, V. F. Moiseev, E. P. Pechkovskii et al., Deformatsionnoe uprochnenie i razrushenie polikristallicheskikh metallov (Kiev: Naukova dumka: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Панин, В. А. Лихачев, Ю. В. Гриняев, Структурные уровни деформации твердых тел (Новосибирск: Наука: 1985).",
+				"tr":  "V. E. Panin, V. A. Likhachev, Yu. V. Grinyaev, Strukturnye urovni deformatsii tverdykh tel (Novosibirsk: Nauka: 1985)."
+			},
+			{
+				"doi": "10.1063/1.1659399",
+				"or":  "D. L. Holt, J. Appl. Phys., 41, No. 8: 3197 (1970).",
+				"tr":  "D. L. Holt, J. Appl. Phys., 41, No. 8: 3197 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Конева, Э. В. Козлов, Изв. вузов. Физика, 33, №2: 89 (1990).",
+				"tr":  "N. A. Koneva, E. V. Kozlov, Izv. vuzov. Fizika, 33, No. 2: 89 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Панин, Кооперативные деформационные процессы и локализация деформации (Под ред. В. А. Лихачева, В. Е. Панина, Е. Э. Засимчук и др.) (Киев: Наукова думка: 1989).",
+				"tr":  "V. E. Panin, Kooperativnye deformatsionnye protsessy i lokalizatsiya deformatsii (Pod red. V. A. Likhacheva, V. E. Panina, E. E. Zasimchuk et al.) (Kiev: Naukova dumka: 1989)."
+			},
+			{
+				"doi": "10.1007/BF02661562",
+				"or":  "H. J. McQueen, Met. Trans. A, 8, No. 6: 807 (1977).",
+				"tr":  "H. J. McQueen, Met. Trans. A, 8, No. 6: 807 (1977)."
+			},
+			{
+				"doi": "10.1143/JPSJ.27.436",
+				"or":  "F. Takeuchi, J. Phys. Soc. Jap., 27, No. 2: 436 (1969).",
+				"tr":  "F. Takeuchi, J. Phys. Soc. Jap., 27, No. 2: 436 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, В. Ф. Моисеев, И. Д. Горная, Э. П. Печковский, Проблемы прочности, №5: 77 (1981).",
+				"tr":  "V. I. Trefilov, V. F. Moiseev, I. D. Gornaya, E. P. Pechkovskii, Problemy prochnosti, No. 5: 77 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, В. Ф. Моисеев, Э. П. Печковский и др., Доп. АН УРСР. Сер. А, №5: 83 (1980).",
+				"tr":  "V. I. Trefilov, V. F. Moiseev, E. P. Pechkovskii et al., Dop. AN URSR. Ser. A, No. 5: 83 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "Физика деформационного упрочнения монокристаллов (Киев: Наукова думка: 1972).",
+				"tr":  "Fizika deformatsionnogo uprochneniya monokristallov (Kiev: Naukova dumka: 1972)."
+			},
+			{
+				"doi": "10.1080/14786436008238300",
+				"or":  "J. Bailey and P. B. Hirsh, Phil. Mag., 5, No. 53: 485 (1960).",
+				"tr":  "J. Bailey and P. B. Hirsh, Phil. Mag., 5, No. 53: 485 (1960)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Иванова, В. А. Ермишкин, Прочность и пластичность тугоплавких металлов и монокристаллов (Москва: Металлургия: 1976).",
+				"tr":  "V. S. Ivanova, V. A. Ermishkin, Prochnost' i plastichnost' tugoplavkikh metallov i monokristallov (Moskva: Metallurgiya: 1976)."
+			},
+			{
+				"doi": "",
+				"or":  "Х. Конрад, Сверхмелкое зерно в металлах (Москва: Металлургия: 1973).",
+				"tr":  "Kh. Konrad, Sverkhmelkoe zerno v metallakh (Moskva: Metallurgiya: 1973)."
+			},
+			{
+				"doi": "10.1098/rspa.1934.0106",
+				"or":  "G. J. Teylor, Proc. Royal Soc. Ser. A, 145: 362 (1934).",
+				"tr":  "G. J. Teylor, Proc. Royal Soc. Ser. A, 145: 362 (1934)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Р. Н. Набарро, З. С. Базинский, Д. Б. Хольт, Пластичность чистых монокристаллов (Москва: Металлургия: 1967).",
+				"tr":  "F. R. N. Nabarro, Z. S. Bazinskii, D. B. Khol't, Plastichnost' chistykh monokristallov (Moskva: Metallurgiya: 1967)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Н. Поляков, А. С. Кудлай, Л. М. Наугольникова, И. Г. Нечипоренко, Заводская лаб., №6: 741 (1966).",
+				"tr":  "S. N. Polyakov, A. S. Kudlai, L. M. Naugol'nikova, I. G. Nechiporenko, Zavodskaya lab., No. 6: 741 (1966)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. Б. Фридман, Механические свойства металлов (Москва: Машиностроение: 1974), т. 1.",
+				"tr":  "Ya. B. Fridman, Mekhanicheskie svoistva metallov (Moskva: Mashinostroenie: 1974), vol. 1."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Моисеев, Металлофиз. новейшие технол., 22, №1: (2001).",
+				"tr":  "V. F. Moiseev, Metallofiz. noveishie tekhnol., 22, No. 1: (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Моисеев, И. В. Моисеева, В. К. Пищак, Металлофизика, 14, №9: 28 (1992).",
+				"tr":  "V. F. Moiseev, I. V. Moiseeva, V. K. Pishchak, Metallofizika, 14, No. 9: 28 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Макклинток, А. Аргон, Деформация и разрушение материалов (Москва: Мир: 1970).",
+				"tr":  "F. Makklintok, A. Argon, Deformatsiya i razrushenie materialov (Moskva: Mir: 1970)."
+			},
+			{
+				"doi": "",
+				"or":  "А. К. Коттрелл, Дислокации и пластическое течение в кристаллах (Москва: Металлургия: 1958).",
+				"tr":  "A. K. Kottrell, Dislokatsii i plasticheskoe techenie v kristallakh (Moskva: Metallurgiya: 1958)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, В. Ф. Моисеев, Дисперсные частицы в тугоплавких метал-лах (Киев: Наукова думка: 1987).",
+				"tr":  "V. I. Trefilov, V. F. Moiseev, Dispersnye chastitsy v tugoplavkikh metallakh (Kiev: Naukova dumka: 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, В. Ф. Моисеев, Э.П. Печковский, И. Д. Горная, ДАН СССР, 285, №1: 48 (1985).",
+				"tr":  "V. I. Trefilov, V. F. Moiseev, E.P. Pechkovskii, I. D. Gornaya, DAN SSSR, 285, No. 1: 48 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Лариков, Залечивание дефектов в металлах (Киев: Наукова думка: 1980).",
+				"tr":  "L. N. Larikov, Zalechivanie defektov v metallakh (Kiev: Naukova dumka: 1980)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Haasen, Z. Phys., 167: 46 (1966).",
+				"tr":  "P. Haasen, Z. Phys., 167: 46 (1966)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, Физическая природа хрупкого разрушения металлов (Киев: Наукова думка: 1965).",
+				"tr":  "V. I. Trefilov, Fizicheskaya priroda khrupkogo razrusheniya metallov (Kiev: Naukova dumka: 1965)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Борисенко, Твердость и прочность тугоплавких материалов при высоких температурах (Киев: Наукова думка: 1984).",
+				"tr":  "V. A. Borisenko, Tverdost' i prochnost' tugoplavkikh materialov pri vysokikh temperaturakh (Kiev: Naukova dumka: 1984)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Н. Каверина, В. Ф. Моисеев, Э. П. Печковский и др., Металлофиз. новейшие технол., 16, №7: 65 (1994).",
+				"tr":  "S. N. Kaverina, V. F. Moiseev, E. P. Pechkovskii et al., Metallofiz. Noveishie Tekhnol., 16, No. 7: 65 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Н. Францевич, Ф. Ф. Воронов, С. А. Бакута, Упругие постоянные и модули упругости металлов и неметаллов (Киев: Наукова думка: 1982).",
+				"tr":  "I. N. Frantsevich, F. F. Voronov, S. A. Bakuta, Uprugie postoyannye i moduli uprugosti metallov i nemetallov (Kiev: Naukova dumka: 1982)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Котко, И. В. Моисеева, В. Ф. Моисеев и др., Металлофиз. новейшие технол., 19, №4: 50 (1997).",
+				"tr":  "A. V. Kotko, I. V. Moiseeva, V. F. Moiseev et al., Metallofiz. noveishie tekhnol., 19, No. 4: 50 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Котко, В. Ф. Моисеев, С. А. Фирстов, В сб.: Электронная микроскопия и прочность материалов (Киев: ИПМ: 1995), с. 73.",
+				"tr":  "A. V. Kotko, V. F. Moiseev, S. A. Firstov, Elektronnaya mikroskopiya i prochnost' materialov (Kiev: IPM: 1995), p. 73."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Добромыслов, Н. И. Талуц, Структура циркония и его сплавов (Екатеринбург: УрО РАН: 1997).",
+				"tr":  "A. V. Dobromyslov, N. I. Taluts, Struktura tsirkoniya i ego splavov (Ekaterinburg: UrO RAN: 1997)."
+			}
+		]
+	}
+}

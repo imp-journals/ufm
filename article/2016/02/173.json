@@ -1,0 +1,251 @@
+{
+	"_id":    "UFM.17.02.173",
+	"year":   2016,
+	"volume": 17,
+	"issue":  2,
+	"pages":  [173,200],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["02.03.2016"],
+	"PACS":   "61.72.Bb, 61.72.Cc, 61.72.Hh, 61.72.Yx, 81.40.Cd, 81.40.Ef, 83.60.La",
+	"title":   {
+		"ua": "Фізичні основи тривалої міцности твердих розчинів з різною кінетикою рухомих дефектів ",
+		"en": "Basic Physics of Long-Term Strength of Solid Solutions with Various Kinetics of Mobile Defects",
+		"ru": "Физические основы длительной прочности твёрдых растворов с различной кинетикой подвижных дефектов"
+	},
+	"abstract": {
+		"ua": "В рамках запропонованої структурно-енергетичної концепції зміцнення розроблено фізичну теорію тривалої, що виключає руйнування, міцности твердих розчинів, яку засновано на дислокаційнім моделі залежного від часу опору мікроплинности й динамічних наближеннях дислокаційних наносегментів з рухомими вузлами закріплення нижче макроскопічної межі плинности. В аналітичних виразах, що описують перехід від однорідної до зосередженої мікродеформації з локалізацією зсуву, критичний рівень локальних напружень пов’язується із втратою пружної (зсувної) стійкости дислокованої кристалічної ´ратниці, надлишковою енергією, швидкістю, густиною ковзних дислокацій і полями внутрішніх напружень, викликаних розчиненими атомами. Для термічно активованих процесів переривчастого (повторного) закріплення і Коттреллового блокування дислокацій враховано вклади близькосяжних механізмів гальмування пов’язаних дефектів у кінетиці явищ дислокаційної релаксації пружних напружень і дислокаційної повзности, що вказують на вирішальну роль локалізації зсуву в структурній підготовці передчасного руйнування. Результати теоретичних досліджень та термоактиваційної аналізи знаходяться в розумній відповідности до опублікованих експериментальних даних. Новий підхід призначено та може бути використано задля кількісного оцінювання ефективности ле´ування, потенціялу термічного опору (жароміцности) й очікуваного ресурсу експлуатації нових експериментальних стопів, у тому числі з ефектом Портевена–Ле Шательє.",
+		"en": "A new dynamical model of time-dependent dislocation microyielding has been proposed using the propounded structure-energy-concept of long-continued strength in terms of dragging mechanisms responsible for microyield resistance increase in solid solutions below macroscopic yield stress. A physical theory of long-term, non-destructive strength is being developed taking as a basis the derived relations for strain rates in metal alloy systems with mobile modes of dislocation pinning. The new approach, thermoactivated analysis and energy (dislocation, quantitative) criterion of time-dependent strength account for influence of the short-range dislocation-solute interaction in real scale of time and predicts a transition from homogeneous to localized shear deformation contributing to a probable fracture. In accordance with the revised equations of the dislocation stress relaxation and derived energy relations the threshold stress of long-term strength of a given alloy is associated with shear instability of its dislocated crystalline lattice, density and rate of sliding dislocations, their excess energy (line tension) as well as fields of internal elastic stresses produced by solutes. The theoretical results are in reasonable agreement with published experimental data obtained by using dislocation relaxation and creep strain rate measuring techniques. They are suitable to advanced alloys with the Portevine–Le Chatelier effect, and could be useful for quantitative assessment of alloying effectiveness, potential of heat-resistance and expected service resource.",
+		"ru": "В рамках выдвинутой структурно-энергетической концепции упрочнения разработана физическая теория длительной, исключающей разрушение, прочности твёрдых растворов, основанная на дислокационной модели зависимого от времени сопротивления микротекучести и динамических приближениях дислокационных наносегментов с подвижными узлами закрепления ниже макроскопического предела текучести. В аналитических выражениях, описывающих переход от однородной к сосредоточенной микродеформации с локализацией сдвига, критический уровень локальных напряжений связывается с потерей упругой (сдвиговой) устойчивости дислоцированной кристаллической решётки, избыточной энергией, скоростью, плотностью скользящих дислокаций и полями внутренних напряжений, вызванных растворёнными атомами. Для термически активированных процессов прерывистого (повторного) закрепления и коттрелловского блокирования дислокаций учтены вклады близкодействующих механизмов торможения связанных дефектов в кинетике явлений дислокационной релаксации упругих напряжений и дислокационной ползучести, указывающих на решающую роль локализации сдвига в структурной подготовке преждевременного разрушения. Результаты теоретических исследований и термоактивационного анализа находятся в разумном соответствии с опубликованными экспериментальными данными. Новый подход предназначен и может быть использован для количественной оценки эффективности легирования, потенциала термического сопротивления (жаропрочности) и ожидаемого ресурса эксплуатации новых экспериментальных сплавов, в том числе с эффектом Портевена–Ле Шателье."
+	},
+	"keywords": {
+		"ua": "мікроплинність, тривала міцність, механізми гальмування дислокацій",
+		"en": "long-term strength, microyielding mechanisms, dislocation-solute dragging",
+		"ru": "микротекучесть, длительная прочность, механизмы торможения дислокаций"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Г. Ткаченко", "en": "V. G. Tkachenko", "ru": "В. Г. Ткаченко"},
+			"OID": [2]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.18.02.155",
+				"cit": "V. V. Kurylyak and G. I. Khimicheva, <a href=\"https://doi.org/10.15407/ufm.18.02.155\">Usp. Fiz. Met. <b>18</b>, 155 (2017)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 41,
+		"list":  [
+			{
+				"doi": "10.1134/S1063774512030169",
+				"or":  "B. V. Petukhov and P. A. Klyuchnik, Crystall. Rep., 57, No. 3: 388 (2012).",
+				"tr":  "B. V. Petukhov and P. A. Klyuchnik, Crystall. Rep., 57, No. 3: 388 (2012)."
+			},
+			{
+				"doi": "10.1016/j.pmatsci.2004.07.001",
+				"or":  "E. Ma, Progress in Mater. Sci., 50, No. 4: 413 (2005).",
+				"tr":  "E. Ma, Progress in Mater. Sci., 50, No. 4: 413 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Иванова, Введение в междисциплинарное наноматериаловедение (Москва: Сайнс-Пресс: 2005).",
+				"tr":  "V. S. Ivanova, Vvedenie v Mezhditsiplinarnoe Nanomaterialovedenie [Introduction to the Interdisciplinary Nanomaterials Science] (Moscow: Sains-Press: 2005) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.pmatsci.2005.08.003",
+				"or":  "M. A. Meyers, A. Mishra, and D. J. Benson, Progress in Mater. Sci., 51, No. 4: 427 (2006).",
+				"tr":  "M. A. Meyers, A. Mishra, and D. J. Benson, Progress in Mater. Sci., 51, No. 4: 427 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Котречко, Ю. Я. Мешков, Предельная прочность — кристаллы, металлы, элементы, конструкции (Киев: Наукова думка: 2008).",
+				"tr":  "S. A. Kotrechko and Yu. Ya. Meshkov, Predel'naya Prochnoct'—Kristally, Metally, Elementy, Konstruktsii [Ultimate Strength—Crystals, Metals, Elements, Constructions] (Kiev: Naukova Dumka: 2008) (in Russian)."
+			},
+			{
+				"doi": "10.1179/174328405X43180",
+				"or":  "B. Tang, X.-S. Wang, S.-S. Li, D.-B. Zeng, and R. Wu, Mater. Sci. Techn., 21, No. 5: 574 (2005).",
+				"tr":  "B. Tang, X.-S. Wang, S.-S. Li, D.-B. Zeng, and R. Wu, Mater. Sci. Techn., 21, No. 5: 574 (2005)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(01)01021-8",
+				"or":  "K. Khantha, V. Vitek, and D. P. Pope, Mater. Sci. Eng. A, 319–321: 484 (2001).",
+				"tr":  "K. Khantha, V. Vitek, and D. P. Pope, Mater. Sci. Eng. A, 319–321: 484 (2001)."
+			},
+			{
+				"doi": "10.15407/ufm.10.01.103",
+				"or":  "В. Г. Ткаченко, Успехи физики металлов, 10, № 1: 103 (2009).",
+				"tr":  "V. G. Tkachenko, Uspehi Fiziki Metallov, 10, No. 1: 103 (2009) (in Russian)."
+			},
+			{
+				"doi": "10.1070/RC2006v075n08ABEH003623",
+				"or":  "И. П. Суздалев, П. И. Суздалев, Успехи химии, 75, № 8: 715 (2006).",
+				"tr":  "I. P. Suzdalev and P. I. Suzdalev, Russ. Chem. Rev., 75, No. 8: 637 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. П. Лякишев, М. П. Алымов, Российские нанотехнологии, № 1–2: 71 (2006).",
+				"tr":  "N. P. Lyakishev and M. P. Alymov, Russian Nanotechnologies, Nos. 1–2: 71 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Гленсдорф, И. Пригожин, Термическая теория структуры, устойчивости и флуктуаций (Москва: Мир: 1973).",
+				"tr":  "P. Glansdorff and I. Prigogine, Thermodynamics Theory of Structure, Stability and Fluctuations (London: Wiley-Interscience: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Поздняков, А. М. Глезер, Физика твердого тела, 44, № 4: 705 (2002).",
+				"tr":  "V. A. Pozdnyakov and A. M. Glezer, Fizika Tverdogo Tela, 44, No. 4: 705 (2002) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0001-6160(66)90172-6",
+				"or":  "K. S. B. Rose and S. G. Glever, Acta Metall., 14: 1505 (1966).",
+				"tr":  "K. S. B. Rose and S. G. Glever, Acta Metall., 14: 1505 (1966)."
+			},
+			{
+				"doi": "10.1016/0036-9748(80)90182-9",
+				"or":  "A. M. Brown and M. F. Ashby, Scripta Metall., 14, No. 12: 1297 (1980).",
+				"tr":  "A. M. Brown and M. F. Ashby, Scripta Metall., 14, No. 12: 1297 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Sherby, R. H. Klundt, and A. K. Miller, Metallurg. Trans. A, 8: 843 (1977).",
+				"tr":  "D. Sherby, R. H. Klundt, and A. K. Miller, Metallurg. Trans. A, 8: 843 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Ткаченко, Наноструктурное материаловедение, № 4: 61 (2012).",
+				"tr":  "V. G. Tkachenko, Nanostructurnoe Materialovedenie, No. 4: 61 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. И. Кузнецов, В. А. Павлов, Физ. мет. металловед., 25, № 5: 934 (1968).",
+				"tr":  "R. I. Kuznetsov and V. A. Pavlov, Fiz. Met. Metalloved., 25, No. 5: 934 (1968) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Dotsenko, phys. stat. sol. (b), 93: 11 (1979).",
+				"tr":  "V. I. Dotsenko, phys. stat. sol. (b), 93: 11 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. П. Почивалова, Релаксация напряжения и усталость поликристаллов ГЦК сплавов в области микропластической деформации (Автореф. дис. … канд. физ.-мат. наук) (Томск: Томский государственный университет: 1987).",
+				"tr":  "G. P. Pochivalova, Relaksatsiya Napryazheniy i Ustalost' Polikristallov GTsK Splavov v Oblasti Mikroplasticheskoy Deformatsii [Relaxation and Stress Fatigue of Polycrystalline F.C.C. Alloys in a Microplastic Deformation Field] (Thesis of Disser. for Cand. Phys.-Mat. Sci.) (Tomsk: Tomsk State University: 1987) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.24.6991",
+				"or":  "K. Lucke and A. V. Granato, Phys. Rev. B, 24, No. 12: 6991 (1981).",
+				"tr":  "K. Lucke and A. V. Granato, Phys. Rev. B, 24, No. 12: 6991 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. А. Шувалов, Современная кристаллография (Москва: Наука: 1981), т. 4.",
+				"tr":  "L. A. Shuvalov, Sovremennaya Kristallografiya [Contemporary Crystallography] (Moscow: Nauka: 1981), vol. 4 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ивенс, Р. Роулингс, Термически активированные процессы в кристаллах: Сборник (ред. А. Н. Орлов) (Москва: Мир: 1973), с. 172.",
+				"tr":  "A. Evans and R. Rawlings, Termicheski Aktivirovannaya Deformatsiya Kristallicheskikh Materialov [Thermally-Activated Deformation of Crystalline Materials] (Ed. A. N. Orlov) (Moscow: Mir: 1973), p. 172 (Russian translation)."
+			},
+			{
+				"doi": "10.1007/s10853-011-5400-4",
+				"or":  "V. G. Tkachenko, K. H. Kim, B. G. Moon, and A. S. Vovchok, J. Mater. Sci., 46, No. 14: 4880 (2011).",
+				"tr":  "V. G. Tkachenko, K. H. Kim, B. G. Moon, and A. S. Vovchok, J. Mater. Sci., 46, No. 14: 4880 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Kheilova and M. Strunc, J. Non-Equilib. Thermod., 20, No. 1: 19 (1995).",
+				"tr":  "M. Kheilova and M. Strunc, J. Non-Equilib. Thermodynamics, 20, No. 1: 19 (1995)."
+			},
+			{
+				"doi": "10.1139/p67-043",
+				"or":  "J. C. M. Li, Canadian J. Phys., 45: 493 (1967).",
+				"tr":  "J. C. M. Li, Canadian J. Phys., 45: 493 (1967)."
+			},
+			{
+				"doi": "10.1016/0001-6160(82)90148-1",
+				"or":  "R. W. Hayes and W. C. Hayes, Acta Metall., 30, No. 7: 1295 (1982).",
+				"tr":  "R. W. Hayes and W. C. Hayes, Acta Metall., 30, No. 7: 1295 (1982)."
+			},
+			{
+				"doi": "10.1080/14786437108217007",
+				"or":  "H. Yoshinaga and S. A. Morozumi, Phil. Mag., 23: 1351 (1971).",
+				"tr":  "H. Yoshinaga and S. A. Morozumi, Phil. Mag., 23: 1351 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "R. E. Reed-Hill, Techniques of Metals Research (Ed. R. F. Bunshah) (New York: Interscience: 1968), vol. 2, p. 257.",
+				"tr":  "R. E. Reed-Hill, Techniques of Metals Research (Ed. R. F. Bunshah) (New York: Interscience: 1968), vol. 2, p. 257."
+			},
+			{
+				"doi": "10.1007/BF02403101",
+				"or":  "D. H. Sastry, Y. V. R. K. Prasad, and K. I. Vasu, J. Mater. Sci., 6: 332 (1971).",
+				"tr":  "D. H. Sastry, Y. V. R. K. Prasad, and K. I. Vasu, J. Mater. Sci., 6: 332 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Conrad and W. Hayes, Trans. ASM, 56: 249 (1963).",
+				"tr":  "H. Conrad and W. Hayes, Trans. ASM, 56: 249 (1963)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Glen, J. Iron Steel Inst., 186: 21 (1957).",
+				"tr":  "J. Glen, J. Iron Steel Inst., 186: 21 (1957)."
+			},
+			{
+				"doi": "",
+				"or":  "R. E. Reed-Hill, Physical Metallurgy Principles (2nd ed.) (New York: D. Van Nostrand Company: 1973).",
+				"tr":  "R. E. Reed-Hill, Physical Metallurgy Principles (2nd ed.) (New York: D. Van Nostrand Company: 1973)."
+			},
+			{
+				"doi": "10.1016/0036-9748(82)90344-1",
+				"or":  "I. C. Ritchie, Scripta Metall., 16: 249 (1982).",
+				"tr":  "I. C. Ritchie, Scripta Metall., 16: 249 (1982)."
+			},
+			{
+				"doi": "10.15407/ufm.11.02.249",
+				"or":  "В. Г. Ткаченко, К. Ч. Ким, Б. Г. Мун, А. И. Дегтяр, О. П. Карасевская, А. С. Вовчок, Успехи физики металлов, 11, № 2: 249 (2010).",
+				"tr":  "V. G. Tkachenko, K. H. Kim, B. G. Moon, O. I. Dekhtyar, O. P. Karasevska, and O. S. Vovchok, Uspehi Fiziki Metallov, 11, No. 2: 249 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Овсянніков, Особливості деформації та руйнування перехідних ОЦК металів у нанооб’ємі (Дисер. … канд. фіз.-мат. наук) (Київ: Інститут металофізики ім. Г. В. Курдюмова НАН України: 2006).",
+				"tr":  "O. V. Ovsjannikov, Osoblyvosti Deformatsii ta Ruinuvannya Perekhidnykh OTsK Metaliv u Nanoob'yemi [Peculiarities of Plastic Deformation and Fracture of Transition B.C.C. Metals on Nanoscale] (Thesis of Disser. for Cand. Phys.-Math. Sci.) (Kyiv: G. V. Kurdyumov Institute for Metal Physics of N.A.S. of Ukraine: 2006) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Д. Канчеев, Металлы, № 3: 144 (1983).",
+				"tr":  "O. D. Kancheev, Metally, No. 3: 144 (1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. А. Осипов, С. Г. Федотов, Изв. АН СССР, № 2: 96 (1956).",
+				"tr":  "K. A. Osipov and S. G. Fedotov, Izvestiya Akademii Nauk SSSR, No. 2: 96 (1956) (in Russian)."
+			},
+			{
+				"doi": "10.1080/1478643031000118012",
+				"or":  "C. A. Schuh, A. S. Argon, T. G. Niex, and J. Wadsworth, Phil. Mag., 83, No. 22: 2585 (2003).",
+				"tr":  "C. A. Schuh, A. S. Argon, T. G. Niex, and J. Wadsworth, Phil. Mag., 83, No. 22: 2585 (2003)."
+			},
+			{
+				"doi": "10.1080/14786437108217009",
+				"or":  "H. Yoshida, K. Toma, K. Abe, and S. Morozumi, Phil. Mag., 23, No. 186: 1387 (1971).",
+				"tr":  "H. Yoshida, K. Toma, K. Abe, and S. Morozumi, Phil. Mag., 23, No. 186: 1387 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Колачев, А. В. Мальков, Физические основы разрушения титана (Москва: Металургия: 1983).",
+				"tr":  "B. A. Kolachev and A. V. Mal'kov, Fizicheskie Osnovy Razrusheniya Titana [Physical Principles of Titanium Destruction] (Moscow: Metallurgy: 1983) (in Russian)."
+			},
+			{
+				"doi": "10.1139/p67-050",
+				"or":  "H. Conrad, Canadian J. Phys., 45: 581 (1967).",
+				"tr":  "H. Conrad, Canadian J. Phys., 45: 581 (1967)."
+			}
+		]
+	}
+}

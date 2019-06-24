@@ -1,0 +1,160 @@
+{
+	"_id":    "UFM.12.04.451",
+	"year":   2011,
+	"volume": 12,
+	"issue":  4,
+	"pages":  [451,470],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["18.11.2011"],
+	"PACS":   "07.05.Kf, 61.05.Qr, 71.15.Ap, 71.15.Mb, 71.15.Nc, 76.80.+y, 82.80.Ej",
+	"title":   {
+		"ua": "Комп’ютерне моделювання атомарної структури та надтонких взаємодій в австеніті Fe–C",
+		"en": "Computer Simulation of Atomic Structure and Hyperfine Interactions in Fe–C Austenite",
+		"ru": "Компьютерное моделирование атомной структуры и сверхтонких взаимодействий в аустените Fe-C"
+	},
+	"abstract": {
+		"ua": "Розроблено нову методу обробки експериментальних Мессбаверових спектрів, яка заснована на принципах самоорганізації. Метода не вимагає від дослідника задання стартового моделю спектра. Критерієм згоди між експериментальним і модельним спектром є оцінка емпіричного ризику. В результаті обробки експериментальних даних пропонується один або кілька оптимальних моделів спектра. Тестування методи на ряді експериментальних модельних спектрів показало її високу ефективність. Методу використано для обробки експериментальних Мессбаверових спектрів австеніту Fe$_{10}$C. Одержано більш точне у порівнянні з наявними розкладання спектра на одну синґлетну і дві дублетних лінії. Для інтерпретації цих результатів методою FLAPW проведено розрахунки електронної структури і параметрів надтонких взаємодій для декількох впорядкованих структур Fe$_{32}$C$_{2}$, що моделюють австеніт FeC$_{0,0625}$ з різним розташуванням атомів вуглецю. Результати розрахунків добре узгоджуються з експериментальними даними.",
+		"en": "A new method based on the principles of self-organization is designed. For researcher, the method does not require to set up initial model of the spectrum. A criterion of correspondence between the experimental and model spectra is evaluation of empirical risk. Result of calculation is a set of optimal spectra models proposed to the researcher. Our tests for a number of experimental spectra showed a high efficiency of the method. The method is used for analysis of experimental Mössbauer spectra of Fe$_{10}$C austenite. As compared with already known expansions, we obtained a new accurate expansion of the measured spectrum into one singlet and two doublet lines. To interpret the results, we performed first-principle FLAPW calculations of electronic structure and hyperfine interactions in several ordered Fe$_{32}$C$_{2}$ structures, which model FeC$_{0.0625}$ austenite. There is a good agreement between the measured data and the theoretical calculations.",
+		"ru": "Разработан новый метод обработки экспериментальных мёссбауэровских спектров, основанный на принципах самоорганизации. Метод не требует от исследователя задания стартовой модели спектра. Критерием согласия между экспериментальным и модельным спектром является оценка эмпирического риска. В результате обработки экспериментальных данных предлагается одна или несколько оптимальных моделей спектра. Тестирование метода на ряде экспериментальных модельных спектров показало его высокую эффективность. Метод использован для обработки экспериментальных мёссбауэровских спектров аустенита Fe$_{10}$C. Получено более точное по сравнению с существующими разложение спектра на одну синглетную и две дублетных линии. Для интерпретации этих результатов методом FLAPW проведены расчёты электронной структуры и параметров сверхтонких взаимодействий для нескольких упорядоченных структур Fe$_{32}$C$_{2}$, моделирующих аустенит FeC$_{0,0625}$ с разным расположением атомов углерода. Результаты расчётов хорошо согласуются с экспериментальными данными."
+	},
+	"keywords": {
+		"ua": "самоорганізація математичних моделів, мінімізація емпіричного ризику, вуглецевий аустеніт, Мессбаверові спектри, першопринципні розрахунки",
+		"en": "self-organization of mathematical models, minimization of empiric risk, carbonaceous austenite, Mossbauer spectrums, first-principle calculations",
+		"ru": "самоорганизация математических моделей, минимизация эмпирического риска, углеродистый аустенит, мёссбауэровские спектры, первопринципные расчёты"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. М. Тимошевський", "en": "A. M. Timoshevskii", "ru": "А. Н. Тимошевский"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "С. О. Яблоновський", "en": "S. O. Yablonovskii", "ru": "С. О. Яблоновский"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "В. І. Єремин", "en": "V. I. Yeremin", "ru": "В. И. Еремин"},
+			"OID": [7]
+		}
+	],
+	"references": {
+		"count": 23,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. Б. Злоказов, Физ. элементар. частиц и атом. ядра, 16, вып. 5: 1126 (1985).",
+				"tr":  "V. B. Zlokazov, Fiz. elementar. chastits i atom. yadra, 16, No. 5: 1126 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Злоказов, VIII школа по нейтронной физике: Сб. лекций (Дубна: ОИЯИ: 1998), с. 223.",
+				"tr":  "V. B. Zlokazov, VIII shkola po neytronnoy fizike: Sb. lektsiy (Dubna: OIYaI: 1998), s. 223."
+			},
+			{
+				"doi": "",
+				"or":  "A. H. Tихoнoв, B. Я. Apсенин, Методы решения некорректных задач (Mосква: Hayкa: 1974).",
+				"tr":  "A. H. Tikhonov, B. Ya. Apsenin, Metody resheniya nekorrektnykh zadach (Moskva: Hayka: 1974)."
+			},
+			{
+				"doi": "",
+				"or":  "S. A. Bruggemann, Y. A. Artzybashev, and S. V. Orlov, (UNIVEM) Version 4.5 (1990–1993).",
+				"tr":  "S. A. Bruggemann, Y. A. Artzybashev, and S. V. Orlov, (UNIVEM) Version 4.5 (1990–1993)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Русаков, Мёссбауэровская спектроскопия локально неоднородных систем (Алматы: ОПНИ ИЯФ НЯЦ РК: 2000).",
+				"tr":  "V. S. Rusakov, Messbauerovskaya spektroskopiya lokal'no neodnorodnykh sistem (Almaty: OPNI IYaF NYaTs RK: 2000)."
+			},
+			{
+				"doi": "10.1016/S0168-583X(97)00284-X",
+				"or":  "K. Lagarec and D. G. Rancourt, Nucl. Instrum. Methods Phys. Res. B, 129, No. 2: 266 (1997).",
+				"tr":  "K. Lagarec and D. G. Rancourt, Nucl. Instrum. Methods Phys. Res. B, 129, No. 2: 266 (1997)."
+			},
+			{
+				"doi": "10.1007/BF02055410",
+				"or":  "Z. Klencsár, E. Kuzmann, and A. Vértes, J. Radioanal. Nucl. Chem., 210, No. 1: 105 (1996).",
+				"tr":  "Z. Klencsár, E. Kuzmann, and A. Vértes, J. Radioanal. Nucl. Chem., 210, No. 1: 105 (1996)."
+			},
+			{
+				"doi": "10.1016/S0168-583X(97)00107-9",
+				"or":  "H. Ahonen, P. A. de Souza Júnior, and V. K. Garg, Nucl. Instrum. Methods Phys. Res. B, 124, No. 4: 633 (1997).",
+				"tr":  "H. Ahonen, P. A. de Souza Júnior, and V. K. Garg, Nucl. Instrum. Methods Phys. Res. B, 124, No. 4: 633 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Ивахненко, Долгосрочное прогнозирование и управление сложными системами (Київ: Техніка: 1975).",
+				"tr":  "A. G. Ivakhnenko, Dolgosrochnoe prognozirovanie i upravlenie slozhnymi sistemami (Kyiv: Tekhnіka: 1975)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Вапник, Восстановление зависимостей по эмпирическим данным (Москва: Наука: 1979).",
+				"tr":  "V. N. Vapnik, Vosstanovlenie zavisimostey po empiricheskim dannym (Moskva: Nauka: 1979)."
+			},
+			{
+				"doi": "10.1007/s10751-005-9131-2",
+				"or":  "A. Timoshevskii and V. Yeremin, Hyperfine Interact., 159, Nos. 1–4: 395 (2004).",
+				"tr":  "A. Timoshevskii and V. Yeremin, Hyperfine Interact., 159, Nos. 1–4: 395 (2004)."
+			},
+			{
+				"doi": "10.1137/1.9781611971217",
+				"or":  "C. L. Lawson and R. J. Hanson, Solving Least Squares Problems (Englewood Cliffs, New Jersey: Prentice-Hall: 1974).",
+				"tr":  "C. L. Lawson and R. J. Hanson, Solving Least Squares Problems (Englewood Cliffs, New Jersey: Prentice-Hall: 1974)."
+			},
+			{
+				"doi": "10.1137/0916069",
+				"or":  "R. H. Byrd, Peihuang Lu, J.Nocedal, and Ciyou Zhu, SIAM J. Sci. Comput., 16, No. 5: 1190 (1995).",
+				"tr":  "R. H. Byrd, Peihuang Lu, J.Nocedal, and Ciyou Zhu, SIAM J. Sci. Comput., 16, No. 5: 1190 (1995)."
+			},
+			{
+				"doi": "10.1007/978-3-662-03760-7",
+				"or":  "V. G. Gavriljuk and H. Berns, High Nitrogen Steels (Berlin: Springer-Verlag: 1999).",
+				"tr":  "V. G. Gavriljuk and H. Berns, High Nitrogen Steels (Berlin: Springer-Verlag: 1999)."
+			},
+			{
+				"doi": "10.1007/BF02677261",
+				"or":  "N. DeCristofaro and R. Kaplow, Metall. Mater. Trans. A, 8: 35 (1977).",
+				"tr":  "N. DeCristofaro and R. Kaplow, Metall. Mater. Trans. A, 8: 35 (1977)."
+			},
+			{
+				"doi": "10.1007/BF02811991",
+				"or":  "D. L. Williamson, K. Nakazawa, and G. Krauss, Metall. Mater. Trans. A, 10: 1351 (1979).",
+				"tr":  "D. L. Williamson, K. Nakazawa, and G. Krauss, Metall. Mater. Trans. A, 10: 1351 (1979)."
+			},
+			{
+				"doi": "10.1016/0001-6160(83)90218-3",
+				"or":  "V. N. Bugaev, V. G. Gavriljuk, V. M. Nadutov, and V. A. Tatarenko, Acta Metall., 31, No. 3: 407 (1983).",
+				"tr":  "V. N. Bugaev, V. G. Gavriljuk, V. M. Nadutov, and V. A. Tatarenko, Acta Metall., 31, No. 3: 407 (1983)."
+			},
+			{
+				"doi": "10.1088/0953-8984/6/3/008",
+				"or":  "K. Oda, H. Fujimura, and H. Ino, J. Phys.: Condens. Matter, 6: 679 (1994).",
+				"tr":  "K. Oda, H. Fujimura, and H. Ino, J. Phys.: Condens. Matter, 6: 679 (1994)."
+			},
+			{
+				"doi": "10.1007/BF02671931",
+				"or":  "O. N. C. Uwakweh, J. P. Bauer, and J. M. Génin, Metall. Mater. Trans. A, 21: 589 (1990).",
+				"tr":  "O. N. C. Uwakweh, J. P. Bauer, and J. M. Génin, Metall. Mater. Trans. A, 21: 589 (1990)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.66.134201",
+				"or":  "K. Laneri, J. Desimoni, G. J. Zarragoicoechea, and A. Fernández Guillermet, Phys. Rev. B, 66: 134201 (2002).",
+				"tr":  "K. Laneri, J. Desimoni, G. J. Zarragoicoechea, and A. Fernández Guillermet, Phys. Rev. B, 66: 134201 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Singh, Planewaves, Pseudopotential and the LAPW Method (Boston–Dordrecht–London: Kluwer Academic: 1994).",
+				"tr":  "D. Singh, Planewaves, Pseudopotential and the LAPW Method (Boston–Dordrecht–London: Kluwer Academic: 1994)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Blaha, K. Schwarz, G. K. H. Madsen, D. Kvasnicka, and J. Luitz, WIEN2k: An Augmented Plane Wave plus Local Orbitals Program for Calculating Crystal Properties (Wien, Austria: Tech. Universität: 2001).",
+				"tr":  "P. Blaha, K. Schwarz, G. K. H. Madsen, D. Kvasnicka, and J. Luitz, WIEN2k: An Augmented Plane Wave plus Local Orbitals Program for Calculating Crystal Properties (Wien, Austria: Tech. Universität: 2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.77.3865",
+				"or":  "J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett., 77, No. 18: 3865 (1996).",
+				"tr":  "J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett., 77, No. 18: 3865 (1996)."
+			}
+		]
+	}
+}

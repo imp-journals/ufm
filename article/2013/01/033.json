@@ -1,0 +1,269 @@
+{
+	"_id":    "UFM.14.01.033",
+	"year":   2013,
+	"volume": 14,
+	"issue":  1,
+	"pages":  [33,66],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["18.12.2012"],
+	"PACS":   "07.55.Jg, 75.30.Cr, 75.50.Kj, 75.50.Vv, 81.30.Kf, 81.40.Rs",
+	"title":   {
+		"ua": "Автоматизований широкодіапазонний магнетометер для магнетної фазової аналізи стопів: розробка та застосування",
+		"en": "The Automated Wide-Range Magnetometer for the Magnetic Phase Analysis of Alloys: Development and Application",
+		"ru": "Автоматизированный широкодиапазонный магнитометр для магнитного фазового анализа: разработка и применение"
+	},
+	"abstract": {
+		"ua": "Розглянуто питання побудови порівняно недорогого, доступного у виготовленні вібраційного магнетометра та його використання для міряння магнетних параметрів феромагнетних стопів та аналізи фазових перетворень у них в широкому інтервалі температур. Подано принципи конструювання, схемні рішення та параметри автоматизованого широкодіяпазонного магнетометра для магнетної фазової аналізи стопів. Магнетометер уможливлює спостерігати широке коло процесів у динаміці, котрі супроводжуються зміною намагнетованости досліджуваного об’єкту. Високі характеристики магнетометра досягнуто завдяки перетворенню сиґналу методою синхронного детектування. Ефективність застосування магнетометра підтверджено результатами експериментальних досліджень литих стопів для постійних магнетів на основі Fe-Ni-Al-Co, деформованих магнетотвердих Fe-Cr-Co стопів, ряду конструкційних матеріялів та їх поверхневих шарів після різноманітних видів поверхневої обробки, аморфних магнетних матеріялів, магнетних суспензій на основі металевих розтопів.",
+		"en": "Problems of construction of rather inexpensive vibrating sample magnetometer available in manufacturing and its uses for measurement of magnetic parameters of ferromagnetic alloys as well as the analysis of phase transformations into them in a wide range of temperatures are considered. Designing principles, circuits’ decisions and parameters of the wide-range magnetometer for the magnetic phase analysis of alloys are given. The magnetometer allows observing a wide range of the processes during dynamics, which are accompanied by change of magnetization of studied object. High characteristics of the magnetometer are reached due to signal transformation by a method of synchronous detecting. Efficiency of use of the magnetometer is confirmed with results of pilot studies of cast alloys for permanent magnets on the base of Fe-Ni-Al-Co, deformable hard magnetic Fe-Cr-Co alloys, a number of constructional materials and their blankets after different types of superficial processing, amorphous magnetic materials, and magnetic suspensions on the liquid-metals’ base.",
+		"ru": "Рассмотрены вопросы построения сравнительно недорогого, доступного в изготовлении вибрационного магнитометра и его использования для измерения магнитных параметров ферромагнитных сплавов, анализа фазовых превращений в них в широком интервале температур. Приведены принципы конструирования, схемные решения и параметры широкодиапазонного магнитометра для магнитного фазового анализа сплавов. Магнитометр позволяет наблюдать широкий круг процессов в динамике, сопровождающихся изменением намагниченности исследуемого объекта. Высокие характеристики магнитометра достигнуты благодаря преобразованию сигнала методом синхронного детектирования. Эффективность применения магнитометра подтверждена результатами экспериментальных исследований литых сплавов для постоянных магнитов на основе Fe–Ni-Al-Co, деформируемых магнитотвердых Fe-Cr-Co сплавов, ряда конструкционных материалов и их поверхностных слоёв после различных видов поверхностной обработки, аморфных магнитных материалов, магнитных суспензий на основе металлических расплавов."
+	},
+	"keywords": {
+		"ua": "магнетометер вібраційний, намагнетованість насичення, висококоерцитивні матеріяли, аморфні магнетні матеріяли, обробка поверхнева лазерна",
+		"en": "magnetometer vibrational, saturation magnetization, high-coercivity materials, amorphous magnetic materials, laser surface treatment",
+		"ru": "магнетометр вибрационный, намагниченость насыщения, высококоэрцитивные материалы, аморфные магнитные материалы, обработка поверхностная лазерная"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "З. А. Дурягіна", "en": "Z. A. Duryagina", "ru": "З. А. Дурягина"},
+			"OID": [204]
+		},
+		{
+			"AID": {"ua": "Р. Л. Голяка", "en": "R. L. Holyaka", "ru": "Р. Л. Голяка"},
+			"OID": [204]
+		},
+		{
+			"AID": {"ua": "А. К. Борисюк", "en": "A. K. Borysyuk", "ru": "А. К. Борисюк"},
+			"OID": [204]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.12693/APhysPolA.133.869",
+				"cit": "Z.A. Duriagina, T.L. Tepla and V.V. Kulyk, <a href=\"https://doi.org/10.12693/APhysPolA.133.869\">Acta Phys. Pol. A <b>133</b>, 869 (2018)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 42,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Д. Голдман, А. Арротт, Магнитные свойства металлов и сплавов (Москва: Изд-во иностранной литературы: 1961).",
+				"tr":  "D. Goldman, A. Arrott, Magnitnye svoystva metallov i splavov (Moskva: Izd-vo inostrannoy literatury: 1961)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Белоус, В. Т. Черепин, М. А. Васильев, Превращения при отпуске стали (Москва: Металлургия: 1973).",
+				"tr":  "M. V. Belous, V. T. Cherepin, M. A. Vasil'ev, Prevrashcheniya pri otpuske stali (Moskva: Metallurgiya: 1973)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Апаев, Фазовый магнитный анализ (Москва: Металлургия: 1976).",
+				"tr":  "B. A. Apaev, Fazovyy magnitnyy analiz (Moskva: Metallurgiya: 1976)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Бозорт, Ферромагнетизм (Москва: Изд-во иностранной литературы: 1956).",
+				"tr":  "R. Bozort, Ferromagnetizm (Moskva: Izd-vo inostrannoy literatury: 1956)."
+			},
+			{
+				"doi": "",
+				"or":  "А. К. Борисюк, С. К. Яремкевич, Металлофизика, № 57: 69 (1975).",
+				"tr":  "A. K. Borisyuk, S. K. Yaremkevich, Metallofizika, No. 57: 69 (1975)."
+			},
+			{
+				"doi": "10.1109/TMAG.1970.1066734",
+				"or":  "R. Criscuoli and M. Gionfini, IEEE Trans. Magn., 6, No. 2: 205 (1970).",
+				"tr":  "R. Criscuoli and M. Gionfini, IEEE Trans. Magn., 6, No. 2: 205 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Адаменко, В. П. Ошкадерова, В. В. Полотнюк, Изучение фазовых и структурных превращений в магнитожестких сплавах при высоких температурах и скоростях нагрева с помощью вибрационного метода (Киев: 1975) (Препр. / АН Украины. Ин-т металлофизики: ИМФ 75.1).",
+				"tr":  "I. I. Adamenko, V. P. Oshkaderova, V. V. Polotnyuk, Izuchenie fazovykh i strukturnykh prevrashcheniy v magnitozhestkikh splavakh pri vysokikh temperaturakh i skorostyakh nagreva s pomoshch'yu vibratsionnogo metoda (Kiev: 1975) (Prepr. / AN Ukrainy. In-t metallofiziki: IMF 75.1)."
+			},
+			{
+				"doi": "",
+				"or":  "А. І. Кондир, А. К. Борисюк, І. П. Паздрій, С. Г. Швачко, Вибрации в технике и технологиях, 34, № 2: 41 (2004).",
+				"tr":  "A. I. Kondir, A. K. Borisyuk, I. P. Pazdriy, S. G. Shvachko, Vibratsii v tekhnike i tekhnologiyakh, 34, No. 2: 41 (2004)."
+			},
+			{
+				"doi": "10.1109/MIM.2005.1438844",
+				"or":  "J. L. Schmalzel and D. A. Rauth, IEEE Instrum. Meas. Mag., 8, No. 2: 48 (2005).",
+				"tr":  "J. L. Schmalzel and D. A. Rauth, IEEE Instrum. Meas. Mag., 8, No. 2: 48 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Nauta, IEEE SSCS Newsletter, 12, No. 1: 5 (2007).",
+				"tr":  "B. Nauta, IEEE SSCS Newsletter, 12, No. 1: 5 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "З. Готра, Р. Голяка, Аналогова мікросхемотехніка вимірювальних та сенсорних пристроїв (Львів: Вид. Державного університету «Львівська політехніка»: 1999).",
+				"tr":  "Z. Gotra, R. Golyaka, Analogova mikroskhemotekhnika vimiryuval'nikh ta sensornikh pristroiv (L'viv: Vid. Derzhavnogo universitetu «L'vivs'ka politekhnika»: 1999)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Kwong and A. Chandrakasan, IEEE SSCS Newsletter, 13, No. 4: 20 (2008).",
+				"tr":  "J. Kwong and A. Chandrakasan, IEEE SSCS Newsletter, 13, No. 4: 20 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "З. Ю. Готра, Р. Л. Голяка, О. З. Готра, І. І. Гельжинський, Т. А. Марусенкова, Вимірювальна техніка та метрологія, № 71: 110 (2010).",
+				"tr":  "Z. Yu. Gotra, R. L. Golyaka, O. Z. Gotra, I. I. Gel'zhins'kiy, T. A. Marusenkova, Vimiryuval'na tekhnika ta metrologiya, No. 71: 110 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Balaita and M. Popa, Rev. Roum. Chim., 54, No. 3: 185 (2009).",
+				"tr":  "L. Balaita and M. Popa, Rev. Roum. Chim., 54, No. 3: 185 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Smith and M. Cellini, Powder Sample Holding Capsule Holding Adapter for a Vibrating Sample Magnetometer, U. S. Patent 5274327, G01R 33/12 (December 28, 1993).",
+				"tr":  "M. Smith and M. Cellini, Powder Sample Holding Capsule Holding Adapter for a Vibrating Sample Magnetometer, U. S. Patent 5274327, G01R 33/12 (December 28, 1993)."
+			},
+			{
+				"doi": "10.1119/1.1572149",
+				"or":  "W. Burgei, M. Pechan, and H. Jaeger, Am. J. Phys., 71, No. 8: 825 (2003).",
+				"tr":  "W. Burgei, M. Pechan, and H. Jaeger, Am. J. Phys., 71, No. 8: 825 (2003)."
+			},
+			{
+				"doi": "10.1063/1.1716679",
+				"or":  "S. Foner, Rev. Sci. Instrum., 30, No. 7: 548 (1959).",
+				"tr":  "S. Foner, Rev. Sci. Instrum., 30, No. 7: 548 (1959)."
+			},
+			{
+				"doi": "10.1109/TMAG.1981.1061748",
+				"or":  "S. Foner, IEEE Trans. Magn., 17, No. 6: 3358 (1970).",
+				"tr":  "S. Foner, IEEE Trans. Magn., 17, No. 6: 3358 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Kaneko, M. Homma, and Y. Nakamura, J. Magn. Magn. Mater., No. 5: 1088 (1972).",
+				"tr":  "H. Kaneko, M. Homma, and Y. Nakamura, J. Magn. Magn. Mater., No. 5: 1088 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Я. Мешков, С. П. Ошкадеров, Н. Ф. Черненко, Вопросы физики металлов и металловедения (Киев: Наукова думка: 1964).",
+				"tr":  "Yu. Ya. Meshkov, S. P. Oshkaderov, N. F. Chernenko, Voprosy fiziki metallov i metallovedeniya (Kiev: Naukova dumka: 1964)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Т. Черепин, Экспериментальная техника в физическом металловедении (Київ: Техніка: 1968).",
+				"tr":  "V. T. Cherepin, Eksperimental'naya tekhnika v fizicheskom metallovedenii (Kiiv: Tekhnika: 1968)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. М. Довгалевский, Легирование и термическая обработка магнитотвердых сплавов (Москва: Металлургия: 1971).",
+				"tr":  "Ya. M. Dovgalevskiy, Legirovanie i termicheskaya obrabotka magnitotverdykh splavov (Moskva: Metallurgiya: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "І. П. Паздрій, А. К. Борисюк, С. Г. Швачко, Машиностроение и техносфера XXI века (Донецк: ДонНТУ: 2004).",
+				"tr":  "I. P. Pazdriy, A. K. Borisyuk, S. G. Shvachko, Mashinostroenie i tekhnosfera XXI veka (Donetsk: DonNTU: 2004)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Сериков и др., Физ. мет. металловед., 75, № 2: 57 (1993).",
+				"tr":  "V. V. Serikov i dr., Fiz. met. metalloved., 75, No. 2: 57 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Понеділок, А. К. Борисюк, Матеріли V міжнародної наукової конференції «Релаксаційні, нелінійні й акустооптичні процеси та матеріали» (1–5 червня 2010 р.) (Луцьк: Вид. Волинського національного університету: 2010), с. 64.",
+				"tr":  "G. V. Ponedilok, A. K. Borisyuk, Materili V mizhnarodnoi naukovoi konferentsii «Relaksatsiyni, neliniyni y akustooptichni protsesi ta materiali» (1–5 chervnya 2010 r.) (Luts'k: Vid. Volins'kogo natsional'nogo universitetu: 2010), s. 64."
+			},
+			{
+				"doi": "",
+				"or":  "К. Судзуки, Х. Фудзимото, К. Хасимото, Аморфные металлы (Ред. Ц. Масумото) (Москва: Металлургия: 1987).",
+				"tr":  "K. Sudzuki, Kh. Fudzimoto, K. Khasimoto, Amorfnye metally (Red. Ts. Masumoto) (Moskva: Metallurgiya: 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Немошкаленко, А. В. Романова, А. Г. Ильинский, Аморфные металлические сплавы (Киев: Наукова думка: 1987).",
+				"tr":  "V. V. Nemoshkalenko, A. V. Romanova, A. G. Il'inskiy, Amorfnye metallicheskie splavy (Kiev: Naukova dumka: 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Hasegawa, J. Optoelectr. Advanc. Mater., 6, No. 2: 503 (2004).",
+				"tr":  "R. Hasegawa, J. Optoelectr. Advanc. Mater., 6, No. 2: 503 (2004)."
+			},
+			{
+				"doi": "10.1007/s11003-010-9284-2",
+				"or":  "O. M. Hertsyk, A. K. Borusyuk, M. O. Kovbuz, I. M. Bednars’ka, N. E. Mitina, and H. V. Ponedilok, Mater. Sci., 46, No. 2: 270 (2010).",
+				"tr":  "O. M. Hertsyk, A. K. Borusyuk, M. O. Kovbuz, I. M. Bednars'ka, N. E. Mitina, and H. V. Ponedilok, Mater. Sci., 46, No. 2: 270 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. С. Горкунов, С. М. Задворкин, С. Ю. Митропольская, Д. И. Вичужанин, К. Е. Соловьев, Материалы IV международной научно-технической конференции (Тюмень: Изд. «Вектор Бук»: 2008), т. 1, с. 110.",
+				"tr":  "E. S. Gorkunov, S. M. Zadvorkin, S. Yu. Mitropol'skaya, D. I. Vichuzhanin, K. E. Solov'ev, Materialy IV mezhdunarodnoy nauchno-tekhnicheskoy konferentsii (Tyumen': Izd. 'Vektor Buk': 2008), t. 1, s. 110."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Ажажа, В. А. Десненко, Л. С. Ожигов, Ж. С. Ажажа, И. В. Свечкарев, А. В. Федорченко, Вопросы атомной науки и техники. Серия: Физика радиационных повреждений и радиационное материаловедение, 94, № 4–2: 241 (2009).",
+				"tr":  "V. M. Azhazha, V. A. Desnenko, L. S. Ozhigov, Zh. S. Azhazha, I. V. Svechkarev, A. V. Fedorchenko, Voprosy atomnoy nauki i tekhniki. Seriya: Fizika radiatsionnykh povrezhdeniy i radiatsionnoe materialovedenie, 94, No. 4–2: 241 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "З. А. Дурягіна, С. А. Беспалов, А. К. Борисюк, В. Я. Підкова, Металлофиз. новейшие технол., 33, № 5: 615 (2011).",
+				"tr":  "Z. A. Duryagina, S. A. Bespalov, A. K. Borisyuk, V. Ya. Pidkova, Metallofiz. noveyshie tekhnol., 33, No. 5: 615 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "З. А. Дурягіна, Г. В. Лазько, А. К. Борисюк, Нові матеріали і технології в металургії та машинобудуванні, № 1: 45 (2009).",
+				"tr":  "Z. A. Duryagina, G. V. Laz'ko, A. K. Borisyuk, Novi materiali i tekhnologii v metalurgii ta mashinobuduvanni, No. 1: 45 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Г. Швачко, Е. І. Плешаков, А. К. Борисюк, Металознавство та обробка металів, № 4: 9 (2007).",
+				"tr":  "S. G. Shvachko, E. I. Pleshakov, A. K. Borisyuk, Metaloznavstvo ta obrobka metaliv, No. 4: 9 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "А. І. Кондир, А. К. Борисюк, С. Г. Швачко, С. І. Нарольський, Оптимізація виробничих процесів і технічний контроль у машинобудуванні та приладобудуванні (Львів: Вид. ДУ «Львівська політехніка»: 2000), № 412, с. 109.",
+				"tr":  "A. I. Kondir, A. K. Borisyuk, S. G. Shvachko, S. I. Narol's'kiy, Optimizatsiya virobnichikh protsesiv i tekhnichniy kontrol' u mashinobuduvanni ta priladobuduvanni (L'viv: Vid. DU «L'vivs'ka politekhnika»: 2000), No. 412, s. 109."
+			},
+			{
+				"doi": "",
+				"or":  "А. К. Борисюк, В. В. Мудрицкий, Жидкостное токосъемное устройство, Авторское свидетельство 1758740 СССР, МКИ5 Н01 R39/30, № 4765287/07 (Опубликовано 30 августа 1992 г.).",
+				"tr":  "A. K. Borisyuk, V. V. Mudritskiy, Zhidkostnoe tokostemnoe ustroystvo, Avtorskoe svidetel'stvo 1758740 SSSR, MKI5 N01 R39/30, No. 4765287/07 (Opublikovano 30 avgusta 1992 g.)."
+			},
+			{
+				"doi": "",
+				"or":  "І. П. Паздрій, В. Я. Прохоренко, А. К. Борисюк, С. Г. Швачко, Машиностроение и техносфера XXI века (Донецк: ДонНТУ: 2004), т. 3, с. 42.",
+				"tr":  "I. P. Pazdriy, V. Ya. Prokhorenko, A. K. Borisyuk, S. G. Shvachko, Mashinostroenie i tekhnosfera XXI veka (Donetsk: DonNTU: 2004), t. 3, s. 42."
+			},
+			{
+				"doi": "",
+				"or":  "С. Прохоренко, В. Прохоренко, А. Борисюк, Вимірювальна техніка та метрологія, № 66: 76 (2006).",
+				"tr":  "S. Prokhorenko, V. Prokhorenko, A. Borisyuk, Vimiryuval'na tekhnika ta metrologiya, No. 66: 76 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "А. К. Борисюк, А. І. Кондир, В. Я. Прохоренко, С. Г. Швачко, Вибрации в технике и технологиях, 27, № 1: 7 (2003).",
+				"tr":  "A. K. Borisyuk, A. I. Kondir, V. Ya. Prokhorenko, S. G. Shvachko, Vibratsii v tekhnike i tekhnologiyakh, 27, No. 1: 7 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Я. Прохоренко, А. К. Борисюк, Способ получения электропроводной магнитной жидкости, Авторское свидетельство 1609341 СССР, МКИ5 Н01 R39/30, № 4641238 (Опубликовано 23 ноября 1990 г.).",
+				"tr":  "V. Ya. Prokhorenko, A. K. Borisyuk, Sposob polucheniya elektroprovodnoy magnitnoy zhidkosti, Avtorskoe svidetel'stvo 1609341 SSSR, MKI5 N01 R39/30, No. 4641238 (Opublikovano 23 noyabrya 1990 g.)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Чечерников, Магнитные измерения (Москва: Изд-во МГУ: 1969).",
+				"tr":  "V. I. Chechernikov, Magnitnye izmereniya (Moskva: Izd-vo MGU: 1969)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Кекало, Б. А. Самарин, Физическое металловедение прецизионных сплавов. Сплавы с особыми магнитными свойствами (Москва: Металлургия: 1989).",
+				"tr":  "I. V. Kekalo, B. A. Samarin, Fizicheskoe metallovedenie pretsizionnykh splavov. Splavy s osobymi magnitnymi svoystvami (Moskva: Metallurgiya: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "З. А. Дурягіна, А. К. Борисюк, С. А. Беспалов, В. Я. Підкова, Фізико-хімічна механіка матеріалів, № 3: 94 (2012).",
+				"tr":  "Z. A. Duryagіna, A. K. Borisyuk, S. A. Bespalov, V. Ya. Pіdkova, Fіziko-khіmіchna mekhanіka materіalіv, No. 3: 94 (2012)."
+			}
+		]
+	}
+}

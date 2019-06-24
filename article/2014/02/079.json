@@ -1,0 +1,329 @@
+{
+	"_id":    "UFM.15.02.079",
+	"year":   2014,
+	"volume": 15,
+	"issue":  2,
+	"pages":  [79,100],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["21.06.2014"],
+	"PACS":   "62.20.Qp, 62.23.St, 68.47.De, 81.20.Ev, 81.40.Lm, 81.65.Kn, 81.65.Mq",
+	"title":   {
+		"ua": "Механохемічне окиснення поверхні металевих стопів під дією інтенсивної пластичної деформації",
+		"en": "Mechanochemical Oxidation of a Surface of Metal Alloys under the Impact of Severe Plastic Deformation",
+		"ru": "Механохимическое окисление поверхности металлических сплавов под действием интенсивной пластической деформации"
+	},
+	"abstract": {
+		"ua": "Мета даного огляду полягає у розгляді перебігу механохемічних процесів, зокрема механоокиснення поверхні різних матеріялів під дією інтенсивної пластичної деформації. Розглянуто природу механохемічних реакцій з утворенням оксидної плівки за механічного впливу, зокрема в процесах тертя і зношення матеріялів. Показано, що підвищення механохемічної активації металевих стопів за різних видів механічних впливів пов’язують, насамперед, з накопиченням структурних дефектів (точкових дефектів, дислокацій), утворенням ювенільних поверхонь, аморфних фаз та ін. Встановлено ефект механохемічної взаємодії кисню з поверхнею титанового та алюмінієвого стопів за ультразвукового ударного оброблення у повітрі. Запропоновано механізм механохемічної синтези міцного оксидного шару, а також досліджено кінетику процесів окиснення поверхні за даного виду інтенсивної пластичної деформації.",
+		"en": "The purpose of this review consists in the consideration of mechanochemical processes, particularly, mechanochemical oxidation of the surface of different materials under the severe plastic-deformation exposure. The nature of mechanochemical reactions with the formation of the oxide film at the mechanical exposure, particularly during the processes of friction and wear of materials, is considered. As shown, the increase of the mechanochemical activity of surface layers of metal alloys during the different mechanical treatments is associated, first of all, with the accumulation of structural defects (point ones, dislocations), the formation of juvenile surfaces, amorphous phases, etc. The effect of mechanochemical oxygen interaction with the surface of titanium and aluminium alloys under the exposure of ultrasonic impact treatment in the air is revealed. The mechanism of mechanochemical synthesis of strong oxide layer is suggested, and the kinetics of the surface oxidation under such type of severe plastic deformation is studied.",
+		"ru": "Цель данного обзора заключается в рассмотрении протекания механохимических процессов, в частности механоокисления поверхности различных материалов при воздействии интенсивной пластической деформации. Рассмотрена природа механохимических реакций с образованием окисной плёнки при механическом воздействии, в частности в процессах трения и износа материалов. Показано, что повышение механохимической активации поверхностных слоёв металлических сплавов при разных видах механических воздействий связывают, прежде всего, с накоплением структурных дефектов (точечных дефектов, дислокаций), образованием ювенильных поверхностей, аморфных фаз и др. Установлен эффект механохимического взаимодействия кислорода с поверхностью титанового и алюминиевого сплавов при воздействии ультразвуковой ударной обработки на воздухе. Предложен механизм механохимического синтеза прочного оксидного слоя, а также исследована кинетика процессов окисления поверхности при данном виде интенсивной пластической деформации."
+	},
+	"keywords": {
+		"ua": "-",
+		"en": "mechanochemistry, mechanooxidation, metallic alloys, intensive plastic deformation,structural defects",
+		"ru": "механохимия, механоокисление, металлические сплавы, интенсивная пластическая деформация, структурные дефекты"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. О. Васильєв", "en": "M. O. Vasiliev", "ru": "М. А. Васильев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. М. Волошко", "en": "S. M. Voloshko", "ru": "С. М. Волошко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "Л. Ф. Яценко", "en": "L. F. Yatsenko", "ru": "Л. Ф. Яценко"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.15407/mfint.39.01.0049",
+				"cit": "M. O. Vasylyev, B. M. Mordyuk, S. I. Sidorenko, S. M. Voloshko <i>et al.</i>, <a href=\"https://doi.org/10.15407/mfint.39.01.0049\">Metallofiz. Noveishie Tekhnol. <b>39</b>, 49 (2017)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 55,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. В. Зырянов, Успехи химии, 77, вып. 2: 107 (2008).",
+				"tr":  "V. V. Zyryanov, Uspekhi Khimii, 77, Iss. 2: 107 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Болдырев, Успехи химии, 75, вып. 3: 203 (2006).",
+				"tr":  "V. V. Boldyrev, Uspekhi Khimii, 75, Iss. 3: 203 (2006) (in Russian)."
+			},
+			{
+				"doi": "10.1023/A:1011347706721",
+				"or":  "V. V. Boldyrev and K. Tkacova, Journal of Materials Synthesis and Processing, 8, No. 3/4: 121 (2000).",
+				"tr":  "V. V. Boldyrev and K. Tkáčová, Journal of Materials Synthesis and Processing, 8, Nos. 3/4: 121 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Ю. Бутягин, Успехи химии, 63, вып. 12: 1031 (1994).",
+				"tr":  "P. Yu. Butyagin, Uspekhi Khimii, 63, Iss. 12: 1031 (1994) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Г. Аввакумов, Механические методы активации химических процессов (Новосибирск: Наука: 1986).",
+				"tr":  "E. G. Avvakumov, Mekhanicheskie Metody Aktivatsii Khimicheskikh Protsessov [Mechanical Methods of Activation of Chemical Processes] (Novosibirsk: Nauka: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Болдырев, Механохимический синтез в неорганической химии (Новосибирск: Наука: 1991).",
+				"tr":  "V. V. Boldyrev, Mekhanokhimicheskiy Sintez v Neorganicheskoy Khimii [Mechanochemical Synthesis in Inorganic Chemistry] (Novosibirsk: Nauka: 1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Молчанов, Р. А. Буянов, Успехи химии, 69, вып. 5: 476 (2000).",
+				"tr":  "V. V. Molchanov and R. A. Buyanov, Uspekhi Khimii, 69, Iss. 5: 476 (2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Хайнике, Трибохимия (Москва: Мир: 1987).",
+				"tr":  "G. Heinicke, Tribokhimiya [Tribochemistry] (Moscow: Mir: 1987) (Russian translation)."
+			},
+			{
+				"doi": "10.1039/C1CS15171A",
+				"or":  "S. L. James, C. J. Adams, C. Bolm, D. Braga, P. Collier, T. Friscic, F. Grepioni, K. D. Harris, G. Hyett, W. Jones, A. Krebs, J. Mack, L. Maini, A. G. Orpen, I. P. Parkin, W. C. Shearouse, J. W. Steed, and D. C. Waddell, Chem. Soc. Rev., 41: 413 (2012).",
+				"tr":  "S. L. James, C. J. Adams, C. Bolm, D. Braga, P. Collier, T. Friscic, F. Grepioni, K. D. Harris, G. Hyett, W. Jones, A. Krebs, J. Mack, L. Maini, A. G. Orpen, I. P. Parkin, W. C. Shearouse, J. W. Steed, and D. C. Waddell, Chem. Soc. Rev., 41: 413 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. В. Перцев, Е. Д. Щукин, Физика и химия обработки материалов, № 2: 35 (1970).",
+				"tr":  "N. V. Pertsev and E. D. Shchukin, Fizika i Khimiya Obrabotki Materialov [Physics and Chemistry of Material Treatments], No. 2: 35 (1970) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.electacta.2008.02.034",
+				"or":  "P. Kar, K. Wang, and H. Liang, Electrochimica Acta, 53, No. 16: 5084 (2008).",
+				"tr":  "P. Kar, K. Wang, and H. Liang, Electrochimica Acta, 53, No. 16: 5084 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Болдырев, Экспериментальные методы в механохимии твердых неорганических веществ (Новосибирск: Наука: 1983).",
+				"tr":  "V. V. Boldyrev, Eksperimentalnyye Metody v Mekhanokhimii Tvyordykh Neorganicheskikh Veshchestv [Experimental Methods in Mechanochemistry of Inorganic Solids] (Novosibirsk: Nauka: 1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Ю. Бутягин, Успехи химии, 53, вып. 11: 1769 (1984).",
+				"tr":  "P. Yu. Butyagin, Uspekhi Khimii, 53, Iss. 11: 1769 (1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Кулебакин, П. Ю. Бутягин, Применение механохимии в гидрометаллургических процессах (Новосибирск: Наука: 1988).",
+				"tr":  "V. G. Kulebakin and P. Yu. Butyagin, Primenenie Mekhanokhimii v Gidrometallurgicheskikh Protsessakh [Mechanochemistry Application in Hydrometallurgical Processes] (Novosibirsk: Nauka: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Ильин, В. Ю. Курочкин, Н. Н. Смирнов, А. П. Ильин, Н. Е. Гордина, Материалы всероссийского семинара «Термодинамика поверхностных явлений и адсорбция» (2006), с. 43.",
+				"tr":  "A. A. Il'in, V. Yu. Kurochkin, N. N. Smirnov, A. P. Il'in, and N. E. Gordina, Materialy Vserossijskogo Seminara 'Termodinamika Poverkhnostnykh Yavleniy i Adsorbtsiya' (2006), p. 43 (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.physb.2006.07.043",
+				"or":  "Li-Li Wang and Ji-Sen Jiang, Physica B, 390: 23 (2007).",
+				"tr":  "Li-Li Wang and Ji-Sen Jiang, Physica B, 390: 23 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Зырянов, Д. Н. Гаркунов, Триботехника (Москва: Машиностроение: 1985).",
+				"tr":  "V. V. Zyryanov and D. N Garkunov, Tribotekhnika [Tribological Engineering] (Moscow: Mashinostroenie: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. И. Костецкий, Л. И. Бершадский, Механохимические процессы при граничном трении (Москва: Наука: 1972).",
+				"tr":  "B. I. Kosteckij and L. I. Bershadskij, Mehanokhimicheskiye Protsessy pri Granichnom Trenii [Mechanochemical Processes at Boundary Friction] (Moscow: Nauka: 1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. И. Костецкий, И. Г. Носовский, А. К. Караулов, Л. И. Бершадский, Поверхностная прочность материалов при трении (Киев: Техника: 1976).",
+				"tr":  "B. I. Kostetskij, I. G. Nosovskij, A. K. Karaulov, and L. I. Bershadskij, Poverkhnostnaya Prochnost' Materialov pri Trenii [Surface Strength of Materials at Friction] (Kiev: Tekhnika: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. И. Костецкий, Фундаментальные закономерности трения и износа (Киев: РДЭНТП: 1981).",
+				"tr":  "B. I. Kosteckij, Fundamental'nyye Zakonomernosti Treniya i Iznosa [Fundamental Regularities of Friction and Wear] (Kiev: RDENTP: 1981) (in Russian)."
+			},
+			{
+				"doi": "10.2298/SOS0502077Z",
+				"or":  "V. V. Zyryanov, Science of Sintering, 37: 77 (2005).",
+				"tr":  "V. V. Zyryanov, Science of Sintering, 37: 77 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Ильин, В. Ю. Курочкин, А. П. Ильин, Н. Н. Смирнов, Ю. В. Флегонтова, Химия и химическая технология, 51, № 3: 33 (2008).",
+				"tr":  "A. A. Il'in, V. Yu. Kurochkin, A. P. Il'in, N. N. Smirnov, and Yu. V. Flegontova, Khimiya i Khimicheskaya Tekhnologiya, 51, No. 3: 33 (2008) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00271-F",
+				"or":  "V. V. Gorsky, A. N. Gripachevsky, V. V. Nemoshkalenko, A. N. Timoshevsky, O. N. Rasumov, and A. V. Vereshchak, Nanostructured Materials, 5, No. 6: 965 (1995).",
+				"tr":  "V. V. Gorsky, A. N. Gripachevsky, V. V. Nemoshkalenko, A. N. Timoshevsky, O. N. Rasumov, and A. V. Vereshchak, Nanostructured Materials, 5, No. 6: 965 (1995)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00272-G",
+				"or":  "A. N. Timoshevsky, V. V. Gorsky, A. N. Gripachevsky, V. V. Nemoshkalenko, O. N. Rasumov, and A. V. Vereshchak, Nanostructured Materials, 5, No. 6: 976 (1995).",
+				"tr":  "A. N. Timoshevsky, V. V. Gorsky, A. N. Gripachevsky, V. V. Nemoshkalenko, O. N. Rasumov, and A. V. Vereshchak, Nanostructured Materials, 5, No. 6: 976 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, В. А. Тиньков, С. М. Волошко, В. С. Филатова, Л. Ф. Яценко, Металлофиз. новейшие технол., 34, № 5: 687 (2012).",
+				"tr":  "M. A. Vasylyev, V. A. Tin'kov, S. M. Voloshko, V. S. Filatova, and L. F. Yatsenko, Metallofiz. Noveishie Tekhnol., 34, No. 5: 687 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Бурмак, С. І. Сидоренко, М. О. Васильєв, С. М. Волошко, Наукові вісті НТУУ «КПІ», № 1: 57 (2013).",
+				"tr":  "A. P. Burmak, S. І. Sidorenko, M. O. Vasylyev, and S. M. Voloshko, Naukovі Vіstі NTUU 'KPІ', No. 1: 57 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. С. Бай, Д. И. Лайнер, Е. Н. Слесарева, М. И. Цыпин. Окисление титана и его сплавов (Москва: Металлургия: 1970).",
+				"tr":  "A. S. Baj, D. I. Lajner, E. N. Slesareva, and M. I. Tsypin, Okislenie Titana i Yego Splavov [Oxidation of Titanium and Its Alloys] (Moscow: Metallurgiya: 1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, В. И. Беда, П. А. Гурин, Физиологический отклик на состояние поверхности металлических дентальных имплантатов (Львов: ГалДент: 2010).",
+				"tr":  "М. А. Vasylyev, V. I. Beda, and P. A. Gurin, Fiziologicheskiy Otklik na Sostoyanie Poverkhnosti Metallicheskikh Dental'nykh Implantatov [Physiological Response to the State of the Surface of Metal Dental Implants] (Lviv: GalDent: 2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Кубашевский, Б. Гопкинс, Окисление металлов и сплавов (Москва: Металлургия: 1965).",
+				"tr":  "O. Kubashevskij and B. Gopkins, Okisleniye Metallov i Splavov [Oxidation of Metals and Alloys] (Moscow: Metallurgiya: 1965) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. М. Лазарев, З. И. Корнилова, Н. М. Федорчук, Окисление титановых сплавов (Москва: Наука: 1985).",
+				"tr":  "E. M. Lazarev, Z. I. Kornilova, and N. M. Fedorchuk, Okisleniye Titanovykh Splavov [Oxidation of Titanium Alloys] (Moscow: Nauka: 1985) (in Russian)."
+			},
+			{
+				"doi": "10.1088/0034-4885/12/1/308",
+				"or":  "N. Cabrera and N. F. Mott, Rep. Prog. Phys., 12: 163 (1949).",
+				"tr":  "N. Cabrera and N. F. Mott, Rep. Prog. Phys., 12: 163 (1949)."
+			},
+			{
+				"doi": "10.1016/0010-938X(73)90047-4",
+				"or":  "C. Wagner, Corrosion Science, 13: 23 (1973).",
+				"tr":  "C. Wagner, Corrosion Science, 13: 23 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Робертс, Чю Макки, Химия поверхности раздела металл–газ (Москва: Мир: 1981).",
+				"tr":  "M. W. Roberts and C. S. McKee, Khimiya Poverkhnosti Razdela Metall–Gaz [Chemistry of the Metal–Gas Interface] (Moscow: Mir: 1981) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Eckell, Elektrochem, 39: 433 (1933).",
+				"tr":  "J. Eckell, Elektrochem, 39: 433 (1933)."
+			},
+			{
+				"doi": "",
+				"or":  "В. К. Яцимирский, Н. И. Гиренкова, А. Ф. Хриенко, Журнал технической химии, XLIX, № 1: 100 (1975).",
+				"tr":  "V. K. Yatsimirskij, N. I. Girenkova, and A. F. Khrienko, Zhurnal Tekhnicheskoy Khimii, XLIX, No. 1: 100 (1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "J. de la Figuera, C. B. Carter, N. C. Bartelt, and R. Q. Hwang, Surface Science, 531: 29 (2003).",
+				"tr":  "J. de la Figuera, C. B. Carter, N. C. Bartelt, and R. Q. Hwang, Surface Science, 531: 29 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Латышев, М. И. Молоцкий, К. Б. Чибисов, ДАН СССР, 224, № 4: 880 (975).",
+				"tr":  "A. N. Latyshev, M. I. Molotskij, and K. B. Chibisov, Doklady AN SSSR, 224, No. 4: 880 (975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Томас, У. Томас, Гетерогенный катализ (Москва: Мир: 1969).",
+				"tr":  "J. M. Thomas and W. J. Thomas, Geterogennyy Kataliz [Principles and Practice of Heterogeneous Catalysis] (Moscow: Mir: 1969) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. М. Гутман, Механохимия металлов и защита от коррозии (Москва: Металлургия: 1975).",
+				"tr":  "E. M. Gutman, Mehanokhimiya Metallov i Zashchita ot Korrozii [Mechanochemistry of Metals and Corrosion Protection] (Moscow: Metallurgiya: 1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. И. Молоцкий, В. Б. Малюгин, И. С. Суровцев, Поверхность. Физика, химия, механика, № 4: 12 (1983).",
+				"tr":  "M. I. Molotskij, V. B. Malyugin, and I. S. Surovtsev, Poverkhnost'. Fizika, Khimiya, Mekhanika, No. 4: 12 (1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. И. Молоцкий, Кинетика и катализ, 20, № 6: 1451 (1979).",
+				"tr":  "M. I. Molotskij, Kinetika i Kataliz, 20, No. 6: 1451 (1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. И. Молоцкий, B. C. Ростовцев, Физ. тверд. тела, 24, № 9: 2564 (1982).",
+				"tr":  "M. I. Molotskij and B. C. Rostovtsev, Fizika Tverdogo Tela, 24, No. 9: 2564 (1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Д. Нацик, Л. Г. Потемина, ЖЭТФ, 79, вып. 6, № 12: 2398 (1980).",
+				"tr":  "V. D. Natsik and L. G. Potemina, ZhETF, 79, No. 6(12): 2398 (1980) (in Russian)."
+			},
+			{
+				"doi": "10.1038/122505a0",
+				"or":  "R. S. Mulliken, Nature, 122: 505 (1928).",
+				"tr":  "R. S. Mulliken, Nature, 122: 505 (1928)."
+			},
+			{
+				"doi": "10.1021/cr010371d",
+				"or":  "C. Schweitzer and R. Schmidt, Chemical Reviews, 103, No. 5: 1685 (2003).",
+				"tr":  "C. Schweitzer and R. Schmidt, Chemical Reviews, 103, No. 5: 1685 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Krasnovsky, Jr., Membr. Cell Biology, 12, No. 5: 665 (1998).",
+				"tr":  "A. A. Krasnovsky, Jr., Membr. Cell Biology, 12, No. 5: 665 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Tokmachev and A. L. Tchougreeff, J. Solid State Chem., 176: 633 (2003).",
+				"tr":  "A. M. Tokmachev and A. L. Tchougreeff, J. Solid State Chem., 176: 633 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Boronat and A. Corma, Catalysis Today, 169: 52 (2011).",
+				"tr":  "M. Boronat and A. Corma, Catalysis Today, 169: 52 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Б. Абрамова, А. И. Русаков, А. А. Семенов, И. П. Щербаков, Физ. тверд. тела, 40, № 6: 957 (1998).",
+				"tr":  "K. B. Abramova, A. I. Rusakov, A. A. Semenov, and I. P. Shcherbakov, Fizika Tverdogo Tela, 40, No. 6: 957 (1998) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Б. Абрамова, А. А. Семенов, ЖТФ, 71, № 11: 48 (2001).",
+				"tr":  "K. B. Abramova and A. A. Semenov, ZhTF, 71, No. 11: 48 (2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Б. Абрамова, В. И. Веттегрень, И. П. Щербаков, С. Ш. Рахимов, В. Н. Светлов, ЖТФ, 69, вып. 12: 102 (1999).",
+				"tr":  "K. B. Abramova, V. I. Vettegren', I. P. Shcherbakov, S. Sh. Rahimov, and V. N. Svetlov, ZhTF, 69, Iss. 12: 102 (1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. И. Молоцкий, Физ. тверд. тела, 20, № 6: 1651 (1978).",
+				"tr":  "M. I. Molotskij, Fizika Tverdogo Tela, 20, No. 6: 1651 (1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ф. Банишев, В. Я. Панченко, А. В. Шишков, ЖТФ, 73, вып. 5: 90 (2003).",
+				"tr":  "A. F. Banishev, V. Ya. Panchenko, and A. V. Shishkov, ZhTF, 73, Iss. 5: 90 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Крылова, Успехи химии, LV, вып. 12: 2138 (1976).",
+				"tr":  "I. V. Krylova, Uspekhi Khimii, LV, Iss. 12: 2138 (1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "B. N. Mordyuk and G. I. Prokopenko, J. Sound Vibration, 308: 855 (2007).",
+				"tr":  "B. N. Mordyuk and G. I. Prokopenko, J. Sound Vibration, 308: 855 (2007)."
+			}
+		]
+	}
+}

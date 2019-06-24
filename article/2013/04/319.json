@@ -1,0 +1,393 @@
+{
+	"_id":    "UFM.14.04.319",
+	"year":   2013,
+	"volume": 14,
+	"issue":  4,
+	"pages":  [319,352],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["29.06.2013"],
+	"PACS":   "68.65.Нb, 71.23.Ft, 71.35.Ee, 73.20.Mf, 73.21.La",
+	"title":   {
+		"ua": "Використання методи точних МТ-орбіталей для моделювання термодинамічних і механічних властивостей чистих компонентів стопів на основі Ti і Zr",
+		"en": "The Application of Method of Exact MT-orbitals for Modelling of Thermodynamic and Mechanical Properties in Pure Components of Ti- and Zr-Based Alloys",
+		"ru": "Использование метода точных МТ-орбиталей для моделирования термодинамических и механических свойств чистых компонентов сплавов на основе Ti и Zr"
+	},
+	"abstract": {
+		"ua": "В даній роботі наведено опис методи точних МТ-орбіталей (ТМТО) і проведено дослідження її придатности для моделювання термодинамічних і механічних властивостей чистих компонентів стопів на основі Ti та Zr. Виконано розрахунки повних енергій Ti, Zr, Nb, V, Mo і Al в гранецентрованій кубічній (ГЦК), об’ємноцентрованій кубічній (ОЦК) і гексагональній щільнопакованій (ГЩП) структурах. Розраховано теоретичні значення параметрів ґратниці, пружні сталі та рівняння стану. У всіх випадках розрахунки методою ТМТО передбачають правильну структуру основного стану. Для стабільних структур проведено порівняння одержаних результатів з експериментом і з розрахунками повнопотенціяльними методами.",
+		"en": "The exact MT orbitals (EMTO) method is described, and its applicability for modelling of thermodynamical and mechanical properties of pure components of Ti- and Zr-based alloys is investigated. Calculations of the total energies of Ti, Zr, Nb, V, Mo, and Al in face-centred cubic (f.c.c.), body-centred cubic (b.c.c.) and hexagonal close-packed (h.c.p.) crystal structures are carried out. Theoretical values of lattice parameters, elastic moduli, and equations of state are computed. In all cases, the EMTO calculations predict the correct ground-state structure of the studied constituents. For the stable structures, we compare the results of our EMTO calculations with experimental data and with the results of full-potential calculations.",
+		"ru": "В данной работе приведено описание метода точных МТ-орбиталей (ТМТО) и проведено исследование его применимости для моделирования термодинамических и механических свойств чистых компонентов сплавов на основе Ti и Zr. Проведены расчёты полных энергий Ti, Zr, Nb, V, Mo и Al в гранецентрированной кубической (ГЦК), объёмноцентрированной кубической (ОЦК) и гексагональной плотноупакованной (ГПУ) структурах. Рассчитаны теоретические значения параметров решётки, упругие постоянные и уравнения состояния. Во всех случаях расчёты методом ТМТО предсказывают правильную структуру основного состояния. Для стабильных структур проведено сравнение полученных результатов с экспериментом и с расчётами полнопотенциальными методами."
+	},
+	"keywords": {
+		"ua": "першопринципний розрахунок електронної структури, стабільність кристалічної структури, пружні сталі, Ti, Zr, Nb, V, Mo, Al",
+		"en": "first principle calculation of electronic structure, stability of crystal structure, elastic constants, Ti, Zr, Nb, V, Mo, Al",
+		"ru": "первопринципный расчёт электронной структуры, стабильность кристаллической структуры, упругие постоянные, Ti, Zr, Nb, V, Mo, Al"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. А. Абрікосов", "en": "I. A. Abrikosov", "ru": "И. А. Абрикосов"},
+			"OID": [447]
+		},
+		{
+			"AID": {"ua": "А. Ю. Ніконов", "en": "A. Yu. Nikonov", "ru": "А. Ю. Никонов"},
+			"OID": [405,406]
+		},
+		{
+			"AID": {"ua": "О. В. Пономарєва", "en": "A. V. Ponomareva", "ru": "А. В. Пономарева"},
+			"OID": [448]
+		},
+		{
+			"AID": {"ua": "А. І. Дмітрієв", "en": "A. I. Dmitriev", "ru": "А. И. Дмитриев"},
+			"OID": [405,406]
+		},
+		{
+			"AID": {"ua": "С. О. Бараннікова", "en": "S. A. Barannikova", "ru": "С. А. Баранникова"},
+			"OID": [405,406]
+		}
+	],
+	"references": {
+		"count": 68,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "O. Grässel and G. Frommeyer, Stahl Eisen, 122: 65 (2002).",
+				"tr":  "O. Grässel and G. Frommeyer, Stahl Eisen, 122: 65 (2002)."
+			},
+			{
+				"doi": "10.1038/nmat3544",
+				"or":  "G. Liu, G. J. Zhang, F. Jiang, X. D. Ding, Y. J. Sun, J. Sun, and E. Ma, Nature Materials, 12: 344 (2013).",
+				"tr":  "G. Liu, G. J. Zhang, F. Jiang, X. D. Ding, Y. J. Sun, J. Sun, and E. Ma, Nature Materials, 12: 344 (2013)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.95.245502",
+				"or":  "L. Dubrovinsky, Phys. Rev. Lett., 95: 245502 (2005).",
+				"tr":  "L. Dubrovinsky, Phys. Rev. Lett., 95: 245502 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRev.136.B864",
+				"or":  "P. Hohenberg and W. Kohn, Phys. Rev., 136: B864 (1964).",
+				"tr":  "P. Hohenberg and W. Kohn, Phys. Rev., 136: B864 (1964)."
+			},
+			{
+				"doi": "10.1103/PhysRev.140.A1133",
+				"or":  "W. Kohn and L. J. Sham, Phys. Rev., 140: A1133 (1965).",
+				"tr":  "W. Kohn and L. J. Sham, Phys. Rev., 140: A1133 (1965)."
+			},
+			{
+				"doi": "10.1017/CBO9780511805769",
+				"or":  "R. M. Martin, Electronic structure. Basic Theory and Practical Methods (Cambridge: Cambridge University Press: 2004).",
+				"tr":  "R. M. Martin, Electronic structure. Basic Theory and Practical Methods (Cambridge: Cambridge University Press: 2004)."
+			},
+			{
+				"doi": "10.1088/0034-4885/71/4/046501",
+				"or":  "A. V. Ruban and I. A. Abrikosov, Rep. Prog. Phys., 71: 046501 (2008).",
+				"tr":  "A. V. Ruban and I. A. Abrikosov, Rep. Prog. Phys., 71: 046501 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.85.144112",
+				"or":  "F. Tasnadi, M. Oden, and A. I. Abrikosov, Phys. Rev. B, 85: 144112 (2012).",
+				"tr":  "F. Tasnadi, M. Oden, and A. I. Abrikosov, Phys. Rev. B, 85: 144112 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRev.156.809",
+				"or":  "P. Soven, Phys. Rev., 156: 809 (1967).",
+				"tr":  "P. Soven, Phys. Rev., 156: 809 (1967)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.5.2382",
+				"or":  "B. L. Györffy, Phys. Rev. B, 5: 2382 (1972).",
+				"tr":  "B. L. Györffy, Phys. Rev. B, 5: 2382 (1972)."
+			},
+			{
+				"doi": "10.1016/0079-6425(82)90005-6",
+				"or":  "J. S. Faulkner, Prog. Mater. Sci., 27: 1 (1982).",
+				"tr":  "J. S. Faulkner, Prog. Mater. Sci., 27: 1 (1982)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.47.16532",
+				"or":  "I. A. Abrikosov and H. L. Skriver, Phys. Rev. B, 47: 16532 (1993).",
+				"tr":  "I. A. Abrikosov and H. L. Skriver, Phys. Rev. B, 47: 16532 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "O. K. Andersen, O. Jepsen, and G. Krier, Lectures on Methods of Electronic Structure Calculations (Eds V. Kumar, O. Andersen, and A. Mookerjee) (Singapore: World Scientific Publishing Co.: 1994), p. 63.",
+				"tr":  "O. K. Andersen, O. Jepsen, and G. Krier, Lectures on Methods of Electronic Structure Calculations (Eds V. Kumar, O. Andersen, and A. Mookerjee) (Singapore: World Scientific Publishing Co.: 1994), p. 63."
+			},
+			{
+				"doi": "",
+				"or":  "O. K. Andersen and T. Saha-Dasupta, Phys. Rev. B, 62, No. R16: 219 (2000).",
+				"tr":  "O. K. Andersen and T. Saha-Dasupta, Phys. Rev. B, 62, No. R16: 219 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.87.156401",
+				"or":  "L. Vitos, I. A. Abrikosov, and B. Johansson, Phys. Rev. Lett., 87: 156401 (2001).",
+				"tr":  "L. Vitos, I. A. Abrikosov, and B. Johansson, Phys. Rev. Lett., 87: 156401 (2001)."
+			},
+			{
+				"doi": "10.1016/S0022-3115(03)00207-1",
+				"or":  "P. Olsson, I. A. Abrikosov, L. Vitos, and J. Wallenius, J. Nucl. Mater., 321: 84 (2003).",
+				"tr":  "P. Olsson, I. A. Abrikosov, L. Vitos, and J. Wallenius, J. Nucl. Mater., 321: 84 (2003)."
+			},
+			{
+				"doi": "10.1063/1.3256196",
+				"or":  "B. Alling, M. Oden, L. Hultman, and I. A. Abrikosov, Appl. Phys. Lett., 95: 181906 (2009).",
+				"tr":  "B. Alling, M. Oden, L. Hultman, and I. A. Abrikosov, Appl. Phys.Lett., 95: 181906 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.79.214112",
+				"or":  "C. Asker, L. Vitos, and I. A. Abrikosov, Phys. Rev. B, 79: 214112 (2009).",
+				"tr":  "C. Asker, L. Vitos, and I. A. Abrikosov, Phys. Rev. B, 79: 214112 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.86.014105",
+				"or":  "X. Li, H. Zhang, S. Lu, W. Li, J. Zhao, B. Johansson, and L. Vitos, Phys. Rev. B, 86: 014105 (2012).",
+				"tr":  "X. Li, H. Zhang, S. Lu, W. Li, J. Zhao, B. Johansson, and L. Vitos, Phys. Rev. B, 86: 014105 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.64.014107",
+				"or":  "L. Vitos, Phys. Rev. B, 64: 014107 (2001).",
+				"tr":  "L. Vitos, Phys. Rev. B, 64: 014107 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Vitos, Computational Quantum Mechanics for Materials Engineers (Berlin: Springer-Verlag: 2007).",
+				"tr":  "L. Vitos, Computational Quantum Mechanics for Materials Engineers (Berlin: Springer-Verlag: 2007)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Vitos, I. A. Abrikosov, and B. Johansson, Complex Inorganic Solids. Structural, Stability, and Magnetic Properties of Alloys (Eds. P. E. A. Turchi, A. Gonis, K. Rajan, and A. Meike) (Berlin: Springer-Verlag: 2005), p. 339.",
+				"tr":  "L. Vitos, I. A. Abrikosov, and B. Johansson, Complex Inorganic Solids. Structural, Stability, and Magnetic Properties of Alloys (Eds. P. E. A. Turchi, A. Gonis, K. Rajan, and A. Meike) (Berlin: Springer-Verlag: 2005), p. 339."
+			},
+			{
+				"doi": "10.1016/S0927-0256(99)00098-1",
+				"or":  "L. Vitos, H. Skriver, B. Johansson, and J. Kollar, Comp. Mat. Sci., 18: 24 (2000).",
+				"tr":  "L. Vitos, H. Skriver, B. Johansson, and J. Kollar, Comp. Mat. Sci., 18: 24 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.37.790",
+				"or":  "V. L. Morruzi, J. F. Janak, and K. Schwartz, Phys. Rev. B, 37: 790 (1988).",
+				"tr":  "V. L. Morruzi, J. F. Janak, and K. Schwartz, Phys. Rev. B, 37: 790 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Grimvall, Thermophysical Properties of Materials (Amsterdam: North Holland: 1999).",
+				"tr":  "G. Grimvall, Thermophysical Properties of Materials (Amsterdam: North Holland: 1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.60.791",
+				"or":  "G. Steinle-Neumann, L. Stixrude, and R. E. Cohen, Phys. Rev. B, 60: 791 (1999).",
+				"tr":  "G. Steinle-Neumann, L. Stixrude, and R. E. Cohen, Phys. Rev. B, 60: 791 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.77.3865",
+				"or":  "J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett., 77: 3865 (1996).",
+				"tr":  "J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett., 77: 3865 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.78.054121",
+				"or":  "R. G. Hennig, T. J. Lenosky, D. R. Trinkle, S. P. Rudin, and J. W. Wilkins, Phys. Rev. B, 78: 054121 (2008).",
+				"tr":  "R. G. Hennig, T. J. Lenosky, D. R. Trinkle, S. P. Rudin, and J. W. Wilkins, Phys. Rev. B, 78: 054121 (2008)."
+			},
+			{
+				"doi": "10.1016/j.calphad.2004.05.002",
+				"or":  "Y. Wang, S. Curtarolo, C. Jiang, R. Arroyave, T. Wang, G. Ceder, L. Q. Chen, and Z. K. Liu, CALPHAD: Comput. Coupling Phase Diagr. Thermochem., 28: 79 (2004).",
+				"tr":  "Y. Wang, S. Curtarolo, C. Jiang, R. Arroyave, T. Wang, G. Ceder, L. Q. Chen, and Z. K. Liu, CALPHAD: Comput. Coupling Phase Diagr. Thermochem., 28: 79 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRev.135.A482",
+				"or":  "E. S. Fisher and C. J. Renken, Phys. Rev., 135: A482 (1964).",
+				"tr":  "E. S. Fisher and C. J. Renken, Phys. Rev., 135: A482 (1964)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.78.054119",
+				"or":  "J. Zhang, Y. Zhao, R. S. Hixson, and G. T. Gray III, Phys. Rev. B, 78: 054119 (2008).",
+				"tr":  "J. Zhang, Y. Zhao, R. S. Hixson, and G. T. Gray III, Phys. Rev. B, 78: 054119 (2008)."
+			},
+			{
+				"doi": "10.1063/1.3556753",
+				"or":  "B.-T. Wang, P. Zhang, H.-Y. Liu, W.-D. Li, and P. Zhang, J. Appl. Phys., 109: 063514 (2011).",
+				"tr":  "B.-T. Wang, P. Zhang, H.-Y. Liu, W.-D. Li, and P. Zhang, J. Appl. Phys., 109: 063514 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Olinger and J. C. Jamieson, High Temp. High Press., 5: 123 (1973).",
+				"tr":  "B. Olinger and J. C. Jamieson, High Temp. High Press., 5: 123 (1973)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.71.184119",
+				"or":  "Y. Zhao, J. Zhang, C. Pantea, J. Qian, L. L. Daemen, P. A. Rigg, R. S. Hixson, G. T. Gray III, Y. Yang, L. Wang, Y. Wang, and T. Uchida, Phys. Rev. B, 71: 184119 (2005).",
+				"tr":  "Y. Zhao, J. Zhang, C. Pantea, J. Qian, L. L. Daemen, P. A. Rigg, R. S. Hixson, G. T. Gray III, Y. Yang, L. Wang, Y. Wang, and T. Uchida, Phys. Rev. B, 71: 184119 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "E. A. Brandes, Smithells Metals Reference Book (London: Butterworth: 1983).",
+				"tr":  "E. A. Brandes, Smithells Metals Reference Book (London: Butterworth: 1983)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.59.1758",
+				"or":  "G. Kresse and D. Joubert, Phys. Rev. B, 59: 1758 (1999).",
+				"tr":  "G. Kresse and D. Joubert, Phys. Rev. B, 59: 1758 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.50.17953",
+				"or":  "P. E. Blochl, Phys. Rev. B, 50: 17953 (1994).",
+				"tr":  "P. E. Blochl, Phys. Rev. B, 50: 17953 (1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.54.11169",
+				"or":  "G. Kresse and J. Furthmüller, Phys. Rev. B, 54: 11169 (1996).",
+				"tr":  "G. Kresse and J. Furthmüller, Phys. Rev. B, 54: 11169 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.96.045505",
+				"or":  "Y. Akahama, M. Nishimura, K. Kinoshita, and H. Kawamura, Phys. Rev. Lett., 96: 045505 (2006).",
+				"tr":  "Y. Akahama, M. Nishimura, K. Kinoshita, and H. Kawamura, Phys. Rev. Lett., 96: 045505 (2006)."
+			},
+			{
+				"doi": "10.1016/j.calphad.2006.02.009",
+				"or":  "P. E. A. Turchi, I. A. Abrikosov, B. Burton, S. G. Fries, G. Grimvall, L. Kaufman, P. Korzhavyi, V. R. Manga, M. Ohno, A. Pisch, A. Scott, and W. Zhang, Calphad, 31: 4 (2007).",
+				"tr":  "P. E. A. Turchi, I. A. Abrikosov, B. Burton, S. G. Fries, G. Grimvall, L. Kaufman, P. Korzhavyi, V. R. Manga, M. Ohno, A. Pisch, A. Scott, and W. Zhang, Calphad, 31: 4 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.3.4100",
+				"or":  "D. I. Bolef, R. E. Smith, and J. G. Miller, Phys. Rev. B, 3: 4100 (1971).",
+				"tr":  "D. I. Bolef, R. E. Smith, and J. G. Miller, Phys. Rev. B, 3: 4100 (1971)."
+			},
+			{
+				"doi": "10.1016/S0927-0256(00)00028-8",
+				"or":  "N. I. Papanicolaou, G. C. Kallinteris, G. A. Evangelakis, and D. A. Papaconstantopoulos, Comp. Mater. Sci., 17: 224 (2000).",
+				"tr":  "N. I. Papanicolaou and G. C. Kallinteris, G. A. Evangelakis, and D. A. Papaconstantopoulos, Comp. Mater. Sci., 17: 224 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Simmons and H. Wang, Single Crystal Elastic Constants and Calculated Aggregate Properties (Cambridge MA: MIT Press: 1971).",
+				"tr":  "G. Simmons and H. Wang, Single Crystal Elastic Constants and Calculated Aggregate Properties (Cambridge MA: MIT Press: 1971)."
+			},
+			{
+				"doi": "10.1103/PhysRev.130.1324",
+				"or":  "F. H. Featherstone and J. R. Neighbours, Phys. Rev., 130: 1324 (1963).",
+				"tr":  "F. H. Featherstone and J. R. Neighbours, Phys. Rev., 130: 1324 (1963)."
+			},
+			{
+				"doi": "10.1063/1.1661712",
+				"or":  "W. E. Hubbell and F. R. Brotzen, J. Appl. Phys., 43: 3306 (1972).",
+				"tr":  "W. E. Hubbell and F. R. Brotzen, J. Appl. Phys., 43: 3306 (1972)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.78.052102",
+				"or":  "Q.-M. Hu, S. Lu, and R. Yang, Phys. Rev. B, 78: 052102 (2008).",
+				"tr":  "Q.-M. Hu, S. Lu, and R. Yang, Phys. Rev. B, 78: 052102 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Н. Францевич, Ф. Ф. Воронов, С. А. Бакута, Упругие постоянные и модули упругости металлов и неметаллов (Киев: Наукова думка: 1982).",
+				"tr":  "I. M. Frantsevich, F. F. Voronov, and S. A. Bakuta, Uprugie Postoyannyye i Moduli Uprugosti Metallov i Nemetallov [Elastic Constants and Moduli of Elasticity of Metals and Nonmetals] (Kiev: Naukova Dumka: 1982) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.85.144117",
+				"or":  "A. V. Ponomareva, E. I. Isaev, Yu. Kh. Vekilov, and I. A. Abrikosov, Phys. Rev. B, 85: 144117 (2012).",
+				"tr":  "A. V. Ponomareva, E. I. Isaev, Yu. Kh. Vekilov, and I. A. Abrikosov, Phys. Rev. B, 85: 144117 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.87.224103",
+				"or":  "S. Reeh, D. Music, M. Ekholm, I. A. Abrikosov, and J. M. Schneider, Phys. Rev. B, 87: 224103 (2013).",
+				"tr":  "S. Reeh, D. Music, M. Ekholm, I. A. Abrikosov, and J. M. Schneider, Phys. Rev. B, 87: 224103 (2013)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.100.095901",
+				"or":  "P. Souvatzis, O. Eriksson, M. I. Katsnelson, and S. P. Rudin, Phys. Rev. Lett., 100: 095901 (2008).",
+				"tr":  "P. Souvatzis, O. Eriksson, M. I. Katsnelson, and S. P. Rudin, Phys. Rev.Lett., 100: 095901 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.84.180301",
+				"or":  "O. Hellman, I. A. Abrikosov, and S. I. Simak, Phys. Rev. B, 84: 180301 (2011).",
+				"tr":  "O. Hellman, I. A. Abrikosov, and S. I. Simak, Phys. Rev. B, 84: 180301 (2011)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.77.220102",
+				"or":  "C. Asker, A. B. Belonoshko, A. S. Mikhaylushkin, and I. A. Abrikosov, Phys. Rev. B, 77: 220102 (2008).",
+				"tr":  "C. Asker, A. B. Belonoshko, A. S. Mikhaylushkin, and I. A. Abrikosov, Phys. Rev. B, 77: 220102 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.87.104111",
+				"or":  "O. Hellman, P. Steneteg, I. A. Abrikosov, and S. I. Simak, Phys. Rev. B, 87: 104111 (2013).",
+				"tr":  "O. Hellman, P. Steneteg, I. A. Abrikosov, and S. I. Simak, Phys. Rev. B, 87: 104111 (2013)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.87.094114",
+				"or":  "P. Steneteg, O. Hellman, O. Yu. Vekilova, N. Shulumba, F. Tasnádi, and I. A. Abrikosov, Phys. Rev. B, 87: 094114 (2013).",
+				"tr":  "P. Steneteg, O. Hellman, O. Yu. Vekilova, N. Shulumba, F. Tasnádi, and I. A. Abrikosov, Phys. Rev. B, 87: 094114 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "I. A. Abrikosov, B. Ailing, P. Steneteg, L. Hultberg, O. Hellman, I. Mosyagin, A. Lugovskoy, and S. Barannikova, TMS2013 Supplemental Proceedings (Eds. TMS) (Hoboken, NJ, USA: John Wiley & Sons, Inc.: 2013).",
+				"tr":  "I. A. Abrikosov, B. Ailing, P. Steneteg, L. Hultberg, O. Hellman, I. Mosyagin, A. Lugovskoy, and S. Barannikova, TMS2013 Supplemental Proceedings (Eds. TMS) (Hoboken, NJ, USA: John Wiley & Sons, Inc.: 2013)."
+			},
+			{
+				"doi": "",
+				"or":  "P. S. Rudman, I. Stringer, and R. I. Jaffee, Phase Stability in Metals and Alloys (New York: McGraw-Hill: 1967).",
+				"tr":  "P. S. Rudman, I. Stringer, and R. I. Jaffee, Phase Stability in Metals and Alloys (New York: McGraw-Hill: 1967)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Kaufman and H. Bernstein, Computer Calculations of Phase Diagrams (New York: Academic: 1970).",
+				"tr":  "L. Kaufman and H. Bernstein, Computer Calculations of Phase Diagrams (New York: Academic: 1970)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.31.1909",
+				"or":  "H. L. Skriver, Phys. Rev. B, 31: 1909 (1985).",
+				"tr":  "H. L. Skriver, Phys. Rev. B, 31: 1909 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Pettifor, Bonding and Structure of Molecules and Solids (Oxford: Clarendon: 1995).",
+				"tr":  "D. Pettifor, Bonding and Structure of Molecules and Solids (Oxford: Clarendon: 1995)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.51.10364",
+				"or":  "A. Fernandez Guillermet, V. Ozolins, G. Grimvall, and M. Korling, Phys. Rev. B, 51: 10364 (1995).",
+				"tr":  "A. Fernandez Guillermet, V. Ozolins, G. Grimvall, and M. Korling, Phys. Rev. B, 51: 10364 (1995)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.60.9999",
+				"or":  "K. Persson, M. Ekman, and G. Grimvall, Phys. Rev. B, 60: 9999 (1999).",
+				"tr":  "K. Persson, M. Ekman, and G. Grimvall, Phys. Rev. B, 60: 9999 (1999)."
+			},
+			{
+				"doi": "10.1016/S1470-1804(98)80026-6",
+				"or":  "N. Saunders and A. P. Miodowinik, Pergamon Materials Series, 1: 129 (1998).",
+				"tr":  "N. Saunders and A. P. Miodowinik, Pergamon Materials Series, 1: 129 (1998)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.98.085502",
+				"or":  "Y. Ding, Phys. Rev. Lett., 98: 085502 (2007).",
+				"tr":  "Y. Ding, Phys. Rev. Lett., 98: 085502 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.78.104102",
+				"or":  "A. Dewaele, M. Torrent, P. Loubeyre, and M. Mezouar, Phys. Rev. B, 78: 104102 (2008).",
+				"tr":  "A. Dewaele, M. Torrent, P. Loubeyre, and M. Mezouar, Phys. Rev. B, 78: 104102 (2008)."
+			},
+			{
+				"doi": "10.1143/JPSJ.60.3211",
+				"or":  "Yu. Akahama, M. Kobayashi, and H. Kawamura, J. Phys. Soc. Japan, 60: 3211 (1991).",
+				"tr":  "Yu. Akahama, M. Kobayashi, and H. Kawamura, J. Phys. Soc. Japan, 60: 3211 (1991)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.70.094112",
+				"or":  "A. Dewaele, P. Loubeyre, and M. Mezouar, Phys. Rev. B, 70: 094112 (2004).",
+				"tr":  "A. Dewaele, P. Loubeyre, and M. Mezouar, Phys. Rev. B, 70: 094112 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.60.1414",
+				"or":  "W. J. Nellis, J. A. Moriarty, A. C. Mitchell, M. Ross, R. G. Dandrea, N. W. Ashcroft, N. C. Holmes, and G. R. Gathers, Phys. Rev. Lett., 60: 1414 (1988).",
+				"tr":  "W. J. Nellis, J. A. Moriarty, A. C. Mitchell, M. Ross, R. G. Dandrea, N. W. Ashcroft, N. C. Holmes, and G. R. Gathers, Phys. Rev. Lett., 60: 1414 (1988)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.86.3068",
+				"or":  "Y. K. Vohra and P. T. Spencer, Phys. Rev. Lett., 86: 3068 (2001).",
+				"tr":  "Y. K. Vohra and P. T. Spencer, Phys. Rev. Lett., 86: 3068 (2001)."
+			}
+		]
+	}
+}

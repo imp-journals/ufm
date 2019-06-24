@@ -1,0 +1,280 @@
+{
+	"_id":    "UFM.14.01.067",
+	"year":   2013,
+	"volume": 14,
+	"issue":  1,
+	"pages":  [67,83],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["29.10.2012"],
+	"PACS":   "61.72.Ff, 61.72.Hh, 62.23.St, 62.25.Mn, 68.37.Lp, 81.40.Np, 81.40.Wx",
+	"title":   {
+		"ua": "Масштабні рівні структурно-фазових станів і втомна тривкість рейкової сталі після електронно-жмутової обробки",
+		"en": "Scale Levels of the Structure–Phase States and Fatigue Life of a Rail Steel after Electron-Beam Treatment",
+		"ru": "Масштабные уровни структурно-фазовых состояний и усталостная долговечность рельсовой стали после электронно-пучковой обработки"
+	},
+	"abstract": {
+		"ua": "Методами сканівної та просвітлювальної електронної мікроскопії виконано дослідження структури, фазового складу і дефектної субструктури рейкової сталі, підданої опроміненню електронними пучками за різних режимів і втомного навантаження до руйнування. Виявлено режим оброблення поверхні рейкової сталі високоінтенсивними електронними пучками, який уможливлює багатократно (в $\\cong$ 2,5 рази) збільшити її втомну тривкість. Обговорено фізичні механізми збільшення втомної тривкости сталі, обробленої електронним пучком.",
+		"en": "Investigations of the structure, phase composition, and defect substructure of the rail steel subjected to the electron-beam irradiation in different regimes and fatigue loading up to fracture are carried out by methods of scanning and transmission electron microscopy. The regime of rail steel surface treatment by high-intensive electron beams allowing increasing the fatigue life repeatedly (by $\\cong$ 2.5 times) is revealed. Physical mechanisms of the fatigue life increase of the steel treated by an electron beam are discussed.",
+		"ru": "Методами сканирующей и просвечивающей электронной микроскопии выполнены исследования структуры, фазового состава и дефектной субструктуры рельсовой стали, подвергнутой облучению электронными пучками в различных режимах и усталостному нагружению до разрушения. Выявлен режим обработки поверхности рельсовой стали высокоинтенсивными электронными пучками, позволяющий многократно (в $\\cong$ 2,5 раза) увеличить её усталостную долговечность. Обсуждены физические механизмы увеличения усталостной долговечности стали, обработанной электронным пучком."
+	},
+	"keywords": {
+		"ua": "рейкова сталь (криця), структура, фазовий склад, втомна тривкість",
+		"en": "rail steel, structure, phase composition, fatigue life",
+		"ru": "рельсовая сталь, структура, фазовый состав, усталостная долговечность"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Є. Громов", "en": "V. E. Gromov", "ru": "В. Е. Громов"},
+			"OID": [407]
+		},
+		{
+			"AID": {"ua": "Ю. Ф. Іванов", "en": "Yu. F. Ivanov", "ru": "Ю. Ф. Иванов"},
+			"OID": [408]
+		},
+		{
+			"AID": {"ua": "В. А. Грішунін", "en": "V. A. Grishunin", "ru": "В. А. Гришунин"},
+			"OID": [407]
+		},
+		{
+			"AID": {"ua": "С. В. Райков", "en": "S. V. Raykov", "ru": "С. В. Райков"},
+			"OID": [407]
+		},
+		{
+			"AID": {"ua": "С. В. Коновалов", "en": "S. V. Konovalov", "ru": "С. В. Коновалов"},
+			"OID": [407]
+		}
+	],
+	"cited_by": {
+		"count":  8,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.16.02.119",
+				"cit": "D. A. Romanov, V. E. Gromov, Е. А. Budovskikh and Yu. F. Ivanov, <a href=\"https://doi.org/10.15407/ufm.16.02.119\">Usp. Fiz. Met. <b>16</b>, 119 (2015)</a>."
+			},
+			{
+				"doi": "10.1088/1757-899X/81/1/012011",
+				"cit": "Yu F Ivanov, K V Alsaraeva, E A Petrikova, A D Teresov <i>et al.</i>, <a href=\"https://doi.org/10.1088/1757-899X/81/1/012011\">IOP Conf. Ser.: Mater. Sci. Eng. <b>81</b>, 012011 (2015)</a>."
+			},
+			{
+				"doi": "10.1134/S1027451015050328",
+				"cit": "Yu. F. Ivanov, K. V. Alsaraeva, V. E. Gromov, N. A. Popova <i>et al.</i>, <a href=\"https://doi.org/10.1134/S1027451015050328\">J. Synch. Investig. <b>9</b>, 1056 (2015)</a>."
+			},
+			{
+				"doi": "10.3103/S1067821216030081",
+				"cit": "Yu. F. Ivanov, K. V. Aksenova, V. E. Gromov, S. V. Konovalov <i>et al.</i>, <a href=\"https://doi.org/10.3103/S1067821216030081\">Russ. J. Non-ferrous Metals <b>57</b>, 236 (2016)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.15.01.001",
+				"cit": "V. E. Gromov, K. V. Volkov, Yu. F. Ivanov, K. V. Morozov <i>et al.</i>, <a href=\"https://doi.org/10.15407/ufm.15.01.001\">Usp. Fiz. Met. <b>15</b>, 1 (2014)</a>."
+			},
+			{
+				"doi": "10.3103/S0967091216040100",
+				"cit": "O. A. Peregudov, V. E. Gromov, Yu. F. Ivanov, K. V. Morozov <i>et al.</i>, <a href=\"https://doi.org/10.3103/S0967091216040100\">Steel Transl. <b>46</b>, 260 (2016)</a>."
+			},
+			{
+				"doi": "10.3103/S1062873815090087",
+				"cit": "V. E. Gromov, Yu. F. Ivanov, A. M. Glezer, S. V. Konovalov <i>et al.</i>, <a href=\"https://doi.org/10.3103/S1062873815090087\">Bull. Russ. Acad. Sci. Phys. <b>79</b>, 1169 (2015)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.16.04.265",
+				"cit": "V. E. Gromov, K. V. Aksyonova, S. V. Konovalov and Yu. F. Ivanov, <a href=\"https://doi.org/10.15407/ufm.16.04.265\">Usp. Fiz. Met. <b>16</b>, 265 (2015)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 38,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "К. К. Кадыржанов, Ф. Ф. Комаров, А. Д. Погребняк, Ионно-лучевая и ионно-плазменная модификация материалов (Москва: МГУ: 2005).",
+				"tr":  "K. K. Kadyrzhanov, F. F. Komarov, A. D. Pogrebnyak, Ionno-luchevaya i ionno-plazmennaya modifikaciya materialov (Moskva: MGU: 2005)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Грибков, Ф. И. Григорьев, Б. А. Калин, Перспективные радиационно-пучковые технологии обработки материалов (Москва: Круглый стол: 2001).",
+				"tr":  "V. A. Gribkov, F. I. Grigor'ev, B. A. Kalin, Perspektivnye radiacionno-puchkovye tehnologii obrabotki materialov (Moskva: Kruglyj stol: 2001)."
+			},
+			{
+				"doi": "",
+				"or":  "V. P. Rotshtein, D. I. Proskurovsky, and G. E. Ozur, Surface & Coatings Technology, Nos. 180–181: 377 (2004).",
+				"tr":  "V. P. Rotshtein, D. I. Proskurovsky, and G. E. Ozur, Surface & Coatings Technology, Nos. 180–181: 377 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Н. Н. Коваль, Структура и свойства перспективных металлических материалов (Ред. А. И. Потекаев) (Томск: НТЛ: 2007), гл. 13.",
+				"tr":  "Yu. F. Ivanov, N. N. Koval', Struktura i svojstva perspektivnyx metallicheskix materialov (Red. A. I. Potekaev) (Tomsk: NTL: 2007), Ch. 13."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Коваль, Ю. Ф. Иванов, Известия вузов. Физика, № 5: 60 (2008).",
+				"tr":  "N. N. Koval', Yu. F. Ivanov, Izvestiya vuzov. Fizika, No. 5: 60 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, С. В. Воробьёв, С. В. Коновалов, Физические основы повышения усталостной долговечности нержавеющих сталей (Новокузнецк: Интер-Кузбасс: 2011).",
+				"tr":  "Yu. F. Ivanov, S. V. Vorob'yov, S. V. Konovalov, Fizicheskie osnovy povysheniya ustalostnoj dolgovechnosti nerzhaveyushhix stalej (Novokuzneck: Inter-Kuzbass: 2011)."
+			},
+			{
+				"doi": "",
+				"or":  "V. N. Devyatkov, N. N. Koval, and P. M. Schanin, Laser and Particle Beams, No. 21: 243 (2003).",
+				"tr":  "V. N. Devyatkov, N. N. Koval, and P. M. Schanin, Laser and Particle Beams, No. 21: 243 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Коваль, Ю. Ф. Иванов, Известия вузов. Физика, № 5: 60 (2008).",
+				"tr":  "N. N. Koval', Yu. F. Ivanov, Izvestiya vuzov. Fizika, No. 5: 60 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Громов, С. В. Горбунов, Ю. Ф. Иванов и др., Поверхность. Рентгеновские, синхротронные и нейтронные исследования, № 10: 62 (2011).",
+				"tr":  "V. E. Gromov, S. V. Gorbunov, Yu. F. Ivanov i dr., Poverxnost'. Rentgenovskie, sinxrotronnye i nejtronnye issledovaniya, No. 10: 62 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, С. В. Горбунов, В. Е. Громов и др., Материаловедение, № 5: 43 (2011).",
+				"tr":  "Yu. F. Ivanov, S. V. Gorbunov, V. E. Gromov i dr., Materialovedenie, No. 5: 43 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Панин, В. А. Лихачев, Ю. В. Гриняев, Структурные уровни деформации твёрдых тел (Новосибирск: Наука: 1985).",
+				"tr":  "V. E. Panin, V. A. Lixachev, Yu. V. Grinyaev, Strukturnye urovni deformacii tvyordyx tel (Novosibirsk: Nauka: 1985)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Конева, Э. В. Козлов, Известия вузов. Физика, № 2: 89 (1990).",
+				"tr":  "N. A. Koneva, Eh. V. Kozlov, Izvestiya vuzov. Fizika, No. 2: 89 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Ю. Ефимов, В. Е. Громов, Ю. Ф. Иванов, Формирование структуры, фазового состава и свойств сталей и сплавов в упрочняющих технологиях обработки давлением (Новокузнецк: Интер-Кузбасс: 2012).",
+				"tr":  "O. Yu. Efimov, V. E. Gromov, Yu. F. Ivanov, Formirovanie struktury, fazovogo sostava i svojstv stalej i splavov v uprochnyayushhix texnologiyax obrabotki davleniem (Novokuzneck: Inter-Kuzbass: 2012)."
+			},
+			{
+				"doi": "",
+				"or":  "Усталость сталей, модифицированных высокоинтенсивными электронными пучками (Ред. В. Е. Громов, Ю. Ф. Иванов) (Новокузнецк: Интер-Кузбасс: 2012).",
+				"tr":  "Ustalost' stalej, modificirovannyx vysokointensivnymi ehlektronnymi puchkami (Red. V. E. Gromov, Yu. F. Ivanov) (Novokuzneck: Inter-Kuzbass: 2012)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, В. Е. Громов, С. В. Горбунов и др., Физика металлов и металловедение, № 1: 83 (2011).",
+				"tr":  "Yu. F. Ivanov, V. E. Gromov, S. V. Gorbunov i dr., Fizika metallov i metallovedenie, No. 1: 83 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Энгеле, Г. Клингеле, Растровая электронная микроскопия. Разрушение (Москва: Металлургия: 1986).",
+				"tr":  "L. Ehngele, G. Klingele, Rastrovaya ehlektronnaya mikroskopiya. Razrushenie (Moskva: Metallurgiya: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. М. Утевский, Дифракционная электронная микроскопия в металловедении (Москва: Металлургия: 1973).",
+				"tr":  "L. M. Utevskiy, Difrakcionnaya ehlektronnaya mikroskopiya v metallovedenii (Moskva: Metallurgiya: 1973)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Эндрюс, Д. Дайсон, С. Кноун, Электронограммы и их интерпретация (Москва: Мир: 1971).",
+				"tr":  "K. Ehndryus, D. Dajson, S. Knoun, Ehlektronogrammy i ix interpretaciya (Moskva: Mir: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Хирш, А. Хови, Р. Николсон и др., Электронная микроскопия тонких кристаллов (Москва: Мир: 1968).",
+				"tr":  "P. Xirsh, A. Xovi, R. Nikolson i dr., Ehlektronnaya mikroskopiya tonkix kristallov (Moskva: Mir: 1968)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Глезер, В. Е. Громов, Ю. Ф. Иванов, Наноматериалы: структура, свойства, применение (Новокузнецк: Интер-Кузбасс: 2012).",
+				"tr":  "A. M. Glezer, V. E. Gromov, Yu. F. Ivanov, Nanomaterialy: struktura, svojstva, primenenie (Novokuzneck: Inter-Kuzbass: 2012)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Физика металлов и металловедение, № 9: 57 (1992).",
+				"tr":  "Yu. F. Ivanov, Fizika metallov i metallovedenie, No. 9: 57 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Э. В. Козлов, Физика металлов и металловедение, № 11: 202 (1991).",
+				"tr":  "Yu. F. Ivanov, Eh. V. Kozlov, Fizika metallov i metallovedenie, No. 11: 202 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Е. В. Корнет, В. Е. Громов и др., Успехи физики металлов, № 10: 391 (2009).",
+				"tr":  "Yu. F. Ivanov, E. V. Kornet, V. E. Gromov et al., Uspehi Fiziki Metallov, No. 10: 391 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Е. В. Корнет, Э. В. Козлов и др., Закаленная конструкционная сталь: структура и механизмы упрочнения (Новокузнецк: СибГИУ: 2010).",
+				"tr":  "Yu. F. Ivanov, E. V. Kornet, Eh. V. Kozlov i dr., Zakalennaya konstrukcionnaya stal': struktura i mexanizmy uprochneniya (Novokuzneck: SibGIU: 2010)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Э. В. Козлов, Известия ВУЗов. Чёрная металлургия, № 12: 38 (1990).",
+				"tr":  "Yu. F. Ivanov, Eh. V. Kozlov, Izvestiya VUZov. Chyornaya metallurgiya, No. 12: 38 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Э. В. Козлов, Физика металлов и металловедение, № 10: 203 (1991).",
+				"tr":  "Yu. F. Ivanov, Eh. V. Kozlov, Fizika metallov i metallovedenie, No. 10: 203 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, В. Н. Девятков, И. М. Гончаренко и др., Физическая мезомеханика, 7: 173 (2004).",
+				"tr":  "Yu. F. Ivanov, V. N. Devyatkov, I. M. Goncharenko i dr., Fizicheskaya mezomexanika, 7: 173 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Колубаева, Ю. Ф. Иванов, В. Н. Девятков и др., Известия ВУЗов. Чёрная металлургия, № 8: 30 (2007).",
+				"tr":  "A. V. Kolubaeva, Yu. F. Ivanov, V. N. Devyatkov  et al., Izvestiya VUZov. Chyornaya metallurgiya, No. 8: 30 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Ю. А. Колубаева, С. В. Коновалов и др., Металловедение и термическая обработка металлов, № 12: 10 (2008).",
+				"tr":  "Yu. F. Ivanov, Yu. A. Kolubaeva, S. V. Konovalov  et al., Metallovedenie i termicheskaya obrabotka metallov, No. 12: 10 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Громов, В. А. Гришунин, Ю. Ф. Иванов и др., Проблемы чёрной металлургии и материаловедения, № 3: 23 (2012).",
+				"tr":  "V. E. Gromov, V. A. Grishunin, Yu. F. Ivanov  et al., Problemy chyornoj metallurgii i materialovedeniya, No. 3: 23 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Панин, А. И. Слосман, Н. А. Антипина и др., Физическая мезомеханика, 4, № 1: 105 (2001).",
+				"tr":  "V. E. Panin, A. I. Slosman, N. A. Antipina  et al., Fizicheskaya mezomexanika, 4, No. 1: 105 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Панин, А. И. Слосман, Н. А. Антипина, Известия Томского политехнического университета, № 1: 30 (2003).",
+				"tr":  "V. E. Panin, A. I. Slosman, N. A. Antipina, Izvestiya Tomskogo politexnicheskogo universiteta, No. 1: 30 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Антипина, Механизмы пластической деформации и разрушения на мезомасштабном уровне поверхностно упрочнённой хромистой стали (Дис. … канд. техн. наук) (Томск: 1996).",
+				"tr":  "N. A. Antipina, Mexanizmy plasticheskoj deformacii i razrusheniya na mezomasshtabnom urovne poverxnostno uprochnyonnoj xromistoj stali (Dis. … kand. texn. nauk) (Tomsk: 1996)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Панин, А. В. Панин, Физическая мезомеханика, № 5: 7 (2005).",
+				"tr":  "V. E. Panin, A. V. Panin, Fizicheskaya mezomexanika, No. 5: 7 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Панин, А. В. Коваль, А. Ю. Ткаченко и др., Физическая мезомеханика, № 2: 81 (2003).",
+				"tr":  "S. V. Panin, A. V. Koval', A. Yu. Tkachenko  et al., Fizicheskaya mezomexanika, No. 2: 81 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Романенко, Влияние макроструктуры упрочнённого слоя и профиля границы раздела на характер пластической деформации и разрушения на мезоуровне борированных малоуглеродистых сталей (Дис. … канд. техн. наук) (Томск: 2004).",
+				"tr":  "A. V. Romanenko, Vliyanie makrostruktury uprochnyonnogo sloya i profilya granicy razdela na xarakter plasticheskoj deformacii i razrusheniya na mezourovne borirovannyx malouglerodistyx stalej (Dis. … kand. texn. nauk) (Tomsk: 2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Конева, Э. В. Козлов, Вестник ТГАСУ, № 1: 21 (1999).",
+				"tr":  "N. A. Koneva, Eh. V. Kozlov, Vestnik TGASU, No. 1: 21 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Громов, Э. В. Козлов, В. И. Базайкин и др., Физика и механика волочения и объёмной штамповки (Москва: Недра: 1997).",
+				"tr":  "V. E. Gromov, Eh. V. Kozlov, V. I. Bazajkin  et al., Fizika i mexanika volocheniya i ob'yomnoj shtampovki (Moskva: Nedra: 1997)."
+			}
+		]
+	}
+}

@@ -1,0 +1,300 @@
+{
+	"_id":    "UFM.18.01.001",
+	"year":   2017,
+	"volume": 18,
+	"issue":  1,
+	"pages":  [1,26],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["11.11.2016", "30.01.2017"],
+	"PACS":   "74.20.-z, 74.25.Jb, 74.62.-c, 74.70.Xa, 74.78.-w, 79.60.Jv",
+	"title":   {
+		"ua": "FeSe: високотемпературна надпровідність, нематичність та електронна структура",
+		"en": "FeSe: High-Temperature Superconductivity, Nematicity, and Electronic Structure",
+		"ru": "FeSe: высокотемпературная сверхпроводимость, нематичность и электронная структура"
+	},
+	"abstract": {
+		"ua": "Електронна структура FeSe, — найпростішого надпровідника на основі заліза (Fe-SC), — має потенціял різкого збільшення температури надпровідного переходу, який реалізується під тиском або в моношаровій плівці. Це також система, в якій спонтанна поява електронної анізотропії, відома як «нематичність», формується набагато вище надпровідного переходу та не супроводжується магнетним упорядкуванням. Даний огляд присвячено визначенню електронної структури цих сполук, її еволюції з температурою, тиском, допуванням та іншими чинниками, що спричиняють такі ключові феномени Fe-SC як нематичність та високотемпературна надпровідність.",
+		"en": "The electronic structure of FeSe—the simplest iron-based superconductor (Fe-SC)—conceals a potential of abrupt increase of superconducting tran-sition temperature realized under the pressure or in a single-layer film. This is also a system where the appearing of a spontaneous electronic anisotropy known as the nematicity is formed far above the superconducting transition and is not accompanied with a magnetic ordering. The given review deals with the determining electronic structure of these compounds, its evolution with temperature, pressure, doping, and other impacts, which cause such key phenomena in Fe-SC as nematicity and high-temperature superconductivity.",
+		"ru": "Электронная структура FeSe, — самого простого сверхпроводника на основе железа (Fe-SC), — скрывает потенциал существенного увеличения температуры сверхпроводящего перехода, который реализуется под давлением или в монослойной плёнке. Также эта система, в которой спонтанное возникновение электронной анизотропии, известной как «нематичность», происходит при температурах намного выше сверхпроводящего перехода и не сопровождается магнитным упорядочением. Данный обзор посвящён электронной структуре этих соединений, её эволюции с температурой, давлением, допированием и другими факторами, которые обуславливают такие ключевые феномены Fe-SC как нематичность и высокотемпературная сверхпроводимость."
+	},
+	"keywords": {
+		"ua": "залізні надпровідники, нематичність, ARPES, інтеркальовані системи, плівки FeSe/SrTiO$_{3}$",
+		"en": "iron-based superconductors, nematicity, ARPES, intercalated system, FeSe/SrTiO$_{3}$ films",
+		"ru": "железные сверхпроводники, нематичность, ARPES, интеркалированные системы, плёнки FeSe/SrTiO$_{3}$"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. В. Пустовіт", "en": "Yu. V. Pustovit", "ru": "Ю. В. Пустовит"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. А. Кордюк", "en": "O. A. Kordyuk", "ru": "А. А. Кордюк"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.15407/mfint.39.06.0709",
+				"cit": "Yu. V. Pustovit, V. V. Bezguba and A. A. Kordyuk, <a href=\"https://doi.org/10.15407/mfint.39.06.0709\">Metallofiz. Noveishie Tekhnol. <b>39</b>, 709 (2017)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 50,
+		"list":  [
+			{
+				"doi": "10.1063/1.4752092",
+				"or":  "A. A. Kordyuk, Low Temp. Phys., 38: 888 (2016).",
+				"tr":  "A. A. Kordyuk, Low Temp. Phys., 38: 888 (2016)."
+			},
+			{
+				"doi": "10.1063/1.4969896",
+				"or":  "Yu. V. Pustovit and A. A. Kordyuk, Low Temp. Phys., 42: 995 (2016).",
+				"tr":  "Yu. V. Pustovit and A. A. Kordyuk, Low Temp. Phys., 42: 995 (2016)."
+			},
+			{
+				"doi": "10.1063/1.3000616",
+				"or":  "Y. Mizuguchi, F. Tomioka, S. Tsuda T. Yamaguchi, and Y. Takano, Appl. Phys. Lett., 93: 152505 (2008).",
+				"tr":  "Y. Mizuguchi, F. Tomioka, S. Tsuda T. Yamaguchi, and Y. Takano, Appl. Phys. Lett., 93: 152505 (2008)."
+			},
+			{
+				"doi": "10.1038/nmat2491",
+				"or":  "S. Medvedev, T. M. McQueen, I. A. Troyan, T. Palasyuk, M. I. Eremets, R. J. Cava, S. Naghavi, F. Casper, V. Ksenofontov, G. Wortmann, and C. Felser, Nat. Mater., 8: 630 (2009).",
+				"tr":  "S. Medvedev, T. M. McQueen, I. A. Troyan, T. Palasyuk, M. I. Eremets, R. J. Cava, S. Naghavi, F. Casper, V. Ksenofontov, G. Wortmann, and C. Felser, Nat. Mater., 8: 630 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.103.057002",
+				"or":  "T. M. McQueen, A. J. Williams, P. W. Stephens, J. Tao, Y. Zhu, and V. Ksenofontov, Phys. Rev. Lett., 103: 057002 (2009).",
+				"tr":  "T. M. McQueen, A. J. Williams, P. W. Stephens, J. Tao, Y. Zhu, and V. Ksenofontov, Phys. Rev. Lett., 103: 057002 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.78.134514",
+				"or":  "A. Subedi, L. Zhang, D. J. Singh, and M. H. Du, Phys. Rev. B, 78: 134514 (2008).",
+				"tr":  "A. Subedi, L. Zhang, D. J. Singh, and M. H. Du, Phys. Rev. B, 78: 134514 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.113.237001",
+				"or":  "K. Nakayama, Y. Miyata, G. N. Phan, T. Sato, Y. Tanabe, T. Urata, K. Tanigaki, and T. Takahashi, Phys. Rev. Lett., 113, 237001 (2014).",
+				"tr":  "K. Nakayama, Y. Miyata, G. N. Phan, T. Sato, Y. Tanabe, T. Urata, K. Tanigaki, and T. Takahashi, Phys. Rev. Lett., 113, 237001 (2014)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.89.220506",
+				"or":  "J. Maletz, V. B. Zabolotnyy, D. V. Evtushinsky, S. Thirupathaiah, A. U. B. Wolter, L. Harnagea, A. N. Yaresko, A. N. Vasiliev, D. A. Chareev, A. E. Böhmer, F. Hardy, T. Wolf, C. Meingast, E. D. L. Rienks, B. Büchner, and S. V. Borisenko, Phys. Rev. B, 89: 220506(R) (2014).",
+				"tr":  "J. Maletz, V. B. Zabolotnyy, D. V. Evtushinsky, S. Thirupathaiah, A. U. B. Wolter, L. Harnagea, A. N. Yaresko, A. N. Vasiliev, D. A. Chareev, A. E. Böhmer, F. Hardy, T. Wolf, C. Meingast, E. D. L. Rienks, B. Büchner, and S. V. Borisenko, Phys. Rev. B, 89: 220506(R) (2014)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.90.121111",
+				"or":  "T. Shimojima, Y. Suzuki, T. Sonobe, A. Nakamura, M. Sakano, J. Omachi, K. Yoshioka, M. Kuwata-Gonokami, K. Ono, H. Kumigashira, A. E. Böhmer, F. Hardy, T. Wolf, C. Meingast, H. v. Löhneysen, H. Ikeda, and K. Ishizaka, Phys. Rev. B, 90: 121111(R) (2014).",
+				"tr":  "T. Shimojima, Y. Suzuki, T. Sonobe, A. Nakamura, M. Sakano, J. Omachi, K. Yoshioka, M. Kuwata-Gonokami, K. Ono, H. Kumigashira, A. E. Böhmer, F. Hardy, T. Wolf, C. Meingast, H. v. Löhneysen, H. Ikeda, and K. Ishizaka, Phys. Rev. B, 90: 121111(R) (2014)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.91.155106",
+				"or":  "M. D. Watson, T. K. Kim, A. A. Haghighirad, N. R. Davies, A. McCollam, A. Narayanan,S. F. Blake, Y. L. Chen, S. Ghannadzadeh, A. J. Schofield, M. Hoesch, C. Meingast, T. Wolf, and A. I. Coldea, Phys. Rev. B, 91: 155106 (2015).",
+				"tr":  "M. D. Watson, T. K. Kim, A. A. Haghighirad, N. R. Davies, A. McCollam, A. Narayanan,S. F. Blake, Y. L. Chen, S. Ghannadzadeh, A. J. Schofield, M. Hoesch, C. Meingast, T. Wolf, and A. I. Coldea, Phys. Rev. B, 91: 155106 (2015)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.81.014526",
+				"or":  "F. Chen, B. Zhou,Y. Zhang, J. Wei, H.-W. Ou, J.-F. Zhao, C. He, Q.-Q. Ge, M. Arita, K. Shimada, H. Namatame, M. Taniguchi, Z.-Y. Lu, J. Hu, X.-Y. Cui, and D. L. Feng, Phys. Rev. B, 81: 014526 (2010).",
+				"tr":  "F. Chen, B. Zhou,Y. Zhang, J. Wei, H.-W. Ou, J.-F. Zhao, C. He, Q.-Q. Ge, M. Arita, K. Shimada, H. Namatame, M. Taniguchi, Z.-Y. Lu, J. Hu, X.-Y. Cui, and D. L. Feng, Phys. Rev. B, 81: 014526 (2010)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.81.014526",
+				"or":  "C. Dong, H. Wang, Z. Li, J. Chen, H. Q. Yuan, and M. Fang, Phys. Rev. B, 84: 224506 (2011).",
+				"tr":  "C. Dong, H. Wang, Z. Li, J. Chen, H. Q. Yuan, and M. Fang, Phys. Rev. B, 84: 224506 (2011)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.79.140509",
+				"or":  "G. F. Chen, Z. G. Chen, J. Dong, W. Z. Hu, G. Li, X. D. Zhang, P. Zheng, J. L. Luo, and N. L. Wang, Phys. Rev. B, 79: 140509(R) (2009).",
+				"tr":  "G. F. Chen, Z. G. Chen, J. Dong, W. Z. Hu, G. Li, X. D. Zhang, P. Zheng, J. L. Luo, and N. L. Wang, Phys. Rev. B, 79: 140509(R) (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.104.097002",
+				"or":  "A. Tamai, A. Y. Ganin, E. Rozbicki, J. Bacsa, W. Meevasana, P. D. C. King, M. Caffio, R. Schaub, S. Margadonna, K. Prassides, M. J. Rosseinsky, F. Baumberger, Phys. Rev. Lett., 104: 097002(2010).",
+				"tr":  "A. Tamai, A. Y. Ganin, E. Rozbicki, J. Bacsa, W. Meevasana, P. D. C. King, M. Caffio, R. Schaub, S. Margadonna, K. Prassides, M. J. Rosseinsky, F. Baumberger, Phys. Rev. Lett., 104: 097002(2010)."
+			},
+			{
+				"doi": "10.1038/nmat3120",
+				"or":  "Z. P. Yin, K. Haule, and G. Kotliar, Nat. Mater., 10: 932 (2011).",
+				"tr":  "Z. P. Yin, K. Haule, and G. Kotliar, Nat. Mater., 10: 932 (2011)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.85.094506",
+				"or":  "H. Miao, P. Richard, Y. Tanaka, K. Nakayama, T. Qian, K. Umezawa, T. Sato, Y.-M. Xu, Y.-B. Shi, N. Xu, X.-P. Wang, P. Zhang, H.-B. Yang, Z.-J. Xu, J. S. Wen, G.-D. Gu, X. Dai, J.-P. Hu, T. Takahashi, and H. Ding, Phys. Rev. B, 85: 094506 (2012).",
+				"tr":  "H. Miao, P. Richard, Y. Tanaka, K. Nakayama, T. Qian, K. Umezawa, T. Sato, Y.-M. Xu, Y.-B. Shi, N. Xu, X.-P. Wang, P. Zhang, H.-B. Yang, Z.-J. Xu, J. S. Wen, G.-D. Gu, X. Dai, J.-P. Hu, T. Takahashi, and H. Ding, Phys. Rev. B, 85: 094506 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.109.237011",
+				"or":  "K. Okazaki, Y. Ito, Y. Ota, Y. Kotani, T. Shimojima, T. Kiss, S. Watanabe, C.-T. Chen, S. Niitaka, T. Hanaguri, H. Takagi, A. Chainani, and S. Shin, Phys. Rev. Lett., 109: 237011 (2012).",
+				"tr":  "K. Okazaki, Y. Ito, Y. Ota, Y. Kotani, T. Shimojima, T. Kiss, S. Watanabe, C.-T. Chen, S. Niitaka, T. Hanaguri, H. Takagi, A. Chainani, and S. Shin, Phys. Rev. Lett., 109: 237011 (2012)."
+			},
+			{
+				"doi": "10.1126/science.1187399",
+				"or":  "T. Hanaguri, S. Niitaka, K. Kuroki, and H. Takagi, Science, 328, 5977: 474 (2010).",
+				"tr":  "T. Hanaguri, S. Niitaka, K. Kuroki, and H. Takagi, Science, 328, 5977: 474 (2010)."
+			},
+			{
+				"doi": "10.1007/s11467-011-0229-5",
+				"or":  "D.-X. Mou, D.Mou, L. Zhao, and X. Zhou, Frontiers of Physics, 6, No. 4: 410 (2011).",
+				"tr":  "D.-X. Mou, D.Mou, L. Zhao, and X. Zhou, Frontiers of Physics, 6, No. 4: 410 (2011)."
+			},
+			{
+				"doi": "10.1038/nmat2981",
+				"or":  "Y. Zhang, L. X. Yang, M. Xu, Z. R. Ye, F. Chen, C. He, H. C. Xu, J. Jiang, B. P. Xie, J. J. Ying, X. F. Wang, X. H. Chen, J. P. Hu, M. Matsunami, S. Kimura, and D. L. Feng, Nat. Mater., 10: 273 (2011).",
+				"tr":  "Y. Zhang, L. X. Yang, M. Xu, Z. R. Ye, F. Chen, C. He, H. C. Xu, J. Jiang, B. P. Xie, J. J. Ying, X. F. Wang, X. H. Chen, J. P. Hu, M. Matsunami, S. Kimura, and D. L. Feng, Nat. Mater., 10: 273 (2011)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.106.107001",
+				"or":  "D. Mou, S. Liu, X. Jia, J. He, Y. Peng, L. Zhao, L. Yu, G. Liu, S. He, X.Dong, J. Zhang, H. Wang, C. Dong, M. Fang, X. Wang, Q. Peng, Z. Wang, S. Zhang, F.Yang, Z. Xu, C. Chen, and X. J. Zhou, Phys. Rev. Lett., 106: 107001 (2011).",
+				"tr":  "D. Mou, S. Liu, X. Jia, J. He, Y. Peng, L. Zhao, L. Yu, G. Liu, S. He, X.Dong, J. Zhang, H. Wang, C. Dong, M. Fang, X. Wang, Q. Peng, Z. Wang, S. Zhang, F.Yang, Z. Xu, C. Chen, and X. J. Zhou, Phys. Rev. Lett., 106: 107001 (2011)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.101.087004",
+				"or":  "K. Kuroki, S. Onari, R. Arita, H. Usui, Y. Tanaka, H. Kontani, and H. Aoki, Phys. Rev. Lett., 101: 087004 (2008).",
+				"tr":  "K. Kuroki, S. Onari, R. Arita, H. Usui, Y. Tanaka, H. Kontani, and H. Aoki, Phys. Rev. Lett., 101: 087004 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.101.057003",
+				"or":  "I. I. Mazin, D. J. Singh, M. D. Johannes, and M. H. Du, Phys. Rev. Lett., 101: 057003 (2008).",
+				"tr":  "I. I. Mazin, D. J. Singh, M. D. Johannes, and M. H. Du, Phys. Rev. Lett., 101: 057003 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.78.134512",
+				"or":  "A. V. Chubukov, D. V. Efremov, and I. Eremin, Phys. Rev. B, 78: 134512 (2008).",
+				"tr":  "A. V. Chubukov, D. V. Efremov, and I. Eremin, Phys. Rev. B, 78: 134512 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.83.100515",
+				"or":  "T. A. Maier, S. Graser, P. J. Hirschfeld, and D. J. Scalapino, Phys. Rev. B, 83: 100515(R) (2011).",
+				"tr":  "T. A. Maier, S. Graser, P. J. Hirschfeld, and D. J. Scalapino, Phys. Rev. B, 83: 100515(R) (2011)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.84.014521",
+				"or":  "T. Das and A. V. Balatsky, Phys. Rev. B, 84: 014521 (2011).",
+				"tr":  "T. Das and A. V. Balatsky, Phys. Rev. B, 84: 014521 (2011)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.85.220504",
+				"or":  "M. Xu, Q. Q. Ge, R. Peng, Z. R. Ye, Juan Jiang, F. Chen, X. P. Shen, B. P. Xie, Y. Zhang, A. F. Wang, X. F. Wang, X. H. Chen, and D. L. Feng, Phys. Rev. B, 85: 220504(R) (2012).",
+				"tr":  "M. Xu, Q. Q. Ge, R. Peng, Z. R. Ye, Juan Jiang, F. Chen, X. P. Shen, B. P. Xie, Y. Zhang, A. F. Wang, X. F. Wang, X. H. Chen, and D. L. Feng, Phys. Rev. B, 85: 220504(R) (2012)."
+			},
+			{
+				"doi": "10.1209/0295-5075/93/57001",
+				"or":  "X.-P. Wang, T. Qian, P. Richard, P. Zhang, J. Dong, H.-D. Wang, C.-H. Dong, M.-H. Fang, and H. Ding, EPL, 93, No 5: 57001 (2011).",
+				"tr":  "X.-P. Wang, T. Qian, P. Richard, P. Zhang, J. Dong, H.-D. Wang, C.-H. Dong, M.-H. Fang, and H. Ding, EPL, 93, No 5: 57001 (2011)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.84.020503",
+				"or":  "C.-L. Song, Y.-L. Wang, Y.-P. Jiang, Z. L., L. Wang, K. He, X. Chen, X.-C. Ma, and Q.-K. Xue, Phys. Rev. B, 84: 020503(R) (2011).",
+				"tr":  "C.-L. Song, Y.-L. Wang, Y.-P. Jiang, Z. L., L. Wang, K. He, X. Chen, X.-C. Ma, and Q.-K. Xue, Phys. Rev. B, 84: 020503(R) (2011)."
+			},
+			{
+				"doi": "10.1126/science.1202226",
+				"or":  "C. L. Song, Y.-L.Wang, P. Cheng, Y.-P. Jiang, W. Li, T. Zhang, Z. Li, K. He, L. Wang, J.-F. Jia, H.-H. Hung, C. Wu, X. Ma, X. Chen, and Q.-K. Xue, Science, 332, No. 6036: 1410 (2011).",
+				"tr":  "C. L. Song, Y.-L.Wang, P. Cheng, Y.-P. Jiang, W. Li, T. Zhang, Z. Li, K. He, L. Wang, J.-F. Jia, H.-H. Hung, C. Wu, X. Ma, X. Chen, and Q.-K. Xue, Science, 332, No. 6036: 1410 (2011)."
+			},
+			{
+				"doi": "10.1088/0256-307X/29/3/037402",
+				"or":  "Q.-Y. Wang, W.-H. Zhang, Z.-C. Zhang, J.-S. Zhang, W. Li, H. Ding, Y.-B. Ou, P. Deng, K. Chang, J. Wen, C.-L. Song, K. He, J.-F. Jia, S.-H. Ji, Y. Wang, L. Wang, X. Chen, X. Ma, and Q.-K. Xue, Chinese Phys. Lett., 29: 037402 (2012).",
+				"tr":  "Q.-Y. Wang, W.-H. Zhang, Z.-C. Zhang, J.-S. Zhang, W. Li, H. Ding, Y.-B. Ou, P. Deng, K. Chang, J. Wen, C.-L. Song, K. He, J.-F. Jia, S.-H. Ji, Y. Wang, L. Wang, X. Chen, X. Ma, and Q.-K. Xue, Chinese Phys. Lett., 29: 037402 (2012)."
+			},
+			{
+				"doi": "10.1088/0256-307X/31/1/017401",
+				"or":  "W.-H. Zhang, Y. Sun, J.-S. Zhang, F.-S. Li, M.-H. Guo, Y.-F. Zhao, H.-M. Zhang, J.-P. Peng, Y. Xing, H.-C. Wang, T. Fujita, A. Hirata, Z. Li, H. Ding, C.-J. Tang, M. Wang, Q.-Y. Wang, K. He, S.-H. Ji, X. Chen, J.-F. Wang, Z.-C. Xia, L. Li, Y.-Y. Wang, J. Wang, L.-L. Wang, M.-W. Chen, Q.-K. Xue, and X.-C. Ma, Chinese Phys. Lett., 31, No. 1: 017401 (2014).",
+				"tr":  "W.-H. Zhang, Y. Sun, J.-S. Zhang, F.-S. Li, M.-H. Guo, Y.-F. Zhao, H.-M. Zhang, J.-P. Peng, Y. Xing, H.-C. Wang, T. Fujita, A. Hirata, Z. Li, H. Ding, C.-J. Tang, M. Wang, Q.-Y. Wang, K. He, S.-H. Ji, X. Chen, J.-F. Wang, Z.-C. Xia, L. Li, Y.-Y. Wang, J. Wang, L.-L. Wang, M.-W. Chen, Q.-K. Xue, and X.-C. Ma, Chinese Phys. Lett., 31, No. 1: 017401 (2014)."
+			},
+			{
+				"doi": "10.1038/nmat4153",
+				"or":  "J. F. Ge, Z.-L. Liu, C. Liu, C.-L. Gao, D. Qian, Q.-K. Xue, Y. Liu, and J.-F. Jia, Nat. Mater., 14: 285 (2015).",
+				"tr":  "J. F. Ge, Z.-L. Liu, C. Liu, C.-L. Gao, D. Qian, Q.-K. Xue, Y. Liu, and J.-F. Jia, Nat. Mater., 14: 285 (2015)."
+			},
+			{
+				"doi": "10.1038/ncomms1946",
+				"or":  "D. Liu, W. Zhang, D. Mou, J. He, Y.-B. Ou, Q.-Y. Wang, Z. Li, L. Wang, L. Zhao, S. He, Y. Peng, X. Liu, C. Chen, L. Yu, G. Liu, X. Dong, J. Zhang, C. Chen, Z. Xu, J. Hu, X. Chen, X. Ma, Q. Xue, and X. J. Zhou, Nat. Commun., 3: 931 (2012).",
+				"tr":  "D. Liu, W. Zhang, D. Mou, J. He, Y.-B. Ou, Q.-Y. Wang, Z. Li, L. Wang, L. Zhao, S. He, Y. Peng, X. Liu, C. Chen, L. Yu, G. Liu, X. Dong, J. Zhang, C. Chen, Z. Xu, J. Hu, X. Chen, X. Ma, Q. Xue, and X. J. Zhou, Nat. Commun., 3: 931 (2012)."
+			},
+			{
+				"doi": "10.1038/nmat3648",
+				"or":  "S. He, J. He, W. Zhang, L. Zhao, D. Liu, X. Liu, D. Mou, Y.-B. Ou, Q.-Y. Wang, Z. Li, L. Wang, Y. Peng, Y. Liu, C. Chen, L. Yu, G. Liu, X. Dong, J. Zhang, C. Chen, Z. Xu, X. Chen, X. Ma, Q. Xue, and X. J. Zhou, Nat. Mater., 12: 605 (2013).",
+				"tr":  "S. He, J. He, W. Zhang, L. Zhao, D. Liu, X. Liu, D. Mou, Y.-B. Ou, Q.-Y. Wang, Z. Li, L. Wang, Y. Peng, Y. Liu, C. Chen, L. Yu, G. Liu, X. Dong, J. Zhang, C. Chen, Z. Xu, X. Chen, X. Ma, Q. Xue, and X. J. Zhou, Nat. Mater., 12: 605 (2013)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.78.17",
+				"or":  "P. A. Lee, N. Nagaosa, and X.-G. Wen, Rev. Modern Phys., 78: 17 (2006).",
+				"tr":  "P. A. Lee, N. Nagaosa, and X.-G. Wen, Rev. Modern Phys., 78: 17 (2006)."
+			},
+			{
+				"doi": "10.1038/nphys1759",
+				"or":  "J. Paglione and R. L. Greene, Nat. Phys., 6: 645 (2010).",
+				"tr":  "J. Paglione and R. L. Greene, Nat. Phys., 6: 645 (2010)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.89.060506",
+				"or":  "W. Zhang, Z. Li, F. Li, H. Zhang, J. Peng, C. Tang, Q. Wang, K. He, X. Chen, L. Wang, X. Ma, Q.-K. Xue, Phys. Rev. B, 89: 060506(R) (2014).",
+				"tr":  "W. Zhang, Z. Li, F. Li, H. Zhang, J. Peng, C. Tang, Q. Wang, K. He, X. Chen, L. Wang, X. Ma, Q.-K. Xue, Phys. Rev. B, 89: 060506(R) (2014)."
+			},
+			{
+				"doi": "10.1088/0953-8984/26/26/265002",
+				"or":  "Z. Li, J.-P. Peng, H.-M. Zhang, W.-H. Zhang, H. Ding, P. Deng, K. Chang, C.-L. Song, S.-H. Ji, L. Wang, K. He, X. Chen, Q.-K. Xue, and X.-C. Ma, J. Phys.: Condens. Matter., 26: 265002 (2014).",
+				"tr":  "Z. Li, J.-P. Peng, H.-M. Zhang, W.-H. Zhang, H. Ding, P. Deng, K. Chang, C.-L. Song, S.-H. Ji, L. Wang, K. He, X. Chen, Q.-K. Xue, and X.-C. Ma, J. Phys.: Condens. Matter., 26: 265002 (2014)."
+			},
+			{
+				"doi": "10.1038/nmat3654",
+				"or":  "S. Y. Tan, Y. Zhang, M. Xia, Z. Ye, F. Chen, X. Xie, R. Peng, D. Xu, Q. Fan, H. Xu, J. Jiang, T. Zhang, X. Lai, T. Xiang, J. Hu, B. Xie, and D. Feng, Nat. Mater., 12: 634 (2013).",
+				"tr":  "S. Y. Tan, Y. Zhang, M. Xia, Z. Ye, F. Chen, X. Xie, R. Peng, D. Xu, Q. Fan, H. Xu, J. Jiang, T. Zhang, X. Lai, T. Xiang, J. Hu, B. Xie, and D. Feng, Nat. Mater., 12: 634 (2013)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.80.224506",
+				"or":  "W. Lv, J. Wu, and P. Phillips, Phys. Rev B, 80: 224506 (2009).",
+				"tr":  "W. Lv, J. Wu, and P. Phillips, Phys. Rev B, 80: 224506 (2009)."
+			},
+			{
+				"doi": "10.1038/ncomms6044",
+				"or":  "R. Peng, H. C. Xu, S. Y. Tan, H. Y. Cao, M. Xia, X. P. Shen, Z. C. Huang, C. H. P. Wen, Q. Song, T. Zhang, B. P. Xie, X. G. Gong, and L. Feng, Nat. Commun., 5: 5044 (2014).",
+				"tr":  "R. Peng, H. C. Xu, S. Y. Tan, H. Y. Cao, M. Xia, X. P. Shen, Z. C. Huang, C. H. P. Wen, Q. Song, T. Zhang, B. P. Xie, X. G. Gong, and L. Feng, Nat. Commun., 5: 5044 (2014)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.112.107001",
+				"or":  "R. Peng, X. P. Shen, X. Xie, H. C. Xu, S. Y. Tan, M. Xia, T. Zhang, H. Y. Cao, X. G. Gong, J. P. Hu, B. P. Xie, and D. L. Feng, Phys. Rev. Lett., 112, 107001 (2014).",
+				"tr":  "R. Peng, X. P. Shen, X. Xie, H. C. Xu, S. Y. Tan, M. Xia, T. Zhang, H. Y. Cao, X. G. Gong, J. P. Hu, B. P. Xie, and D. L. Feng, Phys. Rev. Lett., 112, 107001 (2014)."
+			},
+			{
+				"doi": "10.1038/nature13894",
+				"or":  "J. J. Lee, F. T. Schmitt, R. G. Moore, S. Johnston, Y.-T. Cui, W. Li, M. Yi, Z. K. Liu, M. Hashimoto, Y. Zhang, D. H. Lu, T. P. Devereaux, D.-H. Lee, and Z.-X. Shen, Nature, 515: 245 (2014).",
+				"tr":  "J. J. Lee, F. T. Schmitt, R. G. Moore, S. Johnston, Y.-T. Cui, W. Li, M. Yi, Z. K. Liu, M. Hashimoto, Y. Zhang, D. H. Lu, T. P. Devereaux, D.-H. Lee, and Z.-X. Shen, Nature, 515: 245 (2014)."
+			},
+			{
+				"doi": "10.1038/nmat4138",
+				"or":  "S.-H. Baek, D. V. Efremov, J. M. Ok, J. S. Kim, J. van den Brink, and B. Büchner, Nat. Mater., 14: 210 (2015).",
+				"tr":  "S.-H. Baek, D. V. Efremov, J. M. Ok, J. S. Kim, J. van den Brink, and B. Büchner, Nat. Mater., 14: 210 (2015)."
+			},
+			{
+				"doi": "10.1038/nphys2870",
+				"or":  "E. P.Rosenthal, E. F. Andrade, C. J. Arguello, R. M. Fernandes, L. Y. Xing, X. C. Wang, C. Q. Jin, A. J. Millis, and A. N. Pasupathy, Nat. Phys., 10: 225 (2014).",
+				"tr":  "E. P.Rosenthal, E. F. Andrade, C. J. Arguello, R. M. Fernandes, L. Y. Xing, X. C. Wang, C. Q. Jin, A. J. Millis, and A. N. Pasupathy, Nat. Phys., 10: 225 (2014)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.107.067001",
+				"or":  "J. J. Ying, X. F. Wang, T. Wu, Z. J. Xiang, R. H. Liu, Y. J. Yan, A. F. Wang, M. Zhang, G. J. Ye, P. Cheng, J. P. Hu, and X. H. Chen, Phys. Rev. Lett., 107: 067001 (2011).",
+				"tr":  "J. J. Ying, X. F. Wang, T. Wu, Z. J. Xiang, R. H. Liu, Y. J. Yan, A. F. Wang, M. Zhang, G. J. Ye, P. Cheng, J. P. Hu, and X. H. Chen, Phys. Rev. Lett., 107: 067001 (2011)."
+			},
+			{
+				"doi": "10.1038/nphys2877",
+				"or":  "R. M. Fernandes, A. V. Chubukov, and J. Schmalian, Nat. Phys., 10: 97 (2014).",
+				"tr":  "R. M. Fernandes, A. V. Chubukov, and J. Schmalian, Nat. Phys., 10: 97 (2014)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.85.184507",
+				"or":  "S. Avci, O. Chmaissem, D.-Y. Chung, S. Rosenkranz, E. A. Goremychkin, J.-P. Castellan, I. S. Todorov, J. A. Schlueter, H. Claus, A. Daoud-Aladine, D. D. Khalyavin, M. G Kanatzidis, and R. Osborn, Phys. Rev. B, 85: 184507 (2012).",
+				"tr":  "S. Avci, O. Chmaissem, D.-Y. Chung, S. Rosenkranz, E. A. Goremychkin, J.-P. Castellan, I. S. Todorov, J. A. Schlueter, H. Claus, A. Daoud-Aladine, D. D. Khalyavin, M. G Kanatzidis, and R. Osborn, Phys. Rev. B, 85: 184507 (2012)."
+			},
+			{
+				"doi": "10.1038/ncomms10840",
+				"or":  "C. H. P. Wen, H. C. Xu, C. Chen, Z. C. Huang, X. Lou, Y. J. Pu, Q. Song, B. P. Xie, M. Abdel-Hafiez, D. A. Chareev, A. N. Vasiliev, R. Peng, and D. L. Feng, Nat. Comm., 7: 10840 (2016).",
+				"tr":  "C. H. P. Wen, H. C. Xu, C. Chen, Z. C. Huang, X. Lou, Y. J. Pu, Q. Song, B. P. Xie, M. Abdel-Hafiez, D. A. Chareev, A. N. Vasiliev, R. Peng, and D. L. Feng, Nat. Comm., 7: 10840 (2016)."
+			}
+		]
+	}
+}

@@ -1,0 +1,285 @@
+{
+	"_id":    "UFM.16.03.229",
+	"year":   2015,
+	"volume": 16,
+	"issue":  3,
+	"pages":  [229,264],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["07.04.2015"],
+	"PACS":   "63.20.D-, 63.20.K-, 63.20.Ry, 71.15.Ap, 71.15.Dx, 71.15.Rf",
+	"title":   {
+		"ua": "Теорія фононів у металах",
+		"en": "The Theory of Phonons in Metals",
+		"ru": "Теория фононов в металлах"
+	},
+	"abstract": {
+		"ua": "В огляді розглядається еволюція теоретичних засад розрахунків фононних спектрів у кристалах. Показуються принципові складнощі при застосуванні стандартної теорії збурення для перехідних металів. Детально аналізуються недоліки феноменологічних теорій, що базуються на використанні теорії груп для пошуку нееквівалентних елементів динамічної матриці та експериментальних значеннях фононних частот у високосиметрійних напрямках. На прикладі гексагональних щільнопакованих перехідних металів Y, Sc, Tc та Ru розраховуються фононні спектри та густина фононних станів метóдою лінійного відгуку. В якості базису для розрахунку електронного спектра використовуються лінійні «маффін-тін»-орбіталі в мóделю розрахунку, де береться до уваги реальна повна форма кристалічного потенціялу (ПП ЛМТО). Вищезгадані метали цікаві, як мінімум, з двох теоретичних точок зору. По-перше, всі вони досить добре вивчені експериментально. Це дає змогу порівняти розрахунки з даними невтронної спектроскопії, а також оцінити точність феноменологічних мóделів, що застосовувалися раніше для обчислення фононних спектрів. По-друге, для всіх вищезазначених ГЩП-металів відношення параметрів ґратниці $c/a$ відрізняється від ідеального значення (8/3)$^{(1/2)}$. Таким чином, реальна форма кристалічного потенціялу у середині «маффін-тін»-сфери, на відміну від, наприклад, ГЦК-ґратниці, при сферичній апроксимації буде мати топологічну похибку, що корелює з відхилом значення $c/a$ від ідеального. Застосування ПП ЛМТО знімає останню проблему.",
+		"en": "The review considers evolution of theoretical grounds for calculations of the phonon spectra in crystals. The principal difficulties in the application of the standard perturbation theory for transition metals are shown. The phenomenological theories based on both the theory of groups for finding non-equivalent elements of the dynamic matrix and experimental values of the phonon frequencies in high-symmetry directions are analysed in details. By the example of the hexagonal close-packed transition metals Y, Sc, Tc, and Ru, phonon spectra and phonon density of states are calculated within the framework of the linear response theory. As a basis for the calculation of the electron spectrum, the Linear Muffin-Tin Orbitals are used in the calculation model taking into account the real Full Potential in the Linear-Muffin-Tin-Orbital method (FPLMTO). The abovementioned metals are interesting, at least, from two theoretical points of view. Firstly, they are well studied experimentally. It allows us to compare the calculations with the data of neutron spectroscopy as well as to evaluate the accuracy of phenomenological models used previously to calculate the phonon spectra. Secondly, for all of the above-mentioned h.c.p. metals, value of the ratio of lattice parameters, $c/a$, deviates from the ideal value (8/3)$^{(1/2)}$. Thus, spherical approximation of the crystal potential in muffin-tin sphere, as opposed to the f.c.c. lattice, for example, will have a topological error, which correlates with the deviation of the value of $c/a$ from ideal one. Application of FP LMTO removes the last problem.",
+		"ru": "В обзоре рассматривается эволюция теоретических основ расчётов фононных спектров в кристаллах. Показываются принципиальные сложности при применении стандартной теории возмущения для переходных металлов. Подробно анализируются феноменологические теории, основанные на использовании теории групп для поиска неэквивалентных элементов динамической матрицы и экспериментальных значениях фононных частот в высокосимметрийных направлениях. На примере гексагональных плотноупакованных переходных металлов Y, Sc, Tc и Ru рассчитываются фононные спектры и плотность фононных состояний методом линейного отклика. В качестве базиса для расчёта электронного спектра используются линейные «маффин-тин»-орбитали в модели расчёта, которая принимает во внимание реальную полную форму кристаллического потенциала (ПП ЛМТО). Вышеупомянутые металлы интересны, как минимум, с двух теоретических точек зрения. Во-первых, все они достаточно хорошо изучены экспериментально. Это позволяет сравнить расчёты с данными нейтронной спектроскопии, а также оценить точность феноменологических моделей, которые применялись ранее для вычисления фононных спектров. Во-вторых, для всех вышеуказанных ГПУ-металлов отношение параметров решётки $c/a$ отклоняется от идеального значения (8/3)$^{(1/2)}$. Таким образом, реальная форма кристаллического потенциала внутри «маффин-тин»-сферы, в отличие от, например, ГЦК-решётки, при сферической аппроксимации будет иметь топологическую ошибку, которая коррелирует с отклонением значения $c/a$ от идеального. Применение ПП ЛМТО снимает последнюю проблему."
+	},
+	"keywords": {
+		"ua": "ГЩП-кристали, фононні спектри, ПП ЛМТО, узагальнена сприйнятливість, псевдопотенціял, теорія лінійного відгуку",
+		"en": "h.c.p. crystals, phonon spectra, FP LMTO, susceptibility, pseudopotential, linear response theory",
+		"ru": "ГПУ-кристаллы, фононные спектры, ПП ЛМТО, обобщённая восприимчивость, псевдопотенциал, теория линейного отклика"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. М. Січкар", "en": "S. M. Sichkar", "ru": "С. М. Сичкар"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  2,
+		"list":  [
+			{
+				"doi": "10.15407/mfint.38.11.1447",
+				"cit": "S. M. Sichkar, <a href=\"https://doi.org/10.15407/mfint.38.11.1447\">Metallofiz. Noveishie Tekhnol. <b>38</b>, 1447 (2016)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.18.01.027",
+				"cit": "S. M. Sichkar, <a href=\"https://doi.org/10.15407/ufm.18.01.027\">Usp. Fiz. Met. <b>18</b>, 27 (2017)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 47,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "M. Born and K. Huang, Dynamical Theory of Crystal Lattices (Oxford: The Clarendon Press: 1954).",
+				"tr":  "M. Born and K. Huang, Dynamical Theory of Crystal Lattices (Oxford: The Clarendon Press: 1954)."
+			},
+			{
+				"doi": "10.1016/0375-9601(80)90366-7",
+				"or":  "S. C. Vrati, N. Rani, D. K. Gupta, and H. C. Gupta, Phys. Letters A, 79, No. 4: 342 (1980).",
+				"tr":  "S. C. Vrati, N. Rani, D. K. Gupta, and H. C. Gupta, Phys. Letters A, 79, No. 4: 342 (1980)."
+			},
+			{
+				"doi": "10.1007/978-1-4899-0415-7",
+				"or":  "S. Lundqvist and N. H. March, Theory of the Inhomogeneous Electron Gas (New York–London: Plenum Press: 1983).",
+				"tr":  "S. Lundqvist and N. H. March, Theory of the Inhomogeneous Electron Gas (New York–London: Plenum Press: 1983)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.19.5251",
+				"or":  "H. Wendel and R. M. Martin, Phys. Rev. B, 19: 5251 (1979).",
+				"tr":  "H. Wendel and R. M. Martin, Phys. Rev. B, 19: 5251 (1979)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.69.2819",
+				"or":  "S. Yu. Savrasov, Phys. Rev. Letters, 69, No. 19: 2819 (1992).",
+				"tr":  "S. Yu. Savrasov, Phys. Rev. Letters, 69, No. 19: 2819 (1992)."
+			},
+			{
+				"doi": "10.1016/0022-5088(70)90106-2",
+				"or":  "A. L. Giorgi and E. G. Szklarz, J. Less-Common Metals, 20: 173 (1970).",
+				"tr":  "A. L. Giorgi and E. G. Szklarz, J. Less-Common Metals, 20: 173 (1970)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.17.2160",
+				"or":  "A. L. Giorgi and B. T. Matthias, Phys. Rev. B, 17: 2160 (1978).",
+				"tr":  "A. L. Giorgi and B. T. Matthias, Phys. Rev. B, 17: 2160 (1978)."
+			},
+			{
+				"doi": "10.1103/PhysRev.167.331",
+				"or":  "W. L. McMillan, Phys. Rev. B, 167: 331 (1968).",
+				"tr":  "W. L. McMillan, Phys. Rev. B, 167: 331 (1968)."
+			},
+			{
+				"doi": "10.1016/0038-1098(81)90693-1",
+				"or":  "H. G. Smith and N. Wakabayashi, Solid State Commun., 39: 371 (1981).",
+				"tr":  "H. G. Smith and N. Wakabayashi, Solid State Commun., 39: 371 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "Mineral Commodity Summaries 2008 (Washington: U.S. Geological Survey: 2008).",
+				"tr":  "Mineral Commodity Summaries 2008 (Washington: U.S. Geological Survey: 2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.73.094522",
+				"or":  "J. J. Hamlin, V. G. Tissen, and J. S. Schilling, Phys. Rev. B, 73: 094522 (2006).",
+				"tr":  "J. J. Hamlin, V. G. Tissen, and J. S. Schilling, Phys. Rev. B, 73: 094522 (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.42.469",
+				"or":  "F. A. Wittig, C. Probst, and K. A. Gschneidner, Phys. Rev. Letters, 42: 469 (1979).",
+				"tr":  "F. A. Wittig, C. Probst, and K. A. Gschneidner, Phys. Rev. Letters, 42: 469 (1979)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.72.132103",
+				"or":  "H. Fujihisa, Y. Akahama, H. Kawamura, Y. Gotoh, H. Yamawaki, M. Sakashita, S. Takeya, and K. Honda, Phys. Rev. B, 72: 132103 (2005).",
+				"tr":  "H. Fujihisa, Y. Akahama, H. Kawamura, Y. Gotoh, H. Yamawaki, M. Sakashita, S. Takeya, and K. Honda, Phys. Rev. B, 72: 132103 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.76.012505",
+				"or":  "J. J. Hamlin and J. S. Schilling, Phys. Rev. B, 76: 012505 (2007).",
+				"tr":  "J. J. Hamlin and J. S. Schilling, Phys. Rev. B, 76: 012505 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRev.136.B864",
+				"or":  "P. Hohenberg and W. Kohn, Phys. Rev., 136: B864 (1964).",
+				"tr":  "P. Hohenberg and W. Kohn, Phys. Rev., 136: B864 (1964)."
+			},
+			{
+				"doi": "10.1103/PhysRev.140.A1133",
+				"or":  "W. Kohn and L. J. Sham, Phys. Rev., 140: A1133 (1965).",
+				"tr":  "W. Kohn and L. J. Sham, Phys. Rev., 140: A1133 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "J. C. Slater, Phys. Rev., 81, Nо. 3: 385 (1951).",
+				"tr":  "J. C. Slater, Phys. Rev., 81, No. 3: 385 (1951)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.61.689",
+				"or":  "R. O. Jones and O. Gunnarsson, Rev. Mod. Phys., 61: 689 (1989).",
+				"tr":  "R. O. Jones and O. Gunnarsson, Rev. Mod. Phys., 61: 689 (1989)."
+			},
+			{
+				"doi": "10.1103/PhysRev.155.619",
+				"or":  "E. C. Svensson, B. N. Brockhouse, and J. M. Rowe, Phys. Rev., 155: 619 (1967).",
+				"tr":  "E. C. Svensson, B. N. Brockhouse, and J. M. Rowe, Phys. Rev., 155: 619 (1967)."
+			},
+			{
+				"doi": "10.1103/PhysRev.138.A717",
+				"or":  "R. E. DeWames, T. Wolfram, and G. W. Lehman, Phys. Rev., 138: A717 (1965).",
+				"tr":  "R. E. DeWames, T. Wolfram, and G. W. Lehman, Phys. Rev., 138: A717 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "A. G. Khachaturyan, Theory of Structural Transformations in Solids (Mineola, NY: Dover Publications: 2008).",
+				"tr":  "A. G. Khachaturyan, Theory of Structural Transformations in Solids (Mineola, NY: Dover Publications: 2008)."
+			},
+			{
+				"doi": "10.1134/S106377610801007X",
+				"or":  "V. G. Vaks and K. Yu. Khromov, JETP, 106, No. 1: 94 (2008).",
+				"tr":  "V. G. Vaks and K. Yu. Khromov, JETP, 106, No. 1: 94 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.9.4060",
+				"or":  "N. J. Chesser and J. D. Axe, Phys. Rev. B, 9: 4060 (1974).",
+				"tr":  "N. J. Chesser and J. D. Axe, Phys. Rev. B, 9: 4060 (1974)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.1.3943",
+				"or":  "J. C. Houmann and R. M. Nicklow, Phys. Rev. B, 1: 3943 (1970).",
+				"tr":  "J. C. Houmann and R. M. Nicklow, Phys. Rev. B, 1: 3943 (1970)."
+			},
+			{
+				"doi": "10.1134/S1063776108030102",
+				"or":  "V. G. Vaks and K. Yu. Khromov, JETP, 106, No. 3: 495 (2008).",
+				"tr":  "V. G. Vaks and K. Yu. Khromov, JETP, 106, No. 3: 495 (2008)."
+			},
+			{
+				"doi": "10.1007/10046537_10",
+				"or":  "A. G. Every and A. K. McCurdy, Second and Higher Order Elastic Constants of Crystals (Berlin: Group III of Landolt Bӧrnstein: 1992), vol. 29a.",
+				"tr":  "A. G. Every and A. K. McCurdy, Second and Higher Order Elastic Constants of Crystals (Berlin: Group III of Landolt Bӧrnstein: 1992), vol. 29a."
+			},
+			{
+				"doi": "10.1103/PhysRev.115.1198",
+				"or":  "R. M. Sternheimer, Phys. Rev., 115: 1198 (1959).",
+				"tr":  "R. M. Sternheimer, Phys. Rev., 115: 1198 (1959)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.58.1861",
+				"or":  "S. Baroni, P. Giannozzi, and A. Testa, Phys. Rev. Lett., 58: 1861 (1987).",
+				"tr":  "S. Baroni, P. Giannozzi, and A. Testa, Phys. Rev. Lett., 58: 1861 (1987)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.65.84",
+				"or":  "S. Baroni, S. Gironcoli, and P. Giannozzi, Phys. Rev. Letters, 65: 84 (1990).",
+				"tr":  "S. Baroni, S. Gironcoli, and P. Giannozzi, Phys. Rev. Letters, 65: 84 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "S. M. Sichkar and V. N. Antonov, Metallofiz. Noveishie Tekhnol., 33, No. 5: 565 (2011).",
+				"tr":  "S. M. Sichkar and V. N. Antonov, Metallofiz. Noveishie Tekhnol., 33, No. 5: 565 (2011)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.49.16223",
+				"or":  "P. E. Blochl, O. Jepsen, and O. K. Andersen, Phys. Rev. B, 49: 16223 (1994).",
+				"tr":  "P. E. Blochl, O. Jepsen, and O. K. Andersen, Phys. Rev. B, 49: 16223 (1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.54.16487",
+				"or":  "S. Y. Savrasov and D. Y. Savrasov, Phys. Rev. B, 54: 16487 (1996).",
+				"tr":  "S. Y. Savrasov and D. Y. Savrasov, Phys. Rev. B, 54: 16487 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "U. Barth and L. Hedin, J. Phys. C, 5: 1629 (1972).",
+				"tr":  "U. Barth and L. Hedin, J. Phys. C, 5: 1629 (1972)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.1.2430",
+				"or":  "S. K. Sinha, T. O. Brun, L. D. Muhlestein, and J. Sakurai, Phys. Rev. B, 1: 2430 (1970).",
+				"tr":  "S. K. Sinha, T. O. Brun, L. D. Muhlestein, and J. Sakurai, Phys. Rev. B, 1: 2430 (1970)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.60.R3709",
+				"or":  "R. Heid and K. P. Bohnen, Phys. Rev. B, 60: R3709 (1999).",
+				"tr":  "R. Heid and K. P. Bohnen, Phys. Rev. B, 60: R3709 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.46.10734",
+				"or":  "A. A. Quong and B. M. Klein, Phys. Rev. B, 46: 10734 (1992).",
+				"tr":  "A. A. Quong and B. M. Klein, Phys. Rev. B, 46: 10734 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "P. B. Allen, Phonons and Superconducting Transition Temperature (Amsterdam: North-Holland Publishing Company: 1980).",
+				"tr":  "P. B. Allen, Phonons and Superconducting Transition Temperature (Amsterdam: North-Holland Publishing Company: 1980)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.74.094519",
+				"or":  "Z. P. Yin, S. Y. Savrasov, and W. E. Pickett, Phys. Rev. B, 74: 094519 (2006).",
+				"tr":  "Z. P. Yin, S. Y. Savrasov, and W. E. Pickett, Phys. Rev. B, 74: 094519 (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.4.2398",
+				"or":  "N. Wakabayashi, S. K. Sinha, and F. H. Spedding, Phys. Rev. B, 4: 2398 (1971).",
+				"tr":  "N. Wakabayashi, S. K. Sinha, and F. H. Spedding, Phys. Rev. B, 4: 2398 (1971)."
+			},
+			{
+				"doi": "10.1002/pssb.201248099",
+				"or":  "S. M. Sichkar and V. N. Antonov, physica status solidi (b), 249, No. 11: 2118 (2012).",
+				"tr":  "S. M. Sichkar and V. N. Antonov, physica status solidi (b), 249, No. 11: 2118 (2012)."
+			},
+			{
+				"doi": "10.1063/1.1925373",
+				"or":  "S. M. Sichkar and V. N. Antonov, Low Temperature Physics, 31: 449 (2005).",
+				"tr":  "S. M. Sichkar and V. N. Antonov, Low Temperature Physics, 31: 449 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.54.16533",
+				"or":  "J. P. Perdew, K. Burke, and Y. Wang, Phys. Rev. B, 54: 16533 (1996).",
+				"tr":  "J. P. Perdew, K. Burke, and Y. Wang, Phys. Rev. B, 54: 16533 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Zakharov, M. G. Zemlyanov, M. N. Mikheeva, G. F. Syrykh, and M. B. Tsetlin, Zh. Eksp. Teor. Fiz., 88: 1402 (1985) (in Russian).",
+				"tr":  "A. A. Zakharov, M. G. Zemlyanov, M. N. Mikheeva, G. F. Syrykh, and M. B. Tsetlin, Zh. Eksp. Teor. Fiz., 88: 1402 (1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. M. Sichkar and V. N. Antonov, Metallofiz. Noveishie Tekhnol., 29, No. 1: 31 (2007).",
+				"tr":  "S. M. Sichkar and V. N. Antonov, Metallofiz. Noveishie Tekhnol., 29, No. 1: 31 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Zakharov, S. N. Krainyukov, A. V. Khotkevich, M. B. Tsetlin, Yu. L. Shitikov, M. G. Zemlyanov, M. N. Mikheeva, I. K. Yanson, V. A. Elenskii, and G. P. Kovtun, Zh. Eksp. Teor. Fiz., 91: 343 (1986) (in Russian).",
+				"tr":  "A. A. Zakharov, S. N. Krainyukov, A. V. Khotkevich, M. B. Tsetlin, Yu. L. Shitikov, M. G. Zemlyanov, M. N. Mikheeva, I. K. Yanson, V. A. Elenskii, and G. P. Kovtun, Zh. Eksp. Teor. Fiz., 91: 343 (1986) (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF00655710",
+				"or":  "R. R. Rao and A. Ramanand, J. Low Temp. Phys., 27: 837 (1977).",
+				"tr":  "R. R. Rao and A. Ramanand, J. Low Temp. Phys., 27: 837 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "R. R. Rao and J. V. Murthy, Numerical Data and Functional Relationships in Science and Technology. Group 3. Crystal and Solid State Physics, Metals: Phonon States, Electron States and Fermi Surfaces (New York: Springer–Verlag: 1981), vol. 13.",
+				"tr":  "R. R. Rao and J. V. Murthy, Numerical Data and Functional Relationships in Science and Technology. Group 3. Crystal and Solid State Physics, Metals: Phonon States, Electron States and Fermi Surfaces (New York: Springer–Verlag: 1981), vol. 13."
+			}
+		]
+	}
+}

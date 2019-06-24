@@ -1,0 +1,217 @@
+{
+	"_id":    "UFM.16.02.119",
+	"year":   2015,
+	"volume": 16,
+	"issue":  2,
+	"pages":  [119,157],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["20.05.2015"],
+	"PACS":   "52.80.Qj, 62.20.Qp, 68.37.Hk, 81.15.Pq, 81.40.Pq, 81.65.Lp, 82.33.Vx",
+	"title":   {
+		"ua": "Закономірності формування структурно-фазових станів на поверхні металів і стопів за електровибухового леґування",
+		"en": "Regularities of Formation of Structural–Phase States on a Surface of Metals and Alloys at an Electroexplosive Alloying",
+		"ru": "Закономерности формирования структурно-фазовых состояний на поверхности металлов и сплавов при электровзрывном легировании"
+	},
+	"abstract": {
+		"ua": "Вперше проведено кількісні та якісні дослідження структурно-фазових станів поверхневих шарів металів і стопів за електровибухового леґування з використанням термореаґентних компонентів. Пошаровими електронно-мікроскопічними дослідженнями виявлено ґрадієнтний характер структурно-фазових станів, що характеризуються закономірною зміною фазового складу і параметрів дефектної субструктури з віддалянням від поверхні оброблення. Виявлено та проаналізовано основні фактори і механізми, що визначають пришвидшення фізико-хемічних процесів синтези нових фаз за електровибухового леґування. Встановлено, що електровибухове леґування зумовлено комплексним термосиловим впливом на опромінювану поверхню багатофазного плазмового струменя, сформованого з продуктів електричного вибуху провідників і порошкових навісок, та супроводжується комплексним характером зміни структурно-фазових станів і дефектної субструктури на різних (від макро- до нано-) масштабних рівнях. У тому числі воно супроводжується за малий час оброблення, що дорівнює 100 мкс: для випадку леґування алюмінію ніклем — формуванням зони леґування, зміцненої інтерметалідами системи Ni–Al, що характеризується великою глибиною; для випадку леґування титаном поверхні твердого стопу ВК10КС — розпадом у зоні леґування частинок карбіду WC і утворенням частинок карбідів TiC, (Ti, W)C і W$_{2}$C; для випадку карбоборування поверхні титану з використанням порошкової навіски аморфного бору — формуванням шару композиційного покриття товщиною близько 10 мкм, що має високу (до 3600 $HV$) мікротвердість. Встановлено багаторазове збільшення мікротвердости, зносостійкости й інших функціональних властивостей поверхні, що зумовлено електровибуховим леґуванням. Виявлено закономірності та механізми формування структурно-фазових станів поверхневих шарів при електровибуховому леґуванні з використанням термореаґентних компонентів. Наукові результати роботи можна буде використати задля розвитку теорії структурно-фазових перетворень у металах і стопах і використати в економічно ефективних технологічних процесах зміцнення поверхні деталів на підприємствах металургійної, машинобудівної, авіяційної й інших галузей промисловости. Експериментально встановлено пришвидшення синтези хемічних сполук на поверхні металів і стопів за електровибухового леґування, що полягає в тому, що при впливі на поверхню імпульсних плазмових струменів, сформованих з продуктів електричного вибуху провідників за час дії у 100 мкс, густини потужности порядку декількох ГВт/м$^{2}$ і тиску в ударно-стиснутому шарі поблизу опромінюваної поверхні порядку 1–10 МПа, відбувається утворення нових фаз і сполук із швидкістю, що перевищує швидкість їх утворення за звичайних умов взаємодії.",
+		"en": "For the first time, the quantitative and qualitative studies of the structural–phase states of the surface layers of metals and alloys subjected to electroexplosive alloying with the use of thermoreacting components are carried out. Using layer-by-layer electron-microscopy studies, a gradient character of the structural–phase states is revealed; it is characterized by a natural change of the phase composition and parameters of the defect substructure as the distance from the treatment surface rises. The main factors and mechanisms, which determine the acceleration of physicochemical synthesis processes of new phases at electroexplosive alloying, are revealed and analysed. As established, the electroexplosive alloying is caused by complex thermal-force effect on the irradiated surface of multiphase plasma jet formed from the products of electric explosion of conductors and powder samples and is accompanied by complex patterns of change in the structural–phase states and defect substructure at different (from macro- to nano-) scale levels. It is accompanied during a short treatment time equal to 100 $\\mu$s as follows: for the case of aluminium alloying with nickel, with the formation of alloying zone strengthened with intermetallics of Ni–Al systems and characterized by great depth; for the case of titanium alloying of the surface of a solid WK10KS alloy, with the decomposition in the alloying zone of WC carbide particles and the formation of TiC, (Ti, W)C and W$_{2}$C carbide particles; for the case of carboborating of the titanium surface, with the use of powder sample of amorphous-boron forming the layer of composite coating with the thickness of about 10 microns, which has the high microhardness (up to 3600 $HV$). Multiple increases of the microhardness, wear resistance, and other functional properties of the surface due to the electroexplosive alloying are ascertained. The regularities and formation mechanisms in the structural–phase states of the surface layers at an electroexplosive alloying with the use of thermoreacting components are revealed. The obtained research results can be used for the development of the theory of structural–phase transformations in metals and alloys and used in cost-beneficial technological processes for hardening the device surfaces in metallurgical, machine-building, aviation, and other industries. The acceleration of the synthesis of chemical compounds on the surface of metals and alloys at electroexplosive alloying is established experimentally. It consists in the formation of new phases and compounds with a rate exceeding the rate of their formation under the normal interaction conditions, if the pulsed plasma jets exposing the surface are formed from the products of electrical explosion of conductors, the exposure time is equal to 100 $\\mu$s, the power density is of the order of several GW/m$^{2}$, and the pressure in the shock-compressed layer near the irradiated surface is of about 1–10 MPa.",
+		"ru": "Впервые проведены количественные и качественные исследования структурно-фазовых состояний поверхностных слоёв металлов и сплавов, подвергнутых электровзрывному легированию с использованием термореагирующих компонентов. Послойными электронно-микроскопическими исследованиями выявлен градиентный характер структурно-фазовых состояний, характеризующийся закономерным изменением фазового состава и параметров дефектной субструктуры по мере удаления от поверхности обработки. Выявлены и подвергнуты анализу основные факторы и механизмы, определяющие ускорение физико-химических процессов синтеза новых фаз при электровзрывном легировании. Установлено, что электровзрывное легирование обусловлено комплексным термосиловым воздействием на облучаемую поверхность многофазной плазменной струи, сформированной из продуктов электрического взрыва проводников и порошковых навесок, и сопровождается комплексным характером изменения структурно-фазовых состояний и дефектной субструктуры на различных (от макро- до нано-) масштабных уровнях. В том числе оно сопровождается за малое время обработки, равное 100 мкс: для случая легирования алюминия никелем — формированием зоны легирования, упрочнённой интерметаллидами системы Ni–Al, характеризуемой большой глубиной; для случая легирования титаном поверхности твёрдого сплава ВК10КС — распадом в зоне легирования частиц карбида WC и образованием частиц карбидов TiC, (Ti, W)C и W$_{2}$C; для случая карбоборирования поверхности титана с использованием порошковой навески аморфного бора — формированием слоя композиционного покрытия толщиной около 10 мкм, обладающего высокой (до 3600 $HV$) микротвёрдостью. Установлено многократное увеличение микротвёрдости, износостойкости и других функциональных свойств поверхности, обусловленное электровзрывным легированием. Выявлены закономерности и механизмы формирования структурно-фазовых состояний поверхностных слоёв при электровзрывном легировании с использованием термореагирующих компонентов. Научные результаты работы могут быть использованы для развития теории структурно-фазовых превращений в металлах и сплавах и использованы в экономически эффективных технологических процессах упрочнения поверхности деталей на предприятиях металлургической, машиностроительной, авиационной и других отраслей промышленности. Экспериментально установлено ускорение синтеза химических соединений на поверхности металлов и сплавов при электровзрывном легировании, заключающееся в том, что при воздействии на поверхность импульсных плазменных струй, сформированных из продуктов электрического взрыва проводников при времени воздействия 100 мкс, плотности мощности порядка нескольких ГВт/м$^{2}$ и давлении в ударно-сжатом слое вблизи облучаемой поверхности порядка 1–10 МПа, происходит образование новых фаз и соединений со скоростью, превышающей скорость их образования при обычных условиях взаимодействия."
+	},
+	"keywords": {
+		"ua": "електровибухове леґування, структура, фазовий склад, нікель, алюміній, твердий стоп, титан",
+		"en": "electroexplosive alloying, structure, phase composition, nickel, aluminium, solid alloy, titanium",
+		"ru": "электровзрывное легирование, структура, фазовый состав, никель, алюминий, твёрдый сплав, титан"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Д. А. Романов", "en": "D. A. Romanov", "ru": "Д. А. Романов"},
+			"OID": [407]
+		},
+		{
+			"AID": {"ua": "В. Є. Громов", "en": "V. E. Gromov", "ru": "В. Е. Громов"},
+			"OID": [407]
+		},
+		{
+			"AID": {"ua": "Є. А. Будовских", "en": "Е. А. Budovskikh", "ru": "Е. А. Будовских"},
+			"OID": [407]
+		},
+		{
+			"AID": {"ua": "Ю. Ф. Іванов", "en": "Yu. F. Ivanov", "ru": "Ю. Ф. Иванов"},
+			"OID": [408, 409]
+		}
+	],
+	"cited_by": {
+		"count":  2,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.18.02.111",
+				"cit": "V. E. Kormyshev, V. E. Gromov, Yu. F. Ivanov and S. V. Konovalov, <a href=\"https://doi.org/10.15407/ufm.18.02.111\">Usp. Fiz. Met. <b>18</b>, 111 (2017)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.18.02.155",
+				"cit": "V. V. Kurylyak and G. I. Khimicheva, <a href=\"https://doi.org/10.15407/ufm.18.02.155\">Usp. Fiz. Met. <b>18</b>, 155 (2017)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 31,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "А. Я. Багаутдинов, Е. А. Будовских, Ю. Ф. Иванов, В. Е. Громов, Физические основы электровзрывного легирования металлов и сплавов (Новокузнецк: СибГИУ: 2007).",
+				"tr":  "A. Ya. Bagautdinov, E. A. Budovskikh, Yu. F. Ivanov, and V. E. Gromov, Fizicheskie Osnovy Elektrovzryvnogo Legirovaniya Metallov i Splavov [Physical Fundamentals of Electroexplosive Alloying of Metals and Alloys] (Novokuznetsk: SibGIU: 2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. А. Романов, Е. А. Будовских, В. Е. Громов, Ю. Ф. Иванов, Электровзрывное напыление износо- и электроэрозионностойких покрытий (Новокузнецк: ООО «Полиграфист»: 2014).",
+				"tr":  "D. A. Romanov, E. A. Budovskikh, V. E. Gromov, and Yu. F. Ivanov, Elektrovzryvnoe Napylenie Iznoso- i Elektroerozionnostoykih Pokrytiy [Electroexplosive Sputtering of Wear- and Electroresistant Coatings] (Novokuznetsk: Poligrafist: 2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. А. Романов, Е. А. Будовских, В. Е. Громов, Электровзрывное напыление электроэрозионностойких покрытий: формирование структуры, фазового состава и свойств электроэрозионностойких покрытий методом электровзрывного напыления (Saarbrucken: LAP LAMBERT Academic Publishing GmbH & Co. KG: 2012).",
+				"tr":  "D. A. Romanov, E. A. Budovskikh, and V. E. Gromov, Elektrovzryvnoe Napylenie Elektroerozionnostoykih Pokrytiy: Formirovanie Struktury, Fazovogo Sostava i Svoystv Elektroerozionnostoykih Pokrytiy Metodom Elektrovzryvnogo Napyleniya [Electroexplosive Sputtering of Electroresistant Coatings: Formation of Structure, Phase Composition, and Properties of Electroresistant Coatings by Electroexplosive Sputtering Method] (Saarbrucken: LAP LAMBERT Academic Publishing GmbH & Co. KG: 2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. П. Лякишев, С. В. Павлович, О. А. Колпаков, О. А. Банных, Н. А. Ватолин, М. И. Гасик, В. И. Добаткин, А. В. Елютин, С. П. Ефименко, В. И. Кашин, С. К. Кажахметов, Б. Г. Коршунов, Ю. А. Осипьян, Н. Н. Ракова, С. И. Тишаев, Л. З. Ходак, В. Н. Чернышов, Энциклопедический словарь по металлургии (Москва: Интермент Инжиниринг: 2000), т. 1.",
+				"tr":  "N. P. Lyakishev, S. V. Pavlovich, O. A. Kolpakov, O. A. Bannykh, N. A. Vatolin, M. I. Gasik, V. I. Dobatkin, A. V. Elyutin, S. P. Efimenko, V. I. Kashin, S. K. Kazhakhmetov, B. G. Korshunov, Yu. A. Osip'yan, N. N. Rakova, S. I. Tishaev, L. Z. Khodak, and V. N. Chernyshov, Entsiklopedicheskiy Slovar' po Metallurgii [Metallurgy Encyclopaedic Dictionary] (Moscow: Interment Inzhiniring: 2000), vol. 1 (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.15.04.213",
+				"or":  "В. Е. Громов, Е. В. Капралов, С. В. Райков, Ю. Ф. Иванов, Е. А. Будовских, Успехи физ. мет., 15, № 4: 213 (2014).",
+				"tr":  "V. E. Gromov, E. V. Kapralov, and S. V. Raykov, Yu. F. Ivanov, and E. A. Budovskikh, Uspehi Fiziki Metallov, 15, No. 4: 213 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.14.01.067",
+				"or":  "В. Е. Громов, Ю. Ф. Иванов, В. А. Гришунин, С. В. Райков, С. В. Коновалов, Успехи физ. мет., 14, № 1: 67 (2013).",
+				"tr":  "V. E. Gromov, Yu. F. Ivanov, V. A. Grishunin, S. V. Raykov, and S. V. Konovalov, Uspehi Fiziki Metallov, 14, No. 1: 67 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.15.01.001",
+				"or":  "В. Е. Громов, К. В. Волков, Ю. Ф. Иванов, К. В. Морозов, К. В. Алсараева, С. В. Коновалов, Успехи физ. мет., 15, № 1: 1 (2014).",
+				"tr":  "V. E. Gromov, K. V. Volkov, Yu. F. Ivanov, K. V. Morozov, K. V. Alsaraeva, and S. V. Konovalov, Uspehi Fiziki Metallov, 15, No.1: 1 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Артамонов, Ю. С. Волков, В. И. Дрожалова, Ф. В. Седыкин, В. П. Смоленцев, В. М. Ямпольский, Электрофизические и электрохимические методы обработки материалов: учеб. пособие. Обработка материалов с использованием высококонцентрированных источников энергии (Москва: Высшая школа: 1983), т. 2.",
+				"tr":  "B. A. Artamonov, Yu. S. Volkov, V. I. Drozhalova, F. V. Sedykin, V. P. Smolentsev, and V. M. Yampol'skiy, Elektrofizicheskie i Elektrokhimicheskie Metody Obrabotki Materialov: Uchebnoe Posobie. Obrabotka Materialov s Ispol'zovaniem Vysokokontsentrirovannykh Istochnikov Energii [Electrophysical and Electrochemical Methods for Material Treatments. Tutorial. Material Treatments Using the High-Energy Sources] (Moscow: Vysshaya Shkola: 1983), vol. 2 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Болотов, Г. А. Шепель, Электротехнологические установки: учеб. для вузов (Москва: Высшая школа: 1988).",
+				"tr":  "A. V. Bolotov and G. A. Shepel', Elektrotekhnologicheskie Ustanovki: Uchebnoe Posobie dlya Vuzov [Electrotechnological Apparatuses: Tutorials for High Schools] (Moscow: Vysshaya Shkola: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Хасуи, О. Моригаки, Наплавка и напыление (Москва: Машиностроение: 1985) (Пер. с япон.).",
+				"tr":  "A. Khasui and O. Morigaki, Naplavka i Napylenie [Surfacing and Sputtering] (Moscow: Mashinostroenie: 1985) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Бобров, А. А. Ильин, Нанесение неорганических покрытий. Теория. Технология. Оборудование: учеб. пособие для вузов (Москва: Интермет Инжиниринг: 2004).",
+				"tr":  "G. V. Bobrov and A. A. Il'in, Nanesenie Neorganicheskikh Pokrytiy. Teoriya. Tekhnologiya. Oborudovanie: Uchebnoe Posobie dlya Vuzov [Deposition of Inorganic Coatings. Theory. Technology. Equipment. Tutorial for High Schools] (Moscow: Intermet Inzhiniring: 2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Горюшкин, А. Я. Багаутдинов, Е. В. Мартусевич, В. Е. Громов, Заготовительные производства в машиностроении, № 9: 44 (2005).",
+				"tr":  "V. F. Goryushkin, A. Ya. Bagautdinov, E. V. Martusevich, and V. E. Gromov, Zagotovitel'nye Proizvodstva v Mashinostroenii, No. 9: 44 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Будовских, В. Ф. Горюшкин, Е. В. Мартусевич, В. Е. Громов, А. Я. Багаутдинов, Фундаментальные проблемы современного материаловедения, № 1: 95 (2005).",
+				"tr":  "E. A. Budovskikh, V. F. Goryushkin, E. V. Martusevich, V. E. Gromov, and A. Ya. Bagautdinov, Fundamental'nye Problemy Sovremennogo Materialovedeniya [Basic Problems of Materials Science], No. 1: 95 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Будовских, Л. В. Манжос, Е. В. Мартусевич, И. С. Астахова, Изв. вузов. Чер. металлургия, № 6: 38 (2003).",
+				"tr":  "E. A. Budovskikh, L. V. Manzhos, E. V. Martusevich, and I. S. Astakhova, Izvestiya Vuzov. Chernaya Metallurgiya, No. 6: 38 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Райков, Е. А. Будовских, В. Е. Громов, Ю. Ф. Иванов, Е. С. Ващук, Физическая природа упрочнения поверхностных слоев титановых сплавов при электровзрывном легировании и электронно-пучковой обработке (Новокузнецк: Интер-Кузбасс: 2014).",
+				"tr":  "S. V. Raykov, E. A. Budovskikh, V. E. Gromov, Yu. F. Ivanov, and E. S. Vashchuk, Fizicheskaya Priroda Uprochneniya Poverkhnostnykh Sloyov Titanovykh Splavov pri Elektrovzryvnom Legirovanii i Elektronno-Puchkovoy Obrabotke [Physical Nature of the Strengthening of Surface Layers of Titanium Alloys at Electroexplosive Alloying and Electron-Beam Treatment] (Novokuznetsk: Inter-Kuzbass: 2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Структура, фазовый состав и свойства поверхностных слоев титана после электровзрывного науглероживания и электронно-пучковой обработки (Ред. В. Е. Громов) (Новокузнецк: Интер-Кузбасс: 2012).",
+				"tr":  "Struktura, Fazovyy Sostav i Svoystva Poverkhnostnykh Sloyov Titana Posle Elektrovzryvnogo Nauglerozhivaniya i Elektronno-Puchkovoy Obrabotki [Structure, Phase Composition, and Properties of Titanium Surface Layers after Electroexplosive Carburizing and Electron-Beam Treatment] (Ed. V. E. Gromov) (Novokuznetsk: Inter-Kuzbass: 2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Формирование структурно-фазовых состояний металлов и сплавов при электровзрывном легировании и электронно-пучковой обработке (Ред. В. Е. Громов) (Новокузнецк: Интер-Кузбасс: 2011).",
+				"tr":  "Formirovanie Strukturno-Fazovykh Sostoyaniy Metallov i Splavov pri Elektrovzryvnom Legirovanii i Elektronno-Puchkovoy Obrabotke [Formation of Structural-Phase States of Metals and Alloys at the Electroexplosive Doping and Electron-Beam Treatment] (Ed. V. E. Gromov) (Novokuznetsk: Inter-Kuzbass: 2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Углов, Н. Н. Черенда, В. М. Анищик, В. М. Асташинский, Н. Т. Квасов, Модификация материалов компрессионными плазменными потоками (Минск: БГУ: 2013).",
+				"tr":  "V. V. Uglov, N. N. Cherenda, V. M. Anishchik, V. M. Astashinskiy, and N. T. Kvasov, Modifikatsiya Materialov Kompressionnymi Plazmennymi Potokami [Modification of Materials by the Compression Plasma Flows] (Minsk: BGU: 2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Тюрин, М. Л. Жадкевич, Плазменные упрочняющие технологии (Киев: Наукова думка: 2008).",
+				"tr":  "Yu. N. Tyurin and M. L. Zhadkevich, Plazmennye Uprochnyayushchie Tekhnologii [Plasma Strengthening Technology] (Kiev: Naukova Dumka: 2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Ф. Мондольфо, Структура и свойства алюминиевых сплавов (Москва: Металлургия: 1979) (Пер. с англ.).",
+				"tr":  "L. F. Mondolfo, Struktura i Svoystva Alyuminievykh Splavov [Aluminium Alloys: Structure and Properties] (Moscow: Metallurgiya: 1979) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Иванов, В. С. Хмелевская, И. А. Антошина, А. Б. Коршунов, Перспективные материалы, № 1: 89 (2003).",
+				"tr":  "A. N. Ivanov, V. S. Khmelevskaya, I. A. Antoshina, and A. B. Korshunov, Perspektivnye Materialy, No. 1: 89 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Тарбоков, Г. Е. Ремнёв, П. В. Кузнецов, Физика и химия обработки материалов, № 3: 11 (2004).",
+				"tr":  "V. A. Tarbokov, G. E. Remnev, and P. V. Kuznetsov, Fizika i Khimiya Obrabotki Materialov, No. 3: 11 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Тюрин, С. Н. Кульков, О. В. Колисниченко, И. М. Дуда, Физическая инженерия поверхности, 7, № 3: 262 (2009).",
+				"tr":  "Yu. N. Tyurin, S. N. Kul'kov, O. V. Kolisnichenko, and I. M. Duda, Fizicheskaya Inzheneriya Poverkhnosti, 7, No. 3: 262 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Н. Осколкова, Е. А. Будовских, Поверхностное упрочнение WC–Co твёрдого сплава электровзрывным легированием: Патент РФ 2398046 МПК С23С 14/32, С23С 14/48 (ГОУ ВПО «Сибирский государственный индустриальный университет»: № 2009132441/02: Бюл. № 24) (2010).",
+				"tr":  "T. N. Oskolkova and E. A. Budovskikh, Poverkhnostnoe Uprochnenie WC–Co Tvyordogo Splava Elektrovzryvnym Legirovaniem [Surface Strengthening of Solid WC–Co Alloy via Electroexplosive Alloying]: Patent 2398046 RU. MPK S23S 14/32, S23S 14/48 (Otkrytiya i Izobreteniya: No. 24) (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Н. Осколкова, Е. А. Будовских, Заготовительные производства в машиностроении, № 8: 33 (2010).",
+				"tr":  "T. N. Oskolkova and E. A. Budovskikh, Zagotovitel'mnye Proizvodstva v Mashinostroenii, No. 8: 33 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Н. Осколкова, Е. А. Будовских, Способ поверхностной обработки вольфрамокобальтового твёрдосплавного инструмента: Патент РФ 2405061 МПК С23С 14/32, С23С 14/06 (ГОУ ВПО «Сибирский государственный индустриальный университет»: № 2009126395/02: Бюл. № 33) (2010).",
+				"tr":  "T. N. Oskolkova and E. A. Budovskikh, Sposob Poverkhnostnoy Obrabotki Vol’framokobal’tovogo Tvyordosplavnogo Instrumenta [A Method of Surface Treatment of Solid Tungsten–Cobalt Alloy Tools]: Patent 2405061 RU. MPK S23S 14/32, S23S 14/06 (Otkrytiya i Izobreteniya: No. 33) (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Хижняк, В. Ю. Долгих, В. И. Король, Научные вести НТУ Украины «Киевский политехнический институт», № 1: 74 (2002).",
+				"tr":  "V. G. Khizhnyak, V. Yu. Dolgikh, and V. I. Korol', Nauchnye Vesti NTU Ukrainy «Kyyivskyy Politekhnichnyy Instytut», No. 1: 74 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Евстратова, В. Т. Компанеец, В. А. Сухарникова, Материаловедение (Ростов-на-Дону: Феникс: 2006).",
+				"tr":  "N. N. Evstratova, V. T. Kompaneets, and V. A. Sukharnikova, Materialovedenie [Materials Science] (Rostov-on-Don: Feniks: 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Н. Арзамасов, В. А. Брострем, Н. А. Буше, Ю. А. Быков, А. Г. Васильева, Г. П. Гардымов, И. С. Гершман, Э. Ч. Гини, М. Е. Дриц, А. А. Зябрев, И. В. Кириллов, С. И. Кишкина, Е. А. Курочкин, В. И. Кучерявый, В. И. Макарова, Т. А. Паиайоти, Ж. П. Пастухова, М. Д. Перкас, А. Г. Рахштадт, А. П. Семенов, В. И. Силаева, В. Н. Симонов, Л. М. Соколенко, Т. В. Соловьева, В. И. Солонин, Г. Б. Строганов, В. И. Третьяков, Е. А. Ульянин, И. Н. Фридляидер, О. М. Ховова, К. П. Яценко, Конструкционные материалы: справочник (Ред. Б. Н. Арзамасов) (Москва: Машиностроение: 1990).",
+				"tr":  "B. N. Arzamasov, V. A. Brostrem, N. A. Bushe, Yu. A. Bykov, A. G. Vasil'eva, G. P. Gardymov, I. S. Gershman, E. Ch. Gini, M. E. Drits, A. A. Zyabrev, I. V. Kirillov, S. I. Kishkina, E. A. Kurochkin, V. I. Kucheryavyy, V. I. Makarova, T. A. Paiayoti, Zh. P. Pastukhova, M. D. Perkas, A. G. Rakhshtadt, A. P. Semenov, V. I. Silaeva, V. N. Simonov, L. M. Sokolenko, T. V. Solov'eva, V. I. Solonin, G. B. Stroganov, V. I. Tret'yakov, E. A. Ul'yanin, I. N. Fridlyaider, O. M. Khovova, and K. P. Yatsenko, Konstruktsionnye Materialy: Spravochnik [Construction Materials: a Handbook] (Ed. B. N. Arzamasov) (Moscow: Mashinostroenie: 1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Н. Чапорова, К. С. Чернявский, Структура спечённых твёрдых сплавов (Москва: Металлургия: 1975).",
+				"tr":  "I. N. Chaporova and K. S. Chernyavskiy, Struktura Spechyonnykh Tvyordykh Splavov [Structure of the Sintered Solid Alloys] (Moscow: Metallurgiya: 1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Г. Лошак, Прочность и долговечность твёрдых сплавов (Киев: Наукова думка: 1984).",
+				"tr":  "M. G. Loshak, Prochnost' i Dolgovechnost' Tvyordykh Splavov [Strength and Durability of Solid Alloys] (Kiev: Naukova Dumka: 1984) (in Russian)."
+			}
+		]
+	}
+}

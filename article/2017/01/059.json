@@ -1,0 +1,453 @@
+{
+	"_id":    "UFM.18.01.059",
+	"year":   2017,
+	"volume": 18,
+	"issue":  1,
+	"pages":  [59,105],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["17.02.2017", "28.02.2017"],
+	"PACS":   "47.63.mh, 75.50.Gg, 75.60.-d, 81.07.Nb, 87.19.xj, 87.85.Rs, 91.25.fa",
+	"title":   {
+		"ua": "Синтеза та властивості нанорозмірних однодоменних феритів-шпінелей",
+		"en": "Synthesis and Properties of Nanosized Single-Domain Ferrite Spinels",
+		"ru": "Синтез и свойства наноразмерных однодоменных ферритов-шпинелей"
+	},
+	"abstract": {
+		"ua": "Оглядаються дослідження, присвячені розробці методик синтези та вивченню властивостей нанорозмірних феритів-шпінелей в однодоменному стані. Зазначені матеріяли використовуються для: хемічного конструювання магнеточутливих нанокомпозитів з багаторівневою ієрархічною наноархітектурою та функціями розпізнавання мікробіологічних об’єктів у біологічних середовищах; цільового доставляння лікарських препаратів до клітин- та органів-мішеней і депонування; комплексної хеміо-, імуно-, радіологічної нейтронзахоплювальної, гіпертермічної, фотодинамічної онкотерапії та діягностики в режимі реального часу; адсорбції йонів важких металів, токсинів, решток клітинного розкладання та видалення їх з організму за допомогою зовнішнього магнетного поля; розробки нового покоління магнеточутливих адсорбентів медичного, екологічного, технічного призначення, композитних наноструктурних спеціяльних матеріялів, середовищ і покриттів із заданими діелектричними і магнетними втратами, що ефективно взаємодіють з електромагнетним випроміненням надвисокочастотного діяпазону.",
+		"en": "The review presents investigations devoted to development of synthesis techniques and studying properties of nanosized single-domain ferrite spinels. Above-mentioned materials are used for: chemical fabrication of magnetosensitive nanocomposites with multilevel hierarchical nanoarchi-tecture and functions of recognition of microbiological objects in biologic media; targeted delivery of drugs into specific cells and organs and deposition; complex chemo-, immuno-, radiology neutron capture, hyperthermic, photodynamic cancer therapy and diagnostics in a real-time regime; adsorption of heavy-metal ions, toxins, cell decomposition debris and elimination of them from the body via the external magnetic field; development of a new generation of magnetosensitive adsorbents for medical, ecology, technical destination, composite nanostructured special materials, media and covers with beforehand set dielectric and magnetic losses to interact effectively with electromagnetic eradiation of super-high-frequency band.",
+		"ru": "Обозреваются исследования, посвящённые разработке методик синтеза и изучению свойств наноразмерных однодоменных ферритов-шпинелей. Указанные материалы используются для химического конструирования магниточувствительных нанокомпозитов с многоуровневой иерархической наноархитектурой и функциями распознавания микробиологических объектов в биологических средах; целевой доставки лекарственных препаратов к клеткам- и органам-мишеням и депонирования; комплексной химио-, иммуно-, радиологической нейтронзахватной, гипертермической, фотодинамической онкотерапии и диагностики в режиме реального времени; адсорбции ионов тяжёлых металлов, токсинов, остатков клеточного разложения и удаления их из организма с помощью внешнего магнитного поля; разработки нового поколения магниточув-ствительных адсорбентов медицинского, экологического, технического предназначения, композитных наноструктурных специальных материалов, сред и покрытий с заданными диэлектрическими и магнитными потерями, которые эффективно взаимодействуют с электромагнитным излучением сверхвысокочастотного диапазона."
+	},
+	"keywords": {
+		"ua": "ферити-шпінелі, нанотехнології, синтеза, однодоменний стан, намагнетованість, електромагнетні властивості",
+		"en": "ferrite spinels, nanotechnologies, synthesis, single-domain state, magnetization, electromagnetic properties",
+		"ru": "ферриты-шпинели, нанотехнологии, синтез, однодоменное состояние, намагниченность, электромагнитные свойства"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "П. П. Горбик", "en": "P. P. Gorbyk", "ru": "П. П. Горбик"},
+			"OID": [21, 202]
+		},
+		{
+			"AID": {"ua": "М. В. Абрамов", "en": "M. V. Abramov", "ru": "М. В. Абрамов"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "І. В. Дубровин", "en": "I. V. Dubrovin", "ru": "И. В. Дубровин"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "С. М. Махно", "en": "S. M. Makhno", "ru": "С. М. Махно"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "С. П. Туранська", "en": "S. P. Turanska", "ru": "С. П. Туранская"},
+			"OID": [21]
+		}
+	],
+	"references": {
+		"count": 80,
+		"list":  [
+			{
+				"doi": "10.15407/mfint.38.01.0001",
+				"or":  "О. М. Івасишин, Є. Г. Лень, В. М. Надутов, В. А. Татаренко, Металлофиз. новейшие технол., 38, № 1: 1 (2016).",
+				"tr":  "O. M. Ivasishin, E. G. Len, V. M. Nadutov, and V. A. Tatarenko, Metallofiz. Noveishie Tekhnol., 38, No. 1: 1 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/ufm.11.01.095",
+				"or":  "І. Ю. Сагалянов, Ю. І. Прилуцький, Т. М. Радченко, В. А. Татаренко, Успехи физ. мет., 11, № 1: 95 (2010).",
+				"tr":  "I. Yu. Sagalyanov, Yu. I. Prylutskyy, T. M. Radchenko, and V. A. Tatarenko, Usp. Fiz. Met., 11, No. 1: 95 (2010) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/ufm.09.01.001",
+				"or":  "Т. М. Радченко, В. А. Татаренко, Успехи физ. мет., 9, № 1: 1 (2008).",
+				"tr":  "T. M. Radchenko and V. A. Tatarenko, Usp. Fiz. Met., 9, No. 1: 1 (2008) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Куневич, А. В. Подольский, И. Н. Сидоров, Ферриты. Энциклопедический справочник. Магниты и магнитные системы (Санкт-Петербург: Лик: 2004).",
+				"tr":  "A. B. Kunevich, A. B. Podolskiy, and I. N. Sidorov, Ferrity. Entsiklopedicheskiy Spravochnik. Magnity i Magnitnye Sistemy [Ferrites. Encyclopaedic Reference Book] (St. Petersburg: Lik: 2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Бугаев, Б. П. Захарченя, Ф. А. Чудновский, Фазовый переход металл–полупроводник и его применение (Ленинград: Наука: 1979).",
+				"tr":  "A. V. Bugaev, B. P. Zakharchenya, and F. A. Chudnovskiy, Fazovyy Perekhod Metall–Poluprovodnik i Ego Primenenie [Phase Transition Metal–Semiconductor and Its Application] (Leningrad: Nauka: 1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Биогенный магнетит и магниторецепция. Новое о биомагнетизме (Ред. Дж. Киршвинк, Д. Джонс, Б. Мак-Фадден) (Москва: Мир: 1989).",
+				"tr":  "Magnetite Biomineralization and Magnetoreception in Organisms: A New Biomagnetism (Eds. J. L. Kirschvink, D. S. Jones, and B. J. MacFadden) (Springer Science & Business Media: 2013)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Д. Глинчук, А. В. Рагуля, Наноферроики (Киев: Наукова думка: 2010).",
+				"tr":  "M. D. Glinchuk and A. V. Ragulya, Nanoferroiki [Nanoferroics] (Kiev: Naukova Dumka: 2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Губин, Ю. А. Кокшаров, Г. Б. Хомутов, Г. Ю. Юрков, Успехи химии, 74, № 4: 539 (2005).",
+				"tr":  "S. P. Gubin, Yu. A. Koksharov, G. B. Khomutov, and G. Yu. Yurkov, Uspekhi Khimii, 74, No. 4: 539 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Физико-химия наноматериалов и супрамолекулярных структур (Ред. А. П. Шпак, П. П. Горбик) (Киев: Наукова думка: 2007).",
+				"tr":  "Fiziko-Khimiya Nanomaterialov i Supramolekulyarnykh Struktur [Physics and Chemistry of Nanomaterials and Supramolecular Structures] (Eds. A. P. Shpak and P. P. Gorbyk) (Kyiv: Naukova Dumka: 2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Nanomaterials and Supramolecular Structures. Physics Chemistry, and Applications (Eds. A. P. Shpak and P. P. Gorbyk) (Springer: 2009), p. 63.",
+				"tr":  "Nanomaterials and Supramolecular Structures. Physics, Chemistry, and Applications (Eds. A. P. Shpak and P. P. Gorbyk) (Springer: 2009), p. 63."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, В. В. Туров, Наноматериалы и нанокомпозиты в медицине, биологии, экологии (Ред. А. П. Шпак, В. Ф. Чехун) (Киев: Наукова думка: 2011).",
+				"tr":  "P. P. Gorbyk and V. V. Turov, Nanomaterialy i Nanokompozity v Meditsine, Biologii, Ekologii [Nanomaterials and Nanocomposites in Medicine, Biology, Ecology] (Eds. A. P. Shpak and V. F. Chekhun) (Kyiv: Naukova Dumka: 2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. В. Уварова, П. П. Горбик, С. В. Горобець, О. А. Іващенко, Н. В. Ульянченко, Наноматеріали медичного призначення (Ред. В. В. Скороход) (Київ: Наукова думка: 2014).",
+				"tr":  "I. V. Uvarova, P. P. Gorbyk, S. V. Gorobets, O. A. Ivaschenko, and N. V. Ulyanchenko, Nanomaterialy Medychnogo Pryznachennya [Nanomaterials of Medical Destination] (Ed. V. V. Skorokhod) (Kyiv: Naukova Dumka: 2014) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, Наносистеми, наноматеріали, нанотехнології, 11, № 2: 323 (2013).",
+				"tr":  "P. P. Gorbyk, Nanosistemi, Nanomateriali, Nanotehnologii, 11, No. 2: 323 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "P. P. Gorbyk, L. B. Lerman, A. L. Petranovska, and S. P. Turanska, Advances in Semiconductor Research: Physics of Nanosystems, Spintronics and Technological Applications (New York: Nova Science Publishers: 2014), Ch. 9, pp. 161–198.",
+				"tr":  "P. P. Gorbyk, L. B. Lerman, A. L. Petranovska, and S. P. Turanska, Advances in Semiconductor Research: Physics of Nanosystems, Spintronics and Technological Applications (New York: Nova Science Publishers: 2014), Ch. 9, pp. 161–198."
+			},
+			{
+				"doi": "",
+				"or":  "P. P. Gorbyk, L. B. Lerman, A. L. Petranovska, S. P. Turanska, and Ie. V. Pylypchuk, Fabrication and Self-Assembly of Nanobiomaterials, Applications of Nanobiomaterials (Ed. A. Grumezescu) (Elsevier: 2016), р. 499.",
+				"tr":  "P. P. Gorbyk, L. B. Lerman, A. L. Petranovska, S. P. Turanska, and Ie. V. Pylypchuk, Fabrication and Self-Assembly of Nanobiomaterials, Applications of Nanobiomaterials (Ed. A. Grumezescu) (Elsevier: 2016)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Н. Махно, П. П. Горбик, Поверхность, № 2 (17): 14 (2010).",
+				"tr":  "S. N. Makhno and P. P. Gorbyk, Poverkhnost', No. 2 (17): 14 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. В. Борисенко, И. В. Дубровин, Н. В. Абрамов, В. М. Богатырев, М. В. Гаевая, П. П. Горбик, Физико-химия наноматериалов и супрамолекулярных структур (Ред. А. П. Шпак, П. П. Горбик) (Киев: Наукова думка: 2007).",
+				"tr":  "N. V. Borisenko, I. V. Dubrovin, N. V. Abramov, V. M. Bogatyrev, M. V. Gayevaya, and P. P. Gorbyk, Fiziko-Khimiya Nanomaterialov i Supramolekulyarnykh Struktur [Physics and Chemistry of Nanomaterials and Supramolecular Structures] (Eds. A. P. Shpak and P. P. Gorbyk) (Kyiv: Naukova Dumka: 2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Туров, С. П. Горбик, Украинский химический журнал, 69, № 6: 80 (2003).",
+				"tr":  "V. V. Turov and S. P. Gorbik, Ukrainskiy Khimicheskiy Zhurnal, 69, No. 6: 80 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Туров, С. П. Горбик, А. А. Чуйко, Проблемы криобиологии, № 3: 16 (2002).",
+				"tr":  "V. V. Turov, S. P. Gorbik, and A. A. Chuiko, Problemy Kriobiologii, No. 3: 16 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Саенко, А. М. Шутов, Е. В. Расторгуева, Цитология, 52, № 5: 407 (2010).",
+				"tr":  "Yu. V. Saenko, A. M. Shutov, and E. V. Rastorgueva, Tsitologiya, 52, No. 5: 407 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Свиридов, Неорганический синтез (Минск: Высшая школа: 1996).",
+				"tr":  "V. V. Sviridov, Neorganicheskiy Sintez [Inorganic Synthesis] (Minsk: Vysshaya Shkola: 1996) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Абрамов, П. П. Горбик, Поверхность, № 4 (19): 246 (2012).",
+				"tr":  "M. V. Abramov and P. P. Gorbyk, Poverkhnost', No. 4 (19): 246 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Розенцвейг, Феррогидродинамика (Москва: Мир: 1989).",
+				"tr":  "R. Rozentsveig, Ferrogidrodinamika [Ferrohydrodynamics] (Moscow: Mir: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Neel, C.R. Acad. Sci., 228, No. 6: 664 (1949).",
+				"tr":  "L. Neel, C.R. Acad. Sci., 228, No. 6: 664 (1949)."
+			},
+			{
+				"doi": "10.3367/UFNr.0112.197403b.0427",
+				"or":  "М. И. Шлиомис, Успехи физ. наук, 112, № 3: 427 (1974).",
+				"tr":  "M. I. Shliomis, Uspekhi Fiz. Nauk, 112, No. 3: 427 (1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Фертман, Магнитные жидкости (Минск: Высшая школа: 1988).",
+				"tr":  "V. E. Fertman, Magnitnye Zhidkosti [Magnetic Fluids] (Minsk: Vysshaya Shkola: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Туранська, А. П. Кусяк, А. Л. Петрановська, С. В. Горобець, В. В. Туров, П. П. Горбик, Хімія, фізика та технологія поверхні, 7, № 2: 236 (2016).",
+				"tr":  "S. P. Turanska, A. P. Kusyak, A. L. Petranovska, S. V. Gorobets, V. V. Turov, and P. P. Gorbyk, Khimiya, Fizyka ta Tekhnologiya Poverkhni, 7, No. 2: 236 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "N. V. Abramov, S. P. Turanska, A. P. Kusyak, A. L. Petranovska, and P. P. Gorbyk, J. Nanostruct. Chem., 6: 223 (2016).",
+				"tr":  "N. V. Abramov, S. P. Turanska, A. P. Kusyak, A. L. Petranovska, and P. P. Gorbyk, J. Nanostruct. Chem., 6: 223 (2016)."
+			},
+			{
+				"doi": "10.1186/s11671-016-1363-3",
+				"or":  "I. V. Pylypchuk, D. Kołodyńska, M. Kozioł, and P. P. Gorbyk, Nanoscale Res. Lett., 11, No. 1: 168 (2016).",
+				"tr":  "I. V. Pylypchuk, D. Kołodyńska, M. Kozioł, and P. P. Gorbyk, Nanoscale Res. Lett., 11, No. 1: 168 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Кусяк, С. П. Туранська, А. Л. Петрановська, П. П. Горбик, Доповіді НАН України, № 12: 90 (2015).",
+				"tr":  "A. P. Kusyak, S. P. Turanska, A. L. Petranovska, and P. P. Gorbyk, Dopovidi NAN Ukrainy, No. 12: 90 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Кусяк, А. Л. Петрановська, C. П. Туранська, П. П. Горбик, Наносистеми, наноматеріали, нанотехнології, 12, № 3: 451 (2014).",
+				"tr":  "A. P. Kusyak, A. L. Petranovska, S. P. Turanska, and P. P. Gorbyk, Nanosistemi, Nanomateriali, Nanotehnologii, 12, No. 3: 451 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Кусяк, А. Л. Петрановська, П. П. Горбик, Поверхность, № 7 (22): 213 (2015).",
+				"tr":  "A. P. Kusyak, A. L. Petranovska, and P. P. Gorbyk, Poverkhnost', No. 7 (22): 213 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Камінський, Н. В. Кусяк, А. Л. Петрановська, М. В. Абрамов, С. П. Туранська, П. П. Горбик, В. Ф. Чехун, Металлофизика и новейшие технологии, 35, № 3: 389 (2013).",
+				"tr":  "O. M. Kaminskiy, N. V. Kusyak, A. L. Petranovska, M. V. Abramov, S. P. Turanska, P. P. Gorbyk, and V. F. Chekhun, Metallofiz. Noveishie Tekhnol., 35, No. 3: 389 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Камінський, Н. В. Кусяк, А. Л. Петрановська, С. П. Туранська, П. П. Горбик, Химия, физика и технология поверхности, 4, № 3: 283 (2013).",
+				"tr":  "O. M. Kaminskiy, N. V. Kusyak, A. L. Petranovska, S. P. Turanska, and P. P. Gorbyk, Khimiya, Fizyka i Tekhnologiya Poverkhni, 4, No. 3: 283 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1080/10587250210606",
+				"or":  "O. Buluy, E. Ouskova, Yu. Reznikov, A. Glushchenko, J. West, and V. Reshetnyak, Molecular Crystals and Liquid Crystals, 375: 81 (2002).",
+				"tr":  "O. Buluy, E. Ouskova, Yu. Reznikov, A. Glushchenko, J. West, and V. Reshetnyak, Molecular Crystals and Liquid Crystals, 375: 81 (2002)."
+			},
+			{
+				"doi": "10.1590/S0103-97332005000400018",
+				"or":  "C. Scherer and A. M. Figueiredo Neto, Brazilian Journal of Physics, 35, No. 3A: 718 (2005).",
+				"tr":  "C. Scherer and A. M. Figueiredo Neto, Brazilian Journal of Physics, 35, No. 3A: 718 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Ч. Пул, Ф. Оуэнс, Нанотехнологии (Москва: Техносфера: 2006).",
+				"tr":  "C. Pul and F. Ouens, Nanotekhnologii [Nanotechnologies] (Moscow: Tekhnosfera: 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, І. В. Дубровін, А. Д. Четиркін, М. В. Абрамов, Поверхность, № 3 (18): 238 (2011).",
+				"tr":  "P. P. Gorbyk, I. V. Dubrovin, A. D. Chetyrkin, and M. V. Abramov, Poverkhnost', No. 3 (18): 238 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1021/cm060805r",
+				"or":  "T. J. Daou, G. Pourroy, S. Begin-Colin, J. M. Grenche, C. Ulhaq-Bouillet, P. Legar, P. Bernhardt, C. Leuvrey, and G. Rogez, Chem. Mater., 18: 4399 (2006).",
+				"tr":  "T. J. Daou, G. Pourroy, S. Begin-Colin, J. M. Grenche, C. Ulhaq-Bouillet, P. Legar, P. Bernhardt, C. Leuvrey, and G. Rogez, Chem. Mater., 18: 4399 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Шольц, К. А. Пискарев, Ферриты для радиочастот (Москва–Ленинград: Энергия: 1966).",
+				"tr":  "N. N. Sholts and K. A. Piskarev, Ferrity dlya Radiochastot [Ferrites for Radiofrequencies] (Moscow–Leningrad: Energiya: 1966) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.jcis.2014.06.003",
+				"or":  "B. Sahoo, K. Sanjana, P. Devi, S. Dutta, T. K. Maiti, P. Pramanik, and D. Dhara, J. Coll. Interface Sci., 431: 31 (2014).",
+				"tr":  "B. Sahoo, K. Sanjana, P. Devi, S. Dutta, T. K. Maiti, P. Pramanik, and D. Dhara, J. Coll. Interface Sci., 431: 31 (2014)."
+			},
+			{
+				"doi": "10.1039/C4DT00162A",
+				"or":  "K. Vamvakidis, M. Katsikini, D. Sakellari, E. C. Paloura, O. Kalogirou, and D. C. Samara, Dalton Transactions, 43 (33): 12754 (2014).",
+				"tr":  "K. Vamvakidis, M. Katsikini, D. Sakellari, E. C. Paloura, O. Kalogirou, and D. C. Samara, Dalton Transactions, 43, No. 33: 12754 (2014)."
+			},
+			{
+				"doi": "10.1038/pj.2011.47",
+				"or":  "S. H. Hosseini, R. Rahimi, and H. Kerdari, Polymer Journal, 43: 745 (2011).",
+				"tr":  "S. H. Hosseini, R. Rahimi, and H. Kerdari, Polymer Journal, 43: 745 (2011)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2003.12.1235",
+				"or":  "D. Rabelo, E. C. D. Lima, N. T. Filho, F. Q. Soares, L. C. Faria, F. Pelegrini, O. Silva, A. C. Oliveira, V. K. Garg, and P. C. Morais, J. Magn. Magn. Mater., 272–276: E1205 (2004).",
+				"tr":  "D. Rabelo, E. C. D. Lima, N. T. Filho, F. Q. Soares, L. C. Faria, F. Pelegrini, O. Silva, A. C. Oliveira, V. K. Garg, and P. C. Morais, J. Magn. Magn. Mater., 272–276: E1205 (2004)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2006.10.1179",
+				"or":  "P. Pradhan, J. Giri, R. Banerjee, J. Bellare, and D. Bahadur, J. Magn. Magn. Mater., 311, No. 1: 208 (2007).",
+				"tr":  "P. Pradhan, J. Giri, R. Banerjee, J. Bellare, and D. Bahadur, J. Magn. Magn. Mater., 311, No. 1: 208 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Крупичка, Физика ферритов (Москва: Мир: 1976).",
+				"tr":  "S. Krupichka, Fizika Ferritov [Physics of Ferrites] (Moscow: Mir: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. Смит, Х. Вейн, Ферриты (Москва: ИЛ: 1962).",
+				"tr":  "Y. Smit and C. Vein, Ferrity [Ferrites] (Moscow: IL: 1962) (Russian translation)."
+			},
+			{
+				"doi": "10.1039/b922646j",
+				"or":  "D. Carta, M. F. Casula, P. Floris, A. Falqui, G. Mountjoy, A. Boni, C. Sangregorio, and A. Corrias, Phys. Chem. Chem. Phys., 12: 5074 (2010).",
+				"tr":  "D. Carta, M. F. Casula, P. Floris, A. Falqui, G. Mountjoy, A. Boni, C. Sangregorio, and A. Corrias, Phys. Chem. Chem. Phys., 12: 5074 (2010)."
+			},
+			{
+				"doi": "10.1103/PhysRev.104.328",
+				"or":  "J. M. Hastings and L. M. Corliss, Phys. Rev., 104, No. 2: 328 (1956).",
+				"tr":  "J. M. Hastings and L. M. Corliss, Phys. Rev., 104, No. 2: 328 (1956)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Zipare, J. Dhumal, S. Bandgar, V. Mathe, and G. Shahane, J. Nanosci. Nanoeng., 1, No. 3: 178 (2015).",
+				"tr":  "K. Zipare, J. Dhumal, S. Bandgar, V. Mathe, and G. Shahane, J. Nanosci. Nanoeng., 1, No. 3: 178 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, І. В. Дубровін, М. В. Абрамов, Поверхность, № 7 (22): 186 (2015).",
+				"tr":  "P. P. Gorbyk, I. V. Dubrovin, and M. V. Abramov, Poverkhnost', No. 7 (22): 186 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Математическая статистика (Ред. А. М. Длин) (Москва: Высшая школа: 1975).",
+				"tr":  "Matematicheskaya Statistika [Mathematical Statistics] (Ed. A. M. Dlin) (Moscow: Vysshaya Shkola: 1975) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.1723142",
+				"or":  "A. H. Eschenfelder, J. Appl. Phys., 29: 378 (1958).",
+				"tr":  "A. H. Eschenfelder, J. Appl. Phys., 29: 378 (1958)."
+			},
+			{
+				"doi": "10.1103/PhysRev.106.865",
+				"or":  "F. W. Harrison, W. P. Osmond, and R.W. Teale, Phys. Rev., 106, No. 5: 865 (1957).",
+				"tr":  "F. W. Harrison, W. P. Osmond, and R. W. Teale, Phys. Rev., 106, No. 5: 865 (1957)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Brož, S. Krupička, and K. Závěta, Cechoslovackij Fiziceskij Zurnal, 9, No. 4: 481 (1959).",
+				"tr":  "J. Brož, S. Krupička, and K. Závěta, Cechoslovackij Fiziceskij Zurnal, 9, No. 4: 481 (1959)."
+			},
+			{
+				"doi": "",
+				"or":  "Таблицы физических величин. Справочник (Ред. И. К. Кикоин) (Mосква: Атомиздат: 1976).",
+				"tr":  "Tablitsy Fizicheskikh Velichin. Spravochnik [Tables of Physical Values. Reference Book] (Ed. I. K. Kikoin) (Moscow: Atomizdat: 1976) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0025-5408(01)00620-1",
+				"or":  "Dong-Hwang Chen and Xin-Rong He, Materials Research Bulletin, 36: 1369 (2001).",
+				"tr":  "Dong-Hwang Chen, and Xin-Rong He, Materials Research Bulletin, 36: 1369 (2001)."
+			},
+			{
+				"doi": "10.1063/1.1452705",
+				"or":  "S. Son, M. Taheri, E. Carpenter, V. G. Harris, and M. E. McHenry, J. Appl. Phys., 91, No. 10: 7589 (2002).",
+				"tr":  "S. Son, M. Taheri, E. Carpenter, V. G. Harris, and M. E. McHenry, J. Appl. Phys., 91, No. 10: 7589 (2002)."
+			},
+			{
+				"doi": "10.1088/0953-8984/16/24/017",
+				"or":  "S. Chkoundali, S. Ammar, N. Jouini, F. Fiévet, P. Molinié, M. Danot, F. Villain, and J.-M. Grenèche, J. Phys.: Condens. Matter, 16: 4357 (2004).",
+				"tr":  "S. Chkoundali, S. Ammar, N. Jouini, F. Fiévet, P. Molinié, M. Danot, F. Villain, and J.-M. Grenèche, J. Phys.: Condens. Matter, 16: 4357 (2004)."
+			},
+			{
+				"doi": "10.1098/rsta.1948.0007",
+				"or":  "E. C. Stoner and E. P. Wohlfarth, Phil. Trans. Roy. Soc., A240: 599 (1948).",
+				"tr":  "E. C. Stoner and E. P. Wohlfarth, Phil. Trans. Roy. Soc., A240: 599 (1948)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, І. В. Дубровін, М. В. Абрамов, Поверхность, № 4 (19): 232 (2012).",
+				"tr":  "P. P. Gorbyk, I. V. Dubrovin, and M. V. Abramov, Poverkhnost', No. 4 (19): 232 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Дей, Д. Селбин, Теоретическая неорганическая химия (Ред. К. В. Астахов) (Москва: Химия: 1976).",
+				"tr":  "M Clyde Day and Joel Selbin, Theoretical Inorganic Chemistry (New York: Reinhold: 1962)."
+			},
+			{
+				"doi": "10.1017/CBO9780511600296",
+				"or":  "R. Valenzuela, Magnetic Ceramics (Cambridge: Cambridge University Press: 1994).",
+				"tr":  "R. Valenzuela, Magnetic Ceramics (Cambridge: Cambridge University Press: 1994)."
+			},
+			{
+				"doi": "10.1039/b003193n",
+				"or":  "S. Ammar, A. Helfen, N. Jouini, F. Fíevet, I. Rosenman, F. Villain, Ph. Moliníe, and M. Danot, J. Mater. Chem., 11: 186 (2001).",
+				"tr":  "S. Ammar, A. Helfen, N. Jouini, F. Fíevet, I. Rosenman, F. Villain, Ph. Moliníe, and M. Danot, J. Mater. Chem., 11: 186 (2001)."
+			},
+			{
+				"doi": "10.1590/S1516-14392006000300003",
+				"or":  "A. Teixeira, T. Ogasawara, and M. C. S. Nóbrega, Mater. Res., 9: 527 (2006).",
+				"tr":  "A. Teixeira, T. Ogasawara, and M. C. S. Nóbrega, Mater. Res., 9: 527 (2006)."
+			},
+			{
+				"doi": "10.1016/j.matchemphys.2010.07.058",
+				"or":  "Q. Li, C. Bo, and W. Wang, Mater. Chem. Phys., 124: 891 (2010).",
+				"tr":  "Q. Li, C. Bo, and W. Wang, Mater. Chem. Phys., 124: 891 (2010)."
+			},
+			{
+				"doi": "10.1016/j.mseb.2013.06.012",
+				"or":  "H. Liu, Y. Guo, Y. Zhang, F. Wu, Y. Liu, and D. Zhang, Mater. Sci. Eng. B, 178: 1057 (2013).",
+				"tr":  "H. Liu, Y. Guo, Y. Zhang, F. Wu, Y. Liu, and D. Zhang, Mater. Sci. Eng. B, 178: 1057 (2013)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2013.09.025",
+				"or":  "C. B. R. Jesus, E. C. Mendonça, L. S. Silva, W. S. D. Folly, C. T. Meneses, and J. G. S. Duque, J. Magn. Magn. Mater., 350: 47 (2014).",
+				"tr":  "C. B. R. Jesus, E. C. Mendonça, L. S. Silva, W. S. D. Folly, C. T. Meneses, and J. G. S. Duque, J. Magn. Magn. Mater., 350: 47 (2014)."
+			},
+			{
+				"doi": "10.1016/j.ceramint.2014.03.041",
+				"or":  "J. Y. Patil, D. Y. Nadargi, J. L. Gurav, I. S. Mulla, and S. S. Suryavanshi, Ceram. Int., 40: 10607 (2014).",
+				"tr":  "J. Y. Patil, D. Y. Nadargi, J. L. Gurav, I. S. Mulla, and S. S. Suryavanshi, Ceram. Int., 40: 10607 (2014)."
+			},
+			{
+				"doi": "10.1590/S1516-14392004000400003",
+				"or":  "A. Costa, E. Tortella, E. F. Neto, M. R. Morelli, and R. Kiminami, Mater. Res., 7: 523 (2004).",
+				"tr":  "A. Costa, E. Tortella, E. F. Neto, M. R. Morelli, and R. Kiminami, Mater. Res., 7: 523 (2004)."
+			},
+			{
+				"doi": "10.1590/S1516-14392013005000031",
+				"or":  "J. Dantas, J. R. D. Santos, R. B. L. Cunha, and R. Kiminami, Mater. Res., 16: 625 (2013).",
+				"tr":  "J. Dantas, J. R. D. Santos, R. B. L. Cunha, and R. Kiminami, Mater. Res., 16: 625 (2013)."
+			},
+			{
+				"doi": "10.1016/j.jece.2013.11.031",
+				"or":  "L. Han, X. Zhou, L. Wan, Y. Deng, and S. Zhan, J. Environ. Chem. Eng., 2: 123 (2014).",
+				"tr":  "L. Han, X. Zhou, L. Wan, Y. Deng, and S. Zhan, J. Environ. Chem. Eng., 2: 123 (2014)."
+			},
+			{
+				"doi": "10.1016/j.jssc.2011.04.034",
+				"or":  "V. Blanco-Gutierrez, E. Climent-Pascua, M. J. Torralvo-Fernandez, R. Saez-Puche, and M. T. Fernandez-Diaz, J. Solid State Chem., 184: 1608 (2011).",
+				"tr":  "V. Blanco-Gutierrez, E. Climent-Pascua, M. J. Torralvo-Fernandez, R. Saez-Puche, and M. T. Fernandez-Diaz, J. Solid State Chem., 184: 1608 (2011)."
+			},
+			{
+				"doi": "10.1590/S1516-14392012005000135",
+				"or":  "A. Banerjee, S. Bid, H. Dutta, S. Chaudhuri, D. Das, and S. K. Pradhan, Mater. Res., 15: 1022 (2012).",
+				"tr":  "A. Banerjee, S. Bid, H. Dutta, S. Chaudhuri, D. Das, and S. K. Pradhan, Mater. Res., 15: 1022 (2012)."
+			},
+			{
+				"doi": "10.1016/S0167-2738(01)00770-6",
+				"or":  "I. Mohai, J. Szépvölgyi, I. Bertóti, M. Mohai, J. Gubicza, and T. Ungár, Solid State Ionics., 141–142: 163 (2001).",
+				"tr":  "I. Mohai, J. Szépvölgyi, I. Bertóti, M. Mohai, J. Gubicza, and T. Ungár, Solid State Ionics., 141–142: 163 (2001)."
+			},
+			{
+				"doi": "10.1016/j.ceramint.2012.09.076",
+				"or":  "Y. Cao, D. Jia, P. Hu, and R. Wang, Ceram. Int., 39: 2989 (2013).",
+				"tr":  "Y. Cao, D. Jia, P. Hu, and R. Wang, Ceram. Int., 39: 2989 (2013)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2013.09.013",
+				"or":  "A. Manikandan, L. J. Kennedy, M. Bououdina, and J. J. Vijaya, J. Magn. Magn. Mater., 349: 249 (2014).",
+				"tr":  "A. Manikandan, L. J. Kennedy, M. Bououdina, and J. J. Vijaya, J. Magn. Magn. Mater., 349: 249 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Р. Лобаз, Синтез і реакції полімер-мінеральних магнітних частинок Fe3O4 та Zn з олігопероксидною оболонкою (Автореф. дис. канд. хім. наук) (Львів: Національний ун-т «Львівська політехніка»: 2006).",
+				"tr":  "V. R. Lobaz, Syntez i Reaktsii Polimer-Mineralnykh Magnitnykh Chastynok Fe3O4 ta Zn z Oligoperoksydnoyu Obolonkoyu [Synthesis and Reactions of Fe3O4 and Zn Polymer–Mineral Particles with Oligoperoxide Shell] (Thesis of Disser. for Cand. Chem. Sci.) (Lviv: National University 'Lvivska Politekhnika': 2006) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1007/s00269-007-0177-3",
+				"or":  "G. D. Gatta, I. Kantor, T. B. Ballaran, L. Dubrovinsky, and C. McCammon, Phys. Chem. Miner., 34: 627 (2007).",
+				"tr":  "G. D. Gatta, I. Kantor, T. B. Ballaran, L. Dubrovinsky, and C. McCammon, Phys. Chem. Miner., 34: 627 (2007)."
+			},
+			{
+				"doi": "10.1007/s002690000117",
+				"or":  "D. Levy, A. Pavese, and M. Hanfland, Phys. Chem. Miner., 27: 638 (2000).",
+				"tr":  "D. Levy, A. Pavese, and M. Hanfland, Phys. Chem. Miner., 27: 638 (2000)."
+			}
+		]
+	}
+}

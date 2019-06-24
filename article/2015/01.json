@@ -1,0 +1,63 @@
+{
+	"year":   2015,
+	"volume": 16,
+	"issue":  1,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [1,22],
+			"title": {
+				"ua": "Термопружня поведінка, гістереза і дисипативні сили в термодинаміці мартенситних перетворень",
+				"en": "Thermoelastic Behaviour, Hysteresis, and Dissipative Forces in Thermodynamics of Martensitic Transformations",
+				"ru": "Термоупругое поведение, гистерезис и диссипативные силы в термодинамике мартенситных превращений"
+			},
+			"autors": {
+				"ua": "О. А. Ліхачов, Ю. М. Коваль",
+				"en": "O. A. Likhachev and Yu. M. Koval",
+				"ru": "А. А. Лихачёв, Ю. Н. Коваль"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [23,34],
+			"title": {
+				"ua": "Гістерезні явища та їх моделювання в термодинаміці мартенситних перетворень",
+				"en": "Hysteresis Phenomena and Their Modelling in Martensitic Transformation Thermodynamics",
+				"ru": "Гистерезисные явления и их моделирование в термодинамике мартенситных превращений"
+			},
+			"autors": {
+				"ua": "О. А. Ліхачов, Ю. М. Коваль",
+				"en": "O. A. Likhachev and Yu. M. Koval",
+				"ru": "А. А. Лихачёв, Ю. Н. Коваль"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [35,60],
+			"title": {
+				"ua": "Макроскопічна фізика пластичної деформації металів",
+				"en": "Macroscopic Physics of Plastic Deformation of Metals",
+				"ru": "Макроскопическая физика пластической деформации металлов"
+			},
+			"autors": {
+				"ua": "Л. Б. Зуєв",
+				"en": "L. B. Zuev",
+				"ru": "Л. Б. Зуев"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [61,84],
+			"title": {
+				"ua": "Вплив різних видів деформації на фізико-механічні властивості ГЩП- та ГЦК-металів і стопів",
+				"en": "Influence of Different Types of Deformation on the Physical and Mechanical Properties of H.C.P. and F.C.C. Metals and Alloys",
+				"ru": "Влияние различных видов деформации на физико-механические свойства ГПУ- и ГЦК-металлов и сплавов"
+			},
+			"autors": {
+				"ua": "В. В. Каліновський, М. Б. Лазарєва, Д. Г. Малихін, О. В. Мац, В. С. Оковит, В. І. Соколенко, Л. О. Чіркіна",
+				"en": "V. V. Kalinovskyy, M. B. Lazareva, D. G. Malykhin, O. V. Mats, V. S. Okovit, V. I. Sokolenko, and L. O. Chirkina",
+				"ru": "В. В. Калиновский, М. Б. Лазарева, Д. Г. Малыхин, А. В. Мац, В. С. Оковит, В. И. Соколенко, Л. А. Чиркина"
+			}
+		}
+	]
+}

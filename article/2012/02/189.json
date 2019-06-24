@@ -1,0 +1,248 @@
+{
+	"_id":    "UFM.13.02.189",
+	"year":   2012,
+	"volume": 13,
+	"issue":  2,
+	"pages":  [189,223],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["15.03.2012"],
+	"PACS":   "63.20.K-, 71.15.Ap, 71.20.Tx, 71.27.+a, 72.10.-d, 72.25.-b, 73.63.Fg",
+	"title":   {
+		"ua": "Самоузгоджений модель теорії сильного зв’язку електронних кореляцій у невпорядкованих кристалах",
+		"en": "Self-Consistent Model of Strong Coupling Theory of Electron Correlations in Disordered Crystals",
+		"ru": "Самосогласованная модель теории сильной связи электронных корреляций в неупорядоченных кристаллах"
+	},
+	"abstract": {
+		"ua": "Розвинено методу опису електронних кореляцій у невпорядкованих кристалах, що базується на Гамільтоніяні багаточастинкової системи та діяграмній техніці для розрахунку Ґрінових функцій. Електронні стани системи описано в рамках самоузгодженого багатозонного моделю сильного зв’язку. Враховано процеси розсіяння електронів на потенціялах йонних кістяків різного сорту та коливаннях кристалічної ґратниці. Запропоновано послідовну методу врахування далекосяжної Кульонової взаємодії електронів на різних вузлах ґратниці. Одержано кластерне розвинення для густини станів, вільної енергії та електропровідности невпорядкованої системи. Показано, що внески процесів розсіяння елементарних збуджень на кластерах зменшуються зі збільшенням числа вузлів у кластері за деяким малим параметром. Точність розрахунку визначається точністю перенормування вершинних частин масових операторів електрон-електронної і електрон-фононної взаємодій та малим параметром кластерного розвинення. З’ясовано природу спін-залежного електронного транспорту вуглецевих нанорурок з атомами хрому, адсорбованими на поверхні. Показано, що величина спін-залежного транспорту пов’язана з відносним зсувом у зовнішньому магнетному полі енергетичних рівнів електронів (Кульоновими щілинами, що виникають в області рівня Фермі) для різних проєкцій спіну.",
+		"en": "The method of the description of electron correlations in the disordered crystals based on a Hamiltonian of many-particle system as well as the diagram technique for calculation of Green’s functions are developed. Electron states of system are featured within the scope of the self-consistent tight-binding multiband model. Processes of scattering of electrons on potentials of the ion cores of different kinds and oscillations of a crystal lattice are considered. The consecutive method for the account of the long-range Coulomb interaction of electrons at different sites of a lattice is offered. The cluster expansion for a density of states, a free energy and an electrical conductivity of the disordered system is obtained. As shown, the contributions of processes of scattering of elementary excitations on clusters decrease with increasing number of sites in a cluster according to some small parameter. Precision of calculation is defined by accuracy of a renormalization of vertex parts of mass operators of electron–electron and electron–phonon interactions as well as by small parameter of the cluster expansion. The nature of spin-dependent electron transport in carbon nanotubes with chromium atoms adsorbed on a surface is found out. As shown, the quantity of spin-dependent transport is related to the relative offset of energy levels of electrons (i.e. to the Coulomb gaps arising in a vicinity of the Fermi level) for different projections of a spin in an external magnetic field.",
+		"ru": "Развит метод описания электронных корреляций в неупорядоченных кристаллах, основанный на гамильтониане многочастичной системы и диаграммной технике для расчёта функций Грина. Электронные состояния системы описаны в рамках самосогласованной многозонной модели сильной связи. Учтены процессы рассеяния электронов на потенциалах ионных остовов разного сорта и колебаниях кристаллической решётки. Предложен последовательный метод учёта дальнодействующего кулоновского взаимодействия электронов на разных узлах решётки. Получено кластерное разложение для плотности состояний, свободной энергии и электропроводности неупорядоченной системы. Показано, что вклады процессов рассеяния элементарных возбуждений на кластерах уменьшаются с увеличением числа узлов в кластере в соответствии с некоторым малым параметром. Точность расчёта определяется точностью перенормировки вершинных частей массовых операторов электрон-электронного и электрон-фононного взаимодействий и малым параметром кластерного разложения. Выяснена природа спин-зависимого электронного транспорта углеродных нанотрубок с атомами хрома, адсорбированными на поверхности. Показано, что величина спин-зависимого транспорта связана с относительным сдвигом во внешнем магнитном поле энергетических уровней электронов (кулоновскими щелями, возникающими в области уровня Ферми) для разных проекций спина."
+	},
+	"keywords": {
+		"ua": "модель самоузгодженого сильного зв'язку, електронні кореляції, доповані атомами Cr вуглецеві нанорурки, енергетичний спектер електронів і фононів, електропровідність, спінова поляризація електричного струму",
+		"en": "self-consistent tight-binding model, electron correlations, carbon nanotubes doped with Cr atoms, energy spectrum of electrons and phonons, electroconductivity, spin polarization of electric current",
+		"ru": "модель самосогласованной сильной связи, электронные корреляции, допированные атомами Cr углеродные нанотрубки, энергетический спектр электронов и фононов, электропроводность, спиновая поляризация электрического тока"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. П. Репецький", "en": "S. P. Repetsky", "ru": "С. П. Репецкий"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "О. В. Третяк", "en": "O. V. Tretyak", "ru": "О. В. Третяк"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "І. Г. Вишива­на", "en": "I. G. Vyshivanaya", "ru": "И. Г. Вышиванная"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "В. В. Шастун", "en": "V. V. Shastun", "ru": "В. В. Шастун"},
+			"OID": [201]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.1134/S0031918X15040146",
+				"cit": "S. P. Repetskii, I. G. Vyshivanaya, V. A. Skotnikov and A. A. Yatsenyuk, <a href=\"https://doi.org/10.1134/S0031918X15040146\">Phys. Metals Metallogr. <b>116</b>, 336 (2015)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 38,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "W. A. Harrison, Pseudopotentials in the Theory of Metals (New York: Benjamin: 1966).",
+				"tr":  "W. A. Harrison, Pseudopotentials in the Theory of Metals (New York: Benjamin: 1966)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.41.7892",
+				"or":  "D. Vanderbilt, Phys. Rev. B, 41, No. 11: 7892 (1985).",
+				"tr":  "D. Vanderbilt, Phys. Rev. B, 41, No. 11: 7892 (1985)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.43.6796",
+				"or":  "K. Laasonen, R. Car, C. Lee, and D. Vanderbilt, Phys. Rev. B, 43, No. 8: 6796 (1991).",
+				"tr":  "K. Laasonen, R. Car, C. Lee, and D. Vanderbilt, Phys. Rev. B, 43, No. 8: 6796 (1991)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.50.17953",
+				"or":  "P. E. Blochl, Phys. Rev. B, 50, No. 24: 17953 (1994).",
+				"tr":  "P. E. Blochl, Phys. Rev. B, 50, No. 24: 17953 (1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.59.1758",
+				"or":  "G. Kresse and D. Joubert, Phys. Rev. B, 59, No. 3: 1758 (1999).",
+				"tr":  "G. Kresse and D. Joubert, Phys. Rev. B, 59, No. 3: 1758 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.77.3865",
+				"or":  "J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett., 77, No. 18: 3865 (1996).",
+				"tr":  "J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett., 77, No. 18: 3865 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.91.146401",
+				"or":  "J. Tao, J. P. Perdew, V. N. Staroverov, and G. E. Scuseria, Phys. Rev. Lett., 91, No. 14: 146401 (2003).",
+				"tr":  "J. Tao, J. P. Perdew, V. N. Staroverov, and G. E. Scuseria, Phys. Rev. Lett., 91, No. 14: 146401 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.82.2544",
+				"or":  "J. P. Perdew, S. Kurth, A. Zupan, and P. Blaha, Phys. Rev. Lett., 82, No. 12: 2544 (1999).",
+				"tr":  "J. P. Perdew, S. Kurth, A. Zupan, and P. Blaha, Phys. Rev. Lett., 82, No. 12: 2544 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "J. P. Perdew, A. Ruzsinszky, G. I. Csonka, L. A. Constantin, and J. Sun, Phys. Rev. Lett., 103, No. 2: 026403 (2009); ibidem, 106, No. 17: 179902 (2011).",
+				"tr":  "J. P. Perdew, A. Ruzsinszky, G. I. Csonka, L. A. Constantin, and J. Sun, Phys. Rev. Lett., 103, No. 2: 026403 (2009); ibidem, 106, No. 17: 179902 (2011)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.84.035117",
+				"or":  "J. Sun, M. Marsman, G. I. Csonka, A. Ruzsinszky, P. Hao, Y.-S. Kim, G. Kresse, and J. P. Perdew, Phys. Rev. B, 84, No. 3: 035117 (2011).",
+				"tr":  "J. Sun, M. Marsman, G. I. Csonka, A. Ruzsinszky, P. Hao, Y.-S. Kim, G. Kresse, and J. P. Perdew, Phys. Rev. B, 84, No. 3: 035117 (2011)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.75.075410",
+				"or":  "V. V. Ivanovskaya, C. Köhler, and G. Seifert, Phys. Rev., 75, No. 7: 075410 (2007).",
+				"tr":  "V. V. Ivanovskaya, C. Köhler, and G. Seifert, Phys. Rev., 75, No. 7: 075410 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.51.12947",
+				"or":  "D. Porezag, T. Frauenheim, T. Köhler, G. Seifert, and R. Kascher, Phys. Rev. B, 51, No. 19: 12947 (1995).",
+				"tr":  "D. Porezag, T. Frauenheim, T. Köhler, G. Seifert, and R. Kascher, Phys. Rev. B, 51, No. 19: 12947 (1995)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.58.7260",
+				"or":  "M. Elstner, D. Porezag, G. Jungnickel, J. Elsner, M. Haugk, Th. Frauenheim, S. Suhai, and G. Seifert, Phys. Rev. B, 58, No. 11: 7260 (1998).",
+				"tr":  "M. Elstner, D. Porezag, G. Jungnickel, J. Elsner, M. Haugk, Th. Frauenheim, S. Suhai, and G. Seifert, Phys. Rev. B, 58, No. 11: 7260 (1998)."
+			},
+			{
+				"doi": "10.1039/b105782k",
+				"or":  "C. Köhler, G. Seifert, U. Gerstmann, M. Elstner, H. Overhof, and Th. Frauenheim, Phys. Chem. Chem. Phys., 3, No. 23: 5109 (2001).",
+				"tr":  "C. Köhler, G. Seifert, U. Gerstmann, M. Elstner, H. Overhof, and Th. Frauenheim, Phys. Chem. Chem. Phys., 3, No. 23: 5109 (2001)."
+			},
+			{
+				"doi": "10.1016/j.ssc.2004.02.002",
+				"or":  "V. V. Ivanovskaya and G. Seifert, Solid State Commun., 130, No. 3–4: 175 (2004).",
+				"tr":  "V. V. Ivanovskaya and G. Seifert, Solid State Commun., 130, No. 3–4: 175 (2004)."
+			},
+			{
+				"doi": "10.1002/pssb.200541506",
+				"or":  "V. V. Ivanovskaya, T. Heine, S. Gemming, and G. Seifert, phys. status solidi (b), 243, No. 8: 1757 (2006).",
+				"tr":  "V. V. Ivanovskaya, T. Heine, S. Gemming, and G. Seifert, phys. status solidi (b), 243, No. 8: 1757 (2006)."
+			},
+			{
+				"doi": "10.1039/B604737H",
+				"or":  "A. Enyaschin, S. Gemming, T. Heine, G. Seifert, and L. Zhechkov, Phys. Chem. Chem. Phys., 8, No. 28: 3320 (2006).",
+				"tr":  "A. Enyaschin, S. Gemming, T. Heine, G. Seifert, and L. Zhechkov, Phys. Chem. Chem. Phys., 8, No. 28: 3320 (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRev.94.1498",
+				"or":  "J. C. Slater and G. F. Koster, Phys. Rev., 94, No. 6: 1498 (1954).",
+				"tr":  "J. C. Slater and G. F. Koster, Phys. Rev., 94, No. 6: 1498 (1954)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.19.2813",
+				"or":  "R. R. Sharma, Phys. Rev. B, 19, No. 6: 2813 (1979).",
+				"tr":  "R. R. Sharma, Phys. Rev. B, 19, No. 6: 2813 (1979)."
+			},
+			{
+				"doi": "10.1088/0022-3727/31/19/003",
+				"or":  "J. B. Staunton, S. S. A. Razee, M. F. Ling, D. D. Johnson, and F. J. Pinski, J. Phys. D: Appl. Phys., 31, No. 19: 2355 (1998).",
+				"tr":  "J. B. Staunton, S. S. A. Razee, M. F. Ling, D. D. Johnson, and F. J. Pinski, J. Phys. D: Appl. Phys., 31, No. 19: 2355 (1998)."
+			},
+			{
+				"doi": "10.1088/0953-8984/13/38/303",
+				"or":  "S. S. A. Razee, J. B. Staunton, B. Ginatempo, E. Bruno, and F. J. Pinski, J. Phys.: Condens. Matter, 13, No. 38: 8565 (2001).",
+				"tr":  "S. S. A. Razee, J. B. Staunton, B. Ginatempo, E. Bruno, and F. J. Pinski, J. Phys.: Condens. Matter, 13, No. 38: 8565 (2001)."
+			},
+			{
+				"doi": "10.1103/PhysRev.140.A1133",
+				"or":  "W. Kohn and L. J. Sham, Phys. Rev., 140, No. 4A: 1133 (1965).",
+				"tr":  "W. Kohn and L. J. Sham, Phys. Rev., 140, No. 4A: 1133 (1965)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.61.689",
+				"or":  "R. O. Jones and O. Gunnarsson, Rev. Mod. Phys., 61, No. 3: 689 (1989).",
+				"tr":  "R. O. Jones and O. Gunnarsson, Rev. Mod. Phys., 61, No. 3: 689 (1989)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.41.339",
+				"or":  "G. M. Stocks, W. M. Temmerman, and B. L. Gyorffy, Phys. Rev. Lett., 41, No. 5: 339 (1978).",
+				"tr":  "G. M. Stocks, W. M. Temmerman, and B. L. Gyorffy, Phys. Rev. Lett., 41, No. 5: 339 (1978)."
+			},
+			{
+				"doi": "10.1007/BF01312713",
+				"or":  "G. M. Stocks, and H. Winter, Z. Phys. B, 46: 95 (1982).",
+				"tr":  "G. M. Stocks, and H. Winter, Z. Phys. B, 46: 95 (1982)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.41.9701",
+				"or":  "D. D. Johnson, D. M. Nicholson, F. J. Pinski, B. L. Gyorffy, and G. M. Stocks, Phys. Rev. B, 41, No. 14: 9701 (1990).",
+				"tr":  "D. D. Johnson, D. M. Nicholson, F. J. Pinski, B. L. Gyorffy, and G. M. Stocks, Phys. Rev. B, 41, No. 14: 9701 (1990)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.72.134205",
+				"or":  "R. V. Chepulskii and W. H. Butler, Phys. Rev. B, 72, No. 13: 134205 (2005).",
+				"tr":  "R. V. Chepulskii and W. H. Butler, Phys. Rev. B, 72, No. 13: 134205 (2005)."
+			},
+			{
+				"doi": "10.1023/A:1015931708479",
+				"or":  "S. P. Repetsky and T. D. Shatnii, Theor. Math. Phys., 131, No. 3: 832 (2002).",
+				"tr":  "S. P. Repetsky and T. D. Shatnii, Theor. Math. Phys., 131, No. 3: 832 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Abrikosov, L. P. Gorkov, and I. E. Dzyaloshinski, Methods of Quantum Field Theory in Statistical Physics (Eds. R. A. Silverman) (Englewood Cliffs, New Jersey: Prentice-Hall: 1963).",
+				"tr":  "A. A. Abrikosov, L. P. Gorkov, and I. E. Dzyaloshinski, Methods of Quantum Field Theory in Statistical Physics (Eds. R. A. Silverman) (Englewood Cliffs, New Jersey: Prentice-Hall: 1963)."
+			},
+			{
+				"doi": "",
+				"or":  "D. N. Zubarev, Nonequilibrium Statistical Thermodynamics (Eds. P. Gray and P. J. Shepherd) (New York: Consultants Bureau: 1974).",
+				"tr":  "D. N. Zubarev, Nonequilibrium Statistical Thermodynamics (Eds. P. Gray and P. J. Shepherd) (New York: Consultants Bureau: 1974)."
+			},
+			{
+				"doi": "10.1088/0022-3719/7/10/007",
+				"or":  "F. Ducastelle, J. Phys. C, 7, No. 10: 1795 (1974).",
+				"tr":  "F. Ducastelle, J. Phys. C, 7, No. 10: 1795 (1974)."
+			},
+			{
+				"doi": "10.1088/0953-8984/6/9/013",
+				"or":  "V. F. Los’ and S. P. Repetsky, J. Phys.: Condens. Matter, 6, No. 9: 1707 (1994).",
+				"tr":  "V. F. Los' and S. P. Repetsky, J. Phys.: Condens. Matter, 6, No. 9: 1707 (1994)."
+			},
+			{
+				"doi": "10.1143/JPSJ.12.570",
+				"or":  "R. Kubo, J. Phys. Soc. Japan, 12, No. 6: 570 (1957).",
+				"tr":  "R. Kubo, J. Phys. Soc. Japan, 12, No. 6: 570 (1957)."
+			},
+			{
+				"doi": "",
+				"or":  "E. P. Wigner, Group Theory (New York–London: Academic Press: 1959).",
+				"tr":  "E. P. Wigner, Group Theory (New York–London: Academic Press: 1959)."
+			},
+			{
+				"doi": "",
+				"or":  "J. C. Slater, Quantum Theory of Molecules and Solids. Vol. 1 (New York: McGraw-Hill: 1963).",
+				"tr":  "J. C. Slater, Quantum Theory of Molecules and Solids. Vol. 1 (New York: McGraw-Hill: 1963)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.90.257203",
+				"or":  "C. Yang, J. Zhao, and J. P. Lu, Phys. Rev. Lett., 90, No. 25: 257203 (2003).",
+				"tr":  "C. Yang, J. Zhao, and J. P. Lu, Phys. Rev. Lett., 90, No. 25: 257203 (2003)."
+			},
+			{
+				"doi": "10.1021/nl035104x",
+				"or":  "C. Yang, J. Zhao, and J. P. Lu, Nano Lett., 4, No. 4: 561 (2004).",
+				"tr":  "C. Yang, J. Zhao, and J. P. Lu, Nano Lett., 4, No. 4: 561 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.74.125404",
+				"or":  "E. Durgun and S. Ciraci, Phys. Rev. B, 74, No. 12: 125404 (2006).",
+				"tr":  "E. Durgun and S. Ciraci, Phys. Rev. B, 74, No. 12: 125404 (2006)."
+			}
+		]
+	}
+}

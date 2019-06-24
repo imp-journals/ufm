@@ -1,0 +1,178 @@
+{
+	"_id":    "UFM.16.01.023",
+	"year":   2015,
+	"volume": 16,
+	"issue":  1,
+	"pages":  [23,34],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["12.01.2015"],
+	"PACS":   "46.25.Hf, 62.20.fg, 64.70.kd, 65.40.De, 81.30.Kf, 81.40.Jj",
+	"title":   {
+		"ua": "Гістерезні явища та їх моделювання в термодинаміці мартенситних перетворень",
+		"en": "Hysteresis Phenomena and Their Modelling in Martensitic Transformation Thermodynamics",
+		"ru": "Гистерезисные явления и их моделирование в термодинамике мартенситных превращений"
+	},
+	"abstract": {
+		"ua": "У даній оглядовій статті показано, що успішний опис незворотньої еволюції макроскопічних змінних, зумовленої гістерези в процесі мартенситних перетворень, є можливим при використанні диференційних рівнянь спеціяльного типу з температурозалежними коефіцієнтами, що визначаються виключно формою основної петлі гістерези. Ці рівняння дають можливість передбачати еволюцію макроскопічної частки мартенситу для довільного процесу зміни температури, включаючи часткові петлі мартенситного перетворення. Для цього потрібно знати лише її температурну залежність для основної петлі гістерези. Зазначений модель практично застосовано та експериментально перевірено для випадку мартенситного перетворення у стопі CuZnAl.",
+		"en": "In the present review paper, we show that a successful description of the irreversible evolution of macroscopic variables during the martensitic transformations caused by hysteresis is possible with using a special type of differential equations with the temperature-dependent coefficient depending only on the main hysteresis loop shape. These equations make it possible to predict the macroscopic volume fraction evolution for an arbitrary temperature change process including the partial subloops. For this aim, one should know only the information about the temperature behaviour for transformation paths representing the main hysteresis loop. The present model is practically applied and experimentally confirmed for martensitic transformation in CuZnAl alloy.",
+		"ru": "В данной обзорной статье показано, что успешное описание необратимой эволюции макроскопических переменных, обусловленной гистерезисом в процессе мартенситных превращений, возможно путём использования дифференциальных уравнений специального типа с температурнозависимыми коэффициентами, которые определяются исключительно формой основной петли гистерезиса. Эти уравнения дают возможность предсказывать эволюцию макроскопической фракции мартенсита для произвольного процесса изменения температуры, включая частичные петли мартенситного превращения. Для этого необходимо знать лишь её поведение на основной петле гистерезиса. Указанная модель практически применена и экспериментально проверена для случая мартенситного превращения в сплаве CuZnAl."
+	},
+	"keywords": {
+		"ua": "",
+		"en": "shape-memory alloys, martensitic transformation, hysteresis, thermoelastic equilibrium",
+		"ru": ""
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. А. Ліхачов", "en": "O. A. Likhachev", "ru": "А. А. Лихачёв"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Ю. М. Коваль", "en": "Yu. M. Koval", "ru": "Ю. Н. Коваль"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  3,
+		"list":  [
+			{
+				"doi": "10.15407/mfint.38.07.0853",
+				"cit": "O. I. Mitsek and V. M. Pushkar, <a href=\"https://doi.org/10.15407/mfint.38.07.0853\">Metallofiz. Noveishie Tekhnol. <b>38</b>, 853 (2016)</a>."
+			},
+			{
+				"doi": "10.15407/mfint.38.03.0285",
+				"cit": "O. I. Mitsek and V. M. Pushkar, <a href=\"https://doi.org/10.15407/mfint.38.03.0285\">Metallofiz. Noveishie Tekhnol. <b>38</b>, 285 (2016)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.18.02.111",
+				"cit": "V. E. Kormyshev, V. E. Gromov, Yu. F. Ivanov and S. V. Konovalov, <a href=\"https://doi.org/10.15407/ufm.18.02.111\">Usp. Fiz. Met. <b>18</b>, 111 (2017)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 24,
+		"list":  [
+			{
+				"doi": "10.1016/0036-9748(76)90092-2",
+				"or":  "I. Cornelis and C. M. Wayman, Scr. Met., 10: 359 (1967).",
+				"tr":  "I. Cornelis and C. M. Wayman, Scr. Met., 10: 359 (1967)."
+			},
+			{
+				"doi": "10.1016/0001-6160(76)90071-7",
+				"or":  "K. Otsuka, C. M. Wayman, K. Nakai, H. Sakamoto, and K. Shimizu, Acta Met., 24: 207 (1979).",
+				"tr":  "K. Otsuka, C. M. Wayman, K. Nakai, H. Sakamoto, and K. Shimizu, Acta Met., 24: 207 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Delaey, J. Van Humbeeck, M. Chandrasekharan, J. Janssen, M. Andrade, and N. Mwamba, Metals Forum, 4: 164 (1981).",
+				"tr":  "L. Delaey, J. Van Humbeeck, M. Chandrasekharan, J. Janssen, M. Andrade, and N. Mwamba, Metals Forum, 4: 164 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. I. Paskal and L. A. Monasevich, Phys. Met. Metall., 52: 95 (1981).",
+				"tr":  "Yu. I. Paskal and L. A. Monasevich, Phys. Met. Metall., 52: 95 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Lu, E. Aernoudt, and L. Deleay, Proc. of Eur. Symp. on Martensitic Transformation in Sci. and Tech., (March 9–19, 1989, Bochum, West Germany) (Ed. E. Hornbogen), p. 287.",
+				"tr":  "L. Lu, E. Aernoudt, and L. Deleay, Proc. of Eur. Symp. on Martensitic Transformation in Sci. and Tech., (March 9–19, 1989, Bochum, West Germany) (Ed. E. Hornbogen), p. 287."
+			},
+			{
+				"doi": "10.1063/1.335788",
+				"or":  "J. S. Cory and J. L. McNichols, J. Appl. Phys., 58: 3282 (1985).",
+				"tr":  "J. S. Cory and J. L. McNichols, J. Appl. Phys., 58: 3282 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Aernoudt and L. Lu, Proc. of Int. Symp. ‘Shape Memory Alloys’ (Sept. 6–9, 1986) (Guilin: China Academic Publishers: 1986), p. 23.",
+				"tr":  "E. Aernoudt and L. Lu, Proc. of Int. Symp. 'Shape Memory Alloys' (Sept. 6–9, 1986) (Guilin: China Academic Publishers: 1986), p. 23."
+			},
+			{
+				"doi": "",
+				"or":  "L. Delaey and E. Aernoudt, Proc. of Int. Conf. ‘Martensitic Transformations–ICOMAT-86’, (Aug. 26–30, 1986) (Nara: The Japan Institute of Metals: 1987), p. 926.",
+				"tr":  "L. Delaey and E. Aernoudt, Proc. of Int. Conf. 'Martensitic Transformations–ICOMAT-86', (Aug. 26–30, 1986) (Nara: The Japan Institute of Metals: 1987), p. 926."
+			},
+			{
+				"doi": "10.1063/1.334925",
+				"or":  "I. D. Mayergoyz, J. Appl. Phys., 57: 3803 (1985).",
+				"tr":  "I. D. Mayergoyz, J. Appl. Phys., 57: 3803 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Guelin and D. Favier, J. de Mechanique, 19: 217 (1980).",
+				"tr":  "P. Guelin and D. Favier, J. de Mechanique, 19: 217 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. N. Koval and A. A. Likhachev, Metallofizika, 5: 28 (1988).",
+				"tr":  "Yu. N. Koval and A. A. Likhachev, Metallofizika, 5: 28 (1988)."
+			},
+			{
+				"doi": "10.1016/0956-716X(92)90117-W",
+				"or":  "A. A. Likhachev and Yu. N. Koval, Scr. Met. et Mat., 27: 223 (1992).",
+				"tr":  "A. A. Likhachev and Yu. N. Koval, Scr. Met. et Mat., 27: 223 (1992)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.56-58.405",
+				"or":  "J. Van Humbeeck and R. Stalmans, Mat. Sci. Forum, 56–58: 405 (1990).",
+				"tr":  "J. Van Humbeeck and R. Stalmans, Mat. Sci. Forum, 56–58: 405 (1990)."
+			},
+			{
+				"doi": "10.1063/1.351238",
+				"or":  "J. Ortin, J. Appl. Phys., 71: 1454 (1992).",
+				"tr":  "J. Ortin, J. Appl. Phys., 71: 1454 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Visintin, Topics in Non-Smooth Mechanics (Eds. J. J. Moreau, P. D. Panagiotopulos, and G. Strang) (Basel: Birkhauser: 1988).",
+				"tr":  "A. Visintin, Topics in Non-Smooth Mechanics (Eds. J. J. Moreau, P. D. Panagiotopulos, and G. Strang) (Basel: Birkhauser: 1988)."
+			},
+			{
+				"doi": "10.1007/978-3-642-61302-9",
+				"or":  "M. A. Krasnosel’skii and A. V. Pokrovskii, Systems with Hysteresis (Berlin: Springer: 1989).",
+				"tr":  "M. A. Krasnosel'skii and A. V. Pokrovskii, Systems with Hysteresis (Berlin: Springer: 1989)."
+			},
+			{
+				"doi": "10.1016/0020-7225(94)90027-2",
+				"or":  "Y. Ivshin and T. J. Pence, Int. J. Ing. Sci., 32: 681 (1994).",
+				"tr":  "Y. Ivshin and T. J. Pence, Int. J. Ing. Sci., 32: 681 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "Y. Ivshin and T. J. Pence, Proc. of Int. Conf. ‘on Martensitic Transformations–ICOMAT-92’, (July 20–24, 1992) (Monterey Carmel, CA: Monterey Institute of Advanced Studies: 1993), p. 389.",
+				"tr":  "Y. Ivshin and T. J. Pence, Proc. of Int. Conf. 'on Martensitic Transformations–ICOMAT-92', (July 20–24, 1992) (Monterey Carmel, CA: Monterey Institute of Advanced Studies: 1993), p. 389."
+			},
+			{
+				"doi": "10.1051/rphysap:01988002304055700",
+				"or":  "J. Van Humbeeck, E. Aernoudt, L. Delaey, L. Lu, H. Verguts, and J. Ortin, Rev. Phys. Appl., 23: 557 (1988).",
+				"tr":  "J. Van Humbeeck, E. Aernoudt, L. Delaey, L. Lu, H. Verguts, and J. Ortin, Rev. Phys. Appl., 23: 557 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Likhachev and Yu. N. Koval, Fazovye Prevrashcheniya Martensitnogo Tipa [Martensitic-Type Phase Transformations], (Kiev: Naukova Dumka: 1993), p. 39–52 (in Russian).",
+				"tr":  "A. A. Likhachev and Yu. N. Koval, Fazovye Prevrashcheniya Martensitnogo Tipa [Martensitic-Type Phase Transformations], (Kiev: Naukova Dumka: 1993), p. 39–52 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Likhachev, Journal de Physique III, Colloque C2, 5: 465 (1995).",
+				"tr":  "A. A. Likhachev, Journal de Physique III, Colloque C2, 5: 465 (1995)."
+			},
+			{
+				"doi": "10.1016/0956-716X(95)90850-J",
+				"or":  "A. A. Likhachev, Scr. Met et Mat., 32: 663 (1995).",
+				"tr":  "A. A. Likhachev, Scr. Met et Mat., 32: 663 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Likhachev and Yu. N. Koval, Metallofiz. Noveishie Technol., 18: 10 (1996).",
+				"tr":  "A. A. Likhachev and Yu. N. Koval, Metallofiz. Noveishie Technol., 18: 10 (1996)."
+			},
+			{
+				"doi": "10.1016/1359-6462(96)00017-6",
+				"or":  "A. Amengual, A. A. Likhachev, and E. Cesari. Scr. Met. et Mat., 34: 1549 (1996).",
+				"tr":  "A. Amengual, A. A. Likhachev, and E. Cesari. Scr. Met. et Mat., 34: 1549 (1996)."
+			}
+		]
+	}
+}

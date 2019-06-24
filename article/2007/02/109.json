@@ -1,0 +1,534 @@
+{
+	"_id":    "UFM.08.02.109",
+	"year":   2007,
+	"volume": 8,
+	"issue":  2,
+	"pages":  [109,156],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["06.03.2006"],
+	"PACS":   "68.60.Dv, 68.65.Ac, 72.10.Fk, 73.50.Bk, 73.50.Lw, 73.61.At, 85.40.Xx",
+	"title":   {
+		"ua": "Ефект тензочутливости в металевих плівкових матеріялах",
+		"en": "Effect of the Tensosensitivity in Metal Film Materials",
+		"ru": "Эффект тензочувствительности в металлических плёночных материалах"
+	},
+	"abstract": {
+		"ua": "В огляді здійснено аналізу відомих літературних даних про явище тензоефекту в тонких і товстих плівках металів, стопів або композиційних матеріялів з металевою основою. Розглянуто відомі напівклясичні та феноменологічні моделі для одно- і багатошарових плівкових систем, наведено результати їх апробації і вказано ступінь відповідности розрахункових і експериментальних результатів. Зроблено висновок про значну роль так називаних деформаційних ефектів, врахування яких дає хороше узгодження з експериментальними даними. Проаналізовано найменш вивчене питання фізики тонких плівок про температурну залежність коефіцієнтів поздовжньої та поперечної тензочутливости. Наведено численні експериментальні результати, які підтверджують теоретичні висновки. Проаналізовано ріжні аспекти практичного застосування плівкових матеріялів як чутливих елементів тензодавачів.",
+		"en": "The analysis of literature results concerning tensoresistive effect in thin and thick films of metals, alloys or composite materials based on a metal is presented. Well-known semi-classical and phenomenological models for one- and multilayered film systems are considered, results of their testing are presented, and the degree of conformity of calculated results with experimental ones is specified. A conclusion is drawn concerning significant role of deformation effects, which are taken into account to give satisfactory conformity with experimental data. A least studied problem in physics of thin films concerning the temperature dependence of coefficients of longitudinal and transverse tensosensitivity is analysed. Numerous experimental results, which confirm theoretical conclusions, are presented. Different aspects of practical application of film materials as sensitive elements of strain sensors are analysed.",
+		"ru": "В обзоре проведен анализ известных литературных данных по тензоэффекту в тонких и толстых плёнках металлов, сплавов или композиционных материалов с металлической основой. Рассмотрены известные полуклассические и феноменологические модели для одно- и многослойных пленочных систем, приведены результаты их апробации и указана степень соответствия расчетных и экспериментальных результатов. Сделан вывод о значительной роли так называемых деформационных эффектов, учет которых дает хорошее соответствие с экспериментальными данными. Проанализирован наименее изученный вопрос физики тонких плёнок о температурной зависимости коэффициентов продольной и поперечной тензочувствительности. Приведены многочисленные экспериментальные результаты, которые подтверждают теоретические выводы. Проанализированы различные аспекты практического применения пленочных материалов как чувствительных элементов тензодатчиков."
+	},
+	"keywords": {
+		"ua": "електрофізичні властивості, деформація, коефіцієнти тензочутливости, металева плівка",
+		"en": "electrophysical properties, deformation, tensosensitivity coefficients, metallic films",
+		"ru": "электрофизические свойства, деформация, коэффициенты тензочувствительности, металлическая плёнка"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Л. В. Однодворець", "en": "L. V. Odnodvorets’", "ru": "Л. В. Однодворец"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "С. І. Проценко", "en": "S. I. Protsenko", "ru": "С. И. Проценко"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "А. М. Чорноус", "en": "A. M. Chornous", "ru": "А. Н. Чорноус"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "І. Ю. Проценко", "en": "I. Yu. Protsenko", "ru": "И. Ю. Проценко"},
+			"OID": [208]
+		}
+	],
+	"references": {
+		"count": 97,
+				"list":  [
+			{
+				"doi": "",
+				"or":  "В. М. Иевлев, А. В. Бугаков, В. И. Трофимов, Рост и субструктура конденсированных пленок (Воронеж: ВГТУ: 2000).",
+				"tr":  "V. M. Ievlev, A. V. Bugakov, V. I. Trofimov, Rost i substruktura kondensirovannykh plenok (Voronezh: VGTU: 2000)."
+			},
+			{
+				"doi": "",
+				"or":  "І. Ю. Проценко, В. А. Саєнко, Тонкі металеві плівки (технологія та властивості) (Суми: СумДУ: 2002).",
+				"tr":  "I. Yu. Protsenko, V. A. Saienko, Tonki metalevi plivki (tekhnologiya ta vlastivosti) (Sumi: SumDU: 2002)."
+			},
+			{
+				"doi": "",
+				"or":  "Поверхностные явления и фазовые превращения в конденсированных пленках (Ред. Н. Т. Гладких) (Харьков: ХНУ: 2004).",
+				"tr":  "Poverkhnostnye yavleniya i fazovye prevrashcheniya v kondensirovannykh plenkakh (Red. N. T. Gladkikh) (Khar'kov: KhNU: 2004)."
+			},
+			{
+				"doi": "",
+				"or":  "З. Г. Мейксин, Несплошные и керметные пленки (Москва: Мир: 1978).",
+				"tr":  "Z. G. Meyksin, Nesploshnye i kermetnye plenki (Moskva: Mir: 1978)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. П. Клокова, Тензометрия (Москва: Машиностроение: 1990).",
+				"tr":  "N. P. Klokova, Tenzometriya (Moskva: Mashinostroenie: 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "С. І. Проценко, А. М. Чорноус, Металлофиз. новейшие технол., 25, № 5: 587 (2003).",
+				"tr":  "S. I. Protsenko, A. M. Chornous, Metallofiz. Noveishie Tekhnol., 25, No. 5: 587 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "F. Warkusz, Progr. Surface Sci., 10, No. 3: 287 (1980).",
+				"tr":  "F. Warkusz, Progr. Surface Sci., 10, No. 3: 287 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "C. R. Tellier and A. J. Tosser, Size Effects in Thin Films (Amsterdam–Oxford–New York: ESPS: 1982).",
+				"tr":  "C. R. Tellier and A. J. Tosser, Size Effects in Thin Films (Amsterdam–Oxford–New York: ESPS: 1982)."
+			},
+			{
+				"doi": "10.1002/pssa.2211080124",
+				"or":  "F. Khater and M. El-Hiti, Phys. Stat. Sol. (A), 108, No. 1: 241 (1988).",
+				"tr":  "F. Khater and M. El-Hiti, Phys. Stat. Sol. (A), 108, No. 1: 241 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "F. Khater and M. El-Hiti, Phys. Stat. Sol. (A), 109, No. 2: 517 (1988).",
+				"tr":  "F. Khater and M. El-Hiti, Phys. Stat. Sol. (A), 109, No. 2: 517 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "M. El-Hiti, Phys. Stat. Sol. (A), 155, No. 1: 185 (1989).",
+				"tr":  "M. El-Hiti, Phys. Stat. Sol. (A), 155, No. 1: 185 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Кузьменко, С. В. Петренко, И. Е. Проценко, ВАНТ. Серия: Ядерно-физические исследования, вып. 2: 87 (1990).",
+				"tr":  "A. I. Kuz'menko, S. V. Petrenko, I. E. Protsenko, VANT. Seriya: Yaderno-fizicheskie issledovaniya, No. 2: 87 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Chornous, N. M. Opanasyuk, A. D. Pogrebnjak et al., Jpn. J. Appl. Phys., 39, No. 12 B: L1320 (2000).",
+				"tr":  "A. M. Chornous, N. M. Opanasyuk, A. D. Pogrebnjak et al., Jpn. J. Appl. Phys., 39, No. 12 B: L1320 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Е. Проценко, А. Н. Чорноус, В. А. Хворост, Тонкие пленки в оптике и электронике (Харьков: ННЦ ХФТИ: 2002).",
+				"tr":  "I. E. Protsenko, A. N. Chornous, V. A. Khvorost, Tonkie plenki v optike i elektronike (Khar'kov: NNTs KhFTI: 2002)."
+			},
+			{
+				"doi": "",
+				"or":  "Є. О. Забіла, І. Ю. Проценко, УФЖ, 50, № 7: 729 (2005).",
+				"tr":  "Ye. O. Zabila, I. Yu. Protsenko, UFZh, 50, No. 7: 729 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Великодний, І. Пазуха, С. Проценко та ін., Міжнародна конференція студентів і молодих науковців «ЕВРИКА-2006» (Львів: ЛНУ: 2006).",
+				"tr":  "D. Velikodniy, I. Pazukha, S. Protsenko ta in., Mizhnarodna konferentsiya studentiv i molodikh naukovtsiv «EVRIKA-2006» (L'viv: LNU: 2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Однодворець, Кінетичні явища в багатошарових плівкових конденсатах на основі Cr, Co, Ni та Ge: Автореф. дис. … к.ф.-м. н. (Суми: СумДУ: 1996).",
+				"tr":  "L. V. Odnodvorets', Kinetichni yavishcha v bagatosharovikh plivkovikh kondensatakh na osnovi Cr, Co, Ni ta Ge: Avtoref. dis. … k.f.-m. n. (Sumi: SumDU: 1996)."
+			},
+			{
+				"doi": "",
+				"or":  "С. І. Проценко, Вплив температурної і деформаційної залежності параметрів електроперенесення на електрофізичні властивості багатошарових плівок на основі Cr, Cu і Sc (Co): Автореф. дис. … к.ф.-м. н. (Харків: Харківський національний університет ім. В. Н. Каразіна: 2004).",
+				"tr":  "S. I. Protsenko, Vpliv temperaturnoi i deformatsiynoi zalezhnosti parametriv elektroperenesennya na elektrofizichni vlastivosti bagatosharovikh plivok na osnovi Cr, Cu i Sc (Co): Avtoref. dis. … k.f.-m. n. (Kharkiv: Kharkivs'kiy natsional'niy universitet im. V. N. Karazina: 2004)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Чорноус, Розмірні ефекти в електрофізичних властивостях нанокристалічних плівкових систем в умовах взаємної дифузії та фазоутворення: Автореф. дис. … д.ф.-м. н. (Суми: СумДУ: 2006).",
+				"tr":  "A. M. Chornous, Rozmirni efekti v elektrofizichnikh vlastivostyakh nanokristalichnikh plivkovikh sistem v umovakh vzaiemnoi difuzii ta fazoutvorennya: Avtoref. dis. … d.f.-m. n. (Sumi: SumDU: 2006)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Dekhtyaruk, I. Protsenko, A. Chornous et al., Cryst. Res. Technol., 41, No. 4: 388 (2006); Л. В. Дехтярук, С. И. Проценко, А. Н. Чорноус, Тонкие пленки в оптике и электронике (Харьков: ННЦ ХФТИ: 2003) (а).",
+				"tr":  "L. Dekhtyaruk, I. Protsenko, A. Chornous et al., Cryst. Res. Technol., 41, No. 4: 388 (2006); L. V. Dekhtyaruk, S. I. Protsenko, A. N. Chornous, Tonkie plenki v optike i elektronike (Khar'kov: NNTs KhFTI: 2003) (a)."
+			},
+			{
+				"doi": "10.1063/1.1709155",
+				"or":  "Z. H. Meiksin and R. A. Hudzinski, J. Appl. Phys., 38, No. 11: 4490 (1967).",
+				"tr":  "Z. H. Meiksin and R. A. Hudzinski, J. Appl. Phys., 38, No. 11: 4490 (1967)."
+			},
+			{
+				"doi": "10.1103/PhysRev.94.61",
+				"or":  "G. C. Kuczynski, Phys. Rev., 94, No. 1: 61 (1954).",
+				"tr":  "G. C. Kuczynski, Phys. Rev., 94, No. 1: 61 (1954)."
+			},
+			{
+				"doi": "",
+				"or":  "І. П. Бурик, Д. В. Великодний, Л. В. Однодворець та ін., ФХТТ, 7, № 2: 241 (2006).",
+				"tr":  "I. P. Burik, D. V. Velikodniy, L. V. Odnodvorets' et al., FKhTT, 7, No. 2: 241 (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.1.1382",
+				"or":  "A. F. Mayadas and M. Shatzkes, Phys. Rev. B., 1, No. 4: 1382 (1970).",
+				"tr":  "A. F. Mayadas and M. Shatzkes, Phys. Rev. B., 1, No. 4: 1382 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "S. U. Jen, T. C. Wu, and C. H. Liu, J. Magn. Magnet. Mat., 256: 54 (2003).",
+				"tr":  "S. U. Jen, T. C. Wu, and C. H. Liu, J. Magn. Magnet. Mat., 256: 54 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "S. U. Jen, C. C. Yu, and C. H. Liu et al., Thin Solid Films, 434: 316 (2003).",
+				"tr":  "S. U. Jen, C. C. Yu, and C. H. Liu et al., Thin Solid Films, 434: 316 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Петренко, И. Е. Проценко, В. Г. Шамоня, Металлы, № 1: 180 (1989).",
+				"tr":  "S. V. Petrenko, I. E. Protsenko, V. G. Shamonya, Metally, No. 1: 180 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Петренко, Электросопротивление и тензочувствительность тонких пленок металлов VA и VIA групп: Автореф. дис. … к. ф.-м. н. (Киев: Институт проблем материаловедения им. И. Н. Францевича: 1989).",
+				"tr":  "S. V. Petrenko, Elektrosoprotivlenie i tenzochuvstvitel'nost' tonkikh plenok metallov VA i VIA grupp: Avtoref. dis. … k. f.-m. n. (Kiev: Institut problem materialovedeniya im. I. N. Frantsevicha: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Е. Проценко, А. Н. Чорноус, Металлофиз. новейшие технол., 16, № 12: 18 (1994).",
+				"tr":  "I. E. Protsenko, A. N. Chornous, Metallofiz. noveishie tekhnol., 16, No. 12: 18 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Дехтярук, Є. О. Забіла, С. І. Проценко та ін., Металлофиз. новейшие технол., 26, № 10: 1333 (2004).",
+				"tr":  "L. V. Dekhtyaruk, Ye. O. Zabila, S. I. Protsenko et al., Metallofiz. noveishie tekhnol., 26, No. 10: 1333 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Проценко, А. Н. Чорноус, Тонкие пленки в оптике и электронике (Харьков: 2002).",
+				"tr":  "S. I. Protsenko, A. N. Chornous, Tonkie plenki v optike i elektronike (Khar'kov: 2002)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Rajanna and M. M. Nayak, Mat. Sci. Eng. B., B77: 288 (2000).",
+				"tr":  "K. Rajanna and M. M. Nayak, Mat. Sci. Eng. B., B77: 288 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "I. H. Kazi, P. M. Wild, T. N. Moore et al., Thin Solid Films, 433: 337 (2003).",
+				"tr":  "I. H. Kazi, P. M. Wild, T. N. Moore et al., Thin Solid Films, 433: 337 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "I. H. Kazi, P. M. Wild, T. N. Moore et al. , Thin Solid Films (2006) (in press).",
+				"tr":  "I. H. Kazi, P. M. Wild, T. N. Moore et al. , Thin Solid Films (2006) (in press)."
+			},
+			{
+				"doi": "",
+				"or":  "R. R. Desai, D. Lakshmimanarayana, P. B. Patel et al., Sens. Actuat. A, 121: 405 (2005).",
+				"tr":  "R. R. Desai, D. Lakshmimanarayana, P. B. Patel et al., Sens. Actuat. A, 121: 405 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Kravchenko, V. B. Loboda, I. Yu. Protsenko et al., Functional Materials, 6, No. 5: 892 (1999).",
+				"tr":  "V. A. Kravchenko, V. B. Loboda, I. Yu. Protsenko et al., Functional Materials, 6, No. 5: 892 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "O. B. Lasyuchenko, I. Yu. Protsenko, and A. M. Chornous, Functional Materials, 6, No. 5: 880 (1999).",
+				"tr":  "O. B. Lasyuchenko, I. Yu. Protsenko, and A. M. Chornous, Functional Materials, 6, No. 5: 880 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Е. Щербина, Исследование размерных эффектов электрических свойств пленок легкоплавких металлов: Автореф. дис. … к.ф.-м.н. (Харьков: ХПИ: 1981).",
+				"tr":  "M. E. Shcherbina, Issledovanie razmernykh effektov elektricheskikh svoystv plenok legkoplavkikh metallov: Avtoref. dis. … k.f.-m.n. (Khar'kov: KhPI: 1981)."
+			},
+			{
+				"doi": "",
+				"or":  "W. L. Wang, K. J. Liao, C. G. Hu et al., Sensors Axtuat. A, 108: 55 (2003).",
+				"tr":  "W. L. Wang, K. J. Liao, C. G. Hu et al., Sensors Axtuat. A, 108: 55 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. Tang, D. M. Aslam, J. Wang et al., Diam. Relat. Mater., 15: 199 (2006).",
+				"tr":  "Yu. Tang, D. M. Aslam, J. Wang et al., Diam. Relat. Mater., 15: 199 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Druzhinin, I. Ostrovskii, and N. Liakh, Mater. Sci. Semiconductor Process, 5: 193 (2005).",
+				"tr":  "A. Druzhinin, I. Ostrovskii, and N. Liakh, Mater. Sci. Semiconductor Process, 5: 193 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.90.157601",
+				"or":  "J. Cao, Q. Wang, and H. Dai, Phys. Rev. Let., 90, No. 15: 157601-1 (2003).",
+				"tr":  "J. Cao, Q. Wang, and H. Dai, Phys. Rev. Let., 90, No. 15: 157601-1 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "L. V. Dekhtyaruk, S. I. Protsenko, A. M. Chornous et al., Ukr. J. Phys., 49, No. 6: 587 (2004).",
+				"tr":  "L. V. Dekhtyaruk, S. I. Protsenko, A. M. Chornous et al., Ukr. J. Phys., 49, No. 6: 587 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "А. І. Кузьменко, Структура та електрофізичні властивості двошарових плівок перехідних d-металів: Автореф. дис. … к.ф.-м.н. (Суми: СФТІ: 1993).",
+				"tr":  "A. I. Kuz'menko, Struktura ta elektrofizichni vlastivosti dvosharovikh plivok perekhidnikh d-metaliv: Avtoref. dis. … k.f.-m.n. (Sumi: SFTI: 1993)."
+			},
+			{
+				"doi": "",
+				"or":  "O. Lasyuchenko, L. Odnodvoretz, and I. Protsenko, Cryst. Res. Technol., 35, No. 3: 329 (2000).",
+				"tr":  "O. Lasyuchenko, L. Odnodvoretz, and I. Protsenko, Cryst. Res. Technol., 35, No. 3: 329 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "I. Protsenko, L. Odnodvoretz, and A. Chornous, Металлофиз. новейшие технол., 20, No. 1: 36 (1998).",
+				"tr":  "I. Protsenko, L. Odnodvoretz, and A. Chornous, Metallofiz. noveyshie tekhnol., 20, No. 1: 36 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "С. І. Проценко, О. В. Синашенко, А. М. Чорноус, Металлофиз. новейшие технол., 27, № 12: 1621 (2005).",
+				"tr":  "S. I. Protsenko, O. V. Sinashenko, A. M. Chornous, Metallofiz. noveyshie tekhnol., 27, No. 12: 1621 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Бібик, Т. М. Гричановська, М. Маршалек та ін., Металлофиз. новейшие технол., 28, № 6: 707 (2006).",
+				"tr":  "V. V. Bibik, T. M. Grichanovs'ka, M. Marshalek ta in., Metallofiz. noveyshie tekhnol., 28, No. 6: 707 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Дехтярук, И. М. Пазуха, С. И. Проценко и др., ФТТ, 48: 1729 (2006).",
+				"tr":  "L. V. Dekhtyaruk, I. M. Pazukha, S. I. Protsenko i dr., FTT, 48: 1729 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "І. Ю. Проценко, О. В. Шовкопляс, Ю. М. Овчаренко та ін., Журнал фізичних досліджень, 2, № 1: 105 (1998).",
+				"tr":  "I. Yu. Protsenko, O. V. Shovkoplyas, Yu. M. Ovcharenko ta in., Zhurnal fizichnikh doslidzhen', 2, No. 1: 105 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Дехтярук, І. М. Пазуха, І. Ю. Проценко, УФЖ, 51, № 7: 729 (2006).",
+				"tr":  "L. V. Dekhtyaruk, I. M. Pazukha, I. Yu. Protsenko, UFZh, 51, No. 7: 729 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Білоус, І. Ю. Проценко, А. М. Чорноус, ФХТТ, 4, № 1: 48 (2003).",
+				"tr":  "O. A. Bilous, I. Yu. Protsenko, A. M. Chornous, FKhTT, 4, No. 1: 48 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. В. Великодный, С. И. Проценко, Материалы ІІ Международной научной конференции «Современные информационные системы. Проблемы и тенденции развития (Харьков–Туапсе: ХНУРЕ: 2007).",
+				"tr":  "D. V. Velikodnyy, S. I. Protsenko, Materialy II Mezhdunarodnoy nauchnoy konferentsii «Sovremennye informatsionnye sistemy. Problemy i tendentsii razvitiya (Khar'kov–Tuapse: KhNURE: 2007)."
+			},
+			{
+				"doi": "",
+				"or":  "G.-F. Wang, X.-Q. Feng, S.-W. Yu et al., Mater. Sci. Eng. A, 363: 1 (2003).",
+				"tr":  "G.-F. Wang, X.-Q. Feng, S.-W. Yu et al., Mater. Sci. Eng. A, 363: 1 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "P. J. M.Janssen, Th. H. de Keijser, and M. G. D. Geers, Mater. Sci. Eng. A, 419: 238 (2006).",
+				"tr":  "P. J. M.Janssen, Th. H. de Keijser, and M. G. D. Geers, Mater. Sci. Eng. A, 419: 238 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Simons, Ch. Weippert, J. Dual et al., Mater. Sci. Eng. A, 416: 290 (2006).",
+				"tr":  "G. Simons, Ch. Weippert, J. Dual et al., Mater. Sci. Eng. A, 416: 290 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Son, J.-H. Jeong, and D. Kwon, Thin Solid Films, 437: 182 (2003).",
+				"tr":  "D. Son, J.-H. Jeong, and D. Kwon, Thin Solid Films, 437: 182 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Son, J.-J. Kim, and T. W. Lim, Scripta Mater., 50: 1265 (2004).",
+				"tr":  "D. Son, J.-J. Kim, and T. W. Lim, Scripta Mater., 50: 1265 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "S. U. Jen and T. C. Wu, Thin Solid Films, 492: 166 (2005).",
+				"tr":  "S. U. Jen and T. C. Wu, Thin Solid Films, 492: 166 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "З. Рузга, Электрические термометры сопротивления (Москва–Ленинград: Госэнергоиздат: 1961).",
+				"tr":  "Z. Ruzga, Elektricheskie termometry soprotivleniya (Moskva–Leningrad: Gosenergoizdat: 1961)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. П. Клокова, В. Ф. Лукашик, В. М. Воробьева и др., Тензодатчики для экспериментальных исследований (Москва: Машиностроение: 1972).",
+				"tr":  "N. P. Klokova, V. F. Lukashik, V. M. Vorob'eva et al., Tenzodatchiki dlya eksperimental'nykh issledovaniy (Moskva: Mashinostroenie: 1972)."
+			},
+			{
+				"doi": "",
+				"or":  "Сопряжение датчиков и устройства ввода данных с компьютерами IBM PC (Ред. У. Томпкинс, Дж. Уэбстерн) (Москва: Мир: 1992).",
+				"tr":  "Sopryazhenie datchikov i ustroystva vvoda dannykh s komp'yuterami IBM PC (Ed. U. Tompkins, Dzh. Uebstern) (Moskva: Mir: 1992)."
+			},
+			{
+				"doi": "",
+				"or":  "G. R. Witt, Thin Solid Films, 22: 133 (1974).",
+				"tr":  "G. R. Witt, Thin Solid Films, 22: 133 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "І. Ю. Проценко, Технологія та фізика тонких металевих плівок (Суми: СумДУ: 2000).",
+				"tr":  "I. Yu. Protsenko, Tekhnologiya ta fizika tonkikh metalevikh plivok (Sumi: SumDU: 2000)."
+			},
+			{
+				"doi": "",
+				"or":  "С. І. Проценко, ФХТТ, 3, № 3: 401 (2002).",
+				"tr":  "S. I. Protsenko, FKhTT, 3, No. 3: 401 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "C. R. Tеllier, J. Mater. Sci., 20, No. 6: 1901 (1985).",
+				"tr":  "C. R. Tellier, J. Mater. Sci., 20, No. 6: 1901 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Chiriac, M. Urse, F. Rusu et al., Sens. Actuat. A, 76: 376 (1999).",
+				"tr":  "H. Chiriac, M. Urse, F. Rusu et al., Sens. Actuat. A, 76: 376 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "O. Abe, Y. Taketa, M. Haradome et al., Rev. Sci. Instrum., 59, No. 8: 1394 (1988).",
+				"tr":  "O. Abe, Y. Taketa, M. Haradome et al., Rev. Sci. Instrum., 59, No. 8: 1394 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Hrovat, D. Belavic, and Z. Samardzija, J. Europ. Ceram. Soc., 21: 2001 (2001).",
+				"tr":  "M. Hrovat, D. Belavic, and Z. Samardzija, J. Europ. Ceram. Soc., 21: 2001 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Tankiewicz, B. Morten, M. Prudenziati et al., Sens. Actuat. A, 95: 39 (2001).",
+				"tr":  "S. Tankiewicz, B. Morten, M. Prudenziati et al., Sens. Actuat. A, 95: 39 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Li, Z. Lu, and S. Zhou, Sens. Actuat. A, 109: 68 (2003).",
+				"tr":  "D. Li, Z. Lu, and S. Zhou, Sens. Actuat. A, 109: 68 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Fu and L. Gao, Scripta Mater., 55: 521 (2006).",
+				"tr":  "B. Fu and L. Gao, Scripta Mater., 55: 521 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "M. I. Aliyev, A. A. Khalilova, D. H. Arasly et al., Appl. Phys. A, 79: 2075 (2004).",
+				"tr":  "M. I. Aliyev, A. A. Khalilova, D. H. Arasly et al., Appl. Phys. A, 79: 2075 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "B. W. Licznerski, Int. J. Electronics, 73, No. 5: 919 (1992).",
+				"tr":  "B. W. Licznerski, Int. J. Electronics, 73, No. 5: 919 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Broitman and R. Zimmerman, Thin Solid Films, 317: 440 (1998).",
+				"tr":  "E. Broitman and R. Zimmerman, Thin Solid Films, 317: 440 (1998)."
+			},
+			{
+				"doi": "10.1063/1.2113417",
+				"or":  "D. P. Wang, F. Y. Biga, A. Zaslavsky et al., J. Appl. Phys., 98, 086107 (2005).",
+				"tr":  "D. P. Wang, F. Y. Biga, A. Zaslavsky et al., J. Appl. Phys., 98, 086107 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "L. S. Martin, L. C. Wrbanek, and G. C. Fralick, Thin Film Sensors for Surface Measurements, 1 (2001).",
+				"tr":  "L. S. Martin, L. C. Wrbanek, and G. C. Fralick, Thin Film Sensors for Surface Measurements, 1 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Angadi and R. Whiting, Mater. Sci. Engin. B, 7: L1 (1990).",
+				"tr":  "M. A. Angadi and R. Whiting, Mater. Sci. Engin. B, 7: L1 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Kayser, J. C. Godefroy, and L. Leca, Sens. Actuat. A, 37–38: 328 (1993).",
+				"tr":  "P. Kayser, J. C. Godefroy, and L. Leca, Sens. Actuat. A, 37–38: 328 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Schultes, M. Schmitt, D. Goettel et al., Sens. Actuat. A., 126: 287 (2006).",
+				"tr":  "G. Schultes, M. Schmitt, D. Goettel et al., Sens. Actuat. A., 126: 287 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Arshak and R. Perrem, Sens. Actuat. A, 36: 73 (1993).",
+				"tr":  "K. Arshak and R. Perrem, Sens. Actuat. A, 36: 73 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. М. Гричановська, В. А. Соломаха, А. М. Чорноус, Матеріали І науково-технічної конференції з міжнародною участю «Матеріали електронної техніки та сучасні інформаційні технології» (Кременчук: ІЕНТ: 2004).",
+				"tr":  "T. M. Grichanovs'ka, V. A. Solomakha, A. M. Chornous, Materiali I naukovo-tekhnichnoi konferentsii z mizhnarodnoyu uchastyu «Materiali elektronnoi tekhniki ta suchasni informatsiyni tekhnologii» (Kremenchuk: IENT: 2004)."
+			},
+			{
+				"doi": "",
+				"or":  "O. J. Gregory, Q. Luo, J. M. Bienkiewicz et al., Thin Solid Films, 405: 263 (2002).",
+				"tr":  "O. J. Gregory, Q. Luo, J. M. Bienkiewicz et al., Thin Solid Films, 405: 263 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Arshak, K. Arshak, D. Morris et al., Sens. Actuat. A, 122: 242 (2005).",
+				"tr":  "A. Arshak, K. Arshak, D. Morris et al., Sens. Actuat. A, 122: 242 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Li, J. P. Longtin, S. Tankiewicz et al., Sens. Actuat. A (2006) (in press); www.sciencedirect.com.",
+				"tr":  "J. Li, J. P. Longtin, S. Tankiewicz et al., Sens. Actuat. A (2006) (in press); www.sciencedirect.com."
+			},
+			{
+				"doi": "",
+				"or":  "D. J. Lichtenwalner, A. E. Hydrick, and A. I. Kingon, Sens. Actuat. A (2006) (in press); www.sciencedirect.com.",
+				"tr":  "D. J. Lichtenwalner, A. E. Hydrick, and A. I. Kingon, Sens. Actuat. A (2006) (in press); www.sciencedirect.com."
+			},
+			{
+				"doi": "",
+				"or":  "M. Hrovat, D. Belavic, Z. Samardzija et al., J. Mater. Sci., 36: 2679 (2001).",
+				"tr":  "M. Hrovat, D. Belavic, Z. Samardzija et al., J. Mater. Sci., 36: 2679 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Hrovat, A. Bencan, D. Belavic et al., Sens. Actuat. A, 103: 341 (2003).",
+				"tr":  "M. Hrovat, A. Bencan, D. Belavic et al., Sens. Actuat. A, 103: 341 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Dohn, J. Kjelstrup-Hansen, D. N. Madsen et al., Ultramicroscopy, 105: 209 (2005).",
+				"tr":  "S. Dohn, J. Kjelstrup-Hansen, D. N. Madsen et al., Ultramicroscopy, 105: 209 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Cao, X. Chen, and J. W. Kysar, Рhys. Rev. B, 72: 195412 (2005).",
+				"tr":  "G. Cao, X. Chen, and J. W. Kysar, Rhys. Rev. B, 72: 195412 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Belavic, M. Hrovat, and M. Pavlin, J. Europ. Cer. Soc., 21: 1989 (2001).",
+				"tr":  "D. Belavic, M. Hrovat, and M. Pavlin, J. Europ. Cer. Soc., 21: 1989 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "F. Loffler, C. Siewert, and C. Ascher, Sur. Coatings Technol., 174: 1287 (2003).",
+				"tr":  "F. Loffler, C. Siewert, and C. Ascher, Sur. Coatings Technol., 174: 1287 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "R. J. Stephen, K. Rajanna, V. Dhar et al., IEEE Sens. J., 4, No. 3: 373 (2004).",
+				"tr":  "R. J. Stephen, K. Rajanna, V. Dhar et al., IEEE Sens. J., 4, No. 3: 373 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "A. B. Amor, T. Budde, and H. H. Gatzen, Sens. Actuat. A, 129: 41 (2006).",
+				"tr":  "A. B. Amor, T. Budde, and H. H. Gatzen, Sens. Actuat. A, 129: 41 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Deguchi, N. Hase, M. Kitabatake et al., Diamond Relat. Mater., 6: 367 (1997).",
+				"tr":  "M. Deguchi, N. Hase, M. Kitabatake et al., Diamond Relat. Mater., 6: 367 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Gluche, M. Adamschik, V. Vescan et al., Diamond Relat. Mater., 7: 779 (1998).",
+				"tr":  "P. Gluche, M. Adamschik, V. Vescan et al., Diamond Relat. Mater., 7: 779 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Schultes, P. Frey, D. Gottele et al., Diamond Relat. Mater., 15: 80 (2006).",
+				"tr":  "G. Schultes, P. Frey, D. Gottele et al., Diamond Relat. Mater., 15: 80 (2006)."
+			}
+		]
+	}
+}

@@ -1,0 +1,101 @@
+{
+	"_id":    "UFM.10.01.001",
+	"year":   2009,
+	"volume": 10,
+	"issue":  1,
+	"pages":  [1,25],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["16.12.2008"],
+	"PACS":   "05.45.-a, 05.65.+b, 61.72.Bb, 61.72.Cc, 61.72.Yx, 61.80.Az",
+	"title":   {
+		"ua": "Радіяційні дефекти в твердих тілах",
+		"en": "Radiation Defects in Solids",
+		"ru": "Радиационные дефекты в твёрдых телах"
+	},
+	"abstract": {
+		"ua": "Викладено опис дефектної структури радіяційних матеріялів на мікро-, мезо- і макрорівнях. На першому з них ядра дефектів представлено ансамблем потенціяльних рельєфів, що реалізуються у дуженерівноважнім стані кристалу. З урахуванням ієрархічного зв’язку між різними структурними рівнями описано еволюцію дефектної структури, яка має довільне число таких рівнів. Визначено нову характеристику структури ⎯ складність, що характеризує міру безладу ієрархічно підпорядкованого статистичного ансамблю.",
+		"en": "Description of defect structure of radiation materials is given on micro-, meso- and macrolevels. On the first of these levels, nuclei of defects are presented with help of ensemble of potential reliefs, which are realized in strong-nonequilibrium crystal state. Taking into account hierarchical coupling between different structure levels, evolution of defect structure with arbitrary number of such levels is studied. A new characteristic of crystal structure is defined to be a complexity determining a measure of disorder in hierarchically constrained ensemble.",
+		"ru": "Изложено описание дефектной структуры радиационных материалов на микро-, мезо- и макроуровнях. На первом из них ядра дефектов представлены ансамблем потенциальных рельефов, реализующихся в сильнонеравновесном состоянии кристалла. С учетом иерархической связи между различными структурными уровнями описана эволюция дефектной структуры, обладающей произвольным числом таких уровней. Определена новая характеристика структуры ⎯ сложность, характеризующая меру беспорядка иерархически соподчинённого статистического ансамбля."
+	},
+	"keywords": {
+		"ua": "дефектна структура, потенціяльний рельєф, ієрархічний зв'язок, складність",
+		"en": "defect structure, potential relief, hierarchical connection, complexity",
+		"ru": "дефектная структура, потенциальный рельеф, иерархическая связь, сложность"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Олємськой", "en": "O. I. Olemskoi", "ru": "А. И. Олемской"},
+			"OID": [17]
+		},
+		{
+			"AID": {"ua": "І. О. Шуда", "en": "I. O. Shuda", "ru": "И. А. Шуда"},
+			"OID": [208]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "A. I. Olemskoi, Theory of Structure Transformations in Non-Equilibrium Condensed Matter (New York: NOVA Science: 1999).",
+				"tr":  "A. I. Olemskoi, Theory of Structure Transformations in Non-Equilibrium Condensed Matter (New York: NOVA Science: 1999)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Zinn-Justin, Quantum Field Theory and Critical Phenomena (Oxford: Clarendon Press: 1993).",
+				"tr":  "J. Zinn-Justin, Quantum Field Theory and Critical Phenomena (Oxford: Clarendon Press: 1993)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Олемской, А. А. Кацнельсон, Синергетика конденсированной среды (Москва: Едиториал УРСС: 2003).",
+				"tr":  "A. I. Olemskoi, A. A. Katsnel'son, Sinergetika kondensirovannoi sredy (Moskva: Editorial URSS: 2003)."
+			},
+			{
+				"doi": "10.1070/PU1992v035n06ABEH002241",
+				"or":  "A. I. Olemskoi and I. A. Sklyar, Sov. Phys. Uspekhi, 35: 455 (1992).",
+				"tr":  "A. I. Olemskoi and I. A. Sklyar, Sov. Phys. Uspekhi, 35: 455 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "A. I. Olemskoi, D. O. Kharchenko, and I. A. Knyaz’, Phys. Rev. E, 71: 041101(12) (2005).",
+				"tr":  "A. I. Olemskoi, D. O. Kharchenko, and I. A. Knyaz', Phys. Rev. E, 71: 041101(12) (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "A. I. Olemskoi, Physics Reviews, 18, pt. 1: 1 (1995).",
+				"tr":  "A. I. Olemskoi, Physics Reviews, 18, pt. 1: 1 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Олемской, Письма в ЖЭТФ, 69: 391 (1999).",
+				"tr":  "A. I. Olemskoi, Pis'ma v ZhETF, 69: 391 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Олемской, Письма в ЖЭТФ, 71: 412 (2000).",
+				"tr":  "A. I. Olemskoi, Pis'ma v ZhETF, 71: 412 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Олемской, Письма в ЖЭТФ, 85: 137 (2007).",
+				"tr":  "A. I. Olemskoi, Pis'ma v ZhETF, 85: 137 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Gellmann and C. Tsallis, Nonextensive Entropy: Interdisciplinary Applications (Oxford: Oxford University Press: 2004).",
+				"tr":  "M. Gellmann and C. Tsallis, Nonextensive Entropy: Interdisciplinary Applications (Oxford: Oxford University Press: 2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Справочник по специальным функциям (Ред. М. Абрамовиц, И. Стиган) (Москва: Наука: 1979).",
+				"tr":  "Spravochnik po spetsial'nym funktsiyam (Ed. M. Abramovits, I. Stigan) (Moskva: Nauka: 1979)."
+			},
+			{
+				"doi": "10.1016/S0375-9601(98)00549-0",
+				"or":  "A. I. Olemskoi and A. D. Kiselev, Phys. Lett. A, 247: 221 (1998).",
+				"tr":  "A. I. Olemskoi and A. D. Kiselev, Phys. Lett. A, 247: 221 (1998)."
+			}
+		]
+	}
+}

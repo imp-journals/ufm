@@ -1,0 +1,194 @@
+{
+	"_id":    "UFM.02.02.131",
+	"year":   2001,
+	"volume": 2,
+	"issue":  2,
+	"pages":  [131,149],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["19.12.2000"],
+	"PACS":   "62.20.Mk, 75.20.En, 75.40.Gb, 75.70.Rf, 75.80.+q, 81.40.Rs",
+	"title":   {
+		"ua": "Магнетодеформаційний эфект",
+		"en": "Magnetic Deformation Effect",
+		"ru": "Магнитодеформационный эффект"
+	},
+	"abstract": {
+		"ua": "У роботі показано, що після деформації стисненням монокристалів молібдену і цинку спостерігається різке збільшення магнітної сприйнятливості, яке сильно залежить від стану поверхні перед деформуванням. Це явище може бути поясненим феромагнетизмом електронного газу «помірної густини». На фізичні властивості поверхневого шару істотно впливають умови контактного тертя на границі метал–інструмент. Хімічне видалення цього шару призводить до зникнення магнітного ефекту. Виявлено часову залежність феромагнітної складової сприйнятливості, що можна пов'язати зі зміною структури поверхні в присутності електричного поля.",
+		"en": "In a given paper, it is shown that, after the deformation by squeezing of single crystals of molybdenum and zinc, a sharp increase of magnetic susceptibility strongly depending on the surface state before deforming is observed. This phenomenon can be explained by ferromagnetism of electronic gas of ‘moderate density’. Conditions of contact friction on the boundary between metal and instrument influence on physical properties of the surface layer essentially. The chemical removal of this layer results in vanishing magnetic effect. The time dependence of ferromagnetic susceptibility component is determined, and it can be bound up with changing structure of the surface in the electric field.",
+		"ru": "В работе показано, что после деформации сжатием монокристаллов молибдена и цинка наблюдается резкое увеличение магнитной восприимчивости, сильно зависящее от состояния поверхности перед деформированием. Это явление может быть объяснено ферромагнетизмом электронного газа «умеренной плотности». На физические свойства поверхностного слоя оказывают существенное влияние условия контактного трения на границе металл–инструмент. Химическое удаление этого слоя приводит к исчезновению магнитного эффекта. Обнаружена временная зависимость ферромагнитной составляющей восприимчивости, что можно связать с изменением структуры поверхности в присутствии электрического поля."
+	},
+	"keywords": {
+		"ua": "монокристал, магнітна сприйнятливість, деформація, мікротріщина, феромагнітне впорядкування, електронний газ, поверхня",
+		"en": "monocrystal, magnetic susceptibility, deformation, microcrack, ferromagnetic ordering, electron gas, surface",
+		"ru": "монокристалл, магнитная восприимчивость, деформация,  микротрещина, ферромагнитное упорядочение, электронный газ, поверхность"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. В. Бродовий", "en": "O. V. Brodovyj", "ru": "А. В. Бродовой"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "С. Г. Бунчук", "en": "S. G. Bunchuk", "ru": "С. Г. Бунчук"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "В. Г. Колісніченко", "en": "V. G. Kolesnichenko", "ru": "В. Г. Колисниченко"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "В. В. Скороход", "en": "V. V. Skorokhod", "ru": "В. В. Скороход"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 29,
+				"list":  [
+			{
+				"doi": "",
+				"or":  "G. V. Lashkaryov, A. V. Brodovoj, N. V. Goncharuk et al., Физика и техника высоких давлений, 3, №3: 54 (1993).",
+				"tr":  "G. V. Lashkaryov, A. V. Brodovoj, N. V. Goncharuk et al., Fizika i tekhnika vysokikh davlenii, 3, No. 3: 54 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Я. Дехтяр, Р. Г. Федченко, Физ. тверд. тела, 7, №3: 893 (1965).",
+				"tr":  "I. Ya. Dekhtyar, R. G. Fedchenko, Fiz. tverd. tela, 7, No. 3: 893 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Я. Дехтяр, В. С. Михаленков, Физ. тверд. тела, 7, №5: 2997 (1965).",
+				"tr":  "I. Ya. Dekhtyar, V. S. Mikhalenkov, Fiz. tverd. tela, 7, No. 5: 2997 (1965)."
+			},
+			{
+				"doi": "10.1103/PhysRev.74.610",
+				"or":  "J. Reebie and T. S. Hutchison, Phys. Rev., 74: 610 (1948).",
+				"tr":  "J. Reebie and T. S. Hutchison, Phys. Rev., 74: 610 (1948)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Дерягин, В. А. Павлов, К. Б. Власов, С. П. Грубова, Физ. мет. металловед., 32, №6: 1231 (1971).",
+				"tr":  "A. I. Deryagin, V. A. Pavlov, K. B. Vlasov, S. P. Grubova, Fiz. met. metalloved., 32, No. 6: 1231 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "А .И. Дерягин, В. А. Павлов, К. Б. Власов, В. Ф. Шишминцев, Физ. мет. металловед., 41, №5: 1101 (1976).",
+				"tr":  "A. I. Deryagin, V. A. Pavlov, K. B. Vlasov, V. F. Shishmintsev, Fiz. met. metalloved., 41, No. 5: 1101 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Я. Дехтяр, В. В. Немошкаленко, Электронная структура и электронные свойства переходных металлов и сплавов (Киев: Наукова думка: 1971), с. 615.",
+				"tr":  "I. Ya. Dekhtyar, V. V. Nemoshkalenko, Elektronnaya struktura i elektronnye svoistva perekhodnykh metallov i splavov (Kiev: Naukova dumka: 1971), s. 615."
+			},
+			{
+				"doi": "",
+				"or":  "Л. П. Страхов, Физ. тверд. тела, 11, №11: 3067 (1969).",
+				"tr":  "L. P. Strakhov, Fiz. tverd. tela, 11, No. 11: 3067 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "R. K. Mak Crone and C. Cr. Haman, Solid State Commun., 35, No. 8: 615 (1980).",
+				"tr":  "R. K. Mak Crone and C. Cr. Haman, Solid State Commun., 35, No. 8: 615 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Бродовой, В. Г. Колесниченко, С. П. Колесник, С. М. Солонин, В. В. Скороход, Металлофиз. новейшие технол., 19, №11: 73 (1997).",
+				"tr":  "A. V. Brodovoi, V. G. Kolesnichenko, S. P. Kolesnik, S. M. Solonin, V. V. Skorokhod, Metallofiz. noveishie tekhnol., 19, No. 11: 73 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Бродовой, Г. А. Зыков, В. П. Кладько, В. Г. Колесниченко, Д. В. Лоцко, А. Г. Попов, А. П. Рачек, С. М. Солонин, В. В. Скороход, Металлофиз. новейшие технол., 21, №1: 45 (1999).",
+				"tr":  "A. V. Brodovoi, G. A. Zykov, V. P. Klad'ko, V. G. Kolesnichenko, D. V. Lotsko, A. G. Popov, A. P. Rachek, S. M. Solonin, V. V. Skorokhod, Metallofiz. noveishie tekhnol., 21, No. 1: 45 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. Л. Нагаев, Физика магнитных полупроводников (Москва: Наука: 1979).",
+				"tr":  "E. L. Nagaev, Fizika magnitnykh poluprovodnikov (Moskva: Nauka: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "Polarons and Exitons (Ed. C. G. Kuper) (New York: Academic Press: 1968), vol. 21.",
+				"tr":  "Polarons and Exitons (Ed. C. G. Kuper) (New York: Academic Press: 1968), vol. 21."
+			},
+			{
+				"doi": "10.1103/PhysRev.158.511",
+				"or":  "E. S. Sharp and D. A. Averg, Phys. Rev., 158: 511 (1967).",
+				"tr":  "E. S. Sharp and D. A. Averg, Phys. Rev., 158: 511 (1967)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. Д. Вишняков, Современные методы исследования деформированных кристаллов (Москва: Металлургия: 1975).",
+				"tr":  "Ya. D. Vishnyakov, Sovremennye metody issledovaniya deformirovannykh kristallov (Moskva: Metallurgiya: 1975)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Кладько, Т. Г. Крыштаб, Укр. физ. ж., 34, №10: 1574 (1989).",
+				"tr":  "V. P. Klad'ko, T. G. Kryshtab, Ukr. fiz. zh., 34, No. 10: 1574 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Бетехтин, А. И. Слуцкер, Физ. тверд. тела, 4: 132 (1962); ibid., 8: 767 (1966).",
+				"tr":  "V. I. Betekhtin, A. I. Slutsker, Fiz. tverd. tela, 4: 132 (1962); ibid., 8: 767 (1966)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Савельев, Зародышевые микротрещины, возникающие при нагружении металлов (Автореф. дисс. канд. физ.-мат. наук) (Ленинград: ФТИ, АН СССР: 1976).",
+				"tr":  "V. N. Savel'ev, Zarodyshevye mikrotreshchiny, voznikayushchie pri nagruzhenii metallov (Avtoref. diss. kand. fiz.-mat. nauk) (Leningrad: FTI, AN SSSR: 1976)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Бетехтин, В. Н. Савельев, А. И. Слуцкер, Физ. мет. металловед., 37: 211 (1974).",
+				"tr":  "V. I. Betekhtin, V. N. Savel'ev, A. I. Slutsker, Fiz. met. metalloved., 37: 211 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Бетехтин, Ф. Шмидт, Микроразрушение кристаллических материалов, находящихся в пластичном состоянии / В кн.: Проблемы физики твердого тела и материаловедения (Москва: Наука: 1976), c. 56–58, 60–67.",
+				"tr":  "V. I. Betekhtin, F. Shmidt, Mikrorazrushenie kristallicheskikh materialov, nakhodyashchikhsya v plastichnom sostoyanii / V kn.: Problemy fiziki tverdogo tela i materialovedeniya (Moskva: Nauka: 1976), c. 56–58, 60–67."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Бетехтин, В. И. Владимиров, Кинетика микроразрушения кристаллических тел / В кн.: Проблемы прочности и пластичности твердых тел (Москва: Наука: 1979), с. 155–166.",
+				"tr":  "V. I. Betekhtin, V. I. Vladimirov, Kinetika mikrorazrusheniya kristallicheskikh tel / V kn.: Problemy prochnosti i plastichnosti tverdykh tel (Moskva: Nauka: 1979), s. 155–166."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Кадомцев, И. Ф. Захаров, А. И. Петров, В. И. Бетехтин, Ф. Шмидт, Физ. мет. металловед., 40, №6: 828 (1975).",
+				"tr":  "A. G. Kadomtsev, I. F. Zakharov, A. I. Petrov, V. I. Betekhtin, F. Shmidt, Fiz. met. metalloved., 40, No. 6: 828 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Стрельцов, Дефекты и их взаимодействие в твердых телах при больших деформациях (Автореферат дисc. докт. физ.-мат. наук) (Донецк: ДФТИ, АН УССР: 1988).",
+				"tr":  "V. A. Strel'tsov, Defekty i ikh vzaimodeistvie v tverdykh telakh pri bol'shikh deformatsiyakh (Avtoreferat disc. dokt. fiz.-mat. nauk) (Donetsk: DFTI, AN USSR: 1988)."
+			},
+			{
+				"doi": "10.1103/PhysRev.112.328",
+				"or":  "K. A. Brueckner and K. Sawada, Phys. Rev., 112: 328 (1958).",
+				"tr":  "K. A. Brueckner and K. Sawada, Phys. Rev., 112: 328 (1958)."
+			},
+			{
+				"doi": "10.1117/12.280447",
+				"or":  "A. V. Brodovoi, V. A. Brodovoi, V. G. Kolesnichenko et al., Proc. of SPIE, 3182: 293 (1997).",
+				"tr":  "A. V. Brodovoi, V. A. Brodovoi, V. G. Kolesnichenko et al., Proc. of SPIE, 3182: 293 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Herring, Structure and Properties of Solid Surfaces (Chicago: Univ. Chicago Press: 1963), p. 5.",
+				"tr":  "C. Herring, Structure and Properties of Solid Surfaces (Chicago: Univ. Chicago Press: 1963), p. 5."
+			},
+			{
+				"doi": "",
+				"or":  "C. Herring, The Physics of Powder Metallurgy (Ed. W. E. Kingston) (New York: McGraw Book Co: 1951), p. 143.",
+				"tr":  "C. Herring, The Physics of Powder Metallurgy (Ed. W. E. Kingston) (New York: McGraw Book Co: 1951), p. 143."
+			},
+			{
+				"doi": "10.1103/PhysRev.117.1452",
+				"or":  "J. Barbour, F. M. Charbonnier, W. W. Polan, W. P. Dyke, E. E. Martin, and J. K. Trolan, Phys. Rev., 117: 1452 (1960).",
+				"tr":  "J. Barbour, F. M. Charbonnier, W. W. Polan, W. P. Dyke, E. E. Martin, and J. K. Trolan, Phys. Rev., 117: 1452 (1960)."
+			},
+			{
+				"doi": "",
+				"or":  "М. П. Шаскольская, Янь-Вонь Ван, Шу-Чжао Гу, Кристаллография, 6: 605 (1961).",
+				"tr":  "M. P. Shaskol'skaya, Yan'-Von' Van, Shu-Chzhao Gu, Kristallografiya, 6: 605 (1961)."
+			}
+		]
+	}
+}

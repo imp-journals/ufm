@@ -1,0 +1,378 @@
+{
+	"_id":    "UFM.20.01.005",
+	"year":   2019,
+	"volume": 20,
+	"issue":  1,
+	"pages":  [5,51],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["01.10.2018", "03.01.2019"],
+	"PACS":   " ",
+	"title":   {
+		"ua": "Вплив вуглецевих нанотрубок на механохемічну синтезу нанопорошків карбідів $d$-металів і нанокомпозитів на їх основі",
+		"en": "Effect of Carbon Nanotubes on Mechanochemical Synthesis of $d$-Metal Carbide Nanopowders and Nanocomposites",
+		"ru": "Влияние углеродных нанотрубок на механохимический синтез нанопорошков карбидов $d$-металлов и нанокомпозитов на их основе"
+	},
+	"abstract": {
+		"ua": "Механохемічною методою у високоенергетичному планетарному кульовому млині з шихти, що містить вуглецеві нанотрубки, синтезовано нанорозмірні моно- (порошки) та подвійні (компактовані нанокомпозити) карбіди $d$-перехідних металів. Розглянуто вплив багатошарових вуглецевих нанотрубок на механохемічну синтезу одержаних матеріялів. З’ясовано особливості механізму формування карбідів перехідних металів у процесі механохемічної синтези. Зокрема, показано, що на першому етапі синтези (до 60 хв. оброблення шихти) має місце аморфізація вуглецевих нанотрубок і подрібнення частинок вихідного металу по межах зерен. Надалі аморфізований вуглець потрапляє всередину ґратниці металу, утворюючи твердий розчин втілення, внаслідок чого металеві підґратниці набувають дефектности. На другому етапі синтези (від 60 до 250 хв розмелювання) процес втілення атомів Карбону в металічну матрицю пришвидшується та починається формування карбідних фаз на поверхні частинок вихідного металу. Третій етап синтези завершує формування карбіду. Встановлено, що час розмелювання, потрібний для повного перетворення вихідних компонентів у карбід, корелює з ентальпією його утворення, а поля механічних напружень релаксують за двома основними напрямами: нагрівання та подрібнення. Виявлено, що досліджені в даній роботі карбіди $d$-перехідних металів під час механохемічної синтези формуються в основному за рахунок самопідтримуваної реакції. Показано ефективність використання вуглецевих нанотрубок при створенні нанокомпозиційних матеріялів з поліпшеними функціональними характеристиками. Встановлено, що механохемічна метода є ефективною для синтези багатокомпонентних карбідів (твердих розчинів заміщення), одержати які іншими способами майже неможливо.",
+		"en": "The nanoscale mono- (powders) and complex (compacted nanocomposites) carbides of $d$-transition metals are synthesized by mechanical alloying in a high-energy planetary ball mill from a charge containing the carbon nanotubes. The effect of multiwalled carbon nanotubes on reaction milling of the obtained materials is analyzed. The features of formation mechanism of metal carbides at the mechanical alloying are clarified. Particularly, as is shown, at the first stage of the synthesis (up to 60 min of processing of the charge in a ball mill), the amorphization of the carbon nanotubes and crushing of particles of the initial metal along the grain boundaries occurs concurrently. Then, the amorphous carbon enters into the metal lattice forming an interstitial solid solution, resulting in deformation of the metal crystal lattice. At the second stage of synthesis (from 60 to 250 minutes of processing), the process of embedding of the carbon atoms in metal matrix is accelerated and the formation of the carbide phases on surface of the parent metal particles begins. The third stage of synthesis completes the formation of carbide. As revealed, the processing time required for the complete transformation of the initial components to the carbide correlates with the enthalpy of its formation, and the fields of mechanical stress are relaxed over two main channels: heating and grinding. As found out, the carbides of $d$-transition metals studied in this work are formed mainly due to self-supporting reaction at milling. The efficiency of using carbon nanotubes in the fabrication of nanocomposite materials with improved functional characteristics is shown. As revealed, the reaction milling is effective for the synthesis of multicomponent carbides (substitutional solid solutions).",
+		"ru": "Механохимическим методом в высокоэнергетической планетарной шаровой мельнице из шихты, содержащей углеродные нанотрубки, синтезированы наноразмерные моно- (порошки) и двойные (компактированные нанокомпозиты) карбиды $d$-переходных металлов. Рассмотрено влияние многослойных углеродных нанотрубок на механохимический синтез полученных материалов. Выяснены особенности механизма формирования карбидов переходных металлов в процессе механохимического синтеза. В частности, показано, что на первом этапе синтеза (до 60 мин обработки шихты) имеет место аморфизация углеродных нанотрубок и измельчение частиц исходного металла по границам зёрен. В дальнейшем аморфизированный углерод попадает внутрь решётки металла, образуя твёрдый раствор внедрения, в результате чего металлическая подрешётка становится дефектной. На втором этапе синтеза (от 60 до 250 мин размола) процесс внедрения атомов углерода в металлическую матрицу ускоряется и начинается формирование карбидных фаз на поверхности частиц исходного металла. Третий этап синтеза завершает формирование карбида. Установлено, что время размола, необходимое для полного преобразования исходных компонентов в карбид, коррелирует с энтальпией его образования, а поля механических напряжений релаксируют по двум основным каналам: нагрев и измельчение. Обнаружено, что исследованные в данной работе карбиды $d$-переходных металлов при механохимическом синтезе формируются в основном за счёт самоподдерживающейся реакции. Показана эффективность использования углеродных нанотрубок при создании нанокомпозиционных материалов с улучшенными функциональными характеристиками. Установлено, что механохимический метод является эффективным для синтеза многокомпонентных карбидов (твёрдых растворов замещения), получить которые другими способами практически невозможно."
+	},
+	"keywords": {
+		"ua": "механохемічна синтеза, вуглецева нанотрубка, карбід, твердий розчин, рентґенівська дифракція, електронна мікроскопія",
+		"en": "mechanochemical processing, carbon nanotube, carbide, solid solution, x-ray diffraction, electron microscopy",
+		"ru": "механохимический синтез, углеродная нанотрубка, карбид, твёрдый раствор, рентгеновская дифракция, электронная микроскопия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Наконечна", "en": "O. I. Nakonechna", "ru": "О. И. Наконечная"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "М. М. Дашевський", "en": "M. M. Dashevskyi", "ru": "Н. Н. Дашевский"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "О. І. Бошко", "en": "О. І. Boshko", "ru": "О. И. Бошко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. В. Заводянний", "en": "V. V. Zavodyannyi", "ru": "В. В. Заводянный"},
+			"OID": [255]
+		},
+		{
+			"AID": {"ua": "Н. М. Білявина", "en": "N. N. Belyavina", "ru": "Н. Н. Белявина"},
+			"OID": [201]
+		}
+	],
+	"references": {
+		"count": 65,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "P. Balaz, Acta Metalurgica Slovaca, (Spec. issue), No. 4: 23 (2001).",
+				"tr":  "P. Balaz, Acta Metalurgica Slovaca, (Spec. issue), No. 4: 23 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Boldyrev, Khimiya v Interesakh Ustoichivogo Razvitiya, 10, Nos. 1–2: 3, (2002) (in Russian).",
+				"tr":  "V. Boldyrev, Khimiya v Interesakh Ustoichivogo Razvitiya, 10, Nos. 1–2: 3, (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Carry-Lea, Am. J. Sci., 141: 259 (1891).",
+				"tr":  "M. Carry-Lea, Am. J. Sci., 141: 259 (1891)."
+			},
+			{
+				"doi": "",
+				"or":  "E. P. Elsukov, I. V. Povstugar, A. L. Ul’yanov, and G. A. Dorofeev, Fiz. Met. Metalloved., 101, No. 2: 193 (2006) (in Russian).",
+				"tr":  "E. P. Elsukov, I. V. Povstugar, A. L. Ul’yanov, and G. A. Dorofeev, Fiz. Met. Metalloved., 101, No. 2: 193 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. C. Damask and G. J. Dienes, Point Defects in Metals (Gordon and Breach, 1st edition: 1963).",
+				"tr":  "A. C. Damask and G. J. Dienes, Point Defects in Metals (Gordon and Breach, 1st edition: 1963)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Shalaev, Radiatsionno-Stimulirovannaya Diffuziya v Metallakh [Radiation-Induced Diffusion in Metals] (Moscow: Atomizdat: 1972) (in Russian).",
+				"tr":  "A. M. Shalaev, Radiatsionno-Stimulirovannaya Diffuziya v Metallakh [Radiation-Induced Diffusion in Metals] (Moscow: Atomizdat: 1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. N. Larikov and V. M. Kal’chenko, Mekhanizm Vliyaniya Fazovykh Prevrashcheniy na Diffuziyu. Diffuziya v Metallah i Splavah [Mechanisms of Influence of the Phase Transformations on Diffusion. Diffusion in Metals] (Tula: 1968) (in Russian).",
+				"tr":  "L. N. Larikov and V. M. Kal’chenko, Mekhanizm Vliyaniya Fazovykh Prevrashcheniy na Diffuziyu. Diffuziya v Metallah i Splavah [Mechanisms of Influence of the Phase Transformations on Diffusion. Diffusion in Metals] (Tula: 1968) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. D. Gercriken and V. M. Fal’chenko, Voprosy Fiziki Metallov i Metallovedeniya, No. 16: 153 (1962) (in Russian).",
+				"tr":  "S. D. Gercriken and V. M. Fal’chenko, Voprosy Fiziki Metallov i Metallovedeniya, No. 16: 153 (1962) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "B. S. Bokshtejn, S. Z. Bokshtein, and A. A. Zhuhovickiy, Termodinamika i Kinetika Diffuzii v Tverdykh Telakh [Thermodynamics and Kinetics of Diffusion in Solids] (Moscow: Metallurgiya: 1974) (in Russian).",
+				"tr":  "B. S. Bokshtejn, S. Z. Bokshtein, and A. A. Zhuhovickiy, Termodinamika i Kinetika Diffuzii v Tverdykh Telakh [Thermodynamics and Kinetics of Diffusion in Solids] (Moscow: Metallurgiya: 1974) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.1702647",
+				"or":  "R. W. Baluffi and A. J. Ruoff, J. Appl. Phys., 34, No. 6: 1634 (1963).",
+				"tr":  "R. W. Baluffi and A. J. Ruoff, J. Appl. Phys., 34, No. 6: 1634 (1963)."
+			},
+			{
+				"doi": "10.1063/1.1729698",
+				"or":  "A. J. Ruoff and R. W. Baluffi, J. Appl. Phys., 34, No. 7: 1848 (1963).",
+				"tr":  "A. J. Ruoff and R. W. Baluffi, J. Appl. Phys., 34, No. 7: 1848 (1963)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Lomer, Vakansii i Tochechnye Defekty [Vacancies and Point Defects] (Moscow: Metallurgizdat: 1961) (in Russian).",
+				"tr":  "V. M. Lomer, Vakansii i Tochechnye Defekty [Vacancies and Point Defects] (Moscow: Metallurgizdat: 1961) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. P. Romashkin, Fiz. Tverd. Tela, 11, No. 12: 1059 (1960) (in Russian).",
+				"tr":  "Yu. P. Romashkin, Fiz. Tverd. Tela, 11, No. 12: 1059 (1960) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Neverov, V. N. Burov, and A. I. Korotkov, Fiz. Met. Metalloved., 48, No. 5: 978 (1978) (in Russian).",
+				"tr":  "V. V. Neverov, V. N. Burov, and A. I. Korotkov, Fiz. Met. Metalloved., 48, No. 5: 978 (1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "J. S. Benjamin, Sci. Am., 234, No. 5: 40 (1976).",
+				"tr":  "J. S. Benjamin, Sci. Am., 234, No. 5: 40 (1976)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.88-90.1",
+				"or":  "J. S. Benjamin, Mat. Sci. Forum, 88–90: 1 (1992).",
+				"tr":  "J. S. Benjamin, Mat. Sci. Forum, 88–90: 1 (1992)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.88-90",
+				"or":  "P. H. Shingu, Mechanical Alloying, 88–90 (Zurich: Trans Tech Publ.: 1992).",
+				"tr":  "P. H. Shingu, Mechanical Alloying, 88–90 (Zurich: Trans Tech Publ.: 1992)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Boldyrev, Eksperimental’nye Metody v Mekhanokhimii Tverdykh Neorganicheskikh Veshchestv [Experimental Methods in Mechanochemistry of Solid Inorganics] (Novosibirsk: Nauka. Siberian branch: 1983) (in Russian).",
+				"tr":  "V. V. Boldyrev, Eksperimental’nye Metody v Mekhanokhimii Tverdykh Neorganicheskikh Veshchestv [Experimental Methods in Mechanochemistry of Solid Inorganics] (Novosibirsk: Nauka. Siberian branch: 1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Boldyrev, Kinetika i Kataliz, 13, 1411 (1972) (in Russian).",
+				"tr":  "V. V. Boldyrev, Kinetika i Kataliz, 13, 1411 (1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Boldyrev and G. Heinicke, Z. Chem. B, 19: 356 (1975).",
+				"tr":  "V. Boldyrev and G. Heinicke, Z. Chem. B, 19: 356 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "N. Z. Lyahov and V. V. Boldyrev, Izv. SO AN SSSR. Ser. Khim., 5: 8 (1985) (in Russian).",
+				"tr":  "N. Z. Lyahov and V. V. Boldyrev, Izv. SO AN SSSR. Ser. Khim., 5: 8 (1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "N. S. Lyakhov, Proc. Second Japan–Soviet Symposium on Mechanochemistry (Eds. G. Jimbo, M. Senna, and Y. Kuwohara) (Tokyo: Publishing Society Powder Technology: 1988), p. 59.",
+				"tr":  "N. S. Lyakhov, Proc. Second Japan–Soviet Symposium on Mechanochemistry (Eds. G. Jimbo, M. Senna, and Y. Kuwohara) (Tokyo: Publishing Society Powder Technology: 1988), p. 59."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. T. Pavlukhin, Ya. Ya. Medikov, and V. V, Boldyrev, Izv. SO AN SSSR, Ser. Khim., 4: 11 (1981) (in Russian).",
+				"tr":  "Yu. T. Pavlukhin, Ya. Ya. Medikov, and V. V, Boldyrev, Izv. SO AN SSSR, Ser. Khim., 4: 11 (1981) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0022-4596(84)90089-6",
+				"or":  "Y. T. Pavlukhin, Ya. Ya. Medikov, and V. V. Boldyrev, J. Solid State Chem., 53, No. 2: 155 (1984).",
+				"tr":  "Y. T. Pavlukhin, Ya. Ya. Medikov, and V. V. Boldyrev, J. Solid State Chem., 53, No. 2: 155 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. T. Pavlukhin, Ya. Ya. Medikov, and V. V. Boldyrev, Rev. Solid State Sci., 2: 603 (1988).",
+				"tr":  "Yu. T. Pavlukhin, Ya. Ya. Medikov, and V. V. Boldyrev, Rev. Solid State Sci., 2: 603 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Heegn, Proc. First Int. Conf. Mechanochemistry (Cambridge: Cambridge Intersci. Publ.: 1993), p. 11.",
+				"tr":  "H. Heegn, Proc. First Int. Conf. Mechanochemistry (Cambridge: Cambridge Intersci. Publ.: 1993), p. 11."
+			},
+			{
+				"doi": "10.1063/1.97206",
+				"or":  "R. B. Schwarz and C. C. Koch, Appl. Phys. Lett., 49, No. 3: 146 (1986).",
+				"tr":  "R. B. Schwarz and C. C. Koch, Appl. Phys. Lett., 49, No. 3: 146 (1986)."
+			},
+			{
+				"doi": "10.1007/BF02782409",
+				"or":  "D. R. Maurice and T. Courtney, Metall. and Mat. Trans. A, 21: 289 (1990).",
+				"tr":  "D. R. Maurice and T. Courtney, Metall. and Mat. Trans. A, 21: 289 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Boldyrev, V. R. Regel’, O. F, Pozdnyakov, F. H. Urukaev, and B. Ya. Byl’skij, Dokl. AN SSSR, 221: 634 (1975) (in Russian).",
+				"tr":  "V. V. Boldyrev, V. R. Regel’, O. F, Pozdnyakov, F. H. Urukaev, and B. Ya. Byl’skij, Dokl. AN SSSR, 221: 634 (1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "F. H. Urukaev, V. V. Boldyrev, O. F, Pozdnyakov, and V. R. Regel’, Kinetika i Kataliz, 18, 350 (1977) (in Russian).",
+				"tr":  "F. H. Urukaev, V. V. Boldyrev, O. F, Pozdnyakov, and V. R. Regel’, Kinetika i Kataliz, 18, 350 (1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "E. L. Goldberg, S. V. Pavlov, Proc. Second World Congress on Particle Technology (Ed. G. Jimbo) (Kyoto: Japan Society Technology: 1990), p. 507.",
+				"tr":  "E. L. Goldberg, S. V. Pavlov, Proc. Second World Congress on Particle Technology (Ed. G. Jimbo) (Kyoto: Japan Society Technology: 1990), p. 507."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Boldyrev, S. V. Pavlov, and E. L. Goldberg, Intern. J. Miner. Proc., 44–45: 181 (1996).",
+				"tr":  "V. V. Boldyrev, S. V. Pavlov, and E. L. Goldberg, Intern. J. Miner. Proc., 44–45: 181 (1996)."
+			},
+			{
+				"doi": "10.2320/matertrans1989.36.85",
+				"or":  "C. C. Koch, Mater. Trans., JIM, 36, No. 2: 85 (1995).",
+				"tr":  "C. C. Koch, Mater. Trans., JIM, 36, No. 2: 85 (1995)."
+			},
+			{
+				"doi": "10.1016/S0079-6425(99)00010-9",
+				"or":  "C. Suryanarayana, Progress Mater. Sci., 46, Nos. 1–2: 1 (2001).",
+				"tr":  "C. Suryanarayana, Progress Mater. Sci., 46, Nos. 1–2: 1 (2001)."
+			},
+			{
+				"doi": "10.1016/j.pmatsci.2012.10.001",
+				"or":  "C. Suryanarayana and N. Al-Aqeeli, Progress Mater. Sci., 58, No. 4: 383 (2012).",
+				"tr":  "C. Suryanarayana and N. Al-Aqeeli, Progress Mater. Sci., 58, No. 4: 383 (2012)."
+			},
+			{
+				"doi": "10.1070/RC2001v070n01ABEH000598",
+				"or":  "T. F. Grigorieva, A. P. Barinova, and N. Z. Lyakhov, Russ. Chem. Rev., 70: 45 (2001).",
+				"tr":  "T. F. Grigorieva, A. P. Barinova, and N. Z. Lyakhov, Russ. Chem. Rev., 70: 45 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Y. Butyagin, Russian Scientiéc Review. Sect. B: Chemistry Reviews, 2, Pt. 2: 89 (London: Harwood Academic Publ.: 1998).",
+				"tr":  "P. Y. Butyagin, Russian Scientiéc Review. Sect. B: Chemistry Reviews, 2, Pt. 2: 89 (London: Harwood Academic Publ.: 1998)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.269-272.665",
+				"or":  "R. Schwarz, Mater. Sci. Forum, 269–272: 665 (1998).",
+				"tr":  "R. Schwarz, Mater. Sci. Forum, 269–272: 665 (1998)."
+			},
+			{
+				"doi": "10.1007/978-0-387-09579-0",
+				"or":  "V. K. Pecharsky and P. Y. Zavalij, Fundamentals of Powder Diffraction and Structural Characterization of Materials (New-York: Springer: 2009).",
+				"tr":  "V. K. Pecharsky and P. Y. Zavalij, Fundamentals of Powder Diffraction and Structural Characterization of Materials (New-York: Springer: 2009)."
+			},
+			{
+				"doi": "10.15407/mfint.39.04.0541",
+				"or":  "M. Dashevskyi, O. Boshko, O. Nakonechna, and N. Belyavina, Metallofiz. Noveishie Tekhnol., 39 No. 4: 541 (2017).",
+				"tr":  "M. Dashevskyi, O. Boshko, O. Nakonechna, and N. Belyavina, Metallofiz. Noveishie Tekhnol., 39 No. 4: 541 (2017)."
+			},
+			{
+				"doi": "10.1016/0001-6160(53)90006-6",
+				"or":  "G. K. Williamson and W. H. Hall, Acta Met., 1, No. 1: 22 (1953).",
+				"tr":  "G. K. Williamson and W. H. Hall, Acta Met., 1, No. 1: 22 (1953)."
+			},
+			{
+				"doi": "10.1038/354056a0",
+				"or":  "S. Iijima, Nature, 354: 56 (1991).",
+				"tr":  "S. Iijima, Nature, 354: 56 (1991)."
+			},
+			{
+				"doi": "10.1016/j.msea.2015.08.012",
+				"or":  "X. Long, Y. Bai, M. Algarni, Y. Choi, and Q. Chen, Mat. Sci. Eng. A, 645: 347 (2015).",
+				"tr":  "X. Long, Y. Bai, M. Algarni, Y. Choi, and Q. Chen, Mat. Sci. Eng. A, 645: 347 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "R. A. Andrievskiy and A. V. Ragulya, Nanostrukturnye Materialy [Nanostructured Materials] (Moscow: Academiya: 2005) (in Russian).",
+				"tr":  "R. A. Andrievskiy and A. V. Ragulya, Nanostrukturnye Materialy [Nanostructured Materials] (Moscow: Academiya: 2005) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.apt.2016.03.019",
+				"or":  "O. Boshko, O. Nakonechna, M. Dashevsky, K. Ivanenko, N. Belyavina, and S. Revo, Adv. Powder Technol., 27, No. 4: 1101 (2016).",
+				"tr":  "O. Boshko, O. Nakonechna, M. Dashevsky, K. Ivanenko, N. Belyavina, and S. Revo, Adv. Powder Technol., 27, No. 4: 1101 (2016)."
+			},
+			{
+				"doi": "10.1016/j.apt.2016.12.026",
+				"or":  "O. Boshko, O. Nakonechna, N. Belyavina, M. Dashevsky, S. Revo, Adv. Powder Technol., 28, No. 3: 964 (2017).",
+				"tr":  "O. Boshko, O. Nakonechna, N. Belyavina, M. Dashevsky, S. Revo, Adv. Powder Technol., 28, No. 3: 964 (2017)."
+			},
+			{
+				"doi": "10.15407/mfint.40.05.0637",
+				"or":  "O. Nakonechna, M. Dashevskyi, and N. Belyavina, Metallofiz. Noveishie Tekhnol., 40, No. 5: 637 (2018).",
+				"tr":  "O. Nakonechna, M. Dashevskyi, and N. Belyavina, Metallofiz. Noveishie Tekhnol., 40, No. 5: 637 (2018)."
+			},
+			{
+				"doi": "10.1111/j.1151-2916.1991.tb04116.x",
+				"or":  "P. Matteazzi and G. Le Caër, J. Am. Ceram. Soc., 74, No. 6: 1382 (1991).",
+				"tr":  "P. Matteazzi and G. Le Caër, J. Am. Ceram. Soc., 74, No. 6: 1382 (1991)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00147-6",
+				"or":  "A. Teresiak and H. Kubsch, Nanostruct. Mater., 6, Nos. 5–8: 671 (1995).",
+				"tr":  "A. Teresiak and H. Kubsch, Nanostruct. Mater., 6, Nos. 5–8: 671 (1995)."
+			},
+			{
+				"doi": "10.1016/j.ijrmhm.2008.11.003",
+				"or":  "Q. Yuan, Y. Zheng, and H. Yu, Int. J. Refract. Met. Hard Mater., 27, No. 4: 696 (2009).",
+				"tr":  "Q. Yuan, Y. Zheng, and H. Yu, Int. J. Refract. Met. Hard Mater., 27, No. 4: 696 (2009)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2008.04.070",
+				"or":  "H. Jia, Z. Zhang, Z. Qi, G. Liu, and X. Bian, J. Alloys Compd., 472, Nos. 1–2: 97 (2009).",
+				"tr":  "H. Jia, Z. Zhang, Z. Qi, G. Liu, and X. Bian, J. Alloys Compd., 472, Nos. 1–2: 97 (2009)."
+			},
+			{
+				"doi": "10.1016/j.matchemphys.2009.11.048",
+				"or":  "B. Ghosh and S. K. Pradhan, Mater. Chem. Phys., 120, Nos. 2–3: 537 (2010).",
+				"tr":  "B. Ghosh and S. K. Pradhan, Mater. Chem. Phys., 120, Nos. 2–3: 537 (2010)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2004.11.046",
+				"or":  "C. J. Lu and Z. Q. Li, J. Alloys Compd., 395, Nos. 1–2: 88 (2005).",
+				"tr":  "C. J. Lu and Z. Q. Li, J. Alloys Compd., 395, Nos. 1–2: 88 (2005)."
+			},
+			{
+				"doi": "10.1006/jssc.2001.9107",
+				"or":  "N. J. Calos, J. S. Forrester, and G. B. Schaffer, J. Solid State Chem., 158, No. 2: 268 (2001).",
+				"tr":  "N. J. Calos, J. S. Forrester, and G. B. Schaffer, J. Solid State Chem., 158, No. 2: 268 (2001)."
+			},
+			{
+				"doi": "10.1006/jssc.1996.0267",
+				"or":  "L. Takacs, J. Solid State Chem., 125, No. 1: 75 (1996).",
+				"tr":  "L. Takacs, J. Solid State Chem., 125, No. 1: 75 (1996)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2006.08.216",
+				"or":  "B. H. Lohse, A. Calka, and D. Wexler, J. Alloys Compd., 434–435: 405 (2007).",
+				"tr":  "B. H. Lohse, A. Calka, and D. Wexler, J. Alloys Compd., 434–435: 405 (2007)."
+			},
+			{
+				"doi": "10.1016/S0263-4368(97)87504-X",
+				"or":  "N. Q.Wu, G. X. Wang, J. M. Wu, Z. Z. Li, and M. Y. Yuan, Int. J. Refract. Met. Hard Mater., 15, Nos. 5–6: 289 (1997).",
+				"tr":  "N. Q.Wu, G. X. Wang, J. M. Wu, Z. Z. Li, and M. Y. Yuan, Int. J. Refract. Met. Hard Mater., 15, Nos. 5–6: 289 (1997)."
+			},
+			{
+				"doi": "10.1016/S0928-4931(01)00283-1",
+				"or":  "X. K. Zhu, K. Y. Zhao, B. C. Cheng, Q. S. Lin, X. Q. Zhang, T. L. Chen, and Y. S. Su, Mater. Sci. Eng. C, 16, Nos. 1–2: 103 (2001).",
+				"tr":  "X. K. Zhu, K. Y. Zhao, B. C. Cheng, Q. S. Lin, X. Q. Zhang, T. L. Chen, and Y. S. Su, Mater. Sci. Eng. C, 16, Nos. 1–2: 103 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "E. P. Elsukov and G. A. Dorofeev, Khimiya v Interesakh Ustoichivogo Razvitiya, 10: 59 (2002) (in Russian).",
+				"tr":  "E. P. Elsukov and G. A. Dorofeev, Khimiya v Interesakh Ustoichivogo Razvitiya, 10: 59 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "E. P. Elsukov, G. A, Dorofeev, and V. V. Boldyrev, Khimiya v Interesakh Ustoichivogo Razvitiya, 10: 53 (2002) (in Russian).",
+				"tr":  "E. P. Elsukov, G. A, Dorofeev, and V. V. Boldyrev, Khimiya v Interesakh Ustoichivogo Razvitiya, 10: 53 (2002) (in Russian)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.269-272.151",
+				"or":  "E. P. Yelsukov, G. A. Dorofeev, V. A. Barinov, T. F. Grigorieva, and V. V. Boldyrev, Mater. Sci. Forum, 269–272: 151 (1998).",
+				"tr":  "E. P. Yelsukov, G. A. Dorofeev, V. A. Barinov, T. F. Grigorieva, and V. V. Boldyrev, Mater. Sci. Forum, 269–272: 151 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "N. P. Lyakishev, Fazovye Diagrammy Binarnyh Metallicheskikh Sistem [Phase Diagrams of Binary Metallic Systems] (Moscow: Mashinostroeniye: 1996) (in Russian).",
+				"tr":  "N. P. Lyakishev, Fazovye Diagrammy Binarnyh Metallicheskikh Sistem [Phase Diagrams of Binary Metallic Systems] (Moscow: Mashinostroeniye: 1996) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0008-6223(98)00218-8",
+				"or":  "Y. B. Li, B. Q. Wei, J. Liang, Q. Yu, and D. H. Wu, Carbon, 37, No. 3: 493 (1999).",
+				"tr":  "Y. B. Li, B. Q. Wei, J. Liang, Q. Yu, and D. H. Wu, Carbon, 37, No. 3: 493 (1999)."
+			},
+			{
+				"doi": "10.1007/s11669-003-0010-8",
+				"or":  "V. Raghavan, J. Phase Equilib., 24, No. 1: 62 (2003).",
+				"tr":  "V. Raghavan, J. Phase Equilib., 24, No. 1: 62 (2003)."
+			},
+			{
+				"doi": "10.15330/pcss.19.2.179-185",
+				"or":  "O. I. Nakonechna, N. N. Belyavina, M. M. Dashevskyi, K. O. Ivanenko, and S. L. Revo, Phys. Chem. Solid State, 19, No. 2: 179 (2018).",
+				"tr":  "O. I. Nakonechna, N. N. Belyavina, M. M. Dashevskyi, K. O. Ivanenko, and S. L. Revo, Phys. Chem. Solid State, 19, No. 2: 179 (2018)."
+			}
+		]
+	}
+}

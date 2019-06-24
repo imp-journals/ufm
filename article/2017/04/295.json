@@ -1,0 +1,587 @@
+{
+	"_id":    "UFM.18.04.295",
+	"year":   2017,
+	"volume": 18,
+	"issue":  4,
+	"pages":  [295,400],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["10.08.2017"],
+	"PACS":   "05.65.+b, 07.05.Tp, 61.72.Bb, 61.72.J-, 61.80.Az, 71.15.Nc, 89.75.Fb",
+	"title":   {
+		"ua": "Мультимасштабне моделювання самоорганізації нерівноважних точкових дефектів в опромінюваному $\\alpha$-цирконії",
+		"en": "Multiscale Modelling of Self-Organization of Non-Equilibrium Point Defects in Irradiated $\\alpha$-Zirconium",
+		"ru": "Мультимасштабное моделирование самоорганизации неравновесных точечных дефектов в облучаемом $\\alpha$-цирконии"
+	},
+	"abstract": {
+		"ua": "Дану роботу присвячено всебічному детальному дослідженню чистого цирконію з нерівноважними точковими дефектами, які продукуються опроміненням, в рамках схеми мультимасштабного моделювання з використанням квантово-механічних метод, молекулярної динаміки та метод Монте-Карло, заснованих на Ланжевеновій динаміці. В рамках розрахунків з перших принципів досліджено структурні, електронні та енергетичні властивості чистого цирконію з ізольованими вакансіями та їх кластерами. Обговорюється зміна параметрів ґратниці у чистому цирконії з різною концентрацією ізольованих вакансій і різними конфіґураціями бі- та тривакансій. Встановлено енергію формування ізольованої вакансії у чистому цирконії. Проаналізовано стабільність невеликих кластерів вакансій, що містять бівакансії, які характеризуються різними віддалями між двома вакансіями, та тривакансії різної конфіґурації. Одержано розподіл електронної густини, енергетичний спектр і поверхню Фермі для чистого цирконію з ізольованою вакансією. Встановлено залежність енергії Фермі кристалу цирконію, елементарна комірка якого містить кластер вакансій, від кількости вакансій у кластері. В рамках використання метод моделювання молекулярної динаміки вивчаються процеси утворення, розвитку та відпалу каскадів пошкоджень при різних значеннях енергії первинно вибитого атома, напрямках його руху та температури в кристалах чистого цирконію. Детально досліджено статистичні та геометричні властивості каскадів. Показано можливість каналювання при розвитку каскадів, що приводить до утворення краудіонів. Встановлено зміну статистичних властивостей кристалу цирконію під час створення каскаду. Проаналізовано зміну енергії формування точкових дефектів і вакансійних комплексів при зміні температури зразка. Вивчено просторову самоорганізацію ансамблю точкових дефектів у $\\alpha$-цирконії, опроміненому швидкими нейтронами за допомогою теорії реакційних швидкостей. Тут враховано еластичні властивості середовища за наявности дефектів та динаміку густини стоків. Розглянуто динаміку системи з однорідним розподілом точкових дефектів і просторово розподілену систему за різних режимів опромінення (шляхом зміни температури опромінення та швидкости дефектоутворення). Встановлено умови реорганізації нерівноважних вакансій, що продукуються внаслідок опромінення, у кластери. Досліджено розподіл пружніх полів при самоорганізації вакансійного ансамблю у чистому цирконії за умови зсувної і циклічної деформації та вивчено вплив опромінення на напружено-деформований стан цирконію.",
+		"en": "This work is devoted to a comprehensive detailed study of a pure zirconium with non-equilibrium point defects induced by irradiation within the framework of the multiscale modelling scheme by using quantum-mechanics methods, molecular dynamics, and the Monte-Carlo methods based on the Langevin dynamics. By using $ab-initio$ calculations, the structural, electronic, and energy properties of a pure zirconium with isolated vacancies and their clusters are studied. The lattice-parameter change in pure zirconium with different concentrations of isolated vacancy and different configurations of di- and trivacancies is discussed. The vacancy-formation energy in a pure zirconium is obtained. Stability of small vacancy clusters containing divacancy characterized by different distances between two vacancies as well as trivacancies of different configuration is analysed. Distributions of electron density, band structure, and Fermi surface for pure zirconium with isolated vacancy are studied in detail. We calculate the dependence of the Fermi energy of a zirconium crystal, whose unit cell contains a vacancy cluster, on the number of vacancies in the cluster. Cascade formation, development, and annealing in pure zirconium crystals irradiated in different irradiation conditions are studied within the framework of the molecular-dynamics simulations. Statistical and geometric properties of cascades are examined in detail by varying sample temperature, energy of primary knocked atom, and direction of its motion. A possibility of channelling at cascades’ development resulting in formation of crowdions is shown. A change in statistical properties of the crystal during cascade development and relaxation time of cascades is calculated. Dependence of formation energy of point defects and vacancy clusters on temperature is discussed. Spatial self-organization of an ensemble of point defects in $\\alpha$-zirconium irradiated by fast neutrons by using reaction rate theory is studied. In our consideration, we take into account elastic properties of the medium due to defects’ presence and sink density dynamics. We consider dynamics of the system with uniform distribution of point defects and spatially extended system at different irradiation regimes (by varying irradiation temperature and dose rate). As found, the point defects’ patterning is accompanied by a formation of vacancy clusters. The distribution of elastic fields with the self-organization of a vacancy ensemble in a pure zirconium subjected to shear and cyclic deformation and the impact of irradiation on the mode of deformation of zirconium are studied.",
+		"ru": "В данной работе проводится всестороннее детальное исследование чистого циркония с неравновесными точечными дефектами, генерируемыми облучением, в рамках схемы мультимасштабного моделирования с использованием квантово-механических методов, молекулярной динамики и методов Монте-Карло, основанных на ланжевеновской динамике. В рамках расчётов из первых принципов исследованы структурные, электронные и энергетические свойства чистого циркония с изолированными вакансиями и их кластерами. Обсуждается изменение параметров решётки в чистом цирконии с различной концентрацией изолированных вакансий и различными конфигурациями ди- и тривакансий. Рассчитана энергия формирования изолированной вакансии в чистом цирконии. Проанализирована стабильность небольших кластеров вакансий, содержащих бивакансии, характеризующиеся различными расстояниями между двумя вакансиями, и тривакансии различной конфигурации. Получены распределение электронной плотности, энергетический спектр и поверхность Ферми для чистого циркония с изолированной вакансией. Установлена зависимость энергии Ферми кристалла циркония, элементарная ячейка которого содержит кластер вакансий, от количества вакансий в кластере. В рамках использования методов моделирования молекулярной динамики изучаются процессы образования, развития и отжига каскадов повреждений при различных значениях энергии первично выбитого атома, направлениях его движения и температуры в кристаллах чистого циркония. Подробно исследованы статистические и геометрические свойства каскадов. Показана возможность каналирования при развитии каскадов, что приводит к образованию краудионов. Проанализировано изменение статистических свойств кристалла при формировании каскада. Установлено изменение энергии формирования точечных дефектов и вакансионных кластеров при изменении температуры образца. Изучена пространственная самоорганизация ансамбля точечных дефектов в $\\alpha$-цирконии, облучаемом быстрыми нейтронами с помощью теории реакционных скоростей. Здесь учтены эластичные свойства среды при наличии дефектов и динамика плотности стоков. Рассмотрена динамика системы с однородным распределением точечных дефектов и пространственно распределённая система при различных режимах облучения (путём изменения температуры облучения и скорости дефектообразования). Установлены условия реорганизации неравновесных вакансий, продуцируемых в результате облучения, в кластеры. Исследовано распределение упругих полей при самоорганизации вакансионного ансамбля в чистом цирконии при сдвиговой и циклической деформации и изучено влияние облучения на напряжённо-деформированное состояние циркония."
+	},
+	"keywords": {
+		"ua": "дефекти, енергія формування, електронні властивості, опромінення, каскади, кластери, розрахунки з перших принципів, молекулярна динаміка, теорія реакційних швидкостей",
+		"en": "defects, binding energy, electronic properties, irradiation, cascades, clusters, $ab-initio$ calculations, molecular dynamics, reaction rate theory",
+		"ru": "дефекты, энергия формирования, электронные свойства, облучение, каскады, кластеры, расчёты из первых принципов, молекулярная динамика, теория реакционных скоростей"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. О. Харченко", "en": "V. O. Kharchenko", "ru": "В. О. Харченко"},
+			"OID": [17]
+		},
+		{
+			"AID": {"ua": "І. О. Лисенко", "en": "I. O. Lysenko", "ru": "И. О. Лысенко"},
+			"OID": [17]
+		},
+		{
+			"AID": {"ua": "О. М. Щокотова", "en": "O. M. Shchokotova", "ru": "О. М. Щокотова"},
+			"OID": [17]
+		},
+		{
+			"AID": {"ua": "А. І. Баштова", "en": "A. I. Bashtova", "ru": "А. И. Баштова"},
+			"OID": [17]
+		},
+		{
+			"AID": {"ua": "Д. О. Харченко", "en": "D. O. Kharchenko", "ru": "Д. О. Харченко"},
+			"OID": [17]
+		},
+		{
+			"AID": {"ua": "Ю. М. Овчаренко", "en": "Yu. M. Ovcharenko", "ru": "Ю. М. Овчаренко"},
+			"OID": [17]
+		},
+		{
+			"AID": {"ua": "С. В. Кохан", "en": "S. V. Kokhan", "ru": "С. В. Кохан"},
+			"OID": [17]
+		},
+		{
+			"AID": {"ua": "X. Wu", "en": "X. Wu", "ru": "X. Wu"},
+			"OID": [489]
+		},
+		{
+			"AID": {"ua": "B. Wen", "en": "B. Wen", "ru": "B. Wen"},
+			"OID": [489]
+		},
+		{
+			"AID": {"ua": "L. Wu", "en": "L. Wu", "ru": "L. Wu"},
+			"OID": [489]
+		},
+		{
+			"AID": {"ua": "W. Zhang", "en": "W. Zhang", "ru": "W. Zhang"},
+			"OID": [489]
+		}
+	],
+	"references": {
+		"count": 102,
+		"list":  [
+			{
+				"doi": "10.1007/978-3-540-49472-0_9",
+				"or":  "G. S. Was, Fundamentals of Radiation Materials Science (Berlin, Heidelberg: Springer-Verlag: 2007).",
+				"tr":  "G. S. Was, Fundamentals of Radiation Materials Science (Berlin, Heidelberg: Springer-Verlag: 2007)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Walgraef, Spatio-Temporal Pattern Formation (New York–Berlin–Heidelberg: Springer-Verlag: 1996).",
+				"tr":  "D. Walgraef, Spatio-Temporal Pattern Formation (New York–Berlin–Heidelberg: Springer-Verlag: 1996)."
+			},
+			{
+				"doi": "10.1080/00337577208234696",
+				"or":  "A. Jostobns and K. Farrell, Structural Damage and its Annealing Response in Neutron Irradiated Magnesium, Rad. Effects, 15: 217 (1972).",
+				"tr":  "A. Jostobns and K. Farrell, Structural Damage and its Annealing Response in Neutron Irradiated Magnesium, Rad. Effects, 15: 217 (1972)."
+			},
+			{
+				"doi": "10.1016/0036-9748(74)90015-5",
+				"or":  "J. O. Steigler and K. Farrell, Alignment of Dislocation Loops in Irradiated Metals, Scr. Metall., 8: 651 (1974).",
+				"tr":  "J. O. Steigler and K. Farrell, Alignment of Dislocation Loops in Irradiated Metals, Scr. Metall., 8: 651 (1974)."
+			},
+			{
+				"doi": "10.1038/229403a0",
+				"or":  "J. H. Evans, Observation of a Regular Void Array in High Purity Molybdenum Irradiated with 2 MeV Nitrogen Ions, Nature, 229: 403 (1971).",
+				"tr":  "J. H. Evans, Observation of a Regular Void Array in High Purity Molybdenum Irradiated with 2 MeV Nitrogen Ions, Nature, 229: 403 (1971)."
+			},
+			{
+				"doi": "10.1023/A:1015062218246",
+				"or":  "N. M. Ghoniem, D. Walgraef, and S. Zinkle, Theory and Experiment of Nanostructure Self-Organization in Irradiated Materials, J. Comput. Aided Mater. Des., 8: 1 (2001).",
+				"tr":  "N. M. Ghoniem, D. Walgraef, and S. Zinkle, Theory and Experiment of Nanostructure Self-Organization in Irradiated Materials, J. Comput. Aided Mater. Des., 8: 1 (2001)."
+			},
+			{
+				"doi": "10.1016/0022-3115(86)90248-5",
+				"or":  "D. J. Mazey and J. E. Evans, Bubble Lattice Formation in Titanium Injected with Krypton Ions, J. Nucl. Mater., 138: 16 (1986).",
+				"tr":  "D. J. Mazey and J. E. Evans, Bubble Lattice Formation in Titanium Injected with Krypton Ions, J. Nucl. Mater., 138: 16 (1986)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/SSP.3-4.279",
+				"or":  "W. Jager, P. Ehrhart, and W. Shilling, Dislocation Patterning under Irradiation, Solid State Phenomena, 3–4: 297 (1988).",
+				"tr":  "W. Jager, P. Ehrhart, and W. Shilling, Dislocation Patterning under Irradiation, Solid State Phenomena, 3–4: 297 (1988)."
+			},
+			{
+				"doi": "10.1016/0022-3115(93)90104-7",
+				"or":  "W. Jager and H. Trinkaus, Defect Ordering in Metals under Irradiation, J. Nucl. Mater., 205: 394 (1993).",
+				"tr":  "W. Jager and H. Trinkaus, Defect Ordering in Metals under Irradiation, J. Nucl. Mater., 205: 394 (1993)."
+			},
+			{
+				"doi": "10.1016/0022-3115(86)90004-8",
+				"or":  "J. E. Evans and D. J. Mazey, Solid Bubble Formation in Titanium Injected with Krypton Ions, J. Nucl. Mater., 138: 176 (1986).",
+				"tr":  "J. E. Evans and D. J. Mazey, Solid Bubble Formation in Titanium Injected with Krypton Ions, J. Nucl. Mater., 138: 176 (1986)."
+			},
+			{
+				"doi": "10.1016/0022-3115(77)90212-4",
+				"or":  "B. A. Loomis, S. B. Gerber, and A. Taylor, Void Ordering in Ion-Irradiated Nb and Nb–1% Zr, J. Nucl. Mater., 68: 19 (1977).",
+				"tr":  "B. A. Loomis, S. B. Gerber, and A. Taylor, Void Ordering in Ion-Irradiated Nb and Nb–1% Zr, J. Nucl. Mater., 68: 19 (1977)."
+			},
+			{
+				"doi": "10.1070/PU1996v039n01ABEH000125",
+				"or":  "Ф. Х. Мирзоев, В. Я. Панченко, Л. А. Шелепин, Лазерное управление процессами в твёрдом теле, Успехи физ. наук, 166: 3 (1996).",
+				"tr":  "F. Kh. Mirzoev, V. Ya. Panchenko, and L. A. Shelepin, Laser Control Processes in Solids, Physics-Uspekhi, 39: 1 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.53.14782",
+				"or":  "D. Walgraef, J. Lauzeral, and N. M. Ghoniem, Theory and Numerical Simulations of Defect Ordering in Irradiated Materials, Phys. Rev. B, 53: 14782 (1996).",
+				"tr":  "D. Walgraef, J. Lauzeral, and N. M. Ghoniem, Theory and Numerical Simulations of Defect Ordering in Irradiated Materials, Phys. Rev. B, 53: 14782 (1996)."
+			},
+			{
+				"doi": "10.1080/01418617908243098",
+				"or":  "M. H. Yoo, Growth Kinetics of Dislocation Loops and Voids—the Role of Divacancies, Philosophical Magazine, 40: 193 (1979).",
+				"tr":  "M. H. Yoo, Growth Kinetics of Dislocation Loops and Voids—the Role of Divacancies, Philosophical Magazine, 40: 193 (1979)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.67.064103",
+				"or":  "D. Walgraef and N. M. Ghoniem, Effects of Glissile Interstitial Clusters on Microstructure Self-Organization in Irradiated Materials, Phys. Rev. B, 67: 064103 (2003).",
+				"tr":  "D. Walgraef and N. M. Ghoniem, Effects of Glissile Interstitial Clusters on Microstructure Self-Organization in Irradiated Materials, Phys. Rev. B, 67: 064103 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Douglas, Metallurgy of Zirconium (Moscow: Atomizdat: 1976) (Russian translation).",
+				"tr":  "D. Douglas, Metallurgy of Zirconium (Moscow: Atomizdat: 1976) (Russian translation)."
+			},
+			{
+				"doi": "10.1016/j.net.2014.12.015",
+				"or":  "C. Yan, R. Wang, Y. Wang, X. Wang, and G. Bai, Effects of Ion Irradiation on Microstructure and Properties of Zirconium Alloys—A Review, Nucl. Eng. Technol., 47: 323 (2015).",
+				"tr":  "C. Yan, R. Wang, Y. Wang, X. Wang, and G. Bai, Effects of Ion Irradiation on Microstructure and Properties of Zirconium Alloys—A Review, Nucl. Eng. Technol., 47: 323 (2015)."
+			},
+			{
+				"doi": "10.1016/0022-3115(93)90090-L",
+				"or":  "M. Griffiths, D. Gilbon, C. Regnard, and C. Lemaignan, HVEM Study of the Effects of Alloying Elements and Impurities on Radiation Damage in Zr-Alloys, J. Nucl. Mater., 205: 273 (1993).",
+				"tr":  "M. Griffiths, D. Gilbon, C. Regnard, and C. Lemaignan, HVEM Study of the Effects of Alloying Elements and Impurities on Radiation Damage in Zr-Alloys, J. Nucl. Mater., 205: 273 (1993)."
+			},
+			{
+				"doi": "10.1016/0022-3115(94)90342-5",
+				"or":  "M. Griffiths, R. C. Styles, C. H. Woo, F. Phillipp, and W. Frank, Study of Point Defect Mobilities in Zirconium during Electron Irradiation in a High-Voltage Electron Microscope, J. Nucl. Mater., 208: 324 (1994).",
+				"tr":  "M. Griffiths, R. C. Styles, C. H. Woo, F. Phillipp, and W. Frank, Study of Point Defect Mobilities in Zirconium during Electron Irradiation in a High-Voltage Electron Microscope, J. Nucl. Mater., 208: 324 (1994)."
+			},
+			{
+				"doi": "10.1080/00337577308232242",
+				"or":  "G. J. C. Carpenter, Void Formation in Zirconium under Irradiation in the High-Voltage Electron Microscope, Rad. Eff., 19: 189 (1973).",
+				"tr":  "G. J. C. Carpenter, Void Formation in Zirconium under Irradiation in the High-Voltage Electron Microscope, Rad. Eff., 19: 189 (1973)."
+			},
+			{
+				"doi": "10.1016/0022-3115(80)90269-X",
+				"or":  "D. Faulkner and C. H. Woo, Void Swelling in Zirconium, J. Nucl. Mater., 90: 3073 (1980).",
+				"tr":  "D. Faulkner and C. H. Woo, Void Swelling in Zirconium, J. Nucl. Mater., 90: 3073 (1980)."
+			},
+			{
+				"doi": "10.1016/0022-3115(88)90092-X",
+				"or":  "D. J. Bacon, A Review of Computer Models of Point Ddefects in HCP Metals, J. Nucl. Mater., 159: 176 (1988).",
+				"tr":  "D. J. Bacon, A Review of Computer Models of Point Ddefects in HCP Metals, J. Nucl. Mater., 159: 176 (1988)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2014.06.012",
+				"or":  "C. Varvenne, O. Mackain, and E. Clouet, Vacancy Clustering in Zirconium: An Atomic-Scale Study, Acta Mater., 78: 65 (2014).",
+				"tr":  "C. Varvenne, O. Mackain, and E. Clouet, Vacancy Clustering in Zirconium: An Atomic-Scale Study, Acta Mater., 78: 65 (2014)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/SSP.129.75",
+				"or":  "G. Verite, F. Willaime, and C. C. Fu, Anisotropy of the Vacancy Migration in Ti, Zr and Hf Hexagonal Close-Packed Metals from First Principles, Solid State Phenom., 129, 75 (2007).",
+				"tr":  "G. Verite, F. Willaime, and C. C. Fu, Anisotropy of the Vacancy Migration in Ti, Zr and Hf Hexagonal Close-Packed Metals from First Principles, Solid State Phenom., 129, 75 (2007)."
+			},
+			{
+				"doi": "10.5488/CMP.16.13801",
+				"or":  "V. O. Kharchenko and D. O. Kharchenko, Ab-initio Calculations for the Structural Properties of Zr–Nb Alloys, Cond. Mat. Phys., 16: 13801 (2013).",
+				"tr":  "V. O. Kharchenko and D. O. Kharchenko, Ab-initio Calculations for the Structural Properties of Zr–Nb Alloys, Cond. Mat. Phys., 16: 13801 (2013)."
+			},
+			{
+				"doi": "10.1016/0022-3115(91)90503-Y",
+				"or":  "V. G. Kapinos, Yu. N. Osetsky, and P. A. Platonov, Simulation of Defect Cascade Collapse in HCP Zirconium, J. Nucl. Mater., 184: 125, (1991).",
+				"tr":  "V. G. Kapinos, Yu. N. Osetsky, and P. A. Platonov, Simulation of Defect Cascade Collapse in HCP Zirconium, J. Nucl. Mater., 184: 125, (1991)."
+			},
+			{
+				"doi": "10.1016/S0022-3115(97)00365-6",
+				"or":  "S. J. Wooding, L. M. Howe, F. Gao, A. F. Calder, and D. J. Bacon, A Molecular Dynamics Study of High-Energy Displacement Cascades in -Zirconium, J. Nucl. Mater., 254: 191 (1998).",
+				"tr":  "S. J. Wooding, L. M. Howe, F. Gao, A. F. Calder, and D. J. Bacon, A Molecular Dynamics Study of High-Energy Displacement Cascades in -Zirconium, J. Nucl. Mater., 254: 191 (1998)."
+			},
+			{
+				"doi": "10.1016/S0022-3115(01)00483-4",
+				"or":  "F. Gao, D. J. Bacon, L. M. Howe, and C. B. So, Temperature-Dependence of Defect Creation and Clustering by Displacement Cascades in -Zirconium, J. Nucl. Mater., 294: 288 (2001).",
+				"tr":  "F. Gao, D. J. Bacon, L. M. Howe, and C. B. So, Temperature-Dependence of Defect Creation and Clustering by Displacement Cascades in -Zirconium, J. Nucl. Mater., 294: 288 (2001)."
+			},
+			{
+				"doi": "10.1016/j.nimb.2005.08.167",
+				"or":  "R. E. Voskoboinikov, Yu. N. Osetsky, and D. J. Bacon, Identification and Morphology of Point Defect Clusters Created in Displacement Cascades in -Zirconium, Nucl. Instrum. and Meth. B, 242: 530 (2006).",
+				"tr":  "R. E. Voskoboinikov, Yu. N. Osetsky, and D. J. Bacon, Identification and Morphology of Point Defect Clusters Created in Displacement Cascades in -Zirconium, Nucl. Instrum. and Meth. B, 242: 530 (2006)."
+			},
+			{
+				"doi": "10.1016/j.jnucmat.2007.07.011",
+				"or":  "N. de Diego, Yu. N. Osetsky, and D. J. Bacon, Structure and Properties of Vacancy and Interstitial Clusters in -Zirconium, J. Nucl. Mater., 374: 87 (2008).",
+				"tr":  "N. de Diego, Yu. N. Osetsky, and D. J. Bacon, Structure and Properties of Vacancy and Interstitial Clusters in -Zirconium, J. Nucl. Mater., 374: 87 (2008)."
+			},
+			{
+				"doi": "10.1016/j.jnucmat.2015.10.039",
+				"or":  "A. V. Barashev, S. I. Golubov, and R. E. Stoller, Corrigendum to ‘Theoretical Investigation of Microstructure Evolution and Deformation of Zirconium under Neutron Irradiation’ [J. Nucl. Mater. 461 (2015) 85–94], J. Nucl. Mater., 461: 85 (2015).",
+				"tr":  "A. V. Barashev, S. I. Golubov, and R. E. Stoller, Corrigendum to ‘Theoretical Investigation of Microstructure Evolution and Deformation of Zirconium under Neutron Irradiation’ [J. Nucl. Mater. 461 (2015) 85–94], J. Nucl. Mater., 461: 85 (2015)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.39.8867",
+				"or":  "D. Walgraef and N. M. Ghoniem, Spatial Instabilities and Dislocation-Loop Ordering in Irradiated Materials, Phys. Rev. B, 39: 8867 (1989).",
+				"tr":  "D. Walgraef and N. M. Ghoniem, Spatial Instabilities and Dislocation-Loop Ordering in Irradiated Materials, Phys. Rev. B, 39: 8867 (1989)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.52.3951",
+				"or":  "D. Walgraef and N. M. Ghoniem, Nonlinear Dynamics of Self-Organized Microstructure under Irradiation, Phys. Rev. B, 52: 3951 (1995).",
+				"tr":  "D. Walgraef and N. M. Ghoniem, Nonlinear Dynamics of Self-Organized Microstructure under Irradiation, Phys. Rev. B, 52: 3951 (1995)."
+			},
+			{
+				"doi": "10.1140/epjb/e2012-30522-3",
+				"or":  "D. O. Kharchenko and V. O. Kharchenko, Noise-Induced Pattern Formation in System of Point Defects Subjected to Irradiation, Eur. Phys. J. B, 85: 383 (2012).",
+				"tr":  "D. O. Kharchenko and V. O. Kharchenko, Noise-Induced Pattern Formation in System of Point Defects Subjected to Irradiation, Eur. Phys. J. B, 85: 383 (2012)."
+			},
+			{
+				"doi": "10.15407/ujpe58.10.0993",
+				"or":  "Д. O. Харченко, В. O. Харченко, A. I. Баштова, Моделювання просторової організації точкових дефектів в опромінюваних системах, Укр. фіз. журнал., 58, № 10: 994 (2013).",
+				"tr":  "D. O. Kharchenko, V. O. Kharchenko, and A. I. Bashtova, Simulation of a Spatial Organization of Point Defects in Irradiated Systems, Ukr. J. Phys., 58: 993 (2013)."
+			},
+			{
+				"doi": "10.5488/CMP.16.33001",
+				"or":  "D. O. Kharchenko and V. O. Kharchenko, Properties of Spatial Arrangement of V-Type Defects in Irradiated Materials: 3D-Modelling, Cond. Mat. Phys., 16: 33001 (2013).",
+				"tr":  "D. O. Kharchenko and V. O. Kharchenko, Properties of Spatial Arrangement of V-Type Defects in Irradiated Materials: 3D-Modelling, Cond. Mat. Phys., 16: 33001 (2013)."
+			},
+			{
+				"doi": "10.1080/10420150.2014.905577",
+				"or":  "D. O. Kharchenko, V. O. Kharchenko, and A. I. Bashtova, Modeling Self-Organization of Nano-Size Vacancy Clusters in Stochastic Systems Subjected to Irradiation, Rad. Eff. Def. Sol., 169: 418 (2014).",
+				"tr":  "D. O. Kharchenko, V. O. Kharchenko, and A. I. Bashtova, Modeling Self-Organization of Nano-Size Vacancy Clusters in Stochastic Systems Subjected to Irradiation, Rad. Eff. Def. Sol., 169: 418 (2014)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.89.042133",
+				"or":  "D. O. Kharchenko and V. O. Kharchenko, Abnormal Grain Growth in Nonequilibrium Systems: Effects of Point Defect Patterning, Phys. Rev. E, 89: 042133 (2014).",
+				"tr":  "D. O. Kharchenko and V. O. Kharchenko, Abnormal Grain Growth in Nonequilibrium Systems: Effects of Point Defect Patterning, Phys. Rev. E, 89: 042133 (2014)."
+			},
+			{
+				"doi": "10.1016/0022-3115(79)90021-7",
+				"or":  "N. M. Ghoniem and G. L. Kulcinski, The Effect of Damage Rate on Void Growth in Metals, J. Nucl. Mater., 82: 392 (1979).",
+				"tr":  "N. M. Ghoniem and G. L. Kulcinski, The Effect of Damage Rate on Void Growth in Metals, J. Nucl. Mater., 82: 392 (1979)."
+			},
+			{
+				"doi": "10.1016/0022-3115(89)90462-5",
+				"or":  "V. I. Dubinko, A. V. Tur, A. A. Turkin, and V. V. Yanovskij, A Mechanism of Formation and Properties of the Void Lattice in Metals under Irradiation, J. Nucl. Mater., 161: 57 (1989).",
+				"tr":  "V. I. Dubinko, A. V. Tur, A. A. Turkin, and V. V. Yanovskij, A Mechanism of Formation and Properties of the Void Lattice in Metals under Irradiation, J. Nucl. Mater., 161: 57 (1989)."
+			},
+			{
+				"doi": "10.1088/0965-0393/17/6/064002",
+				"or":  "S. Rokkam, A. El-Azab, P. Millett, and D. Wolf, Phase Field Modeling of Void Nucleation and Growth in Irradiated Metals, Modelling Simul. Matter. Sci. Eng., 17: 064002 (2009).",
+				"tr":  "S. Rokkam, A. El-Azab, P. Millett, and D. Wolf, Phase Field Modeling of Void Nucleation and Growth in Irradiated Metals, Modelling Simul. Matter. Sci. Eng., 17: 064002 (2009)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2010.01.043",
+				"or":  "S. Y. Hu and C. H. Henager, Phase-Field Simulation of Void Migration in a Temperature Gradient, Acta Mater., 58: 3230 (2010).",
+				"tr":  "S. Y. Hu and C. H. Henager, Phase-Field Simulation of Void Migration in a Temperature Gradient, Acta Mater., 58: 3230 (2010)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2012.07.049",
+				"or":  "A. A. Semenov and C. H. Woo, Phase-Field Modeling of Void Formation and Growth under Irradiation, Acta Mater., 60: 6112 (2012).",
+				"tr":  "A. A. Semenov and C. H. Woo, Phase-Field Modeling of Void Formation and Growth under Irradiation, Acta Mater., 60: 6112 (2012)."
+			},
+			{
+				"doi": "10.1140/epjb/e2016-70090-x",
+				"or":  "D. O. Kharchenko and V. O. Kharchenko, A study of Void Size Growth in Nonequilibrium Stochastic Systems of Point Defects, Eur. Phys. J. B, 89: 123 (2016).",
+				"tr":  "D. O. Kharchenko and V. O. Kharchenko, A study of Void Size Growth in Nonequilibrium Stochastic Systems of Point Defects, Eur. Phys. J. B, 89: 123 (2016)."
+			},
+			{
+				"doi": "10.1063/1.1922578",
+				"or":  "F. Leonard and M. Haataja, Alloy Destabilization by Dislocations, Appl. Phys. Lett., 86: 181909 (2005).",
+				"tr":  "F. Leonard and M. Haataja, Alloy Destabilization by Dislocations, Appl. Phys. Lett., 86: 181909 (2005)."
+			},
+			{
+				"doi": "10.1080/10420150.2016.1274753",
+				"or":  "D. O. Kharchenko and V. O. Kharchenko, Modeling Phase Decomposition and Patterning in Binary Alloy Systems Subjected to Neutron Irradiation, Rad. Eff. Def. Sol., 171: 819 (2016).",
+				"tr":  "D. O. Kharchenko and V. O. Kharchenko, Modeling Phase Decomposition and Patterning in Binary Alloy Systems Subjected to Neutron Irradiation, Rad. Eff. Def. Sol., 171: 819 (2016)."
+			},
+			{
+				"doi": "10.15407/ujpe61.03.0265",
+				"or":  "Д. O. Харченко, В. O. Харченко, A. I. Баштова, Самоорганізація вакансійного ансамблю при спінодальному розпаді бінарних систем, підданих сталій дії радіаційного опромінення, Укр. фіз. журнал, 61, № 3: 276 (2016).",
+				"tr":  "D. O. Kharchenko, V. O. Kharchenko, and A. I. Bashtova, Self-Organization of an Ensemble of Vacancies under the Spinodal Decomposition of Binary Systems at Continuous Irradiation, Ukr. J. Phys., 61, No. 3: 265 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Weinan, Principles of Multiscale Modeling (Cambridge: Cambridge University Press: 2011).",
+				"tr":  "E. Weinan, Principles of Multiscale Modeling (Cambridge: Cambridge University Press: 2011)."
+			},
+			{
+				"doi": "10.15407/ufm.13.02.101",
+				"or":  "Д. O. Харченко, І. O. Лисенко, В. О. Харченко, Моделювання мікростру-ктурних перетворень у системах, підданих радіяційному впливу, Успехи физ. мет., 13, № 2: 101 (2012).",
+				"tr":  "D. O. Kharchenko, I. O. Lysenko, and V. O. Kharchenko, Modelling of Microstructural Transformations in the Systems Subject to Radiation, Usp. Fiz. Met., 13, No. 2: 101 (2012)."
+			},
+			{
+				"doi": "10.1080/09500830701191393",
+				"or":  "M. I. Mendelev and G. J. Ackland, Development of an Interatomic Potential for the Simulation of Phase Transformations in Zirconium, Phil. Mag. Lett., 87: 349 (2007).",
+				"tr":  "M. I. Mendelev and G. J. Ackland, Development of an Interatomic Potential for the Simulation of Phase Transformations in Zirconium, Phil. Mag. Lett., 87: 349 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "D. H. Ruiza, L. M. Gribaudo, and A. M. Montic, Materials Research, 8: 431 (2005).",
+				"tr":  "D. H. Ruiza, L. M. Gribaudo, and A. M. Montic, Materials Research, 8: 431 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.84.2885",
+				"or":  "R. A. Enrique and P. Bellon, Compositional Patterning in Systems Driven by Competing Dynamics Of Different Length Scale, Phys. Rev. Lett., 84: 2885 (2000).",
+				"tr":  "R. A. Enrique and P. Bellon, Compositional Patterning in Systems Driven by Competing Dynamics Of Different Length Scale, Phys. Rev. Lett., 84: 2885 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.63.134111",
+				"or":  "R. A. Enrique and P. Bellon, Compositional Patterning in Immiscible Alloys Driven by Irradiation, Phys. Rev. B, 63: 134111 (2001).",
+				"tr":  "R. A. Enrique and P. Bellon, Compositional Patterning in Immiscible Alloys Driven by Irradiation, Phys. Rev. B, 63: 134111 (2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.63.184114",
+				"or":  "J.-M. Roussel and P. Bellon, Vacancy-Assisted Phase Separation with Asymmetric Atomic Mobility: Coarsening Rates, Precipitate Composition, and Morphology, Phys. Rev. B, 63: 184114, (2001).",
+				"tr":  "J.-M. Roussel and P. Bellon, Vacancy-Assisted Phase Separation with Asymmetric Atomic Mobility: Coarsening Rates, Precipitate Composition, and Morphology, Phys. Rev. B, 63: 184114, (2001)."
+			},
+			{
+				"doi": "10.1016/j.physa.2010.04.027",
+				"or":  "D. Kharchenko, I. Lysenko, and V. Kharchenko, Noise Induced Patterning in Periodic Systems with Conserved Dynamics, Physica A, 389: 3356 (2010).",
+				"tr":  "D. Kharchenko, I. Lysenko, and V. Kharchenko, Noise Induced Patterning in Periodic Systems with Conserved Dynamics, Physica A, 389: 3356 (2010)."
+			},
+			{
+				"doi": "10.2478/s11534-010-0076-y",
+				"or":  "D. Kharchenko, V. Kharchenko, and I. Lysenko, Pattern Selection Processes and Noise Induced Pattern-Forming Transitions in Periodic Systems with Transient Dynamics, Cent. Eur. J. Phys., 9: 698 (2011).",
+				"tr":  "D. Kharchenko, V. Kharchenko, and I. Lysenko, Pattern Selection Processes and Noise Induced Pattern-Forming Transitions in Periodic Systems with Transient Dynamics, Cent. Eur. J. Phys., 9: 698 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. О. Харченко, В. О. Харченко, С. В. Кохан, I. О. Лисенко, Моделювання зміни мікроструктури опромінюваних систем методом фазового поля кристалa, Укр. фіз. журнал, 57, № 10: 1069 (2012).",
+				"tr":  "D. O. Kharchenko, V. O. Kharchenko, S. V. Kokhan, and I. O. Lysenko, Modeling of Microstructural Changes in Irradiated Systems Using the Phase Field Crystal Method, Ukr. J. Phys., 57, No. 10: 1069 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.88.245701",
+				"or":  "K. R. Elder, M. Katakowski, M. Haataja, and M. Grant, Modeling Elasticity in Crystal Growth, Phys. Rev. Lett., 88: 245701 (2002).",
+				"tr":  "K. R. Elder, M. Katakowski, M. Haataja, and M. Grant, Modeling Elasticity in Crystal Growth, Phys. Rev. Lett., 88: 245701 (2002)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.80.031602",
+				"or":  "A. Jaatinen, C. V. Achim, K. R. Elder, and T. Ala-Nissila, Phys. Rev. E, 80: 031602 (2009).",
+				"tr":  "A. Jaatinen, C. V. Achim, K. R. Elder, and T. Ala-Nissila, Phys. Rev. E, 80: 031602 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.73.031609",
+				"or":  "J. Berry, M. Garnt, and K. R. Elder, Diffusive Atomistic Dynamics of Edge Dislocations in Two Dimensions, Phys. Rev. E, 73: 031609 (2006).",
+				"tr":  "J. Berry, M. Garnt, and K. R. Elder, Diffusive Atomistic Dynamics of Edge Dislocations in Two Dimensions, Phys. Rev. E, 73: 031609 (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.75.064107",
+				"or":  "K. R. Elder, N. Provatas, J. Berry, P. Stefanovich, and M. Grant, Phys. Rev. B, 75: 064107 (2007).",
+				"tr":  "K. R. Elder, N. Provatas, J. Berry, P. Stefanovich, and M. Grant, Phys. Rev. B, 75: 064107 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Onuki, Phase Transition Dynamics (Cambridge: Cambridge University Press: 2002).",
+				"tr":  "A. Onuki, Phase Transition Dynamics (Cambridge: Cambridge University Press: 2002)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.70.184114",
+				"or":  "A. Minami and A. Onuki, Dislocation Formation in Two-Phase Alloys, Phys. Rev. B, 70: 184114 (2004).",
+				"tr":  "A. Minami and A. Onuki, Dislocation Formation in Two-Phase Alloys, Phys. Rev. B, 70: 184114 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.68.061502",
+				"or":  "A. Onuki, Plastic Flow in Two-dimensional Solids, Phys. Rev. E, 68: 061502 (2003).",
+				"tr":  "A. Onuki, Plastic Flow in Two-dimensional Solids, Phys. Rev. E, 68: 061502 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.72.100101",
+				"or":  "A. Minami and A. Onuki, Dislocation Formation and Plastic Flow in Binary Alloys in Three Dimensions, Phys. Rev. B, 72: 100101 (2005).",
+				"tr":  "A. Minami and A. Onuki, Dislocation Formation and Plastic Flow in Binary Alloys in Three Dimensions, Phys. Rev. B, 72: 100101 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Onuki, A. Furukawa, and A. Minami, Pramana J. Phys., 64: 661 (2005).",
+				"tr":  "A. Onuki, A. Furukawa, and A. Minami, Pramana J. Phys., 64: 661 (2005)."
+			},
+			{
+				"doi": "10.1080/10420150.2015.1063058",
+				"or":  "D. O. Kharchenko, O. M. Shchokotova, I. O. Lysenko, and V. O. Kharchenko, Modeling Microstructure Evolution of Binary Systems Subjected to Irradiation and Mechanical Loading, Rad. Eff. Def. Sol., 170: 584 (2015).",
+				"tr":  "D. O. Kharchenko, O. M. Shchokotova, I. O. Lysenko, and V. O. Kharchenko, Modeling Microstructure Evolution of Binary Systems Subjected to Irradiation and Mechanical Loading, Rad. Eff. Def. Sol., 170: 584 (2015)."
+			},
+			{
+				"doi": "10.5488/CMP.18.23003",
+				"or":  "D. O. Kharchenko, O. M. Schokotova, A. I. Bashtova, and I. O. Lysenko, A Study of Phase Separation Processes in Presence of Dislocations in Binary Systems Subjected to Irradiation, Cond. Mat. Phys., 18: 23003 (2015).",
+				"tr":  "D. O. Kharchenko, O. M. Schokotova, A. I. Bashtova, and I. O. Lysenko, A Study of Phase Separation Processes in Presence of Dislocations in Binary Systems Subjected to Irradiation, Cond. Mat. Phys., 18: 23003 (2015)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.65.165414",
+				"or":  "M. Haataja, J. Muller, A. D. Rutenberg, and M. Grant, Dislocations and Morphological Instabilities: Continuum Modeling of Misfitting Heteroepitaxial Films, Phys. Rev. B, 65: 165414 (2002).",
+				"tr":  "M. Haataja, J. Muller, A. D. Rutenberg, and M. Grant, Dislocations and Morphological Instabilities: Continuum Modeling of Misfitting Heteroepitaxial Films, Phys. Rev. B, 65: 165414 (2002)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.69.081201",
+				"or":  "M. Haataja and F. Leonard, Influence of Mobile Dislocations on Phase Separation in Binary Alloys, Phys. Rev. B, 69: 081201 (2004).",
+				"tr":  "M. Haataja and F. Leonard, Influence of Mobile Dislocations on Phase Separation in Binary Alloys, Phys. Rev. B, 69: 081201 (2004)."
+			},
+			{
+				"doi": "10.1063/1.2147732",
+				"or":  "M. Haataja, J. Mahon, N. Provatas, and F. Leonard, Scaling of Domain Size during Spinodal Decomposition: Dislocation Discreteness and Mobility Effects, Appl. Phys. Lett., 87: 251901 (2005).",
+				"tr":  "M. Haataja, J. Mahon, N. Provatas, and F. Leonard, Scaling of Domain Size during Spinodal Decomposition: Dislocation Discreteness and Mobility Effects, Appl. Phys. Lett., 87: 251901 (2005)."
+			},
+			{
+				"doi": "10.1063/1.464913",
+				"or":  "A. D. Becke, Density-Functional Thermochemistry. III. The Role of Exact Exchange, J. Chem. Phys., 98: 5648 (1993).",
+				"tr":  "A. D. Becke, Density-Functional Thermochemistry. III. The Role of Exact Exchange, J. Chem. Phys., 98: 5648 (1993)."
+			},
+			{
+				"doi": "10.1063/1.1904586",
+				"or":  "K. Burke, J. Werschnik, and E. K. U. Gross, Thime-Dependent Density Functional Theory: Past, Present, and Future, J. Chem. Phys., 123: 062206 (2005).",
+				"tr":  "K. Burke, J. Werschnik, and E. K. U. Gross, Thime-Dependent Density Functional Theory: Past, Present, and Future, J. Chem. Phys., 123: 062206 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.28.1809",
+				"or":  "D. C. Langreth and M. J. Mehl, Beyond the Local-Density Approximation in Calculations of Ground-State Electronic Properties, Phys. Rev. B, 28: 1809 (1983).",
+				"tr":  "D. C. Langreth and M. J. Mehl, Beyond the Local-Density Approximation in Calculations of Ground-State Electronic Properties, Phys. Rev. B, 28: 1809 (1983)."
+			},
+			{
+				"doi": "10.1103/PhysRevA.38.3098",
+				"or":  "A. D. Becke, Density-Functional Exchange-Energy Approximation with Correct Asymptotic Behavior, Phys. Rev. A, 38: 3098 (1988).",
+				"tr":  "A. D. Becke, Density-Functional Exchange-Energy Approximation with Correct Asymptotic Behavior, Phys. Rev. A, 38: 3098 (1988)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.12.3060",
+				"or":  "O. K. Andersen, Linear Methods in Band Theory, Phys. Rev. B, 12: 3060 (1975).",
+				"tr":  "O. K. Andersen, Linear Methods in Band Theory, Phys. Rev. B, 12: 3060 (1975)."
+			},
+			{
+				"doi": "10.1103/PhysRev.34.1293",
+				"or":  "J. Slater and H. C. Verma, The Theory of Complex Spectra, Phys. Rev., 34: 1293 (1929).",
+				"tr":  "J. Slater and H. C. Verma, The Theory of Complex Spectra, Phys. Rev., 34: 1293 (1929)."
+			},
+			{
+				"doi": "",
+				"or":  "P. W. Atkins, Molecular Quantum Mechanics Parts I and II: An Introduction to Quantum Chemistry (Oxford: Oxford University Press: 1977).",
+				"tr":  "P. W. Atkins, Molecular Quantum Mechanics Parts I and II: An Introduction to Quantum Chemistry (Oxford: Oxford University Press: 1977)."
+			},
+			{
+				"doi": "10.1103/PhysRev.81.385",
+				"or":  "J. C. Slater, A Simplification of the Hartree–Fock Method, Phys. Rev., 81: 385 (1951).",
+				"tr":  "J. C. Slater, A Simplification of the Hartree–Fock Method, Phys. Rev., 81: 385 (1951)."
+			},
+			{
+				"doi": "10.1103/PhysRev.91.528",
+				"or":  "J. C. Slater, A Generalized Self-Consistent Field Method, Phys. Rev., 91: 528 (1953).",
+				"tr":  "J. C. Slater, A Generalized Self-Consistent Field Method, Phys. Rev., 91: 528 (1953)."
+			},
+			{
+				"doi": "10.1103/PhysRev.140.A1133",
+				"or":  "W. Kohn and L. J. Sham, Self-Consistent Equations Including Exchange and Correlation Effects, Phys. Rev., 140: A1133 (1965).",
+				"tr":  "W. Kohn and L. J. Sham, Self-Consistent Equations Including Exchange and Correlation Effects, Phys. Rev., 140: A1133 (1965)."
+			},
+			{
+				"doi": "10.1103/PhysRev.136.B864",
+				"or":  "P. Hohenberg and W. Kohn, Inhomogeneous Electron Gas, Phys. Rev., 136: B864 (1964).",
+				"tr":  "P. Hohenberg and W. Kohn, Inhomogeneous Electron Gas, Phys. Rev., 136: B864 (1964)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.13.4274",
+				"or":  "O. Gunnarsson and B. I. Lundquist, Exchange and Correlation in Atoms, Molecules, and Solids by the Spin-Density-Functional Formalism, Phys. Rev. B, 13: 4274 (1976).",
+				"tr":  "O. Gunnarsson and B. I. Lundquist, Exchange and Correlation in Atoms, Molecules, and Solids by the Spin-Density-Functional Formalism, Phys. Rev. B, 13: 4274 (1976)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.61.689",
+				"or":  "R. O. Jones and O. Gunnarsson, The Density Functional Formalism, its Applications and Prospects, Rev. Mod. Phys., 61: 689 (1989).",
+				"tr":  "R. O. Jones and O. Gunnarsson, The Density Functional Formalism, its Applications and Prospects, Rev. Mod. Phys., 61: 689 (1989)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.29.6443",
+				"or":  "S. D. Murray and M. I. Baskes, Embedded-Atom Method: Derivation and Application to Impurities, Surfaces, and Other Defects in Metals, Phys. Rev. B, 29: 4436453 (1984).",
+				"tr":  "S. D. Murray and M. I. Baskes, Embedded-Atom Method: Derivation and Application to Impurities, Surfaces, and Other Defects in Metals, Phys. Rev. B, 29: 4436453 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Kittel, Introduction to Solid State Physics (New York–London–Sydney–Toronto: Wiley: 2004).",
+				"tr":  "C. Kittel, Introduction to Solid State Physics (New York–London–Sydney–Toronto: Wiley: 2004)."
+			},
+			{
+				"doi": "10.1038/287420a0",
+				"or":  "K. Krishan, Kinetics of Void-Lattice Formation in Metals, Nature, 287: 420 (1980).",
+				"tr":  "K. Krishan, Kinetics of Void-Lattice Formation in Metals, Nature, 287: 420 (1980)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/SSP.3-4.267",
+				"or":  "K. Krishan, Self Organization and Stability of Rate Processes during Irradiation, Solid State Phenom., 3–4: 267 (1988).",
+				"tr":  "K. Krishan, Self Organization and Stability of Rate Processes during Irradiation, Solid State Phenom., 3–4: 267 (1988)."
+			},
+			{
+				"doi": "10.1209/0295-5075/3/12/004",
+				"or":  "S. M. Murphy, Spatial Instability in Dislocation Structure under Irradiation, Europhys. Lett., 3: 1267 (1987).",
+				"tr":  "S. M. Murphy, Spatial Instability in Dislocation Structure under Irradiation, Europhys. Lett., 3: 1267 (1987)."
+			},
+			{
+				"doi": "10.1016/0022-3115(88)90055-4",
+				"or":  "E. A. Koptelov and A. A. Semenov, The Fluctuation Instability of the Homogeneous Void Distribution, J. Nucl. Mater., 160: 253 (1988).",
+				"tr":  "E. A. Koptelov and A. A. Semenov, The Fluctuation Instability of the Homogeneous Void Distribution, J. Nucl. Mater., 160: 253 (1988)."
+			},
+			{
+				"doi": "10.1088/0965-0393/1/5/001",
+				"or":  "N. M. Ghoniem and D. Walgraef, Evolution Dynamics of 3D Periodic Microstructures in Irradiated Materials, Modell. Simul. Mater. Sci. Eng., 1: 569 (1993).",
+				"tr":  "N. M. Ghoniem and D. Walgraef, Evolution Dynamics of 3D Periodic Microstructures in Irradiated Materials, Modell. Simul. Mater. Sci. Eng., 1: 569 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "L. D. Landau and E. M. Lifshitz, Theory of Elasticity (New York: Pergamon: 1973).",
+				"tr":  "L. D. Landau and E. M. Lifshitz, Theory of Elasticity (New York: Pergamon: 1973)."
+			},
+			{
+				"doi": "10.1016/0001-6160(79)90166-4",
+				"or":  "N. de Diego, N. Mirn, and M. Ruhl, Transmission Electron Microscopy Studies of the Ordering of Nitrogen in Tantalum, Acta Metall., 27: 1445 (1979).",
+				"tr":  "N. de Diego, N. Mirn, and M. Ruhl, Transmission Electron Microscopy Studies of the Ordering of Nitrogen in Tantalum, Acta Metall., 27: 1445 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Blaha, K. Schwarz, G. K. H. Madsen, D. Kvasnicka, and J. Luitz, Wien2k, An Augmented Plane Wave Plus Local Orbitals Program for Calculating Crystal Properties (Vienna: Vienna University of Technology: 2001).",
+				"tr":  "P. Blaha, K. Schwarz, G. K. H. Madsen, D. Kvasnicka, and J. Luitz, Wien2k, An Augmented Plane Wave Plus Local Orbitals Program for Calculating Crystal Properties (Vienna: Vienna University of Technology: 2001)."
+			},
+			{
+				"doi": "",
+				"or":  "Інформація на вебсайті http://www.wien2k.at.",
+				"tr":  "See website http://www.wien2k.at."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.77.3865",
+				"or":  "J. P. Perdew, K. Burke, and M. Ernzerhof, Generalized Gradient Approximation Made Simple, Phys. Rev. Lett., 77: 3865 (1996).",
+				"tr":  "J. P. Perdew, K. Burke, and M. Ernzerhof, Generalized Gradient Approximation Made Simple, Phys. Rev. Lett., 77: 3865 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "В. О. Харченко, С. В. Кохан, Електронні властивості кристалу цирконію з вакансіями та динаміка вакансій: ab-initio розрахунки та молекулярна динаміка, Журнал нано- та електронної фізики, 7, № 2: 02014 (2015).",
+				"tr":  "V. O. Kharchenko and S. V. Kokhan, Electronic Properties of the Zirconium Crystal with Vacancies and Dynamics of Vacancies: ab-initio Calculations and Molecular Dynamics, J. Nano- Electron. Phys., 7, No. 2: 02014 (2015).."
+			},
+			{
+				"doi": "",
+				"or":  "Інформація на вебсайті http://lammps.sandia.gov.",
+				"tr":  "See website http://lammps.sandia.gov."
+			},
+			{
+				"doi": "10.1021/j100303a014",
+				"or":  "J. D. Honeycutt and H. C. Andersen, Molecular Dynamics Study of Melting and Freezing of Small Lennard–Jones Clusters, J. Phys. Chem., 91: 4950 (1987).",
+				"tr":  "J. D. Honeycutt and H. C. Andersen, Molecular Dynamics Study of Melting and Freezing of Small Lennard–Jones Clusters, J. Phys. Chem., 91: 4950 (1987)."
+			},
+			{
+				"doi": "10.1016/0927-0256(94)90109-0",
+				"or":  "D. Faken and H. Jonsson, Systematic Analysis of Local Atomic Structure Combined with 3D Computer Graphics, Comput. Mater. Sci., 2: 279 (1994).",
+				"tr":  "D. Faken and H. Jonsson, Systematic Analysis of Local Atomic Structure Combined with 3D Computer Graphics, Comput. Mater. Sci., 2: 279 (1994)."
+			},
+			{
+				"doi": "10.1088/0965-0393/20/4/045021",
+				"or":  "A. Stukowski, Structure Identification Methods for Atomistic Simulations of Crystalline Materials, Modell. Simul. Mater. Sci. Eng., 20: 045021 (2012).",
+				"tr":  "A. Stukowski, Structure Identification Methods for Atomistic Simulations of Crystalline Materials, Modell. Simul. Mater. Sci. Eng., 20: 045021 (2012)."
+			},
+			{
+				"doi": "10.1016/j.physrep.2007.09.004",
+				"or":  "J. H. Li, X. D. Dai, S. H. Liang, K. P. Tai, Y. Kong, and B. X. Liu, Interatomic Potentials of the Binary Transition Metal Systems and Some Applications in Materials Physics, Physics Reports, 455: 1134 (2008).",
+				"tr":  "J. H. Li, X. D. Dai, S. H. Liang, K. P. Tai, Y. Kong, and B. X. Liu, Interatomic Potentials of the Binary Transition Metal Systems and Some Applications in Materials Physics, Physics Reports, 455: 1134 (2008)."
+			}
+		]
+	}
+}

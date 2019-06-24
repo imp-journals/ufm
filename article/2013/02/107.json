@@ -1,0 +1,456 @@
+{
+	"_id":    "UFM.14.02.107",
+	"year":   2013,
+	"volume": 14,
+	"issue":  2,
+	"pages":  [107,227],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["14.02.2013"],
+	"PACS":   "61.72.Bb, 61.72.Ff, 61.72.Hh, 61.72.Lk, 62.20.fg, 62.40.+i, 81.40.Lm",
+	"title":   {
+		"ua": "Блокування дислокацій без допомоги зовнішнього напруження: експеримент і теорія",
+		"en": "Locking of Dislocations without the Application of an External Stress: Experiment and Theory",
+		"ru": "Блокировка дислокаций без помощи внешнего напряжения: эксперимент и теория"
+	},
+	"abstract": {
+		"ua": "Наведено результати дослідження ефекту автоблокування, що представляє собою перетворення ковзних дислокацій у заблоковані за нульового зовнішнього напруження. Ефект було передбачено теоретично на основі простого моделю, що розглядає наддислокації як скупчення, в якому одна з дислокацій сприяє блокуванню іншої, а в результаті виявляються заблокованими обидві. Докази наявности ефекту, що полягають у спостереженні витягування дислокацій уздовж виділеного напрямку, було одержано за допомогою експериментів, що включають пластичну деформацію та подальший нагрів без навантаження. Для пояснення сукупности експериментальних результатів було розвинено нову концепцію, яка полягає в тому, що при дводолинному потенціяльному рельєфі дислокації виникає ефективна сила, що пропорційна ріжниці в глибині долин, яка викликає перетворення дислокації в неруйнівний бар’єр. В результаті два ефекти, — температурна аномалія границі плинности і автоблокування, — мають єдину природу — дводолинний потенціяльний рельєф дислокації. Обидва ці ефекти спостерігалися в інтерметалідах типу Ni$_{3}$Al і TiAl, а з чистих металів — у Mg.",
+		"en": "Results of investigation of self-locking effect representing transformation of glide dislocations into the locked ones in the absence of external stress are presented. The effect was predicted theoretically on basis of a simple model considering superdislocation as a pileup, where one of the dislocations contributes to the locking of the other one, and, as a result, both are locked. The proof of the effect occurrence, namely, observation that dislocations elongate along prevailing direction, was experimentally revealed, including a plastic deformation and a subsequent heating without a load. To explain the set of experimental results, a new conception is developed: an effective force, being proportional to the difference of the depths of the valleys, appears, if dislocation has a two-valley potential relief. This force causes transformation of dislocations into an indestructible barrier. Consequently, two effects (the temperature anomaly of the yield stress and the self-locking of dislocations) are of the same common nature. Both effects were observed in the intermetallic compounds such as Ni$_{3}$Al and TiAl as well as in the pure metals such as Mg.",
+		"ru": "Приведены результаты исследования эффекта автоблокировки, представляющего собой превращения скользящих дислокаций в заблокированные при нулевом внешнем напряжении. Эффект был предсказан теоретически на основе простой модели, рассматривающей сверхдислокацию как скопление, в котором одна из дислокаций содействует блокировке другой, а в результате оказываются заблокированными обе. Доказательства существования эффекта, состоящие в наблюдении вытягивания дислокаций вдоль выделенного направления, были получены с помощью экспериментов, включающих пластическую деформацию и последующий нагрев без нагрузки. Для объяснения совокупности экспериментальных результатов была развита новая концепция, состоящая в том, что при двухдолинном потенциальном рельефе дислокации возникает эффективная сила, пропорциональная разности в глубине долин, которая вызывает превращение дислокации в неразрушаемый барьер. В результате два эффекта, — температурная аномалия предела текучести и автоблокировка, — имеют единую природу — двухдолинный потенциальный рельеф дислокации. Оба этих эффекта наблюдались в интерметаллидах типа Ni$_{3}$Al и TiAl, а из чистых металлов — в Mg."
+	},
+	"keywords": {
+		"ua": "автоблокування дислокацій, наддислокації, ковзання, границя плинности, термомеханічна обробка",
+		"en": "automatic block of dislocations, superdislocations, sliding, yield point, thermomechanical treatment",
+		"ru": "автоблокировка дислокаций, сверхдислокации, скольжение, предел текучести, термомеханическая обработка"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Б. А. Ґрінберґ", "en": "B. A. Greenberg", "ru": "Б. А. Гринберг"},
+			"OID": [419]
+		},
+		{
+			"AID": {"ua": "М. О. Іванов", "en": "M. O. Ivanov", "ru": "М. А. Иванов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. В. Антонова", "en": "O. V. Antonova", "ru": "О. В. Антонова"},
+			"OID": [419]
+		},
+		{
+			"AID": {"ua": "А. М. Пацелов", "en": "A. M. Patselov", "ru": "А. М. Пацелов"},
+			"OID": [419]
+		},
+		{
+			"AID": {"ua": "А. В. Плотніков", "en": "A. V. Plotnikov", "ru": "А. В. Плотникова"},
+			"OID": [419]
+		},
+		{
+			"AID": {"ua": "А. М. Власова", "en": "A. M. Vlasova", "ru": "А. М. Власова"},
+			"OID": [419]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.1134/S0031918X17080117",
+				"cit": "A. V. Plotnikov, B. A. Greenberg, M. A. Ivanov, V. P. Pilyugin <i>et al.</i>, <a href=\"https://doi.org/10.1134/S0031918X17080117\">Phys. Metals Metallogr.  <b>118</b>, 802 (2017)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 78,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "B. Escaig, J. Phys. C, 7, No. 35: 151 (1974).",
+				"tr":  "B. Escaig, J. Phys. C, 7, No. 35: 151 (1974)."
+			},
+			{
+				"doi": "10.1016/0079-6425(90)90002-Q",
+				"or":  "M. Yamaguchi and Y. Umakoshi, Prog. Mater. Sci., 34, No. 1: 1 (1990).",
+				"tr":  "M. Yamaguchi and Y. Umakoshi, Prog. Mater. Sci., 34, No. 1: 1 (1990)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/SSP.35-36.19",
+				"or":  "F. R. N. Nabarro, Solid State Phenomena, 35–36: 19 (1994).",
+				"tr":  "F. R. N. Nabarro, Solid State Phenomena, 35–36: 19 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Veyssier and G. Saada, Dislocations in Solids (Eds. F. R. N. Nabarro and M. Duesbery) (Amsterdam: Elsevier: 1996), vol. 10, p. 113.",
+				"tr":  "P. Veyssier and G. Saada, Dislocations in Solids (Eds. F. R. N. Nabarro and M. Duesbery) (Amsterdam: Elsevier: 1996), vol. 10, p. 113."
+			},
+			{
+				"doi": "",
+				"or":  "B. Viguer, J. L. Martin, and J. Bonneville, Dislocations in Solids (Eds. F. R. N. Nabarro and M. S. Duesbery) (Amsterdam: Elsevier: 2002), vol. 11, p. 460.",
+				"tr":  "B. Viguer, J. L. Martin, and J. Bonneville, Dislocations in Solids (Eds. F. R. N. Nabarro and M. S. Duesbery) (Amsterdam: Elsevier: 2002), vol. 11, p. 460."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Гринберг, М. А. Иванов, Интерметаллиды Ni3Al и TiAl: микроструктура, деформационное поведение (Екатеринбург: УрО РАН: 2002).",
+				"tr":  "B. A. Greenberg, M. A. Ivanov, Intermetallidy Ni3Al i TiAl: mikrostruktura, deformacionnoe povedenie (Ekaterinburg: UrO RAN: 2002)."
+			},
+			{
+				"doi": "10.15407/ufm.01.01.009",
+				"or":  "B. A. Greenberg and M. A. Ivanov, Usp. Fiz. Met., 1, No. 1: 9 (2000).",
+				"tr":  "B. A. Greenberg and M. A. Ivanov, Usp. Fiz. Met., 1, No. 1: 9 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Lukac and Z. Trojanova, Magnesium Alloys—Design, Processing and Properties (Eds. F. Czerwinski) (Rijeka: InTech: 2011), p.1.",
+				"tr":  "P. Lukac and Z. Troyanova, Magnesium Alloys—Design, Processing and Properties (Eds. F. Czerwinski) (Rijeka: InTech: 2011), p.1."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Гринберг, М. А. Иванов, Физ. мет. металловед., 102, № 1: 68 (2006).",
+				"tr":  "B. A. Greenberg, M. A. Ivanov, Fiz. met. metalloved., 102, No. 1: 68 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Гринберг, М. А. Иванов, О. В. Антонова, А. М. Пацелов, А. В. Плотников, Известия РАН. Серия физич., 70: 1331 (2006).",
+				"tr":  "B. A. Greenberg, M. A. Ivanov, O. V. Antonova, A. M. Pacelov, A. V. Plotnikov, Izvestija RAN. Serija fizich., 70: 1331 (2006)."
+			},
+			{
+				"doi": "10.1560/IJC.47.3-4.415",
+				"or":  "B. A. Greenberg, M. A. Ivanov, O. V. Antonova, A. M. Patselov and A. V. Plotnikov, Israel J. Chem., 47: 415 (2007).",
+				"tr":  "B. A. Greenberg, M. A. Ivanov, O. V. Antonova, A. M. Patselov and A. V. Plotnikov, Israel J. Chem., 47: 415 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "B. A. Greenberg, M. A. Ivanov, and A. M. Patselov, ‘TMS 2008’ Annual Meeting Supplemental Proceedings (March 9–13, 2008) (Louisiana, New Orleans: 2008), vol. 3, p. 165.",
+				"tr":  "B. A. Greenberg, M. A. Ivanov, and A. M. Patselov, 'TMS 2008' Annual Meeting Supplemental Proceedings (March 9–13, 2008) (Louisiana, New Orleans: 2008), vol. 3, p. 165."
+			},
+			{
+				"doi": "10.1080/14786436908216308",
+				"or":  "M. S. Duesbery, Phil. Mag., 19, No. 159: 501 (1969).",
+				"tr":  "M. S. Duesbery, Phil. Mag., 19, No. 159: 501 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "D. J. H. Cockayne and A. Hons, J. Phys., 40, No. 6: C6–11 (1979).",
+				"tr":  "D. J. H. Cockayne and A. Hons, J. Phys., 40, No. 6: C6–11 (1979)."
+			},
+			{
+				"doi": "10.1080/14786437408226609",
+				"or":  "C. B. Carter and I. L. F. Ray, Phil. Mag., 29: 1231 (1974).",
+				"tr":  "C. B. Carter and I. L. F. Ray, Phil. Mag., 29: 1231 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Гринберг, О. В. Антонова, М. А. Иванов, А. М. Пацелов, А. В. Плотников, Физ. мет. металловед., 102, № 1: 77 (2006).",
+				"tr":  "B. A. Grinberg, O. V. Antonova, M. A. Ivanov, A. M. Pacelov, A. V. Plotnikov, Fiz. met. metalloved., 102, No. 1: 77 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Пацелов, О. В. Антонова, Б. А. Гринберг, М. А Иванов, А. В. Плотников, Физ. мет. металловед., 104, № 5: 534 (2007).",
+				"tr":  "A. M. Pacelov, O. V. Antonova, B. A. Grinberg, M. A Ivanov, A. V. Plotnikov, Fiz. met. metalloved., 104, No. 5: 534 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Гринберг, М. А. Иванов, О. В. Антонова, А. М. Пацелов, А. В. Плотников, Особенности структуры и свойств перспективных материалов (Томск: НТЛ: 2006).",
+				"tr":  "B. A. Grinberg, M. A. Ivanov, O. V. Antonova, A. M. Pacelov, A. V. Plotnikov, Osobennosti struktury i svojstv perspektivnyh materialov (Tomsk: NTL: 2006)."
+			},
+			{
+				"doi": "",
+				"or":  "B. A. Greenberg and M. A. Ivanov, ‘The Third International Conference on Computational Methods and Experiments in Materials Characterization’ (June 13–15, 2007) (Bologna, Italia: 2007), p. 51.",
+				"tr":  "B. A. Greenberg and M. A. Ivanov, 'The Third International Conference on Computational Methods and Experiments in Materials Characterization' (June 13–15, 2007) (Bologna, Italia: 2007), p. 51."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Плотников, Б. А. Гринберг, А. М. Пацелов, Международная школа «Физическое материаловедение» (Тольятти: ТГУ: 2004), c. 10.",
+				"tr":  "A. V. Plotnikov, B. A. Grinberg, A. M. Pacelov, Mezhdunarodnaja shkola «Fizicheskoe materialovedenie» (Tol'jatti: TGU: 2004), c. 10."
+			},
+			{
+				"doi": "10.1007/BF02811988",
+				"or":  "C. Lall, S. Chin, and D. P. Pope, Metall. Trans. A., 10, No. 9: 1323 (1979).",
+				"tr":  "C. Lall, S. Chin, and D. P. Pope, Metall. Trans. A., 10, No. 9: 1323 (1979)."
+			},
+			{
+				"doi": "10.1016/0001-6160(82)90198-5",
+				"or":  "S. S. Ezz, D. P. Pope, and V. Paidar, Acta Metall., 30: 921 (1982).",
+				"tr":  "S. S. Ezz, D. P. Pope, and V. Paidar, Acta Metall., 30: 921 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Старенченко, Ю. В. Соловьева, С. В. Старенченко, Т. А Ковалевская, Термическое и деформационное упрочнение монокристаллов сплавов со сверхструктурой L12 (Томск: НТЛ: 2006).",
+				"tr":  "V. A. Starenchenko, Ju. V. Solov'eva, S. V. Starenchenko, T. A Kovalevskaja, Termicheskoe i deformacionnoe uprochnenie monokristallov splavov so sverhstrukturoj L12 (Tomsk: NTL: 2006)."
+			},
+			{
+				"doi": "10.2320/matertrans1960.22.163",
+				"or":  "D. M. Wee and T. Suzuki, Trans. JIM, 22, No. 3: 163 (1981).",
+				"tr":  "D. M. Wee and T. Suzuki, Trans. JIM, 22, No. 3: 163 (1981)."
+			},
+			{
+				"doi": "10.1016/0001-6160(76)90142-5",
+				"or":  "D. G. Morris, G. T. Brown, R. C. Piller, and R. E. Smallman, Acta Metall., 24: 21 (1976).",
+				"tr":  "D. G. Morris, G. T. Brown, R. C. Piller, and R. E. Smallman, Acta Metall., 24: 21 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Гринберг, М. А. Иванов, О. В. Антонова, А. В. Плотников, Н.А. Кругликов, А. М. Власова, Ю. В. Соловьева, Физ. мет. металловед., 111, № 4, c. 402 (2011).",
+				"tr":  "B. A. Grinberg, M. A. Ivanov, O. V. Antonova, A. V. Plotnikov, N.A. Kruglikov, A. M. Vlasova, Ju. V. Solov'eva, Fiz. met. metalloved., 111, No. 4, c. 402 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Старенченко, Ю. В. Соловьева, В. И. Николаев, В. В. Шпейзман, Б. И. Смирнов, Физ. твердого тела, 42, № 11: 2017 (2000).",
+				"tr":  "V. A. Starenchenko, Ju. V. Solov'eva, V. I. Nikolaev, V. V. Shpejzman, B. I. Smirnov, Fiz. tverdogo tela, 42, No. 11: 2017 (2000)."
+			},
+			{
+				"doi": "10.2320/matertrans1960.18.617",
+				"or":  "H-r. Pak, T. Saburi, and S. Nenno, Trans. JIM, 18: 617 (1977).",
+				"tr":  "H-r. Pak, T. Saburi, and S. Nenno, Trans. JIM, 18: 617 (1977)."
+			},
+			{
+				"doi": "10.1007/BF00808043",
+				"or":  "K. Aoki and O. Izumi, J. Mater. Sci., 13: 2313 (1978).",
+				"tr":  "K. Aoki and O. Izumi, J. Mater. Sci., 13: 2313 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Гринберг, О. В. Антонова, А. Ю. Волков, М. А. Иванов, Н. А. Кругликов, Ю. П. Кадникова, Физ. мет. металловед., 105, № 5: 523 (2008).",
+				"tr":  "B. A. Grinberg, O. V. Antonova, A. Ju. Volkov, M. A. Ivanov, N. A. Kruglikov, Ju. P. Kadnikova, Fiz. met. metalloved., 105, No. 5: 523 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Гринберг, М. А. Иванов, О. В. Антонова, А. М. Пацелов, Н. А. Кругликов, А. В. Плотников, Ю. П. Кадникова, Эволюция структуры и свойства металлических материалов (Томск: НТЛ: 2007).",
+				"tr":  "B. A. Grinberg, M. A. Ivanov, O. V. Antonova, A. M. Pacelov, N. A. Kruglikov, A. V. Plotnikov, Ju. P. Kadnikova, Jevoljucija struktury i svojstva metallicheskih materialov (Tomsk: NTL: 2007)."
+			},
+			{
+				"doi": "10.1016/0956-7151(90)90106-Q",
+				"or":  "T. Kawabata, T. Abumiya, T. Kanai, and O. Izumi, Acta Metall. Mater., 38: 1381 (1990).",
+				"tr":  "T. Kawabata, T. Abumiya, T. Kanai, and O. Izumi, Acta Metall. Mater., 38: 1381 (1990)."
+			},
+			{
+				"doi": "10.1016/0001-6160(85)90245-7",
+				"or":  "T. Kawabata, T. Kanai, and O. Izumi, Acta Metall., 33: 1355 (1985).",
+				"tr":  "T. Kawabata, T. Kanai, and O. Izumi, Acta Metall., 33: 1355 (1985)."
+			},
+			{
+				"doi": "10.1080/01418619708205149",
+				"or":  "H. Inui, M. Matsumuro, D.-H. Wu, and M. Yamaguchi, Phil. Mag. A, 75: 395 (1997).",
+				"tr":  "H. Inui, M. Matsumuro, D.-H. Wu, and M. Yamaguchi, Phil. Mag. A, 75: 395 (1997)."
+			},
+			{
+				"doi": "10.1016/0956-7151(91)90271-2",
+				"or":  "B. A. Greenberg, O. V. Antonova, V. N. Indenbaum, L. E. Karkina, A. B. Notkin, M. V. Ponomarev, and L. V. Smirnov, Acta Metall. Mater., 39, No. 2: 233 (1991).",
+				"tr":  "B. A. Greenberg, O. V. Antonova, V. N. Indenbaum, L. E. Karkina, A. B. Notkin, M. V. Ponomarev, and L. V. Smirnov, Acta Metall. Mater., 39, No. 2: 233 (1991)."
+			},
+			{
+				"doi": "10.1016/0956-7151(91)90272-3",
+				"or":  "B. A. Greenberg, O. V. Antonova, V. N. Indenbaum, L. E. Karkina, A. B. Notkin, M. V. Ponomarev, and L. V. Smirnov, Acta Metall. Mater., 39, No. 2: 243 (1991).",
+				"tr":  "B. A. Greenberg, O. V. Antonova, V. N. Indenbaum, L. E. Karkina, A. B. Notkin, M. V. Ponomarev, and L. V. Smirnov, Acta Metall. Mater., 39, No. 2: 243 (1991)."
+			},
+			{
+				"doi": "10.1016/0956-7151(92)90023-8",
+				"or":  "B. A. Greenberg, O. V. Antonova, L. E. Karkina, A. B. Notkin, and M. V. Ponomarev, Acta Metall. Mater., 40, No. 4: 815 (1992).",
+				"tr":  "B. A. Greenberg, O. V. Antonova, L. E. Karkina, A. B. Notkin, and M. V. Ponomarev, Acta Metall. Mater., 40, No. 4: 815 (1992)."
+			},
+			{
+				"doi": "10.1016/0956-7151(92)90024-9",
+				"or":  "B. A. Greenberg, O. V. Antonova, L. E. Karkina, A. B. Notkin, and M. V. Ponomarev, Acta Metall. Mater., 40, No. 4: 823 (1992).",
+				"tr":  "B. A. Greenberg, O. V. Antonova, L. E. Karkina, A. B. Notkin, and M. V. Ponomarev, Acta Metall. Mater., 40, No. 4: 823 (1992)."
+			},
+			{
+				"doi": "10.1080/01418619308221204",
+				"or":  "M. A. Morris, Phil. Mag. A, 68: 237; M. A. Morris, Phil. Mag. A, 68: 259 (1993).",
+				"tr":  "M. A. Morris, Phil. Mag. A, 68: 237; M. A. Morris, Phil. Mag. A, 68: 259 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Гринберг, М. А. Иванов, О. В. Антонова, Н. А. Кругликов, А. М. Пацелов, А. В. Плотников, Ю. П. Кадникова, Деформация и разрушение материалов, 12: 2 (2008).",
+				"tr":  "B. A. Grinberg, M. A. Ivanov, O. V. Antonova, N. A. Kruglikov, A. M. Pacelov, A. V. Plotnikov, Ju. P. Kadnikova, Deformacija i razrushenie materialov, 12: 2 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Антонова, Б. А. Гринберг, М. А. Иванов, Н. А. Кругликов, А. М. Пацелов, 47 Международная конференция «Актуальные проблемы прочности» (Июль 1–5, 2008) (Нижний Новгород: 2008), c. 77.",
+				"tr":  "O. V. Antonova, B. A. Grinberg, M. A. Ivanov, N. A. Kruglikov, A. M. Pacelov, 47 Mezhdunarodnaja konferencija «Aktual'nye problemy prochnosti» (Ijul' 1–5, 2008) (Nizhnij Novgorod: 2008), c. 77."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Гринберг, М. А. Иванов, Н. А. Кругликов, О. В. Антонова, Физ. мет. металловед., 108, № 1: 93 (2009).",
+				"tr":  "B. A. Grinberg, M. A. Ivanov, N. A. Kruglikov, O. V. Antonova, Fiz. met. metalloved., 108, No. 1: 93 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "J. R. Patel and L. C. Kimerling, J. Phys., 40, No. 6: 67 (1979).",
+				"tr":  "J. R. Patel and L. C. Kimerling, J. Phys., 40, No. 6: 67 (1979)."
+			},
+			{
+				"doi": "10.1051/rphysap:01987002209094100",
+				"or":  "J. Rabier and A. George, Rev. Phys. Appl., 22, No. 9: 941 (1987).",
+				"tr":  "J. Rabier and A. George, Rev. Phys. Appl., 22, No. 9: 941 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. А.Малыгин, Физ. твердого тела, 47, № 5: 870 (2005).",
+				"tr":  "G. A.Malygin, Fiz. tverdogo tela, 47, No. 5: 870 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Гринберг, М. А. Иванов, О. В. Антонова, А. М. Власова, Н. А. Кругликов, А. В. Плотников, Известия ВУЗов. Физика, 54, № 8: 58 (2011).",
+				"tr":  "B. A. Grinberg, M. A. Ivanov, O. V. Antonova, A. M. Vlasova, N. A. Kruglikov, A. V. Plotnikov, Izvestija VUZov. Fizika, 54, No. 8: 58 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Гринберг, М. А. Иванов, О. В. Антонова, А. М. Власова, Кристаллография, 57, № 4: 603 (2012).",
+				"tr":  "B. A. Grinberg, M. A. Ivanov, O. V. Antonova, A. M. Vlasova, Kristallografija, 57, No. 4: 603 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Предводителев, О. А. Троицкий, Дислокации и точечные дефекты в гексагональных металлах (Москва: Атомиздат: 1973).",
+				"tr":  "A. A. Predvoditelev, O. A. Troickij, Dislokacii i tochechnye defekty v geksagonal'nyh metallah (Moskva: Atomizdat: 1973)."
+			},
+			{
+				"doi": "10.1080/14786437208223856",
+				"or":  "J. F. Stohr and J. P. Poirier, Phil. Mag., 25: 1313 (1972).",
+				"tr":  "J. F. Stohr and J. P. Poirier, Phil. Mag., 25: 1313 (1972)."
+			},
+			{
+				"doi": "10.1016/0001-6160(73)90141-7",
+				"or":  "T. Obara, H. Yoshinga, and S. Morozumi, Acta Metall., 21, No. 7: 845 (1973).",
+				"tr":  "T. Obara, H. Yoshinga, and S. Morozumi, Acta Metall., 21, No. 7: 845 (1973)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/KEM.345-346.101",
+				"or":  "S. Ando, N. Harada, M. Tsushida et al., Key Engineering Materials, 345–346: 101 (2007).",
+				"tr":  "S. Ando, N. Harada, M. Tsushida et al., Key Engineering Materials, 345–346: 101 (2007)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2010.11.064",
+				"or":  "A. Chapuis and J. H. Driver, Acta Mater., 59: 1986 (2011).",
+				"tr":  "A. Chapuis and J. H. Driver, Acta Mater., 59: 1986 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Гринберг, М. А. Иванов, Физ. мет. металловед., 105, № 6: 587 (2008).",
+				"tr":  "B. A. Grinberg, M. A. Ivanov, Fiz. met. metalloved., 105, No. 6: 587 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Гринберг, М. А. Иванов, Кристаллография, 54, № 6: 1023 (2009).",
+				"tr":  "B. A. Grinberg, M. A. Ivanov, Kristallografija, 54, No. 6: 1023 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "V. L. Indenbom, B. V. Petukhov, and J. Lothe, Elastic Strain Fields and Dislocation Mobility (Eds. V. L. Indenbom and J. Lothe) (Elsevier Science Publishers B.V.: 1992), p. 491.",
+				"tr":  "V. L. Indenbom, B. V. Petukhov, and J. Lothe, Elastic Strain Fields and Dislocation Mobility (Eds. V. L. Indenbom and J. Lothe) (Elsevier Science Publishers B.V.: 1992), p. 491."
+			},
+			{
+				"doi": "10.1016/0001-6160(62)90013-5",
+				"or":  "A. Seeger and P. Schiller, Acta Metall., 10, No. 4: 348 (1962).",
+				"tr":  "A. Seeger and P. Schiller, Acta Metall., 10, No. 4: 348 (1962)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Гринберг, М. А. Иванов, Известия. ВУЗов. Физика, 9, № 2: 132 (2009).",
+				"tr":  "B. A. Grinberg, M. A. Ivanov, Izvestija. VUZov. Fizika, 9, No. 2: 132 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "J. E. Dorn and S. Rajnak, Trans. AIME, 230, No. 8: 1052 (1964).",
+				"tr":  "J. E. Dorn and S. Rajnak, Trans. AIME, 230, No. 8: 1052 (1964)."
+			},
+			{
+				"doi": "",
+				"or":  "B. A. Greenberg and M. A. Ivanov, ‘THERMEC’2003’ (Eds. T. Chandra et al.) (Zurich-Uetikon, Switzerland: Trans. Tech. Publ. Ltd.: 2003), vol. 3, p. 1849.",
+				"tr":  "B. A. Greenberg and M. A. Ivanov, 'THERMEC'2003' (Eds. T. Chandra et al.) (Zurich-Uetikon, Switzerland: Trans. Tech. Publ. Ltd.: 2003), vol. 3, p. 1849."
+			},
+			{
+				"doi": "10.1016/j.msea.2004.01.071",
+				"or":  "B. V. Petukhov, Mater. Sci. Eng. A, 387–389: 98 (2004).",
+				"tr":  "B. V. Petukhov, Mater. Sci. Eng. A, 387–389: 98 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. В. Петухов, Физ. твердого тела, 54, № 12: 2366 (2012).",
+				"tr":  "B. V. Petuhov, Fiz. tverdogo tela, 54, No. 12: 2366 (2012)."
+			},
+			{
+				"doi": "10.1080/01418619508244376",
+				"or":  "F. Louchet and B. Viguier, Phil. Mag., 71, No. 6: 1313 (1995).",
+				"tr":  "F. Louchet and B. Viguier, Phil. Mag., 71, No. 6: 1313 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Гринберг, М. А. Иванов, Металлофиз. новейшие технол., 31, № 1: 47 (2009).",
+				"tr":  "B. A. Grinberg, M. A. Ivanov, Metallofiz. novejshie tehnol., 31, No. 1: 47 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Гринберг, О. В. Антонова, М. А. Иванов, А. М. Пацелов, А. В. Плотников, Физ. мет. металловед., 102, № 1: 77 (2006).",
+				"tr":  "B. A. Grinberg, O. V. Antonova, M. A. Ivanov, A. M. Pacelov, A. V. Plotnikov, Fiz. met. metalloved., 102, No. 1: 77 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Пацелов, О. В. Антонова, Б. А. Гринберг, М. А. Иванов, А. В. Плотников, Физ. мет. металловед., 104, № 5: 534 (2007).",
+				"tr":  "A. M. Pacelov, O. V. Antonova, B. A. Grinberg, M. A. Ivanov, A. V. Plotnikov, Fiz. met. metalloved., 104, No. 5: 534 (2007)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(97)00671-0",
+				"or":  "B. A Greenberg and M. A. Ivanov, Mater. Sci. Eng. A, 239: 813 (1997).",
+				"tr":  "B. A Greenberg and M. A. Ivanov, Mater. Sci. Eng. A, 239: 813 (1997)."
+			},
+			{
+				"doi": "10.1016/0001-6160(84)90019-1",
+				"or":  "D. M. Wee, D.P. Pope, and V. Vitek, Acta Metall., 32, No. 6: 829 (1984).",
+				"tr":  "D. M. Wee, D.P. Pope, and V. Vitek, Acta Metall., 32, No. 6: 829 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Veyssier and G. Saada, Dislocations in Solids, (Eds. M. Duesbery and F. R. N. Nabarro) (Amsterdam: Elsevier: 1996), vol. 10, p. 255.",
+				"tr":  "P. Veyssier and G. Saada, Dislocations in Solids, (Eds. M. Duesbery and F. R. N. Nabarro) (Amsterdam: Elsevier: 1996), vol. 10, p. 255."
+			},
+			{
+				"doi": "",
+				"or":  "A. E. Staton-Bevan and R. D. Rawlings, phys. stat. sol. A, 29: 613 (1975).",
+				"tr":  "A. E. Staton-Bevan and R. D. Rawlings, phys. stat. sol. A, 29: 613 (1975)."
+			},
+			{
+				"doi": "10.1080/01418618208239906",
+				"or":  "Y. Minonishy, S. Ishioka, M. Koiwa, and S.Morozumi, Phil. Mag. A, 45, No. 5: 835 (1982).",
+				"tr":  "Y. Minonishy, S. Ishioka, M. Koiwa, and S.Morozumi, Phil. Mag. A, 45, No. 5: 835 (1982)."
+			},
+			{
+				"doi": "10.1080/01418618608242820",
+				"or":  "M. H. Liang and D. J. Bacon, Phil. Mag. A, 53, No. 2: 181 (1986).",
+				"tr":  "M. H. Liang and D. J. Bacon, Phil. Mag. A, 53, No. 2: 181 (1986)."
+			},
+			{
+				"doi": "10.1088/0965-0393/8/1/303",
+				"or":  "J. R. Morris, K. M. Ho, K. Y. Chen, G. Rengarajan, and M. H. Yoo, Mod. Simul. Mater. Sci. Eng., 8: 25 (2000).",
+				"tr":  "J. R. Morris, K. M. Ho, K. Y. Chen, G. Rengarajan, and M. H. Yoo, Mod. Simul. Mater. Sci. Eng., 8: 25 (2000)."
+			},
+			{
+				"doi": "10.1016/S0036-9748(88)80064-4",
+				"or":  "B. A. Greenberg, V. I. Anisimov, Yu. N. Gornostirev, and G. G. Taluts, Scripta Metall., 22, No. 6: 859 (1988).",
+				"tr":  "B. A. Greenberg, V. I. Anisimov, Yu. N. Gornostirev, and G. G. Taluts, Scripta Metall., 22, No. 6: 859 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Yamaguchi, Y. Umakoshi, and T. Yamane, Dislocations in Solids, 5: 77 (1985).",
+				"tr":  "M. Yamaguchi, Y. Umakoshi, and T. Yamane, Dislocations in Solids, 5: 77 (1985)."
+			},
+			{
+				"doi": "10.1080/14786430310001611626",
+				"or":  "C. Woodward and S. I. Rao, Phil. Mag., 84, Nos. 3–5: 401 (2004).",
+				"tr":  "C. Woodward and S. I. Rao, Phil. Mag., 84, Nos. 3–5: 401 (2004)."
+			},
+			{
+				"doi": "10.1080/14786430310001611644",
+				"or":  "V.Vitek, Phil. Mag., 84, Nos. 3–5: 415 (2004).",
+				"tr":  "V.Vitek, Phil. Mag., 84, Nos. 3–5: 415 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Гринберг, М. А. Иванов, А. В. Плотников, Кристаллография, 55, № 6: 1085 (2010).",
+				"tr":  "B. A. Grinberg, M. A. Ivanov, A. V. Plotnikov, Kristallografija, 55, No. 6: 1085 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Гринберг, М. А. Иванов, О. В. Антонова, А. В. Плотников, Н. А. Кругликов, А. М. Власова, Ю. В. Соловьева, Физ. мет. металловед., 112, № 2: 215 (2011).",
+				"tr":  "B. A. Grinberg, M. A. Ivanov, O. V. Antonova, A. V. Plotnikov, N. A. Kruglikov, A. M. Vlasova, Ju. V. Solov'eva, Fiz. met. metalloved., 112, No. 2: 215 (2011)."
+			}
+		]
+	}
+}

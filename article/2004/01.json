@@ -1,0 +1,63 @@
+{
+	"year":   2004,
+	"volume": 5,
+	"issue":  1,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [1,36],
+			"title": {
+				"ua": "Особливості електронної структури бінарних стопів $3d$-перехідних металів",
+				"en": "Features of Electronic Structure of Binary Alloys of $3d$-Transition Metals",
+				"ru": "Особенности электронной структуры бинарных сплавов $3d$-переходных металлов"
+			},
+			"autors": {
+				"ua": "В. С. Стащук, А. П. Шпак, Ю. А. Куницький",
+				"en": "V. S. Stashchuk, A. P. Shpak, and Yu. A. Kunits’ky",
+				"ru": "В. С. Стащук, А. П. Шпак, Ю. А. Куницкий"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [37,50],
+			"title": {
+				"ua": "Прояв аномальних діямагнетних властивостей у деформованих монокристалах металів і напівпровідників",
+				"en": "Manifestation of Anomalous Diamagnetic Properties of the Deformed Single Crystals of Metals and Semiconductors",
+				"ru": "Проявление аномальных диамагнитных свойств в деформированных монокристаллах металлов и полупроводников"
+			},
+			"autors": {
+				"ua": "О. В. Бродовий, В. О. Бродовий, С. Г. Бунчук, В. В. Скороход",
+				"en": "O. V. Brodovy, V. O. Brodovy, S. G. Bunchuk, and V. V. Skorokhod",
+				"ru": "А. В. Бродовой, В. А. Бродовой, С. Г. Бунчук, В. В. Скороход"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [51,86],
+			"title": {
+				"ua": "Інтеґральна дифрактометрія нанорозмірних дефектів у пружньо зігненому монокристалі",
+				"en": "Integral Diffractometry of Nanoscale Defects in an Elastically-Bent Single Crystal",
+				"ru": "Интегральная дифрактометрия наноразмерных дефектов в упруго изогнутом монокристалле"
+			},
+			"autors": {
+				"ua": "А. П. Шпак, В. Б. Молодкін, А. І. Нізкова",
+				"en": "A. P. Shpak, V. B. Molodkin, and A. I. Nizkova",
+				"ru": "А. П. Шпак, В. Б. Молодкин, А. И. Низкова"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [87,166],
+			"title": {
+				"ua": "Фазові переходи напівпровідник–метал",
+				"en": "Semiconductor–Metal Phase Transitions",
+				"ru": "Фазовые переходы полупроводник–металл"
+			},
+			"autors": {
+				"ua": "Ю. М. Таран, В. З. Куцова, О. А. Носко",
+				"en": "Yu. M. Taran, V. Z. Kutsova, and O. A. Nosko",
+				"ru": "Ю. Н. Таран, В. З. Куцова, О. А. Носко"
+			}
+		}
+	]
+}

@@ -1,0 +1,300 @@
+{
+	"_id":    "UFM.07.04.243",
+	"year":   2006,
+	"volume": 7,
+	"issue":  4,
+	"pages":  [243,281],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["02.06.2006"],
+	"PACS":   "62.20.Fe, 81.05.Je, 81.05.Ni, 81.05.Rm, 81.20.Ev, 81.20.Wk, 81.40.Lm",
+	"title":   {
+		"ua": "Міцність і пластичність спечених матеріялів на основі титанового наноламінату Ti$_{3}$SiC$_{2}$",
+		"en": "Strength and Plasticity of the Sintered Materials on the Base of a Titanium Nanolaminate Ti$_{3}$SiC$_{2}$",
+		"ru": "Прочность и пластичность спеченных материалов на основе титанового наноламината Ti$_{3}$SiC$_{2}$"
+	},
+	"abstract": {
+		"ua": "На прикладі однієї з найбільш вивчених потрійних сполук нової кляси матеріялів нанолямінатів, — титанокремністого карбіду Ti$_{3}$SiC$_{2}$, виготовленого методою реакційного спікання порошкової суміші елементів і подвійних сполук, — виконано системну аналізу і узагальнення впливу вивчених структурних і фазових змін, що відбуваються в цьому матеріялі при ріжних видах обробки, на закономірності, особливості і механізми процесів деформації, зміцнення й руйнування в інтервалі температур 20–1300°C. Визначено можливості підвищення характеристик пластичности, міцности й руйнування титанокремністого карбіду Ti$_{3}$SiC$_{2}$ у пористому стані в порівнянні з компактним. Показано, що зниження міцности пористих матеріялів може бути в значній мірі компенсовано, а в ряді випадків перевищено шляхом використання ряду факторів. Такими є: подрібнення зернистої структури, високотемпературна термомеханічна обробка, створення двофазного in-situ композиту Ti$_{3}$SiC$_{2}$/TiC, азотування високопористого матеріялу. Розроблено фізичні основи одночасного підвищення характеристик низькотемпературної пластичности, високотемпературної міцности й опору руйнуванню матеріялу в компактному і пористому станах.",
+		"en": "By the example of one of the most investigated ternary compounds of a new class of materials—nanolaminates—titanium silicon carbide Ti$_{3}$SiC$_{2}$ fabricated by the method of reactionary sintering of a powder mixture of elements and binary compounds, the system analysis and generalization of an influence of the investigated structural and phase changes occurring in this material at various kinds of processing on regularities, features and mechanisms of deformation, strengthening and fracture processes within the temperature interval of 20–1300°C are executed. Opportunities of an increase of the plasticity, strength and fracture characteristics of Ti$_{3}$SiC$_{2}$ in a porous state in comparison with a compact one are determined. As shown, the decrease of strength of porous materials can be compensated appreciably, and in some cases, it is exceeded by the use of some factors, which are as follows: refinement of grain structure, high-temperature thermomechanical treatment, fabrication of two-phase in-situ Ti$_{3}$SiC$_{2}$/TiC composite, nitriding of a high-porous material. Basic physics of a simultaneous increase of the characteristics of low-temperature plasticity, high-temperature strength and fracture stress for this material in compact and porous states is developed.",
+		"ru": "На примере одного из наиболее изученных тройных соединений нового класса материалов наноламинатов, — титанокремнистого карбида Ti$_{3}$SiC$_{2}$, изготовленного методом реакционного спекания порошковой смеси элементов и двойных соединений, — выполнены системный анализ и обобщение влияния изученных структурных и фазовых изменений, происходящих в этом материале при различных видах обработки, на закономерности, особенности и механизмы процессов деформации, упрочнения и разрушения в интервале температур 20–1300°C. Обсуждены возможности повышения характеристик пластичности, прочности и разрушения титанокремнистого карбида Ti$_{3}$SiC$_{2}$ в пористом состоянии по сравнению с компактным. Показано, что снижение прочности пористых материалов может быть в значительной мере компенсировано, а в ряде случаев превышено путем использования ряда факторов. Таковыми являются: измельчение зеренной структуры, высокотемпературная термомеханическая обработка, создание двухфазного in-situ композита Ti$_{3}$SiC$_{2}$/TiC, азотирование высокопористого материала. Разработаны физические основы одновременного повышения характеристик низкотемпературной пластичности, высокотемпературной прочности и сопротивления разрушению материала в компактном и пористом состояниях."
+	},
+	"keywords": {
+		"ua": "титанокремністого карбіду Ti$_{3}$SiC$_{2}$, структурний стан, зеренна структура, термомеханічне оброблення, двофазний $in-situ$ композит Ti$_{3}$SiC$_{2}$/TiC, азотизація, механічні властивості",
+		"en": "Ti$_{3}$SiC$_{2}$ titanium siliceous carbide, structural state, grain structure, thermomechanical treatment, Ti$_{3}$SiC$_{2}$/TiC two-phase $in-situ$ composite, nitriding, mechanical properties",
+		"ru": "титанокремнистого карбида Ti$_{3}$SiC$_{2}$, структурное состояние, зеренная структура, термомеханическая обработка, двухфазный $in-situ$ композит Ti$_{3}$SiC$_{2}$/TiC, азотирование, механические свойства"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. О. Фірстов", "en": "S. O. Firstov", "ru": "С. А. Фирстов"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "Е. П. Печковський", "en": "Eh. P. Pechkovsky", "ru": "Э. П. Печковский"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "В. Ф. Горбань", "en": "V. F. Gorban’", "ru": "В. Ф. Горбань"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 51,
+				"list":  [
+			{
+				"doi": "10.1016/S0079-6786(00)00006-6",
+				"or":  "M. W. Barsoum, Prog. Solid St. Chem., 28: 201 (2000).",
+				"tr":  "M. W. Barsoum, Prog. Solid St. Chem., 28: 201 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "M. W. Barsoum, T. El-Raghy, and M. Radovic, Interceram., 49, No. 4: 226 (2000).",
+				"tr":  "M. W. Barsoum, T. El-Raghy, and M. Radovic, Interceram., 49, No. 4: 226 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Jeitschko, H. Nowotny, and F. Benesovsky, Monatsh. Chem., 94: 672 (1963).",
+				"tr":  "W. Jeitschko, H. Nowotny, and F. Benesovsky, Monatsh. Chem., 94: 672 (1963)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Jeitschko and H. Nowotny, Monatsh. Chem., 98: 329 (1967).",
+				"tr":  "W. Jeitschko and H. Nowotny, Monatsh. Chem., 98: 329 (1967)."
+			},
+			{
+				"doi": "10.1016/0079-6786(71)90016-1",
+				"or":  "H. Nowotny, Prog. Solid. State Chem., 2: 27 (1970).",
+				"tr":  "H. Nowotny, Prog. Solid. State Chem., 2: 27 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Pampuch, J. Lis, L. Stobierski, and M. Tymkiewicz, J. Eur. Ceram. Soc., 5: 283 (1989).",
+				"tr":  "R. Pampuch, J. Lis, L. Stobierski, and M. Tymkiewicz, J. Eur. Ceram. Soc., 5: 283 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Lis, R. Pampuch, J. Piekarczyk, and L. Stobierski, Ceramics Inter., 19: 219 (1993).",
+				"tr":  "J. Lis, R. Pampuch, J. Piekarczyk, and L. Stobierski, Ceramics Inter., 19: 219 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Okano, T. Yano, and T. Iseki, Trans. Met. Soc. Jpn., 14A: 597 (1993).",
+				"tr":  "T. Okano, T. Yano, and T. Iseki, Trans. Met. Soc. Jpn., 14A: 597 (1993)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(01)00011-8",
+				"or":  "J. F. Li, W. Pan, F. Sato, and R. Watanabe, Acta Mater., 49: 937 (2001).",
+				"tr":  "J. F. Li, W. Pan, F. Sato, and R. Watanabe, Acta Mater., 49: 937 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. П. Бродниковский, М. П. Бурка, Д. Г. Вербило и др., Материалы Межд. конф. «Передовая керамика — третьему тысячелетию» (Киев: 2001), с. 115.",
+				"tr":  "N. P. Brodnikovskiy, M. P. Burka, D. G. Verbilo et al., Materialy Mezhd. konf. «Peredovaya keramika — tret'emu tysyacheletiyu» (Kiev: 2001), s. 115."
+			},
+			{
+				"doi": "",
+				"or":  "Н. П. Бродниковский, М. П. Бурка, Д. Г. Вербило и др., Материалы Межд. конф. «Передовая керамика — третьему тысячелетию» (Киев: 2001), с. 116.",
+				"tr":  "N. P. Brodnikovskiy, M. P. Burka, D. G. Verbilo et al., Materialy Mezhd. konf. «Peredovaya keramika — tret'emu tysyacheletiyu» (Kiev: 2001), s. 116."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Фирстов, И. И. Иванова, Э. П. Печковский, Материалы Межд. конф. «Материалы и покрытия в экстремальных условиях: исследования, применение, экологически чистые технологии производства и утилизации изделий» (Кацивели–Понизовка, АРК, Украина: 2002), с. 260.",
+				"tr":  "S. A. Firstov, I. I. Ivanova, E. P. Pechkovskiy, Materialy Mezhd. konf. «Materialy i pokrytiya v ekstremal'nykh usloviyakh: issledovaniya, primenenie, ekologicheski chistye tekhnologii proizvodstva i utilizatsii izdeliy» (Katsiveli–Ponizovka, ARK, Ukraina: 2002), p. 260."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Фирстов, И. И. Иванова, Э. П. Печковский, Материалы Межд. конф. «Наука о материалах на рубеже веков: достижения и вызовы времени» (Киев: 2002), с. 504.",
+				"tr":  "S. A. Firstov, I. I. Ivanova, E. P. Pechkovskiy, Materialy Mezhd. konf. «Nauka o materialakh na rubezhe vekov: dostizheniya i vyzovy vremeni» (Kiev: 2002), p. 504."
+			},
+			{
+				"doi": "",
+				"or":  "S. A. Firstov and E. P. Pechkovsky, Ceramics, Polish Ceramic Bulletin, 69: 95 (2002).",
+				"tr":  "S. A. Firstov and E. P. Pechkovsky, Ceramics, Polish Ceramic Bulletin, 69: 95 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "S. A. Firstov and E. P. Pechkovsky, Proc. Inter. Conf. ‘Deformation and Fracture in Structural PM Materials’ (Stara Lesna, Slovak Republic: 2002), p. 67.",
+				"tr":  "S. A. Firstov and E. P. Pechkovsky, Proc. Inter. Conf. 'Deformation and Fracture in Structural PM Materials' (Stara Lesna, Slovak Republic: 2002), p. 67."
+			},
+			{
+				"doi": "",
+				"or":  "Н. П. Бродниковский, М. П. Бурка, Д. Г. Вербило и др., Порошк. металл., № 7/8: 109 (2003).",
+				"tr":  "N. P. Brodnikovskiy, M. P. Burka, D. G. Verbilo et al., Poroshk. metall., No. 7/8: 109 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. П. Бродниковский, Э. П. Печковский, С. А. Фирстов и др., Электронная микроскопия и прочность материалов, 12: 77 (2003).",
+				"tr":  "N. P. Brodnikovskiy, E. P. Pechkovskiy, S. A. Firstov et al., Elektronnaya mikroskopiya i prochnost' materialov, 12: 77 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "S. A. Firstov and E. P. Pechkovsky, Proc. Intern. Conf. ‘Fractography’ (Stara Lesna, Slovac Republic: 2003), р. 1.",
+				"tr":  "S. A. Firstov and E. P. Pechkovsky, Proc. Intern. Conf. 'Fractography' (Stara Lesna, Slovac Republic: 2003), p. 1."
+			},
+			{
+				"doi": "",
+				"or":  "Н. П. Бродниковский, Э. П. Печковский, С. А. Фирстов и др., Металлофиз. новейшие технол., 25, № 9: 1179 (2003).",
+				"tr":  "N. P. Brodnikovskiy, E. P. Pechkovskiy, S. A. Firstov et al., Metallofiz. noveyshie tekhnol., 25, No. 9: 1179 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Горбань, Э. П. Печковский, С. А. Фирстов и др., Труды Межд. конф. «Новейшие технологии в порошковой металлургии и керамике» (Киев: 2003), с. 373.",
+				"tr":  "V. F. Gorban', E. P. Pechkovskiy, S. A. Firstov et al., Trudy Mezhd. konf. «Noveyshie tekhnologii v poroshkovoy metallurgii i keramike» (Kiev: 2003), s. 373."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Горбань, Э. П. Печковский, С. А. Фирстов и др., Труды Межд. конф. «Новейшие технологии в порошковой металлургии и керамике» (Киев: 2003), с. 416.",
+				"tr":  "V. F. Gorban', E. P. Pechkovskiy, S. A. Firstov et al., Trudy Mezhd. konf. «Noveyshie tekhnologii v poroshkovoy metallurgii i keramike» (Kiev: 2003), s. 416."
+			},
+			{
+				"doi": "",
+				"or":  "S. A. Firstov and E. P. Pechkovsky, Science of Sintering, 36, No. 1: 11 (2004).",
+				"tr":  "S. A. Firstov and E. P. Pechkovsky, Science of Sintering, 36, No. 1: 11 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "S. A. Firstov and E. P. Pechkovsky, Proc. Powder Metallurgy World Congress (Vienna, Austria: 2004), vol. 4, p. 730.",
+				"tr":  "S. A. Firstov and E. P. Pechkovsky, Proc. Powder Metallurgy World Congress (Vienna, Austria: 2004), vol. 4, p. 730."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Горбань, Э. П. Печковский, С. А. Фирстов и др., Порошковая металлургия, № 3/4: 93 (2005).",
+				"tr":  "V. F. Gorban', E. P. Pechkovskiy, S. A. Firstov et al., Poroshkovaya metallurgiya, No. 3/4: 93 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Горбань, Э. П. Печковский, С. А. Фирстов, А. В. Самелюк, Металлофиз. новейшие технол., 27, № 3: 335 (2005).",
+				"tr":  "V. F. Gorban', E. P. Pechkovskiy, S. A. Firstov, A. V. Samelyuk, Metallofiz. Noveishie Tekhnol., 27, No. 3: 335 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "S. A. Firstov, E. P. Pechkovsky, I. I. Ivanova, N. P. Brodnikovsky et al., High Temperature Materials and Processes, 25, No. 1–2: 47 (2006).",
+				"tr":  "S. A. Firstov, E. P. Pechkovsky, I. I. Ivanova, N. P. Brodnikovsky et al., High Temperature Materials and Processes, 25, No. 1–2: 47 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Горбань, Э. П. Печковский, С. А. Фирстов, Металлофиз. новейшие технол., 28, No. 1: 67 (2006).",
+				"tr":  "V. F. Gorban', E. P. Pechkovskiy, S. A. Firstov, Metallofiz. noveyshie tekhnol., 28, No. 1: 67 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "С. О. Фірстов, Е. П. Пєчковський, І. І. Іванова, Зб. ДФФД Міністерства освіти і науки України «Фундаментальні орієнтири науки. Хімія і матеріалознавство» (Київ: Академперіодика: 2005), с. 158.",
+				"tr":  "S. O. Firstov, E. P. Piechkovs'kiy, I. I. Ivanova, Zb. DFFD Ministerstva osviti i nauki Ukraini «Fundamental'ni oriientiri nauki. Khimiya i materialoznavstvo» (Kiiv: Akademperiodika: 2005), s. 158."
+			},
+			{
+				"doi": "",
+				"or":  "I. S. Konoplyuk, T. Abe, T. Uchimoto, and T. Takagi, Materials Letters, 59: 2342 (2005).",
+				"tr":  "I. S. Konoplyuk, T. Abe, T. Uchimoto, and T. Takagi, Materials Letters, 59: 2342 (2005)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(02)01171-4",
+				"or":  "Z. F. Zhang, Z. M. Sun, H. Hashimoto, and T. Abe, J. of Alloys and Compounds, 352: 283 (2003).",
+				"tr":  "Z. F. Zhang, Z. M. Sun, H. Hashimoto, and T. Abe, J. of Alloys and Compounds, 352: 283 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Li, D. Chen, J. Zhou, J. H. Zhao, and L. H. He, Materials Letters, 58: 1741 (2004).",
+				"tr":  "H. Li, D. Chen, J. Zhou, J. H. Zhao, and L. H. He, Materials Letters, 58: 1741 (2004)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2004.04.015",
+				"or":  "H. B. Zhang, Y. C. Zhou, Y. W. Bao, and M. S. Li, Acta Materialia, 52: 3631 (2004).",
+				"tr":  "H. B. Zhang, Y. C. Zhou, Y. W. Bao, and M. S. Li, Acta Materialia, 52: 3631 (2004)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2005.08.039",
+				"or":  "Z. Sun, J. Zhou, D. Music, R. Ahuja, and J. M. Schneider, Scripta Materialia, 54: 105 (2006).",
+				"tr":  "Z. Sun, J. Zhou, D. Music, R. Ahuja, and J. M. Schneider, Scripta Materialia, 54: 105 (2006)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2005.05.034",
+				"or":  "Z. M. Sun, A. Murugaiah, T. Zhen, A. Zhou, and M. W. Barsoum, Acta Materialia, 53: 4359 (2005).",
+				"tr":  "Z. M. Sun, A. Murugaiah, T. Zhen, A. Zhou, and M. W. Barsoum, Acta Materialia, 53: 4359 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "W. B. Zhou, B. C. Mei, and J. Q. Zhu, Materials Letters, 59: 1547 (2005).",
+				"tr":  "W. B. Zhou, B. C. Mei, and J. Q. Zhu, Materials Letters, 59: 1547 (2005)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2004.08.089",
+				"or":  "S. S. Hwang, S. W. Park, and T. W. Kim, J. of Alloys and Compounds, 392: 285 (2005).",
+				"tr":  "S. S. Hwang, S. W. Park, and T. W. Kim, J. of Alloys and Compounds, 392: 285 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "S. E. Stoltz, H. I. Starnberg, and M. W. Barsoum, J. Phys. Chem. Solids, 64: 2321 (2003).",
+				"tr":  "S. E. Stoltz, H. I. Starnberg, and M. W. Barsoum, J. Phys. Chem. Solids, 64: 2321 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Y. W. Bao and Y. C. Zhou, Materials Letters, 57: 4018 (2003).",
+				"tr":  "Y. W. Bao and Y. C. Zhou, Materials Letters, 57: 4018 (2003)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(03)00435-3",
+				"or":  "M. Radovic, M. W. Barsoum, T. El-Raghy, and S. M. Wiederhorn, J. of Alloys and Compounds, 361: 299 (2003).",
+				"tr":  "M. Radovic, M. W. Barsoum, T. El-Raghy, and S. M. Wiederhorn, J. of Alloys and Compounds, 361: 299 (2003)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2005.05.020",
+				"or":  "T. Zhen, M. W. Barsoum, and S. R. Kalindidi, Acta Materialia, 53: 4163 (2005).",
+				"tr":  "T. Zhen, M. W. Barsoum, and S. R. Kalindidi, Acta Materialia, 53: 4163 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Shi-Bo Li, Jian-Xin Xie, Li-Tong Zhang, and Lai-Fei Cheng, Materials Letters, 57: 3048 (2003).",
+				"tr":  "Shi-Bo Li, Jian-Xin Xie, Li-Tong Zhang, and Lai-Fei Cheng, Materials Letters, 57: 3048 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "I. M. Low, Materials Letters, 58: 927 (2004).",
+				"tr":  "I. M. Low, Materials Letters, 58: 927 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "J. X. Chen and Y. C. Zhou, Scripta Materialia, 50: 897 (2004).",
+				"tr":  "J. X. Chen and Y. C. Zhou, Scripta Materialia, 50: 897 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, Ю. В. Мильман, С.А. Фирстов, Физические основы прочности тугоплавких металлов (Киев: Наукова думка: 1975).",
+				"tr":  "V. I. Trefilov, Yu. V. Mil'man, S.A. Firstov, Fizicheskie osnovy prochnosti tugoplavkikh metallov (Kiev: Naukova dumka: 1975)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, В. Ф. Моисеев, Э. П. Печковский и др., Деформационное упрочнение и разрушение поликристаллических металлов (Киев: Наукова думка: 1989).",
+				"tr":  "V. I. Trefilov, V. F. Moiseev, E. P. Pechkovskiy et al., Deformatsionnoe uprochnenie i razrushenie polikristallicheskikh metallov (Kiev: Naukova dumka: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "П. И. Полухин, С. С. Горелик, В. К. Воронцов, Физические основы пластической деформации (Москва: Металлургия: 1982).",
+				"tr":  "P. I. Polukhin, S. S. Gorelik, V. K. Vorontsov, Fizicheskie osnovy plasticheskoy deformatsii (Moskva: Metallurgiya: 1982)."
+			},
+			{
+				"doi": "",
+				"or":  "Y. Du, J. C. Schuster, H. J. Seifert, and F. Aldinger, J. Am. Ceram. Soc., 83, No. 1: 197 (2000).",
+				"tr":  "Y. Du, J. C. Schuster, H. J. Seifert, and F. Aldinger, J. Am. Ceram. Soc., 83, No. 1: 197 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "F. H. Hayes, Ternary Alloys (Eds. G. Petzow and G. Effeuberg) (VCH: 1990), vol. 3, p. 557.",
+				"tr":  "F. H. Hayes, Ternary Alloys (Eds. G. Petzow and G. Effeuberg) (VCH: 1990), vol. 3, p. 557."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Барабаш, Ю. Н. Коваль, Структура и свойства металлов и сплавов: справочник. Кристаллическая структура металлов и сплавов (Киев: Наукова думка: 1986).",
+				"tr":  "O. M. Barabash, Yu. N. Koval', Struktura i svoystva metallov i splavov: spravochnik. Kristallicheskaya struktura metallov i splavov (Kiev: Naukova dumka: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Халл, Введение в дислокации (Москва: Атомиздат: 1968).",
+				"tr":  "D. Khall, Vvedenie v dislokatsii (Moskva: Atomizdat: 1968)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Мильман, Зб. «Сучасне матеріалознавство ХХІ сторіччя» (Київ: Наукова думка: 1998), с. 637.",
+				"tr":  "Yu. V. Mil'man, Zb. «Suchasne materialoznavstvo KhKhI storichchya» (Kiiv: Naukova dumka: 1998), p. 637."
+			}
+		]
+	}
+}

@@ -1,0 +1,562 @@
+{
+	"_id":    "UFM.16.03.175",
+	"year":   2015,
+	"volume": 16,
+	"issue":  3,
+	"pages":  [175,227],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["20.03.2015"],
+	"PACS":   "52.80.Qj,61.72.-y,62.20.Qp,68.37.Lp,81.15.Jj,81.40.Pq,81.40.Wx,81.65.Lp",
+	"title":   {
+		"ua": "Структура, фазовий склад і властивості поверхневих шарів титану після електропідривного леґування Ітрієм та електронно-пучкового оброблення",
+		"en": "Structure, Phase Composition and Properties of Surface Layers of the Titanium after Electroexplosive Doping with Yttrium and Electron-Beam Processing",
+		"ru": "Структура, фазовый состав и свойства поверхностных слоёв титана после электровзрывного легирования иттрием и электронно-пучковой обработки"
+	},
+	"abstract": {
+		"ua": "Проведено модифікування поверхневого шару технічно чистого титану комбінованою методою, що поєднує електропідривне леґування Ітрієм і наступне опромінення високоінтенсивним електронним жмутом з параметрами: густина енергії жмута електронів — 20–70 Дж/см$^{2}$, тривалість імпульсу — 150 мкс, кількість і частота проходження імпульсів — 3 і 0,3 Гц відповідно. Методами сучасного фізичного матеріялознавства (рентґеноструктурна аналіза, оптична, сканівна і просвітна електронна дифракційна мікроскопія, міряння твердости, мікротвердости, коефіцієнта тертя та швидкости зношування) виконано дослідження елементного і фазового складів, дефектної субструктури, механічних і трибологічних характеристик леґованого шару. Виявлено формування багатошарової багатофазної субмікро- та нанокристалічної структури, яка характеризується розшаруванням матеріялу за Титаном та Ітрієм. Поверхневий шар товщиною у 500 нм є аморфним. Нижче розташовується шар товщиною у 1,0–1,5 мкм, що має стовпчасту будову. Під ним виявляється протяжний (у 30–40 мкм) шар кристалізації із дендритною (глобулярною) структурою. Аморфний шар збагачено Титаном, а наявний під ним шар із стовпчастою структурою — Ітрієм. Основною фазою поверхневого шару є $\\alpha$-ітрій (об’ємна частка — 73%), а об’ємна частка інших фаз істотно менша ($\\alpha$-титану — 10%, карбіду TiC та оксиду титану TiO$_{2}$ — 14%, оксиду ітрію Y$_{2}$O$_{3}$ — 3%). Насичення поверхневого шару титану атомами Ітрію, Оксиґену та Карбону приводить до формування металокерамічного шару, зміцненого оксидами та карбідами титану й ітрію, та сприяє кратному збільшенню мікротвердости (більш ніж у 3 рази), зниженню коефіцієнта тертя (більш ніж у 7 разів) і швидкости зношування модифікованого шару (більш ніж у 3 рази).",
+		"en": "Modification of surface layer of technically pure titanium is carried out by the combined method combining electroexplosive doping with yttrium and subsequent irradiation by high-intensity electron beam with parameters as follow: energy density of electron beam—20–70 J/cm$^{2}$, pulse length—150 $\\mu$s, number and pulse frequency—3 and 0.3 Hz, respectively. The investigations of elemental and phase compositions, defect substructure, mechanical and tribological characteristics of the doped layer are performed via the contemporary methods of physical materials science (X-ray structural analysis, optical, scanning and transmission electron diffraction microscopies, measurements of microhardness, friction coefficient and wear rate). The formation of multilayer multiphase submicro- and nanocrystalline structure characterized by titanium and yttrium layering is revealed. The 500 nm thick surface layer is amorphous. The 1.0–1.5 $\\mu$m thick layer is located below and has a columnar structure. Under it, the extended layer (of 20–40 $\\mu$m) with the structure of dendritic (globular) crystallization is determined. The amorphous layer is enriched with titanium, and the layer with columnar structure lying under it is yttrium-enriched. The main phase of the surface layer is $\\alpha$-yttrium (73% of the volume fraction). The volume fraction of other phases is considerably lesser ($\\alpha$-titanium—10%, carbide TiC and titanium oxide TiO$_{2}$—14%, yttrium oxide Y$_{2}$O$_{3}$—3%). The saturation of titanium surface layer with yttrium, oxygen and carbon atoms results in the formation of metalloceramic layer hardened by oxides and carbides of titanium and yttrium and facilitates the multiple increase in microhardness (more than 3 times as much), reduction of friction coefficient (more than 7 times) and wear rate of modified layer (more than 3 times).",
+		"ru": "Проведено модифицирование поверхностного слоя технически чистого титана комбинированным методом, сочетающим электровзрывное легирование иттрием и последующее облучение высокоинтенсивным электронным пучком с параметрами: плотность энергии пучка электронов — 20–70 Дж/см$^{2}$, длительность импульса — 150 мкс, количество и частота следования импульсов — 3 и 0,3 Гц соответственно. Методами современного физического материаловедения (рентгеноструктурный анализ, оптическая, сканирующая и просвечивающая электронная дифракционная микроскопия, измерения твёрдости, микротвёрдости, коэффициента трения и скорости изнашивания) выполнены исследования элементного и фазового составов, дефектной субструктуры, механических и трибологических характеристик легированного слоя. Выявлено формирование многослойной многофазной субмикро- и нанокристаллической структуры, характеризующейся расслоением материала по титану и иттрию. Поверхностный слой толщиной 500 нм является аморфным. Ниже располагается слой толщиной 1,0–1,5 мкм, имеющий столбчатое строение. Под ним выявляется протяжённый (30–40 мкм) слой со структурой дендритной (глобулярной) кристаллизации. Аморфный слой обогащён титаном, а лежащий под ним слой со столбчатой структурой — иттрием. Основной фазой поверхностного слоя является $\\alpha$-иттрий (объёмная доля — 73%), а объёмная доля других фаз существенно меньше ($\\alpha$-титана — 10%, карбида TiC и оксида титана TiO$_{2}$ — 14%, оксида иттрия Y$_{2}$O$_{3}$ — 3%). Насыщение поверхностного слоя титана атомами иттрия, кислорода и углерода приводит к формированию металлокерамического слоя, упрочнённого оксидами и карбидами титана и иттрия, и способствует кратному увеличению микротвёрдости (более чем в 3 раза), снижению коэффициента трения (более чем в 7 раз) и скорости изнашивания модифицированного слоя (более чем в 3 раза)."
+	},
+	"keywords": {
+		"ua": "структура титану, електропідривне леґування Ітрієм, електронно-жмутове оброблення, властивості поверхні",
+		"en": "titanium structure, electroexplosive doping with yttrium, electron-beam processing, surface properties",
+		"ru": "структура титана, электровзрывное легирование иттрием, электронно-пучковая обработка, свойства поверхности"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Є. Громов", "en": "V. E. Gromov", "ru": "В. Е. Громов"},
+			"OID": [407]
+		},
+		{
+			"AID": {"ua": "К. В. Соснін", "en": "K. V. Sosnin", "ru": "К. В. Соснин"},
+			"OID": [407]
+		},
+		{
+			"AID": {"ua": "Ю. Ф. Іванов", "en": "Yu. F. Ivanov", "ru": "Ю. Ф. Иванов"},
+			"OID": [408, 409]
+		},
+		{
+			"AID": {"ua": "О. А. Семіна", "en": "O. A. Semina", "ru": "О. А. Семина"},
+			"OID": [407]
+		}
+	],
+	"cited_by": {
+		"count":  2,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.18.02.111",
+				"cit": "V. E. Kormyshev, V. E. Gromov, Yu. F. Ivanov and S. V. Konovalov, <a href=\"https://doi.org/10.15407/ufm.18.02.111\">Usp. Fiz. Met. <b>18</b>, 111 (2017)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.18.02.155",
+				"cit": "V. V. Kurylyak and G. I. Khimicheva, <a href=\"https://doi.org/10.15407/ufm.18.02.155\">Usp. Fiz. Met. <b>18</b>, 155 (2017)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 100,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Н. Н. Рыкалин, А. А. Углов, И. В. Зуев, А. Н. Кокора, Лазерная и электронно-лучевая обработка материалов (Москва: Машиностроение: 1985).",
+				"tr":  "N. N. Rykalin, A. A. Uglov, I. V. Zuev, and A. N. Cocora, Lazernaya i Elektronno-luchevaya Obrabotka Materialov [Laser and Electron Beam Treatment of Materials] (Moscow: Mashinostroenie: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. А. Леонтьев, Н. Т.Чеканова, М. Г. Хан, Лазерная поверхностная обработка металлов и сплавов (Москва: Металлургия:1986).",
+				"tr":  "P. A. Leont'ev, N. T. Chekanova, and M. G. Khan, Lazernaya Poverkhnostnaya Obrabotka Metallov i Splavov [Laser Surface Treatment of Metals and Alloys] (Moscow: Metallurgy: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Коваленко, А. Д. Верхотуров, Л. Ф. Головко, И. А. Подчерняева, Лазерное и электроэрозионное упрочнение материалов (Москва: Наука: 1986).",
+				"tr":  "C. S. Kovalenko, A. D. Verkhoturov, L. F. Golovko, and I. A. Podchernyaeva, Lazernoe i Elektroerozionnoe Uprochnenie Materialov [Laser and Electrodischarge Hardening of Materials] (Moscow: Nauka: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. В. Арутюнян, В. Ю. Баранов, Л. А. Большов, Д. Д. Малюта, В. С. Межевов, В. Д. Письменный, Воздействие лазерного излучения на материалы (Москва: Наука: 1989).",
+				"tr":  "R. V. Arutyunyan, B. Yu. Baranov, L. A. Bol'shov, D. D. Malyuta, V. S. Mezhevov, and V. D. Pis'mennyy, Vozdeystvie Lazernogo Izlucheniya na Materialy [The Influence of Laser Radiation on Materials] (Moscow: Nauka: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Грибков, Ф. И. Григорьев, Б. А. Калин, В. Л. Якушин, Перспективные радиационно-пучковые технологии обработки материалов (Москва: Круглый год: 2001).",
+				"tr":  "V. A. Gribkov, F. I. Grigor'ev, B. A. Calin, and V. L. Yakushin, Perspektivnye Radiatsionno-Puchkovye Tekhnologii Obrabotki Materialov [Promising Radiation Beam Technologies of Material Treatment] (Moscow: Kruglyy God: 2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. М. Тюрин, М. Л. Жадкевич, Плазменные упрочняющие технологии (Киев: Наукова думка: 2008).",
+				"tr":  "Yu. M. Tyurin and M. L. Zhadkevich, Plazmennye Uprochnyayushchie Tekhnologii [Plasma Hardening Technologies] (Kiev: Naukova Dumka: 2008) (in Russian)."
+			},
+			{
+				"doi": "10.3367/UFNr.0175.200505e.0515",
+				"or":  "А. Д. Погребняк, Ю. Н. Тюрин, Успехи физ. наук, 175, № 5: 515 (2005).",
+				"tr":  "A. D. Pogrebnyak and Yu. N. Tyurin, Uspekhi Fiz. Nauk, 175, No. 5: 515 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Шипко, И. Л. Поболь, И. Г. Урбан, Упрочнение сталей и сплавов с использованием электронно-лучевого нагрева (Минск: Навука i тэхнiка: 1995).",
+				"tr":  "A. A. Shypko, I. L. Pobol, and I. G. Urban, Uprochnenie Staley i Splavov s Ispolzovaniem Elektronno-luchevogo Nagreva [Hardening of Steels and Alloys Using Electron-Beam Heating] (Minsk: Nauka i Tekhnika: 1995) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Симаков, Е. А. Будовских, Н. Н. Назарова, Изв. ВУЗов. Чёрная металлургия, № 12: 60 (2000).",
+				"tr":  "B. P. Simakov, E. A. Budovskikh, and N. N. Nazarov, Izv. VUZov. Chernaya Metallurgiya, No. 12: 60 (2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Будовских, П. С. Носарев, Материаловедение, № 3: 50 (2001).",
+				"tr":  "E. A. Budovskikh and P. S. Nosarev, Materialovedenie, No. 3: 50 (2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Будовских, Л. В. Манжос, Е. В. Мартусевич, И. С. Астахова, Изв. ВУЗов. Чёрная металлургия, № 6: 38 (2003).",
+				"tr":  "E. A. Budovskikh, L. V. Manzhos, E. V. Martusevich, and I. S. Astakhova, Izv. VUZov. Chernaya Metallurgiya, No. 6: 38 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Будовских, Е. В. Мартусевич, Изв. ВУЗов. Чёрная металлургия, № 6: 37 (2004).",
+				"tr":  "E. A. Budovskykh and E. V. Martusevich, Izv. VUZov. Chern. Metallurgiya, No. 6: 37 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. В. Мартусевич, Е. А. Будовских, В. К. Каратеев, В. Е. Громов, Заготов. пр-ва в машиностроении, № 1: 46 (2005).",
+				"tr":  "E. V. Martusevich, E. A. Budovskikh, V. K. Karateev, and V. E. Gromov, Zagotov. Pr-va v Mashinostroeni, No. 1: 46 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Я. Багаутдинов, Е. А. Будовских, Ю. Ф. Иванов, Е. В. Мартусевич, В. Е. Громов, Физ. мезомеханика, 8, № 4: 89 (2005).",
+				"tr":  "A. Ya. Bagautdinov, E. A. Budovskikh, Yu. F. Ivanov, E. V. Martusevich, and V. E. Gromov, Fiz. Mezomekhanika, 8, No. 4: 89 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Я. Багаутдинов, Е. А. Будовских, В. Ф. Горюшкин, Заготов. пр-ва в машиностроении, № 9: 46 (2005).",
+				"tr":  "A. Ya. Bagautdinov, E. A. Budovskikh, and V. F. Goryushkin, Zagotov. Pr-va v Mashinostroenii, No. 9: 46 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Я. Багаутдинов, Е. А. Будовских, Ю. Ф. Иванов, Изв. ВУЗов. Чёрная металлургия, № 9: 67 (2005).",
+				"tr":  "A. Ya. Bagautdinov, E. A. Budovskikh, and Yu. F. Ivanov, Izv. VUZov. Chernaya Metallurgiya, No. 9: 67 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. К. Каратеев, А. Я. Багаутдинов, Е. А. Будовских, Изв. ВУЗов. Чёрная металлургия, № 8: 34 (2005).",
+				"tr":  "V. K. Karataev, A. Ya. Bagautdinov, and E. A. Budovskikh, Izv. VUZov. Chernaya Metallurgiya, No. 8: 34 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Я. Багаутдинов, Е. А. Будовских, Ю. Ф. Иванов, Е. В. Мартусевич, В. Е. Громов, Изв. ВУЗов. Физика, 48, № 9: 36 (2005).",
+				"tr":  "A. Ya. Bagautdinov, E. A. Budovskikh, and Yu. F. Ivanov, Izv. VUZov. Fizika, 48, No. 9: 36 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Я. Багаутдинов, Е. А. Будовских, Ю. Ф. Иванов, В. Е. Громов, Вопросы материаловедения, 43, № 3: 32 (2005).",
+				"tr":  "A. Ya. Bagautdinov, E. A. Budovskikh, Yu. F. Ivanov, E. V. Martusevich and V. E. Gromov, Voprosy Materialovedeniya, 43, No. 3: 32 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Будовских, А. Я. Багаутдинов, Е. В. Мартусевич. Ю. Ф. Иванов, В. Е. Громов, Деформация и разрушение материалов, № 11: 28 (2005).",
+				"tr":  "E. A. Budovskikh, A. Ya. Bagautdinov, E. V. Martusevich, and Yu. F. Ivanov, Deformatsiya i Razrushenie Materialov, No. 11: 28 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Я. Багаутдинов, Е. А. Будовских, Ю. Ф. Иванов, В. К. Каратеев, Е. В. Мартусевич, В. Е. Громов, Физика и химия обраб. материалов, № 2: 50 (2006).",
+				"tr":  "A. Ya. Bagautdinov, E. A. Budovskikh, Yu. F. Ivanov, V. K. Karateev, E. V. Martusevich, and V. E. Gromov, Fizika i Khimiya Obrab. Materialov, No. 2: 50 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Я. Багаутдинов, Е. А. Будовских, Е. В. Мартусевич, В. Е. Громов, Изв. ВУЗов. Чёрная металлургия, № 12: 22 (2005).",
+				"tr":  "A. Ya. Bagautdinov, E. A. Budovskikh, E. V. Martusevich, and V. E. Gromov, Izv. VUZov. Chernaya Metallurgiya, No. 12: 22 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Будовских, Ю. Ф. Иванов, А. Я. Багаутдинов, Е. В. Мартусевич, В. Е. Громов, Деформация и разрушение материалов, № 3: 37 (2006).",
+				"tr":  "E. A. Budovskikh, Yu. F. Ivanov, A. Ya. Bagautdinov, E. V. Martusevich, and V. E. Gromov, Deformatsiya i Razrushenie Materialov, No. 3: 37 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Цвиркун, А. Я. Багаутдинов, Ю. Ф. Иванов, Е. А. Будовских, В. Е. Громов, Изв. ВУЗов. Чёрная металлургия, № 6: 28 (2006).",
+				"tr":  "O. A. Tsvirkun, A. Ya. Bagautdinov, Yu. F. Ivanov, E. A. Budovskikh, and V. E. Gromov, Izv. VUZov. Chernaya Metallurgiya, No. 6: 28 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Цвиркун, Е. А. Будовских, Ю. Ф. Иванов, В. Е. Громов, Физ. мезомеханика, 9, № 4: 49 (2006).",
+				"tr":  "O. A. Tsvirkun, E. A. Budovskikh, Yu. F. Ivanov, and V. E. Gromov, Fiz. Mezomekhanika, 9, No. 4: 49 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Цвиркун, Е. А. Будовских, В. Е. Громов, Изв. ВУЗов. Чёрная металлургия, № 8: 55 (2006).",
+				"tr":  "O. A. Tsvirkun, E. A. Budovskikh, and V. E. Gromov, Izv. VUZov. Chernaya Metallurgiya, No. 8: 55 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Цвиркун, Ю. Ф. Иванов, Е. А. Будовских, В. Е. Громов, Физ. мезомеханика, 9, № 5: 91 (2006).",
+				"tr":  "O. A. Tsvirkun, Yu. F. Ivanov, E. A. Budovskikh, and V. E. Gromov, Fiz. Mezomekhanika, 9, No. 5: 91 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Цвиркун, Ю. Ф. Иванов, Е. А. Будовских, В. Е. Громов, Материаловедение, № 11: 30 (2006).",
+				"tr":  "O. A. Tsvirkun, Yu. F. Ivanov, E. A. Budovskikh, and V. E. Gromov, Materialovedenie, No. 11: 30 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Цвиркун, Ю. Ф. Иванов, Е. А. Будовских, В. Е. Громов, Заготов. пр-ва в машиностроении, № 11: 37 (2006).",
+				"tr":  "O. A. Tsvirkun, Yu. F. Ivanov, E. A. Budovskikh, and V. E. Gromov, Zagotov. Pr-va v Mashinostroenii, No. 11: 37 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Цвиркун, Ю. Ф. Иванов, Е. А. Будовских, В. Е. Громов, Изв. ВУЗов. Чёрная металлургия, № 2: 46 (2007).",
+				"tr":  "O. A. Tsvirkun, Yu. F. Ivanov, E.A. Budovskikh, and V. E. Gromov, Izv. VUZov. Chernaya Metallurgiya, No. 2: 46 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Цвиркун, А. Я. Багаутдинов, Ю. Ф. Иванов, Е. А. Будовских, В. Е. Громов, Изв. ВУЗов. Физика, 50, № 3: 3 (2007).",
+				"tr":  "O. A. Tsvirkun, A. Ya. Bagautdinov, Yu. F. Ivanov, E. A. Budovskikh, and V. E. Gromov, Izv. VUZov. Fizika, 50, No. 3: 3 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Я. Багаутдинов, О. А. Цвиркун, Е. А. Будовских, Металлург, № 3: 52 (2007).",
+				"tr":  "A. Ya. Bagautdinov, O. A. Tsvirkun, and E. A. Budovskikh, Metallurg, No. 3: 52 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Цвиркун, Е. А. Будовских, А. Я. Багаутдинов, Изв. ВУЗов. Чёрная металлургия, № 6: 40 (2007).",
+				"tr":  "O. A. Tsvirkun, E. A. Budovskikh, and A. Ya. Bagautdinov, Izv. VUZov. Chernaya Metallurgiya, No. 6: 40 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Будовских, П. В. Уваркин, В. Е. Громов, Изв. ВУЗов. Чёр. металлургия, № 3: 50 (2008).",
+				"tr":  "E. A. Budovskikh, P. V. Uvarkin, and V. E. Gromov, Izv. VUZov. Chernaya Metallurgiya, No. 3: 50 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Будовских, Ю. Ф. Иванов, А. Я. Багаутдинов, А. В. Вострецова, В. Е. Громов, Изв. ВУЗов. Физика, 51, № 5: 71 (2008).",
+				"tr":  "E. A. Budovskikh, Yu. F. Ivanov, A. Ya. Bagautdinov, A. V. Vostretsova, and V. E. Gromov, Izv. VUZov. Fizika, 51, No. 5: 71 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Будовских, Ю. Ф. Иванов, Гуои Танг, В. Е. Громов, Изв. ВУЗов. Чёрная металлургия, № 6: 46 (2008).",
+				"tr":  "E. A. Budovskikh, Yu. F. Ivanov, Guo Tang, and V. E. Gromov, Izv. VUZov. Chernaya Metallurgiya, No. 6: 46 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. В. Мартусевич, Е. А. Будовских, В. Ф. Горюшкин, Вестник ТГУ. Серия: Естественные и технические науки, 8, № 4: 714 (2003).",
+				"tr":  "E. V. Martusevich, E. A. Budovskikh, and V. F. Goryushkin, Vestnik TGU. Seriya: Estestvennyie i Tekhnicheskie Nauki, 8, No. 4: 714 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Будовских, В. Ф. Горюшкин, Е. В. Мартусевич. В. Е. Громов, А. Я. Багаутдинов, Фунд. пробл. современного материаловедения, № 1: 95 (2005).",
+				"tr":  "E. A. Budovskikh, V. F. Goryushkin, E. V. Martusevich, V. E. Gromov, and A. Ya. Bagautdinov, Fund. Probl. Sovremennogo Materialovedeniya, No. 1: 95 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Будовских, А. Я. Багаутдинов, О. А. Цвиркун, Е. В. Мартусевич, В. Е. Громов, Фунд. пробл. современного материаловедения, 2, № 4: 80 (2005).",
+				"tr":  "E. A. Budovskikh, A. Ya. Bagautdinov, O. A. Tsvirkun, E. V. Martusevich, and V. E. Gromov, Fund. Probl. Sovremennogo Materialovedeniya, 2, No. 4: 80 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Цвиркун, Е. А. Будовских, В. Е. Громов, Вестник горно-металлургической секции РАЕН, вып. 16: 154 (2006).",
+				"tr":  "O. A. Tsvirkun, E. A. Budovskikh, and V. E. Gromov, Vestnik Gorno-Metallurgicheskoy Sektsii RAEN, Iss. 16: 154 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Я. Багаутдинов, Е. А. Будовских, О. А. Цвиркун, Е. В. Мартусевич, В. Е. Громов, Вестник горно-металлургической секции РАЕН, вып. 8: 143 (2006).42. О. А. Цвиркун. А. Я. Багаутдинов, Е. А. Будовских, Ю. Ф. Иванов, В. Е. Громов, Фундаментальные проблемы новых технологий: Материалы 3-й Всерос. конф. молодых учёных в рамках Рос. науч. форума с международным участием «Демидовские чтения» (Томск: 2006), с. 131.",
+				"tr":  "A. Ya. Bagautdinov, E. A. Budovskikh, O. A. Tsvirkun, E. V. Martusevich, and V. E. Gromov, Vestnik Gorno-Metallurgicheskoy Sektsii RAEN, Iss. 8: 143 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Цвиркун. А. Я. Багаутдинов, Е. А. Будовских, Ю. Ф. Иванов,  В. Е. Громов, Фундаментальные проблемы новых технологий: Материалы 3-й Всерос. конф. молодых учёных в рамках Рос. науч. форума с  международным участием «Демидовские чтения» (Томск: 2006), с. 131.",
+				"tr":  "O. A. Tsvirkun, A. Ya. Bagautdinov, E. A. Budovskikh, Yu. F. Ivanov, and V. E. Gromov, Fundamental'nye problemy Novikh Tekhnologiy: Vseros. Konf. Molodykh Uchenykh v Ramkakh Ros. Nauch. Foruma s Mezhdunar. Uchastiem 'Demidovskie Chteniya' (Tomsk: 2006), p. 131 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Цвиркун, Е. А. Будовских, Ю. Ф. Иванов, В. Е. Громов, Фунд. пробл. современного материаловедения, № 3: 17 (2006).",
+				"tr":  "O. A. Tsvirkun, E. A. Budovskikh, Yu. F. Ivanov, and V. E. Gromov, Fund. Probl. Sovremennogo Materialovedeniya, No. 3: 17 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Будовских, Вестник РАЕН, 6, № 3: 77 (2006).",
+				"tr":  "E. A. Budovskikh, Vestnik RAEN, No. 3: 77 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Будовских, О. А. Цвиркун, Ю. Ф. Иванов, В. Е. Громов, Изв. ВУЗов. Физика, 9, № 8: 367 (2006).",
+				"tr":  "E. A. Budovskikh, O. A. Tsvirkun, Yu. F. Ivanov, and V. E. Gromov, Izv. VUZov. Fizika, 9, No. 8:367 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Цвиркун, Е. А. Будовских, В. А. Петрунин, В. Я. Целлермаер, В. Е. Громов, Вестник МГТУ им. Г. И. Носова, № 4: 83 (2006).",
+				"tr":  "O. A. Tsvirkun, E. A. Budovskikh, V. A. Petrunin, V. Ya. Tsellermaer, and V. E. Gromov, Vestnik MGTU im. G. I. Nosova, No. 4: 83 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Цвиркун, Е. А. Будовских, В. В. Руднева, В. Ф. Горюшкин, В. Е. Громов, Журнал функциональных материалов, 1, № 3: 117 (2007).",
+				"tr":  "O. A. Tsvirkun, E. A. Budovskikh, V. A. Rudneva, V. F. Goryushkin, and V. E. Gromov, Zhurnal Funktsionalnykh Materialov, 1, No. 3: 117 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Цвиркун, Е. А. Будовских, Ю. Ф. Иванов, В. Е. Громов, Особенности структуры и свойств перспективных материалов (Томск: НТЛ: 2006).",
+				"tr":  "O. A. Tsvirkun, E. A. Budovskikh, Yu. F. Ivanov, and V. E. Gromov, Osobennosti Struktury i Svoystv Perspektivnykh Materialov [Peculiarities of Structure and Properties of Advanced Materials] (Tomsk: NTL: 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Будовских, Ю. Ф. Иванов, В. Е. Громов, Структура и свойства перспективных металлических материалов (Томск: НТЛ: 2007).",
+				"tr":  "E. A. Budovskikh, Yu. F. Ivanov, and V. E. Gromov, Struktura i Svoystva Perspektivnykh Metallicheskikh Materialov [Structure and Properties of Advanced Metallic Materials] (Tomsk: NTL: 2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Будовских, Ю. Ф. Иванов, В. Е. Громов, Эволюция структуры и свойства металлических материалов (Томск: НТЛ: 2007).",
+				"tr":  "E. A. Budovskikh, Yu. F. Ivanov, and V. E. Gromov, Evolyutsiya Struktury i Svoystva Metallicheskikh Materialov [Evolution of Structure and Properties of Metallic Materials] (Tomsk: NTL: 2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Я. Багаутдинов, Е. А. Будовских, Ю. Ф. Иванов, В. Е. Громов, Контроль. Диагностика. Ресурс: Сб. науч. тр. (Кемерово: КемГТУ: 2007), с. 155.",
+				"tr":  "A. Ya. Bagautdinov, E. A. Budovskikh, Yu. F. Ivanov, and V. E. Gromov, 'Kontrol. Diagnostika. Resurs' [Control. Diagnostics. Resource], Sbornik Nauchnykh Trudov (Kemerovo: KemGTU: 2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Вострецова, Е. А. Будовских, В. Е. Громов, Фунд. пробл. современного материаловедения, № 3: 46 (2008).",
+				"tr":  "A. V. Vostretsova, E. A. Budovskikh, and V. E. Gromov, Fund. Probl. Sovremennogo Materialovedeniya, No. 3: 46 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Я. Багаутдинов, Е. А. Будовских, Ю. Ф. Иванов, В. Е. Громов, Физические основы электровзрывного легирования металлов и сплавов (Новокузнецк: СибГИУ: 2007).",
+				"tr":  "A. Ya. Bagautdinov, E. A. Budovskikh, Yu. F. Ivanov, and V. E. Gromov, Fizicheskie Osnovy Elektrovzryvnogo Legirovaniya Metallov i Splavov [Physical Basis of Electroexplosive Alloying of Metals and Alloys] (Novokuznetsk: SibGIU: 2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Коваль, Ю. Ф. Иванов, Изв. ВУЗов. Физика, 51, № 5: 71 (2008).",
+				"tr":  "N. N. Koval and Yu. F. Ivanov, Izv. VUZov. Fizika, 51, No. 5: 71 (2008) (in Russian)."
+			},
+			{
+				"doi": "10.1017/S026303460321212X",
+				"or":  "V. N. Devyatkov, N. N. Koval, P. M. Schanin, V. P. Grigoryev, and T. V. Koval, Laser Part. Beams, 21, No. 2: 243 (2003).",
+				"tr":  "V. N. Devyatkov, N. N. Koval, P. M. Schanin, V. P. Grigoryev, and T. V. Koval, Laser Part. Beams, 21, No. 2: 243 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Н. Н. Коваль, Структура и свойства перспективных металлических материалов (Томск: НТЛ: 2007).",
+				"tr":  "Yu. F. Ivanov and N. N. Koval, Struktura i Svoystva Perspektivnykh Metallicheskikh Materialov [Structure and Properties of Promising Metallic Materials] (Tomsk: NTL: 2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Ю. А. Колубаева, С. Ю. Филимонов, А. В. Вострецова, Е. А. Будовских, Изв. ВУЗов. Чёрная металлургия, № 12: 43 (2008).",
+				"tr":  "Yu. F. Ivanov, Yu. A. Kolubaeva, S. Yu. Filimonov, A. V. Vostretsova, and E. A. Budovskikh, Izv. VUZov. Chernaya Metallurgiya, No. 12: 43 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Ю. А. Колубаева, А. Д. Тересов, С. Ю. Филимонов, А. В. Вострецова, Е. А. Будовских, В. Е. Громов, Упрочняющие технологии и покрытия, № 2: 41 (2009).",
+				"tr":  "Yu. F. Ivanov, Yu. A. Kolubaeva, A. D. Teresov, S. Yu. Filimonov, A. V. Vostretsova, E. A. Budovskih, and V. E. Gromov, Uprochnyayushchie Tekhnologii i Pokrytiya [Strengthening Technologies and Coatings], No. 2: 41 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Вострецова, Е. С. Ващук, Е. А Будовских, Ю. Ф. Иванов, В. Е. Громов, Материаловедение и термическая обработка металлов: Сб. науч. тр. (Магнитогорск: ГОУ ВПО МГТУ: 2009), с. 209.",
+				"tr":  "A. V. Vostretsova, E. S. Vashchuk, E. A. Budovskikh, Yu. F. Ivanov, and V. E. Gromov, Materialovedenie i Termicheskaya Obrabotka Metallov: Sbornik Nauchnykh Trudov (Magnitogorsk: GOU VPO MGTU: 2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Вострецова, Е. С. Ващук, С. В. Карпий, Е. А. Будовских, Ю. Ф. Иванов, В. Е. Громов, Материаловедение, технологии и экология в 3-м тысячелетии: Материалы IV Всерос. конф. молодых учёных (Томск: Изд. Ин-та оптики атмосферы СО РАН: 2009), с. 78.",
+				"tr":  "A. V. Vostretsova, E. S. Vashchuk, S. V. Karpiy, E. A. Budovskikh, Yu. F. Ivanov, and V. E. Gromov, Materialovedenie, Tekhnologii i Ekologiya v 3-m Tysyacheletii: Materialy IV Vseros. Konf. Molodykh Uchenykh [Materials Science, Technology and Ecology in the 3rd Millennium] (Tomsk: Publishing House of Institute of Atmospheric Optics SB RAS: 2009), p. 78 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Ю. А. Колубаева, С. Ю. Филимонов, А. В. Вострецова, Е. А. Будовских, Изв. ВУЗов. Чёрн. металлургия, № 10: 42 (2009).",
+				"tr":  "Yu. F. Ivanov, Yu. A. Kolubaeva, S. Yu. Filimonov, A. V. Vostretsova, and E. A. Budovskikh, Izv. VUZov. Chernaya Metallurgiya, No. 10: 42 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Н. Н. Коваль, С. Ю. Филимонов, А. Д. Тересов, Ю. А. Колубаева, Е. А. Будовских, А. В. Вострецова, В. Е. Громов, Изв. ВУЗов. Физика, № 11/2: 161 (2009).",
+				"tr":  "Yu. F. Ivanov, N. N. Koval, S. Yu. Filimonov, A. D. Teresov, Yu. A. Kolubaeva, and E. A. Budovskikh, A. V. Vostretsova, and V. E. Gromov, Izv. VUZov. Fizika, No. 11/2: 161 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, С. Ю. Филимонов, Ю. А. Колубаева, А. Д. Тересов, Н. Н. Коваль, А. В. Вострецова, Е. А. Будовских, В. Е Громов, Фунд. пробл. современного материаловедения, 6, № 2: 119 (2009).",
+				"tr":  "Yu. F. Ivanov, S. Yu. Filimonov, Yu. A. Kolubaeva, A. D. Teresov, N. N. Koval, A. V. Vosrtetsova, E. A. Budovskikh, and V. E. Gromov, Fund. Probl. Sovremennogo Materialovedeniya, 6, No. 2: 119 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, С.В. Карпий, Н. Н. Коваль, Ю. А. Колубаева, А. Д. Тересов, В. Е. Громов, Е. А. Будовских, Деформация и разрушение материалов, № 9: 39 (2009).",
+				"tr":  "Yu. F. Ivanov, S. V. Karpiy, N. N. Koval, Yu. A. Kolubaeva, A. D. Teresov, V. E. Gromov, and E. A. Budovskikh, Deformatsiya i Razrushenie Materialov, No. 9: 39 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. С. Ващук, А. В. Вострецова, Е. А Будовских, Ю. Ф. Иванов, В. Е. Громов, Структурно-фазовые состояния перспективных металлических металлов (Новокузнецк: Изд-во НПК: 2009).",
+				"tr":  "E. S. Vashchuk, A. V. Vostretsova, E. A. Budovskikh, Yu. F. Ivanov, and V. E. Gromov, Strukturno-Fazovye Sostoyaniya Perspektivnykh Metallicheskikh Metallov [Structural-Phase States of the Promising Metallic Metals] (Novokuznetsk: Publishing house NPK: 2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Будовских, С. В. Карпий, Г. Танг, С. В Воробьёв, А. П. Семин, В. Я. Целлермаер, С. В. Коновалов, В. Е Громов, Вестник ЗСО РАЕН, № 11 (2009).",
+				"tr":  "E. A. Budovskikh, S. V. Karpiy, G. Tang, S. V. Vorobyov, A. P. Semin, V. Ya. Tselermayer, S. V. Konovalov, and V. E. Gromov, Vestnik ZSO RAEN, No. 11: (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Карпий, Е. А. Будовских, Ю. Ф. Иванов, В. Е. Громов, С. В. Коновалов, Фунд. пробл. современного материаловедения, № 1: 46 (2009).",
+				"tr":  "S. V. Karpiy, E. A. Budovskikh, Yu. F. Ivanov, V. E. Gromov, and S. V. Konovalov, Fund. Probl. Sovremennogo Materialovedeniya, No. 1: 46 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Карпий, Е. С. Ващук, Е. А. Будовских, Ю. Ф. Иванов, Вестник горно-металлургической секции РАЕН, вып. 24: 171 (2009).",
+				"tr":  "S. V. Karpiy, E. S. Vashchuk, E. A. Budovskikh, and Yu. F. Ivanov, Vestnik Gorno-Metallurgicheskoy Sektsii RAEN, Iss. 24: 171 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Карпий, М. М. Морозов, Ю. Ф. Иванов, Е. А. Будовских, Ю. А. Колубаева, А. Д. Тересов, В. Е. Громов, Материаловедение, № 10: 61 (2010).",
+				"tr":  "S. V. Karpiy, M. M. Morozov, Yu. F. Ivanov, E. A. Budovskikh, Yu. A. Kolubaeva, A. D. Teresov, and V. E. Gromov, Materialovedenie, No. 10: 61 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Карпий, Ю. Ф. Иванов, Н. Н. Коваль, Е. А. Будовских, Ю. А. Колубаева, А. Д. Тересов, В. Е. Громов, Физика и химия обработки материалов, № 4: 51 (2010).",
+				"tr":  "S. V. Karpiy, Yu. F. Ivanov, N. N. Koval', E. A. Budovskikh, Yu. A. Kolubaeva, A. D. Teresov, and V. E. Gromov, Fizika i Khimiya Obrabotki Materialov, No. 4: 51 (2010) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.11.03.273",
+				"or":  "С. В. Карпий, М. М. Морозов, Е. А. Будовских, Ю. Ф. Иванов, В. Е. Громов, Успехи физики металлов, 11, № 3: 273 (2010).",
+				"tr":  "S. V. Karpiy, M. M. Morozov, E. A. Budovskikh, Yu. F. Ivanov, and V. E. Gromov, Uspehi Fiziki Metallov, 11, No. 3: 273 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Карпий, М. М. Морозов, Ю. Ф. Иванов, Е. А. Будовских, Ю. А. Колубаева, А. Д. Тересов, В. Е. Громов, Перспективные материалы, № 1: 82 (2011).",
+				"tr":  "S. V. Karpiy, M. M. Morozov, Yu. F. Ivanov, E. A. Budovskikh, Yu. A. Kolubaeva, A. D. Teresov, and V. E. Gromov, Perspektivnye Materialy, No. 1: 82 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Карпий, М. М. Морозов, Ю. Ф. Иванов, Е. А. Будовских, В. Е. Громов, Изв. ВУЗов. Чёрн. металлургия, № 8: 64 (2010).",
+				"tr":  "S. V. Karpiy, M. M. Morozov, Yu. F. Ivanov, E. A. Budovskikh, and V. E. Gromov, Izv. VUZov. Chernaya Metallurgiya, No. 8: 64 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, С. Ю. Филимонов, А. Д. Тересов, Ю. А. Колубаева, Е. А. Будовских, В. Е. Громов, Изв. ТПУ, 318, № 2: 101 (2011).",
+				"tr":  "Yu. F. Ivanov, S. Yu. Filimonov, A. D. Teresov, Yu. A. Kolubaeva, E. A. Budovskikh, and V. E. Gromov, Izv. TPU, 318, No. 2: 101 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, С. Ю. Филимонов, Ю. А. Колубаева, А. Д. Тересов, В. Е. Громов, Е. А. Будовских, Изв. ТПУ, 318, № 2: 106 (2011).",
+				"tr":  "Yu. F. Ivanov, S. Yu. Filimonov, Yu. A. Kolubaeva, A. D. Teresov, V. E. Gromov, and E. A. Budovskikh, Izv. TPU, 318, No. 2: 106 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. С. Ващук, Д. А. Романов, Е. А. Будовских, Ю. Ф. Иванов, Изв. ВУЗов. Чёрн. металлургия, № 6: 25 (2011).",
+				"tr":  "E. S. Vashchuk, D. A. Romanov, E. A. Budovskikh, and Yu. F. Ivanov, Izv. VUZov. Chernaya Metallurgiya, No. 6: 25 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, С. В. Карпий, М. М. Морозов, Структура, фазовый состав и свойства титана после электровзрывного легирования и электронно-пучковой обработки (Новокузнецк: НПК: 2010).",
+				"tr":  "Yu. F. Ivanov, S. V. Karpiy, and M. M. Morozov, Struktura, Fazovyi Sostav i Svoystva Titana Posle Elektrovzryvnogo Legirovaniya i Elektronno-Puchkovoy Obrabotki [Structure, Phase Composition and Properties of Titanium after Electroexplosive Alloying and Electron-Beam Processing] (Novokuznetsk: Publishing House NPK: 2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Громов, Формирование структурно-фазовых состояний металлов и сплавов при электровзрывном легировании и электронно-пучковой обработке (Новокузнецк: Интер-Кузбасс: 2011).",
+				"tr":  "V. E. Gromov, Formirovanie Strukturno-Fazovykh Sostoyaniy Metallov i Splavov pri Elektrovzryvnom Legirovanii i Elektronno-Puchkovoy Obrabotke [Formation of Structural-Phase States of the Metals and Alloys at Electroexplosive Alloying and Electron-Beam Processing] (Novokuznetsk: Inter-Kuzbass: 2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Вол, И. К. Коган, Строение и свойства двойных металлических систем (Москва: Наука:1976).",
+				"tr":  "A. E. Vol and I. K. Kogan, Stroenie i Svoystva Dvoynykh Metallicheskikh Sistem [Structure and Properties of Binary Metal Systems] (Moscow: Nauka: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. И. Шаповал, В. М Ажажа, В. М. Аржавитин, И. Б. Доля, В. Я. Свердлов, М. А. Тихоновский, В. Г. Яровой, ВАНТ. Серия: Вакуум, чистые материалы, сверхпроводники, № 1: 133 (2002).",
+				"tr":  "B. I. Shapoval, V. M Azhazha, V. M. Arzhavitin, I. B. Dolya, V. Ya. Sverdlov, M. A. Tikhonovsky, and V. G. Yarovoy, VANT. Seriya: Vakuum, Chistye Materialy, Sverkhprovodniki, No. 1: 133 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Тихоновский, ВАНТ. Серия: Вакуум, чистые материалы, сверхпроводники, № 6: 115 (2004).",
+				"tr":  "M. A. Tikhonovsky, VANT. Seriya: Vakuum, Chistye Materialy, Sverkhprovodniki, No. 6: 115 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Тихоновский, В. Т. Петренко, В. С. Безродний, Механизм повреждаемости и прочность гетерогенных материалов (Ленинград: 1985).",
+				"tr":  "M. A. Tikhonovsky, V. T. Petrenko, and V. S. Bezrodny, Mekhanizm Povrezhdaemosti i Prochnost' Geterogennykh Materialov [Mechanism of Damageability and Strength of Heterogeneous Materials] (Leningrad: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Поут, Г. Фоти, Д. Джекобсона, Модифицирование и легирование поверхности лазерными, ионными и электронными пучками (Москва: Машиностроение: 1987).",
+				"tr":  "J. Pot, G. Foti, and D. Jacobson, Modifitsirovanie i Legirovanie Poverkhnosti Lazernymi, Ionnymi i Elektronnymi Puchkami [Modification and Surface Alloying by Laser, Ion, and Electron Beams] (Moscow: Mashinostroenie: 1987) (Russian translation)."
+			},
+			{
+				"doi": "10.1016/j.micron.2004.08.001",
+				"or":  "М. Klimiankou, R. Lindau, and A. Möslang, Micron, 36, No. 1: 1 (2005).",
+				"tr":  "M. Klimiankou, R. Lindau, and A. Möslang, Micron, 36, No. 1: 1 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Крагельский, Трение и износ (Москва: Машиностроение: 1968).",
+				"tr":  "I. V. Kragelsky, Trenie i Iznos [Friction and Wear] (Moscow: Mashinostroenie: 1968) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Хрущев, М. А. Бабичев, Абразивное изнашивание (Москва: Наука: 1970).",
+				"tr":  "M. M. Khrushchev and M. A. Babichev, Abrazivnoe Iznashivanie [Abrasive Wear] (Moscow: Nauka: 1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Тененбаум, Износостойкость конструкционных материалов и деталей машин при абразивном изнашивании (Москва: Машиностроение: 1966).",
+				"tr":  "M. M. Tenenbaum, Iznosostoykost' Konstruktsionnykh Materialov i Detaley Mashin pri Abrazivnom Iznashivanii [Wear Resistance of Structural Materials and Machine Components During Abrasive Wear] (Moscow: Mashinostroenie: 1966) (Russian translation)."
+			},
+			{
+				"doi": "10.1016/j.wear.2004.09.062",
+				"or":  "J. Qu, P. J. Blau, T. R. Watkins, O. B. Cavin, and N. S. Kulkarni, Wear, 258, No. 9: 1348 (2005).",
+				"tr":  "J. Qu, P. J. Blau, T. R. Watkins, O. B. Cavin, and N. S. Kulkarni, Wear, 258, No. 9: 1348 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Мощенок, Н. А. Лалазарова, О. Н. Тимченко, Сверхтвёрдые материалы, № 6: 16 (2004).",
+				"tr":  "V. I. Moschenok, N. A. Lalazarova, and O. N. Timchenko, Sverkhtverdye Materialy, No. 6: 16 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. М. Мурзин, С. А. Чубов, В. В. Огородников, Вісник СевНТУ: зб. наук. пр., серія: Машиноприладобудування та транспорт, № 111: 113 (2010).",
+				"tr":  "L. M. Murzin, S. A. Chubov, and V. V. Ogorodnikov, Visnyk SevNTU: Zb. Nauk. Prats', Seriya: Mashynopryladobuduvannya ta Transport, No. 111: 113 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Головин, Физ. твёрдого тела, 50, № 12: 2113 (2008).",
+				"tr":  "Yu. I. Golovin, Fiz. Tverdogo Tela, 50, No. 12: 2113 (2008) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.73.245410",
+				"or":  "J. R. Greer and W. D. Nix, Phys. Rev B, 73, No. 24: 245410 (2006).",
+				"tr":  "J. R. Greer and W. D. Nix, Phys. Rev B, 73, No. 24: 245410 (2006)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2006.01.030",
+				"or":  "J. R. Greer, W. D. Nix, G. Feug, and E. T. Lilleoden, Thin Solid Films, 515, No. 6: 3152 (2007).",
+				"tr":  "J. R. Greer, W. D. Nix, G. Feug, and E. T. Lilleoden, Thin Solid Films, 515, No. 6: 3152 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Физические величины (Ред. И. С. Григорьев, Е. З. Мейлихов) (Москва: Энергоатомиздат:1991).",
+				"tr":  "Fizicheskie Velichiny [Physical Quantities] (Eds. I. S. Grigor'ev and E. Z. Meilikhov) (Moscow: Energoatomizdat: 1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Райков, Е. А. Будовских, В. Е. Громов, Физическая природа упрочнения поверхностных слоев титановых сплавов при электровзрывном легировании и электро-пучковой обработке (Новокузнецк: Интер-Кузбасс: 2014).",
+				"tr":  "S. V. Raikov, E. A. Budovskikh, and V. E. Gromov, Fizicheskaya Priroda Uprochneniya Poverkhnostnykh Sloev Titanovykh Splavov pri Elektrovzryvnom Legirovanii i Elektro-Puchkovoy Obrabotke [Physical Nature of Hardening of Surface Layers in Titanic Alloys with Electroexplosive Alloying and Electro-Beam Processing] (Novokuznetsk: Inter-Kuzbass: 2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Wei-ping Gong, Teng-fei Chen, Da-jian Li, and Yong Liu, Trans. Nonferrous Met. Soc. China, No. 19: 199 (2009).",
+				"tr":  "Wei-ping Gong, Teng-fei Chen, Da-jian Li, and Yong Liu, Trans. Nonferrous Met. Soc. China, No. 19: 199 (2009)."
+			},
+			{
+				"doi": "10.1007/s11182-014-0232-8",
+				"or":  "S. V. Raikov, K. V. Sosnin, Yu. F. Ivanov, E. A. Budovskikh, and V. E. Gromov, Russ. Phys. J., 57, No. 2: 252 (2014).",
+				"tr":  "S. V. Raikov, K. V. Sosnin, Yu. F. Ivanov, E. A. Budovskikh, and V. E. Gromov, Russ. Phys. J., 57, No. 2: 252 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. F. Ivanov, V. E. Gromov, A. D. Teresov, O. V. Ivanova, S. V. Raikov, K. V. Sosnin, O. A. Semina, and K. V. Alsaraeva, Adv. Mater. Res., 1013: 229 (2014).",
+				"tr":  "Yu. F. Ivanov, V. E. Gromov, A. D. Teresov, O. V. Ivanova, S. V. Raikov, K. V. Sosnin, O. A. Semina, and K. V. Alsaraeva, Adv. Mater. Res., 1013: 229 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Соснин, Ю. Ф. Иванов, А. М. Глезер, В. Е. Громов, С. В. Райков, Е. А. Будовских, Изв. РАН. Серия физическая, 78, № 11: 1454 (2014).",
+				"tr":  "K. V. Sosnin, Yu. F. Ivanov, A. M. Glezer, V. E. Gromov, S. V. Raikov, and E. A. Budovskikh, Izv. RAN. Seriya Fizicheskaya, 78, No. 11: 1454 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.4899017",
+				"or":  "K. V. Sosnin, S. V. Raikov, E. S. Vaschuk, Yu. F. Ivanov, E. A. Budovskikh, and V. E. Gromov, AIP Conference Proceedings, 1623: 603 (2014).",
+				"tr":  "K. V. Sosnin, S. V. Raikov, E. S. Vaschuk, Yu. F. Ivanov, E. A. Budovskikh, and V. E. Gromov, AIP Conference Proceedings, 1623: 603 (2014)."
+			}
+		]
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"year":   2014,
+	"volume": 15,
+	"issue":  1,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [1,33],
+			"title": {
+				"ua": "Формування структури, фазового складу і дефектної субструктури в об’ємно- та диференційованозагартованих рейках",
+				"en": "Formation of Structure, Phase Composition and Faulty Substructure in the Bulk- and Differentially-Hard-Tempered Rails",
+				"ru": "Формирование структуры, фазового состава и дефектной субструктуры в объёмно- и дифференцированнозакалённых рельсах"
+			},
+			"autors": {
+				"ua": "В. Є. Громов, К. В. Волков, Ю. Ф. Іванов, К. В. Морозов, К. В. Алсараєва, С. В. Коновалов",
+				"en": "V. E. Gromov, K. V. Volkov, Yu. F. Ivanov, K. V. Morozov, K. V. Alsarayeva, and S. V. Konovalov",
+				"ru": "В. Е. Громов, К. В. Волков, Ю. Ф. Иванов, К. В. Морозов, К. В. Алсараева, С. В. Коновалов"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [35,53],
+			"title": {
+				"ua": "Властивості постійних магнетів системи Nd–Fe–B, леґованої Cu, Ti, C, одержаних порошковою методою або спіканням плівок за умов високого тиску",
+				"en": "Properties of Permanent Magnets of the Nd–Fe–B System Alloyed with Cu, Ti, C, Which Are Obtained by a Powder Method or Sintering of Films in High-Pressure Conditions",
+				"ru": "Свойства постоянных магнитов системы Nd–Fe–B, легированной Cu, Ti, C, полученных порошковым методом или спеканием плёнок в условиях высокого давления"
+			},
+			"autors": {
+				"ua": "Г. П. Брехаря, О. А. Харитонова, Т. В. Гуляєва",
+				"en": "G. P. Brekharya, O. A. Kharitonova, and T. V. Gulyayeva",
+				"ru": "Г. П. Брехаря, Е. А. Харитонова, Т. В. Гуляева"
+			}
+		}
+	]
+}

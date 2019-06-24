@@ -1,0 +1,222 @@
+{
+	"_id":    "UFM.13.04.397",
+	"year":   2012,
+	"volume": 13,
+	"issue":  4,
+	"pages":  [397,416],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["08.02.2012","29.04.2012"],
+	"PACS":   "73.30.+y, 73.40.Cg, 73.40.Ei, 81.40.Rs, 85.30.Hi, 85.30.Kk, 85.40.Ls",
+	"title":   {
+		"ua": "Вивчення властивостей контактів кремнію з бар’єром Шотткі, виготовлених на основі аморфних і полікристалічних різних металевих стопів",
+		"en": "Studying of Properties of Silicon Junctions with the Schottky Barrier Fabricated on the Base of Amorphous and Polycrystalline Various Metal Alloys",
+		"ru": "Изучение свойств контактов кремния с барьером Шоттки, изготовленных на основе аморфных и поликристаллических различных металлических сплавов"
+	},
+	"abstract": {
+		"ua": "В даній оглядовій роботі викладено результати з вивчення електрофізичних властивостей діод Шотткі (ДШ), виготовлених на основі різноманітних металевих стопів. Наведено результати автора даної роботи та інших авторів стосовно зміні властивостей ДШ в залежності від обраних металевих складів і структур плівок металу. За рентґенофазової аналізи досліджуваних систем, — Ni–Ti, Pb–Sb, Al–Ni, TiB, — встановлено, що основні стопи при певній пропорції компонентів мають аморфну структуру, а інші плівки — полікристалічну. Визначено основні параметри ДШ в залежності від складу і структури вивчених плівок. З’ясовано причини появи надлишкового струму та інших спостережуваних ефектів поблизу температури кристалізації досліджуваних аморфних металевих плівок. Показано, що спостережувані за термовідпалу ефекти пов’язані зі змінами структури аморфної плівки металу при переході в полікристалічний стан.",
+		"en": "In a given article, results on electrophysical properties of the Schottky diodes (HCD) fabricated of different metal alloys are reviewed. Results of author of a given review as well as other authors on the change of HCD properties depending on the chosen metal compositions and structures of metal films are presented. As revealed from X-ray diffraction analysis of the Ni–Ti, Pb–Sb, Al–Ni, TiB systems investigated, the main alloys have the amorphous structure at a certain proportion of components, while other films have the polycrystalline structure. Critical parameters of HCD depending on the composition and structure of the studied films are determined. The reasons of excess current and other observed effects near the crystallisation temperature of the investigated amorphous metal films are ascertained. As shown, the effects observed at the thermal annealing are concerned with the changes in the structure of metallic amorphous film during transition into polycrystalline state.",
+		"ru": "В данной обзорной работе изложены результаты по изучению электрофизических свойств диодов Шоттки (ДШ), изготовленных на основе различных металлических сплавов. Приведены результаты автора данной работы и других авторов по изменению свойств ДШ в зависимости от выбранных металлических составов и структур плёнок металла. При рентгенофазовом анализе исследуемых систем, — Ni–Ti, Pb–Sb, Al–Ni, TiB, — установлено, что основные сплавы при определённой пропорции компонентов имеют аморфную структуру, а остальные плёнки — поликристаллическую. Определены основные параметры ДШ в зависимости от состава и структуры изученных плёнок. Выяснены причины появления избыточного тока и других наблюдаемых эффектов вблизи температуры кристаллизации исследуемых аморфных металлических плёнок. Показано, что наблюдаемые при термоотжиге эффекты связаны с изменениями структуры аморфной плёнки металла при переходе в поликристаллическое состояние."
+	},
+	"keywords": {
+		"ua": "склад і структура аморфних металів, діоди Шотткі, плівка стопу напівпровідників, деґрадація, надлишковий струм",
+		"en": "composition and structure of amorphous metals, Schottky diodes, semiconductor alloy film, degradation, excess current",
+		"ru": "состав и структура аморфных металлов, диоды Шоттки, плёнка сплава полупроводников, деградация, избыточный ток"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. Г. Пашаєв", "en": "I. G. Pashayev", "ru": "И. Г. Пашаев"},
+			"OID": [450]
+		}
+	],
+	"references": {
+		"count": 37,
+		"list":  [
+			{
+				"doi": "10.1016/0038-1101(84)90180-1",
+				"or":  "D. K. Wickenden et al., Solid-State Electron., 27: 515 (1984).",
+				"tr":  "D. K. Wickenden et al., Solid-State Electron., 27: 515 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "Ш. Г. Аскеров, Н. С. Болтовец, И. Г. Пашаев, Ш. С. Асланов, Электронная техника. Сер. 10. Микроэлектронные устройства, 2(68): 39 (1988).",
+				"tr":  "Sh. G. Askerov, N. S. Boltovets, I. G. Pashaev, Sh. S. Aslanov, Elektronnaya tekhnika. Ser. 10. Mikroelektronnye ustroystva, 2(68): 39 (1988)."
+			},
+			{
+				"doi": "10.1049/el:19830322",
+				"or":  "M. J. Cole et al., Electron. Lett., 19: 474 (1983).",
+				"tr":  "M. J. Cole et al., Electron. Lett., 19: 474 (1983)."
+			},
+			{
+				"doi": "10.1116/1.582896",
+				"or":  "R. T. Tung, J. Vac. Sci. Technol., 2, No. 3: 465 (1984).",
+				"tr":  "R. T. Tung, J. Vac. Sci. Technol., 2, No. 3: 465 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Золотухин, Ю. Е. Калинин, Укр. физ. ж., 160, № 9: 75 (1990).",
+				"tr":  "I. V. Zolotukhin, Yu. E. Kalinin, Ukr. Fiz. Zhurnal, 160, No. 9: 75 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Ш. Г. Аскеров, И. Г. Пашаев, Международная конференция ‘Fizika–2005’ (Азербайджан: 2005), т. 49, с. 193.",
+				"tr":  "Sh. G. Askerov, I. G. Pashaev, Mezhdunarodnaya konferentsiya 'Fizika–2005' (Azerbaydzhan: 2005), t. 49, s. 193."
+			},
+			{
+				"doi": "",
+				"or":  "Sh. C. Askerov and I. G. Pashaev, 2nd Int. Conference (Tabriz, Iran: 2004), p. 367.",
+				"tr":  "Sh. C. Askerov and I. G. Pashaev, 2nd Int. Conference (Tabriz, Iran: 2004), p. 367."
+			},
+			{
+				"doi": "",
+				"or":  "А. Гинье, Рентгенография кристаллов: Теория и практика (Москва: Гос. изд. физ.-мат. лит.: 1961).",
+				"tr":  "A. Gin'e, Rentgenografiya kristallov: Teoriya i praktika (Moskva: Gos. izd. fiz.-mat. lit.: 1961)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Судзуки, К. Хасимото, Х. Фудзимори, Аморфные металлы (Москва: Металлургия: 1987).",
+				"tr":  "K. Sudzuki, K. Khasimoto, Kh. Fudzimori, Amorfnye metally (Moskva: Metallurgiya: 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Иващенко, Б. Е. Саморуков, А. Соломанов, Физ. техн. полупровод., 4: 770 (1979).",
+				"tr":  "A. I. Ivashchenko, B. E. Samorukov, A. Solomanov, Fiz. tekhn. poluprovod., 4: 770 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Золотухин, Соросовский образовательный журнал, 4: 74 (1997).",
+				"tr":  "I. V. Zolotukhin, Sorosovskiy obrazovatel'nyy zhurnal, 4: 74 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "Ш. Г. Аскеров, Влияние степени неоднородности границы раздела на электрофизические свойства структур металл–вакуум и металл–полупроводник (Автореф. дис. … докт. физ.-мат. н.) (Баку: 1992).",
+				"tr":  "Sh. G. Askerov, Vliyanie stepeni neodnorodnosti granitsy razdela na elektrofizicheskie svoystva struktur metall–vakuum i metall–poluprovodnik (Avtoref. dis. … dokt. fiz.-mat. n.) (Baku: 1992)."
+			},
+			{
+				"doi": "",
+				"or":  "В. К. Комар и др., Физ. техн. полупровод., 6: 711 (2007).",
+				"tr":  "V. K. Komar i dr., Fiz. tekhn. poluprovod., 6: 711 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Пенин, Физ. техн. полупровод., 5: 562 (2000).",
+				"tr":  "N. A. Penin, Fiz. tekhn. poluprovod., 5: 562 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Тонкие плёнки. Взаимная диффузия и реакции (Ред. Дж. Поут, К. Ту, Дж. Мейер) (Москва: Мир: 1982).",
+				"tr":  "Tonkie plenki. Vzaimnaya diffuziya i reaktsii (Red. Dzh. Pout, K. Tu, Dzh. Meyer) (Moskva: Mir: 1982)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Золотухин, Н. Ю. Соколов, Электронная техника. Микроэлектроника, 1: 23 (1989).",
+				"tr":  "I. V. Zolotukhin, N. Yu. Sokolov, Elektronnaya tekhnika. Mikroelektronika, 1: 23 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "K. T. Y. Kung et al., J. Appl. Phys. Lett., 55: 3882 (1984).",
+				"tr":  "K. T. Y. Kung et al., J. Appl. Phys. Lett., 55: 3882 (1984)."
+			},
+			{
+				"doi": "10.1063/1.93824",
+				"or":  "M. Finetti, E. T. S. Pan, I. Suni, and M. A. Nicolet, Appl. Phys. Lett., 42, No. 11: 987 (1983).",
+				"tr":  "M. Finetti, E. T. S. Pan, I. Suni, and M. A. Nicolet, Appl. Phys. Lett., 42, No. 11: 987 (1983)."
+			},
+			{
+				"doi": "10.1016/0038-1101(84)90179-5",
+				"or":  "G. Tod, P. G. Naris, I. H. Scoby, and M. Q. Kelly, Solid-State Electron., 27, No. 6: 507 (1984).",
+				"tr":  "G. Tod, P. G. Naris, I. H. Scoby, and M. Q. Kelly, Solid-State Electron., 27, No. 6: 507 (1984)."
+			},
+			{
+				"doi": "10.1016/S0022-3093(87)80442-8",
+				"or":  "V. Šmíd, S. Kozár, J. J. Mares et al., J. Non-Cryst. Solids, 90, No. 1–3: 347 (1987).",
+				"tr":  "V. Šmíd, S. Kozár, J. J. Mares et al., J. Non-Cryst. Solids, 90, No. 1–3: 347 (1987)."
+			},
+			{
+				"doi": "10.1063/1.338860",
+				"or":  "S. Takatani, N. Natsuoka, J. Shigeta, and N. Hashimoto, J. Appl. Phys., 61, No. 1: 220 (1987).",
+				"tr":  "S. Takatani, N. Natsuoka, J. Shigeta, and N. Hashimoto, J. Appl. Phys., 61, No. 1: 220 (1987)."
+			},
+			{
+				"doi": "10.1109/TIE.1982.356654",
+				"or":  "J. D. Wiley, J. H. Perepezko, J. E. Nordman, and K.-J. Guo, IEEE Trans. Ind. Electron., 29, No. 2: 154 (1982).",
+				"tr":  "J. D. Wiley, J. H. Perepezko, J. E. Nordman, and K.-J. Guo, IEEE Trans. Ind. Electron., 29, No. 2: 154 (1982)."
+			},
+			{
+				"doi": "10.1116/1.572900",
+				"or":  "W. Novak, R. Keukelaer, and W. Weng, J. Vac. Sci. Technol., 3, No. 6: 2242 (1985).",
+				"tr":  "W. Novak, R. Keukelaer, and W. Weng, J. Vac. Sci. Technol., 3, No. 6: 2242 (1985)."
+			},
+			{
+				"doi": "10.1143/JJAP.22.L709",
+				"or":  "M. Suzuki et al., Jap. J. Appl. Phys., 22: L709 (1983).",
+				"tr":  "M. Suzuki et al., Jap. J. Appl. Phys., 22: L709 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Н. Крылов, Физика, 4: 125 (2006).",
+				"tr":  "P. N. Krylov, Fizika, 4: 125 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Н. Крылов, Физ. техн. полупровод., 3: 306 (2000).",
+				"tr":  "P. N. Krylov, Fiz. tekhn. poluprovod., 3: 306 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Гурбанов, Деградация свойств диодных структур с барьером Шоттки на основе кремния (Дис. … канд. физ.-мат. н.) (Баку: 1998).",
+				"tr":  "A. A. Gurbanov, Degradatsiya svoystv diodnykh struktur s bar'erom Shottki na osnove kremniya (Dis. … kand. fiz.-mat. n.) (Baku: 1998)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Г. Пашаев, Вестник Бакинского Университета, 1: 68 (1999).",
+				"tr":  "I. G. Pashaev, Vestnik Bakinskogo Universiteta, 1: 68 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Г. Пашаев, Вестник Бакинского Университета, 3: 94 (1999).",
+				"tr":  "I. G. Pashaev, Vestnik Bakinskogo Universiteta, 3: 94 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "Ш. Г. Аскеров, И. Г. Пашаев, Р. Ф. Мехтиев, Вестник Бакинского Университета, 1: 79 (2006).",
+				"tr":  "Sh. G. Askerov, I. G. Pashaev, R. F. Mekhtiev, Vestnik Bakinskogo Universiteta, 1: 79 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Ш. Г. Аскеров, Р. Ф. Мехтиев, И. Г. Пашаев, Вестник Бакинского Университета, 3: 162 (2006).",
+				"tr":  "Sh. G. Askerov, R. F. Mekhtiev, I. G. Pashaev, Vestnik Bakinskogo Universiteta, 3: 162 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Ш. Г. Аскеров, И. Г. Пашаев, Р. Ф. Мехтиев, Вестник Бакинского Университета, 2: 135 (2007).",
+				"tr":  "Sh. G. Askerov, I. G. Pashaev, R. F. Mekhtiev, Vestnik Bakinskogo Universiteta, 2: 135 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Ш. Г. Аскеров, Р. Ф. Мехтиев, И. Г. Пашаев, Вестник Бакинского Университета, 3: 141 (2008).",
+				"tr":  "Sh. G. Askerov, R. F. Mekhtiev, I. G. Pashaev, Vestnik Bakinskogo Universiteta, 3: 141 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "I. G. Pashaev, Int. J. Techn. Phys. Probl. Eng., 41, No. 10: 41 (2012).",
+				"tr":  "I. G. Pashaev, Int. J. Techn. Phys. Probl. Eng., 41, No. 10: 41 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "Ш. Г. Аскеров, Ш. С. Асланов, И. Г. Пашаев, Электронная техника. Сер. 10. Микроэлектронные устройства, 6, № 78: 46 (1989).",
+				"tr":  "Sh. G. Askerov, Sh. S. Aslanov, I. G. Pashaev, Elektronnaya tekhnika. Ser. 10. Mikroelektronnye ustroystva, 6, No. 78: 46 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "Ш. Г. Аскеров, Ш. С. Асланов, И. Г. Пашаев, Тезисы докладов Всесоюзной конференции «Физика и применение контакта металл–полупроводник» (Киев: 1987), с. 16.",
+				"tr":  "Sh. G. Askerov, Sh. S. Aslanov, I. G. Pashaev, Tezisy dokladov Vsesoyuznoy konferentsii «Fizika i primenenie kontakta metall–poluprovodnik» (Kiev: 1987), s. 16."
+			},
+			{
+				"doi": "",
+				"or":  "И. Г. Пашаев, Баку АН. Физика, 3, № 4: 64 (1997).",
+				"tr":  "I. G. Pashaev, Baku AN. Fizika, 3, No. 4: 64 (1997)."
+			}
+		]
+	}
+}

@@ -1,0 +1,63 @@
+{
+	"year":   2004,
+	"volume": 5,
+	"issue":  3,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [285,312],
+			"title": {
+				"ua": "Вплив порушеного поверхневого шару на динамічное розсіяння в кристалах з дефектами",
+				"en": "Influence of the Broken Surface Layer on Dynamic Scattering in Crystals with Defects",
+				"ru": "Влияние нарушенного поверхностного слоя на динамическое рассеяние в кристаллах с дефектами"
+			},
+			"autors": {
+				"ua": "А. П. Шпак, В. Б. Молодкін, Г. І. Низкова, М. Т. Когут, Є. В. Первак",
+				"en": "A. P. Shpak, V. B. Molodkin, G. I. Nizkova, M. T. Kogut, and Ye. V. Pervak",
+				"ru": "А. П. Шпак, В. Б. Молодкин, А. И. Низкова, М. Т. Когут, Е. В. Первак"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [313,344],
+			"title": {
+				"ua": "Вплив електронної структури нанокластерів на квантовий вихід фотоемісії магнієвих стопів",
+				"en": "Influence of Electronic Structure of Nanoclusters on a Quantum Yield of Photoemission of Magnesium Alloys",
+				"ru": "Влияние электронной структуры нанокластеров на квантовый выход фотоэмиссии магниевых сплавов"
+			},
+			"autors": {
+				"ua": "В. Г. Ткаченко, І. М. Максимчук, А. І. Кондрашев, І. І. Шуляк",
+				"en": "V. G. Tkachenko, I. M. Maksymchuk, A. I. Kondrashev, and I. I. Shulyak",
+				"ru": "В. Г. Ткаченко, И. Н. Максимчук, А. И. Кондрашев, И. И. Шуляк"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [345,399],
+			"title": {
+				"ua": "Нанокристалізація металевих поверхонь методами інтенсивної пластичної деформації (огляд)",
+				"en": "Nanocrystallization of Metallic Surfaces with Using the Methods of Intense Plastic Deformation (Review)",
+				"ru": "Нанокристаллизация металлических поверхностей методами интенсивной пластической деформации (обзор)"
+			},
+			"autors": {
+				"ua": "М. О. Васильєв, Г. І. Прокопенко, В. С. Філатова",
+				"en": "M. O. Vasiliev, G. I. Prokopenko, and V. S. Filatova",
+				"ru": "М. А. Васильев, Г. И. Прокопенко, В. С. Филатова"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [401,432],
+			"title": {
+				"ua": "Вплив близького порядку на зміну залишкового електроопору в бінарних твердих розчинах",
+				"en": "Influence of the Short-Range Order on Change of Residual Electroresistance in Binary Solid Solutions",
+				"ru": "Влияние ближнего порядка на изменение остаточного электросопротивления в бинарных твердых растворах"
+			},
+			"autors": {
+				"ua": "П. В. Петренко, М. П. Куліш, Н. О. Мельникова, Ю. Є. Грабовський",
+				"en": "P. V. Petrenko, M. P. Kulish, N. O. Mel’nikova, and Yu. Ye. Grabovs’ky",
+				"ru": "П. В. Петренко, Н. П. Кулиш, Н. А. Мельникова, Ю. Е. Грабовский"
+			}
+		}
+	]
+}

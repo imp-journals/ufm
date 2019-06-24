@@ -1,0 +1,35 @@
+{
+	"year":   2005,
+	"volume": 6,
+	"issue":  3,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [197,232],
+			"title": {
+				"ua": "Покриття на базі нітриду хрому. Досвід створення та дослідження",
+				"en": "Coatings on the Basis of Chromium Nitride. Experience of Design and Investigation",
+				"ru": "Покрытия на базе нитрида хрома. Опыт создания и исследования"
+			},
+			"autors": {
+				"ua": "А. Г. Гугля, І. М. Неклюдов",
+				"en": "A. G. Gyglya and I. M. Neklyudov",
+				"ru": "А. Г. Гугля, И. М. Неклюдов"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [233,272],
+			"title": {
+				"ua": "Ковалентно-зонна модель конденсованого стану",
+				"en": "Covalent-Band Model of the Condensed Matter",
+				"ru": "Ковалентно-зонная модель конденсированного состояния"
+			},
+			"autors": {
+				"ua": "О. І. Міцек",
+				"en": "O. I. Mitsek",
+				"ru": "А. И. Мицек"
+			}
+		}
+	]
+}

@@ -1,0 +1,376 @@
+{
+	"_id":    "UFM.20.01.096",
+	"year":   2019,
+	"volume": 20,
+	"issue":  1,
+	"pages":  [96,192],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["02.07.2018", "03.01.2019"],
+	"PACS":   " ",
+	"title":   {
+		"ua": "Теорія та застосування механоплазмового ефекту в про-цесах інтенсифікації механічного оброблення",
+		"en": "Theory and Applications of Mechanoplasma Effect in the Processes of Machining Intensification",
+		"ru": "Теория и применения механоплазменного эффекта в про-цессах интенсификации механической обработки"
+	},
+	"abstract": {
+		"ua": "Оглядаються результати вивчення деформації та руйнування твердих тіл у процесі механічного оброблення різанням за умов впливу різних середовищ. Встановлено залежності особливостей процесів, що перебігають за деформації та руйнування металу, від сукупности механічних чинників, властивостей досліджуваного тіла та його фізико-хемічної взаємодії з навколишнім середовищем. Експериментальні дані та найважливіші досягнення в суміжних областях науки уможливили запропонувати гіпотезу про ініціювання та самопришвидшення хемічних перетворень навколишнього середовища в результаті дії позитивного зворотнього зв’язку між хемічним і механічним руйнуваннями. Показано, що в цьому випадку зростаюча тріщина відіграє роль спускового пристрою, що включає процеси хемічних перетворень середовища. Механізм цих процесів і явищ пов’язаний з контактними взаємодіями фізико-хемічних явищ, що мають квантову природу й виникають у момент зростання тріщини, з електрично активною новою структурою, що утворюється внаслідок механічного впливу на метал. Показано, що наявні на сьогодні погляди не зазнали змін з того часу, як було висунуто відоме положення про пониження міцности матеріялу як безпосередній прояв пониження вільної поверхневої енергії при його контакті з середовищем. Втім у дійсності полегшення процесів деформації та руйнування тіла внаслідок адсорбційного середовища не є основною причиною пониження механічних властивостей твердих тіл. Полегшення процесів руйнування металу в середовищах відбувається в результаті контактних взаємодій електрично активних частинок водню з електрично активною реальною структурою металу. Показано, що йонизаторами водневмісних середовищ слугують висока температура зони різання, ювенільні каталітичні активні поверхні щілинного простору між вершиною різця та гирлом тріщини й екзоелектронна емісія. Запропоновано розглядати процес формоутворення виробів у середовищі не як механічний, а як механоплазмовий. Обґрунтовано нові шляхи формоутворення металевих деталів з одночасним дифузійним насиченням поверхневого шару леґувальними елементами, що підвищує експлуатаційну довговічність виробів. Запропоновано спосіб механоплазмового оброблення металів та організовано серійне виробництво мастильно-охолодних технологічних засобів нового покоління.",
+		"en": "The results of studying the deformation and destruction of solids in the process of machining by cutting under the influence of various media are reviewed. Dependences of the specific features of the deformation and destruction processes in the metal on the set of mechanical factors, the properties of the investigated solid, and its physicochemical interaction with the environment are revealed. Experimental data and most important achievements in the related science fields enabled to propose a hypothesis on the initiation and self-acceleration of chemical transformations of the environment due to the positive feedback between the chemical and mechanical destructions. As shown, in this case, the growing crack plays the role of a trigger device that includes the processes of chemical transformations of the medium. The mechanism of these processes and phenomena is related to the contact interactions of the physical and chemical phenomena, which have a quantum nature and emerge, when the crack grows, with an electrically active new structure formed because of mechanical impact on the metal. As shown, the current views have not changed since the introduction of the well-known scientific point about the reduction of the material strength as a direct response on the reduction of free surface energy, when the material contacts with the medium. However, facilitation of the processes of deformation and destruction of the solid due to the adsorption medium is not the main cause for the decrease in the mechanical properties of solids. The facilitation of the metal destruction in media occurs because of contact interactions between the electrically active hydrogen particles with the electrically active real metal structure. As shown, the high temperature of the cutting zone, juvenile catalytically active surfaces of the gap space between the tool tip and the crack mouth and exoelectronic emission act as the ionizers of the hydrogen-containing media. The process of forming products in the media is suggested to be not as mechanical process but a mechanoplasma one. New ways of the shaping metal component parts with simultaneous diffusion saturation of the surface layer with alloying elements are justified that substantially increases the products’ operational lifetime. A method for mechanoplasma processing of metals is proposed, and a serial production of lubricating-cooling technological equipment of a new generation is organized.",
+		"ru": "Обозреваются результаты изучения деформации и разрушения твёрдых тел в процессе механической обработки резанием в условиях влияния различных сред. Установлены зависимости особенностей протекающих процессов деформации и разрушения металла от совокупности механических факторов, свойств исследуемого тела и его физико-химического взаимодействия с окружающей средой. Экспериментальные данные и важнейшие достижения в смежных областях науки позволили предложить гипотезу об инициировании и самоускорении химических превращений окружающей среды в результате действия положительной обратной связи между химическим и механическим разрушениями. Показано, что в этом случае растущая трещина играет роль спускового устройства, включающего процессы химических превращений среды. Механизм этих процессов и явлений связан с контактными взаимодействиями физико-химических явлений, имеющими квантовую природу и возникающими в момент роста трещины, с электрически активной новой структурой, образующийся вследствие механического воздействия на металл. Показано, что существующие сегодня взгляды не претерпели изменений с того времени, как было выдвинуто известное положение о понижении прочности материала как непосредственное проявление снижения свободной поверхностной энергии при его контакте со средой. Однако в действительности облегчение процессов деформации и разрушения тела из-за адсорбционной среды не является основной причиной снижения механических свойств твёрдых тел. Облегчение процессов разрушения металла в средах происходит в результате контактных взаимодействий электрически активных частиц водорода с электрически активной реальной структурой металла. Показано, что ионизаторами водородосодержащих сред служат высокая температура зоны резания, ювенильные каталитически активные поверхности щелевого пространства между вершиной резца и устьем трещины и экзоэлектронная эмиссия. Предложено рассматривать процесс формообразования изделий в средах не как механический, а как механоплазменный. Обоснованы новые пути формообразования металлических деталей с одновременным диффузионным насыщением поверхностного слоя легирующими элементами, что повышает эксплуатационную долговечность изделий. Предложен способ механоплазменной обработки металлов и организовано серийное производство смазочно-охлаждающих технологических средств нового поколения."
+	},
+	"keywords": {
+		"ua": "механоплазмовий ефект, механічні властивості, механічне оброблення, дифузійний процес, міцність, тріщина, дислокація",
+		"en": "mechanoplasma effect, mechanical properties, machining, diffusion process, strength, crack, dislocation",
+		"ru": "механоплазменный эффект, механические свойства, механическая обработка, диффузионный процесс, прочность, трещина, дислокация"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Сошко", "en": "O. I. Soshko", "ru": "А. И. Сошко"},
+			"OID": [242]
+		},
+		{
+			"AID": {"ua": "В. О. Сошко", "en": "V. O. Soshko", "ru": "В. А. Сошко"},
+			"OID": [242]
+		}
+	],
+	"references": {
+		"count": 67,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "P. A. Rehbinder and Ye. S. Lipman, Issledovaniya v Oblasti Prikladnoy Fiziko-Khimii Poverkhnostnykh Yavleniy [Investigations in the Applied Physics and Chemistry of the Surface Phenomena] (Wiley: 1964) (in Russian).",
+				"tr":  "P. A. Rehbinder and Ye. S. Lipman, Issledovaniya v Oblasti Prikladnoy Fiziko-Khimii Poverkhnostnykh Yavleniy [Investigations in the Applied Physics and Chemistry of the Surface Phenomena] (Wiley: 1964) (in Russian)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/DDF.280-281.29",
+				"or":  "V. A. Tatarenko, S. M. Bokoch, V. M. Nadutov, T. M. Radchenko, and Y. B. Park, Defect Diffus. Forum, 280–281: 29 (2008).",
+				"tr":  "V. A. Tatarenko, S. M. Bokoch, V. M. Nadutov, T. M. Radchenko, and Y. B. Park, Defect Diffus. Forum, 280–281: 29 (2008)."
+			},
+			{
+				"doi": "10.1016/S0966-9795(03)00174-2",
+				"or":  "V. A. Tatarenko and T. M. Radchenko, Intermetallics, 11, Nos. 11–12: 1319 (2003).",
+				"tr":  "V. A. Tatarenko and T. M. Radchenko, Intermetallics, 11, Nos. 11–12: 1319 (2003)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/DDF.273-276.525",
+				"or":  "T. M. Radchenko and V. A. Tatarenko, Defect Diffus. Forum, 273–276: 525 (2008).",
+				"tr":  "T. M. Radchenko and V. A. Tatarenko, Defect Diffus. Forum, 273–276: 525 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "T. M. Radchenko, V. A. Tatarenko, and S. M. Bokoch, Metallofiz. Noveishie Tekhnol., 28, No. 12: 1699 (2006); arXiv:1406.0147.",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, and S. M. Bokoch, Metallofiz. Noveishie Tekhnol., 28, No. 12: 1699 (2006); arXiv:1406.0147."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2006.12.149",
+				"or":  "T. M. Radchenko, V. A. Tatarenko, H. Zapolsky, and D. Blavette, J. Alloys and Compounds, 452, No. 1: 122 (2008).",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, H. Zapolsky, and D. Blavette, J. Alloys and Compounds, 452, No. 1: 122 (2008)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/SSP.138.283",
+				"or":  "T. M. Radchenko, V. A. Tatarenko, and H. Zapolsky, Solid State Phenom., 138: 283 (2008).",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, and H. Zapolsky, Solid State Phenom., 138: 283 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "A. H. Cottrell, The Mechanical Properties of Matter (MI: University of Michigan: 1964).",
+				"tr":  "A. H. Cottrell, The Mechanical Properties of Matter (MI: University of Michigan: 1964)."
+			},
+			{
+				"doi": "",
+				"or":  "V. D. Kuznetsov, Fizika Tverdogo Tela [Solid State Physics] (Tomsk: Izd-vo ‘Krasnoe Znamia’: 1937) (in Russian).",
+				"tr":  "V. D. Kuznetsov, Fizika Tverdogo Tela [Solid State Physics] (Tomsk: Izd-vo ‘Krasnoe Znamia’: 1937) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "F. Makklitok and A. Argon, Deformatsiya i Razrushenie Materialov [Deformation and Failure of Materials] (Moscow: Mir: 1970) (Russian translation).",
+				"tr":  "F. Makklitok and A. Argon, Deformatsiya i Razrushenie Materialov [Deformation and Failure of Materials] (Moscow: Mir: 1970) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "R. W. Pytte and A. Christy, The Structure of Matter: An Introduction to Modern Physics (W. A. Benjamin, Inc., New York: 1965).",
+				"tr":  "R. W. Pytte and A. Christy, The Structure of Matter: An Introduction to Modern Physics (W. A. Benjamin, Inc., New York: 1965)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Likhtman, E. F. Shchukin, and P. A. Rehbinder, Fiziko-Khimicheskaya Mekhanika [Physicochemical Mechanics] (Moscow: Izd-vo AN SSSR: 1962) (in Russian).",
+				"tr":  "V. I. Likhtman, E. F. Shchukin, and P. A. Rehbinder, Fiziko-Khimicheskaya Mekhanika [Physicochemical Mechanics] (Moscow: Izd-vo AN SSSR: 1962) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Finkel, Fizika Razrusheniya [Physics of Failure] (Moscow: Izd-vo Metallurgiya: 1970) (in Russian).",
+				"tr":  "V. M. Finkel, Fizika Razrusheniya [Physics of Failure] (Moscow: Izd-vo Metallurgiya: 1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. K. Starkov, Dislokatsionnye Predstavleniya o Rezanii Metallov [Dislocation Notions on the Cutting of Metals] (Moscow: Mashinostroenie: 1979) (in Russian).",
+				"tr":  "V. K. Starkov, Dislokatsionnye Predstavleniya o Rezanii Metallov [Dislocation Notions on the Cutting of Metals] (Moscow: Mashinostroenie: 1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. I. Suranov, Vodorod: Razrushenie, Iznashivanie, Smazka Detaley Mashin [Hydrogen: Failure, Wear, Lubrication of Parts] (Ukhta: USTU: 2015) (in Russian).",
+				"tr":  "G. I. Suranov, Vodorod: Razrushenie, Iznashivanie, Smazka Detaley Mashin [Hydrogen: Failure, Wear, Lubrication of Parts] (Ukhta: USTU: 2015) (in Russian)."
+			},
+			{
+				"doi": "10.26642/tn-2017-2(80)-160-167",
+				"or":  "V. A. Soshko and A. I. Soshko, J. Zhytomyr State Technological University. Series: Engineering, 2, No. 2 (80): 160 (2017) (in Russian).",
+				"tr":  "V. A. Soshko and A. I. Soshko, J. Zhytomyr State Technological University. Series: Engineering, 2, No. 2 (80): 160 (2017) (in Russian)."
+			},
+			{
+				"doi": "10.1201/b19054",
+				"or":  "E. D. Shchukin and A. S. Zelenev, Physical-Chemical Mechanics of Disperse Systems and Materials (Boca Raton: CRC Press: 2015).",
+				"tr":  "E. D. Shchukin and A. S. Zelenev, Physical-Chemical Mechanics of Disperse Systems and Materials (Boca Raton: CRC Press: 2015)."
+			},
+			{
+				"doi": "",
+				"or":  "E. D. Shchukin, V. I. Savenko, and A. I. Malkin, Lektsii po Fiziko-Khimicheskoy Mekhanike [Lectures on Physicochemical Mechanics] (Moscow: Izd-vo Nobel Press: 2015).",
+				"tr":  "E. D. Shchukin, V. I. Savenko, and A. I. Malkin, Lektsii po Fiziko-Khimicheskoy Mekhanike [Lectures on Physicochemical Mechanics] (Moscow: Izd-vo Nobel Press: 2015)."
+			},
+			{
+				"doi": "10.1007/978-3-642-20665-8_12",
+				"or":  "E. D. Shchukin, Encyclopedia of Colloid and Interface Science (Ed. T. Tadros) (Berlin, Heidelberg: Springer: 2013).",
+				"tr":  "E. D. Shchukin, Encyclopedia of Colloid and Interface Science (Ed. T. Tadros) (Berlin, Heidelberg: Springer: 2013)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Shchukin, Encyclopedia of Surfaces and Colloid Science (Ed. P. Somasundaran) (New York: Taylor and Francis: 2012).",
+				"tr":  "E. Shchukin, Encyclopedia of Surfaces and Colloid Science (Ed. P. Somasundaran) (New York: Taylor and Francis: 2012)."
+			},
+			{
+				"doi": "10.26642/tn-2017-2(80)-155-159",
+				"or":  "A. I. Soshko, J. Zhytomyr State Technological University. Series: Engineering, 2, No. 2 (80): 155 (2017) (in Russian).",
+				"tr":  "A. I. Soshko, J. Zhytomyr State Technological University. Series: Engineering, 2, No. 2 (80): 155 (2017) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.39.01.0117",
+				"or":  "O. I. Soshko and V. O. Soshko, Metallofiz. Noveishie Tekhnol., 39, No. 1: 117 (2017) (in Russian).",
+				"tr":  "O. I. Soshko and V. O. Soshko, Metallofiz. Noveishie Tekhnol., 39, No. 1: 117 (2017) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Smazochno-Okhlazhdayushchie Tekhnologicheskie Sredstva dlia Obrabotki Metallov Rezaniem. Spravochnik [Lubricating-Cooling Technological Means for Metal Processing via Cutting] (Ed. S. Ehntelis and Eh. Berliner) (Moscow: Mashinostroenie: 1986) (in Russian).",
+				"tr":  "Smazochno-Okhlazhdayushchie Tekhnologicheskie Sredstva dlia Obrabotki Metallov Rezaniem. Spravochnik [Lubricating-Cooling Technological Means for Metal Processing via Cutting] (Ed. S. Ehntelis and Eh. Berliner) (Moscow: Mashinostroenie: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "N. A. Galaktionova, Vodorod v Metallakh [Hydrogen in Metals] (Moscow: Izd-vo Metallurgiya: 1967) (in Russian).",
+				"tr":  "N. A. Galaktionova, Vodorod v Metallakh [Hydrogen in Metals] (Moscow: Izd-vo Metallurgiya: 1967) (in Russian)."
+			},
+			{
+				"doi": "10.1007/3-540-08883-0",
+				"or":  "Hydrogen in Metals I. Basic Properties (Eds. G. Alefeld and J. Völkl) (Berlin Heidelberg: Springer-Verlag: 1978).",
+				"tr":  "Hydrogen in Metals I. Basic Properties (Eds. G. Alefeld and J. Völkl) (Berlin Heidelberg: Springer-Verlag: 1978)."
+			},
+			{
+				"doi": "",
+				"or":  "I. V. Kharchenko, Sovremennye Metody i Tekhnologii Sozdaniya i Obrabotki Materialov: Sbornik Nauchnykh Trudov [Advanced Methods and Technologies of Materials Development and Processing: Collection of Scientific Papers] (Ed. A.V. Byeli) (Minsk: PTI NAS Belarus: 2017)], vol. 2, p. 317 (in Russian).",
+				"tr":  "I. V. Kharchenko, Sovremennye Metody i Tekhnologii Sozdaniya i Obrabotki Materialov: Sbornik Nauchnykh Trudov [Advanced Methods and Technologies of Materials Development and Processing: Collection of Scientific Papers] (Ed. A.V. Byeli) (Minsk: PTI NAS Belarus: 2017)], vol. 2, p. 317 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "D. S. Repin, S. Yu. Saibel’, and N. V. Ladanov, Innovatsionnye Tekhnologii v Metalloobrabotke. Sbornik Nauchnykh Trudov [Innovation Technologies in the Metal Processing] (Ulyanovsk: UlGTU: 2017), p. 333 (in Russian).",
+				"tr":  "D. S. Repin, S. Yu. Saibel’, and N. V. Ladanov, Innovatsionnye Tekhnologii v Metalloobrabotke. Sbornik Nauchnykh Trudov [Innovation Technologies in the Metal Processing] (Ulyanovsk: UlGTU: 2017), p. 333 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "D. S. Repin, S. Yu. Saibel’, and N. V. Ladanov, Innovatsionnye Tekhnologii v Metalloobrabotke. Sbornik Nauchnykh Trudov [Innovation Technologies in the Metal Processing] (Ulyanovsk: UlGTU: 2017), p. 130 (in Russian).",
+				"tr":  "D. S. Repin, S. Yu. Saibel’, and N. V. Ladanov, Innovatsionnye Tekhnologii v Metalloobrabotke. Sbornik Nauchnykh Trudov [Innovation Technologies in the Metal Processing] (Ulyanovsk: UlGTU: 2017), p. 130 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "N. Otami, Tetsu to Khaganz, 60, No. 1 (Moscow: Vsesoyuzny Tsentr Perevodov: 1983) (Russian translation).",
+				"tr":  "N. Otami, Tetsu to Khaganz, 60, No. 1 (Moscow: Vsesoyuzny Tsentr Perevodov: 1983) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "A. K. Litvin and V. S. Tkachev, Fiziko-Khimicheskaya Mekhanika Materialov, 12, No. 2: 12 (1976) (in Russian).",
+				"tr":  "A. K. Litvin and V. S. Tkachev, Fiziko-Khimicheskaya Mekhanika Materialov, 12, No. 2: 12 (1976) (in Russian)."
+			},
+			{
+				"doi": "10.1021/j100826a013",
+				"or":  "C. Peterson and T. K. Kwei, J. Phys. Chem., 65, No. 8: 1330 (1961).",
+				"tr":  "C. Peterson and T. K. Kwei, J. Phys. Chem., 65, No. 8: 1330 (1961)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Kuleznev and V. A. Shershnev, Khimiya i Fizika Polimerov [Physics and Chemistry of Polymers] (Moscow: Vysshaya Shkola: 1988) (in Russian).",
+				"tr":  "V. I. Kuleznev and V. A. Shershnev, Khimiya i Fizika Polimerov [Physics and Chemistry of Polymers] (Moscow: Vysshaya Shkola: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "B. A. Shmelev, Metody Opredeleniya i Issledovaniya Sostoianiya Gazov v Metallakh [Methods of Determination and Investigation of the State of Gases in Metals] (Moscow: Nauka: 1968) (in Russian).",
+				"tr":  "B. A. Shmelev, Metody Opredeleniya i Issledovaniya Sostoianiya Gazov v Metallakh [Methods of Determination and Investigation of the State of Gases in Metals] (Moscow: Nauka: 1968) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0069-8040(08)70099-2",
+				"or":  "M. A. Morris, M. Bowker, and D. A. King, Comprehensive Chemical Kinetics, 19: 1 (1984).",
+				"tr":  "M. A. Morris, M. Bowker, and D. A. King, Comprehensive Chemical Kinetics, 19: 1 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "L. S. Moroz and B. B. Chechulin, Vodorodnaya Khrupkost’ Metallov [Hydrogen Embrittlement of Metals] (Moscow: Metallurgiya: 1967) (in Russian).",
+				"tr":  "L. S. Moroz and B. B. Chechulin, Vodorodnaya Khrupkost’ Metallov [Hydrogen Embrittlement of Metals] (Moscow: Metallurgiya: 1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. V. Karpenko, A. K. Litvin, A. I. Soshko, and G. V. Karpenko, Fiziko-Khimicheskaya Mekhanika Materialov, No. 4: 87 (1973) (in Russian).",
+				"tr":  "G. V. Karpenko, A. K. Litvin, A. I. Soshko, and G. V. Karpenko, Fiziko-Khimicheskaya Mekhanika Materialov, No. 4: 87 (1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Tkachev, A. K. Litvin, and A. I. Soshko, Problemy Prochnosti, No. 12: 77 (1972) (in Russian).",
+				"tr":  "V. I. Tkachev, A. K. Litvin, and A. I. Soshko, Problemy Prochnosti, No. 12: 77 (1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "K. K. Aglintsev, Dozimetriya Ioniziruyushchikh Izluchenijy [Dosimetry of the Ionization Radiations] (Moscow: Gostekhizdat: 1957) (in Russian).",
+				"tr":  "K. K. Aglintsev, Dozimetriya Ioniziruyushchikh Izluchenijy [Dosimetry of the Ionization Radiations] (Moscow: Gostekhizdat: 1957) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Veksler and A. A. Groshev, Ionizatsionnye Metody Issledovaniya Izlucheniy [Ionization Methods for Study of Radiations] (Moscow: Znanie: 1950) (in Russian).",
+				"tr":  "V. I. Veksler and A. A. Groshev, Ionizatsionnye Metody Issledovaniya Izlucheniy [Ionization Methods for Study of Radiations] (Moscow: Znanie: 1950) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "I. P. Bondarenko and N. V. Budarova, Osnovy Dozimetrii i Zashchita ot Izlucheniy [Fundamentals Dosimetry and Radiation Protection] (Moscow: Vysshaya Shkola: 1962) (in Russian).",
+				"tr":  "I. P. Bondarenko and N. V. Budarova, Osnovy Dozimetrii i Zashchita ot Izlucheniy [Fundamentals Dosimetry and Radiation Protection] (Moscow: Vysshaya Shkola: 1962) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Fizicheskiy Ehntsiklopedicheskiy Slovar [Physical Encyclopaedia] (Moscow: Nauka: 1962) (in Russian).",
+				"tr":  "Fizicheskiy Ehntsiklopedicheskiy Slovar [Physical Encyclopaedia] (Moscow: Nauka: 1962) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. S. Fedchenko, A. I. Radkevich, and L. M. Karvatskiy, Fiziko-Khimicheskaya Mehanika Materialov [Physicochemical Mechanics of Materials] (Kiev: Naukova Dumka: 1976) (in Russian).",
+				"tr":  "V. S. Fedchenko, A. I. Radkevich, and L. M. Karvatskiy, Fiziko-Khimicheskaya Mehanika Materialov [Physicochemical Mechanics of Materials] (Kiev: Naukova Dumka: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Chemical Reactions of Polymers (Ed. E. M. Fettes) (New York: Interscience Publishers: 1964).",
+				"tr":  "Chemical Reactions of Polymers (Ed. E. M. Fettes) (New York: Interscience Publishers: 1964)."
+			},
+			{
+				"doi": "",
+				"or":  "I. I. Tugov and G. I. Kostyrkin, Khimiya i Fizika Polimerov [Physics and Chemistry of Polymers] (Moscow: Khimiya: 1989) (in Russian).",
+				"tr":  "I. I. Tugov and G. I. Kostyrkin, Khimiya i Fizika Polimerov [Physics and Chemistry of Polymers] (Moscow: Khimiya: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Zakrevskiy, Vysokomolekuliarnye Soedineniya [High-Molecular Compounds] (Moscow: Khimiya: 1976) (in Russian).",
+				"tr":  "V. A. Zakrevskiy, Vysokomolekuliarnye Soedineniya [High-Molecular Compounds] (Moscow: Khimiya: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Z. Roginskiy, Teoreticheskie Osnovy Geterogennogo Kontaktnogo Kataliza [Theoretical Basis of Heterogeneous Contact Catalysis] (Moscow: Izd-vo AN SSSR: 1936) (in Russian).",
+				"tr":  "S. Z. Roginskiy, Teoreticheskie Osnovy Geterogennogo Kontaktnogo Kataliza [Theoretical Basis of Heterogeneous Contact Catalysis] (Moscow: Izd-vo AN SSSR: 1936) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. B. Nalbandyan, Khimicheskaya Kinetika i Tsennye Reaktsii [Chemical kinetics and Valuable Reactions] (Moscow: Izd-vo Nauka: 1966) (in Russian).",
+				"tr":  "A. B. Nalbandyan, Khimicheskaya Kinetika i Tsennye Reaktsii [Chemical kinetics and Valuable Reactions] (Moscow: Izd-vo Nauka: 1966) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "N. I. Semenov, O Nekotorykh Problemakh Khimicheskoy Kinetiki i Reaktsionnoy Osobennosti [On Some Problems of Chemical Kinetics and Reaction Features] (Moscow: Izd-vo Anessr: 1958) (in Russian).",
+				"tr":  "N. I. Semenov, O Nekotorykh Problemakh Khimicheskoy Kinetiki i Reaktsionnoy Osobennosti [On Some Problems of Chemical Kinetics and Reaction Features] (Moscow: Izd-vo Anessr: 1958) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "N. N. Semenov, Doklady AN SSSR, 44: 265 (1944).",
+				"tr":  "N. N. Semenov, Doklady AN SSSR, 44: 265 (1944)."
+			},
+			{
+				"doi": "",
+				"or":  "G. L. Slonimskiy, Zhurnal Vserossiiskogo Khimicheskogo Obshchestva, 4: 73 (1959) (in Russian).",
+				"tr":  "G. L. Slonimskiy, Zhurnal Vserossiiskogo Khimicheskogo Obshchestva, 4: 73 (1959) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0039-6028(69)90102-2",
+				"or":  "R. Lewis and R. Comer, Surf. Sci., 17, No. 2: 333 (1969).",
+				"tr":  "R. Lewis and R. Comer, Surf. Sci., 17, No. 2: 333 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "Z. G. Sabo, Khimicheskaya Kinetika i Tsepnye Rektsii [Chemical Kinetics and Chain Reactions] (Moscow: Nauka: 1966) (in Russian).",
+				"tr":  "Z. G. Sabo, Khimicheskaya Kinetika i Tsepnye Rektsii [Chemical Kinetics and Chain Reactions] (Moscow: Nauka: 1966) (in Russian)."
+			},
+			{
+				"doi": "10.1002/app.1960.070030704",
+				"or":  "E. R. Gilliland and E. B. Gutoff, J. Appl. Polymer Sci., 3, No. 7: 26 (1960).",
+				"tr":  "E. R. Gilliland and E. B. Gutoff, J. Appl. Polymer Sci., 3, No. 7: 26 (1960)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Zanin, D. P. Kiryakhin, I. M. Barkalov, and V. N. Gol’danskiy, Pis’ma v ZhETF, 33, No. 6: 336 (1981) (in Russian).",
+				"tr":  "A. M. Zanin, D. P. Kiryakhin, I. M. Barkalov, and V. N. Gol’danskiy, Pis’ma v ZhETF, 33, No. 6: 336 (1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "E. J. Armarego and R. H. Brown, The Machining of Metals (New Jersey: Prentice Hall: 1969).",
+				"tr":  "E. J. Armarego and R. H. Brown, The Machining of Metals (New Jersey: Prentice Hall: 1969)."
+			},
+			{
+				"doi": "",
+				"or":  "L. A. Artsimovich, Ehlementarnaya Fizika Plazmy [Elementary Physics of Plasma] (Moscow: Atomizdat: 1963) (in Russian).",
+				"tr":  "L. A. Artsimovich, Ehlementarnaya Fizika Plazmy [Elementary Physics of Plasma] (Moscow: Atomizdat: 1963) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. A. Khrustalev, G. N. Khrenkova, and B. V. Deriagin, Doklady AN SSSR, 257, No. 2: 418 (1981) (in Russian).",
+				"tr":  "Yu. A. Khrustalev, G. N. Khrenkova, and B. V. Deriagin, Doklady AN SSSR, 257, No. 2: 418 (1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. S. Akhmatov, Molekuliarnaya Fizika Granichnogo Treniya [Molecular Physics of Boundary Friction] (Moscow: Nauka: 1963) (in Russian).",
+				"tr":  "A. S. Akhmatov, Molekuliarnaya Fizika Granichnogo Treniya [Molecular Physics of Boundary Friction] (Moscow: Nauka: 1963) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "T. I. Trofimova, Kurs Fiziki [Physics Course] (Moscow: Vysshaya Shkola: 2000) (in Russian).",
+				"tr":  "T. I. Trofimova, Kurs Fiziki [Physics Course] (Moscow: Vysshaya Shkola: 2000) (in Russian)."
+			},
+			{
+				"doi": "10.1017/S0305004100021745",
+				"or":  "R. Fürth, Math. Proc. Cambridge Phil. Soc., 37, No. 3: 252 (1941).",
+				"tr":  "R. Fürth, Math. Proc. Cambridge Phil. Soc., 37, No. 3: 252 (1941)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Shapovalov, Legirovanie Vodorodom [Hydrogen Alloying] (Dnepropetrovsk: Izd-vo Zhurfond: 2013) (in Russian).",
+				"tr":  "V. I. Shapovalov, Legirovanie Vodorodom [Hydrogen Alloying] (Dnepropetrovsk: Izd-vo Zhurfond: 2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. G. Kabaldin, O. V. Kretinin, D. A. Shatagin, and A. M. Kuz’mishina, Povyshenie Ehffektivnosti Protsessov Mekhanoobrabotki na Osnove Podkhodov Iskusstvennogo Intellekta i Nelineinoy Dinamiki [Improving the Efficiency of Machining Processes Based on the Approaches of Artificial Intelligence and Nonlinear Dynamics] (Moscow: Innovatsionnoe Mashinostroenie: 2018).",
+				"tr":  "Yu. G. Kabaldin, O. V. Kretinin, D. A. Shatagin, and A. M. Kuz’mishina, Povyshenie Ehffektivnosti Protsessov Mekhanoobrabotki na Osnove Podkhodov Iskusstvennogo Intellekta i Nelineinoy Dinamiki [Improving the Efficiency of Machining Processes Based on the Approaches of Artificial Intelligence and Nonlinear Dynamics] (Moscow: Innovatsionnoe Mashinostroenie: 2018)."
+			},
+			{
+				"doi": "10.1134/S2070205116010184",
+				"or":  "E. M. Podgaetskii, Prot. Met. Phys. Chem. Surf., 52: 183 (2016).",
+				"tr":  "E. M. Podgaetskii, Prot. Met. Phys. Chem. Surf., 52: 183 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "B. M. Rovinskiy and O. A. Rybakova, Izv. AN SSSR. Tekhnika, 10: 1483 (1952) (in Russian).",
+				"tr":  "B. M. Rovinskiy and O. A. Rybakova, Izv. AN SSSR. Tekhnika, 10: 1483 (1952) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. N. Gridnev, Yu. Ya. Meshkov, and V. I. Trefilov, Fizicheskie Osnovy Ehlektrotermicheskogo Uprochneniya Stali (Kiev: Naukova Dumka: 1973) (in Russian).",
+				"tr":  "V. N. Gridnev, Yu. Ya. Meshkov, and V. I. Trefilov, Fizicheskie Osnovy Ehlektrotermicheskogo Uprochneniya Stali (Kiev: Naukova Dumka: 1973) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.09.01.001",
+				"or":  "T. M. Radchenko and V. A. Tatarenko, Usp. Fiz. Met., 9, No. 1: 1 (2008) (in Ukrainian).",
+				"tr":  "T. M. Radchenko and V. A. Tatarenko, Usp. Fiz. Met., 9, No. 1: 1 (2008) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "T. M. Radchenko, Metallofiz. Noveishie Tekhnol., 30: 195 (2008) (in Ukrainian).",
+				"tr":  "T. M. Radchenko, Metallofiz. Noveishie Tekhnol., 30: 195 (2008) (in Ukrainian)."
+			}
+		]
+	}
+}

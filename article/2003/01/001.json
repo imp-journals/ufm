@@ -1,0 +1,511 @@
+{
+	"_id":    "UFM.04.01.001",
+	"year":   2003,
+	"volume": 4,
+	"issue":  1,
+	"pages":  [1,71],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["17.07.2002","19.03.2003"],
+	"PACS":   "68.90.+g, 81.15.Gh, 81.15.Jj, 81.15.Rs, 81.65.Cf, 81.65.Kn",
+	"title":   {
+		"ua": "Імпульсно-плазмова модифікація властивостей поверхні та нанесення покриттів",
+		"en": "Pulsed-Plasma Modification of Surface Properties and Coating Deposition",
+		"ru": "Импульсно-плазменная модификация свойств поверхности и нанесение покрытий"
+	},
+	"abstract": {
+		"ua": "Представлено огляд сучасного стану імпульсно-плазмової детонаційної технології з метою модифікації властивостей структури і механічних якостей, а також нанесення захисних покриттів, що мають різні функціональні завдання. На прикладі простих металів ($\\alpha$-Fe, Cu), сталей, сплавів, включаючи титанові сплави, показана можливість модифікації поверхні за допомогою дії імпульсного плазмового струменя, що має високі швидкості від 1 до 8 км/с, і високу температуру в струмені ($10^{3}–3\\cdot10^{4}$ К). Розглянута структура та властивості керамічних, металокерамічних, металічних покриттів таких, як Al$_{2}$O$_{3}$, Al$_{2}$O$_{3}$+Cr$_{2}$O$_{3}$, WC–Co, нержавіючої сталі 316L, Hastelloy C на основі Ni та ін. Нанесення таких захисних покриттів призводить до значного підвищення механічних характеристик таких, як стійкість в експлуатації, твердість, корозійна стійкість, стійкість до абразивного зносу і т. д. Показано, що в деяких випадках необхідна так звана «дуплексна» обробка поверхні виробів із металів і сплавів, наприклад, вібронакатування з подальшою дією імпульсного плазмового струменя, що призводить до значних змін механічних харак- теристик виробу.",
+		"en": "A review of current state of the pulsed-plasma detonation technology, which is applied for modification of structure and mechanical properties as well as for deposition of protective coatings used to solve different functional problems, is presented. Metals ($\\alpha$-Fe, Cu), steels, alloys (including titanium alloys) are used as examples to demonstrate the abilities of the surface modification by the pulsed-plasma jet with velocity 1–8 km/s and temperature $10^{3}–3\\cdot10^{4}$ K. Structure and properties of metallic and metalloceramic coatings (Al$_{2}$O$_{3}$, Al$_{2}$O$_{3}$+Cr$_{2}$O$_{3}$, WC–Co; stainless steel 316L; Hastelloy C on Ni base) are considered. Deposition of such protective coatings results in significant improvement of the mechanical characteristics as tool servicing life, hardness, corrosion resistance, abrasive wear resistance, etc. As demonstrated, in some cases for better results, the surfaces of tools made of metals and alloys should be subjected to the duplex treatment, for example, to the vibration rolling with subsequent treatment by the pulsed-plasma jet, which provide significant improvement of their mechanical characteristics. A conclusion about the future promising application of the above technologies in various industrial branches in the nearest future is made.",
+		"ru": "Представлен обзор современного состояния импульсно-плазменной детонационной технологии с целью модификации свойств структуры и механических свойств, а также нанесение защитных покрытий, имеющих различные функциональные задачи. На примере простых металлов ($\\alpha$-Fe, Cu), сталей, сплавов, включая титановые сплавы, показана возможность модификации поверхности с помощью воздействия импульсной плазменной струи, имеющей высокие скорости от 1 до 8 км/с, и высокую температуру в струе ($10^{3}–3\\cdot10^{4}$). Рассмотрена структура и свойства керамических, металлокерамических и металлических покрытий таких, как Al$_{2}$O$_{3}$, Al$_{2}$O$_{3}$+Cr$_{2}$O$_{3}$, WC–Co, нержавеющей стали 316L, Hastelloy C на основе Ni и др. Нанесение таких защитных покрытий приводит к значительному повышению механических характеристик таких, как стойкость в эксплуатации, твердость, коррозионная стойкость, стойкость к абразивному износу и т. д. Показано, что в некоторых случаях необходима так называемая «дуплексная» обработка поверхности изделий из металлов и сплавов, например, вибронакатывание с последующим воздействием импульсной плазменной струи, что приводит к заметному изменению механических характеристик изделий."
+	},
+	"keywords": {
+		"ua": "модифікація поверхні, нанесення покриттів, імпульсно-плазмовова детонація, вібронакатування, металокерамічні та металічні покриття",
+		"en": "surface modification, coating deposition, pulsed-plasma detonation technology, vibration rolling, ceramic, metal-ceramic, and metallic coatings",
+		"ru": "модификация поверхности, нанесение покрытий, импульсно-плазменная детонационная технология, вибронакатывание, керамические, металлокерамические и металлические покрытия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. Д. Погребняк", "en": "O. D. Pogrebnyak", "ru": "А. Д. Погребняк"},
+			"OID": [248]
+		},
+		{
+			"AID": {"ua": "Ю. М. Тюрин", "en": "Yu. M. Tyurin", "ru": "Ю. Н. Тюрин"},
+			"OID": [5]
+		}
+	],
+	"references": {
+		"count": 94,
+				"list":  [
+			{
+				"doi": "",
+				"or":  "Л. В. Келдыш, Труды международной конференции по физике полупроводников (Москва: 1968), с. 1307.",
+				"tr":  "L. V. Keldysh, Trudy mezhdunarodnoi konferentsii po fizike poluprovodnikov (Moskva: 1968), p. 1307."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Коваленко, Обработка материалов импульсным излучением лазеров (Киев: Вища школа: 1977).",
+				"tr":  "V. p. Kovalenko, Obrabotka materialov impul'snym izlucheniem lazerov (Kiev: Vishcha shkola: 1977)."
+			},
+			{
+				"doi": "10.1109/TNS.1996.4324347",
+				"or":  "R. В Oswald, IEEE Trans. Nucl. Sci., NS-13: 63 (1966).",
+				"tr":  "R. V Oswald, IEEE Tranp. Nucl. Sci., NS-13: 63 (1966)."
+			},
+			{
+				"doi": "10.1088/0022-3727/4/1/308",
+				"or":  "В. Steverding еt al., J. Phys. D, 4: 54 (1971).",
+				"tr":  "V. Steverding et al., J. Phyp. D, 4: 54 (1971)."
+			},
+			{
+				"doi": "10.1063/1.1661691",
+				"or":  "В. Steverding et al., J. Appl. Phys., 43: 3217 (1972).",
+				"tr":  "V. Steverding et al., J. Appl. Phyp., 43: 3217 (1972)."
+			},
+			{
+				"doi": "10.1109/TNS.1973.4327311",
+				"or":  "R. T. Avery and D. Keefe, IEEE Trans. Nucl. Sci., NS-20: 1010 (1973).",
+				"tr":  "R. T. Avery and D. Keefe, IEEE Tranp. Nucl. Sci., NS-20: 1010 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "R. T. Avery and D. Keefe, Proc. Intern. Conf. ‘Electron Beam Research and Technology’ (New Mexico, USA: 1975), vol. 11, p. 61.",
+				"tr":  "R. T. Avery and D. Keefe, Proc. Intern. Conf. 'Electron Beam Research and Technology' (New Mexico, USA: 1975), vol. 11, p. 61."
+			},
+			{
+				"doi": "10.1016/S0168-583X(98)00216-X",
+				"or":  "A. N. Valyaev, Nucl. Instrum. Methods, 141: 555 (1998).",
+				"tr":  "A. N. Valyaev, Nucl. Instrum. Methods, 141: 555 (1998)."
+			},
+			{
+				"doi": "10.1016/0375-9601(87)90221-0",
+				"or":  "A. D.Pogrebnjak and Sh. M. Rusimov, Phys. Lett. A, 120: 259 (1987).",
+				"tr":  "A. D.Pogrebnjak and Sh. M. Rusimov, Phyp. Lett. A, 120: 259 (1987)."
+			},
+			{
+				"doi": "10.1016/0375-9601(87)90043-0",
+				"or":  "A. D.Pogrebnjak et al., Phys. Lett. A, 123: 410 (1987).",
+				"tr":  "A. D.Pogrebnjak et al., Phyp. Lett. A, 123: 410 (1987)."
+			},
+			{
+				"doi": "10.1143/JJAP.27.L719",
+				"or":  "Y. Nakagava et al., Japan J. Appl. Phys., 27: L719 (1988).",
+				"tr":  "Y. Nakagava et al., Japan J. Appl. Phyp., 27: L719 (1988)."
+			},
+			{
+				"doi": "10.1016/0168-583X(89)90857-4",
+				"or":  "Y. Nakagava et al., Nucl. Instrum. Methods, 39: 603 (1989).",
+				"tr":  "Y. Nakagava et al., Nucl. Instrum. Methods, 39: 603 (1989)."
+			},
+			{
+				"doi": "10.1016/S0168-583X(97)00044-X",
+				"or":  "D. J. Rej et al., Nucl. Instrum. Methods, 127/128: 987 (1997).",
+				"tr":  "D. J. Rej et al., Nucl. Instrum. Methods, 127/128: 987 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Итин и др., Физика износостойкости поверхности металлов (Ленинград: Наука: 1988), с. 119.",
+				"tr":  "V. I. Itin et al., Fizika iznosostoikosti poverkhnosti metallov (Leningrad: Nauka: 1988), p. 119."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, С. В. Лыков, В. П. Ротштейн, ФХОМ, 5: 62 (1993).",
+				"tr":  "Yu. F. Ivanov, p. V. Lykov, V. P. Rotshtein, FKhOM, 5: 62 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Yatsui et al., Proc. 10th Intern. Conf. ‘High Power Particle Beams’ (San-Diego, USA: 1994), p. 27.",
+				"tr":  "K. Yatsui et al., Proc. 10th Intern. Conf. 'High Power Particle Beams' (San-Diego, USA: 1994), p. 27."
+			},
+			{
+				"doi": "10.1557/S0883769400035739",
+				"or":  "H. A. Davis et al., MRS Bulletin, 21: 58 (1996).",
+				"tr":  "H. A. Davis et al., MRS Bulletin, 21: 58 (1996)."
+			},
+			{
+				"doi": "10.1016/S0254-0584(98)00102-3",
+				"or":  "H. A Davis et al., Mater. Chem. Phys., 54: 213 (1998).",
+				"tr":  "H. A Davis et al., Mater. Chem. Phyp., 54: 213 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Рудаков, В. А. Демидов, В. С. Углов, ФХОМ, 4: 11 (1989).",
+				"tr":  "L. I. Rudakov, V. A. Demidov, V. p. Uglov, FKhOM, 4: 11 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Engelko, A. V. Lazarenko, and О. Р. Pechersky, Proc. 9th Intern. Conf. High Power Particle Beams (Washington: 1992), vol. 3, p. 1035.",
+				"tr":  "V. I. Engelko, A. V. Lazarenko, and O. R. Pechersky, Proc. 9th Intern. Conf. High Power Particle Beams (Washington: 1992), vol. 3, p. 1035."
+			},
+			{
+				"doi": "10.1116/1.581369",
+				"or":  "D. I. Proskurovsky et al., Vac. Sci. Tech. A, 16: 2480 (1998).",
+				"tr":  "D. I. Proskurovsky et al., Vac. Sci. Tech. A, 16: 2480 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Itin et al., Proc. Intern. Conf. ‘Energy Pulse and Particle Beams Modification of Materials’ (Dresden, 1989) (Berlin: Phys. Res.: 1990), vol. 13, p. 331.",
+				"tr":  "V. I. Itin et al., Proc. Intern. Conf. 'Energy Pulse and Particle Beams Modification of Materials' (Dresden, 1989) (Berlin: Phyp. Rep.: 1990), vol. 13, p. 331."
+			},
+			{
+				"doi": "",
+				"or":  "В. Steverding and S. H. Lehning, J. Appl. Phys., 42: 3231 (1971).",
+				"tr":  "V. Steverding and p. H. Lehning, J. Appl. Phyp., 42: 3231 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Steverding and S. H. Lehning, J. Appl. Phys., 45: 3507 (1974).",
+				"tr":  "V. Steverding and p. H. Lehning, J. Appl. Phyp., 45: 3507 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Бойко и др., ФХОМ, 1: 29 (1992).",
+				"tr":  "V. I. Boiko et al., FKhOM, 1: 29 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Бойко и др., ФХОМ, 5: 28 (1993).",
+				"tr":  "V. I. Boiko et al., FKhOM, 5: 28 (1993)."
+			},
+			{
+				"doi": "10.1002/pssa.2211280212",
+				"or":  "V. I. Boiko et al., Phys. Status Solidi A, 128: 369 (1991).",
+				"tr":  "V. I. Boiko et al., Phyp. Status Solidi A, 128: 369 (1991)."
+			},
+			{
+				"doi": "10.3367/UFNr.0169.199911d.1243",
+				"or":  "В. И. Бойко, А. Н. Валяев, А. Д. Погребняк, УФН, 169, вып. 11: 1243 (1999).",
+				"tr":  "V. I. Boiko, A. N. Valyaev, A. D. Pogrebnyak, UFN, 169, No. 11: 1243 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Валяев, Н. Кишимото, А. Д. Погребняк, Модификация свойств материалов и синтез тонких пленок при облучении интенсивными электронными ионными пучками (Усть-Каменогорск: Восточно-Казахстанский технический университет: 2000), с. 345.",
+				"tr":  "A. N. Valyaev, N. Kishimoto, A. D. Pogrebnyak, Modifikatsiya svoistv materialov i sintez tonkikh plenok pri obluchenii intensivnymi elektronnymi ionnymi puchkami (Ust'-Kamenogorsk: Vostochno-Kazakhstanskii tekhnicheskii universitet: 2000), p. 345."
+			},
+			{
+				"doi": "",
+				"or":  "В. Л. Якушев, Б. А. Калин, В. И. Польских, Металлы, № 4: 74 (1994).",
+				"tr":  "V. L. Yakushev, B. A. Kalin, V. I. Pol'skikh, Metally, No. 4: 74 (1994)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(98)00826-3",
+				"or":  "Yu. N. Tyurin and A. D. Pogrebnjak, Surf. and Coat. Tech., 111: 269 (1999).",
+				"tr":  "Yu. N. Tyurin and A. D. Pogrebnjak, Surf. and Coat. Tech., 111: 269 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Погребняк, Ю. Н. Тюрин, Ю. Ф. Иванов и др., Письма в ЖТФ, 26, вып. 21: 53 (2000).",
+				"tr":  "A. D. Pogrebnyak, Yu. N. Tyurin, Yu. F. Ivanov et al., Pis'ma v ZhTF, 26, No. 21: 53 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Погребняк, М. В. Ильяшенко и др., ЖТФ, 71, вып. 7: 111 (2001).",
+				"tr":  "A. D. Pogrebnyak, M. V. Il'yashenko et al., ZhTF, 71, No. 7: 111 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Погребняк, Ю. Н. Тюрин, А. П. Кобзев, Письма в ЖТФ, 27, вып. 15: 1 (2001).",
+				"tr":  "A. D. Pogrebnyak, Yu. N. Tyurin, A. P. Kobzev, Pis'ma v ZhTF, 27, No. 15: 1 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Погребняк, С. В. Соколов, В. С. Кшнякин, Ю. Н. Тюрин и др., ФХОМ, № 4: 47 (2001).",
+				"tr":  "A. D. Pogrebnyak, P. V. Sokolov, V. p. Kshnyakin, Yu. N. Tyurin et al., FKhOM, No. 4: 47 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Погребняк, О. П. Кульментьева и др., Труды 6-й Международной конференции «Пленки и покрытия» (Санкт-Петербург: Изд. СПбГТУ: 2001), с. 56.",
+				"tr":  "A. D. Pogrebnyak, O. P. Kul'ment'eva et al., Trudy 6-i Mezhdunarodnoi konferentsii 'Plenki i pokrytiya' (Sankt-Peterburg: Izd. SPbGTU: 2001), p. 56."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Тюрин, М. Л. Жадкевич и др., Труды 6-й Международной конференции «Пленки и покрытия» (Санкт-Петербург: Изд. СПбГТУ: 2001), с. 71.",
+				"tr":  "Yu. N. Tyurin, M. L. Zhadkevich et al., Trudy 6-i Mezhdunarodnoi konferentsii 'Plenki i pokrytiya' (Sankt-Peterburg: Izd. SPbGTU: 2001), p. 71."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Погребняк, Ю. Н. Тюрин и др., Труды 6-й Международной конференции «Пленки и покрытия» (Санкт-Петербург: Изд. СПбГТУ: 2001), с. 82.",
+				"tr":  "A. D. Pogrebnyak, Yu. N. Tyurin et al., Trudy 6-i Mezhdunarodnoi konferentsii 'Plenki i pokrytiya' (Sankt-Peterburg: Izd. SPbGTU: 2001), p. 82."
+			},
+			{
+				"doi": "",
+				"or":  "A. D. Pogrebnjak, M. Il’yashenko, O. P. Kulment’eva et al., Труды 6-й Международной конференции «Пленки и покрытия» (Санкт-Петербург: Изд. СПбГТУ: 2001), с. 324.",
+				"tr":  "A. D. Pogrebnjak, M. Il'yashenko, O. P. Kulment'eva et al., Trudy 6-i Mezhdunarodnoi konferentsii «Plenki i pokrytiya» (Sankt-Peterburg: Izd. SPbGTU: 2001), p. 324."
+			},
+			{
+				"doi": "10.1016/S0042-207X(01)00109-9",
+				"or":  "А. D. Pogrebnjak, M. Il’yashenko, O. P. Kulment’eva et al., Vacuum, 62: 21 (2001).",
+				"tr":  "A. D. Pogrebnjak, M. Il'yashenko, O. P. Kulment'eva et al., Vacuum, 62: 21 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Погребняк, О. П. Кульментьева, Ю. Н. Тюрин, II International Symposiuma NEET-2001: ‘New Electrical and Electronic Technologies and Their Industrial Implamentation’ (K. Dolny, Poland, February 2001), P. 14–17, p. 119.",
+				"tr":  "A. D. Pogrebnyak, O. P. Kul'ment'eva, Yu. N. Tyurin, II International Symposiuma NEET-2001: 'New Electrical and Electronic Technologies and Their Industrial Implamentation' (K. Dolny, Poland, February 2001), P. 14–17, p. 119."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Погребняк, С. В. Соколов, Е. А. Базиль, Ю. Н. Тюрин, II International Symposiuma NEET-2001: ‘New Electrical and Electronic Technologies and Their Industrial Implamentation’ (K. Dolny, Poland, February 2001), P. 14–17, p. 51.",
+				"tr":  "A. D. Pogrebnyak, p. V. Sokolov, E. A. Bazil', Yu. N. Tyurin, II International Symposiuma NEET-2001: 'New Electrical and Electronic Technologies and Their Industrial Implamentation' (K. Dolny, Poland, February 2001), P. 14–17, p. 51."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Погребняк, М. В. Ильяшенко и др., Письма в ЖТФ, 27, вып. 17: 82 (2001).",
+				"tr":  "A. D. Pogrebnyak, M. V. Il'yashenko et al., Pis'ma v ZhTF, 27, No. 17: 82 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "A. D. Pogrebnjak, O. P. Kulment’eva, Yu. N. Tyurin, and O. V. Kolisnichenko, Proc. Int. Conf. ‘ISSP 2001’.",
+				"tr":  "A. D. Pogrebnjak, O. P. Kulment'eva, Yu. N. Tyurin, and O. V. Kolisnichenko, Proc. Int. Conf. 'ISSP 2001'."
+			},
+			{
+				"doi": "",
+				"or":  "A. D. Pogrebnjak, O. P. Kulment’eva, Yu. F. Ivanov, and Yu. N. Tyurin, ISSP, (2001).",
+				"tr":  "A. D. Pogrebnjak, O. P. Kulment'eva, Yu. F. Ivanov, and Yu. N. Tyurin, ISSP, (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "T. P. Gavrilebko, Y. A. Nikolaev, and V. Y. Ulianitsky, Proc. 15th Int. Thermal Spray Conf. (Nice, France, 1998), р. 1485.",
+				"tr":  "T. P. Gavrilebko, Y. A. Nikolaev, and V. Y. Ulianitsky, Proc. 15th Int. Thermal Spray Conf. (Nice, France, 1998), r. 1485."
+			},
+			{
+				"doi": "",
+				"or":  "M. L. Thorpe and H. J. Richter, Proc. Thermal Spray: International Advances in Coatings Technology (Orlando, Florida, USA: 1992), р. 137.",
+				"tr":  "M. L. Thorpe and H. J. Richter, Proc. Thermal Spray: International Advances in Coatings Technology (Orlando, Florida, USA: 1992), r. 137."
+			},
+			{
+				"doi": "",
+				"or":  "H. Kreye, R. Schweitzker, and S. Zimmerman, Proc. ASM Thermal Spray Society (1996), р. 450.",
+				"tr":  "H. Kreye, R. Schweitzker, and p. Zimmerman, Proc. ASM Thermal Spray Society (1996), r. 450."
+			},
+			{
+				"doi": "",
+				"or":  "G. R. Heath and R. J. Dumola, Proc. 15th Int. Thermal Spray Conf. (Nice, France, 1998), р. 1495.",
+				"tr":  "G. R. Heath and R. J. Dumola, Proc. 15th Int. Thermal Spray Conf. (Nice, France, 1998), r. 1495."
+			},
+			{
+				"doi": "",
+				"or":  "M. Miyamoto, Т. Sakutat, and M. Tago, Proc. 15th Int. Thermal Spray Conf. (Nice, France, 1998), р. 1501.",
+				"tr":  "M. Miyamoto, T. Sakutat, and M. Tago, Proc. 15th Int. Thermal Spray Conf. (Nice, France, 1998), r. 1501."
+			},
+			{
+				"doi": "",
+				"or":  "J. R. Uglum, J. L. Bacon, D. G. Davis et al., ASM Thermal Spray Society (1997), p. 373.",
+				"tr":  "J. R. Uglum, J. L. Bacon, D. G. Davis et al., ASM Thermal Spray Society (1997), p. 373."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Лебедев, Б. А. Урюков, Импульсные ускорители плаз¬мы высокого давления (Новосибирск: 1990), с. 280.",
+				"tr":  "A. D. Lebedev, B. A. Uryukov, Impul'snye uskoriteli plaz¬my vysokogo davleniya (Novosibirsk: 1990), p. 280."
+			},
+			{
+				"doi": "",
+				"or":  "R. B. Bhagat, M. F. Amatean, A. Papyrin et al., ASM Thermal Spray Society (1997), p. 361.",
+				"tr":  "R. B. Bhagat, M. F. Amatean, A. Papyrin et al., ASM Thermal Spray Society (1997), p. 361."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. А. Харламов, Детонационно-газовые установки для нанесения покрытий (Ворошиловград: 1998), с. 228.",
+				"tr":  "Yu. A. Kharlamov, Detonatsionno-gazovye ustanovki dlya naneseniya pokrytii (Voroshilovgrad: 1998), p. 228."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Зверев, С. Ю. Шаривкер, Е. А. Астахов, Детонацион¬ное нанесение покрытий (Ленинград: Судостроение: 1979), с. 178.",
+				"tr":  "A. I. Zverev, p. Yu. Sharivker, E. A. Astakhov, Detonatsion¬noe nanesenie pokrytii (Leningrad: Sudostroenie: 1979), p. 178."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Семенов, Ю. Л. Федько, А. И. Григоров, Обзор НИИ машиност-роения, 167 (1977).",
+				"tr":  "A. P. Semenov, Yu. L. Fed'ko, A. I. Grigorov, Obzor NII mashinost-roeniya, 167 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Тюрин, Способ детонационного нане¬сения, А. с. СССР № 1045491 (1983).",
+				"tr":  "Yu. N. Tyurin, Sposob detonatsionnogo nane¬seniya, A. p. SSSR No. 1045491 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "K. A. Yuschenko, Y. S. Borisov, and Yu. N. Tyurin, Method and Device for Plasma-Detonation Working of Metal Articles, European pat. Nо. 0531527. Al.1991.",
+				"tr":  "K. A. Yuschenko, Y. p. Borisov, and Yu. N. Tyurin, Method and Device for Plasma-Detonation Working of Metal Articles, European pat. No. 0531527. Al.1991."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Тюрин, А. Д. Погребняк, Proc. PSE (2002) (в печати).",
+				"tr":  "Yu. N. Tyurin, A. D. Pogrebnyak, Proc. PSE (2002) (v pechati)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Левин (Докт. дис.) (Mосква: 1975).",
+				"tr":  "V. A. Levin (Dokt. dip.) (Moskva: 1975)."
+			},
+			{
+				"doi": "10.1098/rspa.1965.0155",
+				"or":  "D. H. Edwards and T. R. Lawrence, Proc. Roy. Soc. Ser. A, 286: 415 (1965).",
+				"tr":  "D. H. Edwards and T. R. Lawrence, Proc. Roy. Soc. Ser. A, 286: 415 (1965)."
+			},
+			{
+				"doi": "10.1017/S0022112063000720",
+				"or":  "I. B. Helliwell, J. Fluid Mech., 16: 243 (1963).",
+				"tr":  "I. B. Helliwell, J. Fluid Mech., 16: 243 (1963)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Д. Саламандра, ФГВ, 12, № 2: 229 (1976).",
+				"tr":  "G. D. Salamandra, FGV, 12, No. 2: 229 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. А. Буренин, Г. А. Швецов, ФГВ, 13, № 1 (1977).",
+				"tr":  "Yu. A. Burenin, G. A. Shvetsov, FGV, 13, No. 1 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. И. Солоухин, ФГВ, 13: № 3 (1977).",
+				"tr":  "R. I. Soloukhin, FGV, 13: No. 3 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Уизем, Линейные и нелинейные волны (Mосква: Мир: 1977).",
+				"tr":  "Dzh. Uizem, Lineinye i nelineinye volny (Moskva: Mir: 1977)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Д. Кальнер, А. К. Вернер, МиТОМ, № 4: 10 (1994).",
+				"tr":  "V. D. Kal'ner, A. K. Verner, MiTOM, No. 4: 10 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. М. Лахтин, МиТОМ, № 7: 6 (1993).",
+				"tr":  "Yu. M. Lakhtin, MiTOM, No. 7: 6 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ф. Беликова, А. М. Булаев, С. Н. Буранова и др., ФХОМ, № 9: 100 (1989).",
+				"tr":  "A. F. Belikova, A. M. Bulaev, p. N. Buranova et al., FKhOM, No. 9: 100 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "The Oxide Handbook (Ed. G. Samsonov) (Moscow: Metallurgiya: 1978); idem, 2nd ed. (New York: Plenum: 1973).",
+				"tr":  "The Oxide Handbook (Ed. G. Samsonov) (Moscow: Metallurgiya: 1978); idem, 2nd ed. (New York: Plenum: 1973)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Лебедев, Б. А. Урюков, Импульсные ускорители высокого давления (Новосибирск: 1990), с. 210.",
+				"tr":  "A. D. Lebedev, B. A. Uryukov, Impul'snye uskoriteli vysokogo davleniya (Novosibirsk: 1990), p. 210."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Погребняк, М. В. Ильяшенко, В. С. Кшнякин, Труды ХII Междуна-родного совещания «Радиационная физика твердого тела» (в печати).",
+				"tr":  "A. D. Pogrebnyak, M. V. Il'yashenko, V. p. Kshnyakin, Trudy KhII Mezhduna-rodnogo soveshchaniya «Radiatsionnaya fizika tverdogo tela» (v pechati)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Тюрин, А. Д. Погребняк, О. В. Колисниченко и др., ФХОМ, 2: 142 (2002).",
+				"tr":  "Yu. N. Tyurin, A. D. Pogrebnyak, O. V. Kolisnichenko et al., FKhOM, 2: 142 (2002)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(99)00064-X",
+				"or":  "A. D. Pogrebnjak and N. I. Shumakova, Surf. аnd Coat. Tech., 122: 183 (1999).",
+				"tr":  "A. D. Pogrebnjak and N. I. Shumakova, Surf. and Coat. Tech., 122: 183 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Валяев, А. Д. Погребняк, С. В. Плотников, Радиационно-механичес¬кие эффекты в твердых телах при облучении высокоэнергетическими импульсными электронными и ионными пучками. (Алматы: Гылым: 1998).",
+				"tr":  "A. N. Valyaev, A. D. Pogrebnyak, p. V. Plotnikov, Radiatsionno-mekhaniches¬kie effekty v tverdykh telakh pri obluchenii vysokoenergeticheskimi impul'snymi elektronnymi i ionnymi puchkami. (Almaty: Gylym: 1998)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Прохоров, Физические принципы обработки материалов импульсной лазерной плазмой: Научные основы прогрессивной технологии (Москва: Машиностроение: 1982).",
+				"tr":  "A. M. Prokhorov, Fizicheskie printsipy obrabotki materialov impul'snoi lazernoi plazmoi: Nauchnye osnovy progressivnoi tekhnologii (Moskva: Mashinostroenie: 1982)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Белянин, А. А. Жуков, А. Н. Кокура и др., ФХОМ, № 2: 115 (1967).",
+				"tr":  "V. A. Belyanin, A. A. Zhukov, A. N. Kokura et al., FKhOM, No. 2: 115 (1967)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Андрияхин, М. М. Фишкис, Лазеры и перспективы их применения в автомобилестроении (Москва: НИИ Автопром: 1980).",
+				"tr":  "V. M. Andriyakhin, M. M. Fishkis, Lazery i perspektivy ikh primeneniya v avtomobilestroenii (Moskva: NII Avtoprom: 1980)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Рыкалкин, А. А. Углов, А. Н. Кокора, Лазерная обработка материалов (Москва: Машиностроение: 1975).",
+				"tr":  "N. N. Rykalkin, A. A. Uglov, A. N. Kokora, Lazernaya obrabotka materialov (Moskva: Mashinostroenie: 1975)."
+			},
+			{
+				"doi": "",
+				"or":  "F. Behr, C. Arndt, and E. Haberling, Thyssen Edelstahl Techn., 16: 106 (1990).",
+				"tr":  "F. Behr, C. Arndt, and E. Haberling, Thyssen Edelstahl Techn., 16: 106 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Lugscheider and B. C. Oberlander, Sci. Rev., 88, No. 5: 283 (1991).",
+				"tr":  "E. Lugscheider and B. C. Oberlander, Sci. Rev., 88, No. 5: 283 (1991)."
+			},
+			{
+				"doi": "10.1016/0040-6090(92)90558-S",
+				"or":  "A. Voss, J. Funken, M. Alunovic, H. Sung, and E. W. Kreutz, Thin Solid Films, 220, No. 1–2: 116 (1992).",
+				"tr":  "A. Voss, J. Funken, M. Alunovic, H. Sung, and E. W. Kreutz, Thin Solid Films, 220, No. 1–2: 116 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "Modelling of Laser Hard-Facing of Steels with Carbide Powder Injection (BRITE/EURAM Programme) (Luxemburg: OOPEC: 1990), p. 337.",
+				"tr":  "Modelling of Laser Hard-Facing of Steels with Carbide Powder Injection (BRITE/EURAM Programme) (Luxemburg: OOPEC: 1990), p. 337."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Ильяшенко, В. С. Кшнякин, А. И. Олемской, А. Д. Погребняк, ФТТ (2002) (в печати).",
+				"tr":  "M. V. Il'yashenko, V. p. Kshnyakin, A. I. Olemskoi, A. D. Pogrebnyak, FTT (2002) (v pechati)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Фельдман, Д. Майер, Основы анализа поверхности и тонких пленок (Москва: Мир: 1989), с. 64, с. 343.",
+				"tr":  "L. Fel'dman, D. Maier, Osnovy analiza poverkhnosti i tonkikh plenok (Moskva: Mir: 1989), p. 64, p. 343."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Гурьев, В. И. Тескер, ФХОМ, № 1: 14 (1996).",
+				"tr":  "V. A. Gur'ev, V. I. Tesker, FKhOM, No. 1: 14 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Сафонов, МиТОМ, № 7: 2 (1997).",
+				"tr":  "A. N. Safonov, MiTOM, No. 7: 2 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. К. Лещинский, С. С. Смотугин, И. И. Пирч, Плазменное поверхностное упрочнение (Киев: Техника: 1990), с. 109.",
+				"tr":  "L. K. Leshchinskii, p. p. Smotugin, I. I. Pirch, Plazmennoe poverkhnostnoe uprochnenie (Kiev: Tekhnika: 1990), p. 109."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Коваленко, Л. Ф. Головко, В. С. Черненко, Упрочнение и легирование деталей машин лучом лазера (Киев: Технiка: 1990), с. 192.",
+				"tr":  "V. p. Kovalenko, L. F. Golovko, V. p. Chernenko, Uprochnenie i legirovanie detalei mashin luchom lazera (Kiev: Tekhnika: 1990), p. 192."
+			},
+			{
+				"doi": "10.1179/sur.1998.14.5.381",
+				"or":  "C. Cordier-Robert, J. Crampon, and J. Foct, Surface Engineering, 14, No. 5: 381 (1998).",
+				"tr":  "C. Cordier-Robert, J. Crampon, and J. Foct, Surface Engineering, 14, No. 5: 381 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. С. Герцрикен, В. Г. Костюченко, В. М. Тишкевич, В. М. Фальченко, Доп. НАН України, № 3 (1997).",
+				"tr":  "D. p. Gertsriken, V. G. Kostyuchenko, V. M. Tishkevich, V. M. Fal'chenko, Dop. NAN Ukraїni, No. 3 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Тюрин, Автоматическая сварка, № 5: 13 (1999).",
+				"tr":  "Yu. N. Tyurin, Avtomaticheskaya svarka, No. 5: 13 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Лыков, В. Г. Почепаев, Ю. Г. Редькин, Е. С. Куминов, ФХОМ, № 3: 27 (1997).",
+				"tr":  "A. M. Lykov, V. G. Pochepaev, Yu. G. Red'kin, E. p. Kuminov, FKhOM, No. 3: 27 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Тюрин, О. В. Колисниченко, Н. Г. Цыганков, Автоматическая сварка, № 1: 38 (2001).",
+				"tr":  "Yu. N. Tyurin, O. V. Kolisnichenko, N. G. Tsygankov, Avtomaticheskaya svarka, No. 1: 38 (2001)."
+			}
+		]
+	}
+}

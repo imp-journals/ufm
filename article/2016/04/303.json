@@ -1,0 +1,425 @@
+{
+	"_id":    "UFM.17.04.303",
+	"year":   2016,
+	"volume": 17,
+	"issue":  4,
+	"pages":  [303,341],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["05.05.2016"],
+	"PACS":   "61.72.Lk, 81.65.Lp, 81.40.Cd, 81.40.Ef, 81.70.Bt, 83.50.Uv",
+	"title":   {
+		"ua": "Формування структурно-фазових станів, дефектної субструктури та властивостей поверхні термомеханічно зміцненої низьковуглецевої криці",
+		"en": "Formation of Structural-Phase States, Defect Substructure and Properties of a Surface of Thermomechanically Hardened Low-Carbon Steel",
+		"ru": "Формирование структурно-фазовых состояний, дефектной субструктуры и свойств поверхности термомеханически упрочнённой низкоуглеродистой стали"
+	},
+	"abstract": {
+		"ua": "З’ясування фізичних механізмів формування та еволюції структурно-фазових станів і дислокаційних субструктур в крицях — одна з важливих задач фізики конденсованого стану та сучасного матеріялознавства, оскільки лежить в основі розроблення та створення ефективних способів підвищення службових характеристик виробів. Проведено термомеханічне зміцнення криці 09Г2С шляхом прокатки балочного профілю ДП155 та примусового охолодження водою у потоці стану 450 ВАТ «ЄВРАЗ Об’єднаний Западно-Сибірський металургійний комбінат». Методами просвічувальної дифракційної електронної мікроскопії проведено дослідження структурно-фазових станів і дефектної субструктури балки із криці 09Г2С, що формується в результаті термомеханічного зміцнення в потоці прокатного стану. Проаналізовано процеси та механізми, що сприяють формуванню нанорозмірної фази в умовах термомеханічної обробки низьковуглецевої криці. На основі використання кількісних параметрів структури криці, що виявлено методами металографії й електронної дифракційної мікроскопії, та оцінювальних співвідношень фізичного матеріялознавства виконано аналізу фізичних механізмів, відповідальних за підвищення мікротвердости поверхневого шару при термомеханічному зміцненні, та виявлено кількісні параметри, що характеризують структурно-фазовий стан і дають можливості оцінити величину теоретичної межі плинности криці. Одержано якісна відповідність зміни експериментально міряної мікротвердости і теоретично визначеної межі плинности за перерізом полки профілю. Встановлено, що явище підвищення міцности поверхневого шару криці є багатофакторним, морфологічно багатокомпонентним і визначається природою $\\gamma \\rightarrow \\alpha$ перетворення. Основними механізмами, відповідними за високий рівень міцности поверхневого шару криці, є субструктурний і деформаційний, що обумовлені формуванням кристалів мартенситу та бейніту.",
+		"en": "Detection of physical mechanisms of formation and evolution of structural and phase states and dislocation substructures in steels is one of the important problem of condensed-matter physics and contemporary material science because it forms the basis of development and formation of effective methods for increasing the service characteristics of products. Experimental investigations of structural and phase states being formed in a cross-section of products as a result of thermomechanical treatment are very significant for understanding the physical nature of transformations since they make it possible to change structure and mechanical characteristics purposefully. Thermomechanical hardening of low-carbon steel 09Г2C (0.09 wt.% of C, 2 wt.% of Mn, 1 wt.% of Si;) was made by rolling of H-beam ДП 155 and forced water cooling on rolling mill 450 of open joint-stock company ‘EVRAZ Consolidated West-Siberian Metallurgical Plant’. By methods of transmission diffraction electron microscopy, we investigated structural-phase states and defect substructure of H-beam (made of 09Г2С steel) formed during thermomechanical hardening on rolling mill. It is established that defect substructure state of steel $\\alpha$-phase is determined by (a) the mechanisms of $\\gamma \\rightarrow \\alpha$ transformation, (b) the regime of high temperature rolling and accelerated cooling, (c) the distance to the surface of the accelerated cooling. The correspondence of dislocation substructure and morphology of $\\alpha$-phase (mechanism of $\\gamma \\rightarrow \\alpha$ transformation) is established. In the martensite and bainite crystals, a net-like dislocation structure with a very high dislocation density that varies within the range of 5.8⋅10$^{10}$–10.0⋅10$^{10}$ cm$^{−2}$ is a dominant one. In the ferrite and pearlite grains, a structure of dislocation chaos and net-like dislocation substructure with a relatively low values of scalar density of dislocations varying within the range 2.6·10$^{10}$–3.5·10$^{10}$ cm$^{−2}$ are determined. We analyzed the processes and mechanisms contributing to the formation of nanodimensional phase at the thermomechanical treatment of low-alloy steel. It was shown as follows: (i) in dispersion of cementite plates of pearlite colonies by cutting them with moving dislocations, the particles of 5–30 nm size were formed; (ii) the oval-shape particles of 5–15 nm size were formed during the dissolution of cementite plates of pearlite colonies and repeated precipitation on dislocations, boundaries of subgrains and grains; (iii) during the decomposition of solid solution of carbon in the $\\alpha$-iron occurring in the conditions of ‘self-tempering’ of martensite, the sizes of particles precipitated in the volume of martensite crystals on dislocations are 5–10 nm, and at the boundaries of martensite crystals—10–30 nm; (iv) during the diffusion $\\gamma \\rightarrow \\alpha$ transformation at the high degree of deformation and temperatures of treatment, a dispersion of lamellar pearlite structure is observed: thickness of $\\alpha$-phase plates separated by the carbide plates is ≈ 70 nm, while thickness of carbide phase plates is ≈ 25 nm. Using the quantitative parameters of steel structure revealed by the methods of metallography and electron diffraction microscopy, and estimate relations of physical material science, we analyzed physical mechanisms responsible for enhancement the microhardness of surface layer at the thermomechanical hardening. The quantitative parameters characterizing structural and phase state and allowing the possibilities to estimate the value of theoretical yield point for steel were determined. The quantitative correspondence of change of experimentally measured microhardness and theoretically determined yield point along the cross-section of H-beam flange was obtained. It is established that the phenomenon of increase in hardness of steel surface layer is a multi-factor, morphologically multi-component one, and is determined by the nature of $\\gamma \\rightarrow \\alpha$ transformation. The main mechanisms responsible for high level of steel surface layer hardness are substructural and deformational ones caused by the formation of martensite and bainite crystals.",
+		"ru": "Выяснение физических механизмов формирования и эволюции структурно-фазовых состояний и дислокационных субструктур в сталях — одна из важных задач физики конденсированного состояния и современного материаловедения, поскольку лежит в основе разработки и создания эффективных способов повышения служебных характеристик изделий. Проведено термомеханическое упрочнение стали 09Г2С путём прокатки балочного профиля ДП155 и принудительного охлаждения водой в потоке стана 450 ОАО «ЕВРАЗ Объединённый Западно-Сибирский металлургический комбинат». Методами просвечивающей дифракционной электронной микроскопии проведены исследования структурно-фазовых состояний и дефектной субструктуры балки из стали 09Г2С, формирующейся в результате термомеханического упрочнения в потоке прокатного стана. Проанализированы процессы и механизмы, способствующие формированию наноразмерной фазы в условиях термомеханической обработки низкоуглеродистой стали. На основе использования количественных параметров структуры стали, выявленных методами металлографии и электронной дифракционной микроскопии, и оценочных соотношений физического материаловедения выполнен анализ физических механизмов, ответственных за повышение микротвёрдости поверхностного слоя при термомеханическом упрочнении, и выявлены количественные параметры, характеризующие структурно-фазовое состояние и дающие возможности оценить величину теоретического предела текучести стали. Получено качественное соответствие изменения экспериментально измеренной микротвердости и теоретически определенного предела текучести по сечению полки профиля. Установлено, что явление повышения прочности поверхностного слоя стали является многофакторным, морфологически многокомпонентным и определяется природой $\\gamma \\rightarrow \\alpha$ превращения. Основными механизмами, ответственными за высокий уровень прочности поверхностного слоя стали, являются субструктурный и деформационный, обусловленные формированием кристаллов мартенсита и бейнита."
+	},
+	"keywords": {
+		"ua": "термомеханічне зміцнення, двотаврова балка, структура, дислокаційна субструктура, трибологічні властивості, механізми зміцнення",
+		"en": "thermomechanical hardening, H-beam, structure, dislocation substructure, tribological properties, mechanisms of strengthening",
+		"ru": "термомеханическое упрочнение, двутавровая балка, структура, дислокационная субструктура, трибологические свойства, механизмы упрочнения"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Є. Громов", "en": "V. E. Gromov", "ru": "В. Е. Громов"},
+			"OID": [407]
+		},
+		{
+			"AID": {"ua": "Ю. Ф. Іванов", "en": "Yu. F. Ivanov", "ru": "Ю. Ф. Иванов"},
+			"OID": [408, 409]
+		},
+		{
+			"AID": {"ua": "Є. Г. Бєлов", "en": "E. G. Belov", "ru": "Е. Г. Белов"},
+			"OID": [420]
+		},
+		{
+			"AID": {"ua": "В. Б. Костєрєв", "en": "V. B. Kosterev", "ru": "В. Б. Костерев"},
+			"OID": [420]
+		},
+		{
+			"AID": {"ua": "Д. А. Косінов", "en": "D. A. Kosinov", "ru": "Д. А. Косинов"},
+			"OID": [407]
+		}
+	],
+	"cited_by": {
+		"count":  3,
+		"list":  [
+			{
+				"doi": "10.15407/mfint.39.12.1599",
+				"cit": "V. E. Gromov, A. A. Yur’ev, Yu. F. Ivanov, S. V. Konovalov <i>et al.</i>, <a href=\"https://doi.org/10.15407/mfint.39.12.1599\">Metallofiz. Noveishie Tekhnol. <b>39</b>, 1599 (2018)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.18.02.111",
+				"cit": "V. E. Kormyshev, V. E. Gromov, Yu. F. Ivanov and S. V. Konovalov, <a href=\"https://doi.org/10.15407/ufm.18.02.111\">Usp. Fiz. Met. <b>18</b>, 111 (2017)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.18.02.155",
+				"cit": "V. V. Kurylyak and G. I. Khimicheva, <a href=\"https://doi.org/10.15407/ufm.18.02.155\">Usp. Fiz. Met. <b>18</b>, 155 (2017)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 71,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Л. М. Капуткина, М. Л. Берштейн, В. А. Займовский, Термомеханическая обработка стали (Москва: Металлургия: 1983).",
+				"tr":  "L. M. Kaputkina, M. L. Bershtein, and V. A. Zaimovskiy, Termomekhanicheskaya Obrabotka Stali [Thermomechanical Treatment of Steel] (Moscow: Metallurgiya: 1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Тушинский, Теория и технология упрочнения металлических сплавов (Новосибирск: Наука: 1990).",
+				"tr":  "L. I. Tushinskiy, Teoriya i Tekhnologiya Uprochneniya Metallicheskikh Splavov [Theory and Technology of Hardening of Metal Alloys] (Novosibirsk: Nauka: 1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Д. Одесский, И. И. Ведяков, Малоуглеродистые стали для металлических конструкций (Москва: Интермет Инжиниринг: 1999).",
+				"tr":  "P. D. Odesskiy and I. I. Vedyakov, Malouglerodistye Stali dlya Metallicheskikh Konstruktsiy [Mild Steel for Metal Structures] (Moscow: Intermet Inzhiniring: 1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Г. Соколов, В. П. Леонов, Металл, № 5: 115 (2001).",
+				"tr":  "O. G. Sokolov and V. P. Leonov, Metall, No. 5: 115 (2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Л. Бернштейн, Структура деформированных металлов (Москва: Металлургия: 1977).",
+				"tr":  "M. L. Bernshtein, Struktura Deformirovannykh Metallov [The Structure of Deformed Metals] (Moscow: Metallurgiya: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Д. Одесский, Д. П. Хромов, МиТОМ, № 3: 13 (1992).",
+				"tr":  "P. D. Odesskiy and D. P. Khromov, MiTOM, No. 3: 13 (1992) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Д. Морозов, А. М. Степашин, С. В. Александров, Металлург, № 5: 43 (2002).",
+				"tr":  "Yu. D. Morozov, A. M. Stepashin, and S. V. Aleksandrov, Metallurg, No. 5: 43 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. П. Лякишев, С. И. Тишаев, П. Д. Одесский, А. В. Рудченко, Известия РАН. Металлы, № 2: 96 (1993).",
+				"tr":  "N. P. Lyakishev, S. I. Tishaev, P. D. Odesskiy, and A. V. Rudchenko, Izves-tiya RAN. Metally, No. 2: 96 (1993) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Эфрон, Д. А. Литвиненко, А. А. Ефимов, Известия РАН. Металлы, № 6: 99 (1993).",
+				"tr":  "L. I. Efron, D. A. Litvinenko, and A. A. Efimov, Izvestiya RAN. Metally, No. 6: 99 (1993) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Б. Быхин, А. Т. Канаев, А. Ф. Капущак, А. А. Канаев, Сталь, № 12: 46 (1998).",
+				"tr":  "B. B. Bykhin, A. T. Kanaev, A. F. Kapushchak, and A. A. Kanaev, Stal', No. 12: 46 (1998) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Б. Юрьев, Упрочнение строительной арматуры и прокатных валков (Новосибирск: Наука: 2006).",
+				"tr":  "A. B. Yuryev, Uprochnenie Stroitel'noi Armatury i Prokatnykh Valkov [Strengthening of Building Bar and Forming Rolls] (Novosibirsk: Nauka: 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Громов, О. Ю. Ефимов, В. Б. Костерев, А. Б. Юрьев, В. Я. Чинокалов, Структурно-фазовые состояния и свойства упрочненных стального проката и чугунных валков (Новокузнецк: Интер-Кузбасс: 2011).",
+				"tr":  "V. E. Gromov, O. Yu. Efimov, V. B. Kosterev, A. B. Yuryev, and V. Ya. Chinokalov, Strukturno-Fazovye Sostoyaniya i Svoistva Uprochnen-nykh Stal'nogo Prokata i Chugunnykh Valkov [Structure-Phase States and Properties of Strengthened Rolled Steel and Cast Iron Rolls] (Novokuznetsk: Inter-Kuzbass: 2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Ю. Ефимов, В. Я. Чинокалов, М. В. Зезиков, Е. Г. Белов, Е. Ф. Иванов, О. В. Дикань, А. В. Смарыгин, И. М. Чернов, Устройство для ускоренного охлаждения и гидротранспортирования шахтной стойки (ОАО «Западно-Сибирский металлургический комбинат»): Патент 81911 РФ, МПК В21В 45/02, № 2008135416, заявл. 01.09.2008, опубл. 10.04.2009, Бюл. № 10.",
+				"tr":  "O. Yu. Efimov, O. V. Dikan', M. V. Zezikov, E. G. Belov, E. A. Ivanov, A. V. Smarygin, I. M. Chernov, and V. Ya. Chinokalov, Ustroistvo dlya Uskorennogo Okhlazhdeniya i Gidrotransportirovaniya Shakhtnoy Stoiki [A Device for Rapid Cooling and Rack Shaft Hydrotransportation] ('EVRAZ Consolidated West-Siberian Metallurgical Plant'): Patent 81911 RF, MPK V21V 45/02, No. 2008135416, Appl. 01.09.2008, Publ. 10.04.2009, Bulletin No. 10."
+			},
+			{
+				"doi": "",
+				"or":  "А. Б. Юрьев, О. Ю. Ефимов, В. Я. Чинокалов, М. В. Зезиков, Е. Г. Белов, Устройство для ускоренного охлаждения и гидротранспортирования двутавра (ОАО «Западно-Сибирский металлургический комбинат»): Патент 97284 РФ, МПК В21В 45/02, № 2010111067/22, заявл. 23.03.21010, опубл. 10.09.2010. Бюл. № 25.",
+				"tr":  "A. B. Yuryev, O. Yu. Efimov, O. V. Dikan', M. V. Zezikov, E. G. Belov, E. A. Ivanov, A. V. Smarygin, I. M. Chernov, A. A. Nechunaev, and V. Ya. Chinokalov, Ustroistvo dlya Uskorennogo Okhlazhdeniya i Gidro-transportirovaniya Dvutavra [A device for Rapid Cooling and an H-Beam Hydrotransportation]: ('EVRAZ Consolidated West-Siberian Metallurgical Plant'): Patent 97284 RF, MPK V21V 45/02, No. 2010111067/22, Appl. 23.03.2010, Publ. 10.09.2010, Bulletin No. 25."
+			},
+			{
+				"doi": "",
+				"or":  "А. Б. Юрьев, В. Д. Сарычев, В. Я. Чинокалов, М. В. Зезиков, В. Е. Громов, Известия вузов. Черная металлургия, № 2: 38 (2002).",
+				"tr":  "A. B. Yuryev, V. D. Sarychev, V. Ya. Chinokalov, M. V. Zezikov, and V. E. Gromov, Izvestiya VUZov. Chernaya Metallurgiya, No. 2: 38 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. В. Козлов, А. В. Плевков, А. Б. Юрьев, Известия вузов. Физика, № 3: 49 (2002).",
+				"tr":  "Eh. V. Kozlov, A. V. Plevkov, and A. B. Yuryev, Izvestiya VUZov. Fizika, No. 3: 49 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Б. Юрьев, В. Е. Громов, В. Я. Чинокалов, В. Я. Целлермаер, Э. В. Козлов, Материаловедение, № 10: 26 (2003).",
+				"tr":  "A. B. Yuryev, V. E. Gromov, V. Ya. Chinokalov, V. Ya. Tsellermaer, and Eh. V. Kozlov, Materialovedenie, No. 10: 26 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, А. Б. Юрьев, А. Б. Плевков, Известия вузов. Черная металлургия, № 10: 57 (2003).",
+				"tr":  "Yu. F. Ivanov, A. B. Yuryev, and A. B. Plevkov, Izvestiya VUZov. Chernaya Metallurgiya, No. 10: 57 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Б. Юрьев, Ю. Ф. Иванов, М. М. Морозов, В. Е. Громов, Э. В. Козлов, Деформация и разрушение материалов, № 3: 43 (2005).",
+				"tr":  "A. B. Yuryev, Yu. F. Ivanov, M. M. Morozov, V. E. Gromov, and Eh. V. Kozlov, Deformatsiya i Razrushenie Materialov [Deformation and Destruction of Materials], No. 3: 43 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Панин, В. А. Лихачев, Ю. В. Гриняев, Структурные уровни деформации твердых тел (Новосибирск: Наука: 1985).",
+				"tr":  "V. E. Panin, V. A. Likhachev, and Yu. V. Grinyaev, Strukturnye Urovni Deformatsii Tverdykh Tel [Structural Levels of Deformation of Solids] (Novosibirsk: Nauka: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Громов, Э. В. Козлов, В. А. Бердышев, Градиентные структурно-фазовые состояния в рельсовой стали (Москва: Недра: 2000).",
+				"tr":  "V. E. Gromov, Eh. V. Kozlov, and V. A. Berdyshev, Gradientnye Strukturno-Fazovye Sostoyaniya v Rel'sovoi Stali [Gradient Structural-Phase State in the Rail Steel] (Moscow: Nedra: 2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Ю. Ефимов, А. Б. Юрьев, В. Е. Громов, Известия высших учебных заведений. Черная металлургия, № 12: 57 (2007).",
+				"tr":  "O. Yu. Efimov, A. B. Yuryev, and V. E. Gromov, Izvestiya VUZov. Chernaya Metallurgiya, No. 12: 57 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Г. Белов, В. Я. Чинокалов, Л. М. Полторацкий, О. Ю. Ефимов, В. Е. Громов, Проблемы черной металлургии и материаловедения, № 3: 62 (2009).",
+				"tr":  "E. G. Belov, V. Ya. Chinokalov, L. M. Poltoratskiy, O. Yu. Efimov, and V. E. Gromov, Problemy Chernoi Metallurgii i Materialovedeniya, No. 3: 62 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Г. Белов, О. Ю. Ефимов, Л. М. Полторацкий, В. Я. Чинокалов, В. Е. Громов, Известия высших учебных заведений. Черная металлургия, № 12: 18 (2009).",
+				"tr":  "E. G. Belov, O. Yu. Efimov, L. M. Poltoratskiy, V. Ya. Chinokalov, and V. E. Gromov, Izvestiya VUZov. Chernaya Metallurgiya, No. 12: 18 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Г. Белов, Л. М. Полторацкий, О. Ю. Ефимов, С. В. Коновалов, В. Е. Громов, Известия ВУЗов. Черная металлургия, № 2: 33 (2010).",
+				"tr":  "E. G. Belov, L. M. Poltoratskiy, O. Yu. Efimov, S. V. Konovalov, and V. E. Gromov, Izvestiya VUZov. Chernaya Metallurgiya, No. 2: 33 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Хирш, А. Хови, Р. Николсон, Д. Пэшли, М. Уэлан, Электронная микроскопия тонких кристаллов (Москва: Мир: 1968) (пер. с англ.).",
+				"tr":  "P. B. Hirsch, A. Howie, R. B. Nicholson, D. W. Pashley, and M. J. Whelan, Elektronnaya Mikroskopiya Tonkih Kristallov [Electron Microscopy of Thin Crystals] (Moscow: Mir: 1968) (Russian translation)."
+			},
+			{
+				"doi": "10.1002/9780470727133",
+				"or":  "Д. Брандон, У. Каплан, Микроструктура материалов. Методы исследования и контроля (Москва: Техносфера: 2004) (пер. сангл.).",
+				"tr":  "D. Brandon and W. D. Kaplan, Microstructural Characterization of Materials. 2nd edition (Chichester, England: John Wiley & Sons Ltd.: 2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. М. Утевский, Дифракционная электронная микроскопия в металловедении (Москва: Металлургия: 1973).",
+				"tr":  "L. M. Utevskiy, Difraktsionnaya Elektronnaya Mikroskopiya v Metallove-denii [Diffraction Electron Microscopy in Metallurgical Science] (Moscow: Metallurgiya: 1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Томас, М. Дж. Гориндж, Просвечивающая электронная микроскопия материалов (Москва: Наука: 1983) (пер. с англ.).",
+				"tr":  "G. Tomas and M. J. Goringe, Transmission Electron Microscopy of Metals (New York: Wiley: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Петров, Дефекты и бездиффузионное превращение в стали (Киев: Наукова думка: 1978).",
+				"tr":  "Yu. N. Petrov, Defekty i Bezdiffuzionnoe Prevrashchenie v Stali [Defects and Diffusionless Transformation in Steel] (Kiev: Naukova Dumka: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Счастливцев, Д. А. Мирзаев, И. Л. Яковлева, Структура термически обработанной стали (Москва: Металлургия: 1994).",
+				"tr":  "V. M. Schastlivtsev, D. A. Mirzaev, and I. L. Yakovleva, Struktura Ter-micheski Obrabotannoi Stali [The Structure of the Heat-Treated Steel] (Mos-cow: Metallurgiya: 1994) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ю. Калетин, В. М. Счастливцев, Н. Т. Карева, М. А. Смирнов, Физ. мет. металловед., 56, № 2: 366 (1983).",
+				"tr":  "A. Yu. Kaletin, V. M. Schastlivtsev, N. T. Kareva, and M. A. Smirnov, Fiz. Met. Metalloved., 56, No. 2: 366 (1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Конева, Э. В. Козлов, Известия ВУЗов. Физика, № 8: 3 (1982).",
+				"tr":  "N. A. Koneva and Eh. V. Kozlov, Izvestiya VUZov. Fizika, No. 8: 3 (1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Сб. трудов «Эволюция дислокационной структуры, упрочнение и разрушение сплавов» (Томск: ТГУ: 1992), с. 52.",
+				"tr":  "Yu. F. Ivanov, Sbornik Trudov 'Evolyutsiya Dislokatsionnoi Struktury, Uprochnenie i Razrushenie Splavov' [Collected Papers 'Evolution of Dislocation Structure, Hardening Alloys and Destruction'] (Tomsk: TGU: 1992), p. 52 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Конева, Э. В. Козлов, Вестник ТГАСУ, № 1: 21 (1999).",
+				"tr":  "N. A. Koneva and Eh. V. Kozlov, Vestnik TGASU, No. 1: 21 (1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Громов, Э. В. Козлов, В. И. Базайкин, В. Я. Целлермаер, Ю. Ф. Иванов, Физика и механика волочения и объемной штамповки (Москва: Недра: 1997).",
+				"tr":  "V. E. Gromov, Eh. V. Kozlov, V. I. Bazajkin, V. Ya. Cellermaer, and Yu. F. Ivanov, Fizika i Mehanika Volocheniya i Obyemnoi Shtampovki [Physics and Mechanics of Drawing and Forging] (Moscow: Nedra: 1997) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Тушинский, А. А. Батаев, Л. Б. Тихомирова, Структура перлита и конструктивная прочность стали (Новосибирск: Наука: 1993).",
+				"tr":  "L. I. Tushinskiy, A. A. Bataev, and L. B. Tikhomirova, Struktura Perlita i Konstruktivnaya Prochnost' Stali [Pearlite Structure and Structural Hardness of Steel] (Novosibirsk: VO Nauka: 1993) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Э. В. Козлов, Известия ВУЗов. Черная металлургия, № 12: 38 (1990).",
+				"tr":  "Yu. F. Ivanov and Eh. V. Kozlov, Izvestiya VUZov. Chernaya Metallurgiya, No. 12: 38 (1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Э. В. Козлов, Известия ВУЗов. Физика, № 2: 39 (1993).",
+				"tr":  "Yu. F. Ivanov and Eh. V. Kozlov, Izvestiya VUZov. Fizika, No. 2: 39 (1993) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Известия ВУЗов. Физика, № 5: 74 (1993).",
+				"tr":  "Yu. F. Ivanov, Izvestiya VUZov. Fizika, No. 5: 74 (1993) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Э. В. Козлов, Известия ВУЗов. Черная металлургия, № 12: 26 (1994).",
+				"tr":  "Yu. F. Ivanov and Eh. V. Kozlov, Izvestiya VUZov. Chernaya Metallurgiya, No. 12: 26 (1994) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, В. Е. Громов, В. В. Целлермаер, Н. А. Попова, Э. В. Козлов, Известия ВУЗов. Черная металлургия, № 6: 31 (2001).",
+				"tr":  "Yu. F. Ivanov, V. E. Gromov, V. V. Tsellermaer, N. A. Popova, and Eh. V. Kozlov, Izvestiya VUZov. Chernaya Metallurgiya, No. 6: 31 (2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, А. Б. Юрьев, В. В. Коваленко, А. В. Плевков, В. Е. Громов, Э. В. Козлов, Известия академии наук. Серия физическая, 67, № 10: 1402 (2003).",
+				"tr":  "Yu. F. Ivanov, A. B. Yuryev, V. V. Kovalenko, A. V. Plevkov, V. E. Gromov, and Eh. V. Kozlov, Izvestiya Akademii Nauk. Seriya Fizicheskaya, 67, No. 10: 1402 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Б. Юрьев, Ю. Ф. Иванов, В. Е. Громов, Э. В. Козлов, Известия ВУЗов. Черная металлургия, № 6: 34 (2004).",
+				"tr":  "A. B. Yuryev, Yu. F. Ivanov, V. E. Gromov, and Eh. V. Kozlov, Izvestiya VUZov. Chernaya Metallurgiya, No. 6: 34 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Коваленко, Ю. Ф. Иванов, А. Б. Юрьев, Э. В. Козлов, В. Е. Громов, Материаловедение, № 6 (99): 49 (2005).",
+				"tr":  "V. V. Kovalenko, Yu. F. Ivanov, A. B. Yuryev, Eh. V. Kozlov, and V. E. Gromov, Materialovedenie, No. 6 (99): 49 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Б. Юрьев, Ю. Ф. Иванов, М. М. Морозов, В. Е. Громов, Известия ВУЗов. Черная металлургия, № 6: 39 (2005).",
+				"tr":  "A. B. Yuryev, Yu. F. Ivanov, M. M. Morozov, and V. E. Gromov, Izvestiya VUZov. Chernaya Metallurgiya, No. 6: 39 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, И. Б. Целлермаер, В. П. Ротштейн, В. Е. Громов, Физическая мезомеханика, 9, № 5: 107 (2006).",
+				"tr":  "Yu. F. Ivanov, I. B. Tsellermaer, V. P. Rotshtein, and V. E. Gromov, Fizicheskaya Mezomekhanika, 9, No. 5: 107 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Ю. Ефимов, А. Б. Юрьев, Ю. Ф. Иванов, В. Е. Громов, Известия ВУЗов. Черная металлургия, № 2: 54 (2007).",
+				"tr":  "O. Yu. Efimov, A. B. Yuryev, Yu. F. Ivanov, and V. E. Gromov, Izvestiya VUZov. Chernaya Metallurgiya, No. 2: 54 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. F. Ivanov, V. E. Gromov, and S. V. Konovalov, Arabian Journal for Science and Engineering, 34, No. 2А: 219 (2009).",
+				"tr":  "Yu. F. Ivanov, V. E. Gromov, S. V. Konovalov, Arabian Journal for Science and Engineering, 34, No. 2A: 219 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Громов, Ю. Ф. Иванов, С. В. Коновалов, А. Б. Юрьев, О. Ю. Ефимов, Е. Г. Белов, В. Б. Костерев, В. Я. Чинокалов, Прочность и пластичность материалов при внешнем энергетическом воздействии (Новокузнецк: Издательство «Интер-Кузбасс»: 2010), с. 152.",
+				"tr":  "V. E. Gromov, Yu. F. Ivanov, S. V. Konovalov, A. B. Yuryev, O. Yu. Efimov, E. G. Belov, V. B. Kosterev, V. Ya. Chinokalov, Prochnost' i Plastichnost' Materialov pri Vneshnem Energeticheskom Vozdeistvii [Strength and Plasticity of Materials at an External Energy Exposure] (Novokuznetsk: Izd-vo 'Inter-Kuzbass': 2010), p. 152 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Белоус, В. Т. Черепин, М. А. Васильев, Превращения при отпуске стали (Москва: Металлургия: 1973).",
+				"tr":  "M. V. Belous, V. T. Cherepin, and M. A. Vasil'ev, Prevrashcheniya pri Ot-puske Stali [Transformations at Tempering Steel] (Moscow: Metallurgiya: 1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Speich and Р. R. Swann, J. Iron and Steel Inst., 203, No. 4: 480 (1965).",
+				"tr":  "G. Speich and R. R. Swann, J. Iron and Steel Inst., 203, No. 4: 480 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Изотов, А. Г. Козлова, Физика и механика материалов, 80, вып. 1: 97 (1995).",
+				"tr":  "V. I. Izotov and A. G. Kozlova, Fizika i Mekhanika Materialov, 80, No. 1: 97 (1995) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Изотов, Г. А. Филиппов, Физика и механика материалов, 87, вып. 4: 72 (1999).",
+				"tr":  "V. I. Izotov and G. A. Filippov, Fizika i Mekhanika Materialov, 87, No. 4: 72 (1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. R. Speich, Trans. Met. Soc. AIME, 245, No. 10: 2553 (1969).",
+				"tr":  "G. R. Speich, Trans. Met. Soc. AIME, 245, No. 10: 2553 (1969)."
+			},
+			{
+				"doi": "10.1007/BF02813252",
+				"or":  "D. Kalich and E. M. Roberts, Met. Trans., 2, No. 10: 2783 (1971).",
+				"tr":  "D. Kalich and E. M. Roberts, Met. Trans., 2, No. 10: 2783 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "E. J. Fasiska and H. Wagenblat, Trans. Met. Soc. AIME, 239, No. 11: 1818 (1967).",
+				"tr":  "E. J. Fasiska and H. Wagenblat, Trans. Met. Soc. AIME, 239, No. 11: 1818 (1967)."
+			},
+			{
+				"doi": "",
+				"or":  "N. Ridley, H. Stuart, and L. Zwell, Trans. Met. Soc. AIME, 246, No. 8: 1834 (1969).",
+				"tr":  "N. Ridley, H. Stuart, and L. Zwell, Trans. Met. Soc. AIME, 246, No. 8: 1834 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Веселов, Е. З. Спектор, Физика и механика материалов, 34, № 5: 895 (1972).",
+				"tr":  "S. I. Veselov and E. Z. Spektor, Fizika i Mekhanika Materialov, 34, No. 5: 895 (1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Белоус, Металлофизика: Респ. межвед. сб., № 32: 79 (1970).",
+				"tr":  "M. V. Belous, Metallofizika. Resp. Mezhved. Sbornik, No. 32: 79 (1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Белоус, Закономерности формирования карбидных и нитридных фаз при отпуске сплавов железа (Автореферат дис. … д-ра техн. наук) (Киев: 1972).",
+				"tr":  "M. V. Belous, Zakonomernosti Formirovaniya Karbidnykh i Nitridnykh Faz pri Otpuske Splavov Zheleza [Laws of Formation of Carbide and Nitride Phases on Tempering Iron Alloys] (Thesis of Disser. for Dr. Tech. Sci.) (Kiev: 1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Гриднев, В. Г. Гаврилюк, В. М. Надутов, Ю. А. Полушкин, Физика и механика материалов, 50, вып. 3: 582 (1980).",
+				"tr":  "V. N. Gridnev, V. G. Gavrilyuk, V. M. Nadutov, and Yu. A. Polushkin, Fizika i Mekhanika Materialov, 50, No. 3: 582 (1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Е. В. Корнет, Э. В. Козлов, В. Е. Громов, Закаленная конструкционная сталь: структура и механизмы упрочнения (Новокузнецк: Изд-во СибГИУ: 2010).",
+				"tr":  "Yu. F. Ivanov, E. V. Kornet, Eh. V. Kozlov, and V. E. Gromov, Zakalennaya Konstruktsionnaya Stal': Struktura i Mekhanizmy Uprochneniya [Hardened Constructional Steel: The Structure and Hardening Mechanisms] (Novokuznetsk: Izd-vo SibGIU: 2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, С. А. Фирстов, Ю. В. Мильман, Физические основы прочности тугоплавких металлов (Киев: Наукова думка: 1975).",
+				"tr":  "V. I. Trefilov, S. A. Firstov, and Yu. V. Mil'man, Fizicheskie Osnovy Prochnosti Tugoplavkikh Metallov [Physical Basis of the Strength of Refrac-tory Metals] (Kiev: Naukova Dumka: 1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Б. Хирш, Ф. Дж. Хэмпфри, Физика прочности и пластичности (Москва: Металлургия: 1972), с. 158.",
+				"tr":  "P. B. Hirsch and F. J. Humphreys, Fizika Prochnosti i Plastichnosti [Physics of Strength and Plasticity] (Moscow: Metallurgiya: 1972), p. 158 (Russian translation)."
+			},
+			{
+				"doi": "10.1080/14786436608244762",
+				"or":  "A. J. E. Foreman and M. I. Maki, Phil. Mag., 14, No. 9: 911 (1966).",
+				"tr":  "A. J. E. Foreman and M. I. Maki, Phil. Mag., 14, No. 9: 911 (1966)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Хаазен, Физическое металловедение (Москва: Мир: 1968), с. 248.",
+				"tr":  "P. Haazen, Fizicheskoe Metallovedenie [Physical Metallurgy] (Moscow: Mir: 1968), p. 248 (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Фляйшер, У. Хиббард, Структура и механические свойства металлов (Москва: Металлургия: 1967), c. 85.",
+				"tr":  "R. Fleischer and W. Hibbard, The Relation Between Structure and Mechanical Properties of Metals, (H.M.S.O.: London: 1963), vol. 1., p. 262."
+			},
+			{
+				"doi": "",
+				"or":  "М. И. Гольдштейн, Б. М. Фарбер, Дисперсионное упрочнение стали (Москва: Металлургия: 1979).",
+				"tr":  "M. I. Gol'dshtein and B. M. Farber, Dispersionnoe Uprochnenie Stali [Pre-cipitation-Hardening Steels] (Moscow: Metallurgiya: 1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. В. Козлов, Н. А. Попова, Ю. Ф. Иванов, Л. А. Теплякова, Известия ВУЗов. Физика, № 10: 13 (1992).",
+				"tr":  "Eh. V. Kozlov, N. A. Popova, Yu. F. Ivanov, and L. A. Teplyakova, Izves-tiya VUZov. Fizika, No. 10: 13 (1992) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. A. Norstrom, Scandinavian J. Met., 5, No. 4: 159 (1976).",
+				"tr":  "L. A. Norstrom, Scandinavian J. Met., 5, No. 4: 159 (1976)."
+			}
+		]
+	}
+}

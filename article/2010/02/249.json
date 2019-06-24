@@ -1,0 +1,210 @@
+{
+	"_id":    "UFM.11.02.249",
+	"year":   2010,
+	"volume": 11,
+	"issue":  2,
+	"pages":  [249,272],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["26.01.2010"],
+	"PACS":   "61.05.cp, 61.72.Ff, 61.72.Hh, 62.20.Hg, 62.40.+i, 81.40.Jj, 81.40.Lm",
+	"title":   {
+		"ua": "Фізика мікроплинности магнійових стопів з титаном",
+		"en": "Physics of Microyield of Magnesium Alloys with Titanium",
+		"ru": "Физическая микротекучесть магниевых сплавов с титаном"
+	},
+	"abstract": {
+		"ua": "Ефект зерномежового ковзання (ЗМК), що викликає знеміцнення, в ГЩУ $\\alpha$-Mg полікристалічній матриці магнійових стопів виникає за температур і напружень, які відповідають режимам експлуатації автомобільного транспорту. Більш того, розпад перенасиченого твердого розчину супроводжується появою нестабільної в умовах плазучости мікроструктури. Ці два основних ефекти в значній мірі знижують опір мікроплинності і корисну довготривалу міцність Mg—Al—Mn- і Mg—Al—Zn-систем магнійових стопів. За даними про внутрішнє тертя додавання Са пригнічує ЗМК, що сприяє зерномежовому зміцненню Mg—Al—Са-стопів. Втілення малих добавок Тi (0,1—0,2%) викликає значне твердорозчинне зміцнення через ефективне гальмування рухомих дислокацій Коттрелловими атмосферами з енергією зв’язку у 0,27 еВ. Ідея динамічного самозміцнення підтверджується також даними прецизійної Рентґенової дифрактометрії. Великий опір мікроплинності і корисна довготривала міцність нових експериментальних стопів системи Mg—Al—Са, Ті пояснюються зведенням до мінімуму ефектів повернення та знеміцнення за рахунок термічної стабілізації фазового складу і концентрації твердого розчину. Термічно активована дислокаційна релаксація, яку акомодовано дифузією конкурувальних леґувальних елементів (Al, Са, Тi), розглядається як домінантний (контрольований швидкістю) механізм мікроплинности. Його активація суттєво (на 150—200°С) підвищує жароміцність нових експериментальних стопів.",
+		"en": "Softening effect of grain-boundary sliding (GBS) in h.c.p. $\\alpha$-Mg polycrystals arises in the stress—temperature ranges of interest for automotive applications. Furthermore, decomposition of the oversaturated $\\alpha$-Mg solid solution is accompanied by apparition of a microstructure, which is unstable during a creep. These two main effects deteriorate most likely the microyield resistance and long-term strength of magnesium alloys of Mg—Al—Mn and Mg— Al—Zn systems. According to the data of internal-friction measurements, the introduction of Ca suppresses GBS that gives rise to the GB strengthening of the ternary Mg—Al—Ca system. An introduction of small additions of Ti (about 0.1—0.2%) causes significant solid-solution strengthening due to solute-atmosphere retardation of moving dislocations by the Cottrell mechanism with binding energy of about 0.27 eV. The idea of dynamical self-strengthening of $\\alpha$-Mg matrix during the creep is also supported by precise x-ray diffractometry. As deduced, observed high microyield resistance and excellent long-term strength of the magnesium alloys of Mg—Al—Ca system containing inexpensive additions of Ti are due to minimizing recovery and softening effects at elevated temperatures at the expense of thermal phase-composition and concentration stabilization of $\\alpha$-Mg solid solution. Thermally-activated dislocation relaxation accommodated by the diffusion of alloying elements (Al, Ca, Ti in their best combination) should be considered as dominant (rate-controlled) microyield mechanism, which provides creep strain rate of $10^{−9}—10^{−10}$ s$^{−1}$. Its activation increases essentially (by 150—200°C) the heat resistivity of new experimental alloys.",
+		"ru": "Размягчающий эффект зернограничного скольжения (ЗГС) в ГПУ $\\alpha$-Mg поликристаллической матрице магниевых сплавов возникает в области температур и напряжений, соответствующих режимам эксплуатации автомобильного транспорта. Более того, распад пересыщенного $\\alpha$-Mg твердого раствора сопровождается появлением нестабильной в условиях ползучести микроструктуры. Эти два основных эффекта в значительной степени снижают сопротивление микротекучести и полезную длительную прочность Mg—Al—Mn- и Mg—Al—Zn-систем магниевых сплавов. По данным о внутреннем трении введение Са подавляет ЗГС, способствуя зернограничному упрочнению Mg—Al—Са-сплавов. Введение малых добавок Ti (0,1-0,2%) вызывает значительное твердорастворное упрочнение из-за эффективного торможения подвижных дислокаций атмосферами Коттрелла с энергией связи 0,27 эВ. Идея динамического самоупрочнения подтверждается также данными прецизионной рентгеновской дифрактометрии. Высокое сопротивление микротекучести и полезная длительная прочность новых экспериментальных сплавов системы Mg—Al—Са, Ti объясняются минимизацией эффектов возврата и разупрочнения при повышенных температурах за счет термической стабилизации фазового состава и концентрации твердого раствора. Термически активированная дислокационная релаксация, аккомодированная диффузией конкурирующих легирующих элементов (Al, Са, Ti), рассматривается как доминирующий (контролируемый скоростью) механизм микротекучести. Его активация существенно (на 150-200°С) повышает жаропрочность новых экспериментальных сплавов."
+	},
+	"keywords": {
+		"ua": "мікроплинність, гальмування рухомих дислокацій, магнійовий стоп, титан, довготривала міцність",
+		"en": "microyielding, retardation of mobile dislocations, magnesium alloy, titanium, long-term strength",
+		"ru": "микротекучесть, торможение подвижных дислокаций, магниевый сплав, титан, длительная прочность"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Г. Ткаченко", "en": "V. G. Tkachenko", "ru": "В. Г. Ткаченко"},
+			"OID": [186]
+		},
+		{
+			"AID": {"ua": "К. Ч. Ким", "en": "K. H. Kim", "ru": "К. Ч. Ким"},
+			"OID": [459]
+		},
+		{
+			"AID": {"ua": "Б. Г. Мун", "en": "B. G. Moon", "ru": "Б. Г. Мун"},
+			"OID": [459]
+		},
+		{
+			"AID": {"ua": "О. І. Дехтяр", "en": "O. I. Dekhtyar", "ru": "А. И. Дехтяр"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. П. Карасевська", "en": "O. P. Karasevska", "ru": "О. П. Карасевская"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. С. Вовчок", "en": "O. S. Vovchok", "ru": "А. С. Вовчок"},
+			"OID": [186]
+		}
+	],
+	"cited_by": {
+		"count":  2,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.17.02.173",
+				"cit": "V. G. Tkachenko, <a href=\"https://doi.org/10.15407/ufm.17.02.173\">Usp. Fiz. Met. <b>17</b>, 173 (2016)</a>."
+			},
+			{
+				"doi": "10.15407/mfint.36.01.0001",
+				"cit": "I. M. Maksymchuk, V. G. Tkachenko, O. S. Vovchok, N. P. Medalovych <i>et al.</i>, <a href=\"https://doi.org/10.15407/mfint.36.01.0001\">Metallofiz. Noveishie Tekhnol. <b>36</b>, 1 (2016)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 28,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. Р. Регель, А. И. Слуцкий, Э. Б. Томашевский, Кинетическая природа прочности твердых тел (Москва: Наука: 1974).",
+				"tr":  "V. R. Regel', A. I. Slutskii, E. B. Tomashevskii, Kineticheskaya priroda prochnosti tverdykh tel (Moskva: Nauka: 1974)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Степанов, Основы практической прочности кристаллов (Москва: Наука: 1974).",
+				"tr":  "A. V. Stepanov, Osnovy prakticheskoi prochnosti kristallov (Moskva: Nauka: 1974)."
+			},
+			{
+				"doi": "",
+				"or":  "К. А. Осипов, Вопросы теории жаропрочности металлов (Москва: Изд-во АН СССР: 1960).",
+				"tr":  "K. A. Osipov, Voprosy teorii zharoprochnosti metallov (Moskva: Izd-vo AN SSSR: 1960)."
+			},
+			{
+				"doi": "",
+				"or":  "Ж.-П. Пуарье, Ползучесть кристаллов. Механизмы деформации металлов, керамики и минералов при высоких температурах (Москва: Мир: 1988); J.-P. Poirier, Creep of Crystals (Cambridge: University Press: 1987).",
+				"tr":  "Zh.-P. Puar'e, Polzuchest' kristallov. Mekhanizmy deformatsii metallov, keramiki i mineralov pri vysokikh temperaturakh (Moskva: Mir: 1988); J.-P. Poirier, Creep of Crystals (Cambridge: University Press: 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г.Ткаченко, И. Н. Максимчук, В. И.Трефилов, ДАН СССР, 320, № 3: 615 (1991).",
+				"tr":  "V. G.Tkachenko, I. N. Maksimchuk, V. I.Trefilov, DAN SSSR, 320, No. 3: 615 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г.Ткаченко, И. Н. Максимчук, В. И. Трефилов, ДАН СССР, 320, № 3: 873 (1991).",
+				"tr":  "V. G.Tkachenko, I. N. Maksimchuk, V. I. Trefilov, DAN SSSR, 320, No. 3: 873 (1991)."
+			},
+			{
+				"doi": "10.15407/ufm.10.01.103",
+				"or":  "В. Г. Ткаченко, Успехи физ. мет., 10, № 1: 103 (2009).",
+				"tr":  "V. G. Tkachenko, Usp. Fiz. Met., 10, No. 1: 103 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Я. Любов, Теория кристаллизации в больших объемах (Москва: Наука: 1975).",
+				"tr":  "B. Ya. Lyubov, Teoriya kristallizatsii v bol'shikh ob\"emakh (Moskva: Nauka: 1975)."
+			},
+			{
+				"doi": "10.1098/rspa.1953.0167",
+				"or":  "N. F. Mott, Proc. Roy. Soc. A, 220: 1 (1953).",
+				"tr":  "N. F. Mott, Proc. Roy. Soc. A, 220: 1 (1953)."
+			},
+			{
+				"doi": "",
+				"or":  "К. А. Осипов, Исследования по жаропрочным сплавам (Москва: Изд-во АН СССР: 1956).",
+				"tr":  "K. A. Osipov, Issledovaniya po zharoprochnym splavam (Moskva: Izd-vo AN SSSR: 1956)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Das and E. J. Mittemeijer, Metallurg. and Mater. Trans. А, 31: 2049 (2000).",
+				"tr":  "A. Das and E. J. Mittemeijer, Metallurg. and Mater. Trans. A, 31: 2049 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Taylor, X-Ray Metallography (New York: John Wiley and Sons. Inc.: 1961).",
+				"tr":  "A. Taylor, X-Ray Metallography (New York: John Wiley and Sons. Inc.: 1961)."
+			},
+			{
+				"doi": "10.1007/978-3-642-74291-0",
+				"or":  "M. A. Krivoglaz, X-Ray and Neutron Diffraction in Nonideal Crystals (Berlin–Heidelberg: Springer-Verlag: 1996).",
+				"tr":  "M. A. Krivoglaz, X-Ray and Neutron Diffraction in Nonideal Crystals (Berlin–Heidelberg: Springer-Verlag: 1996)."
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Tkachenko, I. N. Maksimchuk, P. Yu. Volosevich et al., High Temperature Materials and Processes, 25, No. 1–2: 97 (2006).",
+				"tr":  "V. G. Tkachenko, I. N. Maksimchuk, P. Yu. Volosevich et al., High Temperature Materials and Processes, 25, No. 1–2: 97 (2006)."
+			},
+			{
+				"doi": "10.1007/978-94-010-0600-2_9",
+				"or":  "V. G. Tkachenko, I. I. Shuljak, A. M. Strutinsky et al., Hydrogen Materials Science and Chemistry of Metal Hydrides (Eds. N. Veziroglu et al.) (Dordrecht, Netherlands: Kluwer Academic Publ.: 2002), p. 77.",
+				"tr":  "V. G. Tkachenko, I. I. Shuljak, A. M. Strutinsky et al., Hydrogen Materials Science and Chemistry of Metal Hydrides (Eds. N. Veziroglu et al.) (Dordrecht, Netherlands: Kluwer Academic Publ.: 2002), p. 77."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Криштал, С. А. Головин, Внутреннее трение и структура металлов (Москва: Металлургия: 1976).",
+				"tr":  "M. A. Krishtal, S. A. Golovin, Vnutrennee trenie i struktura metallov (Moskva: Metallurgiya: 1976)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Я. Пинес, А. А. Кармазин, ФММ, 22, вып. 4: 532 (1966).",
+				"tr":  "B. Ya. Pines, A. A. Karmazin, Fiz. Met. Metalloved., 22, No. 4: 532 (1966)."
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Tkachenko, V. G. Khoruzhya, K. A. Meleshevich et al., Powder Metallurgy and Metal Ceramics, 42, No. 5–6: 268 (2003).",
+				"tr":  "V. G. Tkachenko, V. G. Khoruzhya, K. A. Meleshevich et al., Powder Metallurgy and Metal Ceramics, 42, No. 5–6: 268 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Кэ Тин Суй, Упругость и неупругость металлов (Москва: Иностр. лит.: 1954), с. 9.",
+				"tr":  "Ke Tin Sui, Uprugost' i neuprugost' metallov (Moskva: Inostr. lit.: 1954), s. 9."
+			},
+			{
+				"doi": "10.1016/0022-3115(70)90097-8",
+				"or":  "J. Deleplace, J. C. Nicond, and L. Trabut, J. Nucl. Mater., 35, No. 2: 167 (1970).",
+				"tr":  "J. Deleplace, J. C. Nicond, and L. Trabut, J. Nucl. Mater., 35, No. 2: 167 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "К. А. Осипов, Вопросы теории жаропрочности металлов и сплавов (Москва: Изд-во АН СССР: 1960).",
+				"tr":  "K. A. Osipov, Voprosy teorii zharoprochnosti metallov i splavov (Moskva: Izd-vo AN SSSR: 1960)."
+			},
+			{
+				"doi": "",
+				"or":  "R. G. Davies and R. C. Ku, Trans. Met. Soc. AIME, 236, No. 7: 1691 (1966).",
+				"tr":  "R. G. Davies and R. C. Ku, Trans. Met. Soc. AIME, 236, No. 7: 1691 (1966)."
+			},
+			{
+				"doi": "10.1016/0921-5093(93)90447-M",
+				"or":  "H. A. Calderon and G. Kostorz, Mater. Sci. Eng. A, 160, No. 2: 189 (1993).",
+				"tr":  "H. A. Calderon and G. Kostorz, Mater. Sci. Eng. A, 160, No. 2: 189 (1993)."
+			},
+			{
+				"doi": "10.1007/BF02868999",
+				"or":  "J. L. Murray, Bull. Alloy Phase Diagrams, 7, No. 3: 1554 (1986).",
+				"tr":  "J. L. Murray, Bull. Alloy Phase Diagrams, 7, No. 3: 1554 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "M. O. Pekguleryuz and A. A. Kaya, Proc. of the 6th Int. Conf. ‘Magnesium Alloys and Their Applications’ (Nov. 18–20, 2003) (Ed. K. U. Kainer) (Weinheim: Wiley–VCH: 2004), p. 74.",
+				"tr":  "M. O. Pekguleryuz and A. A. Kaya, Proc. of the 6th Int. Conf. 'Magnesium Alloys and Their Applications' (Nov. 18–20, 2003) (Ed. K. U. Kainer) (Weinheim: Wiley–VCH: 2004), p. 74."
+			},
+			{
+				"doi": "",
+				"or":  "Ж. Фридель, Дислокации (Москва: Мир: 1967).",
+				"tr":  "Zh. Fridel', Dislokatsii (Moskva: Mir: 1967)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Гарофало, Законы ползучести и длительной прочности металлов (Москва: Металлургия: 1968).",
+				"tr":  "F. Garofalo, Zakony polzuchesti i dlitel'noi prochnosti metallov (Moskva: Metallurgiya: 1968)."
+			},
+			{
+				"doi": "",
+				"or":  "F. Garofalo, Trans. AIME, 230: 1400 (1964).",
+				"tr":  "F. Garofalo, Trans. AIME, 230: 1400 (1964)."
+			}
+		]
+	}
+}

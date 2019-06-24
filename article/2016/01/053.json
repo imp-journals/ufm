@@ -1,0 +1,192 @@
+{
+	"_id":    "UFM.17.01.053",
+	"year":   2016,
+	"volume": 17,
+	"issue":  1,
+	"pages":  [53,81],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["22.09.2015"],
+	"PACS":   "05.20.Gg, 05.30.Ch, 05.30.Fk, 51.60.+a, 71.10.Ca, 71.70.Di, 75.20.-g",
+	"title":   {
+		"ua": "Нова теорія електронного газу в магнетному полі та задачі для теорії й експерименту",
+		"en": "The New Theory of Electron Gas in a Magnetic Field and Tasks for Theory and Experiment",
+		"ru": "Новая теория электронного газа в магнитном поле и задачи для теории и эксперимента"
+	},
+	"abstract": {
+		"ua": "Показано, що загальноприйнята теорія електронного газу металу в магнетному полі призводить до деяких протиріч, як у теорії, так і у співставленні з результатами експерименту. Пропоноване пояснення, чому магнетний момент газу дорівнює нулю в класичній теорії і в квантовій теорії при заміні сумування інтеґруванням, при тому що рух по орбіті класичної частинки або заповнений квантовий стан мають середній від’ємний магнетний момент, непереконливе. Формула Ландау для діямагнетної сприйнятливости не задовольняє принциповим вимогам і не узгоджується з експериментом. Енергетичний спектр 2D-електрона в магнетному полі у теорії Ландау — це еквідистантні піки з однаковою кратністю виродження (рівні Ландау). Такий спектер суперечить математичним теоремам про власні значення Шрединґерового рівняння з нульовою крайовою умовою. У загальноприйнятій теорії самоузгоджено припускають, що електронний газ однорідно заповнює увесь об’єм металу і разом з однорідно зарядженою ґратницею в середньому не створює електричне поле. Відомо, що магнетне поле протидіє однорідному розподілу газу у площині, яка перпендикулярна полю. Нова теорія, огляд принципів і одержаних наразі результатів, яких викладено у даній статті, позбавлені цих протиріч. Теорія виходить із обґрунтування статистичної механіки, запропонованого О. Я. Хінчиним. У розглядуваному випадку це приводить до вимоги, щоб простір можливих станів системи було визначено не тільки за власним значенням енергії, а й за власним значенням кутового імпульсу відносно осі, паралельної магнетному полю. Одним із доданків у Гамільтоніяні електронного газу є енергія взаємодії повного кутового імпульсу з магнетним полем. Цей доданок комутує з Гамільтоніяном. Якщо газ не обертається, його власне значення має дорівнювати нулю; тому його можна не брати до уваги. Тоді Гамільтоніян газу буде ідентичним Гамільтоніяну газу взаємодійних електронів у потенціяльному полі. Цю задачу розглянуто методою функціоналу густини. Гамільтоніян, що визначає статистичний оператор, описує газ невзаємодійних квазичастинок у залишковому потенціяльному полі. Також показано, що рівні Ландау є наслідком математичної помилки.",
+		"en": "As shown, the conventional theory for an electron gas of metal in a magnetic field (based on Landau’s work) leads to some contradictions in both the theory and the comparison to experiments. The contradictions, which cannot be eliminated in the Landau theory, are considered. The magnetic moment of gas equals to zero in the conventional theory just as in a classical statistical mechanics as well as in a quantum statistical mechanics, when the summation over the occupied states is replaced by the integration. However, a classical charged particle in a magnetic field moves in its circular orbit and creates the diamagnetic moment. In the quantum theory, an eigenstate of particle in a magnetic field has always the average diamagnetic moment. The sum of equally directed magnetic moments cannot be equal to zero. The amendment to replacing summation by integration is taken into account in the Landau theory. Then, the magnetic moment is proved proportional to the volume, and the specific magnetic susceptibility of an electron gas is obtained. The Schrödinger equation of a system in a magnetic field has the complex coefficients. Therefore, an eigenstate has the nonzero field of average current density, all lines of which are closed in the considered area. The sum of these fields over all occupied states generates a non-uniform magnetization. Therefore, the specific magnetic susceptibility is meaningless. The energy spectrum of 2D-electron in a magnetic field in the Landau theory is equidistant peaks (Landau levels). The degeneracy multiplicities of these peaks are equal in magnitude. This spectrum is in contradiction with the mathematical theorems about the eigenvalues of Schrödinger equation with zero boundary condition. In the conventional theory, the homogeneous filling of whole area by the electron gas in a magnetic field is assumed. A crystal lattice, which is charged positively, is replaced by homogeneous background. Only under these assumptions, the average electric field that exerts on an electron is zero. However, as known, a magnetic field hinders homogeneously spreading of the electron gas in the plane perpendicular to it. These contradictions are eliminated in the new theory. The review of its principles and results obtained so far is presented in this paper. A. Ya. Khinchin has suggested the radically new method of theoretical justification of statistical mechanics. In the case under study, it requires that the space of system feasible states has to be defined not only by the energy eigenvalue, but also by the eigenvalue of angular momentum relative to axis that is parallel to the magnetic field. The Hamiltonian of electron gas in magnetic field contains energy of interaction between the total angular momentum and the magnetic field. This term is commutative with Hamiltonian gas, and its eigenvalue has to be equal to zero. Therefore, it can be eliminated. Then, the gas Hamiltonian will be identical with those of gas of interacting electrons in potential field. This problem is considered by means of the density functional method. As shown, the Landau levels are a result of mathematical mistake.",
+		"ru": "Показано, что общепринятая теория электронного газа металла в магнитном поле приводит к ряду противоречий, как в теории, так и в сопоставлении с результатами эксперимента. Предлагаемое объяснение, почему магнитный момент газа равен нулю в классической теории и в квантовой теории при замене суммирования интегрированием, хотя движение по орбите классической частицы или заполненное квантовое состояние обладают средним отрицательным магнитным моментом, неубедительно. Формула Ландау для диамагнитной восприимчивости не удовлетворяет принципиальным требованиям и не согласуется с экспериментом. Энергетический спектр 2D-электрона в магнитном поле в теории Ландау — это эквидистантные пики с одинаковой кратностью вырождения (уровни Ландау). Такой спектр противоречит математическим теоремам о собственных значениях уравнения Шрёдингера с нулевым граничным условием. В общепринятой теории самосогласованно предполагают, что электронный газ однородно заполняет весь объём металла и вместе с однородно заряженной решёткой в среднем не создаёт электрического поля. Известно, что магнитное поле препятствует однородному распределению газа в плоскости, перпендикулярной полю. Эти противоречия устранены в новой теории, обзор принципов и полученных в настоящее время результатов которой изложен в данной статье. Теория исходит из обоснования статистической механики, предложенного А. Я. Хинчиным. В рассматриваемом случае это приводит к требованию, чтобы пространство осуществимых состояний системы было определено не только собственным значением энергии, но также собственным значением углового импульса относительно оси, параллельной магнитному полю. Гамильтониан электронного газа содержит энергию взаимодействия полного углового импульса с магнитным полем. Соответствующее слагаемое коммутирует с гамильтонианом. Если газ не вращается, его собственное значение должно быть равно нулю; поэтому его можно опустить. Тогда гамильтониан газа будет идентичен гамильтониану газа взаимодействующих электронов в потенциальном поле. Эта задача рассмотрена методом функционала плотности. Гамильтониан, определяющий статистический оператор, описывает газ невзаимодействующих квазичастиц в остаточном потенциальном поле. Показано также, что уровни Ландау — следствие математической ошибки."
+	},
+	"keywords": {
+		"ua": "електронний газ, магнетне поле, кутовий імпульс, статистичний оператор, магнетний момент, густина газу, густина станів",
+		"en": "electron gas, magnetic field, angular momentum, statistical operator, magnetic moment, density of gas, density of states",
+		"ru": "электронный газ, магнитное поле, угловой импульс, статистический оператор, магнитный момент, плотность газа, плотность состояний"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. М. Дубровський", "en": "I. M. Dubrovskyi", "ru": "И. М. Дубровский"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 31,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "N. Bohr, Nature (London), 88: 200 (1911).",
+				"tr":  "N. Bohr, Nature (London), 88: 200 (1911)."
+			},
+			{
+				"doi": "",
+				"or":  "J. H. van Leeuwen, J. de Phys., 2: 361 (1921).",
+				"tr":  "J. H. van Leeuwen, J. de Phys., 2: 361 (1921)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Zs. Phys., 64: 629 (1930).",
+				"tr":  "L. D. Landau, Zs. Phys., 64: 629 (1930)."
+			},
+			{
+				"doi": "",
+				"or":  "W. J. de Haas and P. M. van Alphen, Proc. Netherlands Roy. Acad. Sci., 33: 680 (1930); ibid., 33: 1106 (1930); ibid., 35: 454 (1932).",
+				"tr":  "W. J. de Haas and P. M. van Alphen, Proc. Netherlands Roy. Acad. Sci., 33: 680 (1930); ibid., 33: 1106 (1930); ibid., 35: 454 (1932)."
+			},
+			{
+				"doi": "10.1098/rspa.1939.0036",
+				"or":  "D. Shoenberg, Proc. Roy. Soc. A, 170: 341 (1939).",
+				"tr":  "D. Shoenberg, Proc. Roy. Soc. A, 170: 341 (1939)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. И. Веркин, Б. Г. Лазарев, Н. С. Руденко, ЖЭТФ, 20: 995 (1950).",
+				"tr":  "B. I. Verkin, B. G. Lazarev, and N. S. Rudenko, Zh. Eksp. Teor. Fiz., 20: 995 (1950) (in Russian)."
+			},
+			{
+				"doi": "10.1017/CBO9780511897870",
+				"or":  "D. Shoenberg, Magnetic Oscillations in Metals (Cambridge: Cambridge University Press: 1984).",
+				"tr":  "D. Shoenberg, Magnetic Oscillations in Metals (Cambridge: Cambridge University Press: 1984)."
+			},
+			{
+				"doi": "10.1007/BF01338364",
+				"or":  "R. Peierls, Zs. Phys., 80: 763 (1933); idem., Zs. Phys., 81: 186 (1933).",
+				"tr":  "R. Peierls, Zs. Phys., 80: 763 (1933); idem., Zs. Phys., 81: 186 (1933)."
+			},
+			{
+				"doi": "10.1080/14786440908521019",
+				"or":  "L. Onsager, Phil. Mag., 43: 1006 (1952).",
+				"tr":  "L. Onsager, Phil. Mag., 43: 1006 (1952)."
+			},
+			{
+				"doi": "",
+				"or":  "И. М. Лифшиц, М. Я. Азбель, М. И. Каганов, Электронная теория металлов (Москва: Наука: 1971).",
+				"tr":  "I. M. Lifshitz, M. Ya. Azbel', and M. I. Kaganov, Elektronnaya Teoriya Metallov [Electronic Theory of Metals] (Moscow: Nauka: 1971) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "J. H. van Vleck, Theory of Electric and Magnetic Susceptibilities (Oxford: Oxford University Press: 1965).",
+				"tr":  "J. H. van Vleck, Theory of Electric and Magnetic Susceptibilities (Oxford: Oxford University Press: 1965)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Теоретическая физика. Т. 3. Квантовая механика (Москва: ГИЗ физ.-мат. литературы: 1963).",
+				"tr":  "L. D. Landau and E. M. Lifshitz, Teoreticheskaya Fizika. Vol. 3. Kvantovaya Mekhanika [Theoretical Physics. Vol. 3. Quantum Mechanics] (Moscow: GIZ Fiz.-Mat. Literatury: 1963) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Теоретическая физика. Т. 5. Статистическая физика (Москва: Наука: 1976).",
+				"tr":  "L. D. Landau and E. M. Lifshitz, Teoreticheskaya Fizika. Vol. 5. Statisticheskaya Fizika [Theoretical Physics. Vol. 5. Statistical Physics] (Moscow: Nauka: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Абрикосов, Основы теории металлов (Москва: Наука: 1987).",
+				"tr":  "A. A. Abrikosov, Osnovy Teorii Metallov [Fundamentals of the Theory of Metals] (Moscow: Nauka: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Пайерлс, Квантовая теория твёрдых тел (Москва: ИЛ: 1956).",
+				"tr":  "R. Peierls, Kvantovaya Teoriya Tverdykh Tel [Quantum Theory of Solids] (Moscow: IL: 1956) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Теоретическая физика. Т. 2. Теория поля (Москва: ГИЗ физ.-мат. литературы: 1960).",
+				"tr":  "L. D. Landau and E. M. Lifshitz, Teoreticheskaya Fizika. Vol. 2. Teoriya Polya [Theoretical Physics. Vol. 2. Field Theory] (Moscow: GIZ Fiz.-Mat. Literatury: 1960) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRev.76.828",
+				"or":  "M. H. Johnson and B. A. Lippmann, Phys. Rev., 76: 828 (1949).",
+				"tr":  "M. H. Johnson and B. A. Lippmann, Phys. Rev., 76: 828 (1949)."
+			},
+			{
+				"doi": "10.5488/CMP.9.4.645",
+				"or":  "I. M. Dubrovskii, Cond. Matt. Phys., 9: 645 (2006).",
+				"tr":  "I. M. Dubrovskii, Cond. Matt. Phys., 9: 645 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "И. М. Дубровский, Теория электронных явлений в деформированных кристаллах (Киев: РИО ИМФ: 1999).",
+				"tr":  "I. M. Dubrovskii, Teoriya Elektronnykh Yavleniy v Deformirovannykh Kristallakh [Theory of Electronic Phenomena in Strained Crystals] (Kiev: RIO IMF: 1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Гутников, Э. П. Фельдман, ЖЭТФ, 63: 1054 (1972).",
+				"tr":  "A. I. Gutnikov and E. P. Feldman, Zh. Eksp. Teor. Fiz., 63: 1054 (1972) (in Russian)."
+			},
+			{
+				"doi": "10.5488/CMP.16.13001",
+				"or":  "I. M. Dubrovskyi, Cond. Matt. Phys., 16: 1 (2013).",
+				"tr":  "I. M. Dubrovskyi, Cond. Matt. Phys., 16: 1 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Courant and D. Hilbert, Methods of Mathematical Physics. Vol. 1 (New York: Interscience: 1953).",
+				"tr":  "R. Courant and D. Hilbert, Methods of Mathematical Physics. Vol. 1 (New York: Interscience: 1953)."
+			},
+			{
+				"doi": "",
+				"or":  "I. Dubrovskyi, J. Phys. Sci. Appl., 4: 328 (2014).",
+				"tr":  "I. Dubrovskyi, J. Phys. Sci. Appl., 4: 328 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "Таблицы физических величин (Ред. И. К. Кикоин) (Москва: Атомиздат: 1976).",
+				"tr":  "Tablitsy Fizicheskikh Velichin [Tables of Physical Quantities] (Ed. I. K. Kikoin) (Moscow: Atomizdat: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Теоретическая физика. Т. 7. Электродинамика сплошных сред (Москва: ГИТТЛ: 1957).",
+				"tr":  "L. D. Landau and E. M. Lifshitz, Teoreticheskaya Fizika. Vol. 7. Elektrodinamika Sploshnykh Sred [Theoretical Physics. Vol. 7. Electrodynamics of Continuous Media] (Moscow: GITTL: 1957) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Я. Хинчин, Математические принципы статистической механики (Москва–Ленинград: ГИТТЛ: 1943).",
+				"tr":  "A. Ya. Khinchin, Matematicheskie Printsipy Statisticheskoy Mekhaniki [Mathematical Principles of Statistical Mechanics] (Moscow–Leningrad: GITTL: 1943) (in Russian)."
+			},
+			{
+				"doi": "10.5488/CMP.11.4.585",
+				"or":  "I. M. Dubrovskii, Cond. Matt. Phys., 11: 585 (2008).",
+				"tr":  "I. M. Dubrovskii, Cond. Matt. Phys., 11: 585 (2008)."
+			},
+			{
+				"doi": "10.5772/19645",
+				"or":  "I. Dubrovskyi, Thermodynamics–Interaction Studies—Solids, Liquids and Gases (Ed. Juan Carlos Moreno-Pirajan), Сh. 17: 445–468 (ISBN: 978-953-307-563-1: InTech: 2011); http://dx.doi.org/10.5772/19645.",
+				"tr":  "I. Dubrovskyi, Thermodynamics–Interaction Studies—Solids, Liquids and Gases (Ed. Juan Carlos Moreno-Pirajan), Sh. 17: 445–468 (ISBN: 978-953-307-563-1: InTech: 2011); http://dx.doi.org/10.5772/19645."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Н. Зубарев, Неравновесная статистическая термодинамика (Москва: Наука: 1971).",
+				"tr":  "D. N. Zubarev, Neravnovesnaya Statisticheskaya Termodinamika [Nonequilibrium Statistical Thermodynamics] (Moscow: Nauka: 1971) (in Russian)."
+			},
+			{
+				"doi": "10.1007/978-1-4899-0415-7",
+				"or":  "Theory of the Inhomogeneous Electron Gas (Eds. S. Lundqvist and N. H. March) (New York–London: Plenum Press: 1983).",
+				"tr":  "Theory of the Inhomogeneous Electron Gas (Eds. S. Lundqvist and N. H. March) (New York–London: Plenum Press: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Erdélyi, Higher Transcendental Functions, Based, in Part, on Notes Left by Harry Bateman. Vol. 1 (New York–Toronto–London: McGraw-Hill Book Company INC: 1953).",
+				"tr":  "A. Erdélyi, Higher Transcendental Functions, Based, in Part, on Notes Left by Harry Bateman. Vol. 1 (New York–Toronto–London: McGraw-Hill Book Company INC: 1953)."
+			}
+		]
+	}
+}

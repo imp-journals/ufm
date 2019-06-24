@@ -1,0 +1,336 @@
+{
+	"_id":    "UFM.11.01.019",
+	"year":   2010,
+	"volume": 11,
+	"issue":  1,
+	"pages":  [19,59],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["10.06.2008","03.02.2010"],
+	"PACS":   "05.70.Ln, 61.72.jd, 61.72.Qq, 62.20.fg, 62.20.mj, 64.70.kd, 81.30.Kf",
+	"title":   {
+		"ua": "Фазові перетворення і крихкість системи «залізо–вакансії» у полях пружніх напружень",
+		"en": "Phase Transformations and Brittleness of ‘Iron–Vacancy’ System in Fields of Elastic Stresses",
+		"ru": "Фазовые превращения и хрупкость системы «железо-вакансии» в полях упругих напряжений"
+	},
+	"abstract": {
+		"ua": "Роль пружніх напружень у формуванні структурно-фазових станів у системах «залізо—вакансії» та «залізо—вакансії—вуглець» досліджено теоретично. Побудовано петлю гістерези, яка описує процес $\\gamma \\leftrightarrows \\alpha$-перетворень у полі пружніх напружень. Поле нормовано як «температурно-силове», кожна точка якого відповідає певному пружньо-напруженому стану й конкретному фазовому складу стопу. Силові умови нерівноважних мартенситних $\\gamma \\leftrightarrows \\alpha$-перетворень визначаються вектором, який з’єднує будь-які точки, що лежать на протилежних гілках петлі гістерези. Запропоновано новий підхід до визначення температури крихко-в’язкого переходу ОЦК-металів і умов прояву надпластичности. Модель може бути використаний для прогнозування працездатности матеріялів у складних «температурно-силових» полях, включаючи реакторне опромінення.",
+		"en": "The role of elastic stresses in the structure—phase states formation in the ‘iron—vacancy’ and ‘iron—vacancy—carbon’ systems is investigated theoretically. The hysteresis loop describing $\\gamma \\leftrightarrows \\alpha$-transformations in a field of elastic stresses is plotted. The field is normalized as ‘temperature—stress’ one. Its each point corresponds to both the certain elastically stressed state and the concrete phase composition of an alloy. Force conditions of nonequilibrium martensitic $\\gamma \\leftrightarrows \\alpha$-transformations are defined by a vector, which connects any two points lying on opposite branches of the loop. The new approach to definitions of the brittle—ductile-transition temperature for the b.c.c. metals and conditions of superplasticity is proposed. The model can be used for the description of phase transformations and forecasting of serviceability of materials in complex ‘temperature—stress’ fields, including the reactor irradiation.",
+		"ru": "Роль упругих напряжений в формировании структурно-фазовых состояний в неравновесных системах «железо—вакансии» и «железо—вакансии—углерод» исследована теоретически. Построена петля гистерезиса, описывающая процесс $\\gamma \\leftrightarrows \\alpha$-превращений в поле упругих напряжений. Поле нормировано как «температурно-силовое», каждая точка которого отвечает определенному упруго напряженному состоянию и конкретному фазовому составу сплава. Силовые условия неравновесных мартенситных $\\gamma \\leftrightarrows \\alpha$-превращений в этом пространстве определяются вектором, соединяющим любые две точки, лежащие на противоположных ветвях петли гистерезиса. Предложен новый подход к определению температуры хрупко-вязкого перехода ОЦК-металлов и условий проявления сверхпластичности. Модель может быть использована для описания фазовых превращений и прогнозирования работоспособности материалов в сложных «температурно-силовых» полях, включая реакторное облучение."
+	},
+	"keywords": {
+		"ua": "пружньо-напружений стан, мартенситні перетворення, петля гістерези, фазовий склад, система «залізо—вакансії», крихко-в’язкий перехід",
+		"en": "elastically stressed state, martensite transformation, hysteresis loop, phase composition, ‘iron–vacancies’ system, brittle-tough transition",
+		"ru": "упруго напряженное состояние, мартенситные превращения, петля гистерезиса, фазовый состав, система «железо—вакансии», хрупко-вязкий переход"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. М. Лаптєв", "en": "I. M. Laptev", "ru": "И. Н. Лаптев"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "О. О. Пархоменко", "en": "O. O. Parkhomenko", "ru": "А. А. Пархоменко"},
+			"OID": [3]
+		}
+	],
+	"references": {
+		"count": 59,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. С. Крапошин, А. Д.Сильченко, Металловедение и термическая обработка, № 11: 23 (2008).",
+				"tr":  "V. S. Kraposhin, A. D.Sil'chenko, Metallovedenie i termicheskaya obrabotka, No. 11: 23 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Коваль, Успехи физ. мет., 6, № 2: 169 (2005).",
+				"tr":  "Yu. N. Koval', Uspehi Fiziki Metallov, 6, No. 2: 169 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Коваль, В. А. Лободюк, Успехи физ. мет., 7, № 2: 53 (2006).",
+				"tr":  "Yu. N. Koval', V. A. Lobodyuk, Uspehi Fiziki Metallov, 7, No. 2: 53 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Kochendorfer and G. Otto, Archiv für das Eisnhüttenwesen, 29: 12 (1958).",
+				"tr":  "A. Kochendorfer and G. Otto, Archiv für das Eisnhüttenwesen, 29: 12 (1958)."
+			},
+			{
+				"doi": "",
+				"or":  "E. С. Bain, Trans. Metall. Soc. AIME, 70: 25 (1924).",
+				"tr":  "E. S. Bain, Trans. Metall. Soc. AIME, 70: 25 (1924)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Петров, Дефекты и бездиффузионные превращения в стали (Киев: Наукова думка: 1978).",
+				"tr":  "Yu. N. Petrov, Defekty i bezdiffuzionnye prevrashcheniya v stali (Kiev: Naukova dumka: 1978)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Лысак, С. А. Артемюк, Физ. мет. металловед., 32, вып. 1: 73 (1971).",
+				"tr":  "L. I. Lysak, S. A. Artemyuk, Fiz. met. metalloved., 32, vyp. 1: 73 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Лысак, Б. И. Николин, Физические основы термической обработки стали (Киев: Техника: 1975).",
+				"tr":  "L. I. Lysak, B. I. Nikolin, Fizicheskie osnovy termicheskoi obrabotki stali (Kiev: Tekhnika: 1975)."
+			},
+			{
+				"doi": "10.1016/0001-6160(54)90102-9",
+				"or":  "J. S. Bowels and Z. K. Mackenzie, Acta Metall., 2: 129 (1954).",
+				"tr":  "J. S. Bowels and Z. K. Mackenzie, Acta Metall., 2: 129 (1954)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Л. Ройтбурд, Э. И. Эстрин, Металловедение и термическая обработка (Москва: ВИНИТИ: 1970).",
+				"tr":  "A. L. Roitburd, E. I. Estrin, Metallovedenie i termicheskaya obrabotka (Moskva: VINITI: 1970)."
+			},
+			{
+				"doi": "10.1016/0079-6425(84)90001-X",
+				"or":  "K. C. Russell, Progress in Materials Science, 28: 229 (1984).",
+				"tr":  "K. C. Russell, Progress in Materials Science, 28: 229 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "J. F. Stubbins, Proc. 13th Int. Symp. ‘Effects of Radiation on Materials’ (ASTM STP: 1987), vol. 955, p. 758.",
+				"tr":  "J. F. Stubbins, Proc. 13th Int. Symp. 'Effects of Radiation on Materials' (ASTM STP: 1987), vol. 955, p. 758."
+			},
+			{
+				"doi": "",
+				"or":  "W. Schule, Proc 19th Int. Symp. ‘Effects of Radiation on Materials’ (ASTM STP: 1992), vol. 1366, p. 894.",
+				"tr":  "W. Schule, Proc 19th Int. Symp. 'Effects of Radiation on Materials' (ASTM STP: 1992), vol. 1366, p. 894."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Ажажа, В. А. Десненко, Л. С. Ожигов, А. А. Пархоменко и др., Труды XVII Международной конференции по физике радиационных явлений и радиационному материаловедению (Харьков: ННЦ ХФТИ:2006), с. 84.",
+				"tr":  "V. M. Azhazha, V. A. Desnenko, L. S. Ozhigov, A. A. Parkhomenko et al., Trudy XVII Mezhdunarodnoi konferentsii po fizike radiatsionnykh yavlenii i radiatsionnomu materialovedeniyu (Khar'kov: NNTs KhFTI:2006), s. 84."
+			},
+			{
+				"doi": "",
+				"or":  "И. Н. Лаптев, А. А. Пархоменко, Вопросы атомной науки и техники. Сер. Физика радиационных повреждений и радиационное материаловедение, 82, № 4: 143 (2002).",
+				"tr":  "I. N. Laptev, A. A. Parkhomenko, Voprosy atomnoi nauki i tekhniki. Ser. Fizika radiatsionnykh povrezhdenii i radiatsionnoe materialovedenie, 82, No. 4: 143 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Н. Лаптев, А. А. Пархоменко, Вопросы атомной науки и техники. Сер. Физика радиационных повреждений и радиационное материаловедение, 85, № 3: 31 (2004).",
+				"tr":  "I. N. Laptev, A. A. Parkhomenko, Voprosy atomnoi nauki i tekhniki. Ser. Fizika radiatsionnykh povrezhdenii i radiatsionnoe materialovedenie, 85, No. 3: 31 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Смирнов, Укр. физ. ж., 37, № 8: 1188 (1992).",
+				"tr":  "A. A. Smirnov, Ukr. fiz. zh., 37, No. 8: 1188 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. М. Габидуллин, Б. А. Колачев, А. А. Колачев, Изв. ВУЗов. Цветная металлургия, № 4: 87 (1976).",
+				"tr":  "R. M. Gabidullin, B. A. Kolachev, A. A. Kolachev, Izv. VUZov. Tsvetnaya metallurgiya, No. 4: 87 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Т. Гладких, А. П. Кришталь, Изв. РАН. Металлы, № 6: 156 (1998).",
+				"tr":  "N. T. Gladkikh, A. P. Krishtal', Izv. RAN. Metally, No. 6: 156 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Кошкин, Ю. А. Фрейман, Л. В. Атрощенко, Физ. тверд. тела, 9, № 3: 121 (1967).",
+				"tr":  "V. M. Koshkin, Yu. A. Freiman, L. V. Atroshchenko, Fiz. tverd. tela, 9, No. 3: 121 (1967)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. П. Гуль, В. С. Чмелева, Металознавство та термічна обробка металів, № 1: 13 (2001).",
+				"tr":  "Yu. P. Gul', V. S. Chmeleva, Metaloznavstvo ta termichna obrobka metaliv, No. 1: 13 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Панин, Металловедение и термическая обработка металлов, № 7: 62 (2005).",
+				"tr":  "V. E. Panin, Metallovedenie i termicheskaya obrabotka metallov, No. 7: 62 (2005)."
+			},
+			{
+				"doi": "10.1017/CBO9780511622564",
+				"or":  "A. Zangwill, Physics of Surface (Cambridge: Cambridge University Press: 1988).",
+				"tr":  "A. Zangwill, Physics of Surface (Cambridge: Cambridge University Press: 1988)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Feder and T. S. Nowick, Phys. Rev., 109, No. 11: 1967 (1959).",
+				"tr":  "K. Feder and T. S. Nowick, Phys. Rev., 109, No. 11: 1967 (1959)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Гуляев, Металловедение (Москва: Оборонгиз: 1963).",
+				"tr":  "M. Gulyaev, Metallovedenie (Moskva: Oborongiz: 1963)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Чиркин, Теплофизические свойства материалов ядерной техники (Москва: Атомиздат: 1968).",
+				"tr":  "S. Chirkin, Teplofizicheskie svoistva materialov yadernoi tekhniki (Moskva: Atomizdat: 1968)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Ranghavan and A. R. Entwisle, Physical Properties of Martensite and Bainite. Special Report No. 93 (British Iron and Steel Inst.:1965), p. 29.",
+				"tr":  "V. Ranghavan and A. R. Entwisle, Physical Properties of Martensite and Bainite. Special Report No. 93 (British Iron and Steel Inst.:1965), p. 29."
+			},
+			{
+				"doi": "",
+				"or":  "О. П. Морозов, Д. А. Мирзаев, М. М. Штейберг, Физ. мет. металловед., 32, № 6: 1290 (1971).",
+				"tr":  "O. P. Morozov, D. A. Mirzaev, M. M. Shteiberg, Fiz. met. metalloved., 32, No. 6: 1290 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. Е. Гегузин, Докл. Акад. наук СССР, 106: 839 (1956).",
+				"tr":  "Ya. E. Geguzin, Dokl. Akad. nauk SSSR, 106: 839 (1956)."
+			},
+			{
+				"doi": "10.1016/0022-3115(77)90119-2",
+				"or":  "H. R. Brager, F. A. Garner, and G. L. Guthrie, J. Nuclear Materials, 66: 301 (1977).",
+				"tr":  "H. R. Brager, F. A. Garner, and G. L. Guthrie, J. Nuclear Materials, 66: 301 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. А. Беляева, И. В. Горынин, О. А. Кожевников, В. Д. Ярошевич, Физ. мет. металловед., 69, № 1: 189 (1990).",
+				"tr":  "L. A. Belyaeva, I. V. Gorynin, O. A. Kozhevnikov, V. D. Yaroshevich, Fiz. met. metalloved., 69, No. 1: 189 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ф. Андреев, И. М. Лифшиц, ЖЭТФ, 56: 2057 (1969).",
+				"tr":  "A. F. Andreev, I. M. Lifshits, ZhETF, 56: 2057 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Л. Инденбом, К физической теории внутренних напряжений (Ленинград: ЛГУ: 1964).",
+				"tr":  "V. L. Indenbom, K fizicheskoi teorii vnutrennikh napryazhenii (Leningrad: LGU: 1964)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Гиндин, И. М. Неклюдов, Физика программного упрочнения (Киев: Наукова думка: 1979).",
+				"tr":  "I. A. Gindin, I. M. Neklyudov, Fizika programmnogo uprochneniya (Kiev: Naukova dumka: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Зельдович, И. В. Хомская, Е. Ф. Грязнов, Физ. мет. металловед., 68, № 1: 151 (1990).",
+				"tr":  "V. I. Zel'dovich, I. V. Khomskaya, E. F. Gryaznov, Fiz. met. metalloved., 68, No. 1: 151 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Владимиров, Физическая теория прочности и пластичности (Ленинград: ЛПИ: 1975).",
+				"tr":  "V. I. Vladimirov, Fizicheskaya teoriya prochnosti i plastichnosti (Leningrad: LPI: 1975)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Иванова, С. В. Шанявский, Количественная фрактография (Москва: Металлургия: 1988).",
+				"tr":  "V. S. Ivanova, S. V. Shanyavskii, Kolichestvennaya fraktografiya (Moskva: Metallurgiya: 1988)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Рожанский, А. А. Предводителев, Докл. Акад. наук СССР, 158, № 4: 835 (1964).",
+				"tr":  "V. N. Rozhanskii, A. A. Predvoditelev, Dokl. Akad. nauk SSSR, 158, No. 4: 835 (1964)."
+			},
+			{
+				"doi": "10.1016/0001-6160(54)90166-2",
+				"or":  "J. N. Greenwood and D. R. Miller, Acta Metall., 2: 250 (1954).",
+				"tr":  "J. N. Greenwood and D. R. Miller, Acta Metall., 2: 250 (1954)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. М. Лахтин, Металловедение и термическая обработка металлов (Москва: Металлургия: 1976).",
+				"tr":  "Yu. M. Lakhtin, Metallovedenie i termicheskaya obrabotka metallov (Moskva: Metallurgiya: 1976)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Я. Мешков, Успехи физ. мет., 2: 7 (2001).",
+				"tr":  "Yu. Ya. Meshkov, Uspehi Fiziki Metallov, 2: 7 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Шаповалов, В. Ю. Карпов, Физ. мет. металловед., 55, № 4: 805 (1983).",
+				"tr":  "V. I. Shapovalov, V. Yu. Karpov, Fiz. met. metalloved., 55, No. 4: 805 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "В. К. Аксенов, А. В. Мат, Я. Д. Стародубов, Физика и техника высоких давлений, № 3: 94 (1994).",
+				"tr":  "V. K. Aksenov, A. V. Mat, Ya. D. Starodubov, Fizika i tekhnika vysokikh davlenii, No. 3: 94 (1994)."
+			},
+			{
+				"doi": "10.1016/0001-6160(66)90237-9",
+				"or":  "S. B. McRickard and J. G. Y. Chow, Acta Metall., 14: 1195 (1966).",
+				"tr":  "S. B. McRickard and J. G. Y. Chow, Acta Metall., 14: 1195 (1966)."
+			},
+			{
+				"doi": "10.1016/0502-8205(58)90005-4",
+				"or":  "Л. Кауфман, М. Коэн, Успехи физики металлов: Сб. трудов (Москва: Металлургиздат: 1961) (пер. с англ.); L. Kaufman and M. Cohen, Prog. Met. Phys., 7: 165 (1958).",
+				"tr":  "L. Kaufman and M. Cohen, Prog. Met. Phys., 7: 165 (1958)."
+			},
+			{
+				"doi": "10.1063/1.1659768",
+				"or":  "P. M. Giles, M. N. Longebach, and A. R. Marder, J. Appl. Phys., 42, No. 11: 4290 (1971).",
+				"tr":  "P. M. Giles, M. N. Longebach, and A. R. Marder, J. Appl. Phys., 42, No. 11: 4290 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, О. П. Максимова, Проблемы металловедения и физики металлов (Москва: Металлургиздат: 1951), вып. 2.",
+				"tr":  "G. V. Kurdyumov, O. P. Maksimova, Problemy metallovedeniya i fiziki metallov (Moskva: Metallurgizdat: 1951), vyp. 2."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Гиндин, И. М. Неклюдов, В. М. Нетесов, Вопросы атомной науки и техники. Сер. Общая и ядерная физика, вып. 1(4): 23 (2004).",
+				"tr":  "I. A. Gindin, I. M. Neklyudov, V. M. Netesov, Voprosy atomnoi nauki i tekhniki. Ser. Obshchaya i yadernaya fizika, vyp. 1(4): 23 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Столбовой, И. Г. Водопьянова, А. Н. Блудов, Сборник докл. 8-го Международного конгресса «ОТТОМ–8» (Харьков: ННЦ ХФТИ–ИПЦ «Контраст»: 2007), т. 2.",
+				"tr":  "V. A. Stolbovoi, I. G. Vodop'yanova, A. N. Bludov, Sbornik dokl. 8-go Mezhdunarodnogo kongressa «OTTOM–8» (Khar'kov: NNTs KhFTI–IPTs «Kontrast»: 2007), t. 2."
+			},
+			{
+				"doi": "10.1016/j.jnucmat.2004.08.034",
+				"or":  "T. Coppitz, P. Jung, G. Muller, A. Weisenbureg et al., J. Nuclear Materials, 334: 92 (2005).",
+				"tr":  "T. Coppitz, P. Jung, G. Muller, A. Weisenbureg et al., J. Nuclear Materials, 334: 92 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Комаровский, Управление напряженно-деформированным состоянием материалов и конструкций (Киев: Випол: 1996).",
+				"tr":  "A. A. Komarovskii, Upravlenie napryazhenno-deformirovannym sostoyaniem materialov i konstruktsii (Kiev: Vipol: 1996)."
+			},
+			{
+				"doi": "",
+				"or":  "W. J. Phythian and A. J. E. Foreman, Proc. of 15th Int. Symp. ‘Effects of Radiation on Materials’ (Philadelphia: ASTM STP: 1992), vol. 1125, p. 131.",
+				"tr":  "W. J. Phythian and A. J. E. Foreman, Proc. of 15th Int. Symp. 'Effects of Radiation on Materials' (Philadelphia: ASTM STP: 1992), vol. 1125, p. 131."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Котречко, Ю. Я. Мешков, Предельная прочность (Киев: Наукова думка: 2008).",
+				"tr":  "S. A. Kotrechko, Yu. Ya. Meshkov, Predel'naya prochnost' (Kiev: Naukova dumka: 2008)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Ю. Волосевич, Металлофиз. новейшие технол., 18, № 4: 33 (1996).",
+				"tr":  "P. Yu. Volosevich, Metallofiz. Noveishie Tekhnol., 18, No. 4: 33 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. З. Марголин, И. П. Курсевич, А. А. Сорокин, Н. К. Васина и др., Вопросы материаловедения, № 2(58): 99 (2009).",
+				"tr":  "B. Z. Margolin, I. P. Kursevich, A. A. Sorokin, N. K. Vasina et al., Voprosy materialovedeniya, No. 2(58): 99 (2009)."
+			},
+			{
+				"doi": "10.1016/j.jnucmat.2008.12.077",
+				"or":  "V. S. Neustroev and F. A. Garner, J. Nuclear Materials, 386–388: 157 (2009).",
+				"tr":  "V. S. Neustroev and F. A. Garner, J. Nuclear Materials, 386–388: 157 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Б. Бакиров, Н. Ю. Забрусков, Заводская лаборатория, № 11: 35 (2000).",
+				"tr":  "M. B. Bakirov, N. Yu. Zabruskov, Zavodskaya laboratoriya, No. 11: 35 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. С. Горкунов, А. П. Ничипурук, В. М. Сомова, В. И. Левит, Дефектоскопия, № 7: 62 (1993).",
+				"tr":  "E. S. Gorkunov, A. P. Nichipuruk, V. M. Somova, V. I. Levit, Defektoskopiya, No. 7: 62 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Bohmert, A. Ulbritch, A. Kryukov, Y. Nikolaev et al., Proc. of 20th International Symposium ‘Effects of Radiation on Materials’ (West Conshohocken: ASTM STP: 2001), vol. 1405, p. 326.",
+				"tr":  "J. Bohmert, A. Ulbritch, A. Kryukov, Y. Nikolaev et al., Proc. of 20th International Symposium 'Effects of Radiation on Materials' (West Conshohocken: ASTM STP: 2001), vol. 1405, p. 326."
+			}
+		]
+	}
+}

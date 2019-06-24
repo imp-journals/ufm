@@ -1,0 +1,299 @@
+{
+	"_id":    "UFM.08.02.157",
+	"year":   2007,
+	"volume": 8,
+	"issue":  2,
+	"pages":  [157,170],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["15.05.2007"],
+	"PACS":   "68.65.Hb, 71.35.Cc, 71.35.Ee, 73.20.Mf, 73.21.La, 73.22.Lp, 78.67.-n",
+	"title":   {
+		"ua": "Міжзонне поглинання світла квазинульмірними наносистемами",
+		"en": "Interband Absorption of Light by Quasi-Zero-Dimensional Nanosystems",
+		"ru": "Межзонное поглощение света квазинульмерными наносистемами"
+	},
+	"abstract": {
+		"ua": "Виконано огляд результатів теоретичних та експериментальних досліджень з міжзонного вбирання світла напівпровідниковими сферичними нанокристалами. Показано, що врахування поляризаційної взаємодії електрона і дірки з поверхнею нанокристала спричиняє зсув порогу вбирання в нанокристалі в короткохвильовий бік. Встановлено, що край вбирання нанокристалів формується двома порівнянними за інтенсивністю переходами з ріжних рівнів розмірного квантування дірки на нижній рівень розмірного квантування електрона.",
+		"en": "The results of theoretical and experimental investigations of interband absorption of light in semiconductor spherical nanocrystals are analyzed. As shown, the absorption threshold in a nanocrystal is shifted to shorter wavelengths if the polarization-related interaction of electrons and holes with the nanocrystal surface is taken into account. As ascertained, the absorption edge for nanocrystals is formed by two transitions comparable in intensity. These transitions occur from different levels of size-related quantization for a hole to the lower level of size-related quantization for an electron.",
+		"ru": "Проведен обзор результатов теоретических и экспериментальных исследований по межзонному поглощению света полупроводниковыми сферическими нанокристаллами. Показано, что учет поляризационного взаимодействия электрона и дырки с поверхностью нанокристалла вызывает сдвиг порога поглощения в нанокристалле в коротковолновую сторону. Установлено, что край поглощения нанокристаллов формируется двумя сравнимыми по интенсивности переходами с разных уровней размерного квантования дырки на нижний уровень размерного квантования электрона."
+	},
+	"keywords": {
+		"ua": "міжзонне поглинання, квазинульмірні наноструктури, ексітон, нанокристал, поляризаційна взаємодія",
+		"en": "interband absorption, quasi-zero-dimensional nanostructures, nanocrystal, polarization interaction",
+		"ru": "межзонное поглощение, квазинульмерные наноструктуры, экситон, нанокристалл, поляризационное взаимодействие"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. П. Шпак", "en": "A. P. Shpak", "ru": "А. П. Шпак"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. І. Покутній", "en": "S. I. Pokutniy", "ru": "С. И. Покутний"},
+			"OID": [39]
+		},
+		{
+			"AID": {"ua": "В. М. Уваров", "en": "V. M. Uvarov", "ru": "В. Н. Уваров"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.14.04.353",
+				"cit": "S. I. Pokutnyi and P. P. Gorbyk, <a href=\"https://doi.org/10.15407/ufm.14.04.353\">Usp. Fiz. Met. <b>14</b>, 353 (2013)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 49,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "С. И. Покутний, Теория экситонов в квазинульмерных полупроводниковых системах (Одесса: Астропринт: 2003).",
+				"tr":  "S. I. Pokutniy, Teoriya eksitonov v kvazinul'mernykh poluprovodnikovykh sistemakh (Odessa: Astroprint: 2003)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, С. І. Покутній, Ю. А. Куницький, Діагностика наносистем. Напівпровідникові квазінульвимірні системи (Київ: ІМФ НАНУ: 2004).",
+				"tr":  "A. P. Shpak, S. I. Pokutniy, Yu. A. Kunits'kiy, Diagnostika nanosistem. Napivprovidnikovi kvazinul'vimirni sistemi (Kiiv: IMF NANU: 2004)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, С. И. Покутний, Ю. А. Куницкий, Спектроскопия электронных и экситонных состояний в низкоразмерных системах (Киев: Академпериодика: 2005).",
+				"tr":  "A. P. Shpak, S. I. Pokutniy, Yu. A. Kunitskiy, Spektroskopiya elektronnykh i eksitonnykh sostoyaniy v nizkorazmernykh sistemakh (Kiev: Akademperiodika: 2005)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, С. И. Покутний, В. А. Смынтына, В. Н. Уваров, Оптика наносистем (Одесса: Астропринт: 2007).",
+				"tr":  "A. P. Shpak, S. I. Pokutniy, V. A. Smyntyna, V. N. Uvarov, Optika nanosistem (Odessa: Astroprint: 2007)."
+			},
+			{
+				"doi": "",
+				"or":  "С. І. Покутній, УФЖ, 3, № 3: 23 (2006).",
+				"tr":  "S. I. Pokutniy, UFZh, 3, No. 3: 23 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, С. И. Покутний, Успехи физ. мет., 6, № 2: 105 (2005).",
+				"tr":  "A. P. Shpak, S. I. Pokutniy, Uspekhi fiz. met., 6, No. 2: 105 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, С. И. Покутний, Ю. А. Куницкий, Наносистеми, наноматеріали, нанотехнології, 3, № 3: 667 (2005).",
+				"tr":  "A. P. Shpak, S. I. Pokutniy, Yu. A. Kunitskiy, Nanosistemi, nanomateriali, nanotekhnologii, 3, No. 3: 667 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, С. И. Покутний, Ю. А. Куницкий, Наносистеми, наноматеріали, нанотехнології, 3, № 4: 1001 (2005).",
+				"tr":  "A. P. Shpak, S. I. Pokutniy, Yu. A. Kunitskiy, Nanosistemi, nanomateriali, nanotekhnologii, 3, No. 4: 1001 (2005)."
+			},
+			{
+				"doi": "10.15407/ufm.08.01.001",
+				"or":  "А. П. Шпак, С. И. Покутний, В. Н. Уваров, Успехи физ. мет., 8, № 1: 1 (2007).",
+				"tr":  "A. P. Shpak, S. I. Pokutniy, V. N. Uvarov, Usp. Fiz. Met., 8, No. 1: 1 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Екимов, П. А. Скворцов, Т. В. Щурбина, ЖТФ, 59, № 3: 202 (1989).",
+				"tr":  "A. I. Ekimov, P. A. Skvortsov, T. V. Shchurbina, ZhTF, 59, No. 3: 202 (1989)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.36.1300",
+				"or":  "K. Bajema and R. Marlin, Phys. Rev. B, 36: 1300 (1987).",
+				"tr":  "K. Bajema and R. Marlin, Phys. Rev. B, 36: 1300 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Wood and S. Burrus, Appl. Phys. Lett., 54: 16 (1999).",
+				"tr":  "T. Wood and S. Burrus, Appl. Phys. Lett., 54: 16 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Покутний, ФТП, 34, № 9: 1120 (2000).",
+				"tr":  "S. I. Pokutniy, FTP, 34, No. 9: 1120 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "С. І. Покутній, УФЖ, 46, № 7: 701 (2001).",
+				"tr":  "S. I. Pokutniy, UFZh, 46, No. 7: 701 (2001)."
+			},
+			{
+				"doi": "10.1063/1.1759791",
+				"or":  "S. I. Pokutnyi, J. Appl. Phys., 96, No. 2: 1115 (2004).",
+				"tr":  "S. I. Pokutnyi, J. Appl. Phys., 96, No. 2: 1115 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.81.4752",
+				"or":  "P. Zanardi and F. Rossi, Phys. Rev. Lett., 86, No. 21: 4752 (2003).",
+				"tr":  "P. Zanardi and F. Rossi, Phys. Rev. Lett., 86, No. 21: 4752 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Жуков, А. Ю. Егоров, А. Р. Ковш, ФТП, 38, № 1:104 (2004).",
+				"tr":  "A. E. Zhukov, A. Yu. Egorov, A. R. Kovsh, FTP, 38, No. 1:104 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Pokutnyi, Phys. Low-Dim. Struct., 11/12: 67 (2002).",
+				"tr":  "S. I. Pokutnyi, Phys. Low-Dim. Struct., 11/12: 67 (2002)."
+			},
+			{
+				"doi": "10.1016/j.physleta.2005.04.070",
+				"or":  "S. I. Pokutnyi, Phys. Lett. A, 342: 347 (2005).",
+				"tr":  "S. I. Pokutnyi, Phys. Lett. A, 342: 347 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Ал. Л. Эфрос, Л. Л. Эфрос, ФТП, 16, № 7: 1209 (1982).",
+				"tr":  "Al. L. Efros, L. L. Efros, FTP, 16, No. 7: 1209 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Ефремов, С. И. Покутний, ФТТ, 27, № 1: 48 (1985).",
+				"tr":  "N. A. Efremov, S. I. Pokutniy, FTT, 27, No. 1: 48 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Покутний, ФТТ, 32, № 6: 1632 (1990).",
+				"tr":  "S. I. Pokutniy, FTT, 32, No. 6: 1632 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Покутний, ФТП, 25, № 4: 628 (1991).",
+				"tr":  "S. I. Pokutniy, FTP, 25, No. 4: 628 (1991)."
+			},
+			{
+				"doi": "10.1016/0375-9601(92)90531-P",
+				"or":  "S. I. Pokutnyi, Phys. Lett. А, 168, Nos. 5–6: 433 (1992).",
+				"tr":  "S. I. Pokutnyi, Phys. Lett. A, 168, Nos. 5–6: 433 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Покутний, ФТП, 30, № 11: 1952 (1996).",
+				"tr":  "S. I. Pokutniy, FTP, 30, No. 11: 1952 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Покутний, ФТТ, 38, № 9: 2667 (1996).",
+				"tr":  "S. I. Pokutniy, FTT, 38, No. 9: 2667 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Покутний, ФТП, 39, № 9: 1101 (2005).",
+				"tr":  "S. I. Pokutniy, FTP, 39, No. 9: 1101 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Покутний, УФЖ, 50, № 3: 283 (2005).",
+				"tr":  "S. I. Pokutniy, UFZh, 50, No. 3: 283 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Екимов, А. А. Онущенко, Ал. Л. Эфрос, Письма в ЖЭТФ, 43, № 6: 292 (1986).",
+				"tr":  "A. I. Ekimov, A. A. Onushchenko, Al. L. Efros, Pis'ma v ZhETF, 43, No. 6: 292 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Chepic, E. Efros, and A. Ekimov, J. Luminesc., 47, No. 3: 113 (1999).",
+				"tr":  "D. Chepic, E. Efros, and A. Ekimov, J. Luminesc., 47, No. 3: 113 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "A. L. Efros and E. I. Ekimov, Phys. Rev. B, 57, No. 10: 10005 (2003).",
+				"tr":  "A. L. Efros and E. I. Ekimov, Phys. Rev. B, 57, No. 10: 10005 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Покутний, ФТТ, 32, № 10: 2921 (1990).",
+				"tr":  "S. I. Pokutniy, FTT, 32, No. 10: 2921 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Покутний, ФТТ, 33, № 10: 2845 (1991).",
+				"tr":  "S. I. Pokutniy, FTT, 33, No. 10: 2845 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Pokutnyi, Phys. Stat. Sol. (b), 165, No. 1: 109 (1991).",
+				"tr":  "S. I. Pokutnyi, Phys. Stat. Sol. (b), 165, No. 1: 109 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Pokutnyi, Phys. Stat. Sol. (b), 172, No. 2: 573 (1992).",
+				"tr":  "S. I. Pokutnyi, Phys. Stat. Sol. (b), 172, No. 2: 573 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Покутний, ФТТ, 35, № 2: 257 (1993).",
+				"tr":  "S. I. Pokutniy, FTT, 35, No. 2: 257 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Покутний, ФТП, 31, № 12: 1443 (1997).",
+				"tr":  "S. I. Pokutniy, FTP, 31, No. 12: 1443 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Покутний, ФТТ, 39, № 4: 606 (1997).",
+				"tr":  "S. I. Pokutniy, FTT, 39, No. 4: 606 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Покутний, ФТТ, 39, № 4: 720 (1997).",
+				"tr":  "S. I. Pokutniy, FTT, 39, No. 4: 720 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ф. Цацульников, Н. Н. Леденцов, М. Я. Максимов, ФТП, 38, № 1: 68 (2004).",
+				"tr":  "A. F. Tsatsul'nikov, N. N. Ledentsov, M. Ya. Maksimov, FTP, 38, No. 1: 68 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Pokutnyi, Phys. Low-Dim. Struct., 78: 39 (2002).",
+				"tr":  "S. I. Pokutnyi, Phys. Low-Dim. Struct., 78: 39 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Pokutnyi, Semicond. Phys., Quant. Electron., Optoelectron., 7, No. 3: 247 (2004).",
+				"tr":  "S. I. Pokutnyi, Semicond. Phys., Quant. Electron., Optoelectron., 7, No. 3: 247 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Покутний, ФТП, 40, № 2: 223 (2006).",
+				"tr":  "S. I. Pokutniy, FTP, 40, No. 2: 223 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "A. L. Efros and A. V. Rodina, Phys. Rev. B, 47, No. 10: 10005 (1993).",
+				"tr":  "A. L. Efros and A. V. Rodina, Phys. Rev. B, 47, No. 10: 10005 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Nirmal, D. Norris, and A. L. Efros, Phys. Rev. Lett., 75, No. 10: 3728 (1995).",
+				"tr":  "M. Nirmal, D. Norris, and A. L. Efros, Phys. Rev. Lett., 75, No. 10: 3728 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Покутний, ФТТ, 41, № 7: 1310 (1999).",
+				"tr":  "S. I. Pokutniy, FTT, 41, No. 7: 1310 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Покутний, ФТП, 37, № 6: 743 (2003).",
+				"tr":  "S. I. Pokutniy, FTP, 37, No. 6: 743 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Nomura and T. Kobayashi, Sol. St. Commun., 74, No. 10: 1153 (1990).",
+				"tr":  "S. Nomura and T. Kobayashi, Sol. St. Commun., 74, No. 10: 1153 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Я. Грабовский, Я. Я. Дзенис, А. И. Екимов, ФТТ, 31, № 1: 272 (1989).",
+				"tr":  "V. Ya. Grabovskiy, Ya. Ya. Dzenis, A. I. Ekimov, FTT, 31, No. 1: 272 (1989)."
+			}
+		]
+	}
+}

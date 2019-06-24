@@ -1,0 +1,290 @@
+{
+	"_id":    "UFM.15.03.121",
+	"year":   2014,
+	"volume": 15,
+	"issue":  3,
+	"pages":  [121,143],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["01.07.2014"],
+	"PACS":   "61.05.cp, 61.05.Np, 61.72.Dd, 61.72.Hh, 61.72.J-, 61.72.up, 61.80.Az",
+	"title":   {
+		"ua": "Моделювання та діягностика пошкоджень і деформацій у кристалі Gd$_{3}$Ga$_{5}$O$_{12}$ після імплантації йонів F$^{+}$",
+		"en": "Modelling and Diagnostics of Damages and Strains in a Crystal of Gd$_{3}$Ga$_{5}$O$_{12}$ After Implantation of F$^{+}$ Ions",
+		"ru": "Моделирование и диагностика повреждений и деформаций в кристалле Gd$_{3}$Ga$_{5}$O$_{12}$ после имплантации ионов F$^{+}$"
+	},
+	"abstract": {
+		"ua": "Для одержання кількісних характеристик радіяційного дефектоутворення в ґадоліній-ґалійовому ґранаті (ҐҐҐ) проведено математичне моделювання процесу імплантації йонів фтору за допомогою програми SRIM-2008. Встановлено розподіли за глибиною кристалу пружніх і непружніх енергетичних втрат імплантованого йона F$^{+}$ з енергією 90 кеВ та зміщених йонів мішені при гальмуванні в кристалі ҐҐҐ, а також профілі розподілу за глибиною кількостей імплантованих і зміщених йонів. Визначено характер пошкоджень та їх кількісні характеристики. Структурні зміни, спричинені імплантацією йонів фтору в поверхневому шарі монокристалу ҐҐҐ, досліджено методою Рентґенової дифракції. Встановлено форму профілю деформації в імплантованому шарі і зв’язок його характеристик з результатами моделювання.",
+		"en": "Mathematical modelling of fluorine ion implantation process is carried out by using the SRIM-2008 program for the determination of quantitative characteristics of the radiation defect formation in the gadolinium–gallium garnet (GGG). The crystal depth distributions are measured for elastic and inelastic energy losses of both the implanted F$^{+}$ ion with 90 keV energy and the displaced matrix ions due to their slowing-down in the GGG crystal. Depth distribution profiles are obtained for quantities of implanted and displaced ions. The damage pattern and its quantitative characteristics are determined. Structural changes caused by fluorine ion implantation in a surface layer of the GGG single crystal are investigated by an X-ray diffraction technique. The shape of the strain profile in the implanted layer and relationships of its characteristics with the simulation results are determined.",
+		"ru": "Для получения количественных характеристик радиационного дефектообразования в гадолиний-галлиевом гранате (ГГГ) проведено математическое моделирование процесса имплантации ионов фтора при помощи программы SRIM-2008. Определены распределения по глубине кристалла упругих и неупругих энергетических потерь имплантированного иона F$^{+}$ с энергией 90 кэВ и смещённых ионов мишени при торможении в кристалле ГГГ, а также профили распределения по глубине количеств имплантированных и смещённых ионов. Определён характер повреждений и их количественные характеристики. Структурные изменения, вызванные имплантацией ионов фтора в поверхностном слое монокристалла ГГГ, исследованы методом рентгеновской дифракции. Установлена форма профиля деформации в имплантированном слое и связь его характеристик с результатами моделирования."
+	},
+	"keywords": {
+		"ua": "ґадоліній-ґалійовий ґранат, йонна імплантація, первинні та вторинні радіяційні дефекти, математичне моделювання, деформація, двокристальний Рентґенів дифрактометр, крива дифракційного відбивання",
+		"en": "gadolinium gallium garnet, ion implantation, primary and secondary radiation defects, mathematic modeling, deformation, double-crystal X-ray diffractometer, diffraction reflection curve",
+		"ru": "-"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. О. Коцюбинський", "en": "V. O. Kotsyubyns’kyy", "ru": "В. О. Коцюбинский"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "В. М. Пилипів", "en": "V. M. Pylypiv", "ru": "В. М. Пылыпив"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "Б. К. Остафійчук", "en": "B. K. Ostafiychuk", "ru": "Б. К. Остафийчук"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "І. П. Яремій", "en": "I. P. Yaremiy", "ru": "И. П. Яремий"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "О. З. Гарпуль", "en": "O. Z. Garpul’", "ru": "О. З. Гарпуль"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "С. Й. Оліховський", "en": "S. J. Olikhovskyy", "ru": "С. И. Олиховский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. С. Скакунова", "en": "O. S. Skakunova", "ru": "Е. С. Скакунова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Б. Молодкін", "en": "V. B. Molodkin", "ru": "В. Б. Молодкин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Є. М. Кисловський", "en": "Ye. M. Kyslovs’kyy", "ru": "Е. Н. Кисловский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. П. Владімірова", "en": "T. P. Vladimirova", "ru": "Т. П. Владимирова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. В. Решетник", "en": "O. V. Reshetnyk", "ru": "О. В. Решетник"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Є. В. Кочелаб", "en": "Ye. V. Kochelab", "ru": "Е. В. Кочелаб"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.18.02.155",
+				"cit": "V. V. Kurylyak and G. I. Khimicheva, <a href=\"https://doi.org/10.15407/ufm.18.02.155\">Usp. Fiz. Met. <b>18</b>, 155 (2017)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 40,
+		"list":  [
+			{
+				"doi": "10.1103/PhysRevLett.80.4570",
+				"or":  "O. A. Petrenko, C. Ritter, M. Yethiraj, and D. McK Paul, Phys. Rev. Lett., 80, No. 20: 4570 (1998).",
+				"tr":  "O. A. Petrenko, C. Ritter, M. Yethiraj, and D. McK Paul, Phys. Rev. Lett., 80, No. 20: 4570 (1998)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.61.1817",
+				"or":  "Y.-N. Xu, W. Y. Ching, and B. K. Brickeen, Phys. Rev. B, 61, No. 3: 1817 (2000).",
+				"tr":  "Y.-N. Xu, W. Y. Ching, and B. K. Brickeen, Phys. Rev. B, 61, No. 3: 1817 (2000)."
+			},
+			{
+				"doi": "10.1002/crat.200800315",
+				"or":  "L. Lipińska, W. Ryba-Romanowski, A. Rzepka, S. Ganschow, R. Lisiecki, R. Diduszko, and A. Pajączkowska, Cryst. Res. Technol., 44, No. 5: 477 (2009).",
+				"tr":  "L. Lipińska, W. Ryba-Romanowski, A. Rzepka, S. Ganschow, R. Lisiecki, R. Diduszko, and A. Pajączkowska, Cryst. Res. Technol., 44, No. 5: 477 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "A. O. Matkovskii, D. Yu. Sugak, S. B. Ubizskii, U. A. Ulmanis, and A. P. Shakhov, phys. status solidi (a), 128, No. 1: 21 (1991).",
+				"tr":  "A. O. Matkovskii, D. Yu. Sugak, S. B. Ubizskii, U. A. Ulmanis, and A. P. Shakhov, phys. status solidi (a), 128, No. 1: 21 (1991)."
+			},
+			{
+				"doi": "10.1063/1.3115442",
+				"or":  "Z. Jia, A. Arcangeli, X. Tao, J. Zhang, Ch. Dong, M. Jiang, L. Bonelli, and M. Tonelli, J. Appl. Phys., 105, No. 8: 083113 (2009).",
+				"tr":  "Z. Jia, A. Arcangeli, X. Tao, J. Zhang, Ch. Dong, M. Jiang, L. Bonelli, and M. Tonelli, J. Appl. Phys., 105, No. 8: 083113 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.75.174111",
+				"or":  "A. Kamińska, S. Biernacki, S. Kobyakov, A. Suchocki, G. Boulon, M. O. Ramirez, and L. Bausa, Phys. Rev. B, 75, No. 17: 174111 (2007).",
+				"tr":  "A. Kamińska, S. Biernacki, S. Kobyakov, A. Suchocki, G. Boulon, M. O. Ramirez, and L. Bausa, Phys. Rev. B, 75, No. 17: 174111 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "F. J. Bruni, Crystals: Growth, Properties and Applications (Eds. C. J. M. Rooijman) (Berlin–Heidelberg–New York: Springer: 1978), vol. 1, p. 139.",
+				"tr":  "F. J. Bruni, Crystals: Growth, Properties and Applications (Eds. C. J. M. Rooijman) (Berlin–Heidelberg–New York: Springer: 1978), vol. 1, p. 139."
+			},
+			{
+				"doi": "",
+				"or":  "S. B. Ubizskii, A. O. Matkovskii, N. Mironova-Ulmane, V. Skvortsova, A. Suchocki, Y. A. Zhydachevskii, and P. Potera, phys. status solidi (a), 177: 349 (2000).",
+				"tr":  "S. B. Ubizskii, A. O. Matkovskii, N. Mironova-Ulmane, V. Skvortsova, A. Suchocki, Y. A. Zhydachevskii, and P. Potera, phys. status solidi (a), 177: 349 (2000)."
+			},
+			{
+				"doi": "10.12921/cmst.2007.13.01.47-51",
+				"or":  "P. Potera, Comput. Methods Sci. Technol., 13, No. 1: 47 (2007).",
+				"tr":  "P. Potera, Comput. Methods Sci. Technol., 13, No. 1: 47 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "http://www.srim.org/SRIM/SRIMLEGL.htm.",
+				"tr":  "http://www.srim.org/SRIM/SRIMLEGL.htm."
+			},
+			{
+				"doi": "",
+				"or":  "Х. Риссел, И. Руге, Ионная имплантация (Москва: Наука: 1983).",
+				"tr":  "H. Rissel and I. Ruge, Ionnaya Implantatsiya [Ion Implantation] (Moscow: Nauka: 1983) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Ионная имплантация и лучевая технология (Ред. Дж. С. Вильямс, Дж. М. Поут) (Киев: Наукова думка: 1988).",
+				"tr":  "Ionnaya Implantatsiya i Luchevaya Tekhnologiya [Ion Implantation and Radiation Technology] (Eds. J. S. Williams and J. M. Poate) (Kiev: Naukova dumka: 1988) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Афанасьев, П. А. Александров, Р. М. Имамов, Рентгенодифракционная диагностика субмикронных слоев (Москва: Наука: 1989).",
+				"tr":  "A. M. Afanasiev, P. A. Aleksandrov, and R. M. Imamov, Rentgenodiffraktsionnaya Diagnostika Submikronnykh Sloyov [X-Ray Diffraction Diagnostics of Submicron Layers] (Moscow: Nauka: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Holy, U. Pietch, and T. Baumbach, High-Resolution X-Ray Scattering from Thin Films and Multilayers (Berlin–Heidelberg: Springer Verlag: 1998).",
+				"tr":  "V. Holy, U. Pietch, and T. Baumbach, High-Resolution X-Ray Scattering from Thin Films and Multilayers (Berlin–Heidelberg: Springer Verlag: 1998)."
+			},
+			{
+				"doi": "",
+				"or":  "A. O. Matkowski, D. Yu. Sugak, S. B. Ubizskii, and I. V. Kityk, Opto-Electron. Rev., 3, No. 2: 41 (1995).",
+				"tr":  "A. O. Matkowski, D. Yu. Sugak, S. B. Ubizskii, and I. V. Kityk, Opto-Electron. Rev., 3, No. 2: 41 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "J. F. Ziegler, J. P. Biersack, and U. Littmark, The Stopping and Range of Ions in Solids (New York: Pergamon Press: 1995).",
+				"tr":  "J. F. Ziegler, J. P. Biersack, and U. Littmark, The Stopping and Range of Ions in Solids (New York: Pergamon Press: 1995)."
+			},
+			{
+				"doi": "10.1017/CBO9780511565007",
+				"or":  "M. Nastasi, J. W. Mayer, and J. K. Hirvonen. Ion–Solid Interactions: Fundamentals and Applications (Cambridge: Cambridge University Press: 1996).",
+				"tr":  "M. Nastasi, J. W. Mayer, and J. K. Hirvonen, Ion–Solid Interactions: Fundamentals and Applications (Cambridge: Cambridge University Press: 1996)."
+			},
+			{
+				"doi": "10.1007/BF00886037",
+				"or":  "C. R. Fritzsche, Appl. Phys., 12, No. 4: 347 (1977).",
+				"tr":  "C. R. Fritzsche, Appl. Phys., 12, No. 4: 347 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. К. Остафийчук, В. А.Олейник, В. М. Пылыпив, Б. Т. Семен, Л. М. Смеркло, Б. И. Яворский, В. И. Кравец, И. В. Коваль, Кристаллическая и магнитная структура имплантированных слоев монокристаллических пленок железоиттриевого граната (Киев: 1991) (Препр. / АН УССР. Ин-т металлофизики, № 1-91: 1991).",
+				"tr":  "B. K. Ostafiychuk, V. A. Oleynik, V. M. Pylypiv, B. T. Semen, L. M. Smerklo, B. I. Yavorskiy, V. I. Kravets, and I. V. Koval', Kristallicheskaya i Magnitnaya Struktura Implantirovannykh Sloyov Monokristallicheskikh Plyonok Zhelezoittrievogo Granata [The Crystal and Magnetic Structure of the Implanted Layers of Single-Crystalline Films of Ferrum–Yttrium Garnet] (Kiev: 1991) (Prepr. / AN UkrSSR. In-t Metallofiziki, Nos. 1-91: 1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. К. Остафийчук, В. М. Ткачук, О. Н. Ворончак, Б. И. Яворский, Металлофиз. новейшие технол., 16, № 8: 51 (1994).",
+				"tr":  "B. K. Ostafiychuk, V. M. Tkachuk, O. N. Voronchak, and B. I. Yavorskiy, Metallofiz. Noveishie Tekhnol., 16, No. 8: 51 (1994) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Komenou, J. Hiraі, K. Asama, and M. Sakai, J. Appl. Phys., 49, No. 12: 5806 (1978).",
+				"tr":  "K. Komenou, J. Hiraі, K. Asama, and M. Sakai, J. Appl. Phys., 49, No. 12: 5806 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Кошкин, Ю. Р. Забродский, Физ. твёрдого тела, 16, № 11: 3480 (1974).",
+				"tr":  "V. M. Koshkin and Yu. R. Zabrodskiy, Fiz. Tverdogo Tela, 16, No. 11: 3480 (1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Кошкин, Физ. низких температур, 28, № 8–9: 963 (2002).",
+				"tr":  "V. M. Koshkin, Fiz. Nizkikh Temperatur, 28, Nos. 8–9: 963 (2002) (in Russian)."
+			},
+			{
+				"doi": "10.1088/0022-3719/10/8/034",
+				"or":  "K. Lal and H. K. Jhans, J. Phys. C: Solid State Phys., 10: 1315 (1977).",
+				"tr":  "K. Lal and H. K. Jhans, J. Phys. C: Solid State Phys., 10: 1315 (1977)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.100.257202",
+				"or":  "H. Donnerberg and C. R. A. Catlow, Phys. Rev. Lett., 100, No. 25: 257202 (2008).",
+				"tr":  "H. Donnerberg and C. R. A. Catlow, Phys. Rev. Lett., 100, No. 25: 257202 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.50.744",
+				"or":  "H. Donnerberg and C. R. A. Catlow, Phys. Rev. B, 50, No. 2: 744 (1994).",
+				"tr":  "H. Donnerberg and C. R. A. Catlow, Phys. Rev. B, 50, No. 2: 744 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "В. О. Коцюбинський, В. В. Немошкаленко, Б. К. Остафійчук, Я. П. Салій, В. Д. Федорів, П. І. Юрчишин, Металлофиз. новейшие технол., 23, № 11: 1455 (2001).",
+				"tr":  "V. O. Kotsyubyns'kyy, V. V. Nemoshkalenko, B. K. Ostafіychuk, Ya. P. Salіy, V. D. Fedorіv, and P. І. Yurchishin, Metallofiz. Noveishie Tekhnol., 23, No. 11: 1455 (2001) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1063/1.330852",
+				"or":  "W. H. de Roode and H. A. Algra, J. Appl. Phys., 53: 2507 (1982).",
+				"tr":  "W. H. de Roode and H. A. Algra, J. Appl. Phys., 53: 2507 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Пилипів, В. О. Коцюбинський, О. О. Григорук, Матеріали XI Міжнародної конференції з фізики і технології тонких плівок та наносистем «МКФТТПН-XІ» (7–12 травня 2007 р., Івано-Франківськ) (Івано-Франківськ: ВДВ ЦІТ Прикарпатського національного університету імені Василя Стефаника: 2007), т. 1, с. 95.",
+				"tr":  "V. M. Pylypіv, V. O. Kotsyubyns'kyy, and O. O. Hryhoruk, Materials of XI International Conference 'Physics and Technology of Thin Films and Nanosystems' (May 7–12, 2007, Ivanо-Frankivsk) (Ivanо-Frankivsk: Published-Design Centre of Vasyl Stefanyk Pre-Carpathian National University: 2007), vol. 1, p. 95 (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. К. Остафійчук, В. Д. Федорів, В. В. Каспрук, В. М. Пилипів, Фіз. і хімія тверд. тіла, 5, № 4: 722 (2004).",
+				"tr":  "B. K. Ostafіychuk, V. D. Fedorіv, V. V. Kaspruk, and V. M. Pylypіv, Fizika і Khimiya Tverdogo Tila, 5, No. 4: 722 (2004) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. О. Коцюбинський, Б. К. Остафійчук, Б. І. Яворський, І. П. Яремій, Вісник Прикарпатського університету. Математика. Фізика. Хімія, 2: 67 (1999).",
+				"tr":  "V. O. Kotsyubyns'kyy, B. K. Ostafіychuk, B. І. Yavors'kyy, and І. P. Yaremіy, Bulletin of Pre-Carpathian University. Mathematics. Physics. Chemistry, 2: 67 (1999) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1051/rphysap:01988002305092500",
+				"or":  "J. P. Eymery, Rev. Phys. Appl., No. 23: 925 (1988).",
+				"tr":  "J. P. Eymery, Rev. Phys. Appl., No. 23: 925 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "Ш. Ш. Башкиров, Н. Г. Ивойлов, Е. С. Романов, Физ. твёрдого тела, 27, № 9: 2853 (1985).",
+				"tr":  "Sh. Sh. Bashkirov, N. G. Ivojlov, and E. S. Romanov, Fiz. Tverdogo Tela, 27, No. 9: 2853 (1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Маркялис, Л. Пранявичус, Лит. физ. сб., 18, № 5: 647 (1978).",
+				"tr":  "A. Markyalis and L. Pranyavichus, Lit. Fiz. Sb., 18, No. 5: 647 (1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Golubov, A. V. Barashev, and R. E. Stoller, Comprehensive Nuclear Materials (Eds. R. J. M. Konings) (Amsterdam: Elsevier: 2012), vol. 1.",
+				"tr":  "S. I. Golubov, A. V. Barashev, and R. E. Stoller, Comprehensive Nuclear Materials (Eds. R. J. M. Konings) (Amsterdam: Elsevier: 2012), vol. 1."
+			},
+			{
+				"doi": "10.1098/rsta.1999.0469",
+				"or":  "M. Wormington, C. Panaccione, K. M. Matney, and D. K. Bowen, Philos. Trans. R. Soc. Lond. A, 357: 2827 (1999).",
+				"tr":  "M. Wormington, C. Panaccione, K. M. Matney, and D. K. Bowen, Philos. Trans. R. Soc. Lond. A, 357: 2827 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Кон, М. В. Прилепский, И. М. Суходрева, Поверхность, № 11: 122 (1984).",
+				"tr":  "V. G. Kon, M. V. Prilepskiy, and I. M. Sukhodreva, Poverkhnost', No. 11: 122 (1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Пилипів, С. Й. Оліховський, Т. П. Владімірова, О. С. Скакунова, В. Б. Молодкін, Б. К. Остафійчук, Є. М. Кисловський, О. В. Решетник, С. В. Лізунова, О. З. Гарпуль, Металлофиз. новейшие технол., 33, № 9: 1145 (2011).",
+				"tr":  "V. M. Pylypіv, S. Y. Olіkhovs'kyy, T. P. Vladіmіrova, O. S. Skakunova, V. B. Molodkіn, B. K. Ostafіychuk, E. M. Kyslovs'kyy, O. V. Reshetnyk, S. V. Lіzunova, and O. Z. Harpul', Metallofiz. Noveishie Tekhnol., 33, No. 9: 1145 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/B978-0-444-86946-3.50007-3",
+				"or":  "P. Ehrhart, K. H. Robrock, and H. R. Shober, Physics of Radiation Effects in Crystals (Eds. R. A. Johnson and A. N. Orlov) (Oxford: Elsevier Science: 1986), p. 3.",
+				"tr":  "P. Ehrhart, K. H. Robrock, and H. R. Shober, Physics of Radiation Effects in Crystals (Eds. R. A. Johnson and A. N. Orlov) (Oxford: Elsevier Science: 1986), p. 3."
+			},
+			{
+				"doi": "",
+				"or":  "О. С. Скакунова, В. М. Пилипів, С. Й. Оліховський, Т. П. Владімірова, Б. К. Остафійчук, В. Б. Молодкін, Є. М. Кисловський, О. В. Решетник, О. З. Гарпуль, А. В. Кравець, В. Л. Маківська, Металлофиз. новейшие технол., 34, № 10: 1325 (2012).",
+				"tr":  "O. S. Skakunova, V. M. Pylypіv, S. Y. Olіkhovs'kyy, T. P. Vladіmіrova, B. K. Ostafіychuk, V. B. Molodkіn, E. M. Kyslovs'kiy, O. V. Reshetnyk, O. Z. Harpul', A. V. Kravets', and V. L. Makіvs'ka, Metallofiz. Noveishie Tekhnol., 34, No. 10: 1325 (2012) (in Ukrainian)."
+			}
+		]
+	}
+}

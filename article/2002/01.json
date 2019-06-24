@@ -1,0 +1,35 @@
+{
+	"year":   2002,
+	"volume": 3,
+	"issue":  1,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [1,86],
+			"title": {
+				"ua": "Структурні перетворення далеко від рівноваги",
+				"en": "Structural Transformations Far Off Equilibrium",
+				"ru": "Структурные превращения вдали от равновесия"
+			},
+			"autors": {
+				"ua": "О. І. Олємськой, А. А. Кацнельсон",
+				"en": "O. I. Olemskoi and A. A. Katsnelson",
+				"ru": "А. И. Олемской, А. А. Кацнельсон"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [87,106],
+			"title": {
+				"ua": "Будова та радіяційне пошкодження металічних стекол",
+				"en": "Structure and Radiation Damage of Metallic Glasses",
+				"ru": "Строение и радиационное повреждение металлических стёкол"
+			},
+			"autors": {
+				"ua": "А. С. Бакай",
+				"en": "A. S. Bakai",
+				"ru": "А. С. Бакай"
+			}
+		}
+	]
+}

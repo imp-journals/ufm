@@ -1,0 +1,77 @@
+{
+	"year":   2011,
+	"volume": 12,
+	"issue":  2,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [157,181],
+			"title": {
+				"ua": "Універсальний характер тунельної провідности гетероструктур метал–ізолятор–метал з нанорозмірними оксидними прошарками",
+				"en": "Universal Character of Tunnelling Conductance of Metal–Insulator–Metal Heterostructures with Nanosize Oxide Interlayers",
+				"ru": "Универсальный характер туннельной проводимости гетероструктур металл-изолятор-металл с наноразмерными оксидными прослойками"
+			},
+			"autors": {
+				"ua": "М. А. Бєлоголовський, І. В. Бойло, В. Є. Шатерник",
+				"en": "M. A. Belogolovskii, I. V. Boilo, and V. E. Shaternik",
+				"ru": "М. А. Белоголовский, И. В. Бойло, В. Е. Шатерник"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [183,207],
+			"title": {
+				"ua": "Елементарні збудження електронів у приповерхневій області аморфного та відпаленого стопу Fe$_{73,6}$Cu$_{1}$Nb$_{2,4}$Si$_{15,8}$B$_{7,2}$",
+				"en": "Elementary Excitations of Electrons in Surficial Region of the Amorphous and Annealed Fe$_{73.6}$Cu$_{1}$Nb$_{2.4}$Si$_{15.8}$B$_{7.2}$",
+				"ru": "Элементарные возбуждения электронов в приповерхностной области аморфного и отожжённого сплава Fe$_{73,6}$Cu$_{1}$Nb$_{2,4}$Si$_{15,8}$B$_{7,2}$"
+			},
+			"autors": {
+				"ua": "В. О. Тіньков, А. С. Ходаківський",
+				"en": "V. O. Tin’kov and A. S. Khodakivs’kyi",
+				"ru": "В. А. Тиньков, А. С. Ходаковский"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [209,239],
+			"title": {
+				"ua": "Вплив активних елементів робочого середовища на електронну структуру і механізм деформації поверхневих шарів металу за тертя",
+				"en": "Influence of Active Elements of a Machining Medium on Electronic Structure and the Mechanism of Deformation of Surface Layers of Metal at Friction",
+				"ru": "Влияние активных элементов рабочей среды на электронную структуру и механизм деформации поверхностных слоёв металла при трении"
+			},
+			"autors": {
+				"ua": "В. В. Тихонович, В. М. Уваров",
+				"en": "V. V. Tykhonovych and V. M. Uvarov",
+				"ru": "В. В. Тихонович, В. Н. Уваров"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [241,268],
+			"title": {
+				"ua": "Закономірності та механізми термомеханічного зміцнювання прокату з маловуглецевої криці",
+				"en": "Regularities and Mechanisms of Thermomechanical Hardening of Rolled Low-Carbon Steel",
+				"ru": "Закономерности и механизмы термомеханического упрочнения проката на малоуглеродистой стали"
+			},
+			"autors": {
+				"ua": "В. Є. Громов, Ю. Ф. Іванов, О. Ю. Єфімов, А. Б. Юрьєв, С. В. Коновалов",
+				"en": "V. E. Gromov, Yu. F. Ivanov, O. Yu. Efimov, A. B. Yur’ev, and S. V. Konovalov",
+				"ru": "В. Е. Громов, Ю. Ф. Иванов, О. Ю. Ефимов, А. Б. Юрьев, С. В. Коновалов"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [269,293],
+			"title": {
+				"ua": "До питання про природу мартенситоутворення у вуглецевих крицях",
+				"en": "On the Issue of Character of Martensite Formation in Carbon Steels",
+				"ru": "К вопросу о природе мартенситообразования в углеродистых сталях"
+			},
+			"autors": {
+				"ua": "С. П. Ошкадьоров",
+				"en": "S. P. Oshkadyorov",
+				"ru": "С. П. Ошкадеров"
+			}
+		}
+	]
+}

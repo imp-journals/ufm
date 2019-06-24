@@ -1,0 +1,215 @@
+{
+	"_id":    "UFM.06.03.233",
+	"year":   2005,
+	"volume": 6,
+	"issue":  3,
+	"pages":  [233,272],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["12.05.2005"],
+	"PACS":   "71.10.Fd, 75.10.-b, 75.20.Hr, 75.30.-m, 75.40.Cx, 75.75.+a, 77.80.Bh",
+	"title":   {
+		"ua": "Ковалентно-зонна модель конденсованого стану",
+		"en": "Covalent-Band Model of the Condensed Matter",
+		"ru": "Ковалентно-зонная модель конденсированного состояния"
+	},
+	"abstract": {
+		"ua": "Кулонова взаємодія пари електронів $\\textbf{r}_i$ сусідніх іонів $\\textbf{R}_j$ в представленні сильного зв’язку зводиться або до енергій ковалентного зв’язку ($\\Gamma$), або до інтеґралу перескоу ($t$), які обчислюються для двовимірних систем типу фуллеренів (ФУЛ) і нанорурок вугдецю (НРУ). Теорія напівпровідникових (н/п) систем дає залежність енергії зв'язку $\\Gamma(Т)$ від температури $T$, зумовлену флюктуаціями хемічних (ковалентних) зв’язків (ФХЗ). Розраховані н/п-характеристики (ширина забороненої смуги $E_g(T)$, ефективні маси електронів $m_e^*$ і дірок ($|m_h^*| > m_e^*$), електроопір (ЕО) та інші) залежать від набору параметрів $\\Gamma$ і ФХЗ. Каталічні властивості ФУЛ і НРУ, акумуляція водню в них, робота виходу виражається через $\\Gamma(Т)$. Точність розрахунків є зумовленою означеністю завдання багатоелектронних операторних спінорів (БЕОС) у просторах Фока. Атомова і магнетна діяграми Fe створюються конкуренцією зонних і ковалентних (у представленні БЕОС) $3d$−$t_{2g}$- і $e_g$-електронів. Антизв’язувальні електрони сусідніх вузлів $\\gamma$-Fe утворюють антиферомагнетный (АФМ) порядок. Його Неєлева температура $T_N < 10^2$ К визначається АФМ-обміном ($A_{ex}^* \\sim \\Gamma^e$) і росте при зменшенні разміру (в наночастинках $T_N > 10^2$ К), що пояснюється збільшенням $|\\Gamma_e|$ на поверхні частинки. При $T < T_M$ локалізація $t_{2g}$-електронів у ковалентний стан зі спіном $\\textbf{S}_r$ у вузлі $\\textbf{r}$ приводить до феромагнетного (ФМ) порядку $\\alpha$-Fe при $T < T_c \\sim A_{ex}^t(T)$. Залежність $T_M(B)$ від магнетного поля $B$ (навіть за наявности ФМ-фази) посилюється конкуренцією зонної та ковалентної енергій $t_{2g}$-електронів. Спостережені нелінійності для намагнечености $M^2(T)$ і сприйнятливости $\\chi^{−1}(T)$ інтерпретуються як наслідок перенормування $A_{ex}^t(T)$ спектром ФХС. Теорія сеґнетоелектричних (СЕ) фаз діелектриків у деформаційній СЕ-моделі інтерпретує квадратичну залежність СЕ-поляризації $Р(Т)$ та її стрибок $Р(Т_с) \\sim Р(0)$ в точках $Т_с$ переходів першого роду для BaTiO$_3$ та інших СЕ-кристалів.",
+		"en": "The Coulomb interaction of electron pair in $\\textbf{r}_i$ of neighbour ions at $\\textbf{R}_j$ within the tight-binding representation comes either to the covalent-bond energy ($\\Gamma$) or to the hopping integral ($t$) that is calculated for two-dimensional systems such as fullerenes (FUL) and carbon nanotubes (CNT). The theory of semiconductor (s/c) systems leads to the dependence of bond energy $\\Gamma(T)$ on temperature $T$, which is caused by the chemical (covalent) bond fluctuations (CBF). The calculated s/c characteristics (forbidden-band width $E_g(T)$, effective mass of electrons $m_e^*$ and holes ($|m_h^*| > m_e^*$), electrical resistance (ER), etc.) depend on the set of parameters – $\\Gamma$ and CBF. The catalytic properties of FUL and CNT, the hydrogen accumulation into them, the work function are expressed through $\\Gamma(T)$. The calculation precision is conditioned by the definiteness of introduction of the many-electron operator spinors (MEOS) in the Fock spaces. Fe atomic and magnetic diagrams are caused by the competition of band and covalent (within the MEOS representation) $3d$−$t_{2g}$- and $e_g$-electrons. Antibonding electrons of neighbour sites in $\\gamma$-Fe form antiferromagnetic (AFM) order. Its Neel temperature $T_N < 10^2$ K is determined by the AFM exchange ($A_{ex}^* \\sim \\Gamma^e$) and rises when particle-size is decreased (in nanoparticles, $T_N > 10^2$ K) that is explained by the $|\\Gamma_e|$ increase on a particle surface. At $T < T_M$, the $t_{2g}$-electrons’ localization in the covalent state with $S_r$ spin at the $r$ site leads to the ferromagnetic (FM) order of $\\alpha$-Fe when $T < T_c \\sim A_{ex}^t(T)$. The dependence $T_M(B)$ on magnetic field $B$ (even in the presence of FM phase) is strengthened by the competition of band and covalent energies of $t_{2g}$-electrons. The observed nonlinearities for magnetization $M^2(T)$ and susceptibility $\\chi^{−1}(T)$ are interpreted as the effect of $A_{ex}^t(T)$ renormalization by CBF spectrum. The theory of ferroelectric (FE) phase of dielectrics within the deformation FE model interprets the square-law dependence of FE polarization $P(T)$ and its jump $Р(Т_с) \\sim Р(0)$ in the first-kind transition points $T_c$ for BaTiO$_3$ and other FE crystals.",
+		"ru": "Кулоновское взаимодействие пары электронов $\\textbf{r}_i$ соседних ионов $\\textbf{R}_j$ в представлении сильной связи сводится либо к энергии ковалентной связи ($\\Gamma$), либо к интегралу перескока ($t$), которые вычисляются для двумерных систем типа фуллеренов (ФУЛ) и нанотрубок углерода (НТУ). Теория полупроводниковых (п/п) систем дает зависимость энергии связи $\\Gamma(Т)$ от температуры $T$, обусловленную флуктуациями химических (ковалентных) связей (ФХС). Рассчитанные п/п-характеристики (ширина запрещенной полосы $E_g(T)$, эффективные массы электронов $m_e^*$ и дырок ($|m_h^*| > m_e^*$), электросопротивление (ЭС) и пр.) зависят от набора параметров $\\Gamma$ и ФХС. Каталитические свойства ФУЛ и НТУ, аккумуляция водорода в них, работа выхода выражаются через $\\Gamma(Т)$. Точность расчетов обусловлена определенностью задания многоэлектронных операторных спиноров (МЭОС) в пространствах Фока. Атомная и магнитная диаграммы Fe создаются конкуренцией зонных и ковалентных (в представлении МЭОС) $3d$−$t_{2g}$- и $e_g$-электронов. Антисвязующие электроны соседних узлов $\\gamma$-Fe образуют антиферромагнитный (АФМ) порядок. Его температура Нееля $T_N < 10^2$ К определяется АФМ-обменом ($A_{ex}^* \\sim \\Gamma^e$) и растет при уменьшении размера (в наночастицах $T_N > 10^2$ К), что объясняется увеличением $|\\Gamma_e|$ на поверхности частицы. При $T < T_M$ локализация $t_{2g}$-электронов в ковалентное состояние со спином $\\textbf{S}_r$ в узле $\\textbf{r}$ приводит к ферромагнитному (ФМ) порядку $\\alpha$-Fe при $T < T_c \\sim A_{ex}^t(T)$. Зависимость $T_M(B)$ от магнитного поля $B$ (даже при наличии ФМ-фазы) усиливается конкуренцией зонной и ковалентной энергий $t_{2g}$-электронов. Наблюдаемые нелинейности для намагниченности $M^2(T)$ и восприимчивости $\\chi^{−1}(T)$ интерпретируются как следствие перенормировки $A_{ex}^t(T)$ спектром ФХС. Теория сегнетоэлектрических (СЭ) фаз диэлектриков в деформационной СЭ-модели интерпретирует квадратичную зависимость СЭ-поляризации $Р(Т)$ и ее скачок $Р(Т_с) \\sim Р(0)$ в точках $Т_с$ переходов первого рода для BaTiO$_3$ и других СЭ-кристаллов."
+	},
+	"keywords": {
+		"ua": "ковалентні зв’язки та зони провідности, багатоелектронні операторні спінори, флуктуації хемічного зв’язку, заборонена смуга, рухомості електронів і дірок, $\\alpha$-Fe—$\\gamma$-Fe переход, ковалентна природа спінового обміну і поляризації сеґнетоелектриків",
+		"en": "covalent bonds and conduction zones, many-electron operator spinors, chemical bond fluctuations, band gap, electron and hole mobilities, $\\alpha$-Fe—$\\gamma$-Fe transition, covalent nature of spin exchange and ferroelectric polarization",
+		"ru": "ковалентные связи и зоны проводимости, многоэлектронные операторные спиноры, флуктуации химической связи, запрещенная полоса, подвижности электронов и дырок, $\\alpha$-Fe—$\\gamma$-Fe переход, ковалентная природа спинового обмена и поляризации сегнетоэлектриков"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Міцек", "en": "O. I. Mitsek", "ru": "А. И. Мицек"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  2,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.11.01.061",
+				"cit": "O. I. Mitsek, <a href=\"https://doi.org/10.15407/ufm.11.01.061\">Usp. Fiz. Met. <b>11</b>, 61 (2010)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.13.04.345",
+				"cit": "O. I. Mitsek, <a href=\"https://doi.org/10.15407/ufm.13.04.345\">Usp. Fiz. Met. <b>13</b>, 345 (2012)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 33,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Д. И. Блохинцев, Основы квантовой механики (Москва: Высшая школа: 1961).",
+				"tr":  "D. I. Blokhintsev, Osnovy kvantovoy mekhaniki (Moskva: Vysshaya shkola: 1961)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, Металлофиз. новейшие технол., 26, № 12: 1553 (2004).",
+				"tr":  "A. I. Mitsek, Metallofiz. Noveishie Tekhnol., 26, No. 12: 1553 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Маделунг, Теория твердого тела (Москва: Наука: 1980).",
+				"tr":  "O. Madelung, Teoriya tverdogo tela (Moskva: Nauka: 1980)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. П. Ирхин, В. Ю. Ирхин, Электронное строение и физические свойства переходных металлов (Свердловск: Изд. Урал. гос. ун-та: 1989).",
+				"tr":  "Yu. P. Irkhin, V. Yu. Irkhin, Elektronnoe stroenie i fizicheskie svoystva perekhodnykh metallov (Sverdlovsk: Izd. Ural. gos. un-ta: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "J. S. Phillips, Bonds and Bands in Semiconductors (New York: Academic Press: 1973).",
+				"tr":  "J. S. Phillips, Bonds and Bands in Semiconductors (New York: Academic Press: 1973)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, В. Н. Пушкарь, Металлофиз. новейшие технол., 27, № 10: 1369 (2005).",
+				"tr":  "A. I. Mitsek, V. N. Pushkar', Metallofiz. Noveishie Tekhnol., 27, No. 10: 1369 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, В. Н. Пушкарь, Металлофиз. новейшие технол., 27, № 12: 1591 (2005).",
+				"tr":  "A. I. Mitsek, V. N. Pushkar', Metallofiz. Noveishie Tekhnol., 27, No. 12: 1591 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Вонсовский, Магнетизм (Москва: Наука: 1971).",
+				"tr":  "S. V. Vonsovskiy, Magnetizm (Moskva: Nauka: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Н. Зубарев, УФН, 71, №1: 71 (1960).",
+				"tr":  "D. N. Zubarev, UFN, 71, No.1: 71 (1960)."
+			},
+			{
+				"doi": "",
+				"or":  "А. С. Давыдов, Теория твердого тела (Москва: Наука: 1976).",
+				"tr":  "A. S. Davydov, Teoriya tverdogo tela (Moskva: Nauka: 1976)."
+			},
+			{
+				"doi": "",
+				"or":  "Ч. Киттель, Введение в физику твердого тела (Москва: Наука: 1978).",
+				"tr":  "Ch. Kittel', Vvedenie v fiziku tverdogo tela (Moskva: Nauka: 1978)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, УФЖ, 47, № 5: 469 (2002).",
+				"tr":  "A. I. Mitsek, UFZh, 47, No. 5: 469 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "Magnetic Properties of Metals (Ed. H. P. J. Wijn) (Berlin: Springer—Verlag: 1991).",
+				"tr":  "Magnetic Properties of Metals (Ed. H. P. J. Wijn) (Berlin: Springer—Verlag: 1991)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, В. Н. Пушкарь, В. А. Мицек, Металлофиз. новейшие технол., 26, № 11: (2004).",
+				"tr":  "A. I. Mitsek, V. N. Pushkar', V. A. Mitsek, Metallofiz. Noveishie Tekhnol., 26, No. 11: (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. И. Кондорский, Зонная теория магнетизма (Москва: Изд. МГУ: 1977).",
+				"tr":  "E. I. Kondorskiy, Zonnaya teoriya magnetizma (Moskva: Izd. MGU: 1977)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Lagarec, D. G. Rancourt, S. K. Rose et al., J. Magn. and Magn. Mater., 236, No. 1: 107 (2001).",
+				"tr":  "K. Lagarec, D. G. Rancourt, S. K. Rose et al., J. Magn. and Magn. Mater., 236, No. 1: 107 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "В. К. Григорович, Металлическая связь и структура металлов (Москва: Наука: 1988).",
+				"tr":  "V. K. Grigorovich, Metallicheskaya svyaz' i struktura metallov (Moskva: Nauka: 1988)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, УФЖ, 46, № 8: 850 (2001).",
+				"tr":  "A. I. Mitsek, UFZh, 46, No. 8: 850 (2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.59.8387",
+				"or":  "Yu-mei Zhou, Ding-sheng Wang, and Y. Kawazoe, Phys. Rev. B, 50, No. 13: 8387 (1999).",
+				"tr":  "Yu-mei Zhou, Ding-sheng Wang, and Y. Kawazoe, Phys. Rev. B, 50, No. 13: 8387 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Gavriljuk and H. Berns, High Nitrogen Steels (Berlin: Springer—Verlag: 1999).",
+				"tr":  "V. G. Gavriljuk and H. Berns, High Nitrogen Steels (Berlin: Springer—Verlag: 1999)."
+			},
+			{
+				"doi": "",
+				"or":  "Ж. Жермен, Гетерогенный катализ (Москва: Мир: 1961).",
+				"tr":  "Zh. Zhermen, Geterogennyy kataliz (Moskva: Mir: 1961)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Кенциг, Сегнетоэлектрики и антисегнетоэлектрики (Москва: Изд. иностр. лит.: 1960).",
+				"tr":  "V. Kentsig, Segnetoelektriki i antisegnetoelektriki (Moskva: Izd. inostr. lit.: 1960)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. А. Смоленский, Н. И. Крайник, Сегнетоэлектрики и антисегнетоэлектрики (Москва: Наука: 1968).",
+				"tr":  "G. A. Smolenskiy, N. I. Kraynik, Segnetoelektriki i antisegnetoelektriki (Moskva: Nauka: 1968)."
+			},
+			{
+				"doi": "",
+				"or":  "И. С. Желудев, Электрические кристаллы (Москва: Наука: 1979).",
+				"tr":  "I. S. Zheludev, Elektricheskie kristally (Moskva: Nauka: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Гуденаф, Магнетизм и химическая связь (Москва: Металлургия: 1968).",
+				"tr":  "D. Gudenaf, Magnetizm i khimicheskaya svyaz' (Moskva: Metallurgiya: 1968)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, УФЖ, 47, № 12: 146 (2002).",
+				"tr":  "A. I. Mitsek, UFZh, 47, No. 12: 146 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "А.И.Мицек, Металлофиз. новейшие технол., 23, № 9: 1149 (2001).",
+				"tr":  "A.I.Mitsek, Metallofiz. Noveishie Tekhnol., 23, No. 9: 1149 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "А.И.Мицек, Металлофиз. новейшие технол., 25, № 5: 561 (2003).",
+				"tr":  "A.I.Mitsek, Metallofiz. Noveishie Tekhnol., 25, No. 5: 561 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.26.5904",
+				"or":  "H. Vogt, T. A. Sanjurjo, and G.Rossbroich, Phys. Rev. B, 26, No. 10: 5904 (1982).",
+				"tr":  "H. Vogt, T. A. Sanjurjo, and G.Rossbroich, Phys. Rev. B, 26, No. 10: 5904 (1982)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.70.134107",
+				"or":  "R. Pirc and B. Blinc, Phys. Rev. B, 70, No. 13: 134107 (2004).",
+				"tr":  "R. Pirc and B. Blinc, Phys. Rev. B, 70, No. 13: 134107 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.93.087601",
+				"or":  "R. Z. Tai, K. Namikawa, and A. Sawada, Phys. Rev. Lett., 93, No. 8: 087601 (2004).",
+				"tr":  "R. Z. Tai, K. Namikawa, and A. Sawada, Phys. Rev. Lett., 93, No. 8: 087601 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "И.Е.Тамм, Основы теории электричества (Москва: Наука: 1976).",
+				"tr":  "I.E.Tamm, Osnovy teorii elektrichestva (Moskva: Nauka: 1976)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, В. Н. Пушкарь, Реальные кристаллы с магнитным порядком (Киев: Наукова думка: 1978).",
+				"tr":  "A. I. Mitsek, V. N. Pushkar', Real'nye kristally s magnitnym poryadkom (Kiev: Naukova dumka: 1978)."
+			}
+		]
+	}
+}

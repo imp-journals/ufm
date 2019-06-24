@@ -1,0 +1,318 @@
+{
+	"_id":    "UFM.20.01.052",
+	"year":   2019,
+	"volume": 20,
+	"issue":  1,
+	"pages":  [52,74],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["10.01.2019", "15.01.2019"],
+	"PACS":   " ",
+	"title":   {
+		"ua": "Квантова природа механізмів утворення моношарових структур Ag на монокристалічних напівпровідникових поверхнях",
+		"en": "The Quantum Nature of the Formation Mechanisms of Ag Monolayer Structures on the Monocrystalline Semiconductor Surfaces",
+		"ru": "Квантовая природа механизмов образования монослойных структур Ag на монокристаллических полупроводниковых поверхностях"
+	},
+	"abstract": {
+		"ua": "Оглянуто «квантову інженерію» зі створення нових форм речовини, вирощених на поверхні напівпровідникових кристалів. Проаналізовано механізми росту металевих плівок на напівпровідникових підкладинках. Розглянуто вплив підкладинки напівпровідників III–V групи на морфологію росту срібних плівок. Описано вплив температури на морфологію плівок. Встановлено умови стабільности низькотемпературного росту плівок Ag на поверхнях Si(001)2×1 і Si(111)7×7. Зроблено висновок про те, що квантові ефекти відіграють вирішальну роль у конструюванні атомарно пласких металевих шарів срібла на ряді монокристалічних площин.",
+		"en": "The ‘quantum engineering’ of creation of the new forms of matter grown on the surface of semiconductor crystals is reviewed. The growth mechanisms for metal films on the semiconductor substrates are analyzed. The effects of a semiconductor substrate of III–V group on the morphology of the silver-films’ growth are considered. An influence of temperature on the morphology of films is described. The stability conditions for a low-temperature growth of Ag films on the Si(001)2×1 and Si(111)7×7 surfaces are revealed. As concluded, the quantum effects play a crucial role in the design of atomically flat metallic silver layers on the series of single crystal planes.",
+		"ru": "Обозревается «квантовая инженерия» по созданию новых форм вещества, выращенных на поверхности полупроводниковых кристаллов. Анализируются механизмы роста металлических плёнок на полупроводниковых подложках. Рассматривается влияние подложки полупроводников III–V группы на морфологию роста серебряных плёнок. Описывается влияние температуры на морфологию плёнок. Установлены условия стабильности низкотемпературного роста плёнок Ag на поверхностях Si(001)2×1 и Si(111)7×7. Сделан вывод о том, что квантовые эффекты играют решающую роль в конструировании атомарно плоских металлических слоёв серебра на ряде монокристаллических плоскостей."
+	},
+	"keywords": {
+		"ua": "монокристалічні напівпровідникові поверхні, плівки срібла, морфологія плівок",
+		"en": "single crystal semiconductor surfaces, silver films, morphology of films",
+		"ru": "монокристаллические полупроводниковые поверхности, плёнки серебра, морфология плёнок"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Л. І. Карбівська", "en": "L. I. Karbivska", "ru": "Л. И. Карбовская"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. Я. Кузнєцова", "en": "O. Ya. Kuznetsova", "ru": "Е. Я. Кузнецова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Л. Карбівський", "en": "V. L. Karbivskyy", "ru": "В. Л. Карбовский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. С. Смоляк", "en": "S. S. Smolyak", "ru": "С. С. Смоляк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. А. Артемюк", "en": "V. A. Artemyuk", "ru": "В. А. Артемюк"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 53,
+		"list":  [
+			{
+				"doi": "10.1126/science.273.5272.226",
+				"or":  "A. R. Smith, K.-J. Chao, Q. Niu, and C.-K. Shih, Science, 273: 226 (1996).",
+				"tr":  "A. R. Smith, K.-J. Chao, Q. Niu, and C.-K. Shih, Science, 273: 226 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.70.3483",
+				"or":  "D. A. Evans, M. Alonso, R. Cimino, and K. Horn, Phys. Rev. Lett., 70: 3483 (1993).",
+				"tr":  "D. A. Evans, M. Alonso, R. Cimino, and K. Horn, Phys. Rev. Lett., 70: 3483 (1993)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.80.5381",
+				"or":  "Z. Y. Zhang, Q. Niu, and C.-K. Shih, Phys. Rev. Lett., 80: 5381 (1998).",
+				"tr":  "Z. Y. Zhang, Q. Niu, and C.-K. Shih, Phys. Rev. Lett., 80: 5381 (1998)."
+			},
+			{
+				"doi": "10.1126/science.292.5519.1131",
+				"or":  "D.-A. Luh, T. Miller, J. J. Paggel, M. Y. Chou, and T.-C. Chiang, Science, 292: 1131 (2001).",
+				"tr":  "D.-A. Luh, T. Miller, J. J. Paggel, M. Y. Chou, and T.-C. Chiang, Science, 292: 1131 (2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.93.026802",
+				"or":  "M. H. Upton, C. M. Wei, M. Y. Chou, T. Miller, and T.-C. Chiang, Phys. Rev. Lett., 93: 026802 (2004).",
+				"tr":  "M. H. Upton, C. M. Wei, M. Y. Chou, T. Miller, and T.-C. Chiang, Phys. Rev. Lett., 93: 026802 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.95.266101",
+				"or":  "D. A. Ricci, T. Miller, and T.-C. Chiang, Phys. Rev. Lett., 95: 266101 (2005).",
+				"tr":  "D. A. Ricci, T. Miller, and T.-C. Chiang, Phys. Rev. Lett., 95: 266101 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.86.5116",
+				"or":  "W. B. Su, S. H. Chang, W. B. Jian, C. S. Chang, L. J. Chen, and T. T. Tsong, Phys. Rev. Lett., 86: 5116 (2001).",
+				"tr":  "W. B. Su, S. H. Chang, W. B. Jian, C. S. Chang, L. J. Chen, and T. T. Tsong, Phys. Rev. Lett., 86: 5116 (2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.65.115406",
+				"or":  "M. Hupalo and M. C. Tringides, Phys. Rev. B, 65: 115406 (2002).",
+				"tr":  "M. Hupalo and M. C. Tringides, Phys. Rev. B, 65: 115406 (2002)."
+			},
+			{
+				"doi": "10.1063/1.2435615",
+				"or":  "H. Hong, L. Basile, P. Czoschke, A. Gray, and T.-C. Chiang, Appl. Phys. Lett., 90: 051911 (2007).",
+				"tr":  "H. Hong, L. Basile, P. Czoschke, A. Gray, and T.-C. Chiang, Appl. Phys. Lett., 90: 051911 (2007)."
+			},
+			{
+				"doi": "10.1016/j.susc.2007.10.028",
+				"or":  "M. Miyazaki and H. Hirayama, Surf. Sci., 602: 276 (2008).",
+				"tr":  "M. Miyazaki and H. Hirayama, Surf. Sci., 602: 276 (2008)."
+			},
+			{
+				"doi": "10.1016/S0039-6028(96)01393-3",
+				"or":  "G. Neuhold, L. Bartels, J. J. Paggel, and K. Horn, Surf. Sci., 376: 1 (1997).",
+				"tr":  "G. Neuhold, L. Bartels, J. J. Paggel, and K. Horn, Surf. Sci., 376: 1 (1997)."
+			},
+			{
+				"doi": "10.1016/S0039-6028(98)00627-X",
+				"or":  "L. Huang, S. J. Chey, and J. H. Weaver, Surf. Sci., 416: L1101 (1998).",
+				"tr":  "L. Huang, S. J. Chey, and J. H. Weaver, Surf. Sci., 416: L1101 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "J. H. Davis, The Physics of Low-Dimensional Semiconductors (Cambridge: Cambridge University Press: 1998).",
+				"tr":  "J. H. Davis, The Physics of Low-Dimensional Semiconductors (Cambridge: Cambridge University Press: 1998)."
+			},
+			{
+				"doi": "10.1016/j.susc.2008.09.057",
+				"or":  "H. Hirayama, Surf. Sci., 603: 1492 (2009).",
+				"tr":  "H. Hirayama, Surf. Sci., 603: 1492 (2009)."
+			},
+			{
+				"doi": "10.1016/j.susc.2004.08.011",
+				"or":  "H. Liu, Y. F. Zhang, D. Y. Wang, M. H. Pan, J. F. Jia, and Q. K. Xue, Surf. Sci., 571: 5 (2004).",
+				"tr":  "H. Liu, Y. F. Zhang, D. Y. Wang, M. H. Pan, J. F. Jia, and Q. K. Xue, Surf. Sci., 571: 5 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.43.14107",
+				"or":  "B. M. Trafas, Y. N. Yang, R. L. Siefert, and J. H. Weaver, Phys. Rev. B, 43: 14107 (1991).",
+				"tr":  "B. M. Trafas, Y. N. Yang, R. L. Siefert, and J. H. Weaver, Phys. Rev. B, 43: 14107 (1991)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.88.016102",
+				"or":  "H. Yu, C. S. Jiang, Ph. Ebert, X. D. Wang, J. M. White, Q. Niu, Z. Zhang, and C.-K. Shih, Phys. Rev. Lett., 88: 016102 (2002).",
+				"tr":  "H. Yu, C. S. Jiang, Ph. Ebert, X. D. Wang, J. M. White, Q. Niu, Z. Zhang, and C.-K. Shih, Phys. Rev. Lett., 88: 016102 (2002)."
+			},
+			{
+				"doi": "10.1017/CBO9780511622526",
+				"or":  "A. Pimpinelli and J. Villain, Physics of Crystal Growth (Cambridge: Cambridge University Press: 1998).",
+				"tr":  "A. Pimpinelli and J. Villain, Physics of Crystal Growth (Cambridge: Cambridge University Press: 1998)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.60.4988",
+				"or":  "K.-J. Chao, Zhenyu Zhang, Ph. Ebert, and C.-K. Shih, Phys. Rev. B, 60: 4988 (1999).",
+				"tr":  "K.-J. Chao, Zhenyu Zhang, Ph. Ebert, and C.-K. Shih, Phys. Rev. B, 60: 4988 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Schottky, Phys. Z., 41: 570 (1940).",
+				"tr":  "W. Schottky, Phys. Z., 41: 570 (1940)."
+			},
+			{
+				"doi": "10.1017/S0305004100020570",
+				"or":  "N. F. Mott, Proc. Cambridge Philos. Soc., 34: 568 (1938).",
+				"tr":  "N. F. Mott, Proc. Cambridge Philos. Soc., 34: 568 (1938)."
+			},
+			{
+				"doi": "10.1007/978-3-662-04459-9_1",
+				"or":  "W. Mönch, Semiconductor Surfaces and Interfaces, Springer Series in Surface Science (Eds. G. Ertl, R. Gomer, and D. L. Mills) (Berlin, Heidelberg: Springer: 1993),Vol. 26, p. 1.",
+				"tr":  "W. Mönch, Semiconductor Surfaces and Interfaces, Springer Series in Surface Science (Eds. G. Ertl, R. Gomer, and D. L. Mills) (Berlin, Heidelberg: Springer: 1993),Vol. 26, p. 1."
+			},
+			{
+				"doi": "10.1016/j.susc.2006.01.103",
+				"or":  "P. Kocán, I. Oštádal, and P. Sobotík, Surf. Sci., 600: 3928 (2006).",
+				"tr":  "P. Kocán, I. Oštádal, and P. Sobotík, Surf. Sci., 600: 3928 (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.67.153307",
+				"or":  "M. Hossain, Y. Yamashita, K. Mukai, and J. Yoshinobu, Phys. Rev. B, 67: 153307 (2003).",
+				"tr":  "M. Hossain, Y. Yamashita, K. Mukai, and J. Yoshinobu, Phys. Rev. B, 67: 153307 (2003)."
+			},
+			{
+				"doi": "10.1016/j.susc.2004.02.015",
+				"or":  "S. Okano and A. Oshiyama, Surf. Sci., 554: 272 (2004).",
+				"tr":  "S. Okano and A. Oshiyama, Surf. Sci., 554: 272 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.94.176104",
+				"or":  "C. Zhang, G. Chen, K. Wang, H. Yang, T. Su, C. T. Chan, M. M. T. Loy, and Xudong Xiao, Phys. Rev. Lett., 94: 176104 (2005).",
+				"tr":  "C. Zhang, G. Chen, K. Wang, H. Yang, T. Su, C. T. Chan, M. M. T. Loy, and Xudong Xiao, Phys. Rev. Lett., 94: 176104 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.94.036103",
+				"or":  "K. Wang, C. Zhang, M. Loy, and X. Xiao, Phys. Rev. Lett., 94: 036103 (2005).",
+				"tr":  "K. Wang, C. Zhang, M. Loy, and X. Xiao, Phys. Rev. Lett., 94: 036103 (2005)."
+			},
+			{
+				"doi": "10.1016/S0039-6028(03)00608-3",
+				"or":  "P. Sobotík, P. Kocán, I. Oštʹádal, Surf. Sci., 537: L442 (2003).",
+				"tr":  "P. Sobotík, P. Kocán, I. Oštʹádal, Surf. Sci., 537: L442 (2003)."
+			},
+			{
+				"doi": "10.1016/S0039-6028(00)01039-6",
+				"or":  "T. Jarolímek, P. Sobotík, I. Oštʹádal, and J. Mysliveček, Surf. Sci., 482: 386 (2001).",
+				"tr":  "T. Jarolímek, P. Sobotík, I. Oštʹádal, and J. Mysliveček, Surf. Sci., 482: 386 (2001)."
+			},
+			{
+				"doi": "10.1016/S0368-2048(02)00145-7",
+				"or":  "I. Matsuda and H. W. Yeom, J. Electron Spectrosc. Relat. Phenom., 126: 101 (2002).",
+				"tr":  "I. Matsuda and H. W. Yeom, J. Electron Spectrosc. Relat. Phenom., 126: 101 (2002)."
+			},
+			{
+				"doi": "10.1016/S0039-6028(99)00574-9",
+				"or":  "I. Matsuda, H. W. Yeom, and K. Tono, and T. Ohta, Surf. Sci., 438: 231 (1999).",
+				"tr":  "I. Matsuda, H. W. Yeom, and K. Tono, and T. Ohta, Surf. Sci., 438: 231 (1999)."
+			},
+			{
+				"doi": "10.1007/BF01304449",
+				"or":  "H. Wern, R. Courths, G. Leschik, and S. Hufner, Z. Phys. B, 60: 293 (1985).",
+				"tr":  "H. Wern, R. Courths, G. Leschik, and S. Hufner, Z. Phys. B, 60: 293 (1985)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.50.17560",
+				"or":  "F. Patthey and W.-D. Schneider, Phys. Rev. B, 50: 17560 (1994).",
+				"tr":  "F. Patthey and W.-D. Schneider, Phys. Rev. B, 50: 17560 (1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.41.5214",
+				"or":  "M. A. Müller, T. Miller, and T.-C. Chiang, Phys. Rev. B, 41: 5214 (1990).",
+				"tr":  "M. A. Müller, T. Miller, and T.-C. Chiang, Phys. Rev. B, 41: 5214 (1990)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.50.17686",
+				"or":  "T. Miller, A. Samsavar, and T.-C. Chiang, Phys. Rev. B, 50: 17686 (1994).",
+				"tr":  "T. Miller, A. Samsavar, and T.-C. Chiang, Phys. Rev. B, 50: 17686 (1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.78.1327",
+				"or":  "G. Neuhold and K. Horn, Phys. Rev. Lett., 78: 1327 (1997).",
+				"tr":  "G. Neuhold and K. Horn, Phys. Rev. Lett., 78: 1327 (1997)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.72.085435",
+				"or":  "M. Watai and H. Hirayama, Phys. Rev. B, 72: 085435 (2005).",
+				"tr":  "M. Watai and H. Hirayama, Phys. Rev. B, 72: 085435 (2005)."
+			},
+			{
+				"doi": "10.1016/0039-6028(84)90673-3",
+				"or":  "E. J. Leonen, M. Iwami, R. M. Tromp, and J. F. van der Veen, Surf. Sci., 137: 1 (1984).",
+				"tr":  "E. J. Leonen, M. Iwami, R. M. Tromp, and J. F. van der Veen, Surf. Sci., 137: 1 (1984)."
+			},
+			{
+				"doi": "10.1016/S0039-6028(00)00536-7",
+				"or":  "F. Moresco, M. Rocca, T. Hildebrandt, and M. Henzler, Surf. Sci., 463: 22 (2000).",
+				"tr":  "F. Moresco, M. Rocca, T. Hildebrandt, and M. Henzler, Surf. Sci., 463: 22 (2000)."
+			},
+			{
+				"doi": "10.1063/1.111197",
+				"or":  "G. Meyer and K.H. Rieder, Appl. Phys. Lett., 64: 3560 (1994).",
+				"tr":  "G. Meyer and K.H. Rieder, Appl. Phys. Lett., 64: 3560 (1994)."
+			},
+			{
+				"doi": "10.1016/0039-6028(95)00325-8",
+				"or":  "G. Meyer and K. H. Rieder, Surf. Sci., 331–333: 600 (1995).",
+				"tr":  "G. Meyer and K. H. Rieder, Surf. Sci., 331–333: 600 (1995)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.72.075402",
+				"or":  "P. Czoschke, H. Hong, L. Basile, and T.-C. Chiang, Phys. Rev. B, 72: 075402 (2005).",
+				"tr":  "P. Czoschke, H. Hong, L. Basile, and T.-C. Chiang, Phys. Rev. B, 72: 075402 (2005)."
+			},
+			{
+				"doi": "10.1016/S0167-5729(01)00012-7",
+				"or":  "B. Voigtlander, Surf. Sci. Rept., 43: 127 (2001).",
+				"tr":  "B. Voigtlander, Surf. Sci. Rept., 43: 127 (2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.72.3570",
+				"or":  "J. Tersoff and F. K. Le Gouse, Phys. Rev. Lett., 72: 3570 (1994).",
+				"tr":  "J. Tersoff and F. K. Le Gouse, Phys. Rev. Lett., 72: 3570 (1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.62.13136",
+				"or":  "S. Nakanishi, K. Umezawa, M. Yoshimura, and K. Ueda, Phys. Rev. B, 62: 13136 (2000).",
+				"tr":  "S. Nakanishi, K. Umezawa, M. Yoshimura, and K. Ueda, Phys. Rev. B, 62: 13136 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "N. W. Ashcroft and N. D. Mermin, Solid State Physics (New York: Holt, Rinehart and Winston: 1976).",
+				"tr":  "N. W. Ashcroft and N. D. Mermin, Solid State Physics (New York: Holt, Rinehart and Winston: 1976)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.60.4880",
+				"or":  "T. G. Pedersen, K. Pedersen, and T. B. Kristensen, Phys. Rev. B, 60: R13997 (1999).",
+				"tr":  "T. G. Pedersen, K. Pedersen, and T. B. Kristensen, Phys. Rev. B, 60: R13997 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Miyzaki, Master Thesis (Tokyo: Tokyo Institute of Technology: 2008).",
+				"tr":  "M. Miyzaki, Master Thesis (Tokyo: Tokyo Institute of Technology: 2008)."
+			},
+			{
+				"doi": "10.1063/1.2773630",
+				"or":  "Z. Tang, J. Teng, Y. Jiang, J. Jia, J. Guo, and K. Wu, Appl. Phys. Lett., 102: 053504 (2007).",
+				"tr":  "Z. Tang, J. Teng, Y. Jiang, J. Jia, J. Guo, and K. Wu, Appl. Phys. Lett., 102: 053504 (2007)."
+			},
+			{
+				"doi": "10.1063/1.1530714",
+				"or":  "T. Muller, H. Niehaus, J. Appl. Phys., 93: 924 (2003).",
+				"tr":  "T. Muller, H. Niehaus, J. Appl. Phys., 93: 924 (2003)."
+			},
+			{
+				"doi": "10.1016/S0167-5729(00)00006-6",
+				"or":  "T.-C. Chiang, Surf. Sci. Rep., 39: 181 (2000).",
+				"tr":  "T.-C. Chiang, Surf. Sci. Rep., 39: 181 (2000)."
+			},
+			{
+				"doi": "10.1080/00018739300101474",
+				"or":  "J. J. Boland, Adv. Phys., 42: 129 (1993).",
+				"tr":  "J. J. Boland, Adv. Phys., 42: 129 (1993)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.65.195410",
+				"or":  "A. Arranz, J. F. Sancez-Royo, J. Avila, V. Perez-Dieste, P. Dumas, and M. C. Asensio, Phys. Rev. B, 65: 195410 (2002).",
+				"tr":  "A. Arranz, J. F. Sancez-Royo, J. Avila, V. Perez-Dieste, P. Dumas, and M. C. Asensio, Phys. Rev. B, 65: 195410 (2002)."
+			}
+		]
+	}
+}

@@ -1,0 +1,63 @@
+{
+	"year":   2000,
+	"volume": 1,
+	"issue":  1,
+	"toc": [
+		{
+			"type":    2,
+			"pages":  [1,1],
+			"title": {
+				"ua": "До авторів та читачів журналу «Успехи физики металлов»",
+				"en": "For authors and readers of the journal 'Uspehi Fiziki Metallov'",
+				"ru": "К авторам и читателям журнала «Успехи физики металлов»"
+			},
+			"autors": {
+				"ua": "Б. Є. Патон",
+				"en": "B. E. Paton",
+				"ru": "Б. Е. Патон"
+			}
+		},
+		{
+			"type":    2,
+			"pages":  [3,7],
+			"title": {
+				"ua": "Щоквартальні огляди в журналі «Успехи физики металлов»",
+				"en": "Quarterly Reviews in the Journal 'Uspehi Fiziki Metallov'",
+				"ru": "Ежеквартальные обзоры в журнале «Успехи физики металлов»"
+			},
+			"autors": {
+				"ua": "Редакційна колеґія",
+				"en": "Editorial Board",
+				"ru": "Редакционная коллегия"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [9,48],
+			"title": {
+				"ua": "Аномалії у деформаційній поведінці інтерметаліда TiAl",
+				"en": "Anomalies in Deformation Behaviour of TiAl Intermetallic",
+				"ru": "Аномалии в деформационном поведении интерметаллида TiAl"
+			},
+			"autors": {
+				"ua": "Б. A. Грінберг, M. О. Іванов",
+				"en": "B. A. Greenberg, M. A. Ivanov",
+				"ru": "Б. A. Гринберг, M. A. Иванов"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [49,152],
+			"title": {
+				"ua": "Піннінг і динаміка вихорей Абрикосова, дефекти кристалічної структури та проблема густини критичного струму в монокристалах і біаксиально-орієнтованих плівках ВТСП YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$",
+				"en": "Pinning and dynamics of Abrikosov vortices, crystalline defects, and problem of critical current density in monocrystals and biaxially-oriented YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$ high-temperature superconductor films",
+				"ru": "Пиннинг и динамика вихрей Абрикосова, дефекты кристаллической структуры и проблема плотности критического тока в монокристаллах и биаксиально-ориентированных пленках ВТСП YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$"
+			},
+			"autors": {
+				"ua": "B. M. Пан",
+				"en": "B. M. Pan",
+				"ru": "В. М. Пан"
+			}
+		}
+	]
+}

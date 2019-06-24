@@ -1,0 +1,166 @@
+{
+	"_id":    "UFM.17.03.229",
+	"year":   2016,
+	"volume": 17,
+	"issue":  3,
+	"pages":  [229,251],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["30.06.2016"],
+	"PACS":   "72.25.Mk, 75.47.-m, 75.50.Ee, 75.76.+j, 75.78.-n, 76.50.+g, 85.75.-d",
+	"title":   {
+		"ua": "Особливості мікрохвильової магнетної динаміки у наноструктурах із сильною спін-орбітальною взаємодією",
+		"en": "Features of Microwave Magnetic Dynamics in Nanostructures with Strong Spin–Orbit Interaction",
+		"ru": "Особенности микроволновой магнитной динамики в наноструктурах с сильным спин-орбитальным взаимодействием"
+	},
+	"abstract": {
+		"ua": "Вивчаються особливості магнетної динаміки, індукованої вхідним зарядовим струмом і спін-орбітальною взаємодією в багатошарових наноструктурах з немагнетними прошарками на основі важких металів зі сильною спін-орбітальною взаємодією. Спіновий Голлів ефект перетворення вхідного зарядового струму в поперечний (відносно зарядового струму) спіновий струм, діючий на магнетну динаміку через передачу спінового крутильного моменту, забезпечує збудження магнетної динаміки, включаючи прецесію та перемикання. Магнетодинамічний ефект ґенерування спінового струму накачки разом зі зворотнім Голловим ефектом перетворення спінового струму в зарядовий струм забезпечує вплив магнетної динаміки на вхідний зарядовий струм. Такі прямий і зворотній впливи між вхідним зарядовим струмом і магнетною динамікою можуть становити основу спін-орбітально керованої осциляції магнетного порядку в феро- або антиферомагнетних прошарках наноструктур. Показано, що досліджувані магнетні наноструктури можуть мати властивості контрольованого мікрохвильового випромінення, що може досягати десятків ТГц у випадку антиферомагнетних матеріялів.",
+		"en": "Features of the current spin–orbit induced magnetic dynamics in multilayer nanostructures with nonmagnetic heavy metal layers possessing by a strong spin–orbit interaction are studied. The spin Hall effect of the conversion of an incoming charge current into a transverse (with respect to the charge current) spin current impacting on the magnetic dynamics through a spin-transfer torque provides the excitation of the magnetic dynamics including magnetic precession and switching. The magneto-dynamic effect of a spin current pumping generation together with the inverse spin Hall effect of conversion of the spin current into the incoming charge current provide the influence of the magnetic dynamics on the incoming charge current. These feedforward and feedback between the incoming charge current and the magnetic dynamics can be the basis for the spin–orbit driven self-sustained and auto-oscillations of a magnetic order in ferro- and antiferromagnetics layers of the nanostructures. It is shown that the considered magnetic nanostructures can possess by properties of controlled microwave radiation attaining tens THz in the antiferromagnetic case.",
+		"ru": "Изучаются особенности магнитной динамики, индуцируемой входным зарядовым током и спин-орбитальным взаимодействием в многослойных наноструктурах с немагнитными прослойками на основе тяжёлых металлов с сильным спин-орбитальным взаимодействием. Спиновый эффект Холла превращения входного зарядового тока в поперечный (относительно зарядового тока) спиновый ток, действующий на магнитную динамику через передачу спинового крутильного момента, обеспечивает изменение магнитной динамики, включающей прецессию и переключение. Магнитодинамический эффект генерирования спинового тока накачки вместе с обратным эффектом Холла превращения спинового тока в зарядовый ток обеспечивает влияние магнитной динамики на входной зарядовый ток. Такие прямое и обратное воздействия между входным зарядовым током и магнитной динамикой могут представлять основу для спин-орбитально управляемой осцилляции магнитного порядка в ферро- или антиферромагнитных прослойках. Показано, что исследуемые магнитные наноструктуры могут обладать свойствами контролируемого микроволнового излучения, достигающего десятков ТГц в случае антиферромагнитных материалов."
+	},
+	"keywords": {
+		"ua": "магнетні наноструктури, спіновий Голлів ефект, спіновий крутильний момент, магнетна динаміка, ефект спінової накачки, спіновий струм, обернений спіновий Голлів ефект",
+		"en": "magnetic nanostructures, spin Hall effect, spin current, spin transfer torque, magnetic dynamics, spin pumping effect, spin current, inverse spin Hall effect",
+		"ru": "магнитные наноструктуры, спиновый эффект Холла, спиновый крутильный момент, магнитная динамика, эффект спиновой накачки, спиновый ток, обратный спиновый эффект Холла"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. М. Коростіль", "en": "A. M. Korostil", "ru": "А. М. Коростиль"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "М. М. Крупа", "en": "M. M. Krupa", "ru": "Н. Н. Крупа"},
+			"OID": [7]
+		}
+	],
+	"references": {
+		"count": 25,
+		"list":  [
+			{
+				"doi": "10.1103/RevModPhys.76.323",
+				"or":  "L. Zutic, J. Fabian, and S. Sarma, Rev. Mod. Phys., 76, No. 3: 323 (2004).",
+				"tr":  "L. Zutic, J. Fabian, and S. Sarma, Rev. Mod. Phys., 76, No. 3: 323 (2004)."
+			},
+			{
+				"doi": "10.1038/nmat4360",
+				"or":  "A. Manchon, H. C. Koo, J. Nitta, S. M. Frolov, and R. A. Duine, Nature Mater., 36, No. 7: 871 (2015).",
+				"tr":  "A. Manchon, H. C. Koo, J. Nitta, S. M. Frolov, and R. A. Duine, Nature Mater., 36, No. 7: 871 (2015)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.87.1213",
+				"or":  "J. Sinova, S. Valenzuela, J. Wunderlich, C. H. Back, and T. Jungwirth, Rev. Mod. Phys., 87, No. 6: 1213 (2015).",
+				"tr":  "J. Sinova, S. Valenzuela, J. Wunderlich, C. H. Back, and T. Jungwirth, Rev. Mod. Phys., 87, No. 6: 1213 (2015)."
+			},
+			{
+				"doi": "10.1126/science.1218197",
+				"or":  "L. Liu, C.-F. Pai, Y. Li, H. W. Tseng, D. C. Ralph, and R. A. Buhrman, Science, 336: 555 (2012).",
+				"tr":  "L. Liu, C.-F. Pai, Y. Li, H. W. Tseng, D. C. Ralph, and R. A. Buhrman, Science, 336: 555 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.110.147601",
+				"or":  "R. H. Liu, W. L. Lim, and S. Urazhdin, Phys. Rev. Lett., 110: 147601 (2013).",
+				"tr":  "R. H. Liu, W. L. Lim, and S. Urazhdin, Phys. Rev. Lett., 110: 147601 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "N. V. Volkov, Physics-Uspekhi, 55, No. 6: 263 (2012).",
+				"tr":  "N. V. Volkov, Physics-Uspekhi, 55, No. 6: 263 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.83.1834",
+				"or":  "J. E. Hirsch, Phys. Rev. Lett., 83: 1834 (1999).",
+				"tr":  "J. E. Hirsch, Phys. Rev. Lett., 83: 1834 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.99.206601",
+				"or":  "E. M. Chudnovsky, Phys. Rev. Lett., 99: 206601 (2007).",
+				"tr":  "E. M. Chudnovsky, Phys. Rev. Lett., 99: 206601 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "I. M. Miron, G. Gaudin, S. Auffer, B. Rodmacq, A. Schuhl, S. Pizzini, J. Vogel, and P. Gambardalla, Nature Matter., 9: 230 (2010).",
+				"tr":  "I. M. Miron, G. Gaudin, S. Auffer, B. Rodmacq, A. Schuhl, S. Pizzini, J. Vogel, and P. Gambardalla, Nature Matter., 9: 230 (2010)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.79.094422",
+				"or":  "A. Manchon and S. Zhang, Phys. Rev. B, 79, No. 10: 094422-1 (2009).",
+				"tr":  "A. Manchon and S. Zhang, Phys. Rev. B, 79, No. 10: 094422-1 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.108.117201",
+				"or":  "X. Wang, and A. Manchon, Phys. Rev. Lett., 108: 117201 (2012).",
+				"tr":  "X. Wang, and A. Manchon, Phys. Rev. Lett., 108: 117201 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Cheng, J.-G. Zhu, and D. Xiao, arXiv: 01618v1 (2016).",
+				"tr":  "R. Cheng, J.-G. Zhu, and D. Xiao, arXiv: 01618v1 (2016)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.81.144427",
+				"or":  "H. V. Gomonay and V. M. Loktev, Phys. Rev. B, 81, No. 5: 144427 (2010).",
+				"tr":  "H. V. Gomonay and V. M. Loktev, Phys. Rev. B, 81, No. 5: 144427 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Cheng and D. Xiao, arXiv: 1509.09229v2 (2016).",
+				"tr":  "R. Cheng and D. Xiao, arXiv: 1509.09229v2 (2016)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.90.014428",
+				"or":  "Ya. Tserkovnyak and S. A. Bender, Phys. Rev. B, 90, No. 7: 014428 (2014).",
+				"tr":  "Ya. Tserkovnyak and S. A. Bender, Phys. Rev. B, 90, No. 7: 014428 (2014)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.66.224403",
+				"or":  "Ya. Tserkovnyak, A. Brataas, and E. W. Bauer, Phys. Rev. B, 66, No. 11: 224403 (2002).",
+				"tr":  "Ya. Tserkovnyak, A. Brataas, and E. W. Bauer, Phys. Rev. B, 66, No. 11: 224403 (2002)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.113.057601",
+				"or":  "R. Cheng, J. Xiao, Q. Niu, and A. Brataas, Phys. Rev. Lett., 113: 057601 (2014).",
+				"tr":  "R. Cheng, J. Xiao, Q. Niu, and A. Brataas, Phys. Rev. Lett., 113: 057601 (2014)."
+			},
+			{
+				"doi": "10.1088/0953-8984/8/39/011",
+				"or":  "M. Hagiwara, K. Katsumata, I. Yamada, and H. Suzuki, J. Phys.: Condens. Matter, 8: 7349 (1996).",
+				"tr":  "M. Hagiwara, K. Katsumata, I. Yamada, and H. Suzuki, J. Phys.: Condens. Matter, 8: 7349 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.58.R10135",
+				"or":  "P. W. Brouwer, Phys. Rev. B, 58: R10135 (1998).",
+				"tr":  "P. W. Brouwer, Phys. Rev. B, 58: R10135 (1998)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.110.127208",
+				"or":  "O. A. Tretiakov and A. Brataas, Phys. Rev. Lett., 110: 127208 (2013).",
+				"tr":  "O. A. Tretiakov and A. Brataas, Phys. Rev. Lett., 110: 127208 (2013)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.86.245118",
+				"or":  "R. Cheng and Q. Niu, Phys. Rev. B, 86, No. 9: 245118 (2012).",
+				"tr":  "R. Cheng and Q. Niu, Phys. Rev. B, 86, No. 9: 245118 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.108.217202",
+				"or":  "K.-W. Kim, J.-H. Moon., K.-J. Lee, and H.-W. Lee, Phys. Rev. Lett., 108: 217202 (2012).",
+				"tr":  "K.-W. Kim, J.-H. Moon., K.-J. Lee, and H.-W. Lee, Phys. Rev. Lett., 108: 217202 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.80.184411",
+				"or":  "C. H. Wong and Ya. Tserkovnyak, Phys. Rev. B, 80, No. 12: 184411 (2009).",
+				"tr":  "C. H. Wong and Ya. Tserkovnyak, Phys. Rev. B, 80, No. 12: 184411 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.54.9353",
+				"or":  "L. Berger, Phys Rev. B, 54, No. 15: 9353 (1996).",
+				"tr":  "L. Berger, Phys Rev. B, 54, No. 15: 9353 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.66.060404",
+				"or":  "A. Brataas, Ya. Tserkovnyak, and E. W. Bauer, Phys. Rev. B, 66, No. 14: 060404 (2002).",
+				"tr":  "A. Brataas, Ya. Tserkovnyak, and E. W. Bauer, Phys. Rev. B, 66, No. 14: 060404 (2002)."
+			}
+		]
+	}
+}

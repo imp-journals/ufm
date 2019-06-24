@@ -1,0 +1,707 @@
+{
+	"_id":    "UFM.10.04.415",
+	"year":   2009,
+	"volume": 10,
+	"issue":  4,
+	"pages":  [415,435],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["21.12.2009"],
+	"PACS":   "06.60.Vz, 46.55.+d, 61.72.Hh, 62.20.Qp, 81.40.Pq, 83.50.Lh",
+	"title":   {
+		"ua": "Металознавчі аспекти в процесах руйнування металевих матеріялів за тертя",
+		"en": "Physical-Metallurgy Aspects in Processes of Fracture of Metal Materials at Friction",
+		"ru": "Металловедческие аспекты в процессах разрушения металлических материалов при трении"
+	},
+	"abstract": {
+		"ua": "Виконано огляд праць, в яких розглянуто вплив механічних характеристик, хімічного складу, параметрів мікроструктури на зносостійкість сталей. Показано, що металознавчий підхід до питань трибології є одним з основних шляхів для суттєвого підвищення експлуатаційних властивостей рухомих з’єднань.",
+		"en": "The review of articles is performed, in which the influences of mechanical characteristics, chemical composition, microstructure parameters on the wear resistance of steels are discussed. As shown, the physical-metallurgy approach for tribology problems is one of the main ways to the considerable increasing of performance characteristics of sliding joints.",
+		"ru": "Проведен обзор работ, в которых рассмотрено влияние механических характеристик, химического состава, параметров микроструктуры на износостойкость сталей. Показано, что металловедческий подход к вопросам трибологии является одним из основных путей для существенного повышения эксплуатационных свойств подвижных соединений."
+	},
+	"keywords": {
+		"ua": "сталь (криця), механічні характеристики, хемічний склад, мікроструктура, зносостійкість",
+		"en": "steel, mechanical characteristics, chemical composition, microstructure, wear resistance",
+		"ru": "сталь, механические характеристики, химический состав, микроструктура, износостойкость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. А. Беспалов", "en": "S. A. Bespalov", "ru": "С. А. Беспалов"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 134,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Д. Н. Гаркунов, Триботехника (Москва: Машиностроение: 1989).",
+				"tr":  "D. N. Garkunov, Tribotekhnika (Moskva: Mashinostroenie: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Крагельский, Трение и износ (Москва: Машиностроение: 1968).",
+				"tr":  "I. V. Kragel'skiy, Trenie i iznos (Moskva: Mashinostroenie: 1968)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. М. Плескавский, В. Н. Савицкий, В. В. Кончиц, В. А. Барабась, Трение и износ, 16, № 3: 404 (1995).",
+				"tr":  "Yu. M. Pleskavskiy, V. N. Savitskiy, V. V. Konchits, V. A. Barabas', Trenie i iznos, 16, No. 3: 404 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Польцер, Ф. Майсснер, Основы трения и изнашивания (Москва: Машиностроение: 1984) (пер. с нем.).",
+				"tr":  "G. Pol'tser, F. Mayssner, Osnovy treniya i iznashivaniya (Moskva: Mashinostroenie: 1984) (per. s nem.)."
+			},
+			{
+				"doi": "",
+				"or":  "А. С. Пронников, Надежность машин (Москва: Машиностроение: 1978).",
+				"tr":  "A. S. Pronnikov, Nadezhnost' mashin (Moskva: Mashinostroenie: 1978)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Н. Иванов, Детали машин (Москва: Высшая школа: 1991).",
+				"tr":  "M. N. Ivanov, Detali mashin (Moskva: Vysshaya shkola: 1991)."
+			},
+			{
+				"doi": "",
+				"or":  "М. І. Пашечко, І. В. Гурей, Металознавство та обробка металів, № 4: 19 (1999).",
+				"tr":  "M. І. Pashechko, І. V. Gurey, Metaloznavstvo ta obrobka metalіv, No. 4: 19 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Когаев, Ю. Н. Дроздов, Прочность и износостойкость деталей машин (Москва: Высшая школа: 1991).",
+				"tr":  "V. P. Kogaev, Yu. N. Drozdov, Prochnost' i iznosostoykost' detaley mashin (Moskva: Vysshaya shkola: 1991)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Козырев, Гидроабразивный износ металлов при кавитации (Москва: Машиностроение: 1971).",
+				"tr":  "S. P. Kozyrev, Gidroabrazivnyy iznos metallov pri kavitatsii (Moskva: Mashinostroenie: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "А. С. Попов, Н. Н. Брыков, Н.С. Дмитриченко, Износостойкость прессформ огнеупорного производства (Москва: Металлургия: 1971).",
+				"tr":  "A. S. Popov, N. N. Brykov, N.S. Dmitrichenko, Iznosostoykost' pressform ogneupornogo proizvodstva (Moskva: Metallurgiya: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Виноградов, Г. К. Шрейбер, Г.М. Сорокин, Ударно-абразивный износ буровых долот (Москва: Недра: 1975).",
+				"tr":  "V. N. Vinogradov, G. K. Shreyber, G.M. Sorokin, Udarno-abrazivnyy iznos burovykh dolot (Moskva: Nedra: 1975)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Виноградов, Г. М. Сорокин, А. Н. Пашков, В. М. Рубарх, Долговечность буровых долот (Москва: Недра: 1977).",
+				"tr":  "V. N. Vinogradov, G. M. Sorokin, A. N. Pashkov, V. M. Rubarkh, Dolgovechnost' burovykh dolot (Moskva: Nedra: 1977)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Н. Гаркунов, А. А. Поляков, Повышение износостойкости деталей конструкций самолетов (Москва: Машиностроение: 1974).",
+				"tr":  "D. N. Garkunov, A. A. Polyakov, Povyshenie iznosostoykosti detaley konstruktsiy samoletov (Moskva: Mashinostroenie: 1974)."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Тененбаум, Сопротивление абразивному изнашиванию (Москва: Машиностроение: 1974).",
+				"tr":  "M. M. Tenenbaum, Soprotivlenie abrazivnomu iznashivaniyu (Moskva: Mashinostroenie: 1974)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Е. Денисова, В. А. Шорин, И. Н. Гонтарь, Н. И. Волчихина, Триботехническое материаловедение и триботехнология: учебное пособие (ред. Н. Е. Денисова) (Пенза: Изд-во Пенз. гос. ун-та: 2006).",
+				"tr":  "N. E. Denisova, V. A. Shorin, I. N. Gontar', N. I. Volchikhina, Tribotekhnicheskoe materialovedenie i tribotekhnologiya: uchebnoe posobie (red. N. E. Denisova) (Penza: Izd-vo Penz. gos. un-ta: 2006)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Баходур, Проблемы трения и смазки, № 2: 1 (1978).",
+				"tr":  "S. Bakhodur, Problemy treniya i smazki, No. 2: 1 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Голубец, В. В. Козуб, К. П. Табинский, Физико-химическая механика материалов, № 4: 73 (1975).",
+				"tr":  "V. M. Golubets, V. V. Kozub, K. P. Tabinskiy, Fiziko-khimicheskaya mekhanika materialov, No. 4: 73 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. М. Лахтин, Я. Д. Коган, Е. С. Тарлат, Физико-химическая механика материалов, № 5: 57 (1977).",
+				"tr":  "Yu. M. Lakhtin, Ya. D. Kogan, E. S. Tarlat, Fiziko-khimicheskaya mekhanika materialov, No. 5: 57 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Павліський, Науковий вісник НАУ, № 4: 160 (1998).",
+				"tr":  "V. M. Pavlіs'kiy, Naukoviy vіsnik NAU, No. 4: 160 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Б. Кацов, Р. А. Хруник, Физико-химическая механика материалов, № 5: 90 (1979).",
+				"tr":  "K. B. Katsov, R. A. Khrunik, Fiziko-khimicheskaya mekhanika materialov, No. 5: 90 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "І. С. Керницький, В. В. Козуб, М. І. Пашечко, Вісник ДУ «Львівська політехніка». Оптимізація виробничих процесів і технічний контроль у машинобудуванні і приладобудуванні, № 371: 93 (1999).",
+				"tr":  "І. S. Kernits'kiy, V. V. Kozub, M. І. Pashechko, Vіsnik DU 'Lvіvska polіtekhnіka'. Optimіzatsіya virobnichikh protsesіv і tekhnіchniy kontrol' u mashinobuduvannі і priladobuduvannі, No. 371: 93 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Павліський, Підвищення надійності і економічності автотракторних двигунів (Тернопіль: Збруч: 1998).",
+				"tr":  "V. M. Pavlіs'kiy, Pіdvishchennya nadіynostі і ekonomіchnostі avtotraktornikh dvigunіv (Ternopіl': Zbruch: 1998)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Я. Лизун, Вісник ДУ «Львівська політехніка». Оптимізація виробничих процесів і технічний контроль у машинобудуванні і приладобудуванні, № 371: 97 (1999).",
+				"tr":  "O. Ya. Lizun, Vіsnik DU 'Lvіvska polіtekhnіka'. Optimіzatsіya virobnichikh protsesіv і tekhnіchniy kontrol' u mashinobuduvannі і priladobuduvannі, No. 371: 97 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. А. Хруник, Фізико-хімічна механіка матеріалів, № 3: 102 (2000).",
+				"tr":  "R. A. Khrunik, Fіziko-khіmіchna mekhanіka materіalіv, No. 3: 102 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. М. Сорокин, В. Н. Малышев, Трение и износ, 26, № 6: 598 (2005).",
+				"tr":  "G. M. Sorokin, V. N. Malyshev, Trenie i iznos, 26, No. 6: 598 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Крагельский, Трение и износ (Москва: Машгиз: 1962).",
+				"tr":  "I. V. Kragel'skiy, Trenie i iznos (Moskva: Mashgiz: 1962)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Крагельский, М. Н. Добычин, В. С. Комбалов, Основы расчётов на трение и износ (Москва: Машиностроение: 1977).",
+				"tr":  "I. V. Kragel'skiy, M. N. Dobychin, V. S. Kombalov, Osnovy raschetov na trenie i iznos (Moskva: Mashinostroenie: 1977)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Фляйшер, Контактное взаимодействие твердых тел и расчет сил трения и износа (Москва: Наука: 1968), С. 163.",
+				"tr":  "G. Flyaysher, Kontaktnoe vzaimodeystvie tverdykh tel i raschet sil treniya i iznosa (Moskva: Nauka: 1968), S. 163."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Фляйшер, Теоретические и прикладные задачи трения, износа и смазки машин (Москва: Наука: 1982), с. 285.",
+				"tr":  "G. Flyaysher, Teoreticheskie i prikladnye zadachi treniya, iznosa i smazki mashin (Moskva: Nauka: 1982), s. 285."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Хрущов, М. А. Бабичев, Абразивное изнашивание (Москва: Наука: 1970).",
+				"tr":  "M. M. Khrushchov, M. A. Babichev, Abrazivnoe iznashivanie (Moskva: Nauka: 1970)."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Хрущов, М. А. Бабичев, Исследование изнашивания металлов (Москва: Изд. АН СССР: 1960).",
+				"tr":  "M. M. Khrushchov, M. A. Babichev, Issledovanie iznashivaniya metallov (Moskva: Izd. AN SSSR: 1960)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Беркович, Д. Г. Громаковский, Трибология (ред. Д. Г. Громаковский) (Самара: Изд-во Самар. гос. техн. ун-та: 2000).",
+				"tr":  "I. I. Berkovich, D. G. Gromakovskiy, Tribologiya (red. D. G. Gromakovskiy) (Samara: Izd-vo Samar. gos. tekhn. un-ta: 2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. П. Боуден, Д. Тейбор, Трение и граничная смазка: Сб. статей (ред. И. В. Крагельский) (Москва: Изд-во иностр. лит.: 1953).",
+				"tr":  "F. P. Bouden, D. Teybor, Trenie i granichnaya smazka: Sb. statey (red. I. V. Kragel'skiy) (Moskva: Izd-vo inostr. lit.: 1953)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Б. Демкин, Контактирование шероховатых поверхностей (Москва: Наука: 1970).",
+				"tr":  "N. B. Demkin, Kontaktirovanie sherokhovatykh poverkhnostey (Moskva: Nauka: 1970)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Коровчинский, Вопросы трения и проблемы смазки, Ч. 1. (Москва: Наука: 1996), с. 98.",
+				"tr":  "M. V. Korovchinskiy, Voprosy treniya i problemy smazki, Ch. 1. (Moskva: Nauka: 1996), s. 98."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Крагельский, М. Н. Добычин, В. С. Комбалов, Основы расчетов на трение и износ (Москва: Машиностроение: 1977).",
+				"tr":  "I. V. Kragel'skiy, M. N. Dobychin, V. S. Kombalov, Osnovy raschetov na trenie i iznos (Moskva: Mashinostroenie: 1977)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Рапопорт, Л. М. Рыбакова, Трение и износ, 8, № 5: 888 (1987).",
+				"tr":  "L. S. Rapoport, L. M. Rybakova, Trenie i iznos, 8, No. 5: 888 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Рапопорт, Л. М. Рыбакова, Трение и износ, 8, № 6: 1038 (1987).",
+				"tr":  "L. S. Rapoport, L. M. Rybakova, Trenie i iznos, 8, No. 6: 1038 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "О. О. Євтушенко, Є. Г. Іваник, Н. В. Горбачова, Фізико-хімічна механіка матеріалів, № 6: 52 (2000).",
+				"tr":  "O. O. Yevtushenko, Ye. G. Іvanik, N. V. Gorbachova, Fіziko-khіmіchna mekhanіka materіalіv, No. 6: 52 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. И. Костецкий, Н. Ф. Колесниченко, Качество поверхности и трение в машинах (Киев: Техника: 1969).",
+				"tr":  "B. I. Kostetskiy, N. F. Kolesnichenko, Kachestvo poverkhnosti i trenie v mashinakh (Kiev: Tekhnika: 1969)."
+			},
+			{
+				"doi": "",
+				"or":  "И. М. Любарский, Л. С. Палатник, Металлофизика трения (Москва: Металлургия: 1976).",
+				"tr":  "I. M. Lyubarskiy, L. S. Palatnik, Metallofizika treniya (Moskva: Metallurgiya: 1976)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Виноградов, Г. М. Сорокин, М. Г. Колокольников, Абразивное изнашивание (Москва: Машиностроение: 1990).",
+				"tr":  "V. N. Vinogradov, G. M. Sorokin, M. G. Kolokol'nikov, Abrazivnoe iznashivanie (Moskva: Mashinostroenie: 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Виноградов, Г. М. Сорокин, Износостойкость сталей и сплавов (Москва: Нефть и газ: 1994).",
+				"tr":  "V. N. Vinogradov, G. M. Sorokin, Iznosostoykost' staley i splavov (Moskva: Neft' i gaz: 1994)."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Тененбаум, Износостойкость конструкционных материалов (Москва: Машиностроение: 1966).",
+				"tr":  "M. M. Tenenbaum, Iznosostoykost' konstruktsionnykh materialov (Moskva: Mashinostroenie: 1966)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Кащеев, Абразивное разрушение твердых тел (Москва: Наука: 1970).",
+				"tr":  "V. N. Kashcheev, Abrazivnoe razrushenie tverdykh tel (Moskva: Nauka: 1970)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Львов, Основы абразивной износостойкости деталей строительных машин (Москва: Стройиздат: 1970).",
+				"tr":  "V. N. L'vov, Osnovy abrazivnoy iznosostoykosti detaley stroitel'nykh mashin (Moskva: Stroyizdat: 1970)."
+			},
+			{
+				"doi": "10.1016/0043-1648(91)90209-D",
+				"or":  "Liquin Xu and N. F. Kennon, Wear, 148, No. 1: 101 (1991).",
+				"tr":  "Liquin Xu and N. F. Kennon, Wear, 148, No. 1: 101 (1991)."
+			},
+			{
+				"doi": "10.1016/0043-1648(93)90368-V",
+				"or":  "Buqian Wang, Gangqiag Geng, and A. V. Levi, Wear, 165, No. 1: 25 (1993).",
+				"tr":  "Buqian Wang, Gangqiag Geng, and A. V. Levi, Wear, 165, No. 1: 25 (1993)."
+			},
+			{
+				"doi": "10.1016/0043-1648(92)90189-F",
+				"or":  "J. E. Garnham and J. H. Beynon, Wear, 157, No. 1: 81 (1992).",
+				"tr":  "J. E. Garnham and J. H. Beynon, Wear, 157, No. 1: 81 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. М. Гуреев, А. П. Сидоров, С. В. Ямщиков, Трение и износ, 13, № 5: 881 (1992).",
+				"tr":  "D. M. Gureev, A. P. Sidorov, S. V. Yamshchikov, Trenie i iznos, 13, No. 5: 881 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "В. О. Титовская, Н. Н. Титовский, Совершенствование строительных машин для условий Сибири и севера (Красноярск: 1988), С. 87.",
+				"tr":  "V. O. Titovskaya, N. N. Titovskiy, Sovershenstvovanie stroitel'nykh mashin dlya usloviy Sibiri i severa (Krasnoyarsk: 1988), S. 87."
+			},
+			{
+				"doi": "",
+				"or":  "Н. В. Яблокова, Разработка метода оценки износостойкости сталей по механическим свойствам применительно к абразивному изнашиванию (Автореф. дисс. … канд. техн. наук) (Москва: 1984).",
+				"tr":  "N. V. Yablokova, Razrabotka metoda otsenki iznosostoykosti staley po mekhanicheskim svoystvam primenitel'no k abrazivnomu iznashivaniyu (Avtoref. diss. … kand. tekhn. nauk) (Moskva: 1984)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. М. Сорокин, Вестник машиностроения, № 5: 35 (1975).",
+				"tr":  "G. M. Sorokin, Vestnik mashinostroeniya, No. 5: 35 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. М. Сорокин, Вестник машиностроения, № 5: 11 (1986).",
+				"tr":  "G. M. Sorokin, Vestnik mashinostroeniya, No. 5: 11 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. М. Сорокин, Вестник машиностроения, № 11: 9 (1990).",
+				"tr":  "G. M. Sorokin, Vestnik mashinostroeniya, No. 11: 9 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. М. Сорокин, В. Н. Малышев, Трение и износ, 26, № 6: 598 (2005).",
+				"tr":  "G. M. Sorokin, V. N. Malyshev, Trenie i iznos, 26, No. 6: 598 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. М. Сорокин, Вестник машиностроения, № 2: 10 (1995).",
+				"tr":  "G. M. Sorokin, Vestnik mashinostroeniya, No. 2: 10 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Дакворт, Металловедение и термическая обработка металлов, № 11: 54 (1965).",
+				"tr":  "V. Dakvort, Metallovedenie i termicheskaya obrabotka metallov, No. 11: 54 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Лоскутов, М. М. Бобіна, Металознавство та обробка металів, № 1: 46 (1995).",
+				"tr":  "V. F. Loskutov, M. M. Bobina, Metaloznavstvo ta obrobka metaliv, No. 1: 46 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. М. Сорокин, Ю. В. Кривошеев, Надежность и сертификация оборудования для нефти и газа, № 4: 31 (2003).",
+				"tr":  "G. M. Sorokin, Yu. V. Krivosheev, Nadezhnost' i sertifikatsiya oborudovaniya dlya nefti i gaza, No. 4: 31 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Г. Назаров, Исследование влияния механических свойств и энергетического состояния поверхностей сталей на характеристики трения (Автореферат дисс. … канд. техн. наук) (Москва: 1983).",
+				"tr":  "G. G. Nazarov, Issledovanie vliyaniya mekhanicheskikh svoystv i energeticheskogo sostoyaniya poverkhnostey staley na kharakteristiki treniya (Avtoreferat diss. … kand. tekhn. nauk) (Moskva: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. М. Рыбакова, Л. И. Куксенова, Структура и износостойкость металла (Москва: Машиностроение: 1982).",
+				"tr":  "L. M. Rybakova, L. I. Kuksenova, Struktura i iznosostoykost' metalla (Moskva: Mashinostroenie: 1982)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Шур, Н. Я. Бычкова, Д. П. Марков, Н. Н. Кузьмин, Трение и износ, 16, № 1: 80 (1995).",
+				"tr":  "E. A. Shur, N. Ya. Bychkova, D. P. Markov, N. N. Kuz'min, Trenie i iznos, 16, No. 1: 80 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Вихрова, Т. В. Ларин, Ю. М. Парышев, Л. С. Хургин, Вестник ВИИЖТ, № 6: 34 (1983).",
+				"tr":  "A. M. Vikhrova, T. V. Larin, Yu. M. Paryshev, L. S. Khurgin, Vestnik VIIZhT, No. 6: 34 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. П. Марков, Вестник ВИИЖТ, № 3, 10 (1995).",
+				"tr":  "D. P. Markov, Vestnik VIIZhT, No. 3, 10 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "Singhai Biam, S. Maj, and P. Borland, Wear, 166, No. 1: 1 (1993).",
+				"tr":  "Singhai Biam, S. Maj, and P. Borland, Wear, 166, No. 1: 1 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. В. Ларин, Износ и пути продления службы бандажей железнодорожных колес (Москва: Трансжелдориздат: 1958).",
+				"tr":  "T. V. Larin, Iznos i puti prodleniya sluzhby bandazhey zheleznodorozhnykh koles (Moskva: Transzheldorizdat: 1958)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Виноградов, Г. М. Сорокин, В. А. Доценко, Абразивное изнашивание бурильного инструмента (Москва: Недра: 1980).",
+				"tr":  "V. N. Vinogradov, G. M. Sorokin, V. A. Dotsenko, Abrazivnoe iznashivanie buril'nogo instrumenta (Moskva: Nedra: 1980)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Шур, Конструкционная прочность стали и термическая обработка рельсов (Автореферат дисс. … докт. техн. наук) (Москва: 1980).",
+				"tr":  "E. A. Shur, Konstruktsionnaya prochnost' stali i termicheskaya obrabotka rel'sov (Avtoreferat diss. … dokt. tekhn. nauk) (Moskva: 1980)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Г. Узлов, В. К. Бабич, Н. Г. Мирошниченко, М. А. Дружинин, Вестник ВНИИЖТ, № 3: 43 (1978).",
+				"tr":  "I. G. Uzlov, V. K. Babich, N. G. Miroshnichenko, M. A. Druzhinin, Vestnik VNIIZhT, No. 3: 43 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Г. Узлов, Сталь, № 7: 648 (1971).",
+				"tr":  "I. G. Uzlov, Stal', No. 7: 648 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Г. Узлов, С. Е. Подольский, О. Н. Перков, Залізничний транспорт України, № 2–3: 26 (1997).",
+				"tr":  "I. G. Uzlov, S. E. Podol'skiy, O. N. Perkov, Zalіznichniy transport Ukraini, Nos. 2-3: 26 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Б. Пикеринг, Физическое металловедение и разработка стали (Москва: Металлургия: 1982).",
+				"tr":  "F. B. Pikering, Fizicheskoe metallovedenie i razrabotka stali (Moskva: Metallurgiya: 1982)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Mitura, Hutnicke Aktuality, No. 7: 26 (1985).",
+				"tr":  "R. Mitura, Hutnicke Aktuality, No. 7: 26 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Г. Узлов, В. К. Бабич, Н. Г. Мирошниченко, О. М. Савчук и др., Вестник ВНИИЖТ, № 1: 43 (1989).",
+				"tr":  "I. G. Uzlov, V. K. Babich, N. G. Miroshnichenko, O. M. Savchuk et al., Vestnik VNIIZhT, No. 1: 43 (1989)."
+			},
+			{
+				"doi": "10.1016/0043-1648(90)90037-B",
+				"or":  "P. Clayton and D. Dants, Wear, 135, No. 2: 369 (1990).",
+				"tr":  "P. Clayton and D. Dants, Wear, 135, No. 2: 369 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. Р. Раузин, Е. А. Шур, М. М. Носков, Металловедение и термическая обработка металлов, № 9: 20 (1969).",
+				"tr":  "Ya. R. Rauzin, E. A. Shur, M. M. Noskov, Metallovedenie i termicheskaya obrabotka metallov, No. 9: 20 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Цыпин, В. И. Конторович, Д. Д. Зуев, В. А. Гольдштейн, Металловедение и термическая обработка металлов, № 10: 26 (1991).",
+				"tr":  "I. I. Tsypin, V. I. Kontorovich, D. D. Zuev, V. A. Gol'dshteyn, Metallovedenie i termicheskaya obrabotka metallov, No. 10: 26 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Владимирова, Металловедение и термическая обработка металлов, № 10: 4 (1992).",
+				"tr":  "V. V. Vladimirova, Metallovedenie i termicheskaya obrabotka metallov, No. 10: 4 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Мухамедов, Металловедение и термическая обработка металлов, № 7: 31 (1968).",
+				"tr":  "A. A. Mukhamedov, Metallovedenie i termicheskaya obrabotka metallov, No. 7: 31 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "С. М. Шамахсудов, Термическая обработка и сварка металлов, № 192: 12 (1977).",
+				"tr":  "S. M. Shamakhsudov, Termicheskaya obrabotka i svarka metallov, No. 192: 12 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Мухамедов, С. М. Шамахсудов, Изв. ВУЗов. Черная металлургия, № 7: 115 (1979).",
+				"tr":  "A. A. Mukhamedov, S. M. Shamakhsudov, Izv. VUZov. Chernaya metallurgiya, No. 7: 115 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Мирсолиев, А. А. Мухамедов, С. М. Шамахсудов, Доклады АН УзССР, № 11, 19 (1980).",
+				"tr":  "M. M. Mirsoliev, A. A. Mukhamedov, S. M. Shamakhsudov, Doklady AN UzSSR, No. 11, 19 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Мухамедов, Термическая обработка, сварка и свойства металлов, № 297: 3 (1980).",
+				"tr":  "A. A. Mukhamedov, Termicheskaya obrabotka, svarka i svoystva metallov, No. 297: 3 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "С. У. Алимов, М. М. Мирсолиев, Литейное производство, термическая обработка и износостойкость сталей и сплавов, № 320: 14 (1981).",
+				"tr":  "S. U. Alimov, M. M. Mirsoliev, Liteynoe proizvodstvo, termicheskaya obrabotka i iznosostoykost' staley i splavov, No. 320: 14 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Мухамедов, Литейное производство, термическая обработка и износостойкость сталей и сплавов, № 320: 2 (1981).",
+				"tr":  "A. A. Mukhamedov, Liteynoe proizvodstvo, termicheskaya obrabotka i iznosostoykost' staley i splavov, No. 320: 2 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Баранов, В. Б. Беляев, В. М. Власов, Фізико-хімічна механіка матеріалів, № 6: 70 (1992).",
+				"tr":  "V. V. Baranov, V. B. Belyaev, V. M. Vlasov, Fіziko-khіmіchna mekhanіka materіalіv, No. 6: 70 (1992)."
+			},
+			{
+				"doi": "10.1016/0043-1648(91)90184-V",
+				"or":  "T. Chandrasekaran, K. A. Natarajan, and W. Kishore, Wear, 147, No. 2: 267 (1991).",
+				"tr":  "T. Chandrasekaran, K. A. Natarajan, and W. Kishore, Wear, 147, No. 2: 267 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Батаев, Л. И. Тушинский, В. А. Батаев, Металловедение и термическая обработка металлов, № 6: 25 (1996).",
+				"tr":  "A. A. Bataev, L. I. Tushinskiy, V. A. Bataev, Metallovedenie i termicheskaya obrabotka metallov, No. 6: 25 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "You Wang, Chin. J. Mech. Eng., 28, No. 2: 39 (1992).",
+				"tr":  "You Wang, Chin. J. Mech. Eng., 28, No. 2: 39 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. А. Михайличенко, Д. И. Тараско, Труды Всесоюзной научно-технической конференции «Новые материалы, ресурсосберегающие технологии и химико-термическая обработка в машиностроении и металлургии» (Новокузнецк: 1991), с. 20.",
+				"tr":  "T. A. Mikhaylichenko, D. I. Tarasko, Trudy Vsesoyuznoy nauchno-tekhnicheskoy konferentsii «Novye materialy, resursosberegayushchie tekhnologii i khimiko-termicheskaya obrabotka v mashinostroenii i metallurgii» (Novokuznetsk: 1991), s. 20."
+			},
+			{
+				"doi": "",
+				"or":  "С. М. Шахмасхудов, Т. А. Мухамедов, Изв. ВУЗов. Черная металлургия, № 2: 68 (1990).",
+				"tr":  "S. M. Shakhmaskhudov, T. A. Mukhamedov, Izv. VUZov. Chernaya metallurgiya, No. 2: 68 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Р. Назаренко, В. Ф. Янковый, М. А. Долинская, П. М. Яковенко, Металловедение и термическая обработка металлов, № 6: 32 (1992).",
+				"tr":  "V. R. Nazarenko, V. F. Yankovyy, M. A. Dolinskaya, P. M. Yakovenko, Metallovedenie i termicheskaya obrabotka metallov, No. 6: 32 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "М. П. Шебатинов, Ю. Е. Абраменко, Н. И. Бех, Высокопрочностной чугун в автомобилестроении (Москва: Машиностроение: 1988).",
+				"tr":  "M. P. Shebatinov, Yu. E. Abramenko, N. I. Bekh, Vysokoprochnostnoy chugun v avtomobilestroenii (Moskva: Mashinostroenie: 1988)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. П. Марков, Вестник ВИИЖТ, № 2: 28 (1994).",
+				"tr":  "D. P. Markov, Vestnik VIIZhT, No. 2: 28 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Корзников, И. М. Сафаров, Р. З. Валиев, Б. М. Бронфин и др., Металловедение и термическая обработка металлов, № 2: 27 (1993).",
+				"tr":  "A. V. Korznikov, I. M. Safarov, R. Z. Valiev, B. M. Bronfin et al., Metallovedenie i termicheskaya obrabotka metallov, No. 2: 27 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. А. Салищев, Б. А. Сугубеков, К. Г. Фархутдинов, Ф. А. Файрулин, Металловедение и термическая обработка металлов, № 5: 7 (1995).",
+				"tr":  "G. A. Salishchev, B. A. Sugubekov, K. G. Farkhutdinov, F. A. Fayrulin, Metallovedenie i termicheskaya obrabotka metallov, No. 5: 7 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Кабанов, И. Н. Мелькумов, Т. Б. Мочалова, С. Б. Масленков и др., Металловедение и термическая обработка металлов, № 6: 37 (1990).",
+				"tr":  "I. V. Kabanov, I. N. Mel'kumov, T. B. Mochalova, S. B. Maslenkov et al., Metallovedenie i termicheskaya obrabotka metallov, No. 6: 37 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. В. Херцберг, Деформация и механика разрушения конструкционных материалов (Москва: Металлургия: 1989).",
+				"tr":  "R. V. Khertsberg, Deformatsiya i mekhanika razrusheniya konstruktsionnykh materialov (Moskva: Metallurgiya: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. К. Гордиенко, Субструктурное упрочнение металлов и сплавов (Москва: Наука: 1973).",
+				"tr":  "L. K. Gordienko, Substrukturnoe uprochnenie metallov i splavov (Moskva: Nauka: 1973)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. А. Островский, В. И. Саррак, К. З. Шепеляковский, Р. И. Энтин, Металловедение и термическая обработка металлов, № 6: 56 (1967).",
+				"tr":  "G. A. Ostrovskiy, V. I. Sarrak, K. Z. Shepelyakovskiy, R. I. Entin, Metallovedenie i termicheskaya obrabotka metallov, No. 6: 56 (1967)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Н. Кидин, Термическая обработка стали при индукционном нагреве (Москва: Металлургия: 1950).",
+				"tr":  "I. N. Kidin, Termicheskaya obrabotka stali pri induktsionnom nagreve (Moskva: Metallurgiya: 1950)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Н. Кидин, Физические основы электротермической обработки металлов и сплавов (Москва: Металлургия: 1969).",
+				"tr":  "I. N. Kidin, Fizicheskie osnovy elektrotermicheskoy obrabotki metallov i splavov (Moskva: Metallurgiya: 1969)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Мак-Лин, Механические свойства металлов (Москва: Металлургия: 1965).",
+				"tr":  "D. Mak-Lin, Mekhanicheskie svoystva metallov (Moskva: Metallurgiya: 1965)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Калмыков, И. Г. Узлов, И. Я. Раздобреев, И. Я. Гречная, Фізико-хімічна механіка матеріалів, № 2: 119 (1999).",
+				"tr":  "V. V. Kalmykov, I. G. Uzlov, I. Ya. Razdobreev, I. Ya. Grechnaya, Fіziko-khіmіchna mekhanіka materіalіv, No. 2: 119 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Б. Винокур, Карбидные превращения в конструкционных сталях (Киев: Наукова думка: 1988).",
+				"tr":  "B. B. Vinokur, Karbidnye prevrashcheniya v konstruktsionnykh stalyakh (Kiev: Naukova dumka: 1988)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Амулявичус, М. Бальчюнянс, П. Перретис. Д. Юзакенас, Металловедение и термическая обработка металлов, № 1: 12 (1994).",
+				"tr":  "A. Amulyavichus, M. Bal'chyunyans, P. Perretis. D. Yuzakenas, Metallovedenie i termicheskaya obrabotka metallov, No. 1: 12 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "Справочник по триботехнике: в 3 т. Т. 1. Теоретические основы (ред. М. Хебда, А. В. Чичинадзе) (Москва: Машиностроение: 1989).",
+				"tr":  "Spravochnik po tribotekhnike: v 3 t. T. 1. Teoreticheskie osnovy (red. M. Khebda, A. V. Chichinadze) (Moskva: Mashinostroenie: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. И. Вороненко, Металловедение и термическая обработка металлов, № 8: 12 (1996).",
+				"tr":  "B. I. Voronenko, Metallovedenie i termicheskaya obrabotka metallov, No. 8: 12 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Герасимов, С. Д. Карпухин, В. К. Кучерявый, Э. Д. Елисеев и др., Металловедение и термическая обработка металлов, № 6: 13 (1994).",
+				"tr":  "S. A. Gerasimov, S. D. Karpukhin, V. K. Kucheryavyy, E. D. Eliseev et al., Metallovedenie i termicheskaya obrabotka metallov, No. 6: 13 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "В. І. Ульшин, Металознавство та обробка металів, № 1: 27 (1995).",
+				"tr":  "V. I. Ul'shin, Metaloznavstvo ta obrobka metaliv, No. 1: 27 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Поліщук, Металознавство та обробка металів, № 1–2: 88 (1999).",
+				"tr":  "A. V. Polіshchuk, Metaloznavstvo ta obrobka metalіv, No. 1–2: 88 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "А. С. Шейн, И. Н. Веселов, Трение и износ, 8, № 1: 178 (1987).",
+				"tr":  "A. S. Sheyn, I. N. Veselov, Trenie i iznos, 8, No. 1: 178 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Кузін, С. А. Беспалов, Вісник ДУ «Львівська політехніка». Оптимізація виробничих процесів і технічний контроль у машинобудуванні і приладобудуванні, № 371: 49 (1999).",
+				"tr":  "O. A. Kuzіn, S. A. Bespalov, Vіsnik DU 'Lvіvska polіtekhnіka'. Optimіzatsіya virobnichikh protsesіv і tekhnіchniy kontrol' u mashinobuduvannі і priladobuduvannі, No. 371: 49 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Летуновский, Физико-механические и эксплуатационные свойства инструментальных и конструкционных материалов (Красноярск: 1976), С. 63.",
+				"tr":  "V. V. Letunovskiy, Fiziko-mekhanicheskie i ekspluatatsionnye svoystva instrumental'nykh i konstruktsionnykh materialov (Krasnoyarsk: 1976), S. 63."
+			},
+			{
+				"doi": "",
+				"or":  "Сверхмелкое зерно в металлах: Сб. статей (ред. Л. К. Гордиенко) (Москва: Металлургия: 1973) (пер. с англ.).",
+				"tr":  "Sverkhmelkoe zerno v metallakh: Sb. statey (Ed. L. K. Gordienko) (Moskva: Metallurgiya: 1973) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. М. Коровайченко, Вісник ДУ «Львівська політехніка». Оптимізація виробничих процесів і технічний контроль у машинобудуванні і приладобудуванні, № 371: 116 (1999).",
+				"tr":  "Yu. M. Korovaychenko, Vіsnik DU 'Lvіvska polіtekhnіka'. Optimіzatsіya virobnichikh protsesіv і tekhnіchniy kontrol' u mashinobuduvannі і priladobuduvannі, No. 371: 116 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Кузін, С. А. Беспалов, Вісник ДУ «Львівська політехніка». Оптимізація виробничих процесів і технічний контроль у машинобудуванні і приладобудуванні, № 412: 114 (2000).",
+				"tr":  "O. A. Kuzіn, S. A. Bespalov, Vіsnik DU 'Lvіvska polіtekhnіka'. Optimіzatsіya virobnichikh protsesіv і tekhnіchniy kontrol' u mashinobuduvannі і priladobuduvannі, No. 412: 114 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Кузін, С. А. Беспалов, П. Ю. Волосевич, Ю. А. Гарасим, Вісник НУ «Львівська політехніка». Оптимізація виробничих процесів і технічний контроль у машинобудуванні і приладобудуванні, № 422: 104 (2001).",
+				"tr":  "O. A. Kuzіn, S. A. Bespalov, P. Yu. Volosevich, Yu. A. Garasim, Vіsnik NU 'Lvіvska polіtekhnіka'. Optimіzatsіya virobnichikh protsesіv і tekhnіchniy kontrol' u mashinobuduvannі і priladobuduvannі, No. 422: 104 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Кузін, С. А. Беспалов, Т. М. Мещерякова, Фізико-хімічна механіка матеріалів, № 3: 91 (2001).",
+				"tr":  "O. A. Kuzіn, S. A. Bespalov, T. M. Meshcheryakova, Fіziko-khіmіchna mekhanіka materіalіv, No. 3: 91 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. К. Ткаченко, А. М. Плевич, В. Г. Ефременко, В. А Русецкий, О механизмах изнашивания двухфазных сплавов абразивными частицами (Мариуполь: Мариупольский металлург. ин-т: 1990) (Деп. в УкрНИИНТИ 08.06.90, № 994 – Ук90). 13 с.",
+				"tr":  "F. K. Tkachenko, A. M. Plevich, V. G. Efremenko, V. A Rusetskiy, O mekhanizmakh iznashivaniya dvukhfaznykh splavov abrazivnymi chastitsami (Mariupol': Mariupol'skiy metallurg. in-t: 1990) (Dep. v UkrNIINTI 08.06.90, No. 994 – Uk90). 13 s."
+			},
+			{
+				"doi": "",
+				"or":  "Б. И. Костецкий, И. Г. Носовский, Износостойкость и антифрикционность деталей машин (Киев: Техника: 1965).",
+				"tr":  "B. I. Kostetskiy, I. G. Nosovskiy, Iznosostoykost' i antifriktsionnost' detaley mashin (Kiev: Tekhnika: 1965)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Ю. Волосевич, С. А. Беспалов, Металлофиз. новейшие технол., 24, № 11: 1573 (2002).",
+				"tr":  "P. Yu. Volosevich, S. A. Bespalov, Metallofiz. Noveishie Tekhnol., 24, No. 11: 1573 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Шпагин, Антифрикционные сплавы (Москва: Металлургиздат: 1956).",
+				"tr":  "A. I. Shpagin, Antifriktsionnye splavy (Moskva: Metallurgizdat: 1956)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Жуков, Г. И. Сильман, М. С. Фрольцов, Износостойкие отливки из комплексно-легированных чугунов (Москва: Машиностроение: 1984).",
+				"tr":  "A. A. Zhukov, G. I. Sil'man, M. S. Frol'tsov, Iznosostoykie otlivki iz kompleksno-legirovannykh chugunov (Moskva: Mashinostroenie: 1984)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Половинчук, О. В. Сенченко, Вісник Вінницького політехнічного інституту, № 6: 70 (1999).",
+				"tr":  "V. P. Polovinchuk, O. V. Senchenko, Vіsnik Vіnnits'kogo polіtekhnіchnogo іnstitutu, No. 6: 70 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "М. І. Пашечко, Проблеми трибології, № 2: 31 (1997).",
+				"tr":  "M. І. Pashechko, Problemi tribologіi, No. 2: 31 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "З. С. Бройде, М. Л. Ларин, Е. А. Марченко, Трение и износ, 18, № 2: 213 (1997).",
+				"tr":  "Z. S. Broyde, M. L. Larin, E. A. Marchenko, Trenie i iznos, 18, No. 2: 213 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. А. Баглюк, Л. А. Позняк, Порошковая металлургия, № 1–2: 44 (2001).",
+				"tr":  "G. A. Baglyuk, L. A. Poznyak, Poroshkovaya metallurgiya, No. 1–2: 44 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. А. Баглюк, Л. А. Позняк, Порошковая металлургия, № 3–4: 94 (2001).",
+				"tr":  "G. A. Baglyuk, L. A. Poznyak, Poroshkovaya metallurgiya, No. 3–4: 94 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. М. Русин, А. П. Савицкий, Л. И. Тушинский, Трение и износ, 19, № 3: 391 (1998).",
+				"tr":  "N. M. Rusin, A. P. Savitskiy, L. I. Tushinskiy, Trenie i iznos, 19, No. 3: 391 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Ю. Волосевич, С. А. Беспалов, Металлофиз. новейшие технол., 26, № 5: 691 (2004).",
+				"tr":  "P. Yu. Volosevich, S. A. Bespalov, Metallofiz. Noveishie Tekhnol., 26, No. 5: 691 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Ю. Волосевич, С. А. Беспалов, Металлофиз. новейшие технол., 27, № 6: 841 (2005).",
+				"tr":  "P. Yu. Volosevich, S. A. Bespalov, Metallofiz. Noveishie Tekhnol., 27, No. 6: 841 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Ю. Волосевич, С. А. Беспалов, Металознавство та обробка металів, № 2: 37 (2006).",
+				"tr":  "P. Yu. Volosevich, S. A. Bespalov, Metaloznavstvo ta obrobka metalіv, No. 2: 37 (2006)."
+			}
+		]
+	}
+}

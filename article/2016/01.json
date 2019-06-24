@@ -1,0 +1,63 @@
+{
+	"year":   2016,
+	"volume": 17,
+	"issue":  1,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [1,28],
+			"title": {
+				"ua": "Одержані електродуговим напорошенням наномасштабні багатошарові покриття на основі нітриду для захисту від зношування, корозії й окиснення",
+				"en": "Arc-Evaporated Nanoscale Multilayer Nitride-Based Coatings for Protection Against Wear, Corrosion, and Oxidation",
+				"ru": "Полученные электродуговым напылением наномасштабные многослойные покрытия на основе нитрида для защиты от износа, коррозии и окисления"
+			},
+			"autors": {
+				"ua": "О. Д. Погребняк, О. М. Івасишин, В. М. Береснєв",
+				"en": "A. D. Pogrebnjak, O. M. Ivasishin, and  V. M. Beresnev",
+				"ru": "А. Д. Погребняк, О. М. Ивасишин, В. М. Береснев"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [29,51],
+			"title": {
+				"ua": "Аналіза конкурентоспроможних метод підвищення експлуатаційних властивостей функціональних шарів пласких нагрівальних елементів",
+				"en": "The Analysis of Competitive Methods of Improvement of Operational Properties of Functional Layers of Flat Heating Elements",
+				"ru": "Анализ конкурентоспособных методов повышения эксплуатационных свойств функциональных слоёв плоских нагревательных элементов"
+			},
+			"autors": {
+				"ua": "З. А. Дурягіна, Т. М. Ковбасюк, С. А. Беспалов",
+				"en": "Z. A. Duriagina, T. M. Kovbasyuk, and  S. A. Bespalov",
+				"ru": "З. А. Дурягина, Т. М. Ковбасюк, С. А. Беспалов"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [53,81],
+			"title": {
+				"ua": "Нова теорія електронного газу в магнетному полі та задачі для теорії й експерименту",
+				"en": "The New Theory of Electron Gas in a Magnetic Field and Tasks for Theory and Experiment",
+				"ru": "Новая теория электронного газа в магнитном поле и задачи для теории и эксперимента"
+			},
+			"autors": {
+				"ua": "І. М. Дубровський",
+				"en": "I. M. Dubrovskyi",
+				"ru": "И. М. Дубровский"
+			}
+		},
+		{
+			"type":    2,
+			"pages":  [83,87],
+			"title": {
+				"ua": "До 70-річчя професора А. М. Глезера",
+				"en": "In Commemoration of the 70th Anniversary of Birthday of Professor A. M. Glezer",
+				"ru": "К 70-летию профессора А. М. Глезера"
+			},
+			"autors": {
+				"ua": "Редакційна колегія",
+				"en": "Editorial Board",
+				"ru": "Редакционная коллегия"
+			}
+		}
+	]
+}

@@ -1,0 +1,437 @@
+{
+	"_id":    "UFM.19.02.115",
+	"year":   2018,
+	"volume": 19,
+	"issue":  2,
+	"pages":  [115,151],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["23.03.2018", "03.04.2018"],
+	"PACS":   "75.30.Gw, 75.45.+j, 75.60.Ch, 75.70.Ak, 75.70.Kw, 75.75.Fk, 75.78.Fg, 85.70.Kh",
+	"title":   {
+		"ua": "Макроскопічні квантові ефекти у доменних межах одновісних феромагнетних плівок із сильною магнетною анізотропією",
+		"en": "Macroscopic Quantum Effects in Domain Boundaries of the Uniaxial Ferromagnetic Films with the Strong Magnetic Anisotropy",
+		"ru": "Макроскопические квантовые эффекты в доменных границах одноосных ферромагнитных плёнок с сильной магнитной анизотропией"
+	},
+	"abstract": {
+		"ua": "Оглядаються квантові ефекти (тунелювання, надбар’єрне відбивання, осциляції), що мають місце для нанорозмірних елементів внутрішньої структури доменних стінок (вертикальні Блохові лінії та точки) у феромагнетних плівках із сильною одновісною магнетною анізотропією. Визначено умови реалізації цих явищ. На основі квантових властивостей пари однополярних вертикальних Блохових ліній у доменній стінці смугового магнетного домену запропоновано новий тип комірки пам’яті «біт + кубіт» для перспективного запам’ятовувального пристрою з гібридною формою запису інформації.",
+		"en": "The quantum effects (tunnelling, reflection above a barrier, oscillations) occurring for nanosize elements of the interior structure of domain walls (vertical Bloch lines and Bloch points) in the ferromagnetic films with a strong uniaxial magnetic anisotropy are reviewed. Conditions for the realization of these phenomena are determined. Based on the quantum properties of a pair of unipolar vertical Bloch lines in the domain wall of the stripe magnetic domain, a new-type memory cell ‘bit + qubit’ is proposed for a prospective memory device with a hybrid form of the information recording.",
+		"ru": "Обозреваются квантовые эффекты (туннелирование, надбарьерное отражение, осцилляции), которые имеют место для наноразмерных элементов внутренней структуры доменных границ (вертикальные линии и точки Блоха) в ферромагнитных плёнках с сильной одноосной магнитной анизотропией. Определены условия реализации этих явлений. На основе квантовых свойств пары однополярных вертикальных блоховских линий в доменной границе полосового магнитного домена предложен новый тип ячейки памяти «бит + кубит» для перспективного запоминающего устройства с гибридной формой записи информации."
+	},
+	"keywords": {
+		"ua": "феромагнетна плівка, доменна стінка, ефективна маса, вертикальна Блохова лінія, Блохова точка, макроскопічні квантові ефекти",
+		"en": "ferromagnetic film, domain wall, effective mass, vertical Bloch line, Bloch point, macroscopic quantum effects",
+		"ru": "ферромагнитная плёнка, доменная стенка, эффективная масса, вертикальная блоховская линия, блоховская точка, макроскопические квантовые эффекты"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. Б. Шевченко", "en": "A. B. Shevchenko", "ru": "А. Б. Шевченко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 80,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "A. Малоземов, Дж. Слонзуски, Доменные стенки в материалах с цилиндрическими магнитными доменами (Москва: Мир: 1982) (пер. с англ.).",
+				"tr":  "A. P. Malozemoff and J. C. Slonczewski, Magnetic Domain Walls in Bubble Materials (New York: Academic Press: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Квантовая механика (Москва: Наука: 1989).",
+				"tr":  "L. D. Landau and E. M. Lifshitz, Quantum Mechanics: Non-Relativistic Theory (Oxford: Pergamon Press: 1977)."
+			},
+			{
+				"doi": "10.1016/0038-1098(72)90932-5",
+				"or":  "B. Barbara, G. Fillion, D. Gignoux, and R. Lemaire, Solid Statе Commun., 10, No. 12: 1149 (1972).",
+				"tr":  "B. Barbara, G. Fillion, D. Gignoux, and R. Lemaire, Solid Statе Commun., 10, No. 12: 1149 (1972)."
+			},
+			{
+				"doi": "10.1002/pssa.2210200114",
+				"or":  "T. Egami, phys. stat. sol. (a), 20, No. 1: 157 (1973).",
+				"tr":  "T. Egami, phys. stat. sol. (a), 20, No. 1: 157 (1973)."
+			},
+			{
+				"doi": "10.1002/pssb.2220570121",
+				"or":  "T. Egami, phys. stat. sol. (b), 57, No. 1: 211 (1973).",
+				"tr":  "T. Egami, phys. stat. sol. (b), 57, No. 1: 211 (1973)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.46.5392",
+				"or":  "E. M. Chudnovsky, O. Iglesias, and P. C. E. Stamp, Phys. Rev. B, 46, No. 9: 5392 (1992).",
+				"tr":  "E. M. Chudnovsky, O. Iglesias, and P. C. E. Stamp, Phys. Rev. B, 46, No. 9: 5392 (1992)."
+			},
+			{
+				"doi": "10.1063/1.352507",
+				"or":  "E. M. Chudnovsky, J. Appl. Phys., 73, No. 10: 6697 (1993).",
+				"tr":  "E. M. Chudnovsky, J. Appl. Phys., 73, No. 10: 6697 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Барьяхтар, Ю. И. Горобец, Цилиндрические магнитные домены и их решетки (Киев: Наукова думка: 1988).",
+				"tr":  "V. G. Bar’yakhtar and Yu. I. Gorobets, Tsilindricheskie Magnitnyye Domeny i Ikh Reshetki [Cylindrical Magnetic Domains and Their Lattices] (Kiev: Naukova Dumka: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Махро, Физ. тверд. тела, 41, № 7: 1264 (1999).",
+				"tr":  "V. V. Makhro, Fiz. Tverd. Tela, 41, No. 7: 1264 (1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ф. Попков, Физ. тверд. тела, 44, № 1: 135 (2002).",
+				"tr":  "A. F. Popkov, Fiz. Tverd. Tela, 44, No. 1: 135 (2002) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0375-9601(90)90682-E",
+				"or":  "B. Barbara and E. Chudnovsky, Phys. Lett. A, 145, No. 4: 205 (1990).",
+				"tr":  "B. Barbara and E. Chudnovsky, Phys. Lett. A, 145, No. 4: 205 (1990)."
+			},
+			{
+				"doi": "10.1063/1.352509",
+				"or":  "J. Tejada, X. X. Zhang, and L. I. Balcells, J. Appl. Phys., 73, No. 10: 6709 (1993).",
+				"tr":  "J. Tejada, X. X. Zhang, and L. I. Balcells, J. Appl. Phys., 73, No. 10: 6709 (1993)."
+			},
+			{
+				"doi": "10.1088/0953-8984/8/19/001",
+				"or":  "K. Hong and N. Giordano, J. Phys. Cond. Mat., 8, No. 19: L301 (1996).",
+				"tr":  "K. Hong and N. Giordano, J. Phys. Cond. Mat., 8, No. 19: L301 (1996)."
+			},
+			{
+				"doi": "10.1088/0953-8984/10/24/001",
+				"or":  "K. Hong and N. Giordano, J. Phys. Cond. Mat., 10, No. 24: L401 (1998).",
+				"tr":  "K. Hong and N. Giordano, J. Phys. Cond. Mat., 10, No. 24: L401 (1998)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.80.5639",
+				"or":  "U. Ruediger, J. Yu. S. Zhang, A. D. Kent, and S. S. Parkin, Phys. Rev. Lett., 80, No. 25: 5639 (1998).",
+				"tr":  "U. Ruediger, J. Yu. S. Zhang, A. D. Kent, and S. S. Parkin, Phys. Rev. Lett., 80, No. 25: 5639 (1998)."
+			},
+			{
+				"doi": "10.1016/0375-9601(91)90024-3",
+				"or":  "C. Paulsen, L. C. Sampiao, B. Barbara, D. Fruchard, A. Marchand, J. L. Tholence, and M. Uehara, Phys. Lett. A, 161, No. 3: 319 (1991).",
+				"tr":  "C. Paulsen, L. C. Sampiao, B. Barbara, D. Fruchard, A. Marchand, J. L. Tholence, and M. Uehara, Phys. Lett. A, 161, No. 3: 319 (1991)."
+			},
+			{
+				"doi": "10.1016/0375-9601(92)90176-M",
+				"or":  "X. X. Zhang, L. I. Balcells, J. M. Ruiz, O. Iglesias, J. Tejada, and B. Barbara, Phys. Lett. A, 163, Nos. 1–2: 130 (1992).",
+				"tr":  "X. X. Zhang, L. I. Balcells, J. M. Ruiz, O. Iglesias, J. Tejada, and B. Barbara, Phys. Lett. A, 163, Nos. 1–2: 130 (1992)."
+			},
+			{
+				"doi": "10.1063/1.358343",
+				"or":  "M. O’Shea and P. Perera, J. Appl. Phys., 76, No. 10: 6174 (1994).",
+				"tr":  "M. O’Shea and P. Perera, J. Appl. Phys., 76, No. 10: 6174 (1994)."
+			},
+			{
+				"doi": "10.1016/0304-8853(94)90706-4",
+				"or":  "X. X. Zhang, J. Tejada, O. Nikolov, and E. Molins, J. Magn. Magn. Mater., 137, No. 3: L235 (1994).",
+				"tr":  "X. X. Zhang, J. Tejada, O. Nikolov, and E. Molins, J. Magn. Magn. Mater., 137, No. 3: L235 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Добровицкий, А. К. Звездин, ЖЭТФ, 109, № 4: 1420 (1996).",
+				"tr":  "V. V. Dobrovitskii and A. K. Zvezdin, JETP, 82, No. 4: 766 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.54.9920",
+				"or":  "S. Takagi and G. Tatara, Phys. Rev. B, 54, No. 14: 9920 (1996).",
+				"tr":  "S. Takagi and G. Tatara, Phys. Rev. B, 54, No. 14: 9920 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.62.5719",
+				"or":  "J. Shibata and S. Takagi, Phys. Rev. B, 62, No. 9: 5719 (2000).",
+				"tr":  "J. Shibata and S. Takagi, Phys. Rev. B, 62, No. 9: 5719 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.77.134425",
+				"or":  "E. G. Galkina, B. A. Ivanov, S. Savel’ev, and F. Nori, Phys. Rev. B, 77, No. 13: 134425 (2008).",
+				"tr":  "E. G. Galkina, B. A. Ivanov, S. Savel’ev, and F. Nori, Phys. Rev. B, 77, No. 13: 134425 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Иванов, А. К. Колежук, Письма в ЖЭТФ, 60, № 11: 792 (1994).",
+				"tr":  "B. A. Ivanov and A. K. Kolezhuk, JETP Letters, 60, No. 11: 805 (1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.58.11514",
+				"or":  "B. A. Ivanov, A. K. Kolezhuk, and V. E. Kireev, Phys. Rev. B, 58, No. 17: 11514 (1999).",
+				"tr":  "B. A. Ivanov, A. K. Kolezhuk, and V. E. Kireev, Phys. Rev. B, 58, No. 17: 11514 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Г. Галкина, Б. А. Иванов, Письма в ЖЭТФ, 61, № 6: 495 (1995).",
+				"tr":  "E. G. Galkina and B. A. Ivanov, JETP Letters, 61, No. 6: 511 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Волков, В. А. Боков, Физ. тверд. тела, 50, № 2: 193 (2008).",
+				"tr":  "V. V. Volkov and V. A. Bokov, Fiz. Tverd. Tela, 50, No. 2: 193 (2008) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.13.03.225",
+				"or":  "А. Б. Шевченко, Успехи физ. мет., 13, № 3: 225 (2012).",
+				"tr":  "A. B. Shevchenko, Usp. Fiz. Met., 13, No. 3: 225 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Б. Шевченко, Г. Г. Влайков, М. Ю. Барабаш, Структурно-размерные и квантовые эффекты в наносистемах с параметром порядка. Ферромагнитные и сегнетоэлектрические материалы (Київ: Академперіодика НАН України: 2013).",
+				"tr":  "A. B. Shevchenko, G. G. Vlaikov, and M. Yu. Barabash, Strukturno-Razmernye i Kvantovyye Ehffekty v Nanosistemakh s Parametrom Poryadka. Ferromagnitnyye i Segnetoehlektricheskie Materialy [Structural-Size and Quantum Effects in the Nanosystems with Order Parameter. Ferromagnetic and Ferroelectric Materials] (Kyiv: Akademperiodyka of the N.A.S. of Ukraine: 2013) (in Russian)."
+			},
+			{
+				"doi": "10.1109/TMAG.1983.1062715",
+				"or":  "S. A. Konishi, IEEE Trans. Magn., 19, No. 5: 1838 (1983).",
+				"tr":  "S. A. Konishi, IEEE Trans. Magn., 19, No. 5: 1838 (1983)."
+			},
+			{
+				"doi": "10.1109/TMAG.1985.1064119",
+				"or":  "F. B. Humphrey and I. C. Wu, IEEE Trans. Magn., 21, No. 5: 1762 (1985).",
+				"tr":  "F. B. Humphrey and I. C. Wu, IEEE Trans. Magn., 21, No. 5: 1762 (1985)."
+			},
+			{
+				"doi": "10.1063/1.1829800",
+				"or":  "M. Klaui, C. A. F. Vaz, and J. A. C. Bland, Appl. Phys. Lett., 85, No. 23: 5637 (2004).",
+				"tr":  "M. Klaui, C. A. F. Vaz, and J. A. C. Bland, Appl. Phys. Lett., 85, No. 23: 5637 (2004)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2004.11.355",
+				"or":  "Y. Nakatani, A. Thiaville, and J. Miltat, J. Magn. Magnet. Mater., 290–291: 750 (2005).",
+				"tr":  "Y. Nakatani, A. Thiaville, and J. Miltat, J. Magn. Magn. Mater., 290–291: 750 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.92.100405",
+				"or":  "T. Herranen and L. Laurson, Phys. Rev. B, 92, No. 10: 100405(R) (2015).",
+				"tr":  "T. Herranen and L. Laurson, Phys. Rev. B, 92, No. 10: 100405(R) (2015)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.78.184411",
+				"or":  "N. Vukadinovic and F. Boust, Phys. Rev. B, 78, No. 18: 184411 (2008).",
+				"tr":  "N. Vukadinovic and F. Boust, Phys. Rev. B, 78, No. 18: 184411 (2008)."
+			},
+			{
+				"doi": "10.1063/1.4905001",
+				"or":  "E. K. H. Salje and J. F. Scott, Appl. Phys. Lett., 105: No. 25: 252904 (2014).",
+				"tr":  "E. K. H. Salje and J. F. Scott, Appl. Phys. Lett., 105: No. 25: 252904 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, А. Б. Шевченко, Металлофиз. новейшие технол., 28, № 12: 1581 (2006).",
+				"tr":  "A. P. Shpak and A. B. Shevchenko, Metallofiz. Noveishie Tekhnol., 28, No. 12: 1581 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Б. Шевченко, Журнал тех. физ., 77, № 10: 128 (2007).",
+				"tr":  "A. B. Shevchenko, Zhurnal Tekh. Fiz., 77, No. 10: 128 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, А. Б. Шевченко, Ю. А. Куницкий, Металлофиз. новейшие технол., 29, № 12: 1579 (2007).",
+				"tr":  "A. P. Shpak, A. B. Shevchenko, and Yu. A. Kunitskiy, Metallofiz. Noveishie Tekhnol., 29, No. 12: 1579 (2007) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.3660218",
+				"or":  "А. Б. Шевченко, М. Ю. Барабаш, Физ. низк. темп., 37, № 8: 867 (2011).",
+				"tr":  "A. B. Shevchenko and M. Yu. Barabash, Low Temp. Phys., 37: 690 (2011)."
+			},
+			{
+				"doi": "10.1016/0304-8853(95)00756-3",
+				"or":  "V. V. Dobrovitski and A. K. Zvezdin, J. Magn. Magn. Mater., 156, Nos. 1–3: 205 (1996).",
+				"tr":  "V. V. Dobrovitski and A. K. Zvezdin, J. Magn. Magn. Mater., 156, Nos. 1–3: 205 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Б. Шевченко, М. Б. Шевченко, Металлофиз. новейшие технол., 34, № 5: 589 (2012).",
+				"tr":  "A. B. Shevchenko and M. B. Shevchenko, Metallofiz. Noveishie Tekhnol., 34, No. 5: 589 (2012) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.4792131",
+				"or":  "А. Б. Шевченко, М. Ю. Барабаш, Физ. низк. темп., 39, № 2: 199 (2013).",
+				"tr":  "A. B. Shevchenko and M. Yu. Barabash, Low Temp. Phys, 39: 151 (2013)."
+			},
+			{
+				"doi": "10.1186/1556-276X-9-132",
+				"or":  "A. B. Shevchenko and M. Yu. Barabash, Nanoscale Res. Lett., 9: 132 (2014).",
+				"tr":  "A. B. Shevchenko and M. Yu. Barabash, Nanoscale Res. Lett., 9: 132 (2014)."
+			},
+			{
+				"doi": "10.1186/s11671-015-1175-x",
+				"or":  "A. B. Shevchenko and M. Yu. Barabash, Nanoscale Res. Lett., 10: 470 (2015).",
+				"tr":  "A. B. Shevchenko and M. Yu. Barabash, Nanoscale Res. Lett., 10: 470 (2015)."
+			},
+			{
+				"doi": "10.1063/1.4940345",
+				"or":  "А. Б. Шевченко, М. Ю. Барабаш, Физ. низк. темп., 42, № 1: 56 (2016).",
+				"tr":  "A. B. Shevchenko and M. Yu. Barabash, Low Temp. Phys., 42: 42 (2016)."
+			},
+			{
+				"doi": "10.1186%2Fs11671-016-1680-6",
+				"or":  "A. B. Shevchenko and M. Yu. Barabash, Nanoscale Res. Lett., 11: 473 (2016).",
+				"tr":  "A. B. Shevchenko and M. Yu. Barabash, Nanoscale Res. Lett., 11: 473 (2016)."
+			},
+			{
+				"doi": "10.1063/1.5004449",
+				"or":  "А. Б. Шевченко, М. Ю. Барабаш, Физ. низк. темп., 43, № 9: 1334 (2017).",
+				"tr":  "A. B. Shevchenko and M. Yu. Barabash, Low Temp. Phys., 43: 1070 (2017)."
+			},
+			{
+				"doi": "10.1007/s13204-018-0644-9",
+				"or":  "A. B. Shevchenko and M. Yu. Barabash, Appl. Nanosciense (2018).",
+				"tr":  "A. B. Shevchenko and M. Yu. Barabash, Appl. Nanosciense (2018)."
+			},
+			{
+				"doi": "10.1186%2Fs11671-015-1175-x",
+				"or":  "A. B. Shevchenko and M. Yu. Barabash, Nanoscale Res. Lett., 10: 159 (2015).",
+				"tr":  "A. B. Shevchenko and M. Yu. Barabash, Nanoscale Res. Lett., 10: 159 (2015)."
+			},
+			{
+				"doi": "10.15407/mfint.37.03.0295",
+				"or":  "А. Б. Шевченко, Металлофиз. новейшие технол., 37, № 3: 295 (2015).",
+				"tr":  "A. B. Shevchenko, Metallofiz. Noveishie Tekhnol., 37, No. 3: 295 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.30.230",
+				"or":  "A. A Thiele, Phys. Rev. Lett., 30, No. 6: 230 (1973).",
+				"tr":  "A. A Thiele, Phys. Rev. Lett., 30, No. 6: 230 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Лисовский, Физика цилиндрических магнитных доменов (Москва: Сов. радио: 1979).",
+				"tr":  "V. F. Lisovskiy, Fizika Tsilindricheskikh Magnitnykh Domenov [Physics of Cylindrical Magnetic Domains] (Moscow: Sov. Radio: 1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. К. Звездин, А. Ф. Попков, ЖЭТФ, 91, № 5: 1789 (1986).",
+				"tr":  "A. K. Zvezdin and A. F. Popkov, JETP, 64, No. 5: 1059 (1986)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.14.3130",
+				"or":  "A. A. Thiele, Phys. Rev. B, 14, No. 7: 3130 (1976).",
+				"tr":  "A. A. Thiele, Phys. Rev. B, 14, No. 7: 3130 (1976)."
+			},
+			{
+				"doi": "10.1016/0304-8853(91)90090-W",
+				"or":  "V. L. Dorman, V. L. Sobolev, and A. B. Shevchenko, J. Magn. Magnet. Mater., 94, No. 3: 293 (1991).",
+				"tr":  "V. L. Dorman, V. L. Sobolev, and A. B. Shevchenko, J. Magn. Magn. Mater., 94, No. 3: 293 (1991)."
+			},
+			{
+				"doi": "10.1109/TMAG.1974.1058294",
+				"or":  "E. Schlomann, IEEE Trans. Magn., 10, No. 1: 11 (1974).",
+				"tr":  "E. Schlomann, IEEE Trans. Magn., 10, No. 1: 11 (1974)."
+			},
+			{
+				"doi": "10.1016/0304-8853(93)90091-F",
+				"or":  "V. L. Dorman, V. L. Sobolev, and A. B. Shevchenko, J. Magn. Magnet. Mater., 124, Nos. 1–2: 221 (1993).",
+				"tr":  "V. L. Dorman, V. L. Sobolev, and A. B. Shevchenko, J. Magn. Magn. Mater., 124, Nos. 1–2: 221 (1993)."
+			},
+			{
+				"doi": "10.1063/1.1658846",
+				"or":  "A. A. Thiele, J. Appl. Phys., 41, No. 3: 1139 (1970).",
+				"tr":  "A. A. Thiele, J. Appl. Phys., 41, No. 3: 1139 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Л. Дорман, В. Л. Соболев, А. Б. Шевченко, Физ. мет. металловед., 67, № 4: 659 (1989).",
+				"tr":  "V. L. Dorman, V. L. Sobolev, and A. B. Shevchenko, Fiz. Met. Metalloved., 67, No. 4: 659 (1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. А. Куфаев, Э. Б. Сонин, ЖЭТФ, 95, № 4: 1523 (1989).",
+				"tr":  "Yu. A. Kufaev and E. B. Sonin, JETP, 68, No. 4: 879 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Phys. Zs. Sowjet., 8, No. 2: 153 (1935).",
+				"tr":  "L. D. Landau and E. M. Lifshitz, Phys. Zs. Sowjet., 8, No. 2: 153 (1935)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Зубов, Г. С. Кринчик, С. Н. Кузьменко, Письма в ЖЭТФ, 51, № 8: 419 (1990).",
+				"tr":  "V. E. Zubov, G. S. Krinchik, and, S. N. Kuz’menko, JETP Letters, 51, No. 8: 477 (1990)."
+			},
+			{
+				"doi": "10.3367/UFNr.0136.198204a.0553",
+				"or":  "А. И. Вайнштейн, В. И. Захаров, В. А. Новиков, М. А. Шифман, Успехи физ. наук, 136, № 4: 553 (1982).",
+				"tr":  "A. I. Vainshtein, V. I. Zakharov, V. A. Novikov, and M. A. Shifman, Sov. Phys. Usp., 25, No. 4: 195 (1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. К. Садыков, А. Г. Исавнин, А. Б. Болденков, Физ. тверд. тела, 40, № 3: 516 (1998).",
+				"tr":  "E. K. Sadykov, A. G. Isavnin, and A. B. Boldenkov, Fiz. Tverd. Tela, 40, No. 3: 516 (1998) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Б. Шевченко, А. Б. Мельник, Журнал тех. физ., 76, № 5: 140 (2006).",
+				"tr":  "A. B. Shevchenko and A. B. Melnik, Zhurnal Tekh. Fiz., 76, No. 5: 140 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Махро, Физ. тверд. тела, 40, № 10: 1855 (1998).",
+				"tr":  "V. V. Makhro, Fiz. Tverd. Tela, 40, No. 10: 1855 (1998) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.11.02.139",
+				"or":  "А. П, Шпак, А. Б. Шевченко, А. Б. Мельник, Ю. А. Куницкий, Успехи физ. мет., 11, № 2: 139 (2010).",
+				"tr":  "A. P. Shpak, A. B. Shevchenko, A. B. Mel’nyk, and Yu. A. Kunyts’ky, Usp. Fiz. Met., 11, No. 2: 139 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Л. Покровский, Е. М. Халатников, ЖЭТФ, 40, № 6: 1713 (1961).",
+				"tr":  "V. L. Pokrovskii and E. M. Khalatnikov, JETP, 13, No. 6: 1207 (1961)."
+			},
+			{
+				"doi": "",
+				"or":  "П. В. Елютин, В. Д. Кривченков, Квантовая механика (Москва: Наука: 1976).",
+				"tr":  "P. V. Elyutin and V. D. Krivchenko, Kvantovaya Mekhanika [Quantum Mechanics] (Moscow: Nauka: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Соколов, Ю. М. Лоскутов, И. М. Тернов, Квантовая механика (Москва: Просвещение: 1965).",
+				"tr":  "A. A. Sokolov, Yu. M. Loskutov, and I. M. Ternov, Kvantovaya Mekhanika [Quantum Mechanics] (Moscow: Prosveshchenie: 1965) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Галицкий, Б. М. Карнаков, В. И. Коган, Задачи по квантовой механике (Москва: Наука: 1981).",
+				"tr":  "V. M. Galitskiy, B. M. Karnakov, and V. I. Kogan, Zadachi po Kvantovoi Mekhanike [Problems on Quantum Mechanics] (Moscow: Nauka: 1981) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.1662989",
+				"or":  "A. A. Thiele, J. Appl. Phys., 45, No. 1: 377 (1974).",
+				"tr":  "A. A. Thiele, J. Appl. Phys., 45: No. 1: 377 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Горнаков, В. И. Никитенко, И. А. Прудников, Письма в ЖЭТФ, 50, № 11: 479 (1989).",
+				"tr":  "V. S. Gornakov, V. I. Nikitenko, and I. A. Prudnikov, JETP Letters, 50, No. 11: 513 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Барьяхтар, ЖЭТФ, 87, № 4: 1501 (1984).",
+				"tr":  "V. G. Bar’yakhtar, JETP, 87, No. 4: 863 (1984)."
+			},
+			{
+				"doi": "10.1016/S0921-4526(89)80047-X",
+				"or":  "V. G. Bar’yakhtar, Physica B: Cond. Mat., 159, No. 1: 20 (1989).",
+				"tr":  "V. G. Bar’yakhtar, Physica B: Cond. Mat., 159, No. 1: 20 (1989)."
+			},
+			{
+				"doi": "10.1016/0304-8853(93)90441-4",
+				"or":  "E. G. Galkina, B. A. Ivanov, and V. A. Stephanovich, J. Magn. Magn. Mater., 118, No. 3: 373 (1993).",
+				"tr":  "E. G. Galkina, B. A. Ivanov, and V. A. Stephanovich, J. Magn. Magn. Mater., 118, No. 3: 373 (1993)."
+			},
+			{
+				"doi": "10.1016/0038-1098(89)90257-3",
+				"or":  "V. G. Bar’yakhtar, B. A. Ivanov, and K. A. Safaryan, Solid State Commun., 72, No. 11: 1117 (1989).",
+				"tr":  "V. G. Bar’yakhtar, B. A. Ivanov, and K. A. Safaryan, Solid State Commun., 72, No. 11: 1117 (1989)."
+			},
+			{
+				"doi": "10.1063/1.1663654",
+				"or":  "J. C. Slonczewski, J. Appl. Phys., 45, No. 6: 2705 (1974).",
+				"tr":  "J. C. Slonczewski, J. Appl. Phys., 45, No. 6: 2705 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Никифоров, Э. Б. Сонин, ЖЭТФ, 90, № 4: 1309 (1986).",
+				"tr":  "A. V. Nikiforov and E. B. Sonin, JETP, 63, No. 4: 766 (1986)."
+			}
+		]
+	}
+}

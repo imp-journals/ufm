@@ -1,0 +1,298 @@
+{
+	"_id":    "UFM.20.01.075",
+	"year":   2019,
+	"volume": 20,
+	"issue":  1,
+	"pages":  [75,95],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["14.09.2018", "03.12.2018"],
+	"PACS":   " ",
+	"title":   {
+		"ua": "Інтеґральна дифрактометрія: досягнуті успіхи та нові можливості",
+		"en": "Integrated Diffractometry: Achieved Progress and New Performance Capabilities",
+		"ru": "Интегральная дифрактометрия: достигнутые успехи и новые возможности"
+	},
+	"abstract": {
+		"ua": "Статтю присвячено обговоренню динамічної інтеґральної дифрактометрії та її функціональних можливостей. Показано, що комбіноване використання мірянь інтеґральних дифракційних параметрів за різних умов дифракції уможливлює визначати параметри мікродефектів декількох типів, одночасно присутніх у монокристалі. Обговорюються приклади використання вимірювання повної інтеґральної інтенсивности динамічної дифракції, внеску її дифузійної складової та їхніх залежностей від різних умов динамічної дифракції для неруйнівної експресної діягностики характеристик дефектної структури монокристалічних систем.",
+		"en": "This review provides a brief overview and a discussion of dynamical integrated diffractometry and its functional capabilities. It is demonstrated that the combined use of measurements of integrated diffraction parameters on different diffraction conditions allows determining the parameters of several types of microdefects, which are simultaneously present in a single crystal. These parameters are the total integrated intensity of dynamical diffraction, the contribution of its diffuse component, and their dependences on different diffraction conditions. Examples of the use of integrated diffraction parameters for non-destructive express diagnostics of the characteristics of the defects’ structure of single crystals are discussed.",
+		"ru": "Статья посвящена обсуждению динамической интегральной дифрактометрии и её функциональных возможностей. Показано, что комбинированное использование измерений интегральных дифракционных параметров при различных условиях дифракции позволяет определять параметры микродефектов нескольких типов, одновременно присутствующих в монокристалле. Обсуждаются примеры использования измерения полной интегральной интенсивности динамической дифракции, вклада её диффузной составляющей и их зависимостей от различных условий динамической дифракции для неразрушающей экспрессной диагностики характеристик дефектной структуры монокристаллических систем."
+	},
+	"keywords": {
+		"ua": "динамічна дифракція, дифузне розсіяння, інтеґральна дифрактометрія, мікродефекти",
+		"en": "dynamical diffraction, diffuse scattering, integrated diffractometry, microdefects",
+		"ru": "динамическая дифракция, диффузное рассеяние, интегральная дифрактометрия, микродефекты"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Лізунов", "en": "V. V. Lizunov", "ru": "В. В. Лизунов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "І. М. Заболотний", "en": "I. M. Zabolotnyy", "ru": "И. Н. Заболотный"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Я. В. Василик", "en": "Ya. V. Vasylyk", "ru": "Я. В. Василик"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "І. Е. Голентус", "en": "I. E. Golentus", "ru": "И. Э. Голентус"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. В. Ушаков", "en": "M. V. Ushakov", "ru": "Н. В. Ушаков"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 49,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "C. G. Darwin, Phil. Mag., 27: 315 (1914).",
+				"tr":  "C. G. Darwin, Phil. Mag., 27: 315 (1914)."
+			},
+			{
+				"doi": "",
+				"or":  "C. G. Darwin, Phil. Mag., 27: 675 (1914).",
+				"tr":  "C. G. Darwin, Phil. Mag., 27: 675 (1914)."
+			},
+			{
+				"doi": "10.1103/PhysRev.9.29",
+				"or":  "A. H. Compton, Phys. Rev., 9: 29 (1917).",
+				"tr":  "A. H. Compton, Phys. Rev., 9: 29 (1917)."
+			},
+			{
+				"doi": "",
+				"or":  "W. L. Bragg, R. W. James, and C. H. Bosanquet, Phil. Mag., 41: 309 (1921).",
+				"tr":  "W. L. Bragg, R. W. James, and C. H. Bosanquet, Phil. Mag., 41: 309 (1921)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Friedrich, P. Knipping, and M. von Laue, Sitzungsberichte der Kgl. Bayer. Akad. Der Wiss.: 303 (1912); reprinted Ann. Phys., 41: 971 (1913).",
+				"tr":  "W. Friedrich, P. Knipping, and M. von Laue, Sitzungsberichte der Kgl. Bayer. Akad. Der Wiss.: 303 (1912); reprinted Ann. Phys., 41: 971 (1913)."
+			},
+			{
+				"doi": "",
+				"or":  "M. von Laue, Sitzungsberichte der Kgl. Bayer. Akad. Der Wiss.: 363 (1912); reprinted Ann. Phys., 41: 989 (1913).",
+				"tr":  "M. von Laue, Sitzungsberichte der Kgl. Bayer. Akad. Der Wiss.: 363 (1912); reprinted Ann. Phys., 41: 989 (1913)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Krivoglaz, Teoriya Rasseyaniya Rentgenovskikh Luchey i Teplovykh Neytronov Real’nymi Kristallami [Theory of X-Ray and Thermal Neutrons Scattering by Nonideal Crystals] (Moscow: Nauka: 1967) (in Russian).",
+				"tr":  "M. A. Krivoglaz, Teoriya Rasseyaniya Rentgenovskikh Luchey i Teplovykh Neytronov Real’nymi Kristallami [Theory of X-Ray and Thermal Neutrons Scattering by Nonideal Crystals] (Moscow: Nauka: 1967) (in Russian)."
+			},
+			{
+				"doi": "10.1007/978-3-642-74291-0",
+				"or":  "M. A. Krivoglaz, X-Ray and Neutron Diffraction in Nonideal Crystals (Berlin, Heidelberg: Springer-Verlag: 1996).",
+				"tr":  "M. A. Krivoglaz, X-Ray and Neutron Diffraction in Nonideal Crystals (Berlin, Heidelberg: Springer-Verlag: 1996)."
+			},
+			{
+				"doi": "10.15407/mfint.36.07.0857",
+				"or":  "V. V. Lizunov, V. B. Molodkin, S. V. Lizunova, N. G. Tolmachev, E. S. Skakunova, S. V. Dmitriev, B. V. Sheludchenko, S. M. Brovchuk, L. N. Skapa, R. V. Lekhnyak, and E. V. Fuzik, Metallofiz. Noveishie Tekhnol., 36, No. 7: 857 (2014) (in Russian).",
+				"tr":  "V. V. Lizunov, V. B. Molodkin, S. V. Lizunova, N. G. Tolmachev, E. S. Skakunova, S. V. Dmitriev, B. V. Sheludchenko, S. M. Brovchuk, L. N. Skapa, R. V. Lekhnyak, and E. V. Fuzik, Metallofiz. Noveishie Tekhnol., 36, No. 7: 857 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.37.11.1567",
+				"or":  "L. N. Skapa, V. V. Lizunov, V. B. Molodkin, E. G. Len’, B. V. Sheludchenko, S. V. Lizunova, E. S. Skakunova, N. G. Tolmachev, S. V. Dmitriev, R. V. Lekhnyak, G. O. Velikhovskiy, V. V. Molodkin, I. N. Zabolotnyy, E. V. Fuzik, and O. P. Vas’kevich, Metallofiz. Noveishie Tekhnol., 37, No. 11: 1567 (2015) (in Russian).",
+				"tr":  "L. N. Skapa, V. V. Lizunov, V. B. Molodkin, E. G. Len’, B. V. Sheludchenko, S. V. Lizunova, E. S. Skakunova, N. G. Tolmachev, S. V. Dmitriev, R. V. Lekhnyak, G. O. Velikhovskiy, V. V. Molodkin, I. N. Zabolotnyy, E. V. Fuzik, and O. P. Vas’kevich, Metallofiz. Noveishie Tekhnol., 37, No. 11: 1567 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "R. W. James, The Optical Principles of the Diffraction of X-Ray (London: 1950).",
+				"tr":  "R. W. James, The Optical Principles of the Diffraction of X-Ray (London: 1950)."
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Molodkin and E. A. Tikhonova, Fiz. Met. Metalloved., 24, No. 3: 385 (1967) (in Russian).",
+				"tr":  "V. B. Molodkin and E. A. Tikhonova, Fiz. Met. Metalloved., 24, No. 3: 385 (1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Molodkin, Fiz. Met. Metalloved., 25, No. 3: 410 (1968) (in Russian).",
+				"tr":  "V. B. Molodkin, Fiz. Met. Metalloved., 25, No. 3: 410 (1968) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Molodkin, Fiz. Met. Metalloved., 27, No. 4: 582 (1969) (in Russian).",
+				"tr":  "V. B. Molodkin, Fiz. Met. Metalloved., 27, No. 4: 582 (1969) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Molodkin, Metallofizika, 2, No. 1: 3 (1980) (in Russian).",
+				"tr":  "V. B. Molodkin, Metallofizika, 2, No. 1: 3 (1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Molodkin, Phys. Metals, 3: 615 (1981).",
+				"tr":  "V. B. Molodkin, Phys. Metals, 3: 615 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "L. I. Datsenko, V. B. Molodkin, and M. E. Osinovskiy, Dinamicheskoe Rasseyanie Rentgenovskikh Luchey Real’nymi Kristallami [Dynamical X-Ray Scattering of Nonideal Crystals] (Kyiv: Naukova Dumka: 1988) (in Russian).",
+				"tr":  "L. I. Datsenko, V. B. Molodkin, and M. E. Osinovskiy, Dinamicheskoe Rasseyanie Rentgenovskikh Luchey Real’nymi Kristallami [Dynamical X-Ray Scattering of Nonideal Crystals] (Kyiv: Naukova Dumka: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. B Molodkin, A. I. Nizkova, A. P. Shpak, V. F. Machulin, V. P. Klad’ko, I. V. Prokopenko, R. N. Kyutt, E. N. Kislovskiy, S. I. Olikhovskiy, E. V. Pervak, I. M. Fodchuk, A. A. Dyshekov, Yu. P. Khapachev, Difraktometriya Nanorazmernykh Defektov i Geterosloev Kristallov [Diffractometry of Nanoscale Defects and Heterogeneous Layers of Crystals] (Kyiv: Akademperiodika: 2005) (in Russian).",
+				"tr":  "V. B Molodkin, A. I. Nizkova, A. P. Shpak, V. F. Machulin, V. P. Klad’ko, I. V. Prokopenko, R. N. Kyutt, E. N. Kislovskiy, S. I. Olikhovskiy, E. V. Pervak, I. M. Fodchuk, A. A. Dyshekov, Yu. P. Khapachev, Difraktometriya Nanorazmernykh Defektov i Geterosloev Kristallov [Diffractometry of Nanoscale Defects and Heterogeneous Layers of Crystals] (Kyiv: Akademperiodika: 2005) (in Russian)."
+			},
+			{
+				"doi": "10.1107/S0567739480001544",
+				"or":  "N. Kato, Acta Crystallogr. A, 36: 763 (1980).",
+				"tr":  "N. Kato, Acta Crystallogr. A, 36: 763 (1980)."
+			},
+			{
+				"doi": "10.1107/S0567739480001556",
+				"or":  "N. Kato, Acta Crystallogr. A, 36: 770 (1980).",
+				"tr":  "N. Kato, Acta Crystallogr. A, 36: 770 (1980)."
+			},
+			{
+				"doi": "10.1107/S0108767387011681",
+				"or":  "M. Al Haddad and P. Becker, Acta Crystallogr. A, 44: 262 (1988).",
+				"tr":  "M. Al Haddad and P. Becker, Acta Crystallogr. A, 44: 262 (1988)."
+			},
+			{
+				"doi": "10.1107/S0108767388014692",
+				"or":  "P. Becker and M. Al Haddad, Acta Crystallogr. A, 45: 333 (1989).",
+				"tr":  "P. Becker and M. Al Haddad, Acta Crystallogr. A, 45: 333 (1989)."
+			},
+			{
+				"doi": "10.1107/S0108767391009376",
+				"or":  "P. Becker and M. Al Haddad, Acta Crystallogr. A, 48: 121 (1992).",
+				"tr":  "P. Becker and M. Al Haddad, Acta Crystallogr. A, 48: 121 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Polyakov, F. N. Chukhovskiy, and D. I. Piskunov, ZhETF, 99, No. 2: 589 (1991) (in Russian).",
+				"tr":  "A. M. Polyakov, F. N. Chukhovskiy, and D. I. Piskunov, ZhETF, 99, No. 2: 589 (1991) (in Russian)."
+			},
+			{
+				"doi": "10.1107/S0108767392003830",
+				"or":  "J. P. Guigay and F. N. Chukhovskii, Acta Crystallogr. A, 48: 819 (1992).",
+				"tr":  "J. P. Guigay and F. N. Chukhovskii, Acta Crystallogr. A, 48: 819 (1992)."
+			},
+			{
+				"doi": "10.1107/S0108767394010895",
+				"or":  "J. P. Guigay and F. N. Chukhovskii, Acta Crystallogr. A, 51: 288 (1995).",
+				"tr":  "J. P. Guigay and F. N. Chukhovskii, Acta Crystallogr. A, 51: 288 (1995)."
+			},
+			{
+				"doi": "10.1016/0022-0248(87)90067-4",
+				"or":  "J. R. Schneider, H. A. Graf, and O. Goncalves, J. Crystal Growth, 80: 225 (1987).",
+				"tr":  "J. R. Schneider, H. A. Graf, and O. Goncalves, J. Crystal Growth, 80: 225 (1987)."
+			},
+			{
+				"doi": "10.1107/S0365110X62003473",
+				"or":  "S. Takagi, Acta Crystallogr., 15, No. 12: 1311 (1962).",
+				"tr":  "S. Takagi, Acta Crystallogr., 15, No. 12: 1311 (1962)."
+			},
+			{
+				"doi": "10.1107/S0108767390008790",
+				"or":  "N. Kato, Acta Crystallogr. A, 47: 1 (1991).",
+				"tr":  "N. Kato, Acta Crystallogr. A, 47: 1 (1991)."
+			},
+			{
+				"doi": "10.1016/0168-9002(91)90651-6",
+				"or":  "V. V. Nemoshkalenko, V. B. Molodkin, S. I. Olikhovskii, M. V. Kovalchuk, Yu. M. Litvinov, E. N. Kislovskii, and A. I. Nizkova, Nucl. Instr. Phys. Res. A, 308, Nos. 1–2: 294 (1991).",
+				"tr":  "V. V. Nemoshkalenko, V. B. Molodkin, S. I. Olikhovskii, M. V. Kovalchuk, Yu. M. Litvinov, E. N. Kislovskii, and A. I. Nizkova, Nucl. Instr. Phys. Res. A, 308, Nos. 1–2: 294 (1991)."
+			},
+			{
+				"doi": "10.15407/ufm.09.03.305",
+				"or":  "A. P. Shpak, M. V. Koval’chuk, I. M. Karnaukhov, V. V. Molodkin, E. G. Len, A. I. Nizkova, S. I. Olikhovskiy, B. V. Sheludchenko, G. E. Ice, R. I. Barabash, Usp. Fiz. Met., 9, No. 3: 305 (2008) (in Russian).",
+				"tr":  "A. P. Shpak, M. V. Koval’chuk, I. M. Karnaukhov, V. V. Molodkin, E. G. Len, A. I. Nizkova, S. I. Olikhovskiy, B. V. Sheludchenko, G. E. Ice, R. I. Barabash, Usp. Fiz. Met., 9, No. 3: 305 (2008) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.10.03.229",
+				"or":  "A. P. Shpak, M. V. Koval’chuk, V. B. Molodkin, V. L. Nosik, S. V. Dmitriev, E. G. Len, S. I. Olikhovskiy, A. I. Nizkova, V. V. Molodkin, E. V. Pervak, A. A. Katasonov, L. I. Ninichuk, and A. V. Mel’nik, Usp. Fiz. Met., 10, No. 3: 229 (2009) (in Russian).",
+				"tr":  "A. P. Shpak, M. V. Koval’chuk, V. B. Molodkin, V. L. Nosik, S. V. Dmitriev, E. G. Len, S. I. Olikhovskiy, A. I. Nizkova, V. V. Molodkin, E. V. Pervak, A. A. Katasonov, L. I. Ninichuk, and A. V. Mel’nik, Usp. Fiz. Met., 10, No. 3: 229 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. P. Shpak, M. V. Koval’chuk, V. L. Nosik, V. B. Molodkin, V. F. Machulin, I. M. Karnaukhov, V. V. Molodkin, E. G. Len, G. E. Ice, R. I. Barabash, and E. V. Pervak, Metallofiz. Noveishie Tekhnol., 31, No. 5: 615 (2009) (in Russian).",
+				"tr":  "A. P. Shpak, M. V. Koval’chuk, V. L. Nosik, V. B. Molodkin, V. F. Machulin, I. M. Karnaukhov, V. V. Molodkin, E. G. Len, G. E. Ice, R. I. Barabash, and E. V. Pervak, Metallofiz. Noveishie Tekhnol., 31, No. 5: 615 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. P. Shpak, M. V. Koval’chuk, V. B. Molodkin, A. I. Nizkova, I. V. Hin’ko, S. I. Olikhovskiy, E. N. Kislovskii, E. G. Len, A. O. Bilots’ka, K. V. Pervak, and V. V. Molodkin, Sposib Bahatoparametrychnoyi Strukturnoyi Diahnostyky Monokrystaliv z Dekil’koma Typamy Defektiv [Method of Multiparameterical Structural Diagnostics of Single Crystals with Several Types of Sefects], Patent of Ukraine No. 36075 (Published October, 2008) (in Ukrainian).",
+				"tr":  "A. P. Shpak, M. V. Koval’chuk, V. B. Molodkin, A. I. Nizkova, I. V. Hin’ko, S. I. Olikhovskiy, E. N. Kislovskii, E. G. Len, A. O. Bilots’ka, K. V. Pervak, and V. V. Molodkin, Sposib Bahatoparametrychnoyi Strukturnoyi Diahnostyky Monokrystaliv z Dekil’koma Typamy Defektiv [Method of Multiparameterical Structural Diagnostics of Single Crystals with Several Types of Sefects], Patent of Ukraine No. 36075 (Published October, 2008) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. P. Shpak, M. V. Koval’chuk, V. B. Molodkin, V. L. Nosik, V. Yu. Storizhko, L. A. Bulavin, I. M. Karnaukhov, R. I. Barabash, G. E. Ice, A. I. Nizkova, I. V. Hin’ko, S. I. Olikhovskiy, E. N. Kislovskii, V. A. Tatarenko, E. G. Len, A. O. Bilots’ka, K. V. Pervak, and V. V. Molodkin, Sposib Bahatoparametrychnoyi Strukturnoyi Diahnostyky Monokrystaliv z Dekil’koma Typamy Defektiv [Method of Multiparameterical Structural Diagnostics of Single Crystals with Several Types of Sefects], Patent of Ukraine No. 89594 (Published February, 2010) (in Ukrainian).",
+				"tr":  "A. P. Shpak, M. V. Koval’chuk, V. B. Molodkin, V. L. Nosik, V. Yu. Storizhko, L. A. Bulavin, I. M. Karnaukhov, R. I. Barabash, G. E. Ice, A. I. Nizkova, I. V. Hin’ko, S. I. Olikhovskiy, E. N. Kislovskii, V. A. Tatarenko, E. G. Len, A. O. Bilots’ka, K. V. Pervak, and V. V. Molodkin, Sposib Bahatoparametrychnoyi Strukturnoyi Diahnostyky Monokrystaliv z Dekil’koma Typamy Defektiv [Method of Multiparameterical Structural Diagnostics of Single Crystals with Several Types of Sefects], Patent of Ukraine No. 89594 (Published February, 2010) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Nemoshkalenko, V. B. Molodkin, A. I. Nizkova, S. I. Olikhovskiy, A. P. Shpak, M. T. Kogut, and O. L. Shkol’nikov, Metallofizika, 14, No. 8: 79 (1992) (in Russian).",
+				"tr":  "V. V. Nemoshkalenko, V. B. Molodkin, A. I. Nizkova, S. I. Olikhovskiy, A. P. Shpak, M. T. Kogut, and O. L. Shkol’nikov, Metallofizika, 14, No. 8: 79 (1992) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Nemoshkalenko, V. B. Molodkin, E. N. Kislovskii, M. T. Kogut, A. I. Nizkova, E. N. Gavrilova, S. I. Olikhovskii, and O. V. Sul’zhenko, Metallofiz. Noveishie Tekhnol., 16, № 2: 48 (1994).",
+				"tr":  "V. V. Nemoshkalenko, V. B. Molodkin, E. N. Kislovskii, M. T. Kogut, A. I. Nizkova, E. N. Gavrilova, S. I. Olikhovskii, and O. V. Sul’zhenko, Metallofiz. Noveishie Tekhnol., 16, № 2: 48 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Molodkin, S. V. Dmitriev, E. V. Pervak, A. A. Belotskaya, A. I. Nizkova, and A. V. Mel’nik, Metallofiz. Noveishie Tekhnol., 28, No. 8: 1055 (2006) (in Russian).",
+				"tr":  "V. B. Molodkin, S. V. Dmitriev, E. V. Pervak, A. A. Belotskaya, A. I. Nizkova, and A. V. Mel’nik, Metallofiz. Noveishie Tekhnol., 28, No. 8: 1055 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. P. Shpak, V. B. Molodkin, S. V. Dmitriev, E. V. Pervak, I. I. Rudnitskaya, Yu. A. Dinaev, A. I. Nizkova, E. G. Len, A. A. Belotskaya, A. I. Grankina, M. T. Kogut, O. S. Kononenko, A. A. Katasonov, I. N. Zabolotnyy, Ya. V. Vasilik, L. I. Ninichuk, and I. V. Prokopenko, Metallofiz. Noveishie Tekhnol., 30, No. 7: 873 (2008) (in Russian).",
+				"tr":  "A. P. Shpak, V. B. Molodkin, S. V. Dmitriev, E. V. Pervak, I. I. Rudnitskaya, Yu. A. Dinaev, A. I. Nizkova, E. G. Len, A. A. Belotskaya, A. I. Grankina, M. T. Kogut, O. S. Kononenko, A. A. Katasonov, I. N. Zabolotnyy, Ya. V. Vasilik, L. I. Ninichuk, and I. V. Prokopenko, Metallofiz. Noveishie Tekhnol., 30, No. 7: 873 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. P. Shpak, V. B. Molodkin, S. V. Dmitriev, E. V. Pervak, E. G. Len, A. A. Belotskaya, Ya. V. Vasilik, A. I. Grankina, I. N. Zabolotnyy, A. A. Katasonov, M. T. Kogut, O. S. Kononenko, V. V. Molodkin, A. I. Nizkova, L. I. Ninichuk, I. V. Prokopenko, and I. I. Rudnitskaya, Metallofiz. Noveishie Tekhnol., 30, No. 9: 1189 (2008) (in Russian).",
+				"tr":  "A. P. Shpak, V. B. Molodkin, S. V. Dmitriev, E. V. Pervak, E. G. Len, A. A. Belotskaya, Ya. V. Vasilik, A. I. Grankina, I. N. Zabolotnyy, A. A. Katasonov, M. T. Kogut, O. S. Kononenko, V. V. Molodkin, A. I. Nizkova, L. I. Ninichuk, I. V. Prokopenko, and I. I. Rudnitskaya, Metallofiz. Noveishie Tekhnol., 30, No. 9: 1189 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. N. Bagov, Yu. A. Dinaev, A. A. Dyshekov, T. I. Oranova, Yu. P. Khapachev, R. N. Kyutt, E. G. Len, V. V. Molodkin, A. I. Nizkova, A. P. Shpak, and V. A. Elyukhin, Rentgenodifraktsionnaya Diagnostika Uprugo-napryazhennogo Sostoyaniya Nanogeterostruktur [X-Ray Diffraction Diagnostics of the Elastic-Stressed State of Heterogeneous Nanostructures] (Eds. B. S. Karamurzov and Yu. P. Khapachev) (Nal’chik: Kabardino-Balkarskiy Universitet: 2008) (in Russian).",
+				"tr":  "A. N. Bagov, Yu. A. Dinaev, A. A. Dyshekov, T. I. Oranova, Yu. P. Khapachev, R. N. Kyutt, E. G. Len, V. V. Molodkin, A. I. Nizkova, A. P. Shpak, and V. A. Elyukhin, Rentgenodifraktsionnaya Diagnostika Uprugo-napryazhennogo Sostoyaniya Nanogeterostruktur [X-Ray Diffraction Diagnostics of the Elastic-Stressed State of Heterogeneous Nanostructures] (Eds. B. S. Karamurzov and Yu. P. Khapachev) (Nal’chik: Kabardino-Balkarskiy Universitet: 2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. P. Shpak, V. B. Molodkin, M. V. Koval’chuk, V. L. Nosik, A. I. Nizkova, V. F. Machulin, I. V. Prokopenko, E. N. Kislovskiy, V. P. Klad’ko, S. V. Dmitriev, E. V. Pervak, E. G. Len, A. A. Belotskaya, Ya. V. Vasilik, A. I. Grankina, I. N. Zabolotnyy, A. A. Katasonov, M. T. Kogut, O. S. Kononenko, A. V. Mel’nik, V. V. Molodkin, L. I. Ninichuk, I. I. Rudnitskaya, and B. F. Zhuravlev, Metallofiz. Noveishie Tekhnol., 31, No. 8: 1041 (2009) (in Russian).",
+				"tr":  "A. P. Shpak, V. B. Molodkin, M. V. Koval’chuk, V. L. Nosik, A. I. Nizkova, V. F. Machulin, I. V. Prokopenko, E. N. Kislovskiy, V. P. Klad’ko, S. V. Dmitriev, E. V. Pervak, E. G. Len, A. A. Belotskaya, Ya. V. Vasilik, A. I. Grankina, I. N. Zabolotnyy, A. A. Katasonov, M. T. Kogut, O. S. Kononenko, A. V. Mel’nik, V. V. Molodkin, L. I. Ninichuk, I. I. Rudnitskaya, and B. F. Zhuravlev, Metallofiz. Noveishie Tekhnol., 31, No. 8: 1041 (2009) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.36.08.1035",
+				"or":  "S. M. Brovchuk, V. B. Molodkin, A. I. Nizkova, I. I. Rudnytska, G. I. Grankina, V. V. Lizunov, S. V. Lizunova, B. V. Sheludchenko, E. S. Skakunova, S. V. Dmitriev, I. N. Zabolotnyi, A. A. Katasonov, B. F. Zhuravlev, R. V. Lekhnyak, L. N. Skapa, and N. P. Irha, Metallofiz. Noveishie Tekhnol., 36, No. 8: 1035 (2014).",
+				"tr":  "S. M. Brovchuk, V. B. Molodkin, A. I. Nizkova, I. I. Rudnytska, G. I. Grankina, V. V. Lizunov, S. V. Lizunova, B. V. Sheludchenko, E. S. Skakunova, S. V. Dmitriev, I. N. Zabolotnyi, A. A. Katasonov, B. F. Zhuravlev, R. V. Lekhnyak, L. N. Skapa, and N. P. Irha, Metallofiz. Noveishie Tekhnol., 36, No. 8: 1035 (2014)."
+			},
+			{
+				"doi": "10.15407/mfint.36.09.1271",
+				"or":  "V. V. Lizunov, S. M. Brovchuk, A. I. Nizkova, V. B. Molodkin, S. V. Lizunova, B. V. Sheludchenko, A. I. Grankina, I. I. Rudnitskaya, S. V. Dmitriev, N. G. Tolmachev, R. V. Lekhnyak, L. N. Skapa, N. P. Irkha, Metallofiz. Noveishie Tekhnol., 36, No. 9: 1271 (2014) (in Russian).",
+				"tr":  "V. V. Lizunov, S. M. Brovchuk, A. I. Nizkova, V. B. Molodkin, S. V. Lizunova, B. V. Sheludchenko, A. I. Grankina, I. I. Rudnitskaya, S. V. Dmitriev, N. G. Tolmachev, R. V. Lekhnyak, L. N. Skapa, N. P. Irkha, Metallofiz. Noveishie Tekhnol., 36, No. 9: 1271 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.40.08.1123",
+				"or":  "V. B. Molodkin, A. I. Nizkova, V. V. Lizunov, V. V. Molodkin, E. N. Kislovskiy, Ya. V. Vasilik, O. V. Reshetnik, T. P. Vladimirova, A. A. Belotskaya, and N. V. Barvinok, Metallofiz. Noveishie Tekhnol., 40, No. 8: 1123 (2018) (in Russian).",
+				"tr":  "V. B. Molodkin, A. I. Nizkova, V. V. Lizunov, V. V. Molodkin, E. N. Kislovskiy, Ya. V. Vasilik, O. V. Reshetnik, T. P. Vladimirova, A. A. Belotskaya, and N. V. Barvinok, Metallofiz. Noveishie Tekhnol., 40, No. 8: 1123 (2018) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. P. Shpak, V. B. Molodkin, M. V. Koval’chuk, V. L. Nosik, A. I. Nizkova, V. F. Machulin, I. V. Prokopenko, E. N. Kislovskiy, V. P. Klad’ko, S. V. Dmitriev, E. V. Pervak, E. G. Len, A. A. Belotskaya, Ya. V. Vasilik, A. I. Grankina, I. N. Zabolotnyy, A. A. Katasonov, M. T. Kogut, O. S. Kononenko, A. V. Mel’nik, V. V. Molodkin, L. I. Ninichuk, and I. I. Rudnitskaya, Metallofiz. Noveishie Tekhnol., 31, No. 7: 927 (2009) (in Russian).",
+				"tr":  "A. P. Shpak, V. B. Molodkin, M. V. Koval’chuk, V. L. Nosik, A. I. Nizkova, V. F. Machulin, I. V. Prokopenko, E. N. Kislovskiy, V. P. Klad’ko, S. V. Dmitriev, E. V. Pervak, E. G. Len, A. A. Belotskaya, Ya. V. Vasilik, A. I. Grankina, I. N. Zabolotnyy, A. A. Katasonov, M. T. Kogut, O. S. Kononenko, A. V. Mel’nik, V. V. Molodkin, L. I. Ninichuk, and I. I. Rudnitskaya, Metallofiz. Noveishie Tekhnol., 31, No. 7: 927 (2009) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.18.02.177",
+				"or":  "V. B. Molodkin, H. I. Nizkova, Ye. I. Bogdanov, S. I. Olikhovskii, S. V. Dmitriev, M. G. Tolmachev, V. V. Lizunov, Ya. V. Vasylyk, A. G. Karpov, and O. G. Voytok, Usp. Fiz. Met., 18, No. 2: 177 (2017) (in Ukrainian).",
+				"tr":  "V. B. Molodkin, H. I. Nizkova, Ye. I. Bogdanov, S. I. Olikhovskii, S. V. Dmitriev, M. G. Tolmachev, V. V. Lizunov, Ya. V. Vasylyk, A. G. Karpov, and O. G. Voytok, Usp. Fiz. Met., 18, No. 2: 177 (2017) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Nemoshkalenko, V. B. Molodkin, E. N. Kislovskiy, S. I. Olikhovskiy, T. A. Grishchenko, M. T. Kogut, and E. V. Pervak, Metallofiz. Noveishie Tekhnol., 22, No. 2: 42 (2000) (in Russian).",
+				"tr":  "V. V. Nemoshkalenko, V. B. Molodkin, E. N. Kislovskiy, S. I. Olikhovskiy, T. A. Grishchenko, M. T. Kogut, and E. V. Pervak, Metallofiz. Noveishie Tekhnol., 22, No. 2: 42 (2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Nemoshkalenko, V. B. Molodkin, S. I. Olikhovskiy, E. N. Kislovskiy, M. T. Kogut, L. M. Sheludchenko, and E. V. Pervak, Metallofiz. Noveishie Tekhnol., 22, No. 2: 51 (2000) (in Russian).",
+				"tr":  "V. V. Nemoshkalenko, V. B. Molodkin, S. I. Olikhovskiy, E. N. Kislovskiy, M. T. Kogut, L. M. Sheludchenko, and E. V. Pervak, Metallofiz. Noveishie Tekhnol., 22, No. 2: 51 (2000) (in Russian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,633 @@
+{
+	"_id":    "UFM.01.01.049",
+	"year":   2000,
+	"volume": 1,
+	"issue":  1,
+	"pages":  [49,152],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["04.08.2000"],
+	"PACS":   "61.72.Ji, 61.72.Mm, 74.60.Ge, 74.60.Jg, 74.72.Bk, 74.76.Bz",
+	"title":   {
+		"ua": "Піннінг і динаміка вихорей Абрикосова, дефекти кристалічної структури та проблема густини критичного струму в монокристалах і біаксиально-орієнтованих плівках ВТСП YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$",
+		"en": "Pinning and dynamics of Abrikosov vortices, crystalline defects, and problem of critical current density in monocrystals and biaxially-oriented YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$ high-temperature superconductor films",
+		"ru": "Пиннинг и динамика вихрей Абрикосова, дефекты кристаллической структуры и проблема плотности критического тока в монокристаллах и биаксиально-ориентированных пленках ВТСП YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$"
+	},
+	"abstract": {
+		"ua": "Розглянуто одну з найважливіших проблем високотемпературних надпровідників (ВТНП) — проблему кардинальної відмінності величин об’ємної сили піннінгу та густини критичного струму в масивних і тонкоплівкових матеріалах з високотемпературного надпровідника YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$ (YBCO), що принципово не містять «слабких зв’язків» у мікроструктурі.",
+		"en": "One of the most important problems of high-temperature superconductors (HTSC) is considered — the problem of cardinal differences between the values of bulk pinning force and the critical current density in bulk and thin-film materials of high-temperature superconductor YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$ (YBCO), which basically do not contain the 'weak coupling' in the microstructure.",
+		"ru": "Рассмотрена одна из важнейших проблем высокотемпературных сверхпроводников (ВТСП) — проблема кардинального отличия величин объемной силы пиннинга и плотности критического тока в массивных и тонкопленочных материалах из высокотемпературного сверхпроводника YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$ (YBCO), принципиально не содержащих «слабых связей» в микроструктуре."
+	},
+	"keywords": {
+		"ua": "піннінг потоку, критичний струм, ВТНП-купрат, плівки",
+		"en": "flux pinning, critical current, HTSC-cuprate, films",
+		"ru": "пиннинг потока, критический ток, ВТСП-купрат, плёнки"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "B. M. Пан", "en": "B. M. Pan", "ru": "В. М. Пан"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  4,
+		"list":  [
+			{
+				"doi": "10.1063/1.1468520",
+				"cit": "Yu. V. Fedotov, S. M. Ryabchenko, É. A. Pashitskiı̆, A. V. Semenov <i>et al.</i>, <a href=\"https://doi.org/10.1063/1.1468520\">Low Temperature Physics <b>28</b>, 172 (2002)</a>."
+			},
+			{
+				"doi": "10.1063/1.1596791",
+				"cit": "Yu. V. Fedotov, É. A. Pashitskiı̆, S. M. Ryabchenko, V. A. Komashko <i>et al.</i>, <a href=\"https://doi.org/10.1063/1.1596791\">Low Temperature Physics <b>29</b>, 630 (2003)</a>."
+			},
+			{
+				"doi": "10.1063/1.1401182",
+				"cit": "V. M. Pan and A. V. Pan, <a href=\"https://doi.org/10.1063/1.1401182\">Low Temperature Physics <b>27</b>, 732 (2001)</a>."
+			},
+			{
+				"doi": "10.1063/1.1449179",
+				"cit": "É. A. Pashitskiı̆ and V. I. Vakaryuk, <a href=\"https://doi.org/10.1063/1.1449179\">Low Temperature Physics <b>28</b>, 11 (2002)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 115,
+		"list":  [
+			{
+				"doi": "10.1103/PhysRevLett.58.2684",
+				"or":  "R. H. Chaudhari, E. Koch, Laibowitz et al., Phys. Rev. Lett., 58: 2684 (1987).",
+				"tr":  "R. H. Chaudhari, E. Koch, Laibowitz et al., Phys. Rev. Lett., 58: 2684 (1987)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.36.4021",
+				"or":  "G. W. Crabtree, J. Z. Lin, A. Umezawa et al., Phys. Rev. B, 36: 4021 (1987).",
+				"tr":  "G. W. Crabtree, J. Z. Lin, A. Umezawa et al., Phys. Rev. B, 36: 4021 (1987)."
+			},
+			{
+				"doi": "10.1016/0011-2275(89)90195-1",
+				"or":  "V. M. Pan, S. V. Gaponov, G. G. Kaminsky, D. V. Kuzin et al., Cryogenics, 29: 392 (1989).",
+				"tr":  "V. M. Pan, S. V. Gaponov, G. G. Kaminsky, D. V. Kuzin et al., Cryogenics, 29: 392 (1989)."
+			},
+			{
+				"doi": "10.1088/0953-2048/5/1S/024",
+				"or":  "J. Mannhart, D. Anselmetti, J. G. Bednorz et al., Supercond. Sci. Technol., 5: 125 (1992).",
+				"tr":  "J. Mannhart, D. Anselmetti, J. G. Bednorz et al., Supercond. Sci. Technol., 5: 125 (1992)."
+			},
+			{
+				"doi": "10.1016/0011-2275(93)90070-5",
+				"or":  "V. M. Pan, A. L. Kasatkin, V. L. Svetchnikov, and H. W. Zandbergen, Cryogenics, 33: 21 (1993).",
+				"tr":  "V. M. Pan, A. L. Kasatkin, V. L. Svetchnikov, and H. W. Zandbergen, Cryogenics, 33: 21 (1993)."
+			},
+			{
+				"doi": "10.1016/0921-4534(93)90194-U",
+				"or":  "V. Selvamanickam, M. Mironova, S. Son, and K. Salama, Physica C, 208: 238 (1993).",
+				"tr":  "V. Selvamanickam, M. Mironova, S. Son, and K. Salama, Physica C, 208: 238 (1993)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.50.13724",
+				"or":  "V. F. Solovjov, V. M. Pan, and H. C. Freyhardt, Phys. Rev B, 50: 13724 (1994).",
+				"tr":  "V. F. Solovjov, V. M. Pan, and H. C. Freyhardt, Phys. Rev B, 50: 13724 (1994)."
+			},
+			{
+				"doi": "10.1016/0925-8388(93)90763-D",
+				"or":  "V. M. Pan, J. Alloys & Compounds, 195: 387 (1993).",
+				"tr":  "V. M. Pan, J. Alloys & Compounds, 195: 387 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Pan, V. G. Prokhorov, G. G. Kaminsky et al., High-Temperature Superconductors: Materials Aspects (FRG: DGMI Verlag: 1991), 1: 51.",
+				"tr":  "V. M. Pan, V. G. Prokhorov, G. G. Kaminsky et al., High-Temperature Superconductors: Materials Aspects (FRG: DGMI Verlag: 1991), 1: 51."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Pan, V. L. Svetchnikov, A. L. Kasatkin, and V. S. Flis, Advances in Cryogenic Engineering, Materials (Ed. R. P. Reed et al.) (New York: USA: 1994) 40: 401.",
+				"tr":  "V. M. Pan, V. L. Svetchnikov, A. L. Kasatkin, and V. S. Flis, Advances in Cryogenic Engineering, Materials (Ed. R. P. Reed et al.) (New York: USA: 1994) 40: 401."
+			},
+			{
+				"doi": "10.1038/346332a0",
+				"or":  "M. Daeumling, J. M. Seuntjens, and D. C. Larbalestier, Nature, 346: 332 (1989).",
+				"tr":  "M. Daeumling, J. M. Seuntjens, and D. C. Larbalestier, Nature, 346: 332 (1989)."
+			},
+			{
+				"doi": "10.1016/S0921-4534(97)01795-4",
+				"or":  "V. Vinokur, B. Khaykovich, and E. Zeldov, Lindemann Criterion and Vortex-Matter Phase Transitions in High-Temperature Superconductors (Illinois, USA: 1996) (Prepr. 58906-00-105/ Argonne National Laboratory), p. 1–24; V. Vinokur, B. Khaykovich, E. Zeldov, M. Konczykowski, R. A. Doyle, and P. H. Kes, Physica C, 295: 209 (1998).",
+				"tr":  "V. Vinokur, B. Khaykovich, and E. Zeldov, Lindemann Criterion and Vortex-Matter Phase Transitions in High-Temperature Superconductors (Illinois, USA: 1996) (Prepr. 58906-00-105/ Argonne National Laboratory), p. 1–24; V. Vinokur, B. Khaykovich, E. Zeldov, M. Konczykowski, R. A. Doyle, and P. H. Kes, Physica C, 295: 209 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "A. E. Koshelev and V. M. Vinokur (1998) (Preprint, Cond-mat/9801144, 1).",
+				"tr":  "A. E. Koshelev and V. M. Vinokur (1998) (Preprint, Cond-mat/9801144, 1)."
+			},
+			{
+				"doi": "10.1063/1.881715",
+				"or":  "G. W. Crabtree and D. R. Nelson, Physics Today, 50: 38 (1997).",
+				"tr":  "G. W. Crabtree and D. R. Nelson, Physics Today, 50: 38 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Pan, V. F. Solovjov, V. L. Svetchnikov, and H. C. Freyhardt, IEEE Trans. on Appl. Supercon., 5: 1892 (1995).",
+				"tr":  "V. M. Pan, V. F. Solovjov, V. L. Svetchnikov, and H. C. Freyhardt, IEEE Trans. on Appl. Supercon., 5: 1892 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Pan, V. F. Solovjov, and H. C. Freyhardt, Advances in Cryogenic Engineering, Materials (Ed. L. T. Summers) (NY: Plenum Press: 1997), 42: 663.",
+				"tr":  "V. M. Pan, V. F. Solovjov, and H. C. Freyhardt, Advances in Cryogenic Engineering, Materials (Ed. L. T. Summers) (NY: Plenum Press: 1997), 42: 663."
+			},
+			{
+				"doi": "",
+				"or":  "Т. И. Арбузова, И. В. Смоляк, С. В. Наумов, А. А. Самохвалов, Сверхпроводимость: Физ., Хим., Техн., 5: 631 (1992).",
+				"tr":  "T. I. Arbuzova, I. V. Smolyak, S. V. Naumov, A. A. Samokhvalov, Sverkhprovodimost': Fiz., Khim., Tekhn., 5: 631 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Pan, V. F. Solovjov, A. L. Kasatkin et al., Physics and Materials Science of High Temperature Superconductivity, IV, NATO ASI Series (Ed. R. Kossowsky et al.) (Dordrecht: Netherlands: Kluwer Academic Publ., 1997), 26: 3.",
+				"tr":  "V. M. Pan, V. F. Solovjov, A. L. Kasatkin et al., Physics and Materials Science of High Temperature Superconductivity, IV, NATO ASI Series (Ed. R. Kossowsky et al.) (Dordrecht: Netherlands: Kluwer Academic Publ., 1997), 26: 3."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.64.479",
+				"or":  "B. Roas, L. Schultz, and G. Saemann-Ischenko, Phys. Rev. Lett., 64: 479 (1990).",
+				"tr":  "B. Roas, L. Schultz, and G. Saemann-Ischenko, Phys. Rev. Lett., 64: 479 (1990)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.52.R9875",
+				"or":  "H. Safar, J. Y. Coulter, M. P. Maley et al., Phys. Rev. B, 52: R9875–R9878 (1995).",
+				"tr":  "H. Safar, J. Y. Coulter, M. P. Maley et al., Phys. Rev. B, 52: R9875–R9878 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Pan, Physics and Materials Science of Vortex States, Flux Pinning and Dynamics, NATO ASI Series (Ed. R. Kossowsky et al.) (Dordrecht: Netherlands: Kluwer Academic Publ.: 1999), 26: 1.",
+				"tr":  "V. M. Pan, Physics and Materials Science of Vortex States, Flux Pinning and Dynamics, NATO ASI Series (Ed. R. Kossowsky et al.) (Dordrecht: Netherlands: Kluwer Academic Publ.: 1999), 26: 1."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.68.875",
+				"or":  "G. Blatter, V. B. Geshkenbein, and A. I. Larkin, Phys. Rev. Lett., 68: 875 (1992).",
+				"tr":  "G. Blatter, V. B. Geshkenbein, and A. I. Larkin, Phys. Rev. Lett., 68: 875 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "A. I. Larkin, Zh. Eksp. Teor. Fiz., 58: 1466 (1970).",
+				"tr":  "A. I. Larkin, Zh. Eksp. Teor. Fiz., 58: 1466 (1970)."
+			},
+			{
+				"doi": "10.1007/BF00117160",
+				"or":  "A. I. Larkin and Yu. N. Ovchinnikov, J. Low Temp. Phys., 34: 409 (1979).",
+				"tr":  "A. I. Larkin and Yu. N. Ovchinnikov, J. Low Temp. Phys., 34: 409 (1979)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.66.1125",
+				"or":  "G. Blatter, M. V. Feigel’man, V. B. Geshkenbein, A. I. Larkin, and V. M. Vinokur, Rev. Mod. Phys., 66: 1125 (1994).",
+				"tr":  "G. Blatter, M. V. Feigel'man, V. B. Geshkenbein, A. I. Larkin, and V. M. Vinokur, Rev. Mod. Phys., 66: 1125 (1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.62.1415",
+				"or":  "A. Fisher, Phys. Rev. Lett., 62: 1415 (1989).",
+				"tr":  "A. Fisher, Phys. Rev. Lett., 62: 1415 (1989)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.43.130",
+				"or":  "D. S. Fisher, M. P. A. Fisher, and D. A. Huse, Phys. Rev. B, 43: 130 (1991).",
+				"tr":  "D. S. Fisher, M. P. A. Fisher, and D. A. Huse, Phys. Rev. B, 43: 130 (1991)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.47.1930",
+				"or":  "P. H. Kes and C. C. Tsuei, Phys. Rev. Lett., 47: 1930 (1981).",
+				"tr":  "P. H. Kes and C. C. Tsuei, Phys. Rev. Lett., 47: 1930 (1981)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.34.494",
+				"or":  "R. Wördenweber and P. H. Kes, Phys. Rev. B, 34: 494 (1986).",
+				"tr":  "R. Wördenweber and P. H. Kes, Phys. Rev. B, 34: 494 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Prokhorov, A. L. Kasatkin, C. G. Tretiatchenko, and V. M. Pan, Physica B, 165&166: 1171 (1990).",
+				"tr":  "V. G. Prokhorov, A. L. Kasatkin, C. G. Tretiatchenko, and V. M. Pan, Physica B, 165&166: 1171 (1990)."
+			},
+			{
+				"doi": "10.1016/0921-4534(92)90082-N",
+				"or":  "K. Kadowaki and T. Mochiki, Physica C, 195: 127 (1992).",
+				"tr":  "K. Kadowaki and T. Mochiki, Physica C, 195: 127 (1992)."
+			},
+			{
+				"doi": "10.1080/01418618908205053",
+				"or":  "M. F. Chisholm and D. A. Smith, Phil. Mag. A, 59: 181 (1989).",
+				"tr":  "M. F. Chisholm and D. A. Smith, Phil. Mag. A, 59: 181 (1989)."
+			},
+			{
+				"doi": "10.1016/0921-4534(91)90413-S",
+				"or":  "Y. Gao, K. L. Merkle, G. Bai, H. L. M. Chang, and D. J. Lam, Physica C, 174: 1 (1991).",
+				"tr":  "Y. Gao, K. L. Merkle, G. Bai, H. L. M. Chang, and D. J. Lam, Physica C, 174: 1 (1991)."
+			},
+			{
+				"doi": "10.1007/BF00222622",
+				"or":  "K. Merkle, Interface Science, 2: 311 (1995).",
+				"tr":  "K. Merkle, Interface Science, 2: 311 (1995)."
+			},
+			{
+				"doi": "10.1016/0925-8388(93)90764-E",
+				"or":  "V. Hardy, J. Provost, D. Groult et al., Alloys & Compounds, 195: 395 (1993).",
+				"tr":  "V. Hardy, J. Provost, D. Groult et al., Alloys & Compounds, 195: 395 (1993)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.43.13007",
+				"or":  "S. K. Streiffer, B. M. Lairson, C. B. Eom et al., Phys. Rev. B, 43: 13007 (1991).",
+				"tr":  "S. K. Streiffer, B. M. Lairson, C. B. Eom et al., Phys. Rev. B, 43: 13007 (1991)."
+			},
+			{
+				"doi": "10.1016/0921-4534(92)90288-N",
+				"or":  "S. J. Pennycook, M. F. Chisholm, D. E. Jensson et al., Physica C, 202: 1 (1992).",
+				"tr":  "S. J. Pennycook, M. F. Chisholm, D. E. Jensson et al., Physica C, 202: 1 (1992)."
+			},
+			{
+				"doi": "10.1109/77.620831",
+				"or":  "V. Svetchnikov, V. Pan, Ch. Traeholt, and H. Zandbergen, IEEE Trans. Appl. Supercond., 7: 1396 (1997).",
+				"tr":  "V. Svetchnikov, V. Pan, Ch. Traeholt, and H. Zandbergen, IEEE Trans. Appl. Supercond., 7: 1396 (1997)."
+			},
+			{
+				"doi": "10.1007/BF00203267",
+				"or":  "J. Van der Merwe, Interface Sci., 1: 77 (1993).",
+				"tr":  "J. Van der Merwe, Interface Sci., 1: 77 (1993)."
+			},
+			{
+				"doi": "10.1109/77.620773",
+				"or":  "V. M. Pan, A. L. Kasatkin, and H. C. Freyhardt, IEEE Trans. Appl. Supercond., 7: 1588 (1997).",
+				"tr":  "V. M. Pan, A. L. Kasatkin, and H. C. Freyhardt, IEEE Trans. Appl. Supercond., 7: 1588 (1997)."
+			},
+			{
+				"doi": "10.1063/1.103836",
+				"or":  "M. Fendorf, C. P. Burmester, L. T. Wille, and R. Gronsky, Appl. Phys. Lett., 57: 2481 (1990).",
+				"tr":  "M. Fendorf, C. P. Burmester, L. T. Wille, and R. Gronsky, Appl. Phys. Lett., 57: 2481 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "W. T. Reed, Dislocations in Crystals (New-York: McGraw-Hill Publishers: 1953).",
+				"tr":  "W. T. Reed, Dislocations in Crystals (New-York: McGraw-Hill Publishers: 1953)."
+			},
+			{
+				"doi": "10.1007/BF01313822",
+				"or":  "D. G. Schlom, D. Anselmetti, J. G. Bednorz et al., Z. Phys. B: Condensed Matt., 86: 163 (1992).",
+				"tr":  "D. G. Schlom, D. Anselmetti, J. G. Bednorz et al., Z. Phys. B: Condensed Matt., 86: 163 (1992)."
+			},
+			{
+				"doi": "10.1109/77.784686",
+				"or":  "V. M. Pan, A. L. Kasatkin, V. L. Svetchnikov, V. A. Komashko, A. G. Popov, A. Yu. Galkin, H. C. Freyhardt, and H. W. Zandbergen, IEEE Trans. on Appl. Supercond., 9: 1532 (1999).",
+				"tr":  "V. M. Pan, A. L. Kasatkin, V. L. Svetchnikov, V. A. Komashko, A. G. Popov, A. Yu. Galkin, H. C. Freyhardt, and H. W. Zandbergen, IEEE Trans. on Appl. Supercond., 9: 1532 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Pan, A. L. Kasatkin, V. S. Flis, V. A. Komashko, V. L. Svetchnikov, A. G. Popov, A. V. Pronin, O. P. Karasevska, C. L. Snead, M. Suenaga, and H. W. Zandbergen, Applied Superconductivity (Spain: Inst. of Physics: 14–17 Sept., 1999), No. 167: p. 699 (2000).",
+				"tr":  "V. M. Pan, A. L. Kasatkin, V. S. Flis, V. A. Komashko, V. L. Svetchnikov, A. G. Popov, A. V. Pronin, O. P. Karasevska, C. L. Snead, M. Suenaga, and H. W. Zandbergen, Applied Superconductivity (Spain: Inst. of Physics: 14–17 Sept., 1999), No. 167: p. 699 (2000)."
+			},
+			{
+				"doi": "10.1088/0953-2048/13/2/316",
+				"or":  "V. A. Komashko, A. G. Popov, V. L. Svetchnikov, A. V. Pronin, V. S. Melnikov, A. Yu. Galkin, V. M. Pan, C. L. Snead, and M. Suenaga, Supercond. Sci. Technol., 13: 209 (2000).",
+				"tr":  "V. A. Komashko, A. G. Popov, V. L. Svetchnikov, A. V. Pronin, V. S. Melnikov, A. Yu. Galkin, V. M. Pan, C. L. Snead, and M. Suenaga, Supercond. Sci. Technol., 13: 209 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Pan, V. S. Flis, V. A. Komashko, A. L. Kasatkin, V. L. Svetchnikov, O. P. Karasevskaja, A. G. Popov, A. V. Pronin, C. L. Snead, M. Suenaga, and H. W. Zandbergen, Physica B, 284–288: 831 (1999).",
+				"tr":  "V. M. Pan, V. S. Flis, V. A. Komashko, A. L. Kasatkin, V. L. Svetchnikov, O. P. Karasevskaja, A. G. Popov, A. V. Pronin, C. L. Snead, M. Suenaga, and H. W. Zandbergen, Physica B, 284–288: 831 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.68.2398",
+				"or":  "D. R. Nelson and V. M. Vinokur, Phys. Rev. Lett., 68: 2398 (1992).",
+				"tr":  "D. R. Nelson and V. M. Vinokur, Phys. Rev. Lett., 68: 2398 (1992)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.48.13060",
+				"or":  "D. R. Nelson and V. M. Vinokur, Phys. Rev. B, 48: 13060 (1992).",
+				"tr":  "D. R. Nelson and V. M. Vinokur, Phys. Rev. B, 48: 13060 (1992)."
+			},
+			{
+				"doi": "10.1016/0921-4534(91)90749-O",
+				"or":  "A. E. Koshelev and V. M. Vinokur, Physica C, 173: 465 (1991).",
+				"tr":  "A. E. Koshelev and V. M. Vinokur, Physica C, 173: 465 (1991)."
+			},
+			{
+				"doi": "10.1016/0921-4534(92)90068-N",
+				"or":  "E. H. Brandt, Physica C, 195: 1 (1992).",
+				"tr":  "E. H. Brandt, Physica C, 195: 1 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "E. H. Brandt, Proc. 7th International Workshop on Critical Currents in Superconductors (Ed. H. Weber) (Alpbach, Austria: 24–27 Jan., 1994) (Singapore: World Scientific: 1994), p. 3.",
+				"tr":  "E. H. Brandt, Proc. 7th International Workshop on Critical Currents in Superconductors (Ed. H. Weber) (Alpbach, Austria: 24–27 Jan., 1994) (Singapore: World Scientific: 1994), p. 3."
+			},
+			{
+				"doi": "10.1088/0034-4885/58/11/003",
+				"or":  "E. H. Brandt, Rep. Progr. Mod. Phys., 58: 1465 (1995).",
+				"tr":  "E. H. Brandt, Rep. Progr. Mod. Phys., 58: 1465 (1995)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.76.2555",
+				"or":  "B. Khaykovich, E. Zeldov, D. Majer, T. W. Li, P. H. Kes, and M. Konczykowski, Phys. Rev. Lett., 76: 2555 (1996).",
+				"tr":  "B. Khaykovich, E. Zeldov, D. Majer, T. W. Li, P. H. Kes, and M. Konczykowski, Phys. Rev. Lett., 76: 2555 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Pan, V. F. Solovjov, and H. C. Freyhardt, Applied Superconductivity 1995, Inst. Phys. Conf. Ser., No. 148 (1): 303 (1995).",
+				"tr":  "V. M. Pan, V. F. Solovjov, and H. C. Freyhardt, Applied Superconductivity 1995, Inst. Phys. Conf. Ser., No. 148 (1): 303 (1995)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.54.644",
+				"or":  "H. Küpfer, A. A. Zhukov, A. Will et al., Phys. Rev. B, 54: 644 (1996).",
+				"tr":  "H. Küpfer, A. A. Zhukov, A. Will et al., Phys. Rev. B, 54: 644 (1996)."
+			},
+			{
+				"doi": "10.1016/0921-4534(95)00393-2",
+				"or":  "N. Kobayashi, K. Hirano, T. Nishizaki et al., Physica C, 251: 255 (1995).",
+				"tr":  "N. Kobayashi, K. Hirano, T. Nishizaki et al., Physica C, 251: 255 (1995)."
+			},
+			{
+				"doi": "10.1063/1.1662353",
+				"or":  "E. J. Kramer, J. Appl. Phys., 44: 1360 (1973).",
+				"tr":  "E. J. Kramer, J. Appl. Phys., 44: 1360 (1973)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.44.910",
+				"or":  "L. N. Bulaevskii, Phys. Rev. B, 44: 910 (1991).",
+				"tr":  "L. N. Bulaevskii, Phys. Rev. B, 44: 910 (1991)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.64.1063",
+				"or":  "P. H. Kes, J. Aarts, V. M. Vinokur, and C. J. Van der Beek, Phys. Rev. Lett., 64: 1063 (1990).",
+				"tr":  "P. H. Kes, J. Aarts, V. M. Vinokur, and C. J. Van der Beek, Phys. Rev. Lett., 64: 1063 (1990)."
+			},
+			{
+				"doi": "10.1088/0953-2048/11/10/007",
+				"or":  "V. F. Solovyov, V. M. Pan, M. H. Ionescu et al., Supercond. Sci. Technol., 11: 935 (1998).",
+				"tr":  "V. F. Solovyov, V. M. Pan, M. H. Ionescu et al., Supercond. Sci. Technol., 11: 935 (1998)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.52.6913",
+				"or":  "D. Zech, S. L. Lee, Keller et al., Phys. Rev. B, 52: 6913 (1995).",
+				"tr":  "D. Zech, S. L. Lee, Keller et al., Phys. Rev. B, 52: 6913 (1995)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.43.7826",
+				"or":  "G. Blatter, J. Rhyner, and V. M. Vinokur, Phys. Rev. B, 43: 7826 (1991).",
+				"tr":  "G. Blatter, J. Rhyner, and V. M. Vinokur, Phys. Rev. B, 43: 7826 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Campbell and J. E. Evetts, Critical Currents in Superconductors (London: Taylor & Francis: 1972).",
+				"tr":  "A. M. Campbell and J. E. Evetts, Critical Currents in Superconductors (London: Taylor & Francis: 1972)."
+			},
+			{
+				"doi": "10.1016/S0921-4534(97)00114-7",
+				"or":  "V. M. Pan, V. F. Solovjov, and H. C. Freyhardt, Physica C, 279: 18 (1997).",
+				"tr":  "V. M. Pan, V. F. Solovjov, and H. C. Freyhardt, Physica C, 279: 18 (1997)."
+			},
+			{
+				"doi": "10.1007/BF02562936",
+				"or":  "V. M. Pan, V. F. Solovjov, and H. C. Freyhardt, Czech. J. Phys., 46: 1643 (1996).",
+				"tr":  "V. M. Pan, V. F. Solovjov, and H. C. Freyhardt, Czech. J. Phys., 46: 1643 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "A. L. Kasatkin (1998) (unpublished).",
+				"tr":  "A. L. Kasatkin (1998) (unpublished)."
+			},
+			{
+				"doi": "10.1016/0921-4534(96)00404-2",
+				"or":  "W. Harneit, T. Klein, C. Escribe-Filippini et al., Physica C, 267: 270 (1996).",
+				"tr":  "W. Harneit, T. Klein, C. Escribe-Filippini et al., Physica C, 267: 270 (1996)."
+			},
+			{
+				"doi": "10.1016/S0038-1098(99)00582-7",
+				"or":  "Yu. Galkin, Y. Kopelevich, P. Esquinazi, A. Setzer, V. M. Pan, and S. N. Barilo, Solid State Communications, 114: 1 (2000).",
+				"tr":  "Yu. Galkin, Y. Kopelevich, P. Esquinazi, A. Setzer, V. M. Pan, and S. N. Barilo, Solid State Communications, 114: 1 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.54.R3760",
+				"or":  "T. Nishizaki, T. Sasaki, T. Fukase et al., Phys. Rev. B, 54: R3760 (1996).",
+				"tr":  "T. Nishizaki, T. Sasaki, T. Fukase et al., Phys. Rev. B, 54: R3760 (1996)."
+			},
+			{
+				"doi": "10.1080/09500839208207523",
+				"or":  "R. Bleim, M. Audier, Y. Brechet et al., Phil. Mag. Lett., 65: 113 (1992).",
+				"tr":  "R. Bleim, M. Audier, Y. Brechet et al., Phil. Mag. Lett., 65: 113 (1992)."
+			},
+			{
+				"doi": "10.1063/1.350145",
+				"or":  "D. L. Kaiser, F. W. Gayle, L. J. Swarzendruber et al., J. Appl. Phys., 70: 5739 (1991).",
+				"tr":  "D. L. Kaiser, F. W. Gayle, L. J. Swarzendruber et al., J. Appl. Phys., 70: 5739 (1991)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.64.966",
+				"or":  "W. K. Kwok, U. Welp, G. W. Crabtree, U. Umezava et al., Phys. Rev. Lett., 64: 966 (1990).",
+				"tr":  "W. K. Kwok, U. Welp, G. W. Crabtree, U. Umezava et al., Phys. Rev. Lett., 64: 966 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "V. F. Solovjov and V. M. Pan, Physics and Materials Science of High Temperature Superconductivity, IV, NATO ASI Series (Ed. R. Kossowsky et al.) (Netherlands: Dordrecht: Kluwer Academic Publ.: 1997), 26: 45.",
+				"tr":  "V. F. Solovjov and V. M. Pan, Physics and Materials Science of High Temperature Superconductivity, IV, NATO ASI Series (Ed. R. Kossowsky et al.) (Netherlands: Dordrecht: Kluwer Academic Publ.: 1997), 26: 45."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.69.1105",
+				"or":  "E. H. Brandt, Phys. Rev. Lett., 69: 1105 (1992).",
+				"tr":  "E. H. Brandt, Phys. Rev. Lett., 69: 1105 (1992)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.31.1396",
+				"or":  "D. S. Fisher, Phys. Rev. B, 31: 1396 (1985).",
+				"tr":  "D. S. Fisher, Phys. Rev. B, 31: 1396 (1985)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.70.2617",
+				"or":  "S. Bhattacharya and M. J. Higgins, Phys. Rev. Lett., 70: 2617 (1993).",
+				"tr":  "S. Bhattacharya and M. J. Higgins, Phys. Rev. Lett., 70: 2617 (1993)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.63.1503",
+				"or":  "S. Bhattacharya, M. J. Higgins, and J. P. Stokes, Phys. Rev. Lett., 63: 1503 (1989).",
+				"tr":  "S. Bhattacharya, M. J. Higgins, and J. P. Stokes, Phys. Rev. Lett., 63: 1503 (1989)."
+			},
+			{
+				"doi": "10.1088/0953-2048/4/1S/016",
+				"or":  "A. Gurevich, H. Küpfer, and C. Keller, Supercond. Sci. Technol., 4: 91 (1991).",
+				"tr":  "A. Gurevich, H. Küpfer, and C. Keller, Supercond. Sci. Technol., 4: 91 (1991)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.68.3347",
+				"or":  "C. Dekker, W. Eidelloth, and R. H. Koch, Phys. Rev. Lett., 68: 3347 (1992).",
+				"tr":  "C. Dekker, W. Eidelloth, and R. H. Koch, Phys. Rev. Lett., 68: 3347 (1992)."
+			},
+			{
+				"doi": "10.1016/0011-2275(93)90090-B",
+				"or":  "C. Dekker, W. Eidelloth, and R. H. Koch, Cryogenics, 33: 129 (1993).",
+				"tr":  "C. Dekker, W. Eidelloth, and R. H. Koch, Cryogenics, 33: 129 (1993)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.63.1511",
+				"or":  "R. H. Koch, V. Foglietti, W. J. Gallagher, G. Koren, A. Gupta, and M. P. A. Fisher, Phys. Rev. Lett., 63: 1511 (1989).",
+				"tr":  "R. H. Koch, V. Foglietti, W. J. Gallagher, G. Koren, A. Gupta, and M. P. A. Fisher, Phys. Rev. Lett., 63: 1511 (1989)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.74.1210",
+				"or":  "J. A. Fendrich, W. K. Kwok, C. J. Giapintzakis, C. J. Van der Beek, V. M. Vinokur, S. Fleshler, U. Welp, H. K. Vishwanathan, and G. W. Crabtree, Phys. Rev. Lett., 74: 1210 (1995).",
+				"tr":  "J. A. Fendrich, W. K. Kwok, C. J. Giapintzakis, C. J. Van der Beek, V. M. Vinokur, S. Fleshler, U. Welp, H. K. Vishwanathan, and G. W. Crabtree, Phys. Rev. Lett., 74: 1210 (1995)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.80.1070",
+				"or":  "D. Lopez, L. Krusin-Elbaum, H. Safar, E. Righi, F. de la Cruz, S. Grigera, C. Feild, W. K. Kwok, L. Paulius, and G. W. Crabtree, Phys. Rev. Lett., 80: 1070 (1998).",
+				"tr":  "D. Lopez, L. Krusin-Elbaum, H. Safar, E. Righi, F. de la Cruz, S. Grigera, C. Feild, W. K. Kwok, L. Paulius, and G. W. Crabtree, Phys. Rev. Lett., 80: 1070 (1998)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.66.953",
+				"or":  "P. L. Gammel, L. F. Schneemeyer, and D. J. Bishop, Phys. Rev. Lett., 66: 953 (1991).",
+				"tr":  "P. L. Gammel, L. F. Schneemeyer, and D. J. Bishop, Phys. Rev. Lett., 66: 953 (1991)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.81.2348",
+				"or":  "S. A. Grigera, E. Morre, E. Osquiguil, C. Balseiro, G. Nieva, and F. de la Cruz, Phys. Rev. Lett., 81: 2348 (1998).",
+				"tr":  "S. A. Grigera, E. Morre, E. Osquiguil, C. Balseiro, G. Nieva, and F. de la Cruz, Phys. Rev. Lett., 81: 2348 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "V. L. Svetchnikov, Металлофиз. новейшие технол. (2000) (в печати).",
+				"tr":  "V. L. Svetchnikov, Metallofiz. noveyshie tekhnol. (2000) (v pechati)."
+			},
+			{
+				"doi": "10.1002/pssb.19640060209",
+				"or":  "A. V. Narlikar and D. Dew-Hughes, Phys. Status Solidi, 6: 383 (1964).",
+				"tr":  "A. V. Narlikar and D. Dew-Hughes, Phys. Status Solidi, 6: 383 (1964)."
+			},
+			{
+				"doi": "10.1016/0022-3697(94)90568-1",
+				"or":  "S.-W. Chan, J. Phys. Chem. Solids, 55: 1415 (1994).",
+				"tr":  "S.-W. Chan, J. Phys. Chem. Solids, 55: 1415 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Svetchnikov, A. Palti, and V. Pan, Met. Phys. Adv. Tech., 17: 257 (1998).",
+				"tr":  "V. Svetchnikov, A. Palti, and V. Pan, Met. Phys. Adv. Tech., 17: 257 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Svetchnikov, V. Vysotskii, and V. Pan, Met. Phys. Adv. Tech., 17: 1235 (1999).",
+				"tr":  "V. Svetchnikov, V. Vysotskii, and V. Pan, Met. Phys. Adv. Tech., 17: 1235 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "V. L. Svetchnikov, Металлофиз. новейшие технол. (2000) (в печати).",
+				"tr":  "V. L. Svetchnikov, Metallofiz. noveyshie tekhnol. (2000) (v pechati)."
+			},
+			{
+				"doi": "10.1016/0921-4534(95)00586-2",
+				"or":  "A. Gervais and D. Keller, Physica C, 246: 29 (1995).",
+				"tr":  "A. Gervais and D. Keller, Physica C, 246: 29 (1995)."
+			},
+			{
+				"doi": "10.1016/0921-4534(95)00428-9",
+				"or":  "D. H. Wang, D. H. Lowndes, D. K. Christen, C. E. Kroeger, C. E. Klabunde, and D. P. Norton, Physica C, 252: 125 (1995).",
+				"tr":  "D. H. Wang, D. H. Lowndes, D. K. Christen, C. E. Kroeger, C. E. Klabunde, and D. P. Norton, Physica C, 252: 125 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Pan, V. S. Flis, O. P. Karasevska, V. I. Matsui, I. I. Peshko, V. L. Svetchnikov, M. Lorenz, A. N. Ivanyuta, G. A. Melkov, E. A. Pashitskii, and H. W. Zandbergen, J. Superconductivity (2000) (to be published).",
+				"tr":  "V. M. Pan, V. S. Flis, O. P. Karasevska, V. I. Matsui, I. I. Peshko, V. L. Svetchnikov, M. Lorenz, A. N. Ivanyuta, G. A. Melkov, E. A. Pashitskii, and H. W. Zandbergen, J. Superconductivity (2000) (to be published)."
+			},
+			{
+				"doi": "",
+				"or":  "A. L. Kasatkin and V. M. Pan, The Ninth International Workshop on Critical Currents (IWCC9-99: Extended Program Book: July 7–10, 1999) (Madison, USA: University of Wisconsin, The Pyle Center: 1999), p. 14.",
+				"tr":  "A. L. Kasatkin and V. M. Pan, The Ninth International Workshop on Critical Currents (IWCC9-99: Extended Program Book: July 7–10, 1999) (Madison, USA: University of Wisconsin, The Pyle Center: 1999), p. 14."
+			},
+			{
+				"doi": "10.1007/BF00625269",
+				"or":  "J. Mannhart, J. Superconductivity, 3: 281 (1990).",
+				"tr":  "J. Mannhart, J. Superconductivity, 3: 281 (1990)."
+			},
+			{
+				"doi": "10.1016/0921-4534(91)90673-M",
+				"or":  "R. Gross and B. Mayer, Physica C, 180: 235 (1991).",
+				"tr":  "R. Gross and B. Mayer, Physica C, 180: 235 (1991)."
+			},
+			{
+				"doi": "10.1063/1.105783",
+				"or":  "P. A. Nilsson, D. Winkler, J. A. Alarco et al., Appl. Phys. Lett., 59: 3030 (1991).",
+				"tr":  "P. A. Nilsson, D. Winkler, J. A. Alarco et al., Appl. Phys. Lett., 59: 3030 (1991)."
+			},
+			{
+				"doi": "10.1016/0964-1807(93)90382-C",
+				"or":  "Donglu Shi, Applied Supercond., 1: 61 (1993).",
+				"tr":  "Donglu Shi, Applied Supercond., 1: 61 (1993)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.41.4038",
+				"or":  "D. Dimos, P. Chaudhari, and J. Mannhart, Phys. Rev. B, 41: 4038 (1990).",
+				"tr":  "D. Dimos, P. Chaudhari, and J. Mannhart, Phys. Rev. B, 41: 4038 (1990)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.42.4857",
+				"or":  "A. Gurevich, Phys. Rev. B, 42: 4857 (1990).",
+				"tr":  "A. Gurevich, Phys. Rev. B, 42: 4857 (1990)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.45.12522",
+				"or":  "M. Strikovsky, G. Linker, S. V. Gaponov et al., Phys. Rev. B, 45: 12522 (1992).",
+				"tr":  "M. Strikovsky, G. Linker, S. V. Gaponov et al., Phys. Rev. B, 45: 12522 (1992)."
+			},
+			{
+				"doi": "10.1088/0953-2048/5/1S/008",
+				"or":  "V. M. Pan, G. G. Kaminsky, A. L. Kasatkin, M. A. Kuznetsov et al., Supercond. Sci. Technol., 5: 48 (1992).",
+				"tr":  "V. M. Pan, G. G. Kaminsky, A. L. Kasatkin, M. A. Kuznetsov et al., Supercond. Sci. Technol., 5: 48 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "O. Карасевская, В. Петьков, Э. Берсудский, Б. Ильшин, Заводская лаборатория, №3: 18 (1995).",
+				"tr":  "O. Karasevskaya, V. Pet'kov, E. Bersudskiy, B. Il'shin, Zavodskaya laboratoriya, №3: 18 (1995)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.67.1634",
+				"or":  "O. Meingast, O. Krant, T. Wolf, H. Wuehl, A. Erb, and G. Müller-Vogt, Phys. Rev. Lett., 67: 1639 (1991).",
+				"tr":  "O. Meingast, O. Krant, T. Wolf, H. Wuehl, A. Erb, and G. Müller-Vogt, Phys. Rev. Lett., 67: 1639 (1991)."
+			},
+			{
+				"doi": "10.1007/BF00730387",
+				"or":  "U. Welp, M. Grimsditch, S. Fleshler, W. Nessler, B. Veal, and G. W. Crabtree, J. Supercond., 7: 159 (1994).",
+				"tr":  "U. Welp, M. Grimsditch, S. Fleshler, W. Nessler, B. Veal, and G. W. Crabtree, J. Supercond., 7: 159 (1994)."
+			},
+			{
+				"doi": "10.1016/S0921-4534(96)00589-8",
+				"or":  "O. Meingast, A. Junod, and E. Walker, Physica C, 272: 106 (1996).",
+				"tr":  "O. Meingast, A. Junod, and E. Walker, Physica C, 272: 106 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.56.6213",
+				"or":  "A. Gurevich and E. A. Pashitskii, Phys. Rev. B, 56: 6213 (1997).",
+				"tr":  "A. Gurevich and E. A. Pashitskii, Phys. Rev. B, 56: 6213 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "J. B. Hirth and J. Lothe, Theory of Dislocations ( New York: McGraw-Hill: 1988).",
+				"tr":  "J. B. Hirth and J. Lothe, Theory of Dislocations (New York: McGraw-Hill: 1988)."
+			},
+			{
+				"doi": "10.1557/JMR.1991.2253",
+				"or":  "H. Ledbetter and M. Lei, J. Mater. Res., 6: 2253 (1991).",
+				"tr":  "H. Ledbetter and M. Lei, J. Mater. Res., 6: 2253 (1991)."
+			},
+			{
+				"doi": "10.1007/978-3-642-74291-0",
+				"or":  "M. A. Krivoglaz, X-Ray and Neutron Diffraction in Nonideal Crystals (Berlin-Heidelberg: Springer-Verlag: 1996).",
+				"tr":  "M. A. Krivoglaz, X-Ray and Neutron Diffraction in Nonideal Crystals (Berlin-Heidelberg: Springer-Verlag: 1996)."
+			},
+			{
+				"doi": "10.1038/20880",
+				"or":  "B. Dam, J. M. Huijbregtse, F. C. Klaassen, R. C. F. Van der Geest, G. Doornbos, J. H. Rector, A. M. Testa, S. Freisem, J. C. Martinez, B. Staeuble-Puempin, and R. Griessen, Nature, 399: 439 (1999).",
+				"tr":  "B. Dam, J. M. Huijbregtse, F. C. Klaassen, R. C. F. Van der Geest, G. Doornbos, J. H. Rector, A. M. Testa, S. Freisem, J. C. Martinez, B. Staeuble-Puempin, and R. Griessen, Nature, 399: 439 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "J. M. Huijbregtse, F. C. Klaassen, R. C. F. Van der Geest, B. Dam, and R. Griessen, J. Low Temp. Phys. (2000) (to be published).",
+				"tr":  "J. M. Huijbregtse, F. C. Klaassen, R. C. F. Van der Geest, B. Dam, and R. Griessen, J. Low Temp. Phys. (2000) (to be published)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.67.648",
+				"or":  "Civale, A. D. Marwick, T. K. Worthington, M. A. Kirk, J. R. Thompson, L. Krusin-Elbaum, Y. Sun, J. R. Clem, and F. Holtzberg, Phys. Rev. Lett., 65: 648 (1991).",
+				"tr":  "Civale, A. D. Marwick, T. K. Worthington, M. A. Kirk, J. R. Thompson, L. Krusin-Elbaum, Y. Sun, J. R. Clem, and F. Holtzberg, Phys. Rev. Lett., 65: 648 (1991)."
+			}
+		]
+	}
+}

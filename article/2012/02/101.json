@@ -1,0 +1,602 @@
+{
+	"_id":    "UFM.13.02.101",
+	"year":   2012,
+	"volume": 13,
+	"issue":  2,
+	"pages":  [101,187],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["24.02.2012"],
+	"PACS":   "05.10.Gg, 05.40.-a, 05.65.+b, 61.72.Bb, 61.80.Az, 64.60.-i, 81.30.Mh",
+	"title":   {
+		"ua": "Моделювання мікроструктурних перетворень у системах, підданих радіяційному впливу",
+		"en": "Modelling of Microstructural Transformations in the Systems Subject to Radiation Influence",
+		"ru": "Моделирование микроструктурных превращений в системах, подверженных радиационному воздействию"
+	},
+	"abstract": {
+		"ua": "Розвинуто формалізм для послідовного опису мікроструктурних перетворень і фазового розшарування у системах, що перебувають у сильно нерівноважних умовах, викликаних дією опромінення. Аналізу проведено в рамках методи фазового поля кристалу, що дає змогу проводити дослідження на просторових масштабах молекулярної динаміки, однак на часових інтервалах дифузійної динаміки. Виявлено умови перебігу мікроструктурних перетворень у періодичних однокомпонентних системах кристалічного типу за наявности конкурувальних стохастичних потоків: термічно стимульованого та балістичного перемішування атомів. Аналізою поведінки систем на більш високому ієрархічному рівні для бінарних систем еквіатомового складу встановлено реверсивний характер перебігу процесу фазового розшарування. Для систем із несумірними часовими масштабами розповсюдження збурень, що характеризуються ефектами пам’яті, виявлено присутність процесів відбору структур за наявности флюктуацій довжин стрибків атомів, вибитих високоенергетичними частинками.",
+		"en": "Formalism is developed for description of microstructure transformations and phase separation in systems under irradiation. Investigation is made within the scope of the crystal phase-field method. This approach allows one to simulate materials on the molecular-dynamics spatial scales but on the diffusive-dynamics temporal scales. Considering a model for a periodic one-component system driven by both competing stochastic fluxes–thermally-stimulated and external ballistic mixing flues of atoms, conditions of microstructure-transformations’ appearance are determined. Analysis of the system on a mesoscopic level for a binary equiatomic system is performed. Reentrant character of phase-separation process is revealed. For systems with transient dynamics, for instance, with incommensurable time scales of propagation of disturbances, which are characterized by the memory effects, at presence of fluctuations of lengths of jumps of the atoms knocked-on by high-energy particles, occurrence of pattern-selection processes is revealed.",
+		"ru": "Развит формализм для последовательного описания микроструктурных превращений и фазового расслоения в системах, пребывающих в сильнонеравновесных условиях, вызванных облучением. Анализ проведён в рамках метода фазового поля кристалла, который позволяет проводить исследование на пространственных масштабах молекулярной динамики, но на временных интервалах диффузионной динамики. Определены условия прохождения микроструктурных превращений в периодических однокомпонентных системах кристаллического типа при наличии конкурирующих стохастических потоков: термически стимулируемого и баллистического перемешивания атомов. При анализе поведения системы на более высоком иерархическом уровне для бинарных систем эквиатомного состава установлен реверсивный характер протекания процесса фазового расслоения. Для систем с несоизмеримыми временными масштабами распространения возмущений, которые характеризуются эффектами памяти, обнаружено присутствие процессов отбора структур при наличии флюктуаций длин прыжков атомов, выбитых высокоэнергетическими частицами."
+	},
+	"keywords": {
+		"ua": "кристалічна система, балістична дифузія, шум, спінодальний розпад, метода фазового поля кристалу",
+		"en": "crystal system, ballistic diffusion, noise, spinodal decomposition, phase-field model of crystal",
+		"ru": "кристаллическая система, баллистическая диффузия, шум, спинодальный распад, метод фазового поля кристалла"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Д. O. Харченко", "en": "D. O. Kharchenko", "ru": "Д. О. Харченко"},
+			"OID": [17]
+		},
+		{
+			"AID": {"ua": "І. O. Лисенко", "en": "I. O. Lysenko", "ru": "И. О. Лысенко"},
+			"OID": [17]
+		},
+		{
+			"AID": {"ua": "В. О. Харченко", "en": "V. O. Kharchenko", "ru": "В. О. Харченко"},
+			"OID": [17, 449]
+		}
+	],
+	"cited_by": {
+		"count":  3,
+		"list":  [
+			{
+				"doi": "10.1080/10420150.2016.1274753",
+				"cit": "Dmitrii O. Kharchenko and Vasyl O. Kharchenko, <a href=\"https://doi.org/10.1080/10420150.2016.1274753\">Radiation Effects and Defects in Solids <b>171</b>, 819 (2016)</a>."
+			},
+			{
+				"doi": "10.15407/ujpe61.03.0265",
+				"cit": "D.O. Kharchenko, V.O. Kharchenko and A.I. Bashtova, <a href=\"https://doi.org/10.15407/ujpe61.03.0265\">Ukr. J. Phys. <b>61</b>, 265 (2016)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.18.04.295",
+				"cit": "V. O. Kharchenko, I. O. Lysenko, O. M. Shchokotova, A. I. Bashtova <i>et al.</i>, <a href=\"https://doi.org/10.15407/ufm.18.04.295\">Usp. Fiz. Met. <b>18</b>, 295 (2017)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 108,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "A. Onuki, Phase Transition Dynamics (Cambridge: Cambridge University Press: 2004).",
+				"tr":  "A. Onuki, Phase Transition Dynamics (Cambridge: Cambridge University Press: 2004)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Воеводин, И. М. Неклюдов, Эволюция структурно-фазового состояния и радиационная стойкость конструкционных материалов (Киев: Наукова думка: 2006).",
+				"tr":  "V. N. Voevodin, I. M. Neklyudov, Evolyutsiya strukturno-fazovogo sostoyaniya i radiatsionnaya stoykost' konstruktsionnykh materialov (Kiev: Naukova dumka: 2006)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Й. Сугаков, Основи синерґетики (Київ: Обереги: 2001).",
+				"tr":  "V. Y. Sugakov, Osnovy Synergetyky (Kyiv: Oberegi: 2001)."
+			},
+			{
+				"doi": "10.1007/3-540-36852-3",
+				"or":  "W. Horsthemke and R. Lefever, Noise-Induced Transitions (Berlin: Springer-Verlag: 1984).",
+				"tr":  "W. Horsthemke and R. Lefever, Noise-Induced Transitions (Berlin: Springer-Verlag: 1984)."
+			},
+			{
+				"doi": "10.1007/978-1-4612-1536-3",
+				"or":  "J. Garcia-Ojalvo and J. M. Sancho, Noise in Spatially Extended Systems (New York: Springer-Verlag: 1999).",
+				"tr":  "J. Garcia-Ojalvo and J. M. Sancho, Noise in Spatially Extended Systems (New York: Springer-Verlag: 1999)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Олемской, Д. О. Харченко, Самоорганизация самоподобных стохастических систем (Ижевск–Москва: НИЦ «Регулярная и хаотическая динамика»: 2007).",
+				"tr":  "A. I. Olemskoy, D. O. Kharchenko, Samoorganizatsiya samopodobnykh stokhasticheskikh sistem (Izhevsk–Moskva: NITs «Regulyarnaya i khaoticheskaya dinamika»: 2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Николис, И. Пригожин, Самоорганизация в неравновесных системах (Москва : Мир: 1979).",
+				"tr":  "Dzh. Nikolis, I. Prigozhin, Samoorganizatsiya v neravnovesnykh sistemakh (Moskva : Mir: 1979)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.60.14649",
+				"or":  "R. Enrique and P. Bellon, Phys. Rev. B, 60: 14649 (1999).",
+				"tr":  "R. Enrique and P. Bellon, Phys. Rev. B, 60: 14649 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.70.094104",
+				"or":  "J. Ye and P. Bellon, Phys. Rev. B, 70: 094104 (2004).",
+				"tr":  "J. Ye and P. Bellon, Phys. Rev. B, 70: 094104 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.30.1424",
+				"or":  "G. Martin, Phys. Rev. B, 30: 1424 (1984).",
+				"tr":  "G. Martin, Phys. Rev. B, 30: 1424 (1984)."
+			},
+			{
+				"doi": "10.1016/0375-9601(93)90039-3",
+				"or":  "V. G. Vaks and V. V. Kamyshenko, Phys. Lett. A, 177: 269 (1993).",
+				"tr":  "V. G. Vaks and V. V. Kamyshenko, Phys. Lett. A, 177: 269 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Matsumara, Y. Tanaka, S. Miller, and C. Abromeit, J. Nucl. Instrum., 239: 42 (1996).",
+				"tr":  "S. Matsumara, Y. Tanaka, S. Miller, and C. Abromeit, J. Nucl. Instrum., 239: 42 (1996)."
+			},
+			{
+				"doi": "10.1063/1.1379358",
+				"or":  "R. Enrique and P. Bellon, Appl. Phys. Lett., 78: 4178 (2001).",
+				"tr":  "R. Enrique and P. Bellon, Appl. Phys. Lett., 78: 4178 (2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.72.174102",
+				"or":  "P. Krasnochtchekov, R.S. Averback, and P. Bellon, Phys. Rev. B, 72: 174102 (2005).",
+				"tr":  "P. Krasnochtchekov, R.S. Averback, and P. Bellon, Phys. Rev. B, 72: 174102 (2005)."
+			},
+			{
+				"doi": "10.1557/JMR.1989.0579",
+				"or":  "T. Diaz de la Rubia, R. S. Averback, and H. Hsieh, J. Mater. Res., 4: 579 (1989).",
+				"tr":  "T. Diaz de la Rubia, R. S. Averback, and H. Hsieh, J. Mater. Res., 4: 579 (1989)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.59.1930",
+				"or":  "T. Diaz de la Rubia, R. S. Averback, R. Benedek, and W. E. King, Phys. Rev. Lett., 59: 1930 (1987).",
+				"tr":  "T. Diaz de la Rubia, R. S. Averback, R. Benedek, and W. E. King, Phys. Rev. Lett., 59: 1930 (1987)."
+			},
+			{
+				"doi": "10.1016/0168-583X(88)90662-3",
+				"or":  "R. S. Averback, T. Diaz de la Rubia, and R. Benedek, Nucl. Instrum. Methods, B33: 693 (1988).",
+				"tr":  "R. S. Averback, T. Diaz de la Rubia, and R. Benedek, Nucl. Instrum. Methods, B33: 693 (1988)."
+			},
+			{
+				"doi": "10.1088/0034-4885/18/1/301",
+				"or":  "G. H. Kinchin and R. S. Pease, Rep. Prog. Phys., 18: 1 (1955).",
+				"tr":  "G. H. Kinchin and R. S. Pease, Rep. Prog. Phys., 18: 1 (1955)."
+			},
+			{
+				"doi": "10.1016/0022-3115(83)90145-9",
+				"or":  "R. S. Averback, R. Benedek, K. L. Merkle et al., J. Nucl. Mater., 113: 211 (1983).",
+				"tr":  "R. S. Averback, R. Benedek, K. L. Merkle et al., J. Nucl. Mater., 113: 211 (1983)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.47.11483",
+				"or":  "T. Diaz de la Rubia, A. Caro, and M. Spaczer, Phys. Rev. B, 47: 11483 (1993).",
+				"tr":  "T. Diaz de la Rubia, A. Caro, and M. Spaczer, Phys. Rev. B, 47: 11483 (1993)."
+			},
+			{
+				"doi": "10.1103/PhysRev.75.1823",
+				"or":  "S. Siegel, Phys. Rev., 75: 1823 (1949).",
+				"tr":  "S. Siegel, Phys. Rev., 75: 1823 (1949)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.12.147",
+				"or":  "A. R. Sweedler and D. E. Cox, Phys. Rev. B, 12: 147 (1975).",
+				"tr":  "A. R. Sweedler and D. E. Cox, Phys. Rev. B, 12: 147 (1975)."
+			},
+			{
+				"doi": "10.1063/1.1721638",
+				"or":  "L. R. Aronin, J. Appl. Phys., 25: 344 (1954).",
+				"tr":  "L. R. Aronin, J. Appl. Phys., 25: 344 (1954)."
+			},
+			{
+				"doi": "",
+				"or":  "G. J. C. Carpenter and E. M. Shulson, J. Num. Mat., 73: 180 (1978).",
+				"tr":  "G. J. C. Carpenter and E. M. Shulson, J. Num. Mat., 73: 180 (1978)."
+			},
+			{
+				"doi": "10.1103/PhysRev.87.1074",
+				"or":  "H. L. Glick, F. C. Brooks, W. F. Witzig, and W. E. Johnson, Phys. Rev., 87: 1074 (1952).",
+				"tr":  "H. L. Glick, F. C. Brooks, W. F. Witzig, and W. E. Johnson, Phys. Rev., 87: 1074 (1952)."
+			},
+			{
+				"doi": "10.1080/00337577308232264",
+				"or":  "J. Gilbert, Radiat. Eff., 20: 37 (1973).",
+				"tr":  "J. Gilbert, Radiat. Eff., 20: 37 (1973)."
+			},
+			{
+				"doi": "10.1080/01418637808227676",
+				"or":  "A. Ali, Phil. Mag. B, 37: 353 (1978); G. Thomas, Scr. Metall., 16: 589 (1982).",
+				"tr":  "A. Ali, Phil. Mag. B, 37: 353 (1978)."
+			},
+			{
+				"doi": "10.1016/0022-3093(88)90265-7",
+				"or":  "J. Koike, P. R. Okamoto, and M. Meshii, J. Non-Cryst. Solids, 106: 90 (1988).",
+				"tr":  "J. Koike, P. R. Okamoto, and M. Meshii, J. Non-Cryst. Solids, 106: 90 (1988)."
+			},
+			{
+				"doi": "10.1016/0079-6425(84)90001-X",
+				"or":  "K. C. Russel, Prog. Mater. Sci., 28, No. 3–4: 229 (1984).",
+				"tr":  "K. C. Russel, Prog. Mater. Sci., 28, No. 3–4: 229 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "F. Foisson and D. Duibisson, Met. Mat. Soc., 981 (1994).",
+				"tr":  "F. Foisson and D. Duibisson, Met. Mat. Soc., 981 (1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.70.214105",
+				"or":  "H. Yasuda, H. Mori, and J. G. Lee, Phys. Rev. B, 70: 214105 (2004).",
+				"tr":  "H. Yasuda, H. Mori, and J. G. Lee, Phys. Rev. B, 70: 214105 (2004)."
+			},
+			{
+				"doi": "10.1016/0001-6160(76)90142-5",
+				"or":  "D. G. Morris, G. T. Brown, R. C. Piller, and R. E. Smallman, Acta Metall., 24: 21 (2008).",
+				"tr":  "D. G. Morris, G. T. Brown, R. C. Piller, and R. E. Smallman, Acta Metall., 24: 21 (2008)."
+			},
+			{
+				"doi": "10.1016/0022-3115(88)90093-1",
+				"or":  "M. Griffiths, J. Nucl. Mater., 159: 190 (1988).",
+				"tr":  "M. Griffiths, J. Nucl. Mater., 159: 190 (1988)."
+			},
+			{
+				"doi": "10.1063/1.1540743",
+				"or":  "R. A. Enrique, K. Nordlund, R. S. Averback, and P. Bellon, J. Appl. Phys., 93: 2917 (2003).",
+				"tr":  "R. A. Enrique, K. Nordlund, R. S. Averback, and P. Bellon, J. Appl. Phys., 93: 2917 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.63.134111",
+				"or":  "R. A. Enrique and P. Bellon, Phys. Rev. E, 63: 134111(12) (2001).",
+				"tr":  "R. A. Enrique and P. Bellon, Phys. Rev. B, 63: 134111 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "P. K. MacKeown, Stochastic Simulation in Physics (Singapore: Springer-Verlag: 1997).",
+				"tr":  "P. K. MacKeown, Stochastic Simulation in Physics (Singapore: Springer-Verlag: 1997)."
+			},
+			{
+				"doi": "",
+				"or":  "J. S. Langer, Directions in Condensed Matter Physics (Singapore: World Scientific: 1986).",
+				"tr":  "J. S. Langer, Directions in Condensed Matter Physics (Singapore: World Scientific: 1986)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.75.064107",
+				"or":  "K. R. Elder, N. Provatas, J. Berry et al., Phys. Rev. B, 75: 064107(14) (2007).",
+				"tr":  "K. R. Elder, N. Provatas, J. Berry et al., Phys. Rev. B, 75: 064107 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.77.061506",
+				"or":  "J. Berry, K. R. Elder, and M. Grant, Phys. Rev. E, 77: 061506 (2008).",
+				"tr":  "J. Berry, K. R. Elder, and M. Grant, Phys. Rev. E, 77: 061506 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.80.031602",
+				"or":  "A. Jaatinen, C. V. Achim, K. R. Elder, and T. Ala-Nissila, Phys. Rev. E, 80: 031602(10) (2009).",
+				"tr":  "A. Jaatinen, C. V. Achim, K. R. Elder, and T. Ala-Nissila, Phys. Rev. E, 80: 031602(10) (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.88.245701",
+				"or":  "K. R. Elder, M. Katakowski, M. Haataja, and M. Grant, Phys. Rev. Lett., 88: 245701 (2002).",
+				"tr":  "K. R. Elder, M. Katakowski, M. Haataja, and M. Grant, Phys. Rev. Lett., 88: 245701 (2002)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.70.051605",
+				"or":  "K. R. Elder and M. Grant, Phys. Rev. E, 70: 051605 (2004).",
+				"tr":  "K. R. Elder and M. Grant, Phys. Rev. E, 70: 051605 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.73.031609",
+				"or":  "J. Berry, M. Garnt, and K. R. Elder, Phys. Rev. E, 73: 031609 (2006).",
+				"tr":  "J. Berry, M. Garnt, and K. R. Elder, Phys. Rev. E, 73: 031609 (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRevA.15.319",
+				"or":  "J. Swift and P. C. Hohenberg, Phys. Rev. A, 15: 319 (1977).",
+				"tr":  "J. Swift and P. C. Hohenberg, Phys. Rev. A, 15: 319 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "B. von Haeften, G. Izús, S. Mangioni et al., arXiv:nlin, 0309029.",
+				"tr":  "B. von Haeften, G. Izús, S. Mangioni et al., arXiv:nlin, 0309029."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.88.245701",
+				"or":  "K. R. Elder, M. Katakowski, M. Haataja, and M. Grant, Phys. Rev. Lett., 88: 245701 (2002).",
+				"tr":  "K. R. Elder, M. Katakowski, M. Haataja, and M. Grant, Phys. Rev. Lett., 88: 245701 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Stefanovich, M. Haataja, and N. Provatas, Phys. Rev. Lett., 96: 225504(4) (2006).",
+				"tr":  "P. Stefanovich, M. Haataja, and N. Provatas, Phys. Rev. Lett., 96: 225504(4) (2006)."
+			},
+			{
+				"doi": "10.15407/ufm.10.01.027",
+				"or":  "D. Kharchenko, P. Galenko, and V. Lebedev, Usp. Fiz. Met., 10: 27 (2009).",
+				"tr":  "D. Kharchenko, P. Galenko, and V. Lebedev, Usp. Fiz. Met., 10: 27 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.63.134111",
+				"or":  "R. A. Enrique and P. Bellon, Phys. Rev. B, 63: 134111 (2001).",
+				"tr":  "R. A. Enrique and P. Bellon, Phys. Rev. B, 63: 134111 (2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.70.094104",
+				"or":  "J. Ye and P. Bellon, Phys. Rev. B, 70: 094104 (2004).",
+				"tr":  "J. Ye and P. Bellon, Phys. Rev. B, 70: 094104 (2004)."
+			},
+			{
+				"doi": "10.1080/10420159008213049",
+				"or":  "V. I. Dubinko, A. V. Tur, and V. V. Yanovsky, Radiat. Eff., 112: 233 (1990).",
+				"tr":  "V. I. Dubinko, A. V. Tur, and V. V. Yanovsky, Radiat. Eff., 112: 233 (1990)."
+			},
+			{
+				"doi": "10.1209/epl/i1998-00217-9",
+				"or":  "J. Garcia-Ojalvo, A. M. Lacasta, J. M. Sancho, and R. Toral, Europhys. Lett., 42: 125 (1998).",
+				"tr":  "J. Garcia-Ojalvo, A. M. Lacasta, J. M. Sancho, and R. Toral, Europhys. Lett., 42: 125 (1998)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.60.3597",
+				"or":  "M. Ibanes, J. Garcia-Ojalvo, R. Toral, and J. M. Sancho, Phys. Rev. E, 60: 3597 (1999).",
+				"tr":  "M. Ibanes, J. Garcia-Ojalvo, R. Toral, and J. M. Sancho, Phys. Rev. E, 60: 3597 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Risken, The Fokker–Planck Equation (Berlin: Springer-Verlag: 1984).",
+				"tr":  "H. Risken, The Fokker–Planck Equation (Berlin: Springer-Verlag: 1984)."
+			},
+			{
+				"doi": "",
+				"or":  "C. W. Gardiner, Handbook of Stochastic Methods (Berlin–Heidelberg–New-York–Tokyo: Springer-Verlag: 1985).",
+				"tr":  "C. W. Gardiner, Handbook of Stochastic Methods (Berlin–Heidelberg–New-York–Tokyo: Springer-Verlag: 1985)."
+			},
+			{
+				"doi": "",
+				"or":  "D. O. Kharchenko, A. V. Dvornichenko, and I. O. Lysenko, Ukr. Phys. Journ., 53: 917 (2008).",
+				"tr":  "D. O. Kharchenko, A. V. Dvornichenko, and I. O. Lysenko, Ukr. Phys. Journ., 53: 917 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.67.021113",
+				"or":  "J. Buceta, M. Ibanes, J. M. Sancho, and K. Lindenberg, Phys. Rev. E, 67: 021113 (2003).",
+				"tr":  "J. Buceta, M. Ibanes, J. M. Sancho, and K. Lindenberg, Phys. Rev. E, 67: 021113 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.73.022101",
+				"or":  "K. Wood, J. Buceta, and K. Lindenberg, Phys. Rev. E, 73: 022101 (2006).",
+				"tr":  "K. Wood, J. Buceta, and K. Lindenberg, Phys. Rev. E, 73: 022101 (2006)."
+			},
+			{
+				"doi": "10.1016/j.physa.2010.04.027",
+				"or":  "D. Kharchenko, I. Lysenko, and V. Kharchenko, Physica A, 389: 3356 (2010).",
+				"tr":  "D. Kharchenko, I. Lysenko, and V. Kharchenko, Physica A, 389: 3356 (2010)."
+			},
+			{
+				"doi": "10.1016/j.physrep.2008.02.002",
+				"or":  "U. M. Marconi, A. Puglisi, L. Rondoni, and A. Vulpiani, Phys. Rep., 461: 111 (2008).",
+				"tr":  "U. M. Marconi, A. Puglisi, L. Rondoni, and A. Vulpiani, Phys. Rep., 461: 111 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Статистическая физика. Том V (Москва: Наука: 1976).",
+				"tr":  "L. D. Landau, E. M. Lifshits, Statisticheskaya fizika. Tom V (Moskva: Nauka: 1976)."
+			},
+			{
+				"doi": "10.1016/j.nimb.2009.03.091",
+				"or":  "A. A. Ponomarov, V. I. Miroshnichenko, and A. G. Ponomarev, Nucl. Instrum. Methods Phys. Res. B, 267, Iss. 12–13: 2041 (2009).",
+				"tr":  "A. A. Ponomarov, V. I. Miroshnichenko, and A. G. Ponomarev, Nucl. Instrum. Methods Phys. Res. B, 267, Iss. 12–13: 2041 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Ibanes, J. Garcia-Ojalvo, R. Toral, and J. M. Sancho, Lecture Notes in Physics, 557: 247 (Eds. J. A. Freund and T. Poschel) (Berlin: Springer-Verlag: 2000).",
+				"tr":  "M. Ibanes, J. Garcia-Ojalvo, R. Toral, and J. M. Sancho, Lecture Notes in Physics, 557: 247 (Eds. J. A. Freund and T. Poschel) (Berlin: Springer-Verlag: 2000)."
+			},
+			{
+				"doi": "",
+				"or":  "E. A. Новиков, ЖЭТФ, 20: 1290 (1965).",
+				"tr":  "E. A. Novikov, ZhETF, 20: 1290 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Гардинер, Стохастические методы в естественных науках (Москва: Мир: 1986).",
+				"tr":  "K. V. Gardiner, Stokhasticheskie metody v estestvennykh naukakh (Moskva: Mir: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Г. Ван Кампен, Стохастические процессы в физике и химии (Москва: Высшая школа: 1990).",
+				"tr":  "N. G. Van Kampen, Stokhasticheskie protsessy v fizike i khimii (Moskva: Vysshaya shkola: 1990)."
+			},
+			{
+				"doi": "10.1016/j.physa.2008.05.041",
+				"or":  "D. O. Kharchenko and A. V. Dvornichenko, Physica A, 387: 5342 (2008).",
+				"tr":  "D. O. Kharchenko and A. V. Dvornichenko, Physica A, 387: 5342 (2008)."
+			},
+			{
+				"doi": "10.1016/0378-4371(95)00350-9",
+				"or":  "J. M. R. Parrondo, C. Van der Broeck, J. Buceta, and F. J. de la Rubia, Physica A, 224: 153 (1996).",
+				"tr":  "J. M. R. Parrondo, C. Van der Broeck, J. Buceta, and F. J. de la Rubia, Physica A, 224: 153 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "J. D. Gunton, M. San Miguel, and P. S. Sahni, In: Phase Transtions and Critical Phenomena (Eds. C. Domb and J. L. Lebowitz) (New York: Academic Press: 1983).",
+				"tr":  "J. D. Gunton, M. San Miguel, and P. S. Sahni, In: Phase Transtions and Critical Phenomena (Eds. C. Domb and J. L. Lebowitz) (New York: Academic Press: 1983)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.63.224113",
+				"or":  "G. Schmitz, J. C. Ewert, F. Harbsmeier et al., Phys. Rev. B, 63: 224113 (2001).",
+				"tr":  "G. Schmitz, J. C. Ewert, F. Harbsmeier et al., Phys. Rev. B, 63: 224113 (2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.70.094104",
+				"or":  "J. Ye and P. Bellon, Phys. Rev. B, 70: 094104 (2004).",
+				"tr":  "J. Ye and P. Bellon, Phys. Rev. B, 70: 094104 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.70.094105",
+				"or":  "J. Ye and P. Bellon, Phys. Rev. B, 70: 094105 (2004).",
+				"tr":  "J. Ye and P. Bellon, Phys. Rev. B, 70: 094105 (2004)."
+			},
+			{
+				"doi": "10.1140/epjb/e2008-00035-y",
+				"or":  "D. O. Kharchenko and A. V. Dvornichenko, Eur. Phys. J. B, 61: 95 (2008).",
+				"tr":  "D. O. Kharchenko and A. V. Dvornichenko, Eur. Phys. J. B, 61: 95 (2008)."
+			},
+			{
+				"doi": "10.1214/aoms/1177706645",
+				"or":  "G. E. P. Box and M. E. Müller, Ann. Math. Stat., 29: 610 (1958).",
+				"tr":  "G. E. P. Box and M. E. Müller, Ann. Math. Stat., 29: 610 (1958)."
+			},
+			{
+				"doi": "",
+				"or":  "D. O. Kharchenko, V. O. Kharchenko, and I. O. Lysenko, Cent. Eur. J. Phys., 9: 698 (2011).",
+				"tr":  "D. O. Kharchenko, V. O. Kharchenko, and I. O. Lysenko, Cent. Eur. J. Phys., 9: 698 (2011)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.61.41",
+				"or":  "D. D. Joseph and L. Preziosi, Rev. Mod. Phys., 61: 41 (1989).",
+				"tr":  "D. D. Joseph and L. Preziosi, Rev. Mod. Phys., 61: 41 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Репке, Неравновесная статистическая механика (Москва: Мир: 1990).",
+				"tr":  "G. Repke, Neravnovesnaya statisticheskaya mekhanika (Moskva: Mir: 1990)."
+			},
+			{
+				"doi": "10.1007/978-3-642-56565-6",
+				"or":  "D. Jou, J. Casas Vazquez, and G. Lebon, Extended Irreversible Thermodynamics (Berlin: Springer-Verlag: 2001).",
+				"tr":  "D. Jou, J. Casas Vazquez, and G. Lebon, Extended Irreversible Thermodynamics (Berlin: Springer-Verlag: 2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.79.051110",
+				"or":  "P. Galenko, D. Danilov, and V. Lebedev, Phys. Rev. E, 79: 051110 (2009).",
+				"tr":  "P. Galenko, D. Danilov, and V. Lebedev, Phys. Rev. E, 79: 051110 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "J. A. P. Ramos, E. Granato, S. C. Ying et al., Phys. Rev. E, 81: 011121(7) (2010).",
+				"tr":  "J. A. P. Ramos, E. Granato, S. C. Ying et al., Phys. Rev. E, 81: 011121(7) (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "K.-A. Wu, A. Adland, and A. Karma, Phys. Rev. E, 81: 061601(15) (2010).",
+				"tr":  "K.-A. Wu, A. Adland, and A. Karma, Phys. Rev. E, 81: 061601(15) (2010)."
+			},
+			{
+				"doi": "10.1140/epjb/e2010-00172-8",
+				"or":  "D. O. Kharchenko, I. O. Lysenko, and S. V. Kokhan, Eur. Phys. J. B, 76: 37 (2010).",
+				"tr":  "D. O. Kharchenko, I. O. Lysenko, and S. V. Kokhan, Eur. Phys. J. B, 76: 37 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. О. Харченко, І. О. Лисенко, В. О. Харченко, Металлофиз. новейшие технол., 32, № 6: 783 (2010).",
+				"tr":  "D. O. Kharchenko, І. O. Lisenko, V. O. Kharchenko, Metallofiz. Noveishie Tekhnol., 32, No. 6: 783 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "A. G. Khachaturyan, Theory of Structural Transformations in Solids (New York: Wiley: 1983).",
+				"tr":  "A. G. Khachaturyan, Theory of Structural Transformations in Solids (New York: Wiley: 1983)."
+			},
+			{
+				"doi": "10.3367/UFNr.0128.197906a.0193",
+				"or":  "В. П. Скрипов, А. В. Скрипов, УФН, 128: 193 (1979).",
+				"tr":  "V. P. Skripov, A. V. Skripov, UFN, 128: 193 (1979)."
+			},
+			{
+				"doi": "10.1557/mrs2007.66",
+				"or":  "W. J. Moberly Chan, D. P. Adams, M. J. Aziz et al., MRS Bulletin, 32: 424 (2007).",
+				"tr":  "W. J. Moberly Chan, D. P. Adams, M. J. Aziz et al., MRS Bulletin, 32: 424 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.59.213",
+				"or":  "C. L. Emmott and A. J. Bray, Phys. Rev. E, 59: 213 (1999).",
+				"tr":  "C. L. Emmott and A. J. Bray, Phys. Rev. E, 59: 213 (1999)."
+			},
+			{
+				"doi": "10.1063/1.1744102",
+				"or":  "J. W. Cahn and J. E. Hilliard, J. Chem. Phys., 28: 258 (1958).",
+				"tr":  "J. W. Cahn and J. E. Hilliard, J. Chem. Phys., 28: 258 (1958)."
+			},
+			{
+				"doi": "",
+				"or":  "C. W. Gardiner, Handbook of Stochastic Methods (Berlin–Heidelberg–New York: Springer-Verlag: 1985).",
+				"tr":  "C. W. Gardiner, Handbook of Stochastic Methods (Berlin–Heidelberg–New York: Springer-Verlag: 1985)."
+			},
+			{
+				"doi": "10.1140/epjb/e2003-00112-9",
+				"or":  "D. O. Kharchenko and I. A. Knyaz’, Eur. Phys. J. B, 32: 375 (2003).",
+				"tr":  "D. O. Kharchenko and I. A. Knyaz', Eur. Phys. J. B, 32: 375 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.71.041101",
+				"or":  "A. I. Olemskoi, D. O. Kharchenko, and I. A. Knyaz’, Phys. Rev. E, 71: 041101 (2005).",
+				"tr":  "A. I. Olemskoi, D. O. Kharchenko, and I. A. Knyaz', Phys. Rev. E, 71: 041101 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.87.020601",
+				"or":  "M. Ibanes, J. Garcia-Ojalvo, R. Toral, and J. M. Sancho, Phys. Rev. Lett., 87: 020601 (2001).",
+				"tr":  "M. Ibanes, J. Garcia-Ojalvo, R. Toral, and J. M. Sancho, Phys. Rev. Lett., 87: 020601 (2001)."
+			},
+			{
+				"doi": "10.1016/0022-3697(61)90054-3",
+				"or":  "I. M. Lifshitz and V. V. Slyozov, J. Phys. Chem. Solids, 19: 35 (1961).",
+				"tr":  "I. M. Lifshitz and V. V. Slyozov, J. Phys. Chem. Solids, 19: 35 (1961)."
+			},
+			{
+				"doi": "10.1016/S0081-1947(08)60605-0",
+				"or":  "G. Martin and P. Bellon, Solid State Phys., 50: 189 (1996).",
+				"tr":  "G. Martin and P. Bellon, Solid State Phys., 50: 189 (1996)."
+			},
+			{
+				"doi": "10.1016/j.physa.2010.05.002",
+				"or":  "P. K. Galenko, D. O. Kharchenko, and I. O. Lysenko, Physica A, 389: 3443 (2010).",
+				"tr":  "P. K. Galenko, D. O. Kharchenko, and I. O. Lysenko, Physica A, 389: 3443 (2010)."
+			},
+			{
+				"doi": "10.1016/j.physa.2009.04.003",
+				"or":  "P. Galenko and D. Jou, Physica A, 388: 3113 (2009).",
+				"tr":  "P. Galenko and D. Jou, Physica A, 388: 3113 (2009)."
+			},
+			{
+				"doi": "10.1088/0034-4885/51/8/002",
+				"or":  "D. Jou, J. Casas-Vazquez, and G. Lebon, Rep. Prog. Phys., 51: 1005 (1988).",
+				"tr":  "D. Jou, J. Casas-Vazquez, and G. Lebon, Rep. Prog. Phys., 51: 1005 (1988)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.61.41",
+				"or":  "D. Joseph and L. Preziosi, Rev. Mod. Phys., 61: 41 (1989).",
+				"tr":  "D. Joseph and L. Preziosi, Rev. Mod. Phys., 61: 41 (1989)."
+			},
+			{
+				"doi": "10.1063/1.1744102",
+				"or":  "J. W. Cahn and J. E. Hilliard, J. Chem. Phys., 28: 258 (1958).",
+				"tr":  "J. W. Cahn and J. E. Hilliard, J. Chem. Phys., 28: 258 (1958)."
+			},
+			{
+				"doi": "10.1016/0001-6160(61)90182-1",
+				"or":  "J. W. Cahn, Acta Metall., 9: 795 (1961).",
+				"tr":  "J. W. Cahn, Acta Metall., 9: 795 (1961)."
+			},
+			{
+				"doi": "10.1016/0001-6160(70)90144-6",
+				"or":  "H. E. Cook, Acta Metall., 18: 297 (1970).",
+				"tr":  "H. E. Cook, Acta Metall., 18: 297 (1970)."
+			},
+			{
+				"doi": "10.1016/j.physleta.2007.08.070",
+				"or":  "P. Galenko and V. Lebedev, Phys. Lett. A, 372: 985 (2008).",
+				"tr":  "P. Galenko and V. Lebedev, Phys. Lett. A, 372: 985 (2008)."
+			},
+			{
+				"doi": "10.1140/epjst/e2009-01173-8",
+				"or":  "N. Lecoq, H. Zapolsky, and P. Galenko, Eur. Phys. J. Spec. Top., 177: 165 (2009).",
+				"tr":  "N. Lecoq, H. Zapolsky, and P. Galenko, Eur. Phys. J. Spec. Top., 177: 165 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. О. Харченко, І. О. Лисенко, В. О. Харченко, Укр. фіз. ж., 55: 1226 (2010).",
+				"tr":  "D. O. Kharchenko, I. O. Lisenko, V. O. Kharchenko, Ukr. Fiz. Zhurnal, 55: 1226 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Binder and P. Fratzl, Phase Transformations in Materials (Eds. G. Kostorz) (Weinheim–New York–Chichester–Brisbane–Singapore–Tokyo: Wiley-VCH: 2001).",
+				"tr":  "K. Binder and P. Fratzl, Phase Transformations in Materials (Eds. G. Kostorz) (Weinheim–New York–Chichester–Brisbane–Singapore–Tokyo: Wiley-VCH: 2001)."
+			},
+			{
+				"doi": "10.1007/BF01313108",
+				"or":  "Y. Yackle and M. Piesoth, Z. Phys. B, 72: 25 (1988).",
+				"tr":  "Y. Yackle and M. Piesoth, Z. Phys. B, 72: 25 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Binder, Festkörperprobleme—Advances in Solid State Physics (Eds. P. Grosse) (Braunschweig: Vieweg: 1986).",
+				"tr":  "K. Binder, Festkörperprobleme—Advances in Solid State Physics (Eds. P. Grosse) (Braunschweig: Vieweg: 1986)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.41.2279",
+				"or":  "G. Martin, Phys. Rev. B, 41: 2279 (1990).",
+				"tr":  "G. Martin, Phys. Rev. B, 41: 2279 (1990)."
+			}
+		]
+	}
+}

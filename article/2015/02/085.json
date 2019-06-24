@@ -1,0 +1,394 @@
+{
+	"_id":    "UFM.16.02.085",
+	"year":   2015,
+	"volume": 16,
+	"issue":  2,
+	"pages":  [85,117],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["16.03.2015"],
+	"PACS":   "73.61.At, 78.40.-q, 78.67.Rb, 79.60.Jv, 81.07.Bc, 81.15.Jj, 88.30.rd",
+	"title":   {
+		"ua": "Абсорбція водню тонкими плівками",
+		"en": "Absorption of Hydrogen by Thin Films",
+		"ru": "Абсорбция водорода тонкими плёнками"
+	},
+	"abstract": {
+		"ua": "У даному огляді систематизовано результати досліджень закономірностей абсорбції водню до концентрацій у $\\cong$ 7 ваг.% тонкими плівками маґнію, ніобію та ванадію. Продемонстровано особливі відмінності формування гідридів в одно- та багатошарових плівках. Показано, яким чином такі властивості як електроопір й оптична прозорість, міряні на тонких плівках, можуть корелювати з процесами утворення гідридів. Проаналізовано можливість поліпшення кінетичних і термодинамічних характеристик тонких плівок шляхом формування нанокристалічної структури та введення каталізаторів. Сформульовано принципи та наведено результати зі збільшення гравіметричної місткости ванадію (ніобію) шляхом створення на його основі нанопористих тонкоплівкових структур.",
+		"en": "This review systematizes the investigation results on hydrogen absorption mechanisms up to the concentrations of $\\cong$ 7 wt.% into magnesium, niobium, and vanadium thin films. The distinctive features of the hydride formation in single-layer and multilayer films are demonstrated. It is shown how such properties as the electrical resistance and the optical transparency, measured using thin films, can correlate with hydride formation processes. The possibility of the improvement of kinetic and thermodynamic characteristics of thin films through the formation of nanocrystalline structure and the injection of catalysts is studied. The principles have been formulated and the results on an increase in the gravimetric capacity of vanadium (niobium) due to creation of V(Nb)-based nanoporous thin-film structures are given.",
+		"ru": "В данном обзоре систематизированы результаты исследований закономерностей абсорбции водорода до концентраций $\\cong$ 7 вес.% тонкими плёнками магния, ниобия и ванадия. Продемонстрированы отличительные особенности формирования гидридов в одно- и многослойных плёнках. Показано, каким образом такие свойства как электросопротивление и оптическая прозрачность, измеренные на тонких плёнках, могут коррелировать с процессами образования гидридов. Проанализирована возможность улучшения кинетических и термодинамических характеристик тонких плёнок путём формирования нанокристаллической структуры и введения катализаторов. Сформулированы принципы и приведены результаты по увеличению гравиметрической ёмкости ванадия (ниобия) путём создания на его основе нанопористых тонкоплёночных структур."
+	},
+	"keywords": {
+		"ua": "водень, абсорбція, тонкі плівки, нанопористі структури",
+		"en": "hydrogen, absorption, thin films, nanoporous structures",
+		"ru": "водород, абсорбция, тонкие плёнки, нанопористые структуры"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Власов", "en": "V. V. Vlasov", "ru": "В. В. Власов"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "О. Г. Гугля", "en": "O. G. Guglya", "ru": "А. Г. Гугля"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "Ю. О. Марченко", "en": "Yu. O. Marchenko", "ru": "Ю. А. Марченко"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "О. С. Мельникова", "en": "O. S. Melnikova", "ru": "Е. С. Мельникова"},
+			"OID": [3]
+		}
+	],
+	"references": {
+		"count": 69,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "J. H. Kunstler, The Long Emergency: Surviving the End of Oil, Climate Change, and Other Converging Catastrophes of the Twenty-First Century (New York: Grove Press: 2009), p. 300.",
+				"tr":  "J. H. Kunstler, The Long Emergency: Surviving the End of Oil, Climate Change, and Other Converging Catastrophes of the Twenty-First Century (New York: Grove Press: 2009), p. 300."
+			},
+			{
+				"doi": "",
+				"or":  "Targets for On-Board Hydrogen Storage Systems: Current R&D Focus is on 2010 Targets. http://www1.eere.energy.gov/hydrogenandfuelcells/pdfs/ freedomcar_targets_explanations.pdf",
+				"tr":  "Targets for On-Board Hydrogen Storage Systems: Current R&D Focus is on 2010 Targets. http://www1.eere.energy.gov/hydrogenandfuelcells/pdfs/ freedomcar_targets_explanations.pdf"
+			},
+			{
+				"doi": "10.1016/j.vacuum.2006.03.029",
+				"or":  "V. Vishnyakov, Vacuum, 80, No. 10: 1053 (2006).",
+				"tr":  "V. Vishnyakov, Vacuum, 80, No. 10: 1053 (2006)."
+			},
+			{
+				"doi": "10.1016/S0360-3199(01)00108-2",
+				"or":  "A. Züttel, P. Sudan, and Ph. Mauron, Int. J. Hydrogen Energy, 27: 203 (2002).",
+				"tr":  "A. Züttel, P. Sudan, and Ph. Mauron, Int. J. Hydrogen Energy, 27: 203 (2002)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2010.04.250",
+				"or":  "I. Jain, P. Jain, and A. Jain, J. Alloys and Compounds, 503, No. 2: 303 (2010).",
+				"tr":  "I. Jain, P. Jain, and A. Jain, J. Alloys and Compounds, 503, No. 2: 303 (2010)."
+			},
+			{
+				"doi": "10.1016/0360-3199(85)90024-2",
+				"or":  "M. Song, E. Ivanov, B. Darriet, M. Pezat, and P. Hagenmuller, Int. J. Hydrogen Energy, 10, No. 3: 169 (1985).",
+				"tr":  "M. Song, E. Ivanov, B. Darriet, M. Pezat, and P. Hagenmuller, Int. J. Hydrogen Energy, 10, No. 3: 169 (1985)."
+			},
+			{
+				"doi": "10.1557/JMR.1988.0872",
+				"or":  "J. Hurris, W. Curtin, and L. Schultz, J. Mater. Res., 3: 872 (1988).",
+				"tr":  "J. Hurris, W. Curtin, and L. Schultz, J. Mater. Res., 3: 872 (1988)."
+			},
+			{
+				"doi": "10.1557/JMR.1993.0307",
+				"or":  "K. Aoki, A. Memezava, and T. Masumoto, J. Mater. Res., 8: 307 (1993).",
+				"tr":  "K. Aoki, A. Memezava, and T. Masumoto, J. Mater. Res., 8: 307 (1993)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2006.02.045",
+				"or":  "S. Doppiu, L. Schultz, and O. Gutfleisch, J. Alloys and Compounds, 427: 204 (2007).",
+				"tr":  "S. Doppiu, L. Schultz, and O. Gutfleisch, J. Alloys and Compounds, 427: 204 (2007)."
+			},
+			{
+				"doi": "10.1016/0360-3199(88)90005-5",
+				"or":  "I. Jain, K. Vijay, L. Malhotra, and K. Uppadhyay, Int. J. Hydrogen Energy, 13: 15 (1988).",
+				"tr":  "I. Jain, K. Vijay, L. Malhotra, and K. Uppadhyay, Int. J. Hydrogen Energy, 13: 15 (1988)."
+			},
+			{
+				"doi": "10.1016/0022-5088(80)90358-6",
+				"or":  "J. Reilly, J. Johnson, F. Reidinger, J. F. Lynch, J. Tanaka, and R. H. Wiswall, J. Less-Common Met., 73, No. 1: 175 (1980).",
+				"tr":  "J. Reilly, J. Johnson, F. Reidinger, J. F. Lynch, J. Tanaka, and R. H. Wiswall, J. Less-Common Met., 73, No. 1: 175 (1980)."
+			},
+			{
+				"doi": "10.1016/0022-5088(83)90243-6",
+				"or":  "M. Malinovski, J. Less-Common Met., 89, No. 1: 1 (1983).",
+				"tr":  "M. Malinovski, J. Less-Common Met., 89, No. 1: 1 (1983)."
+			},
+			{
+				"doi": "10.1016/0360-3199(81)90026-4",
+				"or":  "E. Eatons, C. Olson, H. Scheinberg, and W. Steyert, Int. J. Hydrogen Energy, 6, No. 6: 609 (1981).",
+				"tr":  "E. Eatons, C. Olson, H. Scheinberg, and W. Steyert, Int. J. Hydrogen Energy, 6, No. 6: 609 (1981)."
+			},
+			{
+				"doi": "10.1080/10420150.2010.538928",
+				"or":  "V. Bryk, A. Guglya, M. Litvinenko, I. Marchenko, E. Melnikova, I. Sassa, and R. Vasilenko, Radiat. Eff. Defects Solids, 166, No. 4: 282 (2011).",
+				"tr":  "V. Bryk, A. Guglya, M. Litvinenko, I. Marchenko, E. Melnikova, I. Sassa, and R. Vasilenko, Radiat. Eff. Defects Solids, 166, No. 4: 282 (2011)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2012.08.142",
+				"or":  "A. Goncharov, A. Guglya, and E. Melnikova, Int. J. Hydrogen Energy, 37, No. 23: 18061 (2012).",
+				"tr":  "A. Goncharov, A. Guglya, and E. Melnikova, Int. J. Hydrogen Energy, 37, No. 23: 18061 (2012)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(99)00073-0",
+				"or":  "A. Zaluska, L. Zaluski, and J. Ström-Olsen, J. Alloys and Compounds, 288: 217 (1999).",
+				"tr":  "A. Zaluska, L. Zaluski, and J. Ström-Olsen, J. Alloys and Compounds, 288: 217 (1999)."
+			},
+			{
+				"doi": "10.1016/0025-5408(79)90220-4",
+				"or":  "L. Schlapbach, D. Shaltiel, and P. Oelhafen, Mater. Res. Bull., 14: 1235 (1979).",
+				"tr":  "L. Schlapbach, D. Shaltiel, and P. Oelhafen, Mater. Res. Bull., 14: 1235 (1979)."
+			},
+			{
+				"doi": "10.1088/0953-8984/1/8/017",
+				"or":  "A. Kroser and B. Kasemo, J. Phys.: Condensed Matter, 1, No. 8: 1533 (1989).",
+				"tr":  "A. Kroser and B. Kasemo, J. Phys.: Condensed Matter, 1, No. 8: 1533 (1989)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(02)00784-3",
+				"or":  "Z. Dehouche, T. Klassen, W. Oelerich, J. Goyette, T. K. Bose, and R. Schulz, J. Alloys and Compounds, 347, No. 1: 319 (2002).",
+				"tr":  "Z. Dehouche, T. Klassen, W. Oelerich, J. Goyette, T. K. Bose, and R. Schulz, J. Alloys and Compounds, 347, No. 1: 319 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Schulz, S. Boily, L. Zaluski, A. Zaluska, P. Tessier, and J. O. Ström-Olsen, Innov. Metall. Mater., 529 (1995).",
+				"tr":  "R. Schulz, S. Boily, L. Zaluski, A. Zaluska, P. Tessier, and J. O. Ström-Olsen, Innov. Metall. Mater., 529 (1995)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2009.11.033",
+				"or":  "J. Qu, B. Sun, R. Yang, W. Zhao, Yu. Wang, and X. Li, Scr. Mater, 62: 317 (2010).",
+				"tr":  "J. Qu, B. Sun, R. Yang, W. Zhao, Yu. Wang, and X. Li, Scr. Mater, 62: 317 (2010)."
+			},
+			{
+				"doi": "10.3390/met2030253",
+				"or":  "K. Yoshimura, Metals, 2: 253 (2012).",
+				"tr":  "K. Yoshimura, Metals, 2: 253 (2012)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2009.10.110",
+				"or":  "J. Ares, F. Leardini, P. Díaz-Chao, J. Bodega, D. W. Koon, I. J. Ferrer, J. F. Fernandez, and C. Sanchez, J. Alloys and Compounds, 495, No. 2: 650 (2010).",
+				"tr":  "J. Ares, F. Leardini, P. Díaz-Chao, J. Bodega, D. W. Koon, I. J. Ferrer, J. F. Fernandez, and C. Sanchez, J. Alloys and Compounds, 495, No. 2: 650 (2010)."
+			},
+			{
+				"doi": "10.1002/anie.200806293",
+				"or":  "U. Eberle, M. Felderhoff, and F. Schüth, Chem. Int. Edit., 48: 6608 (2009).",
+				"tr":  "U. Eberle, M. Felderhoff, and F. Schüth, Chem. Int. Edit., 48: 6608 (2009)."
+			},
+			{
+				"doi": "10.1143/JPSJ.75.074603",
+				"or":  "T. Moriwaki, Y. Akahama, H. Kawamura, S. Nakano, and K. Takemurs, J. Phys. Soc. Jpn., 75, No. 7: 074603 (2006).",
+				"tr":  "T. Moriwaki, Y. Akahama, H. Kawamura, S. Nakano, and K. Takemurs, J. Phys. Soc. Jpn., 75, No. 7: 074603 (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.89.175506",
+				"or":  "P. Vajeeston, P. Ravindran, A. Kjekshus, and H. Fjellvag, Phys. Rev. Lett., 89, No. 17: 175506 (2002).",
+				"tr":  "P. Vajeeston, P. Ravindran, A. Kjekshus, and H. Fjellvag, Phys. Rev. Lett., 89, No. 17: 175506 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Hum, A. Junkaew, R. Arróyave, J. Chen, H. Wang, P. Wang, J. Majewski, J. Park, H.-C. Zhou, Ravi K. Arvapally, U. Kaipa, Mohammad A. Omary, X. Y. Zhang, Y. Ren, and X. Zhang, Int. J. Hydrogen Energy, 38, No. 20: 8328 (2013).",
+				"tr":  "B. Hum, A. Junkaew, R. Arróyave, J. Chen, H. Wang, P. Wang, J. Majewski, J. Park, H.-C. Zhou, Ravi K. Arvapally, U. Kaipa, Mohammad A. Omary, X. Y. Zhang, Y. Ren, and X. Zhang, Int. J. Hydrogen Energy, 38, No. 20: 8328 (2013)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2013.12.017",
+				"or":  "B. Hum, A. Junkaew, R. Arróyave, J. Park, H.-C. Zhou, D. Foley, S. Rios, H. Wang, X. Zhang, Int. J. Hydrogen Energy, 39, No. 6: 2597 (2014).",
+				"tr":  "B. Hum, A. Junkaew, R. Arróyave, J. Park, H.-C. Zhou, D. Foley, S. Rios, H. Wang, X. Zhang, Int. J. Hydrogen Energy, 39, No. 6: 2597 (2014)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2011.08.029",
+				"or":  "I. Matsumoto, K. Asano, K. Sakaki, and Y. Nakamura, Int. J. Hydrogen Energy, 36, No. 22: 14488 (2011).",
+				"tr":  "I. Matsumoto, K. Asano, K. Sakaki, and Y. Nakamura, Int. J. Hydrogen Energy, 36, No. 22: 14488 (2011)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(99)00470-3",
+				"or":  "K. Higuchi, H. Kajioka, K. Toiyama, H. Fujii, S. Orimo, and Y. Kikuchi, J. Alloys and Compounds, 293–295, No. 1: 484 (1999).",
+				"tr":  "K. Higuchi, H. Kajioka, K. Toiyama, H. Fujii, S. Orimo, and Y. Kikuchi, J. Alloys and Compounds, 293–295, No. 1: 484 (1999)."
+			},
+			{
+				"doi": "10.1063/1.1829155",
+				"or":  "N. Bazzanella, R. Checchetto, and A. Miotello, Appl. Phys. Lett., 85, No. 22: 5212 (2004).",
+				"tr":  "N. Bazzanella, R. Checchetto, and A. Miotello, Appl. Phys. Lett., 85, No. 22: 5212 (2004)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2014.01.007",
+				"or":  "G. Reddy and S. Kumar, Int. J. Hydrogen Energy, 39, No. 9: 4421 (2014).",
+				"tr":  "G. Reddy and S. Kumar, Int. J. Hydrogen Energy, 39, No. 9: 4421 (2014)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2012.10.089",
+				"or":  "C. Fry, D. Grant, and G. Walker, Int. J. Hydrogen Energy, 38, No. 2: 982 (2013).",
+				"tr":  "C. Fry, D. Grant, and G. Walker, Int. J. Hydrogen Energy, 38, No. 2: 982 (2013)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(01)01542-0",
+				"or":  "K. Higuchi, K. Yamamoto, H. Kajioka, K. Toiyama, M. Honda, S. Orimo, and H. Fujii, J. Alloys and Compounds, 330–332: 526 (2002).",
+				"tr":  "K. Higuchi, K. Yamamoto, H. Kajioka, K. Toiyama, M. Honda, S. Orimo, and H. Fujii, J. Alloys and Compounds, 330–332: 526 (2002)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2009.07.026",
+				"or":  "X. Tan, C. Harrower, B. Amirkhiz, and D. Mitlin, Int. J. Hydrogen Energy, 34, No. 18: 7741 (2009).",
+				"tr":  "X. Tan, C. Harrower, B. Amirkhiz, and D. Mitlin, Int. J. Hydrogen Energy, 34, No. 18: 7741 (2009)."
+			},
+			{
+				"doi": "10.1063/1.3479914",
+				"or":  "B. Zahiri, S. Amirkhiz, and D. Mitlin, Appl. Phys. Lett., 97, No. 8: 083106 (2010).",
+				"tr":  "B. Zahiri, S. Amirkhiz, and D. Mitlin, Appl. Phys. Lett., 97, No. 8: 083106 (2010)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2009.08.133",
+				"or":  "L. Pranevicius, D. Milcius, C. Templier, and M. Lelis, J. Alloys and Compounds, 480, No. 1: 360 (2009).",
+				"tr":  "L. Pranevicius, D. Milcius, C. Templier, and M. Lelis, J. Alloys and Compounds, 480, No. 1: 360 (2009)."
+			},
+			{
+				"doi": "10.1039/c3cp51735g",
+				"or":  "L. Mooij and B. Dam, Phys. Chem. Chem. Phys., 15, No. 27: 11501 (2013).",
+				"tr":  "L. Mooij and B. Dam, Phys. Chem. Chem. Phys., 15, No. 27: 11501 (2013)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2008.12.039",
+				"or":  "J. Qu, Y. Wang, L. Xie, J. Zheng, Y. Liu, and X. Li, Int. J. Hydrogen Energy, 34, No. 4: 1910 (2009).",
+				"tr":  "J. Qu, Y. Wang, L. Xie, J. Zheng, Y. Liu, and X. Li, Int. J. Hydrogen Energy, 34, No. 4: 1910 (2009)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2011.04.041",
+				"or":  "Y. Gautam, A. Chawla, S. Khan, R. D. Agrawal, and R. Chandra, Int. J. Hydrogen Energy, 37, No. 4: 3772 (2012).",
+				"tr":  "Y. Gautam, A. Chawla, S. Khan, R. D. Agrawal, and R. Chandra, Int. J. Hydrogen Energy, 37, No. 4: 3772 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.75.205408",
+				"or":  "D. Borsa, R. Gremaud, A. Baldi, H. Schreuders, J. H. Rector, B. Kooi, P. Vermeulen, P. H. L. Notten, B. Dam, and R. Griessen, Phys. Rev. B, 75, No. 20: 205408 (2007).",
+				"tr":  "D. Borsa, R. Gremaud, A. Baldi, H. Schreuders, J. H. Rector, B. Kooi, P. Vermeulen, P. H. L. Notten, B. Dam, and R. Griessen, Phys. Rev. B, 75, No. 20: 205408 (2007)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2012.07.049",
+				"or":  "J. Cermak and L. Kral, Int. J. Hydrogen Energy, 37, No. 19: 14257 (2012).",
+				"tr":  "J. Cermak and L. Kral, Int. J. Hydrogen Energy, 37, No. 19: 14257 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.70.165411",
+				"or":  "W. Lohstroh, R. Westerwaal, L. Mechelen, C. Chacon, E. Johansson, B. Dam, and R. Griessen, Phys. Rev. B, 70, No. 16: 165411 (2004).",
+				"tr":  "W. Lohstroh, R. Westerwaal, L. Mechelen, C. Chacon, E. Johansson, B. Dam, and R. Griessen, Phys. Rev. B, 70, No. 16: 165411 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.93.197404",
+				"or":  "W. Lohstroh, R. Westerwaal, D. Noheda, S. Enache, I. A. Giebels, B. Dam, and R. Griessen, Phys. Rev. Lett., 93, No. 19: 197404 (2004).",
+				"tr":  "W. Lohstroh, R. Westerwaal, D. Noheda, S. Enache, I. A. Giebels, B. Dam, and R. Griessen, Phys. Rev. Lett., 93, No. 19: 197404 (2004)."
+			},
+			{
+				"doi": "10.1021/j100723a033",
+				"or":  "E. Veleckis and R. Edwards, J. Phys. Chem., 73: 683 (1969).",
+				"tr":  "E. Veleckis and R. Edwards, J. Phys. Chem., 73: 683 (1969)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(00)01359-1",
+				"or":  "J. Joubert and A. Percheron-Guégnan, J. Alloys and Compounds, 317–318: 71 (2001).",
+				"tr":  "J. Joubert and A. Percheron-Guégnan, J. Alloys and Compounds, 317–318: 71 (2001)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(99)00325-4",
+				"or":  "T. Kuriiwa, T. Tamura, T. Amemiya, T. Fuda, A. Kamegawa, H. Takamura, and M. Okada, J. Alloys and Compounds, 293–295: 433 (1999).",
+				"tr":  "T. Kuriiwa, T. Tamura, T. Amemiya, T. Fuda, A. Kamegawa, H. Takamura, and M. Okada, J. Alloys and Compounds, 293–295: 433 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.49.5570",
+				"or":  "J. Steiger, S. Blässer, and A. Weidinger, Phys. Rev. B, 49, No. 8: 5570 (1994).",
+				"tr":  "J. Steiger, S. Blässer, and A. Weidinger, Phys. Rev. B, 49, No. 8: 5570 (1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.31.6804",
+				"or":  "S. Moehlecke, C. Majkrzak, and M. Stroning, Phys. Rev. B, 31, No. 10: 6804 (1985).",
+				"tr":  "S. Moehlecke, C. Majkrzak, and M. Stroning, Phys. Rev. B, 31, No. 10: 6804 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Blässer, J. Steiger, and A. Weidinger, Methods Phys. Res. B, 85, Nos. 1–4: 24 (1994).",
+				"tr":  "S. Blässer, J. Steiger, and A. Weidinger, Methods Phys. Res. B, 85, Nos. 1–4: 24 (1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.53.4974",
+				"or":  "G. Reisfeld, N. Jisrawi, M. Ruckman, and M. Strongin, Phys. Rev. B, 53, No. 8: 4974 (1996).",
+				"tr":  "G. Reisfeld, N. Jisrawi, M. Ruckman, and M. Strongin, Phys. Rev. B, 53, No. 8: 4974 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.59.3142",
+				"or":  "Ch. Rehm, H. Fritzsche, H. Maletta, and F. Klose, Phys. Rev. B, 59, No. 4: 3142 (1999).",
+				"tr":  "Ch. Rehm, H. Fritzsche, H. Maletta, and F. Klose, Phys. Rev. B, 59, No. 4: 3142 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.54.917",
+				"or":  "P. Miceli, H. Zabel, and J. Cunningham, Phys. Rev. Lett., 54, No. 9: 917 (1985).",
+				"tr":  "P. Miceli, H. Zabel, and J. Cunningham, Phys. Rev. Lett., 54, No. 9: 917 (1985)."
+			},
+			{
+				"doi": "10.1016/0360-3199(88)90005-5",
+				"or":  "I. Jain, Y. Vijay, L. Malhotra, and K. Uppadhyay, Int. J. Hydrogen Energy, 13, No. 1: 15 (1988).",
+				"tr":  "I. Jain, Y. Vijay, L. Malhotra, and K. Uppadhyay, Int. J. Hydrogen Energy, 13, No. 1: 15 (1988)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(01)01526-2",
+				"or":  "H. Yukawa, M. Takagi, A. Teshima, and M. Morinada, J. Alloys and Compounds, 330–332: 105 (2002).",
+				"tr":  "H. Yukawa, M. Takagi, A. Teshima, and M. Morinada, J. Alloys and Compounds, 330–332: 105 (2002)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(01)01743-1",
+				"or":  "G. Andersson, K. Aits, and B. Hjörvarsson, J. Alloys and Compounds, 334, Nos. 1–2: 14 (2002).",
+				"tr":  "G. Andersson, K. Aits, and B. Hjörvarsson, J. Alloys and Compounds, 334, Nos. 1–2: 14 (2002)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.75.165418",
+				"or":  "J. Bloch, B. Hjörvarsson, S. Olsson, and R. Brukas, Phys. Rev. B, 75, No. 16: 165418 (2007).",
+				"tr":  "J. Bloch, B. Hjörvarsson, S. Olsson, and R. Brukas, Phys. Rev. B, 75, No. 16: 165418 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.55.1774",
+				"or":  "G. Andersson, B. Hjörvarsson, and P. Isberg, Phys. Rev. B, 55, No. 3: 1774 (1997).",
+				"tr":  "G. Andersson, B. Hjörvarsson, and P. Isberg, Phys. Rev. B, 55, No. 3: 1774 (1997)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.55.15905",
+				"or":  "G. Andersson, B. Hjörvarsson, and H. Zabel, Phys. Rev. B, 55, No. 23: 15905 (1997).",
+				"tr":  "G. Andersson, B. Hjörvarsson, and H. Zabel, Phys. Rev. B, 55, No. 23: 15905 (1997)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.43.6440",
+				"or":  "B. Hjörvarsson, J. Rydén, E. Karlsson, J. Birch, and J.-E. Sundgren, Phys. Rev. B, 43, No. 8: 6440 (1991).",
+				"tr":  "B. Hjörvarsson, J. Rydén, E. Karlsson, J. Birch, and J.-E. Sundgren, Phys. Rev. B, 43, No. 8: 6440 (1991)."
+			},
+			{
+				"doi": "10.1088/0953-8984/7/42/010",
+				"or":  "F. Stillesjö, S. Ólafsson, P. Isberg, and B. Hjörvarsson, J. Phys.: Condensed Matter, 7, No. 42: 8139 (1995).",
+				"tr":  "F. Stillesjö, S. Ólafsson, P. Isberg, and B. Hjörvarsson, J. Phys.: Condensed Matter, 7, No. 42: 8139 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Griessen and T. Riesterer, Hydrogen in Intermetallic Compounds 1 (Eds. L. Schlapbach). Topics Appl. Phys. (Springer: Berlin: 1988), vol. V, p. 63.",
+				"tr":  "R. Griessen and T. Riesterer, Hydrogen in Intermetallic Compounds 1 (Eds. L. Schlapbach). Topics Appl. Phys. (Springer: Berlin: 1988), vol. V, p. 63."
+			},
+			{
+				"doi": "10.1103/PhysRevB.63.094307",
+				"or":  "S. Orimo, F. Kimmerle, and G. Majer, Phys. Rev. B, 63, No. 9: 094307 (2001).",
+				"tr":  "S. Orimo, F. Kimmerle, and G. Majer, Phys. Rev. B, 63, No. 9: 094307 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Bryk, R. Vasilenko, A. Goncharov, T. Grigorova, A. Guglya, V. Kolobrodov, M. Litvinenko, I. Marchenko, and I. Sassa, J. Surf. Invest.: X-Ray, Synchrotron Neutron Tech., 6: 66 (2011) (in Russian).",
+				"tr":  "V. Bryk, R. Vasilenko, A. Goncharov, T. Grigorova, A. Guglya, V. Kolobrodov, M. Litvinenko, I. Marchenko, and I. Sassa, J. Surf. Invest.: X-Ray, Synchrotron Neutron Tech., 6: 66 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Belyakov, T. Makarova, V. Sakharov, I. Serenkov, and O. Sresely, Fiz. Tekh. Poluprovodn., 32: 1122 (1998) (in Russian).",
+				"tr":  "L. Belyakov, T. Makarova, V. Sakharov, I. Serenkov, and O. Sresely, Fiz. Tekh. Poluprovodn., 32: 1122 (1998) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Palatnik, P. Cheremskoy, and M. Fooks, Pori v Plyonkakh [Pores in Films] (Moscow: Energoizdat: 1982) (in Russian).",
+				"tr":  "L. Palatnik, P. Cheremskoy, and M. Fooks, Pori v Plyonkakh [Pores in Films] (Moscow: Energoizdat: 1982) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.elecom.2009.08.049",
+				"or":  "A. Gringoz, N. Glandut, and S. Valette, Electrochem. Commun., 11: 2044 (2009).",
+				"tr":  "A. Gringoz, N. Glandut, and S. Valette, Electrochem. Commun., 11: 2044 (2009)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2012.10.067",
+				"or":  "H. Ding, X. Fan, C. Li, X. Liu, D. Jiang, and Ch. Wang, J. Alloys and Compounds, 551: 67 (2013).",
+				"tr":  "H. Ding, X. Fan, C. Li, X. Liu, D. Jiang, and Ch. Wang, J. Alloys and Compounds, 551: 67 (2013)."
+			},
+			{
+				"doi": "10.1063/1.322288",
+				"or":  "J. L’ecuyer, C. Brassard, C. Cardinal, J. Chabbal, L. Deschênes, J. P. Labrie, B. Terreault, J. G. Martel, and R. Saint Jacques, J. Appl. Phys., 47: 381 (1976).",
+				"tr":  "J. L'ecuyer, C. Brassard, C. Cardinal, J. Chabbal, L. Deschênes, J. P. Labrie, B. Terreault, J. G. Martel, and R. Saint Jacques, J. Appl. Phys., 47: 381 (1976)."
+			}
+		]
+	}
+}

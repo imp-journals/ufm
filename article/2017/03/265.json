@@ -1,0 +1,211 @@
+{
+	"_id":    "UFM.18.03.265",
+	"year":   2017,
+	"volume": 18,
+	"issue":  3,
+	"pages":  [265,294],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["25.05.2017"],
+	"PACS":   "61.50.-f, 61.66.-f, 61.72.Lk, 61.72.Mm, 61.72.Nn, 62.20.-x, 62.20.F-",
+	"title":   {
+		"ua": "Вплив деформаційного двійникування на механічні властивості стопів з ОЦК-ґратницею",
+		"en": "Impact of Deformation Twinning on the Mechanical Properties of B.C.C.-Lattice-Based Alloys",
+		"ru": "Влияние деформационного двойникования на механические свойства сплавов с ОЦК-решёткой"
+	},
+	"abstract": {
+		"ua": "Деформаційне двійникування справляє істотний вплив на низькотемпературну пластичність ОЦК-металів. У статті оглянуто публікації, присвячені цій проблемі. Розглянуто результати вивчення схильности стопів до двійникування та його вплив на механічні властивості стопів на основі Cr, Mo, W, Fe, а також «ренійовий ефект» підвищення пластичности при леґуванні. Відзначається ефективність методик індентування для визначення схильности стопів до деформаційного двійникування та для вивчення механізму деформації малопластичних матеріялів, до яких відносяться ці стопи. Наведено криві деформації та визначено деформаційне зміцнення стопів, що сильно двійникуються.",
+		"en": "Deformation twinning exerts a great influence on the low-temperature plasticity of b.c.c. metals. The article reviews publications relating to this problem. We consider results of the study of alloys' tendency to twinning and its impact on mechanical properties of Cr-, Mo-, W-, and Fe-based alloys as well as 'rhenium effect' of increase of plasticity with an alloying. It is noted the effectiveness of indentation technique for both the determination of the tendency to twinning of alloys and the study of mechanism of deformation of the low-ductile materials, to which these alloys are belonged. The stress–strain curves and the strain hardening of strongly twinning alloys are presented.",
+		"ru": "Деформационное двойникование оказывает существенное влияние на низкотемпературную пластичность ОЦК-металлов. В статье обозреваются публикации, посвящённые этой проблеме. Рассмотрены результаты изучения склонности сплавов к двойникованию и влияние двойникования на механические свойства сплавов на основе Cr, Mo, W, Fe, включая «рениевый эффект» повышения пластичности при легировании. Отмечается эффективность методик индентирования для определения склонности сплавов к деформационному двойникованию и для изучения механизма деформации малопластичных материалов, к которым относятся сильнодвойникующиеся сплавы. Приведены данные о кривых деформации и деформационном упрочнении сильнодвойникующихся сплавов."
+	},
+	"keywords": {
+		"ua": "двійникування, механічні властивості, твердість, холодноламкість",
+		"en": "twinning, mechanical properties, hardness, cold brittleness",
+		"ru": "двойникование, механические свойства, твёрдость, хладноломкость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. В. Мільман", "en": "Yu. V. Milman", "ru": "Ю. В. Мильман"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "І. В. Гончарова", "en": "I. V. Goncharova", "ru": "И. В. Гончарова"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 34,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, Ю. В. Мильман, С. A. Фирстов, Физические основы прочности тугоплавких металлов (Киев: Наукова думка: 1975).",
+				"tr":  "V. I. Trefilov, Yu. V. Milman, and S. A. Firstov, Fizicheskie Osnovy Prochnosti Tugoplavkikh Metallov [Physical Basis of Strength of Refractory Metals] (Kiev: Naukova Dumka: 1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "E. M. Савицкий, Г. С. Бурханов, Металловедение тугоплавких металлов и сплавов (Москва: Наука: 1967).",
+				"tr":  "E. M. Savitskiy and G. S. Burkhanov, Metallovedenie Tugoplavkikh Metallov i Splavov [Metallurgy of Refractory Metals and Alloys] (Moscow: Nauka: 1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. V. Milman and G. G. Kurdyumova, Proc. of Int. Symp. ‘Rhenium and Rhenium Alloys’ (February 9–13, 1997) (Ed. B. D. Bryskin) (USA: Orlando, Florida: 1997).",
+				"tr":  "Yu. V. Milman and G. G. Kurdyumova, Proc. of Int. Symp. 'Rhenium and Rhenium Alloys' (February 9–13, 1997) (Ed. B. D. Bryskin) (USA: Orlando, Florida: 1997)."
+			},
+			{
+				"doi": "",
+				"or":  "Refractory Metals and Alloys, Proc. of Technical Conf. (Eds. M. Semchyshen and I. Perlmutter) (Intersciens Publishers: Chicago, Illinois: 1962).",
+				"tr":  "Refractory Metals and Alloys, Proc. of Technical Conf. (Eds. M. Semchyshen and I. Perlmutter) (Intersciens Publishers: Chicago, Illinois: 1962)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Моисеев, Изучение деформации двойникованием в поликристалли-ческих переходных металлах с ОЦК-решёткой (Диссер. … канд. физ.-мат. наук) (Киев: 1967).",
+				"tr":  "V. F. Moiseev, Izuchenie Deformatsii Dvoinikovaniyem v Polikristallicheskikh Perekhodnykh Metallakh s OTsK-Reshetkoy [Study of Deformation by Twinning in Polycrystalline Transition Metals with a B.C.C. Lattice] (Disser. for Cand. Phys.-Math. Sci.) (Kiev: 1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "C. N. Reid, G. T. Hahn, and A. Gilbert, Deformation Twinning (Eds. R. E. Reed Hill, J. P. Hirth, and H. C. Rogers) (Gordon and Breach, New York: 1965).",
+				"tr":  "C. N. Reid, G. T. Hahn, and A. Gilbert, Deformation Twinning (Eds. R. E. Reed Hill, J. P. Hirth, and H. C. Rogers) (Gordon and Breach, New York: 1965)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. И. Гарбер, Ж. И. Дранова, И. M. Михайловский, Физика твёрдого тела, 10: № 4: 1012 (1968).",
+				"tr":  "R. I. Garber, Zh. I. Dranova, and I. M. Mikhailovskiy, Fizika Tverdogo Tela, 10: No. 4: 1012 (1968) (in Russian)."
+			},
+			{
+				"doi": "10.1002/pssb.19660180241",
+				"or":  "V. F. Moiseev and V. I. Trefilov, Phys. Status Solidi, 18: 881 (1966).",
+				"tr":  "V. F. Moiseev and V. I. Trefilov, Phys. Status Solidi, 18: 881 (1966)."
+			},
+			{
+				"doi": "10.1016/0022-5088(66)90116-0",
+				"or":  "C. N. Reid and A. Gilbert, J. Less-Common Met., 10, No. 2: 77 (1966).",
+				"tr":  "C. N. Reid and A. Gilbert, J. Less-Common Met., 10, No. 2: 77 (1966)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Мильман, A. П. Рачек, В. И. Трефилов, Вопросы физики металлов и металловедения, № 20: 3 (1964).",
+				"tr":  "Yu. V. Milman, A. P. Rachek, and V. I. Trefilov, Voprosy Fiziki Metallov i Metallovedeniya, No. 20: 3 (1964) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Н. Каверина, Г. Г. Курдюмова, Ю. В. Мильман, В. И. Трефилов, Структура и свойства жаропрочных металлических материалов (Москва: Наука: 1970).",
+				"tr":  "S. N. Kaverina, G. G. Kurdyumova, Yu. V. Milman, and V. I. Trefilov, Struktura i Svoistva Zharoprochnykh Metallicheskikh Materialov [Structure and Properties of Heat-Resistant Metallic Materials] (Moscow: Nauka: 1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Мильман, A. П. Рачек, В. И. Трефилов, A. A. Удовенко, С. A. Фирстов, В. В. Яремчук, Механизм плпстической деформации металлов (Киев: Наукова думка: 1965).",
+				"tr":  "Yu. V. Milman, A. P. Rachek, V. I. Trefilov, A. A. Udovenko, S. A. Firstov, and V. V. Yaremchuk, Mehanizm Plasticheskoy Deformatsii Metallov [Mechanism of Plastic Deformation of Metals] (Kiev: Naukova Dumka: 1965) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Г. Курдюмова, Ю. В. Мильман, В. И. Трефилов, С. A. Фирстов, Металлофизика, № 21: 24 (1969).",
+				"tr":  "G. G. Kurdyumova, Yu. V. Milman, V. I. Trefilov, and S. A. Firstov, Metallofizika, No. 21: 24 (1969) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Электронная структура переходных металлов и химия их сплавов (Ред. Я. С. Уманский, Р. А. Сурис) (Москва: Металлургия: 1966).",
+				"tr":  "Ehlektronnaya Struktura Perekhodnykh Metallov i Khimiya Ikh Splavov [Electronic Structure of Transition Metals and Chemistry of Their Alloys] (Eds. Ya. S. Umanskiy and R. A. Suris) (Moscow: Metallurgiya: 1966) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRev.126.2030",
+				"or":  "C. H. Cheng, K. P. Gupta, E. C. Reuth, and P. A. van Beck, Phys. Rev., 126, 6: 2030 (1962).",
+				"tr":  "C. H. Cheng, K. P. Gupta, E. C. Reuth, and P. A. van Beck, Phys. Rev., 126, 6: 2030 (1962)."
+			},
+			{
+				"doi": "10.1103/PhysRev.120.426",
+				"or":  "C. H. Cheng, C. T. Wei, and P. A. Beck, Phys. Rev., 120, 2: 426 (1960).",
+				"tr":  "C. H. Cheng, C. T. Wei, and P. A. Beck, Phys. Rev., 120, 2: 426 (1960)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, С. А. Фирстов, Металлофизика, № 35: 11 (1971).",
+				"tr":  "V. I. Trefilov and S. A. Firstov, Metallofizika, No. 35: 11 (1971) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Мильман, Г. Г. Курдюмова, И. В. Гончарова, Деформация и разрушение материалов, 12: 31 (2005).",
+				"tr":  "Yu. V. Milman, G. G. Kurdyumova, and I. V. Goncharova, Deformatsiya i Razrusheniye Materialov [Deformation and Fracture of Materials], 12: 31 (2005) (in Russian)."
+			},
+			{
+				"doi": "10.1080/14786445108561272",
+				"or":  "A. H. Cottrell and B. A. Bilby, Philos. Mag., 42, No. 329: 573 (1951).",
+				"tr":  "A. H. Cottrell and B. A. Bilby, Philos. Mag., 42, No. 329: 573 (1951)."
+			},
+			{
+				"doi": "10.1080/14786436308207311",
+				"or":  "A. W. Sleeswyk, Philos. Mag., 8, No. 93: 1467 (1963).",
+				"tr":  "A. W. Sleeswyk, Philos. Mag., 8, No. 93: 1467 (1963)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Г. Курдюмова, Ю. В. Мильман, В. И. Трефилов, Сборник трудов IX симпозиума «Электронное строение и физико-химические свойства тугоплавких соединений и сплавов» (Киев: Наукова думка: 1980).",
+				"tr":  "G. G. Kurdyumova, Yu. V. Milman, and V. I. Trefilov, Proc. of IX Symp. 'Ehlektronnoye Stroeniye i Fiziko-Khimicheskiye Svojstva Tugoplavkikh Soedineniy i Splavov' [Electronic Structure and Physico-Chemical Properties of Refractory Compounds and Alloys] (Kiev: Naukova Dumka: 1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Джаффи, Д. Дж. Мейкат, Р. У. Дуглас, Рений и тугоплавкие металлы платиновой группы (Москва: Издательство иностранной литературы: 1963) (пер. с англ.).",
+				"tr":  "R. I. Jaffee, D. J. Maykuth, and R. W. Douglass, Reniy i Tugoplavkiye Metally Platinovoy Gruppy [Rhenium and Refractory Metals of the Platinum Group] (Moscow: Foreign Literature Publishing House: 1963) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "J. R. Stephens, W. D. Klopp, Trans. Met. Soc. AIME, 236: 1637 (1966).",
+				"tr":  "J. R. Stephens, W. D. Klopp, Trans. Met. Soc. AIME, 236: 1637 (1966)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Brewer, Electronic Structure and Alloy Chemistry of the Transition Elements (Ed. P. A. Beck) (New York: Interscience: 1963).",
+				"tr":  "L. Brewer, Electronic Structure and Alloy Chemistry of the Transition Elements (Ed. P. A. Beck) (New York: Interscience: 1963)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Г. Курдюмова, Ю. В. Мильман, В. A. Москаленко, В. И. Старцев, В. И. Трефилов, Физико-химические свойства сплавов рения (Москва: Наука: 1979).",
+				"tr":  "G. G. Kurdyumova, Yu. V. Milman, V. A. Moskalenko, V. I. Startsev, and V. I. Trefilov, Fiziko-Khimicheskiye Svojstva Splavov Reniya [Physico-Chemical Properties of Rhenium Alloys] (Moscow: Nauka: 1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Г. Курдюмова, Ю. В. Мильман, Физика хрупкого разрушения (Киев: ИПМ: 1976).",
+				"tr":  "G. G. Kurdyumova and Yu. V. Milman, Fizika Khrupkogo Razrusheniya [The Physics of Brittle Fracture] (Kiev: Institute for Problems in Materials Science: 1976) (in Russian)."
+			},
+			{
+				"doi": "10.2298/SOS0701067M",
+				"or":  "Yu. V. Milman, I. V. Gridneva, and A. A. Golubenko, Science of Sintering, 39: 67 (2007).",
+				"tr":  "Yu. V. Milman, I. V. Gridneva, and A. A. Golubenko, Science of Sintering, 39: 67 (2007)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.426-432.4513",
+				"or":  "A. N. Slipenyuk, Yu. V. Milman, S. N. Dub, and H. A. Makarenko, Mater. Sci. Forum, 426–432: 4513 (2003).",
+				"tr":  "A. N. Slipenyuk, Yu. V. Milman, S. N. Dub, and H. A. Makarenko, Mater. Sci. Forum, 426–432: 4513 (2003)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2011.08.027",
+				"or":  "Yu. V. Milman, A. A. Golubenko, and S. N. Dub, Acta Mater., 59: 7480 (2011).",
+				"tr":  "Yu. V. Milman, A. A. Golubenko, and S. N. Dub, Acta Mater., 59: 7480 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Кириллов, С. Н. Плужников, T. Н. Плужникова, E. В. Зингер, В. А. Федоров, Вестник ТГУ, 15, № 3: 937 (2010).",
+				"tr":  "A. M. Kirillov, S. N. Pluzhnikov, T. N. Pluzhnikova, E. V. Zinger, and V. A. Fedorov, Vestnik TGU, 15, No. 3: 937 (2010) (in Russian)."
+			},
+			{
+				"doi": "10.2355/isijinternational.55.1496",
+				"or":  "T. Mizuguchi, K. Ikeda, and N. Karasawa, ISIJ Inter, 55, No. 7: 1496 (2015).",
+				"tr":  "T. Mizuguchi, K. Ikeda, and N. Karasawa, ISIJ Inter, 55, No. 7: 1496 (2015)."
+			},
+			{
+				"doi": "10.1007/BF02643136",
+				"or":  "G. E. Lakso and M. J. Marcinkowski, Metall. Trans., 5, No. 4: 839 (1974).",
+				"tr":  "G. E. Lakso and M. J. Marcinkowski, Metall. Trans., 5, No. 4: 839 (1974)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.783-786.910",
+				"or":  "T. Mizuguchi, K. Ikeda, N. Karasawa, and Y. Tanaka, Mater. Sci. Forum, 783–786: 910 (2014).",
+				"tr":  "T. Mizuguchi, K. Ikeda, N. Karasawa, and Y. Tanaka, Mater. Sci. Forum, 783–786: 910 (2014)."
+			},
+			{
+				"doi": "10.1016/j.msea.2014.11.078",
+				"or":  "Z. Y. Tang, R. D. K. Misra, M. Ma, N. Zan, Z. Q. Wu, and H. Ding, Mater. Sci. Eng. A, 624: 186 (2015).",
+				"tr":  "Z. Y. Tang, R. D. K. Misra, M. Ma, N. Zan, Z. Q. Wu, and H. Ding, Mater. Sci. Eng. A, 624: 186 (2015)."
+			}
+		]
+	}
+}

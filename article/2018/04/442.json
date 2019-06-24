@@ -1,0 +1,655 @@
+{
+	"_id":    "UFM.19.04.442",
+	"year":   2018,
+	"volume": 19,
+	"issue":  4,
+	"pages":  [442,486],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["03.08.2018", "25.10.2018"],
+	"PACS":   "61.46.-w, 61.48.-c, 68.37.-d, 68.43.-h, 68.65.-k, 81.05.U-, 81.05.Zx, 81.07.-b, 81.16.-c, 81.70.-q, 82.45.Yz, 82.47.Aa, 88.05.Ec, 88.05.Gh, 88.05.Lg, 88.05.Np, 88.30.G-, 88.30.M-, 88.30.R-, 88.40.-j, 88.40.H-, 88.40.J-, 89.30.-g",
+	"title":   {
+		"ua": "Від наноматеріялів і нанотехнологій до альтернативної енергетики",
+		"en": "From Nanomaterials and Nanotechnologies to the Alternative Energy",
+		"ru": "От наноматериалов и нанотехнологий к альтернативной энергетике"
+	},
+	"abstract": {
+		"ua": "Питання використання альтернативних джерел енергії в різних областях промисловости та в побуті набуває все більшої актуальности. Це зумовлено тим, що виснажуються джерела вуглеводневої сировини й, одночасно з цим, використання вуглеводнів призводить до погіршення екологічної обстановки та забруднення навколишнього середовища. Серед різних можливих джерел відновлюваної енергії сонячна та воднева енергії вважаються найбільш перспективними. Головною перешкодою на шляху їх широкого використання та поширення вважається відсутність матеріялів, які можуть ефективно перетворювати енергію Сонця та водню в електрику й тепло. Основними вимогами до таких матеріялів є висока енергетична місткість, структурна стабільність і низька ціна. Ці властивості притаманні нанокристалічним матеріялам; тому саме їм присвячено численні дослідження останніх десятиліть. У даному огляді особлива увага приділяється трьом видам нанокристалічних об’єктів, що представляють найбільший інтерес для енергетики, а саме, сонячним елементам, літій-йонним батареям і твердотільним накопичувачам водню. Розглянуто їхні структурні особливості, технології виготовлення, а також взаємозв’язок між структурою й енергетичною місткістю. Проаналізовано стан і перспективи використання нанокристалічних структур у відновлюваній енергетиці.",
+		"en": "The use of alternative energy sources in various areas of industry and in everyday life is becoming increasingly important. This is due to the depletion of the sources of hydrocarbon raw materials and, at the same time, the use of fossil fuel leads to environmental degradation and environmental pollution. Among the various possible sources of renewable energy, solar and hydrogen energies are considered the most promising. The main obstacle to widespread use and distribution of them is the lack of materials, which can effectively convert the energy of Sun and hydrogen into electricity and heat. The main requirements for such materials are the high-energy capacity, structural stability, and low price. These properties are inherent in nanocrystalline materials and, therefore, many studies of recent decades have been devoted to them. In this review, a special attention is focused on the three types of nanocrystalline objects of greatest interest for power engineering, namely, solar cells, lithium-ion batteries and solid-state hydrogen storage. Their structural features, manufacturing techniques as well as the relationship between structure and energy capacity are considered. The state and prospects of application of nanocrystalline structures in renewable energy are analysed.",
+		"ru": "Вопрос использования альтернативных источников энергии в различных областях промышленности и в быту приобретает всё большую актуальность. Это обусловлено тем, что истощаются источники углеводородного сырья и, одновременно с этим, использование углеводородов ведёт к ухудшению экологической обстановки и загрязнению окружающей среды. Среди различных возможных источников возобновляемой энергии солнечная и водородная энергии считаются наиболее перспективными. Главным препятствием на пути их широкого использования и распространения считается отсутствие материалов, которые могут эффективно превращать энергию Солнца и водорода в электричество и тепло. Основными требованиями к таким материалам являются высокая энергетическая ёмкость, стабильность и низкая цена. Этими качествами обладают нанокристаллические материалы; поэтому именно им посвящены многочисленные исследования последних десятилетий. В данном обзоре особое внимание уделяется трём видам нанокристаллических объектов, представляющих наибольший интерес для энергетики, а именно, солнечным элементам, литий-ионным батареям и твёрдотельным накопителям водорода. Рассмотрены их структурные особенности, технологии изготовления, а также взаимосвязь между структурой и энергетической ёмкостью. Проанализировано состояние и перспективы использования нанокристаллических структур в возобновляемой энергетике."
+	},
+	"keywords": {
+		"ua": "альтернативна енергетика, наноматеріяли, сонячні елементи, літій-йонні батареї, накопичення водню",
+		"en": "alternative energy, nanomaterials, solar cells, lithium-ion battery, hydrogen storage",
+		"ru": "альтернативная энергетика, солнечные элементы, литий-ионные батареи, накопление водорода"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. Г. Гугля", "en": "O. G. Guglya", "ru": "А. Г. Гугля"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "В. А. Гусєв", "en": "V. A. Gusev", "ru": "В. А. Гусев"},
+			"OID": [11]
+		},
+		{
+			"AID": {"ua": "О. А. Любченко", "en": "O. A. Lyubchenko", "ru": "Е. А. Любченко"},
+			"OID": [243]
+		}
+	],
+	"references": {
+		"count": 122,
+		"list":  [
+			{
+				"doi": "10.1080/15567240701620499",
+				"or":  "A. Demirbas, Energy Sources, Part B, 4, No. 2: 212 (2009).",
+				"tr":  "A. Demirbas, Energy Sources, Part B, 4, No. 2: 212 (2009)."
+			},
+			{
+				"doi": "10.1002/er.1695",
+				"or":  "K. G. Satyanarayana, A. Mariano, and J. V. C. Vargas, Int. J. Energy Research, 35, No. 4: 291 (2011).",
+				"tr":  "K. G. Satyanarayana, A. Mariano, and J. V. C. Vargas, Int. J. Energy Research, 35, No. 4: 291 (2011)."
+			},
+			{
+				"doi": "10.1007/s10853-008-2749-0",
+				"or":  "U. Sahaym and M. G. Norton, J. Mater. Science, 43, No. 16: 5395 (2008).",
+				"tr":  "U. Sahaym and M. G. Norton, J. Mater. Science, 43, No. 16: 5395 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "N. S. Lewis, Science, 315: No. 5813: 798 (2007).",
+				"tr":  "N. S. Lewis, Science, 315: No. 5813: 798 (2007)."
+			},
+			{
+				"doi": "10.1038/nenergy.2016.71",
+				"or":  "Y. Sun, N. Liu, and Y. Cui, Nature Energy. 1: 16071 (2016).",
+				"tr":  "Y. Sun, N. Liu, and Y. Cui, Nature Energy, 1: 16071 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "R. P. Feynman, Engineering and Science, 23, No. 5: 22 (1960).",
+				"tr":  "R. P. Feynman, Engineering and Science, 23, No. 5: 22 (1960)."
+			},
+			{
+				"doi": "",
+				"or":  "N. Taniguchi, Proc. of the Int. Conf. on Production Engineering (Tokyo: 1974), p. 18.",
+				"tr":  "N. Taniguchi, Proc. of the Int. Conf. on Production Engineering (Tokyo: 1974), p. 18."
+			},
+			{
+				"doi": "10.1063/1.88617",
+				"or":  "D. E. Carlson and C. R. Wronski, Appl. Phys. Lett., 28, No. 11: 671 (1976).",
+				"tr":  "D. E. Carlson and C. R. Wronski, Appl. Phys. Lett., 28, No. 11: 671 (1976)."
+			},
+			{
+				"doi": "10.1016/0039-6028(83)90716-1",
+				"or":  "G. Binning and H. Rohrer, Surf. Sci., 126, Nos. 1–3: 236 (1983).",
+				"tr":  "G. Binning and H. Rohrer, Surf. Sci., 126, Nos. 1–3: 236 (1983)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.56.930",
+				"or":  "G. Binnig, C. F. Quate, and Ch. Gerber, Phys. Rev. Lett., 56, No. 9: 930 (1986).",
+				"tr":  "G. Binnig, C. F. Quate, and Ch. Gerber, Phys. Rev. Lett., 56, No. 9: 930 (1986)."
+			},
+			{
+				"doi": "10.1038/354056a0",
+				"or":  "S. Iijima, Nature, 354: 56 (1991).",
+				"tr":  "S. Iijima, Nature, 354: 56 (1991)."
+			},
+			{
+				"doi": "10.5923/j.nn.20120203.01",
+				"or":  "T. P. Yadav, R. M. Yadav, and D. P. Singh, Nanosci. Nanotechnol., 2, No. 3: 22 (2012).",
+				"tr":  "T. P. Yadav, R. M. Yadav, and D. P. Singh, Nanosci. Nanotechnol., 2, No. 3: 22 (2012)."
+			},
+			{
+				"doi": "10.1016/0079-6425(89)90001-7",
+				"or":  "H. Gleiter, Prog. Mater. Sci., 33, No. 4: 223 (1989).",
+				"tr":  "H. Gleiter, Prog. Mater. Sci., 33, No. 4: 223 (1989)."
+			},
+			{
+				"doi": "10.1016/0921-5093(89)90083-X",
+				"or":  "R. Birringe, Mater. Sci. Eng. A, 117, 33 (1989).",
+				"tr":  "R. Birringe, Mater. Sci. Eng. A, 117, 33 (1989)."
+			},
+			{
+				"doi": "10.1088/0034-4885/76/6/066501",
+				"or":  "R. Thiruvengadathan, V. Korampally, A. Ghosh, N. Chanda, K. Gangopadhyay, and S. Gangopadhyay, Rep. Prog. Phys., 76, No. 6: 066501 (2013).",
+				"tr":  "R. Thiruvengadathan, V. Korampally, A. Ghosh, N. Chanda, K. Gangopadhyay, and S. Gangopadhyay, Rep. Prog. Phys., 76, No. 6: 066501 (2013)."
+			},
+			{
+				"doi": "10.1016/C2013-0-23140-8",
+				"or":  "J. L. Liu and S. Bashir, Advanced Nanomaterials and Their Application in Renewable Energy (Amsterdam: Elsevier: 2015).",
+				"tr":  "J. L. Liu and S. Bashir, Advanced Nanomaterials and Their Application in Renewable Energy (Amsterdam: Elsevier: 2015)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Edwards, R. Johnston, and C. Rao, Metal Clusters in Chemistry (Eds. R. Braunstein, L. Oro, and P. Raithby) (Weinheim: Wiley-VCH: 1999), Vol. 3, p. 1454.",
+				"tr":  "P. Edwards, R. Johnston, and C. Rao, Metal Clusters in Chemistry (Eds. R. Braunstein, L. Oro, and P. Raithby) (Weinheim: Wiley-VCH: 1999), Vol. 3, p. 1454."
+			},
+			{
+				"doi": "",
+				"or":  "N. T. Gladkih, S. V. Gukarov, A. P. Kryshtal, V. I. Larin, V. N. Suhov, and S. I. Bogatyrenko, Poverkhnostnye Yavleniya i Fazovye Prevrashcheniya v Kondensirovannykh Plenkakh [Surface Phenomena and Phase Transformations in Condensed Films] (Kharkov: KhNU: 2004) (in Russian).",
+				"tr":  "N. T. Gladkih, S. V. Gukarov, A. P. Kryshtal, V. I. Larin, V. N. Suhov, and S. I. Bogatyrenko, Poverkhnostnye Yavleniya i Fazovye Prevrashcheniya v Kondensirovannykh Plenkakh [Surface Phenomena and Phase Transformations in Condensed Films] (Kharkov: KhNU: 2004) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.nantod.2010.11.002",
+				"or":  "K. T. Lee and J. Cho, Nano Today, 6: 28 (2011).",
+				"tr":  "K. T. Lee and J. Cho, Nano Today, 6: 28 (2011)."
+			},
+			{
+				"doi": "10.1002/adma.200800627",
+				"or":  "Y. G. Guo, J. S. Hu, and L. J. Wan, Adv. Mater., 20, No. 15: 2878 (2008).",
+				"tr":  "Y. G. Guo, J. S. Hu, and L. J. Wan, Adv. Mater., 20, No. 15: 2878 (2008)."
+			},
+			{
+				"doi": "10.1016/j.jpowsour.2004.06.014",
+				"or":  "R. Morris, B. Dixon, T. Gennett, R. Raffaelle, and M. J. Heben, J. Power Sources, 138: 277 (2004).",
+				"tr":  "R. Morris, B. Dixon, T. Gennett, R. Raffaelle, and M. J. Heben, J. Power Sources, 138: 277 (2004)."
+			},
+			{
+				"doi": "10.1021/cm048746+",
+				"or":  "Z. Zhou, J. Zhao, X. Gao, Z. Chen, J. Yan, P. von Rague Schleyer, and M. Morinada, Chem. Mater., 17, No. 5: 992 (2005).",
+				"tr":  "Z. Zhou, J. Zhao, X. Gao, Z. Chen, J. Yan, P. von Rague Schleyer, and M. Morinada, Chem. Mater., 17, No. 5: 992 (2005)."
+			},
+			{
+				"doi": "10.1021/jp102525y",
+				"or":  "H. Xie, Y. Li, S. Jin, J. Han, and X. Zhao, J. Phys. Chem. C, 114, No. 21: 9706 (2010).",
+				"tr":  "H. Xie, Y. Li, S. Jin, J. Han, and X. Zhao, J. Phys. Chem. C, 114, No. 21: 9706 (2010)."
+			},
+			{
+				"doi": "10.1016/j.jpowsour.2007.10.071",
+				"or":  "M. S. Wu and R. H. Lee, J. Power Sources, 176, No. 1: 363 (2008).",
+				"tr":  "M. S. Wu and R. H. Lee, J. Power Sources, 176, No. 1: 363 (2008)."
+			},
+			{
+				"doi": "10.1039/C2NR33326K",
+				"or":  "G. Zhang, L. Yu, H. E. Hoster, and X. W. Lou, Nanoscale, 5, No. 3: 877 (2013).",
+				"tr":  "G. Zhang, L. Yu, H. E. Hoster, and X. W. Lou, Nanoscale, 5, No. 3: 877 (2013)."
+			},
+			{
+				"doi": "0.1039/C2JM31629C",
+				"or":  "J. Chen, X. H. Xia, J. P. Tu, Q. G. Xiong, Y. X. Yu, and X. L. Wang, J. Mater. Chem., 22, No. 30: 15056 (2012).",
+				"tr":  "J. Chen, X. H. Xia, J. P. Tu, Q. G. Xiong, Y. X. Yu, and X. L. Wang, J. Mater. Chem., 22, No. 30: 15056 (2012)."
+			},
+			{
+				"doi": "10.1002/ange.200353571",
+				"or":  "A. R. Armstrong, G. Armstrong, J. Canales, and P. G. Bruce, Angew. Chem. Int. Ed., 116, No. 17: 2336 (2004).",
+				"tr":  "A. R. Armstrong, G. Armstrong, J. Canales, and P. G. Bruce, Angew. Chem. Int. Ed., 116, No. 17: 2336 (2004)."
+			},
+			{
+				"doi": "10.1002/adma.200400795",
+				"or":  "A. Armstrong, G. Armstrong, J. Canales, and P. G. Bruce, Adv. Mater., 17, No. 6: 862 (2005).",
+				"tr":  "A. Armstrong, G. Armstrong, J. Canales, and P. G. Bruce, Adv. Mater., 17, No. 6: 862 (2005)."
+			},
+			{
+				"doi": "10.1016/j.jpowsour.2012.01.155",
+				"or":  "M. C. Yang, Y. Y. Lee, B. Xu, K. Powers, and Y. S. Meng, J. Power Sources, 207: 166 (2012).",
+				"tr":  "M. C. Yang, Y. Y. Lee, B. Xu, K. Powers, and Y. S. Meng, J. Power Sources, 207: 166 (2012)."
+			},
+			{
+				"doi": "10.1002/aenm.201200953",
+				"or":  "J. Luo, X. Xia, Y. Luo, C. Guan, J. Liu, X. Qi, C. F. Ng, T. Yu, H. Zhang, and H. J. Fan, Adv. Energy Mater., 3, No. 6: 737 (2013).",
+				"tr":  "J. Luo, X. Xia, Y. Luo, C. Guan, J. Liu, X. Qi, C. F. Ng, T. Yu, H. Zhang, and H. J. Fan, Adv. Energy Mater., 3, No. 6: 737 (2013)."
+			},
+			{
+				"doi": "10.1038/srep00701",
+				"or":  "H. Wang, D. Ma, X. Xuang, Y. Huang, and X. Zhang, Sci. Rep., 2: 701 (2012).",
+				"tr":  "H. Wang, D. Ma, X. Xuang, Y. Huang, and X. Zhang, Sci. Rep., 2: 701 (2012)."
+			},
+			{
+				"doi": "10.1039/C4RA06981A",
+				"or":  "X. Li, Y. Chen, H. Yao, X. Zhau, J. Yang, H. Huang, Y.-W. Mai, and L. Zhou, RSC Advances, 4: 39906 (2014).",
+				"tr":  "X. Li, Y. Chen, H. Yao, X. Zhau, J. Yang, H. Huang, Y.-W. Mai, and L. Zhou, RSC Advances, 4: 39906 (2014)."
+			},
+			{
+				"doi": "10.1016/j.electacta.2015.12.135",
+				"or":  "S. Guo, J. Liu, S. Qiu, Y. Wang, X. Yan, N. Wu, S. Wang, and Z. Guo, Electrochim. Acta, 190: 556 (2016).",
+				"tr":  "S. Guo, J. Liu, S. Qiu, Y. Wang, X. Yan, N. Wu, S. Wang, and Z. Guo, Electrochim. Acta, 190: 556 (2016)."
+			},
+			{
+				"doi": "10.1002/anie.200702505",
+				"or":  "P. Bruce, B. Scrosati, and J.-V.Tarascon, Angewandte Chemie, 47, No. 16: 2930 (2008).",
+				"tr":  "P. Bruce, B. Scrosati, and J.-V.Tarascon, Angewandte Chemie, 47, No. 16: 2930 (2008)."
+			},
+			{
+				"doi": "10.1038/nmat2230",
+				"or":  "C. Delmas, M. Maccario, L. Croguennec, F. Le Cras, and F. Weill, Nature Mater., 7: 665 (2008).",
+				"tr":  "C. Delmas, M. Maccario, L. Croguennec, F. Le Cras, and F. Weill, Nature Mater., 7: 665 (2008)."
+			},
+			{
+				"doi": "10.1021/nl1023595",
+				"or":  "R. Malik, D. Burch, M. Bazant, and G. Ceder, Nano Lett., 10, No. 10: 4123 (2010).",
+				"tr":  "R. Malik, D. Burch, M. Bazant, and G. Ceder, Nano Lett., 10, No. 10: 4123 (2010)."
+			},
+			{
+				"doi": "10.1016/j.jpowsour.2008.09.077",
+				"or":  "D. Wang, H. Buga, M. Grouzet, G. Deghenghi, T. Drezen, I. Exnar, N.-H. Kwon, J. H. Miners. L. Poletto, and M. Graszel, J. Power Sources, 189, No. 1: 624 (2009).",
+				"tr":  "D. Wang, H. Buga, M. Grouzet, G. Deghenghi, T. Drezen, I. Exnar, N.-H. Kwon, J. H. Miners. L. Poletto, and M. Graszel, J. Power Sources, 189, No. 1: 624 (2009)."
+			},
+			{
+				"doi": "10.1016/j.cocis.2005.12.002",
+				"or":  "J. D. Eppinga and B. F. Chmelka, Cur. Opin. Colloid Interface Sci., 11, Nos. 2–3: 81 (2006).",
+				"tr":  "J. D. Eppinga and B. F. Chmelka, Cur. Opin. Colloid Interface Sci., 11, Nos. 2–3: 81 (2006)."
+			},
+			{
+				"doi": "10.1002/anie.200501663",
+				"or":  "F. Jiao, K. M. Shaju, and P. G Bruce, Angew. Chem. Int. Ed., 44, No. 40: 6550 (2005).",
+				"tr":  "F. Jiao, K. M. Shaju, and P. G Bruce, Angew. Chem. Int. Ed., 44, No. 40: 6550 (2005)."
+			},
+			{
+				"doi": "10.1115/1.4034860",
+				"or":  "K. Wong and S. Dia, J. Energy Resour. Technol., 139, No. 1: 014001 (2016).",
+				"tr":  "K. Wong and S. Dia, J. Energy Resour. Technol., 139, No. 1: 014001 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "https://www.solarwind-sensor.com/wp-content/uploads/2014/04/Silicon-cell-convertible-spectrum.png.",
+				"tr":  "https://www.solarwind-sensor.com/wp-content/uploads/2014/04/Silicon-cell-convertible-spectrum.png."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2007.04.042",
+				"or":  "S. H. Jensen, P. H. Larsen, and M. Mogensen, Int. J. Hydrogen Energy, 32, No. 15: 3253 (2007).",
+				"tr":  "S. H. Jensen, P. H. Larsen, and M. Mogensen, Int. J. Hydrogen Energy, 32, No. 15: 3253 (2007)."
+			},
+			{
+				"doi": "10.1038/nmat2635",
+				"or":  "M. D. Kelzenberg, S. W. Booettcher, J. A. Petykiewicz, D. B. Turnet-Evans, E. L. Warren, J. M. Spurgeon, R. M. Briggs, N. S. Lewis, and H. A. Atwater, Nature Mater., 9, No. 3: 239 (2010).",
+				"tr":  "M. D. Kelzenberg, S. W. Booettcher, J. A. Petykiewicz, D. B. Turnet-Evans, E. L. Warren, J. M. Spurgeon, R. M. Briggs, N. S. Lewis, and H. A. Atwater, Nature Mater., 9, No. 3: 239 (2010)."
+			},
+			{
+				"doi": "10.1021/nl802886y",
+				"or":  "J. Zhu, Z. Yu, G. F. Burkhard, C. M. Connor, Y. Xu, Q. Wang, M. McGehee, S. Fan, and Y. Gui, Nano Lett., 9, No. 1: 279 (2009).",
+				"tr":  "J. Zhu, Z. Yu, G. F. Burkhard, C. M. Connor, Y. Xu, Q. Wang, M. McGehee, S. Fan, and Y. Gui, Nano Lett., 9, No. 1: 279 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "http://www.rusnano.com/about/press-centre/news/75461.",
+				"tr":  "http://www.rusnano.com/about/press-centre/news/75461."
+			},
+			{
+				"doi": "10.1016/j.tsf.2007.05.090",
+				"or":  "S. Ito, T. N. Murakami, P. Comte, P. Liska, C. Grätzel, M. K. Nazeeruddin, and M. Grätzel, Thin Solid Films, 516: 4613 (2008).",
+				"tr":  "S. Ito, T. N. Murakami, P. Comte, P. Liska, C. Grätzel, M. K. Nazeeruddin, and M. Grätzel, Thin Solid Films, 516: 4613 (2008)."
+			},
+			{
+				"doi": "10.1021/jz400620q",
+				"or":  "H. P. Wu, C. M. Lan, J. Hu, W. K. Huang, J. W. Shiu, Z. J. Lan, C. M. Tsai, C. H. Su, E. W. G. Diau, J. Phys. Chem. Lett., 4, No. 9: 1570 (2013).",
+				"tr":  "H. P. Wu, C. M. Lan, J. Hu, W. K. Huang, J. W. Shiu, Z. J. Lan, C. M. Tsai, C. H. Su, E. W. G. Diau, J. Phys. Chem. Lett., 4, No. 9: 1570 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "https://genesisnanotech.wordpress.com/2014/12/19/dye-sensitized-solar-cells-and-new-solar-energy-material-perovskite-19-conversion-efficiancy.",
+				"tr":  "https://genesisnanotech.wordpress.com/2014/12/19/dye-sensitized-solar-cells-and-new-solar-energy-material-perovskite-19-conversion-efficiancy."
+			},
+			{
+				"doi": "10.1021/ja00067a063",
+				"or":  "M. Nazeeruddin, A. Ray, I. Rodicio, R. Humphry-Baker, E. Mueller, P. Liska, N. Vlachopoulos, and M. Graetzel, J. Am. Chem. Soc., 115, No. 14: 6382 (1993).",
+				"tr":  "M. Nazeeruddin, A. Ray, I. Rodicio, R. Humphry-Baker, E. Mueller, P. Liska, N. Vlachopoulos, and M. Graetzel, J. Am. Chem. Soc., 115, No. 14: 6382 (1993)."
+			},
+			{
+				"doi": "10.1021/ja003299u",
+				"or":  "M. Nazeeruddin, P. Pechy, T. Renouard, S. M. Zakeeruddin, R. Humphry-Baker, P. Comte, P. Liska, L. Cevey, E. Costa, V. Shklover, L. Spiccia, G. B. Deacon, C. A. Bignozzi, and M. Gratzel, J. Am. Chem. Soc., 123, No. 8: 1613 (2001).",
+				"tr":  "M. Nazeeruddin, P. Pechy, T. Renouard, S. M. Zakeeruddin, R. Humphry-Baker, P. Comte, P. Liska, L. Cevey, E. Costa, V. Shklover, L. Spiccia, G. B. Deacon, C. A. Bignozzi, and M. Gratzel, J. Am. Chem. Soc., 123, No. 8: 1613 (2001)."
+			},
+			{
+				"doi": "10.3390/s150613288",
+				"or":  "K. F. Chou and A. M. Dennis, Sensors, 15, No. 6: 13288 (2015).",
+				"tr":  "K. F. Chou and A. M. Dennis, Sensors, 15, No. 6: 13288 (2015)."
+			},
+			{
+				"doi": "10.1016/j.rser.2013.06.023",
+				"or":  "Z. Abdin, M. A. Alim, R. Saidur, M. R. Islam, W. Rashmi, S. Mekhilef, and A. Wadi, Renew. Sust. Energy Rev., 26: 837 (2013).",
+				"tr":  "Z. Abdin, M. A. Alim, R. Saidur, M. R. Islam, W. Rashmi, S. Mekhilef, and A. Wadi, Renew. Sust. Energy Rev., 26: 837 (2013)."
+			},
+			{
+				"doi": "10.1021/cr400606n",
+				"or":  "Y. Bai, I. Mora-Sero, F. De Angelis, and P. Wang, Chem. Rev., 114, No. 19: 10095 (2014).",
+				"tr":  "Y. Bai, I. Mora-Sero, F. De Angelis, and P. Wang, Chem. Rev., 114, No. 19: 10095 (2014)."
+			},
+			{
+				"doi": "10.2436/20.7010.01.109",
+				"or":  "J. Llorca, Contrib. Sci., 7, No. 1: 57 (2011).",
+				"tr":  "J. Llorca, Contrib. Sci., 7, No. 1: 57 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "https://esdr.lbl.gov/news/article/11190/berkeley-lab-research-helps-fuel-cells-meet-their-potential.",
+				"tr":  "https://esdr.lbl.gov/news/article/11190/berkeley-lab-research-helps-fuel-cells-meet-their-potential."
+			},
+			{
+				"doi": "",
+				"or":  "DOE Technical Targets for Onboard Hydrogen Storage for Light-Duty Vehicles; https://www.energy.gov/eere/fuelcells/doe-technical-targets-onboard-hydrogen-storage-light-duty-vehicles.",
+				"tr":  "DOE Technical Targets for Onboard Hydrogen Storage for Light-Duty Vehicles; https://www.energy.gov/eere/fuelcells/doe-technical-targets-onboard-hydrogen-storage-light-duty-vehicles."
+			},
+			{
+				"doi": "10.1016/S0360-3199(01)00108-2",
+				"or":  "A. Zuttel, P. Sudan, Ph. Mauron, T. Kiyobayashi, Ch. Emmenegger, and L. Schlapbach, Int. J. Hydrogen Energy, 27, No. 2: 203 (2002).",
+				"tr":  "A. Zuttel, P. Sudan, Ph. Mauron, T. Kiyobayashi, Ch. Emmenegger, and L. Schlapbach, Int. J. Hydrogen Energy, 27, No. 2: 203 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "I. P. Jain, P. Jain, and A. Jain, J. Alloys Compd., 503, No. 2: 303 (2010).",
+				"tr":  "I. P. Jain, P. Jain, and A. Jain, J. Alloys Compd., 503, No. 2: 303 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "http://spie.org/newsroom/1451-designing-novel-carbon-nanostructures-for-hydrogen-storage?SSO=1.",
+				"tr":  "http://spie.org/newsroom/1451-designing-novel-carbon-nanostructures-for-hydrogen-storage?SSO=1."
+			},
+			{
+				"doi": "10.15407/ufm.11.01.095",
+				"or":  "I. Yu. Sagalyanov, Yu. I. Prylutskyy, T. M. Radchenko, and V. A. Tatarenko, Usp. Fiz. Met., 11, No. 1: 95 (2010) (in Ukrainian).",
+				"tr":  "I. Yu. Sagalyanov, Yu. I. Prylutskyy, T. M. Radchenko, and V. A. Tatarenko, Usp. Fiz. Met., 11, No. 1: 95 (2010) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/ufm.11.03.369",
+				"or":  "L. L. Kondratenko, O. V. Mykhailenko, Yu. I. Prylutskyy, T. M. Radchenko, and V. A. Tatarenko, Usp. Fiz. Met., 11, No. 3: 369 (2010) (in Ukrainian).",
+				"tr":  "L. L. Kondratenko, O. V. Mykhailenko, Yu. I. Prylutskyy, T. M. Radchenko, and V. A. Tatarenko, Usp. Fiz. Met., 11, No. 3: 369 (2010) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "T. M. Radchenko, V. A. Tatarenko, I. Yu. Sagalianov, and Yu. I. Prylutskyy, Graphene: Mechanical Properties, Potential Applications and Electrochemical Performance (Ed. B. T. Edwards) (Hauppauge, N.Y., USA: Nova Science Publishers, Inc.: 2014), Ch. 7, p. 219.",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, I. Yu. Sagalianov, and Yu. I. Prylutskyy, Graphene: Mechanical Properties, Potential Applications and Electrochemical Performance (Ed. B. T. Edwards) (Hauppauge, N.Y., USA: Nova Science Publishers, Inc.: 2014), Ch. 7, p. 219."
+			},
+			{
+				"doi": "10.1038/386377a0",
+				"or":  "A. C. Dillon, K. M. Jones, T. A. Bekkedahl, C. H.Kiang, D. S. Bethune, and M. J. Heben, Nature, 386: 377 (1997).",
+				"tr":  "A. C. Dillon, K. M. Jones, T. A. Bekkedahl, C. H.Kiang, D. S. Bethune, and M. J. Heben, Nature, 386: 377 (1997)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2006.11.192",
+				"or":  "P. Benard, R. Chahine, P. Chandonia, D. Cossement, G. Dorval-Douville, L. Lafia, P. Lachance, R. Paggiaro, and E. Poirier, J. Alloys Compd., 446–447: 380 (2007).",
+				"tr":  "P. Benard, R. Chahine, P. Chandonia, D. Cossement, G. Dorval-Douville, L. Lafia, P. Lachance, R. Paggiaro, and E. Poirier, J. Alloys Compd., 446–447: 380 (2007)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2009.10.007",
+				"or":  "S. Beyaz, F. Darkrim Lamari, B. Weinberger, and P. Langlois, Int. J. Hydrogen Energy, 35, No. 1: 217: (2010).",
+				"tr":  "S. Beyaz, F. Darkrim Lamari, B. Weinberger, and P. Langlois, Int. J. Hydrogen Energy, 35, No. 1: 217: (2010)."
+			},
+			{
+				"doi": "10.1063/1.478283",
+				"or":  "F. Darkrim, J. Vermesse, and P. Malbrunot, J. Chem. Phys., 110, No. 8: 4020 (1999).",
+				"tr":  "F. Darkrim, J. Vermesse, and P. Malbrunot, J. Chem. Phys., 110, No. 8: 4020 (1999)."
+			},
+			{
+				"doi": "10.1063/1.478114",
+				"or":  "Q. Wang and J. K. Johnson. J. Chem. Phys., 110, No. 1: 577 (1999).",
+				"tr":  "Q. Wang and J. K. Johnson. J. Chem. Phys., 110, No. 1: 577 (1999)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(03)00142-7",
+				"or":  "M. Hirscher, M. Becher, M. Halushka, F. von Zeppellin, X. Chen, U. Dettlaff-Weglikowska, and S. Roth, J. Alloys Compd., 356–357: 433 (2003).",
+				"tr":  "M. Hirscher, M. Becher, M. Halushka, F. von Zeppellin, X. Chen, U. Dettlaff-Weglikowska, and S. Roth, J. Alloys Compd., 356–357: 433 (2003)."
+			},
+			{
+				"doi": "10.1016/j.apcata.2004.01.019",
+				"or":  "A. D. Lueking and R. T. Yang, Appl. Catal. A, 265: 259 (2004).",
+				"tr":  "A. D. Lueking and R. T. Yang, Appl. Catal. A, 265: 259 (2004)."
+			},
+			{
+				"doi": "10.1002/adfm.200500830",
+				"or":  "G. Yushin, R. Dash, J. Jagiello, and Y. Gogotsi, Adv. Funct. Mat., 16, No. 17: 2288 (2006).",
+				"tr":  "G. Yushin, R. Dash, J. Jagiello, and Y. Gogotsi, Adv. Funct. Mat., 16, No. 17: 2288 (2006)."
+			},
+			{
+				"doi": "10.1063/1.3037211",
+				"or":  "R.J.-M. Pelleng, F. Marinelly, J. D. Fuhr, F. Fernandez-Alonso, and K. Refson, J. Chem. Phys., 129, No. 22: 224701 (2008).",
+				"tr":  "R.J.-M. Pelleng, F. Marinelly, J. D. Fuhr, F. Fernandez-Alonso, and K. Refson, J. Chem. Phys., 129, No. 22: 224701 (2008)."
+			},
+			{
+				"doi": "10.1016/j.carbon.2009.12.001",
+				"or":  "V. Bhat, C. Contescu, N. Gallego, and F. Baker, Carbon, 48, No. 5: 1331 (2010).",
+				"tr":  "V. Bhat, C. Contescu, N. Gallego, and F. Baker, Carbon, 48, No. 5: 1331 (2010)."
+			},
+			{
+				"doi": "10.1002/anie.200462786",
+				"or":  "J. L. C. Rowsell and O. M. Yaghi, Angew. Chem. Int. Ed., 44, No. 30: 4670 (2005).",
+				"tr":  "J. L. C. Rowsell and O. M. Yaghi, Angew. Chem. Int. Ed., 44, No. 30: 4670 (2005)."
+			},
+			{
+				"doi": "10.1126/science.1083440",
+				"or":  "N. L. Rosi, J. Eckert, M. Eddaoudi, D. T. Vodak, J. Kim, M. O’Keeffe, and O. M. Yaghi, Science, 300, No. 5622: 1127 (2003).",
+				"tr":  "N. L. Rosi, J. Eckert, M. Eddaoudi, D. T. Vodak, J. Kim, M. O’Keeffe, and O. M. Yaghi, Science, 300, No. 5622: 1127 (2003)."
+			},
+			{
+				"doi": "10.1039/B308903G",
+				"or":  "G. Ferey, M. Latroche, C. Serre, F. Millange, T. Loiseau, A. Percheron-Guegan, Chem. Commun., 0, No. 24: 2976 (2003).",
+				"tr":  "G. Ferey, M. Latroche, C. Serre, F. Millange, T. Loiseau, A. Percheron-Guegan, Chem. Commun., 0, No. 24: 2976 (2003)."
+			},
+			{
+				"doi": "10.1016/j.micromeso.2009.06.005",
+				"or":  "M. Hirscher, B. Panella, and B. Schmitz, Micropor. Mesopor. Mat., 129, No. 3: 335 (2010).",
+				"tr":  "M. Hirscher, B. Panella, and B. Schmitz, Micropor. Mesopor. Mat., 129, No. 3: 335 (2010)."
+			},
+			{
+				"doi": "10.1039/B702858J",
+				"or":  "D. J. Collins and H. C. Zhou, J. Mat. Chem., 17, No. 30: 3154 (2007).",
+				"tr":  "D. J. Collins and H. C. Zhou, J. Mat. Chem., 17, No. 30: 3154 (2007)."
+			},
+			{
+				"doi": "10.1002/anie.200600105",
+				"or":  "M. Latroche, S. Surble, C. Serre, C. Mellot-Draznieks, P. L. Llewellyn, J. H. Lee, J. S. Chang, S. H. Jhung, and G. Ferey, Angew. Chem. Int. Ed., 45, No. 48: 8227 (2006).",
+				"tr":  "M. Latroche, S. Surble, C. Serre, C. Mellot-Draznieks, P. L. Llewellyn, J. H. Lee, J. S. Chang, S. H. Jhung, and G. Ferey, Angew. Chem. Int. Ed., 45, No. 48: 8227 (2006)."
+			},
+			{
+				"doi": "10.1021/ja058213h",
+				"or":  "A. G. Wong-Foy, A. J. Matzger, and O. M. Yaghi, J. Am. Chem. Soc., 128, No. 11: 3494 (2006).",
+				"tr":  "A. G. Wong-Foy, A. J. Matzger, and O. M. Yaghi, J. Am. Chem. Soc., 128, No. 11: 3494 (2006)."
+			},
+			{
+				"doi": "10.1038/nature02311",
+				"or":  "H. K. Chae, D. Y. Siberio-Perez, J. Kim, Y. B. Go, M. Eddaoudi, A. J. Matzger, M. O’Keeffe, and O. M. Yaghi, Nature, 427: 523 (2004).",
+				"tr":  "H. K. Chae, D. Y. Siberio-Perez, J. Kim, Y. B. Go, M. Eddaoudi, A. J. Matzger, M. O’Keeffe, and O. M. Yaghi, Nature, 427: 523 (2004)."
+			},
+			{
+				"doi": "10.1002/anie.200462786",
+				"or":  "J. L. C. Rowsell and O. M. Yaghi, Angew. Chem. Int. Ed., 44, No. 30: 4670 (2005).",
+				"tr":  "J. L. C. Rowsell and O. M. Yaghi, Angew. Chem. Int. Ed., 44, No. 30: 4670 (2005)."
+			},
+			{
+				"doi": "10.1021/ja049408c",
+				"or":  "J. L. C. Rowsell, A. R. Millward, K. S. Park, and O. M. Yaghi, J. Amer. Chem. Soc., 126, No. 18: 5666 (2004).",
+				"tr":  "J. L. C. Rowsell, A. R. Millward, K. S. Park, and O. M. Yaghi, J. Amer. Chem. Soc., 126, No. 18: 5666 (2004)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(99)00384-9",
+				"or":  "G. Sandrock, J. Alloys Compd., 293–295: 877 (1999).",
+				"tr":  "G. Sandrock, J. Alloys Compd., 293–295: 877 (1999)."
+			},
+			{
+				"doi": "10.1007/3-540-08883-0_21",
+				"or":  "R. Wiswall, Hydrogen in Metals II. Application-Oriented Properties (Eds. G. Alefeld and J. Volkl) (Berlin, Heidelberg: Springer-Verlag: 1978), Chapter 5, p. 201.",
+				"tr":  "R. Wiswall, Hydrogen in Metals II. Application-Oriented Properties (Eds. G. Alefeld and J. Volkl) (Berlin, Heidelberg: Springer-Verlag: 1978), Chapter 5, p. 201."
+			},
+			{
+				"doi": "10.1007/3-540-28883-X",
+				"or":  "Y. Fukai, The Metal–Hydrogen Systems. Basic Balk Properties (Berlin, Heidelberg: Springer-Verlag: 2005).",
+				"tr":  "Y. Fukai, The Metal–Hydrogen Systems. Basic Balk Properties (Berlin, Heidelberg: Springer-Verlag: 2005)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(99)00073-0",
+				"or":  "A. Zaluska, L. Zaluski, and J. O. Ström-Olsen, J. Alloys Compd., 288, Nos. 1–2: 217 (1999).",
+				"tr":  "A. Zaluska, L. Zaluski, and J. O. Ström-Olsen, J. Alloys Compd., 288, Nos. 1–2: 217 (1999)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(03)00530-9",
+				"or":  "G. Barkhordarian, T. Klassen, and R. Bormann, J. Alloys Compd., 364, Nos. 1–2: 242 (2004).",
+				"tr":  "G. Barkhordarian, T. Klassen, and R. Bormann, J. Alloys Compd., 364, Nos. 1–2: 242 (2004)."
+			},
+			{
+				"doi": "10.1155/2008/950967",
+				"or":  "M. U. Niemann, S. S. Srinivasan, A. R. Phani, A. Kumar, D. Y. Goswami, and E. K. Stefanakos, J. Nanomaterials, 2008: 950967 (2008).",
+				"tr":  "M. U. Niemann, S. S. Srinivasan, A. R. Phani, A. Kumar, D. Y. Goswami, and E. K. Stefanakos, J. Nanomaterials, 2008: 950967 (2008)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(99)00442-9",
+				"or":  "G. Liang, J. Huot, S. Boily, and A. Van Neste, J. Alloys Compd., 292, Nos. 1–2: 247 (1999).",
+				"tr":  "G. Liang, J. Huot, S. Boily, and A. Van Neste, J. Alloys Compd., 292, Nos. 1–2: 247 (1999)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(01)01786-8",
+				"or":  "F. Gennari, F. Castra, G. Urretavizcaya, and G. Meyer, J. Alloys Compd., 334, Nos. 1–2: 277 (2002).",
+				"tr":  "F. Gennari, F. Castra, G. Urretavizcaya, and G. Meyer, J. Alloys Compd., 334, Nos. 1–2: 277 (2002)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(01)01173-2",
+				"or":  "W. Oelerich, T. Klassen, and R. Bormann, J. Alloys Compd., 322, Nos. 1–2: L5 (2001).",
+				"tr":  "W. Oelerich, T. Klassen, and R. Bormann, J. Alloys Compd., 322, Nos. 1–2: L5 (2001)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(99)00268-6",
+				"or":  "G. Liang, J. Huot, S. Boily A. Van Neste, and R. Schulz, J. Alloys Compd., 291, Nos. 1–2: 295 (1999).",
+				"tr":  "G. Liang, J. Huot, S. Boily A. Van Neste, and R. Schulz, J. Alloys Compd., 291, Nos. 1–2: 295 (1999)."
+			},
+			{
+				"doi": "10.1021/ja051508a",
+				"or":  "H. G. Schimmel, J. Huot, L. C. Chapon, F. D. Tichelaar, and F. M. Mulder, J. Am. Chem. Soc., 127, No. 41: 14348 (2005).",
+				"tr":  "H. G. Schimmel, J. Huot, L. C. Chapon, F. D. Tichelaar, and F. M. Mulder, J. Am. Chem. Soc., 127, No. 41: 14348 (2005)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(00)00718-0",
+				"or":  "Z. Dehouche, R. Djaozangry, J. Huot, S. Boily, J. Goyette, T. K. Bose, and R. Schulz, J. Alloys Compd., 305, Nos. 1–2: 264 (2000).",
+				"tr":  "Z. Dehouche, R. Djaozangry, J. Huot, S. Boily, J. Goyette, T. K. Bose, and R. Schulz, J. Alloys Compd., 305, Nos. 1–2: 264 (2000)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2005.09.085",
+				"or":  "K. S. Jung, E. Y. Lee, and K. S. Lee, J. Alloys Compd., 421, Nos. 1–2: 179 (2006).",
+				"tr":  "K. S. Jung, E. Y. Lee, and K. S. Lee, J. Alloys Compd., 421, Nos. 1–2: 179 (2006)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(00)01284-6",
+				"or":  "W. Oelerich, T. Klassen, and R. Bormann, J. Alloys Compd., 315, Nos. 1–2: 237 (2001).",
+				"tr":  "W. Oelerich, T. Klassen, and R. Bormann, J. Alloys Compd., 315, Nos. 1–2: 237 (2001)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(01)01542-0",
+				"or":  "K. Higuchi, Y. Yamamoto, H. Kajioka, K.Toiyama, M. Honda, and S. Orimo, J. Alloys Compd., 330–332: 526 (2002).",
+				"tr":  "K. Higuchi, Y. Yamamoto, H. Kajioka, K.Toiyama, M. Honda, and S. Orimo, J. Alloys Compd., 330–332: 526 (2002)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(99)00470-3",
+				"or":  "K. Higuchi, H. Kajioka, K. Toiyama, H. Fujii, S. Orimo, and Y. Kikuchi, J. Alloys Compd., 293–295: 484 (1999).",
+				"tr":  "K. Higuchi, H. Kajioka, K. Toiyama, H. Fujii, S. Orimo, and Y. Kikuchi, J. Alloys Compd., 293–295: 484 (1999)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2005.11.003",
+				"or":  "H. Akyildiz, M. Ozenbas, and T. Ozturk, Int. J. Hydrogen Energy, 31, No. 10: 1379 (2006).",
+				"tr":  "H. Akyildiz, M. Ozenbas, and T. Ozturk, Int. J. Hydrogen Energy, 31, No. 10: 1379 (2006)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(02)01237-9",
+				"or":  "T. Richardson, B. Farangis, J. Slack, P. Nachimuthu, R. Perera, N. Tamura, and M. Rubin, J. Alloys Compd., 356–357: 204 (2003).",
+				"tr":  "T. Richardson, B. Farangis, J. Slack, P. Nachimuthu, R. Perera, N. Tamura, and M. Rubin, J. Alloys Compd., 356–357: 204 (2003)."
+			},
+			{
+				"doi": "10.1038/nature01210",
+				"or":  "P. Chen, Z. Xiong, J. Luo, J. Lin, and K. L. Tan, Nature, 420: 302 (2002).",
+				"tr":  "P. Chen, Z. Xiong, J. Luo, J. Lin, and K. L. Tan, Nature, 420: 302 (2002)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2004.09.082",
+				"or":  "H. Leng, T. Ichikawa, S. Isobe, S. Hino, N. Hanada, and H. Fujii, J. Alloys Compd., 404–406: 443 (2005).",
+				"tr":  "H. Leng, T. Ichikawa, S. Isobe, S. Hino, N. Hanada, and H. Fujii, J. Alloys Compd., 404–406: 443 (2005)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(03)00637-6",
+				"or":  "T. Ichikawa, S. Isobe, N. Hanad, and H. Fujii, J. Alloys Compd., 365, Nos. 1–2: 271 (2004).",
+				"tr":  "T. Ichikawa, S. Isobe, N. Hanad, and H. Fujii, J. Alloys Compd., 365, Nos. 1–2: 271 (2004)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2005.02.010",
+				"or":  "Z. Xiong, J. Hu, G. Wu, P. Chen, W. Luo, K. Gross, and J. Wang, J. Alloys Compd., 398, Nos. 1–2: 235 (2005).",
+				"tr":  "Z. Xiong, J. Hu, G. Wu, P. Chen, W. Luo, K. Gross, and J. Wang, J. Alloys Compd., 398, Nos. 1–2: 235 (2005)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2006.07.129",
+				"or":  "Z. Xiong, G. Wu, J. Hu, and P. Chen, J. Alloys Compd., 441, Nos. 1–2: 152 (2007).",
+				"tr":  "Z. Xiong, G. Wu, J. Hu, and P. Chen, J. Alloys Compd., 441, Nos. 1–2: 152 (2007)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2004.03.119",
+				"or":  "W. Luo, J. Alloys Compd., 381, Nos. 1–2: 284 (2004).",
+				"tr":  "W. Luo, J. Alloys Compd., 381, Nos. 1–2: 284 (2004)."
+			},
+			{
+				"doi": "10.1002/anie.200703756",
+				"or":  "J. Yang, A. Sudik, D. Siegel, D. Halliday, A. Drews, R. O. Carter, C. Wolwerton, G. J. Lewis, J. W. A. Sachtler, J. J. Low, S. A. Faheem, D. A. Lesch, and V. Ozolins, Angew. Chem. Int. Ed., 47, No. 5: 882 (2008).",
+				"tr":  "J. Yang, A. Sudik, D. Siegel, D. Halliday, A. Drews, R. O. Carter, C. Wolwerton, G. J. Lewis, J. W. A. Sachtler, J. J. Low, S. A. Faheem, D. A. Lesch, and V. Ozolins, Angew. Chem. Int. Ed., 47, No. 5: 882 (2008)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2012.08.142",
+				"or":  "A. Goncharov, A. Guglya, and E. Melnikova, Int. J. Hydrogen Energy, 37, No. 23: 18061 (2012).",
+				"tr":  "A. Goncharov, A. Guglya, and E. Melnikova, Int. J. Hydrogen Energy, 37, No. 23: 18061 (2012)."
+			},
+			{
+				"doi": "10.1155/2017/4106067",
+				"or":  "A. Goncharov, A. Guglya, A. Kalchenko, E. Solopikhina, V. Vlasov, and E. Lyubchenko, J. Nanotechnology, 2017: 4106067 (2017).",
+				"tr":  "A. Goncharov, A. Guglya, A. Kalchenko, E. Solopikhina, V. Vlasov, and E. Lyubchenko, J. Nanotechnology, 2017: 4106067 (2017)."
+			},
+			{
+				"doi": "10.1088/0305-4608/12/7/009",
+				"or":  "K. Papathanassopoulos and H. Wenzl, J. Phys. F: Metal Phys., 12, No. 7: 1369 (1982).",
+				"tr":  "K. Papathanassopoulos and H. Wenzl, J. Phys. F: Metal Phys., 12, No. 7: 1369 (1982)."
+			},
+			{
+				"doi": "10.1016/0001-6160(84)90236-0",
+				"or":  "H. Numakura and M. Koiwa, Acta Metall., 32, No. 10: 1799 (1984).",
+				"tr":  "H. Numakura and M. Koiwa, Acta Metall., 32, No. 10: 1799 (1984)."
+			},
+			{
+				"doi": "10.1557/JMR.1993.0291",
+				"or":  "S. R. Peddada, I. M. Robertson, and H. K. Birnbaum, Mater. Res., 8, No. 2: 291 (1993).",
+				"tr":  "S. R. Peddada, I. M. Robertson, and H. K. Birnbaum, Mater. Res., 8, No. 2: 291 (1993)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2016.03.181",
+				"or":  "A. Guglya, E. Lyubchenko, Yu. Marchenko, E. Solopikhina, and V. Vlasov, Int. J. Hydrogen Energy, 41, No. 22: 9410 (2016).",
+				"tr":  "A. Guglya, E. Lyubchenko, Yu. Marchenko, E. Solopikhina, and V. Vlasov, Int. J. Hydrogen Energy, 41, No. 22: 9410 (2016)."
+			},
+			{
+				"doi": "10.1149/1.2134048",
+				"or":  "A. Fujishima, K. Kohayakawa, and K. Honda, J. Electrochem. Soc., 122, No. 11: 1487 (1975).",
+				"tr":  "A. Fujishima, K. Kohayakawa, and K. Honda, J. Electrochem. Soc., 122, No. 11: 1487 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Nyankson, B. Agyei-Tuffour, J. Asare, E. Annan, E. R. Rwenyagila, D. Konadu, A. Yaya, and D. D. Arhin, J. Engineer. Appl. Sci., 8, No. 10: 871 (2013).",
+				"tr":  "E. Nyankson, B. Agyei-Tuffour, J. Asare, E. Annan, E. R. Rwenyagila, D. Konadu, A. Yaya, and D. D. Arhin, J. Engineer. Appl. Sci., 8, No. 10: 871 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "http://statnano.com/news/45676.",
+				"tr":  "http://statnano.com/news/45676."
+			},
+			{
+				"doi": "",
+				"or":  "https://www.forbes.com/sites/peterdiamandis/2014/09/02/solar-energy-revolution-a-massive-opportunity/#1ba9e79a6c90.",
+				"tr":  "https://www.forbes.com/sites/peterdiamandis/2014/09/02/solar-energy-revolution-a-massive-opportunity/#1ba9e79a6c90."
+			},
+			{
+				"doi": "",
+				"or":  "https://www.canadiansolar.com/making-the-difference/surprises-in-solar.html.",
+				"tr":  "https://www.canadiansolar.com/making-the-difference/surprises-in-solar.html."
+			},
+			{
+				"doi": "10.1016/j.rser.2009.06.003",
+				"or":  "E. Serrano, G. Rus, and J. Garcia-Martinez, Renew. Sust. Energy Rev., 13, No. 9: 2373 (2009).",
+				"tr":  "E. Serrano, G. Rus, and J. Garcia-Martinez, Renew. Sust. Energy Rev., 13, No. 9: 2373 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Renewables 2017 Global Status Report (Paris: REN21: 2017); http://www.ren21.net/wp-content/uploads/2017/06/17-8399_GSR_2017_Full_Report_0621_Opt.pdf.",
+				"tr":  "Renewables 2017 Global Status Report (Paris: REN21: 2017); http://www.ren21.net/wp-content/uploads/2017/06/17-8399_GSR_2017_Full_Report_0621_Opt.pdf."
+			},
+			{
+				"doi": "",
+				"or":  "A. Konechenkov, Terminal, No. 26 (820): 12 (2016); http://uwea.com.ua/uploads/publications/TERMINAL_27.06.2016.pdf (in Russian).",
+				"tr":  "A. Konechenkov, Terminal, No. 26 (820): 12 (2016); http://uwea.com.ua/uploads/publications/TERMINAL_27.06.2016.pdf (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Sidorovich, Ehlektricheskaya Generatsiya v Germanii: Osnovnye Itogi 2016 [Power Generation in Germany — Assessment of 2016]; http://renen.ru/elektroenergetika-germanii-osnovnye-itogi-2016 (in Russian).",
+				"tr":  "V. Sidorovich, Ehlektricheskaya Generatsiya v Germanii: Osnovnye Itogi 2016 [Power Generation in Germany — Assessment of 2016]; http://renen.ru/elektroenergetika-germanii-osnovnye-itogi-2016 (in Russian)."
+			}
+		]
+	}
+}

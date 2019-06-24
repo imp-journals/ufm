@@ -1,0 +1,63 @@
+{
+	"year":   2010,
+	"volume": 11,
+	"issue":  3,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [273,293],
+			"title": {
+				"ua": "Структурно-фазові стани титану після електровибухового леґування і наступної електронножмутової обробки",
+				"en": "Structural-Phase States of Titanium After an Electroexplosive Alloying and the Subsequent Electron-Beam Treatment",
+				"ru": "Структурно-фазовые состояния титана после электровзрывного легирования и последующей электроннопучковой обработки"
+			},
+			"autors": {
+				"ua": "С. В. Карпій, М. М. Морозов, Є. А. Будовскіх, Ю. Ф. Іванов, В. Є. Громов",
+				"en": "S. V. Karpiy, M. M. Morozov, E. A. Budovskikh, Yu. F. Ivanov, and V. E. Gromov",
+				"ru": "С. В. Карпий, М. М. Морозов, Е. А. Будовских, Ю. Ф. Иванов, В. Е. Громов"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [295,312],
+			"title": {
+				"ua": "Магнетна будова і пружні властивості гідрогенізованого пермалою за тисків ядра Землі. Інтерпретація експерименту",
+				"en": "Magnetic Constitution and Elastic Properties of the Hydrogenated Permalloy Under Pressures of the Earth’s Core. Interpretation of Experiment",
+				"ru": "Магнитное строение и упругие свойства гидрогенизированного пермаллоя при давлениях ядра Земли. Интерпретация эксперимента"
+			},
+			"autors": {
+				"ua": "О. Є. Красовський",
+				"en": "O. E. Krasovskii",
+				"ru": "А. Е. Красовский"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [313,368],
+			"title": {
+				"ua": "Взаємочин магнетних і структурних властивостей стопів ГЦК-Ni–Fe: дослідження статистичної термодинаміки та кінетики методами комп’ютерного моделювання",
+				"en": "Interplay of Magnetic and Structural Properties of F.C.C.-Ni–Fe Alloys: Study of Statistical Thermodynamics and Kinetics by Means of Methods of Computer Simulation",
+				"ru": "Взаимное влияние магнитных и структурных свойств сплавов ГЦК-Ni-Fe: исследование статистической термодинамики и кинетики методами компьютерного моделирования"
+			},
+			"autors": {
+				"ua": "І. В. Вернигора, С. М. Бокоч, В. А. Татаренко",
+				"en": "I. V. Vernyhora, S. M. Bokoch, and V. A. Tatarenko",
+				"ru": "И. В. Вернигора, С. М. Бокоч, В. А. Татаренко"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [369,411],
+			"title": {
+				"ua": "Азотовмісні вуглецеві нанорурки: способи одержання, властивості та перспективи застосування",
+				"en": "Nitrogenated Carbon Nanotubes: Methods of Fabrication, Properties, and Prospect of Application",
+				"ru": "Азотсодержащие углеродные нанотрубки: способы получения, свойства и перспективы применения"
+			},
+			"autors": {
+				"ua": "Л. Л. Кондратенко, О. В. Михайленко, Ю. І. Прилуцький, Т. М. Радченко, В. А. Татаренко",
+				"en": "L. L. Kondratenko, O. V. Mykhailenko, Yu. I. Prylutskyy, T. M. Radchenko, and V. A. Tatarenko",
+				"ru": "Л. Л. Кондратенко, О. В. Михайленко, Ю. И. Прилуцкий, Т. М. Радченко, В. А. Татаренко"
+			}
+		}
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"year":   2001,
+	"volume": 2,
+	"issue":  1,
+	"toc": [
+		{
+			"type":    2,
+			"pages":  [1,5],
+			"title": {
+				"ua": "Щоквартальні огляди в журналі «Успехи физики металлов»",
+				"en": "Quarterly Reviews in the Journal 'Uspehi Fiziki Metallov'",
+				"ru": "Ежеквартальные обзоры в журнале «Успехи физики металлов»"
+			},
+			"autors": {
+				"ua": "Редакційна колеґія",
+				"en": "Editorial Board",
+				"ru": "Редакционная коллегия"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [7,50],
+			"title": {
+				"ua": "Концепція критичної густини енергії у моделях руйнування твердих тіл",
+				"en": "The Concept of a Critical Density of Energy in Models of Fracture of Solids",
+				"ru": "Концепция критической плотности энергии в моделях разрушения твердых тел"
+			},
+			"autors": {
+				"ua": "Ю. Я. Мешков",
+				"en": "Yu. Ya. Meshkov",
+				"ru": "Ю. Я. Мешков"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [51,84],
+			"title": {
+				"ua": "Вплив двійникової мікроструктуриы кристалів з низькою тетрагональністю на дифрацію",
+				"en": "Influence of Twinning Microstructure of Crystals with Low Tetragonality on a X-Ray Diffraction",
+				"ru": "Влияние двойниковой микроструктуры кристаллов с низкой тетрагональностью на дифрацию"
+			},
+			"autors": {
+				"ua": "А. І. Устінов, Л. О. Оліховська, Ж.-К. Ниєпс, Ф. Бернар",
+				"en": "A. I. Ustinov, L. O. Olikhovs'ka, J.-C. Niepce, and F. Bernard",
+				"ru": "А. И. Устинов, Л. А. Олиховская, Ж.-К. Ниепс, Ф. Бернар"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [85,108],
+			"title": {
+				"ua": "Реконструкція поверхні: благородні метали",
+				"en": "Surface Reconstruction: Noble Metals",
+				"ru": "Реконструкция поверхности: благородные металлы"
+			},
+			"autors": {
+				"ua": "М. О. Васильєв, А. Б. Бондарчук, В. А. Тіньков",
+				"en": "M. O. Vasyl`yev, A. B. Bondarchuk, and V. A. Tinkov",
+				"ru": "М. А. Васильев, А. Б. Бондарчук, В. А. Тиньков"
+			}
+		}
+	]
+}

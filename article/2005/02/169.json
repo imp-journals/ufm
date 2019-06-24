@@ -1,0 +1,200 @@
+{
+	"_id":    "UFM.06.02.169",
+	"year":   2005,
+	"volume": 6,
+	"issue":  2,
+	"pages":  [169,196],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["22.02.2005"],
+	"PACS":   "62.40.+i, 65.40.De, 75.80.+q, 81.30.Kf, 81.40.Ef, 81.40.Jj, 83.10.Tv",
+	"title":   {
+		"ua": "Особливості релаксаційних процесів при мартенситному перетворенні",
+		"en": "Features of Relaxation Processes During Martensitic Transformation",
+		"ru": "Особенности релаксационных процессов при мартенситном превращении"
+	},
+	"abstract": {
+		"ua": "Розробка нових сплавів, які зазнають мартенситне перетворення (МП), із заданим комплексом фізико-механічних властивостей є неможливою без знань про закономірності протікання МП. Одним із шляхів цілеспрямованого впливу на характеристики МП, особливо в сплавах з так званим нетермопружнім МП, є вплив на процес релаксації пружніх напружень, які виникають при прямому МП, що й висвітлено в даній роботі.",
+		"en": "The development of the new alloys, which undergo martensitic transformation, with the specified set of physical-mechanical properties cannot be realized without knowledge of the martensitic transformation. The influence on the relaxation process of the elastic stresses is the one way for purposeful controlling by martensitic-transformation parameters. The investigation of the relaxation process during the direct martensitic transformation is the main goal of this paper.",
+		"ru": "Разработка новых сплавов, испытывающих мартенситное превращение (МП), с заданным набором физико-механических свойств невозможна без знаний закономерности протекания МП. Одним из путей целенаправленного влияния на характеристики МП, особенно в сплавах с так называемым нетермоупругим МП, является воздействие на процесс релаксации упругих напряжений, возникающих при прямом МП, чему и посвящена данная работа."
+	},
+	"keywords": {
+		"ua": "мартенситні перетворення, гістерезис, сплави з пам’яттю формы, релаксаційні процеси, пружні напруження",
+		"en": "martensitic transformations, hysteresis, shape-memory alloys, relaxation processes, elastic stresses",
+		"ru": "мартенситные превращения, гистерезис, сплавы с памятью формы, релаксационные процессы, упругие напряжения"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. М. Коваль", "en": "Yu. M. Koval’", "ru": "Ю. Н. Коваль"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  2,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.17.02.089",
+				"cit": "V. A. Lobodyuk, <a href=\"https://doi.org/10.15407/ufm.17.02.089\">Usp. Fiz. Met. <b>17</b>, 89 (2016)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.11.01.019",
+				"cit": "I. M. Laptev and O. O. Parkhomenko, <a href=\"https://doi.org/10.15407/ufm.11.01.019\">Usp. Fiz. Met. <b>11</b>, 19 (2010)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 30,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Курдюмов Г. В., ЖТФ, 1948. 18, с. 993.",
+				"tr":  "Kurdyumov G. V., ZhTF, 1948, 18, p. 993."
+			},
+			{
+				"doi": "",
+				"or":  "Курдюмов Г. В., Хандрос Л. Г., ДАН СССР, 1949, 66, с. 211.",
+				"tr":  "Kurdyumov G. V., Khandros L. G., DAN SSSR, 1949, 66, p. 211."
+			},
+			{
+				"doi": "",
+				"or":  "Olson G. B., Cohen M., Scr. Met., 1975, 9, p. 1247.",
+				"tr":  "Olson G. B., Cohen M., Scr. Met., 1975, 9, p. 1247."
+			},
+			{
+				"doi": "",
+				"or":  "Фридель Ж. Дислокации, М.: Мир, 1967, 643 с.",
+				"tr":  "Fridel' Zh. Dislokatsii, M.: Mir, 1967, 643 p."
+			},
+			{
+				"doi": "",
+				"or":  "Guenin G., Morin M., Gobin P. F., Dejonghe W., Delaey L., Scr. Met., 1977, 11, p. 1071.",
+				"tr":  "Guenin G., Morin M., Gobin P. F., Dejonghe W., Delaey L., Scr. Met., 1977, 11, p. 1071."
+			},
+			{
+				"doi": "",
+				"or":  "Беляков Л. И., МиТОМ, 1976, 8, с. 2.",
+				"tr":  "Belyakov L. I., MiTOM, 1976, 8, p. 2."
+			},
+			{
+				"doi": "",
+				"or":  "Коваль Ю. Н., Немошкаленко В. В. О природе мартенситных превращений. К.: Препр. ИМФ НАНУ. 1998, 22 с.",
+				"tr":  "Koval' Yu. N., Nemoshkalenko V. V. O prirode martensitnykh prevrashcheniy. K.: Prepr. IMF NANU. 1998, 22 p."
+			},
+			{
+				"doi": "",
+				"or":  "Паскаль Ю. И., Монасевич Л. А., Изв.вузов. Физика, 1978, 11, с. 98.",
+				"tr":  "Paskal' Yu. I., Monasevich L. A., Izv.vuzov. Fizika, 1978, 11, p. 98."
+			},
+			{
+				"doi": "",
+				"or":  "Коваль Ю. Н., Неганов Л. М., Авторское свидетельство СССР, 1976, №606894, Авторское свидетельство СССР, 1977, № 676045.",
+				"tr":  "Koval' Yu. N., Neganov L. M., Avtorskoe svidetel'stvo SSSR, 1976, No.606894, Avtorskoe svidetel'stvo SSSR, 1977, No. 676045."
+			},
+			{
+				"doi": "",
+				"or":  "Коваль Ю. Н., Кондратьев С. Ю., Мусиенко Р. Я., Хандрос Л. Г., Ярославский Г. Я., ФММ, 1980, 50, с.1326.",
+				"tr":  "Koval' Yu. N., Kondrat'ev S. Yu., Musienko R. Ya., Khandros L. G., Yaroslavskiy G. Ya., FMM, 1980, 50, p. 1326."
+			},
+			{
+				"doi": "",
+				"or":  "Коваль Ю. Н., Коломыцев В. И., Мусиенко Р. Я., Металлофизика, 1984, 6, с. 96",
+				"tr":  "Koval' Yu. N., Kolomytsev V. I., Musienko R. Ya., Metallofizika, 1984, 6, p. 96"
+			},
+			{
+				"doi": "",
+				"or":  "Chen J. H., Hsu S. S., Clapp P. C., Scr. Met., 1979, 13, p. 781.",
+				"tr":  "Chen J. H., Hsu S. S., Clapp P. C., Scr. Met., 1979, 13, p. 781."
+			},
+			{
+				"doi": "",
+				"or":  "Кристиан Дж. Физическое металловедение. М.: Мир. 1968, 227 с.",
+				"tr":  "Kristian Dzh. Fizicheskoe metallovedenie. M.: Mir. 1968, 227 p."
+			},
+			{
+				"doi": "",
+				"or":  "Варлимонт Х., Делей Л., Мартенситные превращения в сплавах на основе меди, серебра и золота. М.: Наука. 1980, 205 с.",
+				"tr":  "Varlimont Kh., Deley L., Martensitnye prevrashcheniya v splavakh na osnove medi, serebra i zolota. M.: Nauka. 1980, 205 p."
+			},
+			{
+				"doi": "",
+				"or":  "Хандрос Л. Г., Арбузова И. А. Сб. Металлы, электроны, решетка. К.: Наукова думка, 1975, с. 109.",
+				"tr":  "Khandros L. G., Arbuzova I. A. Sb. Metally, elektrony, reshetka. K.: Naukova Dumka, 1975, p. 109."
+			},
+			{
+				"doi": "",
+				"or":  "Курдюмов Г. В., Лободюк В. А., Хандрос Л. Г., Кристаллография, 1961, 6, с. 210.",
+				"tr":  "Kurdyumov G. V., Lobodyuk V. A., Khandros L. G., Kristallografiya, 1961, 6, p. 210."
+			},
+			{
+				"doi": "",
+				"or":  "Otsuka K., Shimizu K., Trans. JIM, 1974, 15, р. 103.",
+				"tr":  "Otsuka K., Shimizu K., Trans. JIM, 1974, 15, p. 103."
+			},
+			{
+				"doi": "",
+				"or":  "Wechslur M. S., Lieberman D. S., Read T. A., J. Metals, 1953, 5, p. 1503; Bowels J. S., Mackenzie J. K., Acta Met., 1954, 2, p. 129.",
+				"tr":  "Wechslur M. S., Lieberman D. S., Read T. A., J. Metals, 1953, 5, p. 1503; Bowels J. S., Mackenzie J. K., Acta Met., 1954, 2, p. 129."
+			},
+			{
+				"doi": "",
+				"or":  "Koval Yu. N., Titiov P. V., Phys. Metals, 1995, 14, № 11, p. 1226.",
+				"tr":  "Koval Yu. N., Titiov P. V., Phys. Metals, 1995, 14, No. 11, p. 1226."
+			},
+			{
+				"doi": "",
+				"or":  "Титов П. В., ФММ, 1988, 66, № 3, с. 551.",
+				"tr":  "Titov P. V., FMM, 1988, 66, No. 3, p. 551."
+			},
+			{
+				"doi": "",
+				"or":  "Классен-Неклюдова М. В. Механическое двойникование кристаллов. М.: Изд. АН СССР, 1960, 262 с.",
+				"tr":  "Klassen-Neklyudova M.V. Mekhanicheskoe dvoynikovanie kristallov. M.: Izd. AN SSSR, 1960, 262 p."
+			},
+			{
+				"doi": "",
+				"or":  "Любов Б., Ройтбурд А., ДАН СССР, 1958, 120, с. 1011.",
+				"tr":  "Lyubov B., Roytburd A., DAN SSSR, 1958, 120, p. 1011."
+			},
+			{
+				"doi": "",
+				"or":  "Otani N., Funatsu Y., Ichinose S., Miyazaki S., Otsuka K., Scr. Met., 1983, 17, p. 745.",
+				"tr":  "Otani N., Funatsu Y., Ichinose S., Miyazaki S., Otsuka K., Scr. Met., 1983, 17, p. 745."
+			},
+			{
+				"doi": "",
+				"or":  "Koval Yu. N., Monastyrsky G. E., Scr.Met., 1993, 28, p. 41.",
+				"tr":  "Koval Yu. N., Monastyrsky G. E., Scr. Met., 1993, 28, p. 41."
+			},
+			{
+				"doi": "",
+				"or":  "Vinnikov L. Ya., Georgieva I. Ya., Maistrenko L. G., Metallofizika, 1974, 55, p. 24.",
+				"tr":  "Vinnikov L. Ya., Georgieva I. Ya., Maistrenko L. G., Metallofizika, 1974, 55, p. 24."
+			},
+			{
+				"doi": "",
+				"or":  "Schiel E., Safting E., Arch. Eisenhuttenw., 1960, 31, p. 625.",
+				"tr":  "Schiel E., Safting E., Arch. Eisenhuttenw., 1960, 31, p. 625."
+			},
+			{
+				"doi": "",
+				"or":  "Firstov G. S., Van Humbeeck J., Koval Yu. N., J. Physique IV, 2001, 11, pp. 481–486.",
+				"tr":  "Firstov G. S., Van Humbeeck J., Koval Yu. N., J. Physique IV, 2001, 11, pp. 481–486."
+			},
+			{
+				"doi": "",
+				"or":  "Seo J. W., Schryvers D., Acta Mater., 1998, 46, No. 4, pp. 1165–1175.",
+				"tr":  "Seo J. W., Schryvers D., Acta Mater., 1998, 46, No. 4, pp. 1165–1175."
+			},
+			{
+				"doi": "10.1016/j.msea.2003.10.324",
+				"or":  "Firstov G. S., Van Humbeeck J., Koval Yu. N., Mater. Sci. Eng. A, 2004, 378, 1–2, pp. 2–10.",
+				"tr":  "Firstov G. S., Van Humbeeck J., Koval Yu. N., Mater. Sci. Eng. A, 2004, 378, 1–2, pp. 2–10."
+			},
+			{
+				"doi": "",
+				"or":  "Koval Yu. N., Monastyrsky G. E., J. Physique IV, 1995, 5, C8, p. 397.",
+				"tr":  "Koval Yu. N., Monastyrsky G. E., J. Physique IV, 1995, 5, C8, p. 397."
+			}
+		]
+	}
+}

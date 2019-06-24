@@ -1,0 +1,205 @@
+{
+	"_id":    "UFM.05.01.051",
+	"year":   2004,
+	"volume": 5,
+	"issue":  1,
+	"pages":  [51,86],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["29.12.2003"],
+	"PACS":   "61.10.Dp, 61.10.Kw, 61.46.+w, 61.72.Dd, 61.72.Ff, 81.70.Ex",
+	"title":   {
+		"ua": "Інтеґральна дифрактометрія нанорозмірних дефектів у пружньо зігненому монокристалі",
+		"en": "Integral Diffractometry of Nanoscale Defects in an Elastically-Bent Single Crystal",
+		"ru": "Интегральная дифрактометрия наноразмерных дефектов в упруго изогнутом монокристалле"
+	},
+	"abstract": {
+		"ua": "З метою створення нових високоінформативних методів діягностики випадково розподілених нанорозмірних дефектів (ВРНД), які не можна спостерігати традиційними неруйнівними методами, такими, як Рентґенова топографія, для якої такі нанорозмірні в одному з вимірів або в усіх трьох вимірах дефекти виявляються за межами чутливості методу, розроблено фізичні основи методу деформаційних залежностей повної інтеґральної відбивної здатности (ПІВЗ), яка виявилася унікально чутливою до СНРД. Вперше теоретично і експериментально доведено наявність залежностейвід однорідної пружної макроскопічної деформації інтеґральної інтенсивності дифузного розсіювання, екстинкційних факторів чи коефіцієнтів екстинкції, обумовлених розсіюванням на дефектах, як для когерентної ($\\mu_{ds}$), так і для дифузної ($\\mu^{*}$) складових ПІВЗ та ефективного статичного ds фактору Дебая–Валлера, показник якого вважається пропорційним до інтеґральної інтенсивності дифузного розсіювання. Встановлено природу можливих механізмів як адитивного, так і неадитивного впливу пружних деформацій (ПД) та ВРНД в об’ємі динамічно розсіювального монокристалу на величину ПІВЗ при різному ступені асиметрії відбиттів, яка дозволяє суттєво посилювати ефект впливу ПД на ПІВЗ. Показано, що неадитивність сумісного впливу ВРНД і ПД на величину ПІВЗ Ляве-рефлексів свідчить про суттєву роль ефектів екстинкції через розсіювання на ВРНД та про відносне зростання їх впливу на ПІВЗ при зростанні ПД, що забезпечується, наприклад, присутністю в досліджуваному монокристалі крупних у двох вимірах ВРНД, вплив яких на величину ПІВЗ виявляється за вказаними причинами порівнюваним із впливом пружної деформації при будь-якій силі вигинання та при будь-якому ступені асиметрії Ляве-рефлексів, що використовуються. Дрібні дефекти при звичайно достатньо низьких їх концентраціях через слабкий прояв для них вказаних екстинкційних ефектів призводять до адитивного впливу ВРНД і ПД на ПІВЗ при будь-якому ступені асиметрії відбиттів. Доведено можливість розділення впливу на ПІВЗ ВРНД і ПД шляхом факторизації виразів для ПІВЗ на множники, що залежать тільки від ВРНД і тільки від ПД. В тому числі вперше деформаційні поправки до факторів екстинкції деформаційних залежностей Бреґґової та дифузної складових ПІВЗ пружно вигнутих монокристалів з мікродефектами феноменологічно також факторизовано на множники, що залежать тільки від ВРНД і тільки від ПД. При цьому знайдено в явному вигляді залежність вказаних поправок від характеристик ВРНД. Це вперше забезпечило можливість адекватного кількісного визначення характеристик ВРНД шляхом припасовування теоретичних і експериментальних деформаційних залежностей ПІВЗ.",
+		"en": "With the purpose of development of the new high-informative diagnostic techniques for the determination of the randomly distributed nanoscale defects (RDND), which are invisible by tradition non-destructive methods such as the x-ray topography, for which such small defects in one dimension or in three dimensions are appeared outside the method sensitivity limits, the basic physics are developed for the method of the strain-dependent total integrated reflecting power (TIRP), which appears unique sensitive to RDND. For the first time, the presence of uniform elastic-strain dependence is theoretically and experimentally proved for the diffuse-scattering integral intensity, the extinction coefficients caused by the scattering on microdefects, for both coherent ($\\mu_{ds}$) and diffuse ($\\mu^{*}$) components of TIRP and effective static Debye–Waller factor with index, which is considered to be proportional to the integrated intensity of diffuse scattering. The nature of possible mechanisms of both additive and nonadditive influence of the elastic strains (ES) and RDND on the TIRP is revealed at the various degrees of the reflection asymmetry, which gives the possibility of the essential strengthening of the ES influence on the TIRP. As shown, the non-additivity of the mutual influence of the RDND and ES on the TIRP value of the Laue reflections is evidence of the presence of large (in two dimensions) RDND. The large (in two dimensions) RDND influence on the TIRP value becomes comparable with the elastic-strain influence at the any bending strength and at the any asymmetry degree of the Laue reflections at issue due to the essential importance of extinction effects caused by the scattering at those RDND and due to the relative rise of their influence on the TIRP with the ES increase. Small (in three dimensions) defects at the any degree of the reflection asymmetry cause the additive influence of the RDND and ES on the TIRP value due to the weak manifestation of the mentioned extinction effects for such defects. The possibility is proved for separation of the influence of RDND and only ES on the TIRP. These influences are separated by division of the expressions for TIRP into the factors, which are dependent only on the RDND characteristics and only on ES. In addition, for the first time, the corrections for the strain dependences of the Bragg and diffuse TIRP contributions are phenomenologically separated into factors, which are dependent only on the RDND characteristics and only on ES. In this case, the mentioned-corrections’ dependence on the RDND characteristics is found in an explicit form. For the first time, this provides for the feasibility of the adequate quantitative determination of the RDND characteristics by the fitting of the theoretical and experimental strain dependences of TIRP.",
+		"ru": "С целью создания новых высокоинформативных методов диагностики случайно распределенных наноразмерных дефектов (СРНД), которые не могут наблюдаться традиционными неразрушающими методами, такими, как рентгеновская топография, для которой такие наноразмерные в одном из измерений либо во всех трех измерениях дефекты оказываются за пределами чувствительности метода, разработаны физические основы метода деформационных зависимостей полной интегральной отражательной способности (ПИОС), которая оказалась уникально чувствительной к СНРД. Впервые теоретически и экспериментально доказано наличие зависимостей от однородной упругой макроскопической деформации интегральной интенсивности диффузного рассеяния, экстинкционных факторов или коэффициентов экстинкции, обусловленных рассеянием на дефектах, как для когерентной ($\\mu_{ds}$),так и для диффузной ($\\mu^{*}$)составляющих ПИОС и эффективного статического фактора Дебая–Валлера, показатель которого считается пропорциональным интегральной интенсивности диффузного рассеяния. Установлена природа возможных механизмов как аддитивного, так и неаддитивного влияния упругих деформаций (УД) и СРНД в объеме динамически рассеивающего монокристалла на величину ПИОС при различной степени асимметрии отражений, которая позволяет существенно усиливать эффект влияния УД на ПИОС. Показано, что неаддитивность совместного влияния СРНД и УД на величину ПИОС Лауэ-рефлексов свидетельствует о существенной роли эффектов экстинкции из-за рассеяния на СРНД и об относительном росте их влияния на ПИОС при возрастании УД, что обеспечивается, например, присутствием в исследуемом монокристалле крупных в двух измерениях СРНД, влияние которых на величину ПИОС оказывается, по отмеченным причинам, сравнимым с влиянием упругой деформации при любой силе изгиба и при любой степени асимметрии используемых Лауэ-рефлексов. Мелкие дефекты при обычно достаточно низких их концентрациях из-за слабого проявления для них указанных экстинкционных эффектов приводят к аддитивному влиянию СРНД и УД на ПИОС при любой степени асимметрии отражений. Доказана возможность разделения влияния на ПИОС СРНД и УД путем факторизации выражений для ПИОС на множители, зависящие только от СРНД и только от УД. В том числе впервые деформационные поправки к факторам экстинкции деформационных зависимостей Брэгговской и диффузной составляющих ПИОС упруго изогнутых монокристаллов с микродефектами феноменологически также факторизованы на множители, зависящие только от СРНД и только от УД. При этом найдена в явном виде зависимость указанных поправок от характеристик СРНД. Это впервые обеспечило возможность адекватного количественного определения характеристик СРНД путем подгонки теоретических и экспериментальных деформационных зависимостей ПИОС."
+	},
+	"keywords": {
+		"ua": "Рентґенові промені, Лауе-дифракція, монокристал, мікродефект, пружний згин",
+		"en": "X-rays, Laue-diffraction, monocrystal, microdefect, elastic bending",
+		"ru": "рентгеновские лучи, Лауэ-дифракция, монокристалл, микродефект, упругий изгиб"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. П. Шпак", "en": "A. P. Shpak", "ru": "А. П. Шпак"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Б. Молодкін", "en": "V. B. Molodkin", "ru": "В. Б. Молодкин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. І. Нізкова", "en": "A. I. Nizkova", "ru": "А. И. Низкова"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  5,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.18.02.177",
+				"cit": "V. B. Molodkin, H. I. Nizkova, Ye. I. Bogdanov, S. I. Olikhovskii <i>et al.</i>, <a href=\"https://doi.org/10.15407/ufm.18.02.177\">Usp. Fiz. Met. <b>18</b>, 177 (2017)</a>."
+			},
+			{
+				"doi": "10.15407/mfint.37.02.0265",
+				"cit": "V. V. Lizunov, V. B. Molodkin, S. I. Olikhovskii, S. V. Lizunova <i>et al.</i>, <a href=\"https://doi.org/10.15407/mfint.37.02.0265\">Metallofiz. Noveishie Tekhnol. <b>37</b>, 265 (2016)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.10.03.229",
+				"cit": "A. P. Shpak, M. V. Kovalchuk, V. B. Molodkin, V. L. Nosik <i>et al.</i>, <a href=\"https://doi.org/10.15407/ufm.10.03.229\">Usp. Fiz. Met. <b>10</b>, 229 (2009)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.12.03.295",
+				"cit": "V. B. Molodkin, M. V. Kovalchuk, V. F. Machulin, Eh. H. Muhamedjanov <i>et al.</i>, <a href=\"https://doi.org/10.15407/ufm.12.03.295\">Usp. Fiz. Met. <b>12</b>, 295 (2011)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.09.03.305",
+				"cit": "A. P. Shpak, M. V. Koval’chuk, I. M. Karnaukhov, V. V. Molodkin <i>et al.</i>, <a href=\"https://doi.org/10.15407/ufm.09.03.305\">Usp. Fiz. Met. <b>9</b>, 305 (2008)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 27,
+		"list":  [
+			{
+				"doi": "10.1143/JPSJ.19.971",
+				"or":  "N. Kato, J. Phys. Soc. Jap., 19, No. 6: 971 (1964).",
+				"tr":  "N. Kato, J. Phys. Soc. Jap., 19, No. 6: 971 (1964)."
+			},
+			{
+				"doi": "10.1107/S056773947700076X",
+				"or":  "F. N. Chukhovskii and P. V. Petrashen, Acta crystallogr. A, 33, No. 2: 311 (1977).",
+				"tr":  "F. N. Chukhovskii and P. V. Petrashen, Acta crystallogr. A, 33, No. 2: 311 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "N. Kato, X-Ray Diffraction (Eds. L. V. Azaroff, R. Karlow, N. Kato et al.) (New York: John Wiley: 1974).",
+				"tr":  "N. Kato, X-Ray Diffraction (Eds. L. V. Azaroff, R. Karlow, N. Kato et al.) (New York: John Wiley: 1974)."
+			},
+			{
+				"doi": "10.1107/S002188987901219X",
+				"or":  "Z. N. Kalman and S. Weissmann, J. Appl. Crystallogr., 12, No. 2: 209 (1979).",
+				"tr":  "Z. N. Kalman and S. Weissmann, J. Appl. Crystallogr., 12, No. 2: 209 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Хрупа, Е. Н. Кисловский, Л. И. Даценко, Металлофизика, 2, № 4: 55 (1980).",
+				"tr":  "V. I. Khrupa, E. N. Kislovskiy, L. I. Datsenko, Metallofizika, 2, No. 4: 55 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Хрупа, Л. И. Даценко, Е. Н. Кисловский, А. С. Васильковский, Металлофизика, 6, № 6: 70 (1984).",
+				"tr":  "V. I. Khrupa, L. I. Datsenko, E. N. Kislovskiy, A. S. Vasil'kovskiy, Metallofizika, 6, No. 6: 70 (1984)."
+			},
+			{
+				"doi": "10.1002/pssa.2210630209",
+				"or":  "V. I. Khrupa, E. N. Kislovskii, and L. I. Datsenko, Phys. Status Solidi, 63, No. 1: 439 (1981).",
+				"tr":  "V. I. Khrupa, E. N. Kislovskii, and L. I. Datsenko, Phys. Status Solidi, 63, No. 1: 439 (1981)."
+			},
+			{
+				"doi": "10.1143/JJAP.19.L101",
+				"or":  "Y. Matsushita, S. Kishino, and M. Kanamori, Jap. J. Appl. Phys., 19, No. 2: L101 (1980).",
+				"tr":  "Y. Matsushita, S. Kishino, and M. Kanamori, Jap. J. Appl. Phys., 19, No. 2: L101 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Даценко, В. Б. Молодкин, М. Е. Осиновский, Динамическое рассеяние рентгеновских лучей реальными кристаллами (Киев: Наук. думка, 1988).",
+				"tr":  "L. I. Datsenko, V. B. Molodkin, M. E. Osinovskiy, Dinamicheskoe rasseyanie rentgenovskikh luchey real'nymi kristallami (Kiev: Naukova Dumka, 1988)."
+			},
+			{
+				"doi": "10.1002/pssa.2210870223",
+				"or":  "V. B. Molodkin, S. I. Olikhovskii, M. E. Osinovskii et al., Phys. Status Solidi A, 87, No. 2: 597 (1985).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, M. E. Osinovskii et al., Phys. Status Solidi A, 87, No. 2: 597 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Кушнир, Э. В. Суворов, К. Ю. Мухин, ФТТ, 22, № 7: 2435 (1980).",
+				"tr":  "V. I. Kushnir, E. V. Suvorov, K. Yu. Mukhin, FTT, 22, No. 7: 2435 (1980)."
+			},
+			{
+				"doi": "10.1002/pssa.2210250222",
+				"or":  "L. I. Datsenko and E. N. Kislovskii, Phys. Status Solidi, 25, No. 2: 551 (1974).",
+				"tr":  "L. I. Datsenko and E. N. Kislovskii, Phys. Status Solidi, 25, No. 2: 551 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "П. В. Петрашень, Металлофизика, 8, № 1: 35 (1986).",
+				"tr":  "P. V. Petrashen', Metallofizika, 8, No. 1: 35 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "П. В. Петрашень, Ф. Н. Чуховский, Металлофизика, 8, № 3: 45 (1986).",
+				"tr":  "P. V. Petrashen', F. N. Chukhovskiy, Metallofizika, 8, No. 3: 45 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Николаев, С. И. Олиховский, М. Е. Осиновский, В. Н. Хрупа, Металлофизика, 11, № 2: 52 (1989).",
+				"tr":  "V. V. Nikolaev, S. I. Olikhovskiy, M. E. Osinovskiy, V. N. Khrupa, Metallofizika, 11, No. 2: 52 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Гринь, Е. Н. Кисловский, П. В. Петрашень, А. Ю. Разумовский, Металлофизика, 12, № 5: 113 (1990).",
+				"tr":  "G. V. Grin', E. N. Kislovskiy, P. V. Petrashen', A. Yu. Razumovskiy, Metallofizika, 12, No. 5: 113 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Н. Кисловский, Л. И. Даценко, В. Б. Молодкин и др., Металлофизика, 12, № 6: 37 (1990).",
+				"tr":  "E. N. Kislovskiy, L. I. Datsenko, V. B. Molodkin et al., Metallofizika, 12, No. 6: 37 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, В. В. Немошкаленко, А. И. Низкова и др., Металлофиз. новейшие технол., 22, № 3: 3 (2000).",
+				"tr":  "V. B. Molodkin, V. V. Nemoshkalenko, A. I. Nizkova et al., Metallofiz. Noveishie Tekhnol., 22, No. 3: 3 (2000)."
+			},
+			{
+				"doi": "10.1063/1.359479",
+				"or":  "A. Borghesi, B. Pivac, A. Sassela, and A. Stella, J. Appl. Phys., 77, No. 9: 4169 (1995).",
+				"tr":  "A. Borghesi, B. Pivac, A. Sassela, and A. Stella, J. Appl. Phys., 77, No. 9: 4169 (1995)."
+			},
+			{
+				"doi": "10.1002/pssb.2221780104",
+				"or":  "A. N. Kostyuk, V. B. Molodkin, and S. I. Olikhovskii, Phys. Status Solidi B, 178, No. 1: 45 (1993).",
+				"tr":  "A. N. Kostyuk, V. B. Molodkin, and S. I. Olikhovskii, Phys. Status Solidi B, 178, No. 1: 45 (1993)."
+			},
+			{
+				"doi": "10.1002/pssb.2221830103",
+				"or":  "V. B. Molodkin, S. I. Olikhovskii, and A. N. Kostyuk, Phys. Status Solidi B, 183, No. 1: 59 (1993).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, and A. N. Kostyuk, Phys. Status Solidi B, 183, No. 1: 59 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, С. И. Олиховский, А. Н. Костюк, Л. Г. Ткачук, Металлофиз. новейшие технол., 23, № 7: 861 (2001).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskiy, A. N. Kostyuk, L. G. Tkachuk, Metallofiz. Noveishie Tekhnol., 23, No. 7: 861 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, А. И. Низкова, С. И. Олиховский и др., Металлофиз. новейшие технол., 25, № 1: 107 (2003).",
+				"tr":  "V. B. Molodkin, A. I. Nizkova, S. I. Olikhovskiy et al., Metallofiz. Noveishie Tekhnol., 25, No. 1: 107 (2003)."
+			},
+			{
+				"doi": "10.1063/1.96969",
+				"or":  "S. M. Hu, Appl. Phys. Lett., 48, No. 2: 115 (1986).",
+				"tr":  "S. M. Hu, Appl. Phys. Lett., 48, No. 2: 115 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, А. И. Низкова, С. И. Олиховский и др., Металлофиз. новейшие технол., 24, № 11: 1483 (2002).",
+				"tr":  "V. B. Molodkin, A. I. Nizkova, S. I. Olikhovskiy et al., Metallofiz. Noveishie Tekhnol., 24, No. 11: 1483 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "F. M. Livingston, S. Messoloras, R. C. Newman, B. C. Pike, R. J. Stewart, W. J. Binns, W. P. Brown, and J. G. Wilkes, J. Phys., 17: 6253 (1984).",
+				"tr":  "F. M. Livingston, S. Messoloras, R. C. Newman, B. C. Pike, R. J. Stewart, W. J. Binns, W. P. Brown, and J. G. Wilkes, J. Phys., 17: 6253 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, А. И. Низкова, И. И. Рудницкая и др., Металлофиз. новейшие технол., 25, № 11: (2003).",
+				"tr":  "V. B. Molodkin, A. I. Nizkova, I. I. Rudnitskaya et al., Metallofiz. Noveyshie Tekhnol., 25, No. 11: (2003)."
+			}
+		]
+	}
+}

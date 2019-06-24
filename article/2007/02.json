@@ -1,0 +1,36 @@
+{
+	"year":   2007,
+	"volume": 8,
+	"issue":  2
+	,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [109,156],
+			"title": {
+				"ua": "Ефект тензочутливости в металевих плівкових матеріялах",
+				"en": "Effect of the Tensosensitivity in Metal Film Materials",
+				"ru": "Эффект тензочувствительности в металлических плёночных материалах"
+			},
+			"autors": {
+				"ua": "Л. В. Однодворець, С. І. Проценко, А. М. Чорноус, І. Ю. Проценко",
+				"en": "L. V. Odnodvorets’, S. I. Protsenko, A. M. Chornous, and I. Yu. Protsenko",
+				"ru": "Л. В. Однодворец, С. И. Проценко, А. Н. Чорноус, И. Ю. Проценко"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [157,170],
+			"title": {
+				"ua": "Міжзонне поглинання світла квазинульмірними наносистемами",
+				"en": "Interband Absorption of Light by Quasi-Zero-Dimensional Nanosystems",
+				"ru": "Межзонное поглощение света квазинульмерными наносистемами"
+			},
+			"autors": {
+				"ua": "А. П. Шпак, С. І. Покутній, В. М. Уваров",
+				"en": "A. P. Shpak, S. I. Pokutniy, and V. M. Uvarov",
+				"ru": "А. П. Шпак, С. И. Покутний, В. Н. Уваров"
+			}
+		}
+	]
+}

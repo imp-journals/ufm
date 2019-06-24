@@ -1,0 +1,329 @@
+{
+	"_id":    "UFM.02.03.265",
+	"year":   2001,
+	"volume": 2,
+	"issue":  3,
+	"pages":  [265,280],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["02.11.2001","27.11.2001"],
+	"PACS":   "75.20.Ck, 75.20.En, 75.50.Pp, 78.20.Ls, 81.40.Rs, 81.40.Tv",
+	"title":   {
+		"ua": "Зміна магнетних й оптичних властивостей неферомагнетних кристалів післе експонування в электричному та магнетному полях",
+		"en": "Change of Magnetic and Optical Properties of Non-Ferromagnetic Crystals After Exposure in Electrical and Magnetic Fields",
+		"ru": "Изменение магнитных и оптических свойств неферромагнитных кристаллов после экспонирования в электрическом и магнитном полях"
+	},
+	"abstract": {
+		"ua": "Вивчено вплив експозиції в електричному або магнітному полях на магнітну сприйнятливість кристалів цинку, кремнію, арсеніду галію, а також на спектральний розподіл фотопровідності GaAs і Si. Показано, що в усіх випадках, спочатку діамагнітні зразки після механічної обробки істотно змінювали магнітні властивості, а в спектрі фотоструму GaAs з'явилися додаткові домішкові максимуми. Тривала експозиція таких кристалів у магнітному або електричному полях призводила до відновлення їхніх діамагнітних властивостей, а у випадку GaAs також і до зникнення домішкових максимумів фотоструму.",
+		"en": "The influence of exposure on the magnetic susceptibility of zinc, silicon, and gallium arsenide crystals as well as on the spectral distribution of GaAs and Si photoconduction in electrical or magnetic fields is investigated. In the all cases, initially diamagnetic samples are shown to change their magnetic properties essentially after mechanical processing, and additional impurity maximums are appeared in the GaAs photoelectric spectrum. Continuous exposure of such crystals in magnetic or electrical fields results in restitution of their diamagnetic properties, and in the GaAs case, it causes disappearance of impurity-photocurrent maximums.",
+		"ru": "Изучено влияние экспозиции в электрическом или магнитном полях на магнитную восприимчивость кристаллов цинка, кремния, арсенида галлия, а также на спектральное распределение фотопроводимости GaAs и Si. Показано, что во всех случаях, первоначально диамагнитные образцы после механической обработки существенно изменяли магнитные свойства, а в спектре фототока GaAs появились дополнительные примесные максимумы. Длительная экспозиция таких кристаллов в магнитном или электрическом полях приводила к восстановлению их диамагнитных свойств, а в случае GaAs также и к исчезновению максимумов примесного фототока."
+	},
+	"keywords": {
+		"ua": "діамагнетик, магнітна сприйнятливість, домішковий фототок, експозиція в електричному та магнітному полях",
+		"en": "diamagnetic, magnetic susceptibility, impurity photocurrent, exposure in electric and magnetic fields",
+		"ru": "диамагнетик, магнитная восприимчивость, примесный фототок, экспозиция в электрическом и магнитном полях"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. В. Бродовий", "en": "O. V. Brodovyj", "ru": "А. В. Бродовой"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "В. О. Бродовий", "en": "V. O. Brodovyj", "ru": "В. А. Бродовой"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "В. Г. Колісніченко", "en": "V. G. Kolesnichenko", "ru": "В. Г. Колисниченко"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "В. В. Скороход", "en": "V. V. Skorokhod", "ru": "В. В. Скороход"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 56,
+				"list":  [
+			{
+				"doi": "",
+				"or":  "В. И. Альшиц, Е. В. Даринская, И. В. Ректина, Ф. Ф. Лаврентьев, Кристаллография, 35, № 4: 1014 (1990).",
+				"tr":  "V. I. Al'shits, E. V. Darinskaya, I. V. Rektina, F. F. Lavrent'ev, Kristallografiya, 35, No. 4: 1014 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Альшиц, Е. В. Даринская, Т. М. Перекалина, А. А. Урусовская, ФТТ, 29: 467 (1987).",
+				"tr":  "I. V. Al'shits, E. V. Darinskaya, T. M. Perekalina, A. A. Urusovskaya, FTT, 29: 467 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Головин, О. Л. Казакова, Р. Б. Моргунов, ФТТ, 35: 1384 (1993).",
+				"tr":  "Yu. I. Golovin, O. L. Kazakova, R. B. Morgunov, FTT, 35: 1384 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Смирнов, А. А. Урусовская, ФТТ, 29: 852 (1987).",
+				"tr":  "A. E. Smirnov, A. A. Urusovskaya, FTT, 29: 852 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. I. Golovin, R. B. Morgunov, D. V. Lopatin, and A. A. Baskakov, Phys. Stat. Sol. (A), 160: R. 3 (1997).",
+				"tr":  "Yu. I. Golovin, R. B. Morgunov, D. V. Lopatin, and A. A. Baskakov, Phys. Stat. Sol. (A), 160: R. 3 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. П. Белозерова, А. А. Светашев, В. Л. Красников, Изв. РАН. Сер. физич., 61: 291 (1997).",
+				"tr":  "E. P. Belozerova, A. A. Svetashev, V. L. Krasnikov, Izv. RAN. Ser. fizich., 61: 291 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Урусовская, И. В. Альшиц, А. Е. Смирнов, Н. Н. Беккауер, Письма в ЖЭТФ, 65, № 6: 470 (1997).",
+				"tr":  "A. A. Urusovskaya, I. V. Al'shits, A. E. Smirnov, N. N. Bekkauer, Pis'ma v ZhETF, 65, No. 6: 470 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Лебедев, В. С. Крыловский, Письма в ЖЭТФ, 36, № 1: 3 (1982).",
+				"tr":  "V. P. Lebedev, V. S. Krylovskii, Pis'ma v ZhETF, 36, No. 1: 3 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Альшиц, Е. В. Даринская, Е. А. Петржик, Изв. вузов. Черн. мет., 10: 85 (1990).",
+				"tr":  "I. V. Al'shits, E. V. Darinskaya, E. A. Petrzhik, Izv. vuzov. Chern. met., 10: 85 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Головин, Р. Б. Моргунов, Письма в ЖЭТФ, 61: 583 (1995).",
+				"tr":  "Yu. I. Golovin, R. B. Morgunov, Pis'ma v ZhETF, 61: 583 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Альшиц, Е. В. Даринская, О. Л. Казакова, Письма в ЖЭТФ, 62: 352 (1995).",
+				"tr":  "I. V. Al'shits, E. V. Darinskaya, O. L. Kazakova, Pis'ma v ZhETF, 62: 352 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Альшиц, Е. В. Даринская, О. Л. Казакова, ЖЭТФ, 111: 615 (1997).",
+				"tr":  "I. V. Al'shits, E. V. Darinskaya, O. L. Kazakova, ZhETF, 111: 615 (1997)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.78.2779",
+				"or":  "M. I. Molotskii and V. N. Fleurov. Phys. Rev. Lett., 78: 1 (1997).",
+				"tr":  "M. I. Molotskii and V. N. Fleurov. Phys. Rev. Lett., 78: 1 (1997)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.52.15829",
+				"or":  "M. I. Molotskii and V. N. Fleurov. Phys. Rev. B, 52: 15829 (1995).",
+				"tr":  "M. I. Molotskii and V. N. Fleurov. Phys. Rev. B, 52: 15829 (1995)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.51.12531",
+				"or":  "M. I. Molotskii, E. R. Kris, and V. N. Fleurov, Phys. Rev. B, 51: 12531 (1995).",
+				"tr":  "M. I. Molotskii, E. R. Kris, and V. N. Fleurov, Phys. Rev. B, 51: 12531 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Г. Швидковский, Н. А. Тяпунина, Э. П. Белозерова, Кристаллография, 7, № 3: 471 (1962).",
+				"tr":  "E. G. Shvidkovskii, N. A. Tyapunina, E. P. Belozerova, Kristallografiya, 7, No. 3: 471 (1962)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. В. Загоруйко, Кристаллография, 10, № 1: 81 (1965).",
+				"tr":  "N. V. Zagoruiko, Kristallografiya, 10, No. 1: 81 (1965)."
+			},
+			{
+				"doi": "10.3367/UFNr.0096.196809c.0039",
+				"or":  "А. А. Урусовская, УФН, 96, № 1: 39 (1968).",
+				"tr":  "A. A. Urusovskaya, UFN, 96, No. 1: 39 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Б. Зуев, В. Е. Громов, В. П. Сергеев, УФН, 19, № 7: 1120 (1974).",
+				"tr":  "L. B. Zuev, V. E. Gromov, V. P. Sergeev, UFN, 19, No. 7: 1120 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Никаноров, Б. К. Кардашов, Упругость и дислокационная неупругость кристаллов (Москва: Наука: 1985).",
+				"tr":  "S. P. Nikanorov, B. K. Kardashov, Uprugost' i dislokatsionnaya neuprugost' kristallov (Moskva: Nauka: 1985)."
+			},
+			{
+				"doi": "",
+				"or":  "М. С. Аблова, ФТТ, 6, № 10: 3159 (1964).",
+				"tr":  "M. S. Ablova, FTT, 6, No. 10: 3159 (1964)."
+			},
+			{
+				"doi": "",
+				"or":  "М. С. Аблова, ФТТ, 7, № 9: 2740 (1965).",
+				"tr":  "M. S. Ablova, FTT, 7, No. 9: 2740 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Зарецкий, Ю. А. Осипьян, В. Ф. Петренко, ФТТ, 20, № 6: 1442 (1978).",
+				"tr":  "A. V. Zaretskii, Yu. A. Osip'yan, V. F. Petrenko, FTT, 20, No. 6: 1442 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Г. Кириченко, В. Ф. Петренко, Г. В. Уймин, ЖЭТФ, 74, № 2: 742 (1978).",
+				"tr":  "L. G. Kirichenko, V. F. Petrenko, G. V. Uimin, ZhETF, 74, No. 2: 742 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. А. Осипьян, В. Ф. Петренко, ДАН СССР, 226, № 4: 803 (1976).",
+				"tr":  "Yu. A. Osip'yan, V. F. Petrenko, DAN SSSR, 226, No. 4: 803 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Б. Зуев, М. Г. Токмашев, Н. С. Сидоров, Физ.-химия обработки материалов, № 2: 32 (1971).",
+				"tr":  "L. B. Zuev, M. G. Tokmashev, N. S. Sidorov, Fiz.-khimiya obrabotki materialov, No. 2: 32 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Б. Зуев, О. К. Царев, Н. К. Дорошенко, В. Д. Мальцев, Электрон. обр. матер., № 6: 46 (1974).",
+				"tr":  "L. B. Zuev, O. K. Tsarev, N. K. Doroshenko, V. D. Mal'tsev, Elektron. obr. mater., No. 6: 46 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Б. Зуев, Д. Е. Громов, В. П. Сергеев, А. Н. Нарожный, Изв. вузов. Физика, № 5: 16 (1975).",
+				"tr":  "L. B. Zuev, D. E. Gromov, V. P. Sergeev, A. N. Narozhnyi, Izv. vuzov. Fizika, No. 5: 16 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "М. И. Молоцкий, ФТТ, 33, № 10: 3112 (1991).",
+				"tr":  "M. I. Molotskii, FTT, 33, No. 10: 3112 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Альшиц, Е. В. Даринская, Е. А. Петржик, ФТТ, 33: 3001 (1991).",
+				"tr":  "I. V. Al'shits, E. V. Darinskaya, E. A. Petrzhik, FTT, 33: 3001 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Альшиц, Е. В. Даринская, Е. А. Петржик, ФТТ, 35: 320 (1992).",
+				"tr":  "V. I. Al'shits, E. V. Darinskaya, E. A. Petrzhik, FTT, 35: 320 (1992)."
+			},
+			{
+				"doi": "10.1103/PhysRev.158.511",
+				"or":  "E. J. Sharp and D. A. Avery, Phys. Rev., 158, No. 2: 511 (1967).",
+				"tr":  "E. J. Sharp and D. A. Avery, Phys. Rev., 158, No. 2: 511 (1967)."
+			},
+			{
+				"doi": "",
+				"or":  "М. И. Молоцкий, ФММ, 54, № 1: 28 (1982);",
+				"tr":  "M. I. Molotskii, FMM, 54, No. 1: 28 (1982);"
+			},
+			{
+				"doi": "",
+				"or":  "М. И. Молоцкий, ФММ, 58, № 3: 458 (1984).",
+				"tr":  "M. I. Molotskii, FMM, 58, No. 3: 458 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Бродовой, И. К. Засимчук, В. Г. Колесниченко и др., Докл. НАН Украины, № 4: 109 (1997).",
+				"tr":  "A. V. Brodovoi, I. K. Zasimchuk, V. G. Kolesnichenko et al., Dokl. NAN Ukrainy, No. 4: 109 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Бродовой, В. Г. Колесниченко, С. П. Колесник и др., Металлофиз. и новейшие технол., 19, № 11: 73 (1997).",
+				"tr":  "A. V. Brodovoi, V. G. Kolesnichenko, S. P. Kolesnik et al., Metallofiz. i Noveishie Tekhnol., 19, No. 11: 73 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Бродовой, В. Г. Колесниченко, С. М. Солонин, В. В. Скороход, Порошк. металлургия, № 3–4: 25 (1998).",
+				"tr":  "A. V. Brodovoi, V. G. Kolesnichenko, S. M. Solonin, V. V. Skorokhod, Poroshk. metallurgiya, No. 3–4: 25 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "A. V. Brodovoi, V. G. Kolesnichenko, V. V. Skorokhod, S. M. Solonin, S. P. Kolesnik, V. A. Brodovoi, G. A. Zykov, and O. S. Zinets, Proc. SPIE: Fourth International Conference on Material Science and Material Properties for Infrared Optoelectronics, 3890: 253 (1999).",
+				"tr":  "A. V. Brodovoi, V. G. Kolesnichenko, V. V. Skorokhod, S. M. Solonin, S. P. Kolesnik, V. A. Brodovoi, G. A. Zykov, and O. S. Zinets, Proc. SPIE: Fourth International Conference on Material Science and Material Properties for Infrared Optoelectronics, 3890: 253 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Бродовой, Г. А. Зыков, В. П. Кладько, В. Г. Колесниченко, Д. В. Лоцко, А. Г. Попов, А. П. Рачек, С. М. Солонин, В. В. Скороход, Металлофиз. и новейшие технол., 21, № 1: 45 (2000).",
+				"tr":  "A. V. Brodovoi, G. A. Zykov, V. P. Klad'ko, V. G. Kolesnichenko, D. V. Lotsko, A. G. Popov, A. P. Rachek, S. M. Solonin, V. V. Skorokhod, Metallofiz. i noveishie tekhnol., 21, No. 1: 45 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Бродовой, В. Г. Колесниченко, В. А. Бродовой, В. В. Скороход, Металлофиз. и новейшие технол., 22, № 4: 13 (2000).",
+				"tr":  "A. V. Brodovoi, V. G. Kolesnichenko, V. A. Brodovoi, V. V. Skorokhod, Metallofiz. i Noveishie Tekhnol., 22, No. 4: 13 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Я. Дехтяр, В. С. Михаленков, ФТТ, 5, № 10: 2997 (1963).",
+				"tr":  "I. Ya. Dekhtyar, V. S. Mikhalenkov, FTT, 5, No. 10: 2997 (1963)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Дерягин, В. А. Павлов, К. Б. Власов, С. П. Грубова, ФММ, 32, № 6: 1231 (1971).",
+				"tr":  "A. I. Deryagin, V. A. Pavlov, K. B. Vlasov, S. P. Grubova, FMM, 32, No. 6: 1231 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Дерягин, В. А. Павлов, К. Б. Власов, ФММ, 34, № 2: 279 (1972).",
+				"tr":  "A. I. Deryagin, V. A. Pavlov, K. B. Vlasov, FMM, 34, No. 2: 279 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Дерягин, В. А. Павлов, К. Б. Власов, В. Ф. Шишминцев, ФММ, 41, № 5: 1101 (1976).",
+				"tr":  "A. I. Deryagin, V. A. Pavlov, K. B. Vlasov, V. F. Shishmintsev, FMM, 41, No. 5: 1101 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Я. Дехтяр, Р. Г. Федченко, ФТТ, 7, № 3: 893 (1965).",
+				"tr":  "I. Ya. Dekhtyar, R. G. Fedchenko, FTT, 7, No. 3: 893 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Herring, Structure and Properties of Solid Surfaces (Chicago: Chicago Univers. Press: 1963), P. 5.",
+				"tr":  "C. Herring, Structure and Properties of Solid Surfaces (Chicago: Chicago Univers. Press: 1963), P. 5."
+			},
+			{
+				"doi": "",
+				"or":  "C. Herring, The Physics of Powder Metallurgy (Ed. W. E. Kingston) (New York: McGraw Book Co: 1951), P. 143.",
+				"tr":  "C. Herring, The Physics of Powder Metallurgy (Ed. W. E. Kingston) (New York: McGraw Book Co: 1951), P. 143."
+			},
+			{
+				"doi": "10.1103/PhysRev.117.1452",
+				"or":  "J. Barbour, F. M. Charbonnier, W. W. Polan, W. P. Dyke, E. E. Martin, and J. K. Trolan, Phys. Rev., 117: 1452 (1960).",
+				"tr":  "J. Barbour, F. M. Charbonnier, W. W. Polan, W. P. Dyke, E. E. Martin, and J. K. Trolan, Phys. Rev., 117: 1452 (1960)."
+			},
+			{
+				"doi": "",
+				"or":  "М. П. Шаскольская, Ван Янь-Вонь, Гу Шу-Чжао, Кристаллография, 6: 605 (1961).",
+				"tr":  "M. P. Shaskol'skaya, Van Yan'-Von', Gu Shu-Chzhao, Kristallografiya, 6: 605 (1961)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Rupprecht, Zs. Naturforsch, 13: 1094 (1958).",
+				"tr":  "H. Rupprecht, Zs. Naturforsch, 13: 1094 (1958)."
+			},
+			{
+				"doi": "10.1063/1.1735344",
+				"or":  "J. R. Dixon, Journ. Appl. Phys., 30: 1412 (1959).",
+				"tr":  "J. R. Dixon, Journ. Appl. Phys., 30: 1412 (1959)."
+			},
+			{
+				"doi": "10.1088/0370-1328/71/3/320",
+				"or":  "R. F. Broom, Proc. Phys. Soc., 71: 470 (1958).",
+				"tr":  "R. F. Broom, Proc. Phys. Soc., 71: 470 (1958)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Мачулин, В. И. Хрупа, Рентгеновская диагностика структурного совершенства слабо искаженных кристаллов (Киев: Наукова думка: 1995).",
+				"tr":  "V. F. Machulin, V. I. Khrupa, Rentgenovskaya diagnostika strukturnogo sovershenstva slabo iskazhennykh kristallov (Kiev: Naukova dumka: 1995)."
+			},
+			{
+				"doi": "10.1103/PhysRev.158.353",
+				"or":  "A. K. Rajagopal and S. D. Mahanti, Phys. Rev., 158, No. 2: 353 (1967).",
+				"tr":  "A. K. Rajagopal and S. D. Mahanti, Phys. Rev., 158, No. 2: 353 (1967)."
+			},
+			{
+				"doi": "10.1103/PhysRev.112.328",
+				"or":  "K. A. Brueckner and K. Sawada, Phys. Rev., 112: 328 (1963).",
+				"tr":  "K. A. Brueckner and K. Sawada, Phys. Rev., 112: 328 (1963)."
+			},
+			{
+				"doi": "",
+				"or":  "A. V. Brodovoi, V. G. Kolesnichenko, V. V. Skorokhod, V. A. Brodovoi, L. M. Khnorozok, and O. S. Zinets , Abs. of V Int. Conf. ‘Material Science and Material Properties for Infrared Optoelectronics’ (Proc. SPIE): 83 (2000).",
+				"tr":  "A. V. Brodovoi, V. G. Kolesnichenko, V. V. Skorokhod, V. A. Brodovoi, L. M. Khnorozok, and O. S. Zinets, Abs. of V Int. Conf. 'Material Science and Material Properties for Infrared Optoelectronics' (Proc. SPIE): 83 (2000)."
+			}
+		]
+	}
+}

@@ -1,0 +1,150 @@
+{
+	"_id":    "UFM.18.02.141",
+	"year":   2017,
+	"volume": 18,
+	"issue":  2,
+	"pages":  [141,154],
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["13.03.2017", "03.04.2017"],
+	"PACS":   "07.20.-n, 07.20.Ka, 42.79.-e, 44.05.+e, 81.30.Fb, 81.40.Tv, 81.70.Fy",
+	"title":   {
+		"ua": "Міряння температури зони розтопу за спрямованої кристалізації лопаток газотурбінного двигуна",
+		"en": "Measurement of Temperature of Molten Zone at the Directional Crystallization of Blades of the Gas-Turbine Engine",
+		"ru": "Измерение температуры зоны расплава при направленной кристаллизации лопаток газотурбинного двигателя"
+	},
+	"abstract": {
+		"ua": "Оглядову статтю присвячено ґрунтовній аналізі відомих метод і способів міряння температурних параметрів у зоні розтопу за спрямованої кристалізації робочих лопаток роторів газотурбінних двигунів. Проведено аналізу наявних метод контролю температури як контактних, так і безконтактних. Встановлено, що у подальшому проґресі та розвитку приладів і способів аналізи температури пріоритет належить пірометрії. Спираючись на недоліки та переваги наявних метод, визначено, що розв’язання поставленої проблеми можливе з допомогою використання спектральної та телевізійної пірометрії.",
+		"en": "The review article is devoted to detailed analysis of known methods and ways for measuring the temperature parameters in the area of directional solidification of the melt of the rotor blades of gas-turbine engines. The analysis of existing methods of temperature control such as contactless methods and contact ones is made. As found, in further progress and development of devices and methods of temperature analysis, priority belongs to pyrometry. Relied on the advantages and disadvantages of existing methods, it is determined that the solution of this problem is possible with use of spectral and imaging pyrometry.",
+		"ru": "Обзорная статья посвящена основательному анализу известных методов и способов измерения температурных параметров в зоне расплава при направленной кристаллизации рабочих лопаток роторов газотурбинных двигателей. Проведён анализ существующих методов контроля температуры как контактных, так и бесконтактных. Установлено, что в дальнейшем прогрессе и развитии приборов и способов анализа температуры приоритет принадлежит пирометрии. Опираясь на недостатки и преимущества существующих методов, определено, что решение поставленной проблемы возможно за счёт использования спектральной и телевизионной пирометрии."
+	},
+	"keywords": {
+		"ua": "вимірювання температури, зона розплаву, направлена кристалізація, спектральна пірометрія, телевізійна пірометрія, біспектральна пірометрія",
+		"en": "temperature measurements, molten zone, directional solidification, spectral pyrometry, imaging pyrometry, bispectrum pyrometry",
+		"ru": "измерение температуры, зона расплава, направленная кристаллизация, спектральная пирометрия, телевизионная пирометрия, биспектральная пирометрия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. О. Маркін", "en": "M. O. Markin", "ru": "М. А. Маркин"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "О. М. Маркіна", "en": "O. M. Markina", "ru": "О. Н. Маркина"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "С. М. Кущовий", "en": "S. M. Kushchovyi", "ru": "С. Н. Кущовый"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 21,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "N. I. Gel’perin and G. A. Nosov, Osnovy Tehniki Kristallizatsii Rasplavov [Fundamental Technique of Crystallization of Melts] (Moscow: 1986) (in Russian).",
+				"tr":  "N. I. Gel'perin and G. A. Nosov, Osnovy Tehniki Kristallizatsii Rasplavov [Fundamental Technique of Crystallization of Melts] (Moscow: 1986) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.06.003",
+				"or":  "A. P. Boeira, I. L. Ferreira, and A. Garcia, Mat. Sci. Eng. A, 435–436: 150 (2006).",
+				"tr":  "A. P. Boeira, I. L. Ferreira, and A. Garcia, Mat. Sci. Eng. A, 435–436: 150 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "V. P. Monastyrskiy, Liteyshchik Rossii, No. 7: 18 (2009) (in Russian).",
+				"tr":  "V. P. Monastyrskiy, Liteyshchik Rossii, No. 7: 18 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "B. N. Bazhenov, A. G. Chumakov, and S. I. Mel’nik, Aviatsionno-Kosmicheskaya Tekhnika i Tekhnologiya, No. 7 (43): 63 (2007) (in Ukrainian).",
+				"tr":  "B. N. Bazhenov, A. G. Chumakov, and S. I. Mel'nik, Aviatsionno-Kosmicheskaya Tekhnika i Tekhnologiya, No. 7 (43): 63 (2007) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Inozemtsev and V. L. Sandrackiy, Gazoturbinnye Dvigateli [Gas-Turbine Engines] (Moscow: ‘Aviadvigatel’: 2006) (in Russian).",
+				"tr":  "A. A. Inozemtsev and V. L. Sandrackiy, Gazoturbinnye Dvigateli [Gas-Turbine Engines] (Moscow: 'Aviadvigatel': 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Belen’kiy, M. Yu. Dubinskiy, M. G. Ladygichev, V. G. Lisienko, and Ya. M. Shchelokov, Izmerenie Temperatury: Teoriya, Praktika, Ehksperiment: Spravochnoe Izdanie [Measurements of Temperature: Manual Issue] (Moscow: Teplotehnik: 2007) (in Russian).",
+				"tr":  "A. M. Belen'kiy, M. Yu. Dubinskiy, M. G. Ladygichev, V. G. Lisienko, and Ya. M. Shchelokov, Izmerenie Temperatury: Teoriya, Praktika, Ehksperiment: Spravochnoe Izdanie [Measurements of Temperature: Manual Issue] (Moscow: Teplotehnik: 2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. N. Gordov, Osnovy Pirometrii [Fundamentals of Pyrometry] (Moscow: Metallurgiya: 1971) (in Russian).",
+				"tr":  "A. N. Gordov, Osnovy Pirometrii [Fundamentals of Pyrometry] (Moscow: Metallurgiya: 1971) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "T. J. Quinn, Temperature (London: Academic: 1983).",
+				"tr":  "T. J. Quinn, Temperature (London: Academic: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Bramson, Infrakrasnoe Izluchenie Nagretykh Tel [Infrared Radiation of Heated Bodies] (Moscow: Nauka: 1964), vol. 1 (in Russian).",
+				"tr":  "M. A. Bramson, Infrakrasnoe Izluchenie Nagretykh Tel [Infrared Radiation of Heated Bodies] (Moscow: Nauka: 1964), vol. 1 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Porev, Televіzіyna Pіrometrіya [Imaging Pyrometry] (Kyiv: AVERS: 2002) (in Ukrainian).",
+				"tr":  "V. A. Porev, Televiziyna Pirometriya [Imaging Pyrometry] (Kyiv: AVERS: 2002) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Frunze, Fotonika, No. 4: 32 (2009) (in Russian).",
+				"tr":  "A. Frunze, Fotonika, No. 4: 32 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Ya. Svet, Opticheskie Metody Izmereniya Istinnykh Temperatur [Optical Methods of Measuring True Temperatures] (Moscow: Nauka: 1982) (in Russian).",
+				"tr":  "D. Ya. Svet, Opticheskie Metody Izmereniya Istinnykh Temperatur [Optical Methods of Measuring True Temperatures] (Moscow: Nauka: 1982) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S1079-4042(09)04201-5",
+				"or":  "Z. M. Zhang and G. Machin, Experimental Methods in the Physical Sciences. Radiometric Temperature Measurements. I. Fundamentals (Eds. Z. M. Zhang, В. K. Tsai, and G. Mashin) (Amsterdam: Elsevier: 2009), vol. 42, pp. 1–28.",
+				"tr":  "Z. M. Zhang and G. Machin, Experimental Methods in the Physical Sciences. Radiometric Temperature Measurements. I. Fundamentals (Eds. Z. M. Zhang, V. K. Tsai, and G. Mashin) (Amsterdam: Elsevier: 2009), vol. 42, pp. 1–28."
+			},
+			{
+				"doi": "10.1016/S1079-4042(09)04301-X",
+				"or":  "J. Hollandt, J. Hartmann, O. Struß, and R. Gärtner, Experimental Methods in the Physical Sciences. Radiometric Temperature Measurements. II. Applications (Eds. Z. M. Zhang, В. K. Tsai, and G. Mashin) (Amsterdam: Elsevier: 2010), vol. 43, pp. 1–56.",
+				"tr":  "J. Hollandt, J. Hartmann, O. Struß, and R. Gärtner, Experimental Methods in the Physical Sciences. Radiometric Temperature Measurements. II. Applications (Eds. Z. M. Zhang, V. K. Tsai, and G. Mashin) (Amsterdam: Elsevier: 2010), vol. 43, pp. 1–56."
+			},
+			{
+				"doi": "",
+				"or":  "A. N. Magunov, Spektral’naya Pirometriya, Pribory i Tekhnika Ehksperimenta [Spectral Pyrometry, Devices and Technique of Experiment], 4: 5 (2009) (in Russian).",
+				"tr":  "A. N. Magunov, Spektral'naya Pirometriya, Pribory i Tekhnika Ehksperimenta [Spectral Pyrometry, Devices and Technique of Experiment], 4: 5 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "I. P. Brao, Int. Research and Practical Conf. ‘Innovations in Science’ (October 29, 2014, Novosibirsk, Russia) (in Russian).",
+				"tr":  "I. P. Brao, Int. Research and Practical Conf. 'Innovations in Science' (October 29, 2014, Novosibirsk, Russia) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. N. Magunov, Zhurnal Tekhnicheskoy Fiziki, 80, No. 7: 78 (2010) (in Russian).",
+				"tr":  "A. N. Magunov, Zhurnal Tekhnicheskoy Fiziki, 80, No. 7: 78 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. O. Markіn, O. M. Markіna, and Yu. A. Agіns’kyy, Vіsnyk Natsіonalnogo Tekhnіchnogo Unіversitetu Ukrainy, 46: 64 (2013) (in Ukrainian).",
+				"tr":  "M. O. Markin, O. M. Markina, and Yu. A. Agins'kyy, Visnyk Natsionalnogo Tekhnichnogo Universitetu Ukrainy, 46: 64 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. E. Sheyndlina, Izluchatel’nye Svoystva Tverdykh Materialov: Spravochnik [Radiative Properties of Solid Materials: Manual] (Moscow: Energiya: 1974) (in Russian).",
+				"tr":  "A. E. Sheyndlina, Izluchatel'nye Svoystva Tverdykh Materialov: Spravochnik [Radiative Properties of Solid Materials: Manual] (Moscow: Energiya: 1974) (in Russian)."
+			},
+			{
+				"doi": "10.15587/1729-4061.2014.20787",
+				"or":  "M. O. Markіn, East European Journal of Enterprise Technologies, 1, No. 5: 12 (2014) (in Ukrainian).",
+				"tr":  "M. O. Markin, East European Journal of Enterprise Technologies, 1, No. 5: 12 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "B. E. Paton and V.F. Lapchinskiy, Svarka i Rodstvennye Tekhnologii v Kosmose [Welding and Related Technologies in Cosmos] (Kiev: Naukova Dumka: 1998) (in Russian).",
+				"tr":  "B. E. Paton and V.F. Lapchinskiy, Svarka i Rodstvennye Tekhnologii v Kosmose [Welding and Related Technologies in Cosmos] (Kiev: Naukova Dumka: 1998) (in Russian)."
+			}
+		]
+	}
+}

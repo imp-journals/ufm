@@ -1,0 +1,354 @@
+{
+	"_id":    "UFM.07.01.001",
+	"year":   2006,
+	"volume": 7,
+	"issue":  1,
+	"pages":  [1,39],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["08.11.2005"],
+	"PACS":   "8.35.Dv, 68.35.Fx, 68.43.Jk, 81.07.Wx, 81.20.Ev, 81.20.Wk, 81.65.Ps",
+	"title":   {
+		"ua": "Зерногранична дифузія та сеґреґація у спечених нанокристалічних матеріялах з ієрархічною структурою",
+		"en": "Grain-Boundary Diffusion and Segregation in the Sintered Nanocrystalline Materials with Hierarchical Structure",
+		"ru": "Зернограничная диффузия и сегрегация в спеченных нанокристаллических материалах с иерархической структурой"
+	},
+	"abstract": {
+		"ua": "Розглянуто закономірності дифузії атомів компонентів, а також атомів домішки високої сеґреґаційної здатности у нанокристалічному матеріялі з ієрархічною структурою. Подібна структура є характерною для матеріялів, виготовлених спіканням молотих порошків оксидів металів, в результаті якого нанорозмірні зерна групуються в аґльомерати мікрометрового розміру. У такого типу наноматеріялах існує два ріжномасштабних типи внутрішніх поверхонь з ріжними дифузійними характеристиками: межі між нанозернами та між їхніми аґльомератами, які є елементами ієрархічної структури матеріялу. Проаналізовано особливості дифузії межами зерен у даній ієрархічній структурі. Описано кінетичні режими дифузії і наведено рівнання, за якими на підставі експериментальних даних визначаються параметри дифузійного перенесення обома типами роздільчих поверхонь. Вивчено сеґреґаційну поведінку домішки, схильної до сильної сеґреґації, у нанокристалічному стопі $\\gamma$-Fe–Ni. Показано, що швидкість дифузійного масоперенесення вздовж нанокристалічних меж у матеріялі, одержаному в процесі спікання, практично подібна до такої у великозернистому полікристалі того ж складу. Межі між аґльомератами є нерівноважними поверхнями поділу, що характеризуються коефіцієнтами дифузії, які на порядки величин перевищують такі для нанокристалічних меж.",
+		"en": "Regularities of the diffusion of component atoms and atoms of highly segregated admixture in nanocrystalline material with a hierarchical structure are considered. Such a structure is characteristic for materials, fabricated from the milled powders of metal oxides by fritting, as a result of which the nanosized grains are grouped into the agglomerates of micrometre size. In such a type of the nanomaterials, there are two different-scale types of internal surfaces with different diffusion characteristics, namely, boundaries between nanograins and between their agglomerates, which are the elements of hierarchical material structure. The salient features of grain-boundary diffusion in such hierarchical structure are analysed. The kinetic regimes of diffusion are described, and presented equations allow determining the parameters of diffusion transfer over both types of separation surfaces on the basis of experimental data. The segregation behaviour of strongly-segregated admixture in the nanocrystalline $\\gamma$-Fe–Ni alloy is studied. As shown, the rate of diffusion mass transfer along nanocrystalline boundaries in the material obtained by the sintering is practically similar to such one in a coarse-grained polycrystal of the same composition. Boundaries between agglomerates are nonequilibrium separation surfaces characterized by diffusion coefficients, which are high by orders of magnitudes the same for nanocrystalline boundaries.",
+		"ru": "Рассмотрены закономерности диффузии атомов компонентов, а также атомов сильносегрегирующей примеси в нанокристаллическом материале с иерархической структурой. Подобная структура характерна для материалов, изготовленных спеканием молотых порошков оксидов металлов, в результате которого наноразмерные зерна оказываются сгруппированными в агломераты микрометрового размера. В такого типа наноматериалах существует два разномасштабных типа внутренних поверхностей с различными диффузионными характеристиками: границы между нанозернами и между их агломератами, являющиеся элементами иерархической структуры материала. Проанализированы особенности зернограничной диффузии в такой иерархической структуре. Описаны кинетические режимы диффузии и приведены уравнения, позволяющие на основании экспериментальных данных определить параметры диффузионного переноса по обоим типам поверхностей раздела. Изучено сегрегационное поведение сильносегрегирующей примеси в нанокристаллическом сплаве $\\gamma$-Fe–Ni. Показано, что скорость диффузионного массопереноса вдоль нанокристаллических границ в материале, полученном в процессе спекания, практически подобна таковой в крупнозернистом поликристалле того же состава. Границы между агломератами являются неравновесными поверхностями раздела, характеризуемыми коэффициентами диффузии, на порядки величин превосходящими таковые для нанокристаллических границ."
+	},
+	"keywords": {
+		"ua": "спікання, нанокристалічні матеріяли, ієрархічна структура, сеґреґація, зерногранична дифузія",
+		"en": "sintering, nanocrystalline materials, hierarchical structure, segregation, grain-boundary diffusion",
+		"ru": "спекание, нанокристаллические материалы, иерархическая структура, сегрегация, зернограничная диффузия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. В. Дівінський", "en": "S. V. Divinski", "ru": "С. В. Дивинский"},
+			"OID": [499]
+		},
+		{
+			"AID": {"ua": "С. М. Захаров", "en": "S. M. Zakharov", "ru": "С. М. Захаров"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. А. Шматко", "en": "O. A. Shmatko", "ru": "О. А. Шматко"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  1,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.08.01.021",
+				"cit": "L. V. Dekhtyaruk, I. Yu. Protsenko and A. M. Chornous, <a href=\"https://doi.org/10.15407/ufm.08.01.021\">Usp. Fiz. Met. <b>8</b>, 21 (2007)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 60,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Л. Н. Лариков, Металлофизика, 14, № 7: 3 (1992).",
+				"tr":  "L. N. Larikov, Metallofizika, 14, No. 7: 3 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Gleiter, Zs. Metallkde, 86, No. 2: 78 (1995).",
+				"tr":  "N. Gleiter, Zs. Metallkde, 86, No. 2: 78 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. Е. Гегузин, Ю. С. Кагановский, Л. Н. Парицкая, ФММ, 54, № 1: 137 (1982).",
+				"tr":  "Ya. E. Geguzin, Yu. S. Kaganovskiy, L. N. Paritskaya, FMM, 54, No. 1: 137 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Парицкая, Порошковая металлургия, № 6: 28 (1984).",
+				"tr":  "L. N. Paritskaya, Poroshkovaya metallurgiya, No. 6: 28 (1984)."
+			},
+			{
+				"doi": "10.1016/0038-1098(87)90989-6",
+				"or":  "J. Horváth, R. Birringer, and H.Gleiter, Solid State Communs, 62, No. 5: 319 (1987).",
+				"tr":  "J. Horváth, R. Birringer, and H.Gleiter, Solid State Communs, 62, No. 5: 319 (1987)."
+			},
+			{
+				"doi": "10.1063/1.354477",
+				"or":  "H. J. Höfler, R. S. Averback, H. Hahn, and H. Gleiter, J. Appl. Phys., 74, No. 6: 3832 (1993).",
+				"tr":  "H. J. Höfler, R. S. Averback, H. Hahn, and H. Gleiter, J. Appl. Phys., 74, No. 6: 3832 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Surholt and Chr. Herzig, Acta mater., 45, No. 9: 3817 (1997).",
+				"tr":  "T. Surholt and Chr. Herzig, Acta mater., 45, No. 9: 3817 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Divinski, M. Lohmann, and Chr. Herzig, Acta mater., 49, No. 2: 249 (2001).",
+				"tr":  "S. Divinski, M. Lohmann, and Chr. Herzig, Acta mater., 49, No. 2: 249 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Divinski, M. Lohmann, and Chr. Herzig, Acta mater., 52, No. 12: 3973 (2004).",
+				"tr":  "S. Divinski, M. Lohmann, and Chr. Herzig, Acta mater., 52, No. 12: 3973 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Парицкая, Порошковая металлургия, № 11: 44 (1990).",
+				"tr":  "L. N. Paritskaya, Poroshkovaya metallurgiya, No. 11: 44 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Gleiter, Physica status solidi, В172, No. 1: 41 (1992).",
+				"tr":  "H. Gleiter, Physica status solidi, V172, No. 1: 41 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "С. М. Клоцман, ФММ, 75, № 4: 5 (1993).",
+				"tr":  "S. M. Klotsman, FMM, 75, No. 4: 5 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Лариков, Металлофиз. новейшие технол., 17, № 1: 3 (1995).",
+				"tr":  "L. N. Larikov, Metallofiz. noveishie tekhnol., 17, No. 1: 3 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "J. C. Fisher, J. Appl. Phys., 22, No. 1: 74 (1951).",
+				"tr":  "J. C. Fisher, J. Appl. Phys., 22, No. 1: 74 (1951)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Benoist and G. Martin, Thin Solid Films, 25, No. 1: 181(1975).",
+				"tr":  "P. Benoist and G. Martin, Thin Solid Films, 25, No. 1: 181(1975)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Turnbull and R. E. Hoffman, Acta met., 2, No. 3: 419 (1954).",
+				"tr":  "D. Turnbull and R. E. Hoffman, Acta met., 2, No. 3: 419 (1954)."
+			},
+			{
+				"doi": "",
+				"or":  "R. E. Hoffman, Acta met., 4, No. 1: 97 (1956).",
+				"tr":  "R. E. Hoffman, Acta met., 4, No. 1: 97 (1956)."
+			},
+			{
+				"doi": "",
+				"or":  "L. G. Harrison, Trans. Faraday Soc., A57, No. 8: 1191 (1961).",
+				"tr":  "L. G. Harrison, Trans. Faraday Soc., A57, No. 8: 1191 (1961)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. С. Бокштейн, И. А. Магидсон, И. А. Светлов, ФММ, 6, № 6: 1040 (1958).",
+				"tr":  "B. S. Bokshteyn, I. A. Magidson, I. A. Svetlov, FMM, 6, No. 6: 1040 (1958)."
+			},
+			{
+				"doi": "",
+				"or":  "H. C. Levine and C. J. McCallum, J. Appl. Phys., 31, No. 1: 595 (1960).",
+				"tr":  "H. C. Levine and C. J. McCallum, J. Appl. Phys., 31, No. 1: 595 (1960)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Suzuoka, Trans. Jap. Inst. Metals, 2, No. 1: 25 (1961).",
+				"tr":  "T. Suzuoka, Trans. Jap. Inst. Metals, 2, No. 1: 25 (1961)."
+			},
+			{
+				"doi": "",
+				"or":  "E. W. Hart, Acta met., 5, No. 10: 597 (1957).",
+				"tr":  "E. W. Hart, Acta met., 5, No. 10: 597 (1957)."
+			},
+			{
+				"doi": "",
+				"or":  "R. T. P. Whipple, Phil. Mag., 45, No. 371: 1225 (1954).",
+				"tr":  "R. T. P. Whipple, Phil. Mag., 45, No. 371: 1225 (1954)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. М. Мишин, Поверхность, № 6: 22 (1983).",
+				"tr":  "Yu. M. Mishin, Poverkhnost', No. 6: 22 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. М. Мишин, Н. М. Разумовский, Поверхность, № 7: 5 (1983).",
+				"tr":  "Yu. M. Mishin, N. M. Razumovskiy, Poverkhnost', No. 7: 5 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "Зернограничная диффузия и свойства наноструктурных материалов (Ред. Ю. Р. Колобов и Р. З. Валиев) (Новосибирск: Наука: 2001).",
+				"tr":  "Zernogranichnaya diffuziya i svoystva nanostrukturnykh materialov (Red. Yu. R. Kolobov i R. Z. Valiev) (Novosibirsk: Nauka: 2001)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Herth, T. Michel, H. Tanimoto, M. Eggersmann, R. Dittmar, H.-E. Schaefer, W. Frank, and R.Würschum, Defects and Diffusion Forum, 194–199: 1199 (2001).",
+				"tr":  "S. Herth, T. Michel, H. Tanimoto, M. Eggersmann, R. Dittmar, H.-E. Schaefer, W. Frank, and R.Würschum, Defects and Diffusion Forum, 194–199: 1199 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Schumacher, R. Birringer, R. Strauss, and H. Gleiter, Acta met., 37, No. 9: 2485 (1989).",
+				"tr":  "S. Schumacher, R. Birringer, R. Strauss, and H. Gleiter, Acta met., 37, No. 9: 2485 (1989)."
+			},
+			{
+				"doi": "10.1016/0036-9748(87)90423-6",
+				"or":  "T. Mütschele and R. Kirchheim, Scr. Met., 21, No. 2: 135 (1987).",
+				"tr":  "T. Mütschele and R. Kirchheim, Scr. Met., 21, No. 2: 135 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Kirchheim, T. Mütschele, W. Kieninger, H. Gleiter, R. Birringer, and T. D. Koblé, Mater. Sci. and Eng., 99: 457 (1988).",
+				"tr":  "R. Kirchheim, T. Mütschele, W. Kieninger, H. Gleiter, R. Birringer, and T. D. Koblé, Mater. Sci. and Eng., 99: 457 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "H. J. Höfler, H. Hahn, and R. S. Averback, Defect and Diffusion Forum, 75: 195 (1991).",
+				"tr":  "H. J. Höfler, H. Hahn, and R. S. Averback, Defect and Diffusion Forum, 75: 195 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. R. Kolobov, G. P. Grabovetskaya, M. B. Ivanov, A. P. Zhilyaev, and R. Z. Valiev, Scr. Mater., 44, No. 6: 873 (2001).",
+				"tr":  "Yu. R. Kolobov, G. P. Grabovetskaya, M. B. Ivanov, A. P. Zhilyaev, and R. Z. Valiev, Scr. Mater., 44, No. 6: 873 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "S. V. Divinski and L. N. Larikov, Defects and Diffusion Forum, 143–147: 1469 (1997).",
+				"tr":  "S. V. Divinski and L. N. Larikov, Defects and Diffusion Forum, 143–147: 1469 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "S. V. Divinski and L. N. Larikov, Met. Phys. Adv. Tech., 15, No. 6: 631 (1995).",
+				"tr":  "S. V. Divinski and L. N. Larikov, Met. Phys. Adv. Tech., 15, No. 6: 631 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "I. Kaur, Y. Mishin, and W. Gust, Fundamentals of Grain and Interphase Boundary Diffusion (Chichester: John Wiley: 1995).",
+				"tr":  "I. Kaur, Y. Mishin, and W. Gust, Fundamentals of Grain and Interphase Boundary Diffusion (Chichester: John Wiley: 1995)."
+			},
+			{
+				"doi": "",
+				"or":  "H. J. Höfler, R. S. Averback, and H. Gleiter, Phil. Mag. Letts., 68, No. 2: 99 (1993).",
+				"tr":  "H. J. Höfler, R. S. Averback, and H. Gleiter, Phil. Mag. Letts., 68, No. 2: 99 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "H. J. Höfler (Ph. D. Thesis) (Saarbrücken: Uniwersität des Saarlandes: 1991).",
+				"tr":  "H. J. Höfler (Ph. D. Thesis) (Saarbrücken: Uniwersität des Saarlandes: 1991)."
+			},
+			{
+				"doi": "",
+				"or":  "H. E. Schaefer, R. Würschum, R. Birringer et al., Physical Research (Ed. K. Henning) (Berlin: Akademie-Verlag: 1988)",
+				"tr":  "H. E. Schaefer, R. Würschum, R. Birringer et al., Physical Research (Ed. K. Henning) (Berlin: Akademie-Verlag: 1988)"
+			},
+			{
+				"doi": "",
+				"or":  "J. Horváth, Defects and Diffusion Forum, 66–69, Pt I: 207 (1989).",
+				"tr":  "J. Horváth, Defects and Diffusion Forum, 66–69, Pt I: 207 (1989)."
+			},
+			{
+				"doi": "10.1016/0375-9601(84)90300-1",
+				"or":  "R. Birringer, H. Gleiter, H.-R. Klein, and P Marquardt, Phys. Lett., А102, No. 8: 365 (1984).",
+				"tr":  "R. Birringer, H. Gleiter, H.-R. Klein, and P Marquardt, Phys. Lett., A102, No. 8: 365 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Knorr, J. G. Nam, and J. S. Lee, Metall. Mater. Trans., А31, No. 2: 503 (2000).",
+				"tr":  "P. Knorr, J. G. Nam, and J. S. Lee, Metall. Mater. Trans., A31, No. 2: 503 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "S. V. Divinski, F. Hisker, Y.-S. Kang, J.-S. Lee, and Chr. Herzig, Z. Metallkd., 93, No. 4: 256 (2002).",
+				"tr":  "S. V. Divinski, F. Hisker, Y.-S. Kang, J.-S. Lee, and Chr. Herzig, Z. Metallkd., 93, No. 4: 256 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "S. V. Divinski, F. Hisker, Y.-S. Kang, J.-S. Lee, and Chr. Herzig, Interface Science, 11, No. 1: 67 (2003).",
+				"tr":  "S. V. Divinski, F. Hisker, Y.-S. Kang, J.-S. Lee, and Chr. Herzig, Interface Science, 11, No. 1: 67 (2003)."
+			},
+			{
+				"doi": "10.1080/01418618108239506",
+				"or":  "A. Atkinson and R. I. Taylor, Phil. Mag., А43, No. 4: 979 (1981).",
+				"tr":  "A. Atkinson and R. I. Taylor, Phil. Mag., A43, No. 4: 979 (1981)."
+			},
+			{
+				"doi": "10.1063/1.352328",
+				"or":  "J. Sommer and Chr. Herzig, J. Appl. Phys., 72, No. 7: 2758 (1992).",
+				"tr":  "J. Sommer and Chr. Herzig, J. Appl. Phys., 72, No. 7: 2758 (1992)."
+			},
+			{
+				"doi": "10.1080/09500839208207526",
+				"or":  "P. Gas, D. L. Beke, and J. Bernardini, Phil. Mag. Lett., 65, No. 3: 133 (1992).",
+				"tr":  "P. Gas, D. L. Beke, and J. Bernardini, Phil. Mag. Lett., 65, No. 3: 133 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "Y. Mishin, Chr. Herzig, J. Bernardini, and W. Gust, Int. Mater. Reviews, 42, No. 4: 155 (1997).",
+				"tr":  "Y. Mishin, Chr. Herzig, J. Bernardini, and W. Gust, Int. Mater. Reviews, 42, No. 4: 155 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "Chr. Herzig and S. V. Divinski, Materials Transactions, 44: 14 (2003).",
+				"tr":  "Chr. Herzig and S. V. Divinski, Materials Transactions, 44: 14 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "S. V. Divinski, F. Hisker, Y.-S. Kang, J.-S. Lee, and Chr. Herzig, Acta Mater., 52, No. 3: 631 (2004).",
+				"tr":  "S. V. Divinski, F. Hisker, Y.-S. Kang, J.-S. Lee, and Chr. Herzig, Acta Mater., 52, No. 3: 631 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "I. L. Balandin, B. S. Bokstein, V. K. Egorov, and V. Kurkin, Nanostr. Mater., 8, No. 1: 37 (1997).",
+				"tr":  "I. L. Balandin, B. S. Bokstein, V. K. Egorov, and V. Kurkin, Nanostr. Mater., 8, No. 1: 37 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "S. V. Divinski, F. Hisker, Y.-S. Kang, J.-S. Lee, and Chr. Herzig, Z. Metallkd., 93, No. 4: 265 (2002).",
+				"tr":  "S. V. Divinski, F. Hisker, Y.-S. Kang, J.-S. Lee, and Chr. Herzig, Z. Metallkd., 93, No. 4: 265 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Suzuoka, J. Phys. Soc. Jap., 19, No. 6: 839 (1964).",
+				"tr":  "T. Suzuoka, J. Phys. Soc. Jap., 19, No. 6: 839 (1964)."
+			},
+			{
+				"doi": "",
+				"or":  "S. V. Divinski, Defect Diffusion Forum, 156: 35 (1998).",
+				"tr":  "S. V. Divinski, Defect Diffusion Forum, 156: 35 (1998)."
+			},
+			{
+				"doi": "10.1016/S0022-3697(02)00421-3",
+				"or":  "I. V. Belova and G. E. Murch, J. Phys. Chem. Solids, 64, No. 5: 873 (2003).",
+				"tr":  "I. V. Belova and G. E. Murch, J. Phys. Chem. Solids, 64, No. 5: 873 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "S. V. Divinski, Y.-S. Kang, J.-S. Lee, and Chr. Herzig, Z. Metallkd., 94, No. 9: 949 (2003).",
+				"tr":  "S. V. Divinski, Y.-S. Kang, J.-S. Lee, and Chr. Herzig, Z. Metallkd., 94, No. 9: 949 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Y.-S. Kang, J.-S. Lee, S. V. Divinski, and Chr. Herzig, Z. Metallkd., 95, No. 2: 76 (2004).",
+				"tr":  "Y.-S. Kang, J.-S. Lee, S. V. Divinski, and Chr. Herzig, Z. Metallkd., 95, No. 2: 76 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Egersmann, S. Herth, O. Gutfleisch, and R. Würschum, Interface Sci., 9: 337 (2001).",
+				"tr":  "M. Egersmann, S. Herth, O. Gutfleisch, and R. Würschum, Interface Sci., 9: 337 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Würschum, S. Herth, and U. Brossmann, Advanced Engineering Materials, 5, No. 5: 365 (2003).",
+				"tr":  "R. Würschum, S. Herth, and U. Brossmann, Advanced Engineering Materials, 5, No. 5: 365 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.79.4918",
+				"or":  "R. Würschum, P. Faber, R. Dittmar, P. Scharwaechter, W. Frank, and H.-E. Schaefer, Phys. Rev. Lett., 79, No. 24: 4918 (1997).",
+				"tr":  "R. Würschum, P. Faber, R. Dittmar, P. Scharwaechter, W. Frank, and H.-E. Schaefer, Phys. Rev. Lett., 79, No. 24: 4918 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "Y. Minamoto, S. Saji, K. Hirao, K. Ogawa, H. Araki, Y. Miyamoto, and T. Yamate, Mater. Trans. Jap. Inst. Metals (JIM), 37: 130 (1996).",
+				"tr":  "Y. Minamoto, S. Saji, K. Hirao, K. Ogawa, H. Araki, Y. Miyamoto, and T. Yamate, Mater. Trans. Jap. Inst. Metals (JIM), 37: 130 (1996)."
+			}
+		]
+	}
+}

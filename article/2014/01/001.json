@@ -1,0 +1,219 @@
+{
+	"_id":    "UFM.15.01.001",
+	"year":   2014,
+	"volume": 15,
+	"issue":  1,
+	"pages":  [1,33],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["18.11.2013"],
+	"PACS":   "61.72.Ff, 61.72.Hh, 61.72.Lk, 62.20.Qp, 81.40.Ef, 81.40.Np, 81.40.Pq",
+	"title":   {
+		"ua": "Формування структури, фазового складу і дефектної субструктури в об’ємно- та диференційованозагартованих рейках",
+		"en": "Formation of Structure, Phase Composition and Faulty Substructure in the Bulk- and Differentially-Hard-Tempered Rails",
+		"ru": "Формирование структуры, фазового состава и дефектной субструктуры в объёмно- и дифференцированнозакалённых рельсах"
+	},
+	"abstract": {
+		"ua": "Методами просвітлювальної електронної дифракційної мікроскопії виконано пошарову аналізу рейок категорій: низькотемпературної надійности, підвищеної зносостійкости та контактно-втомної міцности, вищої категорії якости після об’ємного гартування та відпуску і диференційовано-загартованих за різними режимами. Встановлено кількісні параметри дислокаційної субструктури, внутрішніх полів напруг і структурно-фазових станів, що утворилися за дифузійним і зсувним механізмами $\\gamma-\\alpha$-перетворення. Виконані оцінки механізмів зміцнення рейок якісно узгоджуються з результатами міряння твердости. Встановлено, що густина концентраторів напруг сягає максимального значення біля поверхні катання. Для об’ємнозагартованих рейок вона вища, аніж для диференційованозагартованих. Найбільш небезпечними концентраторами напруг, які переважно формуються в рейках, підданих об’ємному загартуванню, є роздільчі межі «глобулярні частинки цементиту–матриця».",
+		"en": "The layer-by-layer analysis of the rails classes such as the low-temperature reliability, increased wear resistance, and contact-fatigue strength rails of the superior category of quality after the bulk hardening and tempering and differentially hardening in different regimes is carried out by methods of transmission electron diffraction microscopy of thin foils in the layers located on the roller surface and at the distance of 2 and 10 mm from it on the central axis and on the round corner. The quantitative parameters of dislocation substructure, internal stress fields, structural and phase states formed by diffusion and shear mechanisms of $\\gamma-\\alpha$-transformation are established. The polycrystalline structure is formed in the surface layer of 10 mm thick, independently of the regime of hardening and rail category. The polycrystalline structure is presented by the pearlite grains of lamellar morphology, the ferrite grains, in the bulk of which one can observe the cementite particles of different shapes, and the grains of structurally free ferrite. The relative content of a given type of structure, depending on the hardening regime, rail category, and the depth of location of the layers, are studied. The main structural type of rail steel is pearlite of lamellar morphology with relative content changing in the range from 34% to 87%. Relative fraction of grains of ferrite–carbide mixture is slightly smaller (from 12% to 65% of steel structure). Relative volume fraction of grains of structurally free ferrite is small and is changed in the range from 1% to 5% of steel structure. Dispersion of pearlite structure is estimated, according to the value of interplate distance. As shown, the value of interplate distance is changed in the range from 105 nm to 200 nm. It depends on the regime of hardening, rail category, and distance to roller surface. The evaluation of rail strengthening mechanisms qualitatively being agreed with the hardness measurements is made. As established, the stress concentrator density reaches the maximum value at the tread contact surface. It is higher for the bulk-hardened rails than for differentially-hardened ones. As established, the ferrite component of steel structure is faulty. The dislocation substructures are revealed in the form of chaotically distributed dislocations, nets, cells, and fragments. In the ferrite of pearlite grains, only the first two types of dislocation substructure (namely, substructure of dislocation chaos and netlike dislocation substructure) are observed. The cellular and fragmentary dislocation substructures are revealed only in grains of structurally free ferrite and grains of ferrite–carbide mixture. Scalar dislocation density in ferrite component of rail structure under study is changed in the wide range from $2\\cdot10^{10}$ cm$^2$ to $8\\cdot10^{10}$ cm$^2$. By analysing the bend extinction contours, the sources of the internal-stress field concentrators are revealed. The most dangerous stress concentrators, which are predominantly formed in the rails subjected to the bulk hardening, are the ‘globular cementite particles–matrix’ interfaces.",
+		"ru": "Методами просвечивающей электронной дифракционной микроскопии выполнен послойный анализ рельсов категорий: низкотемпературной надёжности, повышенной износостойкости и контактно-усталостной прочности, высшей категории качества после объёмной закалки и отпуска и дифференцированнозакалённых по различным режимам. Установлены количественные параметры дислокационной субструктуры, внутренних полей напряжений и структурно-фазовых состояний, образовавшихся по диффузионному и сдвиговому механизмам $\\gamma-\\alpha$-превращения. Выполнены оценки механизмов упрочнения рельсов, качественно согласующиеся с результатами измерения твёрдости. Установлено, что плотность концентраторов напряжений достигает максимального значения у поверхности катания. Для объёмнозакалённых рельсов она выше, чем для дифференцированнозакалённых. Наиболее опасными концентраторами напряжений, которые преимущественно формируются в рельсах, подвергнутых объёмной закалке, являются границы раздела «глобулярные частицы цементита–матрица»."
+	},
+	"keywords": {
+		"ua": "-",
+		"en": "rails, quenching, phase composition, dislocation substructure, internal stress field",
+		"ru": "рельсы, закалка, фазовый состав, дислокационная субструктура, внутренние поля напряжений"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Є. Громов", "en": "V. E. Gromov", "ru": "В. Е. Громов"},
+			"OID": [407]
+		},
+		{
+			"AID": {"ua": "К. В. Волков", "en": "K. V. Volkov", "ru": "К. В. Волков"},
+			"OID": [420]
+		},
+		{
+			"AID": {"ua": "Ю. Ф. Іванов", "en": "Yu. F. Ivanov", "ru": "Ю. Ф. Иванов"},
+			"OID": [408, 409]
+		},
+		{
+			"AID": {"ua": "К. В. Морозов", "en": "K. V. Morozov", "ru": "К. В. Морозов"},
+			"OID": [407]
+		},
+		{
+			"AID": {"ua": "К. В. Алсараєва", "en": "K. V. Alsarayeva", "ru": "К. В. Алсараева"},
+			"OID": [407]
+		},
+		{
+			"AID": {"ua": "С. В. Коновалов", "en": "S. V. Konovalov", "ru": "С. В. Коновалов"},
+			"OID": [407]
+		}
+	],
+	"cited_by": {
+		"count":  3,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.18.02.111",
+				"cit": "V. E. Kormyshev, V. E. Gromov, Yu. F. Ivanov and S. V. Konovalov, <a href=\"https://doi.org/10.15407/ufm.18.02.111\">Usp. Fiz. Met. <b>18</b>, 111 (2017)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.16.02.119",
+				"cit": "D. A. Romanov, V. E. Gromov, Е. А. Budovskikh and Yu. F. Ivanov, <a href=\"https://doi.org/10.15407/ufm.16.02.119\">Usp. Fiz. Met. <b>16</b>, 119 (2015)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.18.02.155",
+				"cit": "V. V. Kurylyak and G. I. Khimicheva, <a href=\"https://doi.org/10.15407/ufm.18.02.155\">Usp. Fiz. Met. <b>18</b>, 155 (2017)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 29,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. Е. Громов, В. А. Бердышев, Э. В. Козлов, В. И. Петров, В. Д. Сарычев, В. В. Дорофеев, Ю. Ф. Иванов, Л. Н. Игнатенко, Н. А. Попова, В. В. Целлермаер, Градиентные структурно-фазовые состояния в рельсовой стали (Новокузнецк: Недра коммюникейшинс ЛТД: 2000).",
+				"tr":  "V. E. Gromov, V. A. Berdyshev, Eh. V. Kozlov, V. I. Petrov, V. D. Sarychev, V. V. Dorofeev, Yu. F. Ivanov, L. N. Ignatenko, N. A. Popova, and V. V. Tsellermaer, Gradientnye Strukturno-Fazovyye Sostoianiya v Rel'sovoy Stali [Gradient Structure–Phase State in the Rail Steel] (Novokuznetsk: Nedra Communications LTD: 2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Актуальные проблемы производства рельсов (Ред. В. Е. Громов) (Новокузнецк: Изд-во СибГИУ: 2001).",
+				"tr":  "Aktual'nyye Problemy Proizvodstva Rel'sov [Actual Problems of Production of Rails] (Ed. V. E. Gromov) (Novokuznetsk: Izd-vo SibGIU: 2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Козырев, В. В. Павлов, Л. А. Годик, В. П. Дементьев, Железнодорожные рельсы из электростали (Новокузнецк: Изд-во СибГИУ: 2006).",
+				"tr":  "N. A. Kozyrev, V. V. Pavlov, L. A. Godik, and V. P. Dementyev, Zheleznodorozhnyye Rel'sy iz Ehlektrostali [Electric Steel Rails] (Novokuznetsk: Izd-vo SibGIU: 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Ворожищев, Состав и технология производства рельсов повышенной работоспособности (Новокузнецк: Новокузнецкий полиграфический комбинат: 2008).",
+				"tr":  "V. I. Vorozhishchev, Sostav i Tekhnologiya Proizvodstva Rel'sov Povyshennoy Rabotosposobnosti [Composition and Production Technology of Rails with High Operability] (Novokuznetsk: Novokuznetskiy Poligraficheskiy Kombinat: 2008) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.wear.2010.10.048",
+				"or":  "R. O. Olivares, C. I. Garcia, A. DeArdo, S. Kalay, and F. C. Robles Hernandez, Wear, 271, Iss. 1–2: 364 (2011).",
+				"tr":  "R. O. Olivares, C. I. Garcia, A. DeArdo, S. Kalay, and F. C. Robles Hernandez, Wear, 271, Iss. 1–2: 364 (2011)"
+			},
+			{
+				"doi": "10.1016/S1006-706X(13)60053-9",
+				"or":  "Hao Kang, Di Wu, and Xian-ming Zhao, J. Iron Steel Res. Int., 20, No. 2: 33 (2013).",
+				"tr":  "Hao Kang, Di Wu, and Xian-ming Zhao, J. Iron Steel Res. Int., 20, No. 2: 33 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Громов, К. В. Волков, Ю. Ф. Иванов, А. Б. Юрьев, С. В. Коновалов, К. В. Морозов, Проблемы черной металлургии и материаловедения, № 4: 61 (2013).",
+				"tr":  "V. E. Gromov, K. V. Volkov, Yu. F. Ivanov, A. B. Yurev, S. V. Konovalov, and K. V. Morozov, Problemy Chyornoy Metallurgii i Materialovedeniya, No. 4: 61 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Волков, В. Е. Громов, Ю. Ф. Иванов, В. А. Гришунин, Повышение усталостной выносливости рельсовой стали электронно-пучковой обработкой (Новокузнецк: Интер-Кузбасс: 2013).",
+				"tr":  "K. V. Volkov, V. E. Gromov, Yu. F. Ivanov, and V. A. Grishunin, Povyshenie Ustalostnoy Vynoslivosti Rel'sovoy Stali Ehlektronno-Puchkovoy Obrabotkoy [Increase in Fatigue Endurance of Rail Steel by Electron-Beam Treatment] (Novokuznetsk: Inter-Kuzbass: 2013) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.14.01.067",
+				"or":  "В. Е. Громов, Ю. Ф. Иванов, В. А. Гришунин, С. В. Райков, С. В. Коновалов, Успехи физ. мет., 14, № 1: 67 (2013).",
+				"tr":  "V. E. Gromov, Yu. F. Ivanov, V. A. Grishunin, S. V. Raikov, and S. V. Konovalov, Usp. Fiz. Met., 14, No. 1: 67 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Шур, Повреждение рельсов (Москва: Интекст: 2012).",
+				"tr":  "E. A. Shur, Povrezhdeniye Rel'sov [Damage of Rails] (Moscow: Intekst: 2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. М. Утевский, Дифракционная электронная микроскопия в металловедении (Москва: Металлургия: 1973).",
+				"tr":  "L. M. Utevskiy, Difraktsionnaya Ehlektronnaya Mikroskopiya v Metallovedenii [Diffraction Electron Microscopy in Physical Metallurgy] (Moscow: Metallurgiya: 1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Эндрюс, Д. Дайсон, С. Кноун, Электронограммы и их интерпретация (Москва: Мир: 1971).",
+				"tr":  "K. W. Andrews, D. J. Dyson, S. R. Keown, Ehlektronogrammy i Ikh Interpretatsiya [Interpretation of Electron Diffraction Paterrns] (Moscow: Mir: 1971) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Хирш, А. Хови, Р. Николсон, Д. Пешли, М. Уелан, Электронная микроскопия тонких кристаллов (Москва: Мир: 1968).",
+				"tr":  "P. Khirsh, A. Khovi, R. Nikolson, D. Peshli, and M. Uelan, Elektronnaya Mikroskopiya Tonkikh Kristallov [Electron Microscopy of Thin Crystals] (Moscow: Mir: 1968) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, Л. М. Утевский, Р. И. Энтин, Превращения в железе и стали (Москва: Наука: 1977).",
+				"tr":  "V. G. Kurdyumov, L. M. Utevskiy, and R. I. Entin, Prevrashcheniya v Zheleze i Stali [Transformation in Iron and Steel] (Moscow: Nauka: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Гуляев, Металловедение (Москва: Металлургия: 1978).",
+				"tr":  "A. P. Gulyaev, Metallovedeniye [Physical Metallurgy] (Moscow: Metallurgiya: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Тушинский, А. А. Батаев, Л. Б. Тихомирова, Структура перлита и конструктивная прочность стали (Новосибирск: ВО Наука: 1993).",
+				"tr":  "L. I. Tushinskiy, A. A. Batayev, and L. B. Tikhomirova, Struktura Perlita i Konstruktivnaya Prochnost' Stali [Pearlite Structure and Structural Strength of Steel] (Novosibirsk: VO Nauka: 1993) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, Е. В. Корнет, Э. В. Козлов, В. Е. Громов, Закаленная конструкционная сталь: структура и механизмы упрочнения (Новокузнецк: Изд-во СибГИУ: 2010).",
+				"tr":  "Yu. F. Ivanov, E. V. Kornet, Eh. V. Kozlov, and V. E. Gromov, Zakalyonnaya Konstruktsionnaya Stal': Struktura i Mekhanizmy Uprochneniya [Hardened Structural Steel: Structure and Strengthening Mechanisms] (Novokuznetsk: Izd-vo SibGIU: 2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Громов, Э. В. Козлов, В. И. Базайкин, Ю. Ф. Иванов, В. Я. Целлермаер, Л. Н. Игнатенко, Н. А. Попова, В. Я. Чинокалов, Л. М. Полторацкий, Д. М. Закиров, Физика и механика волочения и объемной штамповки (Москва: Недра: 1997).",
+				"tr":  "V. E. Gromov, Eh. V. Kozlov, V. I. Bazaikin, Yu. F. Ivanov, V. Ya. Tsellermaer, Yu. F. Ivanov, L. N. Ignatenko, N. V. Popova, V. Ya. Chinokalov, L. M. Poltoratskii, and D. M. Zakirov, Fizika i Mekhanika Volocheniya i Ob'yomnoy Shtampovki [Physics and Mechanics of Drawing and Die Forging] (Moscow: Nedra: 1997) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Гриднев, В. Г. Гаврилюк, Ю. Я. Мешков, Прочность и пластичность холоднодеформированной стали (Киев: Наукова думка: 1974).",
+				"tr":  "V. N. Gridnev, V. G. Gavriljuk, and Yu. Ya. Meshkov, Prochnost' i Plastichnost' Holodnodeformirovannoy Stali [Strength and Plasticity of the Cold-Deformed Steel] (Kiev: Naukova Dumka: 1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. И. Гольдштейн, Б. М. Фарбер, Дисперсионное упрочнение стали (Москва: Металлургия: 1979).",
+				"tr":  "M. I. Goldshtein and B. M. Farber, Dispersionnoye Uprochneniye Stali [Dispersion Strengthening of Steel] (Moscow: Metallurgiya: 1979) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Панин, В. А. Лихачев, Ю. В. Гриняев, Структурные уровни деформации твердых тел (Новосибирск: Наука: 1985).",
+				"tr":  "V. E. Panin, V. A. Likhachev, and Yu. V. Grinyaev, Strukturnyye Urovni Deformatsii Tvyordykh Tel [Structural Levels of Deformation of Solids] (Novosibirsk: Nauka: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Рыбин, Большие пластические деформации и разрушение металлов (Москва: Металлургия: 1986).",
+				"tr":  "V. V. Rybin, Bol'shiye Plasticheskie Deformatsii i Razrusheniye Metallov [Large Plastic Deformation and Fracture of Metals] (Moscow: Metallurgiya: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Эшелби, Континуальная теория дислокаций (Москва: Изд. иностр. лит.: 1963).",
+				"tr":  "J. Eshelby, Kontinualnaya Teoriya Dislokatsiy [Continuum Theory of Dislocations] (Moscow: IIL: 1963) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Финкель, Физические основы торможения разрушения (Москва: Металлургия: 1977).",
+				"tr":  "V. M. Finkel, Fizicheskie Osnovy Tormozheniya Razrusheniya [Physical Basis of Inhibition of Destruction] (Moscow: Metallurgiya: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Конева, Э. В. Козлов, Известия ВУЗов. Физика, № 8 (1982).",
+				"tr":  "N. A. Koneva and Eh. V.Kozlov, Izvestiya VUZov. Fizika, No. 8 (1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Владимиров, Физическая теория прочности и пластичности. Точечные дефекты. Упрочнение и возврат (Ленинград: ЛПИ: 1975).",
+				"tr":  "V. I. Vladimirov, Fizicheskaya Teoriya Prochnosti i Plastichnosti. Tochechnyye Defekty. Uprochnenie i Vozvrat [Physical Theory of Strength and Plasticity. Point Defects. Strengthening and Recovery] (Leningrad: LPI: 1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Штремель, Прочность сплавов. Ч. I. Дефекты решетки (Москва: МИСиС: 1999).",
+				"tr":  "M. A. Shtremel', Prochnost' Splavov. Ch. I. Defekty Reshyotki [Strength of Alloys. Pt. I. Lattice Defects] (Moscow: MISiS: 1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Конева, Э. В. Козлов, Л. И. Тришкина, Д. В. Лычагин, Сб. трудов международной конференции «Новые методы в физике и механике деформируемого твердого тела» (Томск: ТГУ: 1990), с. 83.",
+				"tr":  "N. A. Koneva, Eh. V. Kozlov, L. I. Trishkina, and D. V. Lychagin, Sb. Trudov Mezhdunarodnoy Konferentsii 'Novyye Metody v Fizike i Mekhanike Deformiruyemogo Tvyordogo Tela' [Proceedings of International Conference 'New Methods in Physics and Mechanics of Deformed Solid] (Tomsk: TGU: 1990), p. 83 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Иванов, В. В. Целлермаер, Л. Н. Игнатенко, Н. А. Попова, В. Е. Громов, Э. В. Козлов, Материаловедение, № 1: 40 (2001).",
+				"tr":  "Yu. F. Ivanov, V. V. Tsellermaer, L. N. Ignatenko, N. A. Popova, V. E. Gromov, and Eh. V. Kozlov, Materialovedenie, No. 1: 40 (2001) (in Russian)."
+			}
+		]
+	}
+}

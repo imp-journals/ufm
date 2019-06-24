@@ -1,0 +1,362 @@
+{
+	"_id":    "UFM.05.03.345",
+	"year":   2004,
+	"volume": 5,
+	"issue":  3,
+	"pages":  [345,399],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["08.09.2004"],
+	"PACS":   "68.65.-k, 81.20.Ev, 81.20.Wk, 81.40.Ef, 81.65.Ps, 81.70.Cv",
+	"title":   {
+		"ua": "Нанокристалізація металевих поверхонь методами інтенсивної пластичної деформації (огляд)",
+		"en": "Nanocrystallization of Metallic Surfaces with Using the Methods of Intense Plastic Deformation (Review)",
+		"ru": "Нанокристаллизация металлических поверхностей методами интенсивной пластической деформации (обзор)"
+	},
+	"abstract": {
+		"ua": "Мета цього огляду полягає в розгляді основних напрямків модифікації структури і властивостей металевих поверхонь шляхом інтенсивної пластичної деформації, що призводить до формування наноструктурного стану в поверхневих шарах. Були розглянуті результати досліджень зміни структури і властивостей поверхні як чистих металів, так і різних сплавів після таких способів інтенсивної механічної обробки, як вібраційний наклеп кульками, піскоструминна обробка, обробка металевою щіткою, багаторазове плющення, тертя, ультразвукова ударна обробка. Особлива увага в огляді надається також механізмам формування наноструктурного стану по глибині модифікованого поверхневого шару в результаті таких обробок.",
+		"en": "The paper reviews the principal paths of modification of the structure and properties of the metallic surfaces by the intense plastic deformation leading to the formation of nanostructure states in the near-surface region. The outcomes of investigations of modified structure and properties of surface layers are considered for both pure metals and different alloys after such ways of intense machining treatment as a vibrational cold-work hardening by globules, sandblasting, processing by the metal hog, repeated rolling, friction, ultrasonic impact processing. The special attention is also given to mechanisms of fabrication of nanoscale structures in depth of modified surface layer as a result of such processings.",
+		"ru": "Цель настоящего обзора заключается в рассмотрении основных направлений модификации структуры и свойств металлических поверхностей путем интенсивной пластической деформации, приводящей к формированию наноструктурного состояния в поверхностной области. Рассмотрены результаты исследований изменения структуры и свойств поверхностных слоев, как чистых металлов, так и различных сплавов после таких способов интенсивной механической обработки, как вибрационный наклеп шариками, пескоструйная обработка, обработка металлической щеткой, многократная прокатка, трение, ультразвуковая ударная обработка. Особое внимание в обзоре уделяется также механизмам формирования наноструктурного состояния по глубине модифицированного поверхностного слоя в результате таких обработок."
+	},
+	"keywords": {
+		"ua": "наноструктура, пластична деформація, вібраційний наклеп, піскоструминна обробка, тертя, ультразвукова ударна обробка",
+		"en": "nanostructure, plastic deformation, vibrational cold-work hardening, friction, ultrasonic impact processing",
+		"ru": "наноструктура, пластическая деформация, вибрационный наклёп, пескоструйная обработка, трение, ультразвуковая ударная обработка"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. О. Васильєв", "en": "M. O. Vasiliev", "ru": "М. А. Васильев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Г. І. Прокопенко", "en": "G. I. Prokopenko", "ru": "Г. И. Прокопенко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. С. Філатова", "en": "V. S. Filatova", "ru": "В. С. Филатова"},
+			"OID": [1]
+		}
+	],
+	"cited_by": {
+		"count":  3,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.07.03.173",
+				"cit": "Yu. M. Petrov, M. O. Vasiliev, L. M. Trofimova and V. S. Filatova, <a href=\"https://doi.org/10.15407/ufm.07.03.173\">Usp. Fiz. Met. <b>7</b>, 173 (2006)</a>."
+			},
+			{
+				"doi": "10.15407/mfint.38.04.0545",
+				"cit": "M. O. Vasyliev, B. M. Mordyuk, S. I. Sidorenko, S. M. Voloshko <i>et al.</i>, <a href=\"https://doi.org/10.15407/mfint.38.04.0545\">Metallofiz. Noveishie Tekhnol. <b>38</b>, 545 (2016)</a>."
+			},
+			{
+				"doi": "10.15407/ufm.17.02.119",
+				"cit": "N. I. Khripta, <a href=\"https://doi.org/10.15407/ufm.17.02.119\">Usp. Fiz. Met. <b>17</b>, 119 (2016)</a>."
+			}
+		]
+	},
+	"references": {
+		"count": 60,
+		"list":  [
+			{
+				"doi": "10.1016/S1359-6454(99)00285-2",
+				"or":  "G. Gleiter, Acta Mater., 48: 1 (2000).",
+				"tr":  "G. Gleiter, Acta Mater., 48: 1 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "C. І. Сидоренко, Ю. М. Макогон, С. М. Волошко, Матеріалознавство тонкоплівкових наноструктур. Дифузія і реакції (Київ: Наук. думка: 2000).",
+				"tr":  "C. I. Sidorenko, Yu. M. Makogon, S. M. Voloshko, Materialoznavstvo tonkoplivkovikh nanostruktur. Difuziya i reaktsii (Kyiv: Nauk. dumka: 2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. З. Валиев, И. В. Александров, Наноструктурные материалы, полученные интенсивной пластической деформацией (Москва: ЛОГОС: 2000).",
+				"tr":  "R. Z. Valiev, I. V. Aleksandrov, Nanostrukturnye materialy, poluchennye intensivnoy plasticheskoy deformatsiey (Moskva: LOGOS: 2000)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, Ю. А. Куницкий, В. И. Лысов, Кластерные и наноструктурные материалы (Киев: Академпериодика: 2002).",
+				"tr":  "A. P. Shpak, Yu. A. Kunitskiy, V. I. Lysov, Klasternye i nanostrukturnye materialy (Kiev: Akademperiodika: 2002)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2003.08.032",
+				"or":  "K. S. Kumar, H. Van Swygenhoven, and S. Suresh, Acta Mater., 5: 5743 (2003).",
+				"tr":  "K. S. Kumar, H. Van Swygenhoven, and S. Suresh, Acta Mater., 5: 5743 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Горский, А. Н. Грипачевский, В. В. Тихонович, В. Н. Уваров, Успехи физ. мет, т.4: 271 (2003).",
+				"tr":  "V. V. Gorskiy, A. N. Gripachevskiy, V. V. Tikhonovich, V. N. Uvarov, Usp. Fiz. Met, t.4: 271 (2003)."
+			},
+			{
+				"doi": "10.1016/0965-9773(96)00305-4",
+				"or":  "G. Baumann and H.-J. Fecht, Nanostruct. Mater., 7: 237 (1996).",
+				"tr":  "G. Baumann and H.-J. Fecht, Nanostruct. Mater., 7: 237 (1996)."
+			},
+			{
+				"doi": "10.1179/026708399101505707",
+				"or":  "K. Lu and J. Lu, J. Mater. Sci. Technol., 15: 193 (1999).",
+				"tr":  "K. Lu and J. Lu, J. Mater. Sci. Technol., 15: 193 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "C. C. Koch, Mater. Sci. Forum, 88–98: 243 (1992).",
+				"tr":  "C. C. Koch, Mater. Sci. Forum, 88–98: 243 (1992)."
+			},
+			{
+				"doi": "10.1016/0921-5093(93)90717-S",
+				"or":  "R. Z. Valiev, A. V. Korznikov, and R. R. Mulyukov, Mater. Sci. Eng., A168: 14 (1993).",
+				"tr":  "R. Z. Valiev, A. V. Korznikov, and R. R. Mulyukov, Mater. Sci. Eng., A168: 14 (1993)."
+			},
+			{
+				"doi": "10.1016/0965-9773(93)90180-J",
+				"or":  "U. Erb, A. M. El-Sherik, G. Palumbo et al., Nanostruct. Mater., 2: 383 (1993).",
+				"tr":  "U. Erb, A. M. El-Sherik, G. Palumbo et al., Nanostruct. Mater., 2: 383 (1993)."
+			},
+			{
+				"doi": "10.1179/026708399101505707",
+				"or":  "K. Lu and J. Lu, J. Mater. Sci. Technol., 15: 193 (1999).",
+				"tr":  "K. Lu and J. Lu, J. Mater. Sci. Technol., 15: 193 (1999)."
+			},
+			{
+				"doi": "10.1016/S0965-9773(99)00324-4",
+				"or":  "N. R. Tao, M. L. Sui, J. Lu et al., Nanostruct. Mater., 11: 433 (1999).",
+				"tr":  "N. R. Tao, M. L. Sui, J. Lu et al., Nanostruct. Mater., 11: 433 (1999)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(00)00686-9",
+				"or":  "G. Liu, J. Lu, and K. Lu, Mater. Sci. Eng., A286: 91 (2000).",
+				"tr":  "G. Liu, J. Lu, and K. Lu, Mater. Sci. Eng., A286: 91 (2000)."
+			},
+			{
+				"doi": "10.1016/S1359-6462(01)00738-2",
+				"or":  "G. Liu, S. C. Wang, X. F. Lou et al., Scripta Mater., 44: 1791 (2001).",
+				"tr":  "G. Liu, S. C. Wang, X. F. Lou et al., Scripta Mater., 44: 1791 (2001)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(02)00870-5",
+				"or":  "Z. B. Wang, N. R. Tao, S. Li et al., Mater. Sci. Eng., A352: 144 (2003).",
+				"tr":  "Z. B. Wang, N. R. Tao, S. Li et al., Mater. Sci. Eng., A352: 144 (2003)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(02)00310-5",
+				"or":  "N. R. Tao, Z. B. Wang, W. P. Tong et al., Acta Mater., 50: 4603 (2002).",
+				"tr":  "N. R. Tao, Z. B. Wang, W. P. Tong et al., Acta Mater., 50: 4603 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "X. Wu, Y. Hong, J. Lu et al., Mat. Res. Soc. Symp. Proc., 697 (2002).",
+				"tr":  "X. Wu, Y. Hong, J. Lu et al., Mat. Res. Soc. Symp. Proc., 697 (2002)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(02)00594-3",
+				"or":  "H. W. Zhang, Z. K. Hei, G. Liu et al., Acta Mater., 51: 1871 (2003).",
+				"tr":  "H. W. Zhang, Z. K. Hei, G. Liu et al., Acta Mater., 51: 1871 (2003)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(03)00260-X",
+				"or":  "Z. B. Wang, N. R. Tao, W. P. Tong et al., Acta Mater., 51: 4319 (2003).",
+				"tr":  "Z. B. Wang, N. R. Tao, W. P. Tong et al., Acta Mater., 51: 4319 (2003)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(03)00254-8",
+				"or":  "M. Ya, Y. Xing, F. Dai et al., Surface Coat. Tech., 168: 148 (2003).",
+				"tr":  "M. Ya, Y. Xing, F. Dai et al., Surface Coat. Tech., 168: 148 (2003)."
+			},
+			{
+				"doi": "10.1360/03yw0073",
+				"or":  "Y. Wei, C. Zhu, and X. Wu, Science in China Ser. G, 47: 86 (2004).",
+				"tr":  "Y. Wei, C. Zhu, and X. Wu, Science in China Ser. G, 47: 86 (2004)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(02)00051-4",
+				"or":  "X. Wu, N. Tao, Y. Hong et al., Acta Mater., 50: 2075 (2002).",
+				"tr":  "X. Wu, N. Tao, Y. Hong et al., Acta Mater., 50: 2075 (2002)."
+			},
+			{
+				"doi": "10.1016/S0921-4526(03)00069-3",
+				"or":  "Z. Ni, X. Wang, J. Wang et al., Physica B, 334: 221 (2003).",
+				"tr":  "Z. Ni, X. Wang, J. Wang et al., Physica B, 334: 221 (2003)."
+			},
+			{
+				"doi": "10.1007/BF02642004",
+				"or":  "P. L. Mangonon and G. Thomac, Jr., Metall. Trans., 1: 1587 (1970).",
+				"tr":  "P. L. Mangonon and G. Thomac, Jr., Metall. Trans., 1: 1587 (1970)."
+			},
+			{
+				"doi": "10.1007/BF01045379",
+				"or":  "K. Nomura and Y. Ujihira, J. Mater. Sci., 25: 1745 (1990).",
+				"tr":  "K. Nomura and Y. Ujihira, J. Mater. Sci., 25: 1745 (1990)."
+			},
+			{
+				"doi": "10.1016/0921-5093(96)10412-3",
+				"or":  "H. Hung, J. Ding, and P. G. McCormick, Mater. Sci. Eng., A216: 178 (1996).",
+				"tr":  "H. Hung, J. Ding, and P. G. McCormick, Mater. Sci. Eng., A216: 178 (1996)."
+			},
+			{
+				"doi": "10.1088/0370-1328/81/6/313",
+				"or":  "C. E. Johnson, M. S. Ridout, and T. E. Cranshaw, Proc. Phys. Soc., 81: 1079 (1963).",
+				"tr":  "C. E. Johnson, M. S. Ridout, and T. E. Cranshaw, Proc. Phys. Soc., 81: 1079 (1963)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.12.24",
+				"or":  "G. K. Wertheim, V. Jaccarino, and J. H. Wernick, Phys. Rev. Lett., 12: 24 (1964).",
+				"tr":  "G. K. Wertheim, V. Jaccarino, and J. H. Wernick, Phys. Rev. Lett., 12: 24 (1964)."
+			},
+			{
+				"doi": "10.1007/BF02825701",
+				"or":  "D. C. Cook, Metall. Trans., 18: 201 (1987).",
+				"tr":  "D. C. Cook, Metall. Trans., 18: 201 (1987)."
+			},
+			{
+				"doi": "10.1088/0370-1301/64/9/303",
+				"or":  "E. O. Hall, Proc. Phys. Soc. Lond., B64: 747 (1951).",
+				"tr":  "E. O. Hall, Proc. Phys. Soc. Lond., B64: 747 (1951)."
+			},
+			{
+				"doi": "",
+				"or":  "N. J. Petch, J. Iron Steel Inst., 174: 25 (1953).",
+				"tr":  "N. J. Petch, J. Iron Steel Inst., 174: 25 (1953)."
+			},
+			{
+				"doi": "10.1016/0921-5093(95)10016-4",
+				"or":  "Z. N. Farhat, Y. Ding, D. O. Northwood et al., Mater. Sci. Eng., A206: 302 (1996).",
+				"tr":  "Z. N. Farhat, Y. Ding, D. O. Northwood et al., Mater. Sci. Eng., A206: 302 (1996)."
+			},
+			{
+				"doi": "10.1179/030634578790433909",
+				"or":  "B. J. Duggan, M. Hatherly, W. B. Hutchinsan et al., Metal Sci., 12: 343 (1978).",
+				"tr":  "B. J. Duggan, M. Hatherly, W. B. Hutchinsan et al., Metal Sci., 12: 343 (1978)."
+			},
+			{
+				"doi": "10.1126/science.287.5457.1463",
+				"or":  "L. Lu, M. L. Sui, and K. Lu, Science, 287: 1463 (2000).",
+				"tr":  "L. Lu, M. L. Sui, and K. Lu, Science, 287: 1463 (2000)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(02)00894-0",
+				"or":  "L. Wang and D. Y. Li, Surface Coat. Tech., 167: 188 (2003).",
+				"tr":  "L. Wang and D. Y. Li, Surface Coat. Tech., 167: 188 (2003)."
+			},
+			{
+				"doi": "10.1016/0010-938X(94)00109-J",
+				"or":  "J. Moraless, P. Esparza, G. T. Fernandez et al., Corros. Sci., 37: 231 (1995).",
+				"tr":  "J. Moraless, P. Esparza, G. T. Fernandez et al., Corros. Sci., 37: 231 (1995)."
+			},
+			{
+				"doi": "10.1023/A:1017566615843",
+				"or":  "K. M. Ismail, S. S. El-Egamy, and M. Abdelfatah, J. Appl. Electrochim., 31: 663 (2001).",
+				"tr":  "K. M. Ismail, S. S. El-Egamy, and M. Abdelfatah, J. Appl. Electrochim., 31: 663 (2001)."
+			},
+			{
+				"doi": "10.1016/S0254-0584(00)00510-1",
+				"or":  "M. M. Osman, Mater. Chem. Phys., 71: 12 (2001).",
+				"tr":  "M. M. Osman, Mater. Chem. Phys., 71: 12 (2001)."
+			},
+			{
+				"doi": "10.1016/S0043-1648(03)00055-3",
+				"or":  "X. Y. Wang and D. Y. Li, Wear, 255: 836 (2003).",
+				"tr":  "X. Y. Wang and D. Y. Li, Wear, 255: 836 (2003)."
+			},
+			{
+				"doi": "10.1016/S1359-6462(99)00199-2",
+				"or":  "R. Liv, D. Y. Li, Y. S. Xie et al., Scripta Mater., 41: 691 (1999).",
+				"tr":  "R. Liv, D. Y. Li, Y. S. Xie et al., Scripta Mater., 41: 691 (1999)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(01)01710-5",
+				"or":  "M. C. Tsai, C. S. Chiou, J. S. Du et al., Mater. Sci. Eng., A332: 1 (2002).",
+				"tr":  "M. C. Tsai, C. S. Chiou, J. S. Du et al., Mater. Sci. Eng., A332: 1 (2002)."
+			},
+			{
+				"doi": "10.1016/j.stam.2003.10.015",
+				"or":  "M. Sato, N. Tsuji, Y. Yoritoshi et al., Sci. Technol. Adv. Mater., 5: 145 2004).",
+				"tr":  "M. Sato, N. Tsuji, Y. Yoritoshi et al., Sci. Technol. Adv. Mater., 5: 145 2004)."
+			},
+			{
+				"doi": "",
+				"or":  "N. Tsuji, M. Sato, Y. Minamino et al., Surface Interface Nanostruct. Mater., (2004) in Press.",
+				"tr":  "N. Tsuji, M. Sato, Y. Minamino et al., Surface Interface Nanostruct. Mater., (2004) in Press."
+			},
+			{
+				"doi": "10.1016/S0965-9773(97)00162-1",
+				"or":  "G. Baumann, K. Ênothe, and H.-J. Fecht, Nanostruct. Mater., 9: 751 (1997).",
+				"tr":  "G. Baumann, K. Ênothe, and H.-J. Fecht, Nanostruct. Mater., 9: 751 (1997)."
+			},
+			{
+				"doi": "10.1016/0041-2678(72)90104-2",
+				"or":  "T. S. Eyre and A. Baxter, Tribol. Int., 5: 256 (1972).",
+				"tr":  "T. S. Eyre and A. Baxter, Tribol. Int., 5: 256 (1972)."
+			},
+			{
+				"doi": "10.1080/14786437008220941",
+				"or":  "M. W. Grabski and R. Korski, Phil. Mag., 22: 707 (1970).",
+				"tr":  "M. W. Grabski and R. Korski, Phil. Mag., 22: 707 (1970)."
+			},
+			{
+				"doi": "10.1016/0043-1648(91)90010-R",
+				"or":  "J. Moyar and D. H. Stone, Wear, 144: 117 (1991).",
+				"tr":  "J. Moyar and D. H. Stone, Wear, 144: 117 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "I. V. Ivanishenko, G. B. Baumann, H. Fecht et al., Phys. Met. Metallogr., 83: 303 (1997).",
+				"tr":  "I. V. Ivanishenko, G. B. Baumann, H. Fecht et al., Phys. Met. Metallogr., 83: 303 (1997)."
+			},
+			{
+				"doi": "10.1016/0043-1648(95)06733-7",
+				"or":  "G. Baumann, H. Fecht, and S. Liebelt, Wear, 191: 133 (1996).",
+				"tr":  "G. Baumann, H. Fecht, and S. Liebelt, Wear, 191: 133 (1996)."
+			},
+			{
+				"doi": "10.1016/0965-9773(94)90075-2",
+				"or":  "A. V. Korznikov, Y. V. Ivanishenko, D. V. Laptinok et al., Nanostruct. Mater., 4: 159 (1994).",
+				"tr":  "A. V. Korznikov, Y. V. Ivanishenko, D. V. Laptinok et al., Nanostruct. Mater., 4: 159 (1994)."
+			},
+			{
+				"doi": "10.1016/0025-5416(84)90180-0",
+				"or":  "S. B. Newcomb and W. M. Stobbs, Mater. Sci. Eng., A66: 195 (1984).",
+				"tr":  "S. B. Newcomb and W. M. Stobbs, Mater. Sci. Eng., A66: 195 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Lojkowski, M. Djahanbakhsh, G. Burkle et al., A303: 197 (2001).",
+				"tr":  "W. Lojkowski, M. Djahanbakhsh, G. Burkle et al., A303: 197 (2001)."
+			},
+			{
+				"doi": "10.1016/0956-7151(92)90296-Q",
+				"or":  "B. Bay, N. Nansen, D. A. Hughes et al., Acta Metall. Mater., 40: 205 (1992).",
+				"tr":  "B. Bay, N. Nansen, D. A. Hughes et al., Acta Metall. Mater., 40: 205 (1992)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.62.831",
+				"or":  "H. van Swygenhoven, D. Farkas, and A. Caro, Phys. Rev. B, 62: 831 (2000).",
+				"tr":  "H. van Swygenhoven, D. Farkas, and A. Caro, Phys. Rev. B, 62: 831 (2000)."
+			},
+			{
+				"doi": "10.1007/BF02663916",
+				"or":  "V. Shrinivas, S. K. Varma, and L. E. Vurr, Metall. Trans. A, 26: 661 (1995).",
+				"tr":  "V. Shrinivas, S. K. Varma, and L. E. Vurr, Metall. Trans. A, 26: 661 (1995)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(00)01948-1",
+				"or":  "W. Lojkowski, Y. Millman, S. I. Chugunova et al., Mater. Sci. Eng., A303: 209 (2001).",
+				"tr":  "W. Lojkowski, Y. Millman, S. I. Chugunova et al., Mater. Sci. Eng., A303: 209 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Х. Шоршоров, Л. К. Гордиенко, В. И.Антипов и др. Термопластическое упрочнение мартенситных сталей и титановых сплавов. М.: Наука, 1971.– 152 с.",
+				"tr":  "M. Kh. Shorshorov, L. K. Gordienko, V. I.Antipov et al. Termoplasticheskoe uprochnenie martensitnykh staley i titanovykh splavov. M.: Nauka, 1971.– 152 s."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Прокопенко. Действие ударных и знакопеременных нагрузок на физические и прочностные свойства металлов и конструкционных материалов. Дисс. на соиск. уч. степени д-ра техн. наук. Киев, 1991.",
+				"tr":  "G. I. Prokopenko. Deystvie udarnykh i znakoperemennykh nagruzok na fizicheskie i prochnostnye svoystva metallov i konstruktsionnykh materialov. Diss. na soisk. uch. stepeni d-ra tekhn. nauk. Kiev, 1991."
+			},
+			{
+				"doi": "",
+				"or":  "Авторское свидетельство 1261310 СССР МКИ4 С22F 1/18. Способ обработки деталей из титановых сплавов / Л. В. Тихонов, Г. А. Петрунин, Г. И. Прокопенко и др., Опубл. 30.03.86. Бюлл. № 38.",
+				"tr":  "Avtorskoe svidetel'stvo 1261310 SSSR MKI4 S22F 1/18. Sposob obrabotki detaley iz titanovykh splavov / L. V. Tikhonov, G. A. Petrunin, G. I. Prokopenko i dr., Opubl. 30.03.86. Byull. No. 38."
+			}
+		]
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"year":   2001,
+	"volume": 2,
+	"issue":  3,
+	"toc": [
+		{
+			"type":    1,
+			"pages":  [189,263],
+			"title": {
+				"ua": "Синергетика пластичної деформації",
+				"en": "Synergetics of Plastic Deformation",
+				"ru": "Синергетика пластической деформации"
+			},
+			"autors": {
+				"ua": "О. І. Олємськой, А. В. Хоменко",
+				"en": "O. I. Olemskoi, A. V. Khomenko",
+				"ru": "А. И. Олемской, А. В. Хоменко"
+			}
+		},
+		{
+			"type":    1,
+			"pages":  [265,280],
+			"title": {
+				"ua": "Зміна магнетних й оптичних властивостей неферомагнетних кристалів післе експонування в электричному та магнетному полях",
+				"en": "Change of Magnetic and Optical Properties of Non-Ferromagnetic Crystals After Exposure in Electrical and Magnetic Fields",
+				"ru": "Изменение магнитных и оптических свойств неферромагнитных кристаллов после экспонирования в электрическом и магнитном полях"
+			},
+			"autors": {
+				"ua": "О. В. Бродовий, В. О. Бродовий, В. Г. Колісніченко, В. В. Скороход",
+				"en": "O. V. Brodovyj, V. O. Brodovyj, V. G. Kolesnichenko, and V. V. Skorokhod",
+				"ru": "А. В. Бродовой, В. А. Бродовой, В. Г. Колисниченко, В. В. Скороход"
+			}
+		}
+	]
+}
