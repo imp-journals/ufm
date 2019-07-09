@@ -1,0 +1,983 @@
+{
+	"_id":    "UFM.20.02.213",
+	"year":   2019,
+	"volume": 20,
+	"issue":  2,
+	"pages":  [213,284],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["24.10.2018", "13.01.2019"],
+	"PACS":   " ",
+	"title":   {
+		"ua": "Закономірності формування структури, текстури та властивостей при комбінованій пластичній деформації низько- й ультранизьковуглецевих сталей для холодного штампування",
+		"en": "Regularities of Formation of Structure, Texture and Properties under the Combined Plastic Deformation of the Low-Carbon and Ultralow-Carbon Steels for Cold Press Forming",
+		"ru": "Закономерности формирования структуры, текстуры и свойств при комбинированной пластической деформации низко- и ультранизкоуглеродистых сталей для холодной штамповки"
+	},
+	"abstract": {
+		"ua": "У роботі одержано нові розв’язки науково-практичної задачі, яка полягає у підвищенні комплексу механічних властивостей і схильности до штампування гарячевальцьованих низько- та ультранизьковуглецевих сталей (криць) з подальшою холодною деформацією методами осаду та кручення під гідростатичним тиском (КГТ). За допомогою сучасних методів дослідження встановлено можливість формування ультрадрібнокристалічної структури при комбінованій пластичній деформації. Встановлено залежність зміни механічних властивостей від параметрів структури, текстури та фазового складу. Вперше методом наноіндентування визначено механічні характеристики гарячевальцьованих сталей 08пс, 01ЮТ, 01ЮТ(Са), 01ЮТА з подальшою холодною деформацією методом КГТ. Встановлено підвищення в 2 рази твердости індентування (5,5–6,0 ГПа), пониження модуля пружности в 1,5 рази (150–190 ГПа) та збереження задовільної пластичности ($\delta$ = 0,75–0,8), що ґарантовано забезпечує більшу схильність до штампування досліджених сталей порівняно з гарячевальцьованим станом.",
+		"en": "The current paper reports the new solutions intended to enhance the complex of mechanical properties and tendency to the press forming of the hot-rolled low-carbon and ultralow-carbon steels with subsequent cold deformation via upsetting and torsion under hydrostatic pressure (THP). Using state-of-the-art research methods, the feasibility of forming an ultra-fine-crystalline structure through the combined plastic deformation is established. The dependence of the change in mechanical properties on the structural and textural parameters as well as phase composition is established. This research is the first wherein the mechanical properties have been determined by the method of nanoindentation for the 08пс, 01ЮТ, 01ЮТ(Са), 01ЮТА steels, which were initially hot-rolled and afterwards underwent the cold deformation by the THP method. The increase in the indentation hardness by 2 times (5.5–6.0 GPa) is revealed along with the decrease of the modulus of elasticity by 1.5 times (150–190 GPa), but with the opportunity to sustain the satisfactory ductility ($\delta$ = 0.75–0.8). This provides a great suitability to the cold press forming of the steels as compared to their initial hot-rolled state.",
+		"ru": "В работе получены новые решения научно-практической задачи, которая заключается в повышении комплекса механических свойств и склонности к штамповке горячекатаных низко- и ультранизкоуглеродистых сталей с последующей холодной деформацией методами осадки и кручения под гидростатическим давлением (КГД). С помощью современных методов исследования установлена возможность формирования ультрамелкокристаллической структуры при комбинированной пластической деформации. Установлена зависимость изменения механических свойств от параметров структуры, текстуры и фазового состава. Впервые методом наноиндентирования определены механические характеристики горячекатаных сталей 08пс, 01ЮТ, 01ЮТ(Са), 01ЮТА с последующей холодной деформацией методом КГД. Установлено повышение в 2 раза твёрдости индентирования (5,5–6,0 ГПа), снижение модуля упругости в 1,5 раза (150–190 ГПа) и сохранение удовлетворительной пластичности ($\delta$ = 0,75–0,8), что гарантированно обеспечивает большую склонность к штамповке исследуемых сталей по сравнению с горячекатаным состоянием."
+	},
+	"keywords": {
+		"ua": "ультранизьковуглецеві сталі (криці), наноіндентування, інтенсивна пластична деформація, кручення під гідростатичним тиском, штампування, текстура",
+		"en": "ultralow-carbon steels, nanoindentation, severe plastic deformation, torsion under hydrostatic pressure, press forming, texture",
+		"ru": "ультранизкоуглеродистые стали, наноиндентирование, интенсивная пластическая деформация, кручение под гидростатическим давлением, штамповка, текстура"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. С. Пройдак", "en": "Yu. S. Projdak", "ru": "Ю. С. Пройдак"},
+			"OID": [223]
+		},
+		{
+			"AID": {"ua": "В. З. Куцова", "en": "V. Z. Kutsova", "ru": "В. З. Куцова"},
+			"OID": [223]
+		},
+		{
+			"AID": {"ua": "Т. В. Котова", "en": "T. V. Kotova", "ru": "Т. В. Котова"},
+			"OID": [223]
+		},
+		{
+			"AID": {"ua": "Г. П. Стеценко", "en": "H. P. Stetsenko", "ru": "А. П. Стеценко"},
+			"OID": [223]
+		},
+		{
+			"AID": {"ua": "В. В. Прутчикова", "en": "V. V. Prutchykova", "ru": "В. В. Прутчикова"},
+			"OID": [223]
+		}
+	],
+	"references": {
+		"count": 186,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "D. Brandshtetter, Tekhnologiya otzhiga v kolpakovykh pechakh. Sovremennye kontseptsii proizvodstva kholodnokatanoy tonkolistovoy stali dlya avtomobilestroeniya [The annealing technology in bell-type furnaces. The modern concepts for the production of cold rolled sheet steel for the automotive industry], Trudy IV Kongressa prokatchikov (Moscow: 2002), p. 227 (in Russian).",
+				"tr":  "D. Brandshtetter, Tekhnologiya otzhiga v kolpakovykh pechakh. Sovremennye kontseptsii proizvodstva kholodnokatanoy tonkolistovoy stali dlya avtomobilestroeniya [The annealing technology in bell-type furnaces. The modern concepts for the production of cold rolled sheet steel for the automotive industry], Trudy IV Kongressa prokatchikov (Moscow: 2002), p. 227 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "State Standard 1997.01.01. Prokat tonkolistovoy kholodnokatanyy iz nizkouglerodistoy kachestvennoy stali dlya kholodnoy shtampovki. Tekhnicheskie usloviya: ГОСТ 9045-93 [The cold-rolled thin sheet steel from the low-carbon quality steel for cold press forming. Technical conditions: ГОСТ 9045-93] (Minsk: Izdatel’stvo standartov: 1993), р. 10 (in Russian).",
+				"tr":  "State Standard 1997.01.01. Prokat tonkolistovoy kholodnokatanyy iz nizkouglerodistoy kachestvennoy stali dlya kholodnoy shtampovki. Tekhnicheskie usloviya: ГОСТ 9045-93 [The cold-rolled thin sheet steel from the low-carbon quality steel for cold press forming. Technical conditions: ГОСТ 9045-93] (Minsk: Izdatel’stvo standartov: 1993), р. 10 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "O. N. Yakubovskiy, Proizvodstvo Prokata, Nos. 11–12: 30 (1998) (in Russian).",
+				"tr":  "O. N. Yakubovskiy, Proizvodstvo Prokata, Nos. 11–12: 30 (1998) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Blek, R. Brode, and A. Fel’d, Chernyye Metally, No. 8: 19 (1994) (in Russian).",
+				"tr":  "V. Blek, R. Brode, and A. Fel’d, Chernyye Metally, No. 8: 19 (1994) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. K. Potemkin, O. S. Khlybov, and A. V. Kusaylo, Byulleten’ ‘Chernaya Metallurgiya’, No. 2: 43 (2002) (in Russian).",
+				"tr":  "V. K. Potemkin, O. S. Khlybov, and A. V. Kusaylo, Byulleten’ ‘Chernaya Metallurgiya’, No. 2: 43 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "X. Takeshi, Sovremennye dostizheniya v metallurgii i tekhnologii proizvodstva staley dlya avtomobil’noy promyshlennosti: Mezhdunarodnyy seminar [Modern advances in metallurgy and steel production technology for the automotive industry: International seminar] (Moscow: I. P. Bardin TsNIICherMet: 2004) (in Russian).",
+				"tr":  "X. Takeshi, Sovremennye dostizheniya v metallurgii i tekhnologii proizvodstva staley dlya avtomobil’noy promyshlennosti: Mezhdunarodnyy seminar [Modern advances in metallurgy and steel production technology for the automotive industry: International seminar] (Moscow: I. P. Bardin TsNIICherMet: 2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "E. T. Ruoff, Chernye Metally, No. 10: 44 (2000) (in Russian).",
+				"tr":  "E. T. Ruoff, Chernye Metally, No. 10: 44 (2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. V. Protasov, A. I. Mayorov, and I. V. Komolov, Byulleten’ ‘Chernaya Metallurgiya’, No. 2: 58 (2006) (in Russian).",
+				"tr":  "A. V. Protasov, A. I. Mayorov, and I. V. Komolov, Byulleten’ ‘Chernaya Metallurgiya’, No. 2: 58 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. V. Lipukhin, V. I. Slavov, and V. V. Kuznetsov, Stal’, No. 3: 63 (1993) (in Russian).",
+				"tr":  "Yu. V. Lipukhin, V. I. Slavov, and V. V. Kuznetsov, Stal’, No. 3: 63 (1993) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Stepanov, S. D. Zinchenko, and A. M. Lamukhin, Byulleten’ ‘Chernaya Metallurgiya’, No. 1: 39 (2005) (in Russian).",
+				"tr":  "A. A. Stepanov, S. D. Zinchenko, and A. M. Lamukhin, Byulleten’ ‘Chernaya Metallurgiya’, No. 1: 39 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. D. Zinchenko, S. V. Efimov, and M. V. Filatov, Byulleten’ ‘Chernaya Metallurgiya’, No. 5: 32 (2005) (in Russian).",
+				"tr":  "S. D. Zinchenko, S. V. Efimov, and M. V. Filatov, Byulleten’ ‘Chernaya Metallurgiya’, No. 5: 32 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Pradhan, IFS-IF’94: 165 (1994).",
+				"tr":  "R. Pradhan, IFS-IF’94: 165 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Takechi, Iron and Steel Institute of Japan International, 34, No. 1: 1 (1994).",
+				"tr":  "H. Takechi, Iron and Steel Institute of Japan International, 34, No. 1: 1 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Yungraytmayer, E. Pissenberger, and K. Burgshtaller, Novosti Chernoy Metallurgii za Rubezhom, No. 5: 32 (2004) (in Russian).",
+				"tr":  "A. Yungraytmayer, E. Pissenberger, and K. Burgshtaller, Novosti Chernoy Metallurgii za Rubezhom, No. 5: 32 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "B. F. Zin’ko, A. A. Stepanova, and A. V. Izotov, Sovremennyye dostizheniya v metallurgii i tekhnologii proizvodstva staley dlya avtomobil’noy promyshlennosti: Mezhdunarodnyy seminar [Modern advances in metallurgy and steel production technology for the automotive industry: International seminar] (Moscow: I. P. Bardin TsNIICherMet: 2004) (in Russian).",
+				"tr":  "B. F. Zin’ko, A. A. Stepanova, and A. V. Izotov, Sovremennyye dostizheniya v metallurgii i tekhnologii proizvodstva staley dlya avtomobil’noy promyshlennosti: Mezhdunarodnyy seminar [Modern advances in metallurgy and steel production technology for the automotive industry: International seminar] (Moscow: I. P. Bardin TsNIICherMet: 2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. I. Longinov, I. A. Petushkov, and S. V. Efimov, Metallurg, No. 12: 42 (2005) (in Russian).",
+				"tr":  "A. I. Longinov, I. A. Petushkov, and S. V. Efimov, Metallurg, No. 12: 42 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "F. Khaysterkampf, K. Khulka, and Yu. I. Matrosov, Niobiysoderzhashchie nizkolegirovannye stali [Niobium-containing low alloy steels] (Moscow: SP–Intermet inzheniring: 1999) (in Russian).",
+				"tr":  "F. Khaysterkampf, K. Khulka, and Yu. I. Matrosov, Niobiysoderzhashchie nizkolegirovannye stali [Niobium-containing low alloy steels] (Moscow: SP–Intermet inzheniring: 1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ts. Nagamiti, M. Midzumi, and A. Okamoto, Novosti Chernoy Metallurgii za Rubezhom, No. 1: 100 (1997) (in Russian).",
+				"tr":  "Ts. Nagamiti, M. Midzumi, and A. Okamoto, Novosti Chernoy Metallurgii za Rubezhom, No. 1: 100 (1997) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Itami, K. Ushioda, and N. Kimura, Novosti Chernoy Metallurgii za Rubezhom, No. 3: 89 (1996) (in Russian).",
+				"tr":  "A. Itami, K. Ushioda, and N. Kimura, Novosti Chernoy Metallurgii za Rubezhom, No. 3: 89 (1996) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "State Standard 1980.01.01. Prokat iz kachestvennoy konstruktsionnoy uglerodistoy i legirovannoy stali dlya kholodnogo vydavlivaniya i vysadki. Tekhnicheskie usloviya: ГОСТ 10702-78 [The rolled quality carbon structural and alloyed steel for cold extrusion and upsetting. Technical conditions: ГОСТ 10702-78] (Moscow: Izdatel’stvo ofitsial’noe: 2006) (in Russian).",
+				"tr":  "State Standard 1980.01.01. Prokat iz kachestvennoy konstruktsionnoy uglerodistoy i legirovannoy stali dlya kholodnogo vydavlivaniya i vysadki. Tekhnicheskie usloviya: ГОСТ 10702-78 [The rolled quality carbon structural and alloyed steel for cold extrusion and upsetting. Technical conditions: ГОСТ 10702-78] (Moscow: Izdatel’stvo ofitsial’noe: 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. N. Bryukhanov, Kovka i ob’emnaya shtampovka: uchebnoe posobie [Forging and bulk press forming] (Moscow: Mashinostroenie: 1975) (in Russian).",
+				"tr":  "A. N. Bryukhanov, Kovka i ob’emnaya shtampovka: uchebnoe posobie [Forging and bulk press forming] (Moscow: Mashinostroenie: 1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Yu. Averkiev, Kovka i shtampovka: spravochnik v 4-kh tomakh [Forging and press forming] (Moscow: Mashinostroenie: 1985) (in Russian).",
+				"tr":  "A. Yu. Averkiev, Kovka i shtampovka: spravochnik v 4-kh tomakh [Forging and press forming] (Moscow: Mashinostroenie: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ya. M. Okhrimenko, Tekhnologiya kuznechno-shtampovochnogo proizvodstva: uchebnik [Technology of forging and stamping production: a textbook] (Moscow: Mashinostroenie: 1976) (in Russian).",
+				"tr":  "Ya. M. Okhrimenko, Tekhnologiya kuznechno-shtampovochnogo proizvodstva: uchebnik [Technology of forging and stamping production: a textbook] (Moscow: Mashinostroenie: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Segal, V. I. Reznikov, and V. I Kopylov, Protsessy plasticheskogo strukturoobrazovaniya metallov [Processes of plastic structure formation of metals] (Moscow: Nauka i tekhnika: 1994) (in Russian).",
+				"tr":  "V. M. Segal, V. I. Reznikov, and V. I Kopylov, Protsessy plasticheskogo strukturoobrazovaniya metallov [Processes of plastic structure formation of metals] (Moscow: Nauka i tekhnika: 1994) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Z. Valiev and I. V. Aleksandrov, Nanostrukturnye materialy, poluchennye intensivnoy plasticheskoy deformatsiey [Nanostructured materials obtained by severe plastic deformation] (Moscow: Logos: 2000) (in Russian).",
+				"tr":  "R. Z. Valiev and I. V. Aleksandrov, Nanostrukturnye materialy, poluchennye intensivnoy plasticheskoy deformatsiey [Nanostructured materials obtained by severe plastic deformation] (Moscow: Logos: 2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ya. E. Beygel’zimer, V. N. Varyukhin, D. V. Orlov, and S. G. Synkov, Vintovaya ekstruziya — Protsess nakopleniya deformatsii [Spiral extrusion — Deformation accumulation process] (Donetsk: TEAN: 2003) (in Russian).",
+				"tr":  "Ya. E. Beygel’zimer, V. N. Varyukhin, D. V. Orlov, and S. G. Synkov, Vintovaya ekstruziya — Protsess nakopleniya deformatsii [Spiral extrusion — Deformation accumulation process] (Donetsk: TEAN: 2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ya. E. Beygel’zimer and N. M. Lavrinenko, Naukovі Notatki, 39: 8 (2012) (in Russian).",
+				"tr":  "Ya. E. Beygel’zimer and N. M. Lavrinenko, Naukovі Notatki, 39: 8 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. A. Bykov and S. D. Karpukhin, Nanoinzheneriya, No. 6: 11 (2012) (in Russian).",
+				"tr":  "Yu. A. Bykov and S. D. Karpukhin, Nanoinzheneriya, No. 6: 11 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Y. T. Zhu, T. G. Langdon, R. Z. Valiev, S. L. Semiatin, D. H. Shin, and T. C. Lowe, Ultrafine grained materials III. Charlotte (North Carolina: TMS: 2004).",
+				"tr":  "Y. T. Zhu, T. G. Langdon, R. Z. Valiev, S. L. Semiatin, D. H. Shin, and T. C. Lowe, Ultrafine grained materials III. Charlotte (North Carolina: TMS: 2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Y. T. Zhu, T. G. Langdon R. S. Mishra, S. L. Semiatin, M. J. Saran, and T. C. Lowe, Ultrafine grained materials II (Seattle (WA): TMS: 2002).",
+				"tr":  "Y. T. Zhu, T. G. Langdon R. S. Mishra, S. L. Semiatin, M. J. Saran, and T. C. Lowe, Ultrafine grained materials II (Seattle (WA): TMS: 2002)."
+			},
+			{
+				"doi": "",
+				"or":  "Y. T. Zhu, T.G. Langdon, Z. Horita, M. Zehetbauer, S. L. Semiatin, and T. C. Lowe, Ultrafine grained materials IV (San Antonio (Texas): TMS: 2006).",
+				"tr":  "Y. T. Zhu, T.G. Langdon, Z. Horita, M. Zehetbauer, S. L. Semiatin, and T. C. Lowe, Ultrafine grained materials IV (San Antonio (Texas): TMS: 2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Y. Estrin and H. J. Maier, Nanomaterials by severe plastic deformation IV (Zurich: TransTech: 2008).",
+				"tr":  "Y. Estrin and H. J. Maier, Nanomaterials by severe plastic deformation IV (Zurich: TransTech: 2008)."
+			},
+			{
+				"doi": "",
+				"or":  "J. T. Wang, R. B. Figueiredo, and T. G. Langdon, Nanomaterials by severe plastic deformation (Zurich: TransTech: 2011).",
+				"tr":  "J. T. Wang, R. B. Figueiredo, and T. G. Langdon, Nanomaterials by severe plastic deformation (Zurich: TransTech: 2011)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2009.03.017",
+				"or":  "G. Sha, Y. B. Wang, X. Z. Liao, Z. C. Duan, S. P. Ringer, and T. G. Langdon, Acta Mater., 57: 3123 (2009).",
+				"tr":  "G. Sha, Y. B. Wang, X. Z. Liao, Z. C. Duan, S. P. Ringer, and T. G. Langdon, Acta Mater., 57: 3123 (2009)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(03)00169-1",
+				"or":  "D. Jia, K. T. Ramesh, and E. Ma, Acta Mater., 51: 3333 (2003).",
+				"tr":  "D. Jia, K. T. Ramesh, and E. Ma, Acta Mater., 51: 3333 (2003)."
+			},
+			{
+				"doi": "10.1016/j.msea.2007.02.099",
+				"or":  "L. J. Kecskes K. C. Cho, R. J. Dowding, B. E. Schuster, R. Z. Valiev, and Q. Wei, Mater. Sci. Eng. A, 467: 33 (2007).",
+				"tr":  "L. J. Kecskes K. C. Cho, R. J. Dowding, B. E. Schuster, R. Z. Valiev, and Q. Wei, Mater. Sci. Eng. A, 467: 33 (2007)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.08.095",
+				"or":  "R. Song, D. Ponge, D. Raabe, J. G. Speer, and D. K. Matlock, Mater. Sci. Eng. A, 441: 1 (2006).",
+				"tr":  "R. Song, D. Ponge, D. Raabe, J. G. Speer, and D. K. Matlock, Mater. Sci. Eng. A, 441: 1 (2006)."
+			},
+			{
+				"doi": "10.1080/1478643031000152799",
+				"or":  "X. Z. Liao, J. Y. Huang, Y. T. Zhu, F. Zhou, and E. J. Lavernia, Phil. Mag., 83: 3065(2003).",
+				"tr":  "X. Z. Liao, J. Y. Huang, Y. T. Zhu, F. Zhou, and E. J. Lavernia, Phil. Mag., 83: 3065(2003)."
+			},
+			{
+				"doi": "10.1007/s11661-001-0167-x",
+				"or":  "N. Hansen, Met. Mater. Trans, 32: 2917 (2001).",
+				"tr":  "N. Hansen, Met. Mater. Trans, 32: 2917 (2001)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(97)00027-X",
+				"or":  "D. A. Hughes and N. Hansen, Acta Mater., 45: 3871 (1997).",
+				"tr":  "D. A. Hughes and N. Hansen, Acta Mater., 45: 3871 (1997)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2008.11.036",
+				"or":  "L. Bracke, K. Verbeken, L. Kestens, and J. Penning, Acta Mater., 57: 1512 (2009).",
+				"tr":  "L. Bracke, K. Verbeken, L. Kestens, and J. Penning, Acta Mater., 57: 1512 (2009)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2011.07.009",
+				"or":  "I. Gutierrez-Urrutia and D. Raabe, Acta Mater., 59: 6449 (2011).",
+				"tr":  "I. Gutierrez-Urrutia and D. Raabe, Acta Mater., 59: 6449 (2011)."
+			},
+			{
+				"doi": "10.1016/j.msea.2010.04.036",
+				"or":  "Y. B. Wang, X. Z. Liao, Y. H. Zhao, E. J. Lavernia, S. P. Ringer, Z. Horita, T. G. Langdon, and Y. T. Zhu, Mater. Sci. Eng. A, 527: 4959 (2010).",
+				"tr":  "Y. B. Wang, X. Z. Liao, Y. H. Zhao, E. J. Lavernia, S. P. Ringer, Z. Horita, T. G. Langdon, and Y. T. Zhu, Mater. Sci. Eng. A, 527: 4959 (2010)."
+			},
+			{
+				"doi": "10.1557/jmr.2009.0426",
+				"or":  "X. H. An, Q. Y. Lin, S. Qu, G. Yang, S. D. Wu, and Z. F. Zhang, J. Mater. Res., 24: 3636 (2009).",
+				"tr":  "X. H. An, Q. Y. Lin, S. Qu, G. Yang, S. D. Wu, and Z. F. Zhang, J. Mater. Res., 24: 3636 (2009)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2010.01.049",
+				"or":  "C. S. Hong, N. R. Tao, X. Huang, and K. Lu, Acta Mater., 58, No. 8: 3103 (2010).",
+				"tr":  "C. S. Hong, N. R. Tao, X. Huang, and K. Lu, Acta Mater., 58, No. 8: 3103 (2010)."
+			},
+			{
+				"doi": "10.1080/14786436108235892",
+				"or":  "J. A. Venables, Phil. Mag., 6: 379 (1961).",
+				"tr":  "J. A. Venables, Phil. Mag., 6: 379 (1961)."
+			},
+			{
+				"doi": "10.1080/14786435.2016.1240379",
+				"or":  "S. Mahajan and G. Y. Chin, Acta Metall., 21: 1353 (1973).",
+				"tr":  "S. Mahajan and G. Y. Chin, Acta Metall., 21: 1353 (1973)."
+			},
+			{
+				"doi": "%2010.1016/j.scriptamat.2012.09.011",
+				"or":  "S. Mahajan, Scr. Mater., 68: 95 (2013).",
+				"tr":  "S. Mahajan, Scr. Mater., 68: 95 (2013)."
+			},
+			{
+				"doi": "10.1016/0001-6160(63)90074-9",
+				"or":  "B. Cohen and J. Weertman, Acta Metall., 11: 996 (1963).",
+				"tr":  "B. Cohen and J. Weertman, Acta Metall., 11: 996 (1963)."
+			},
+			{
+				"doi": "10.1016/0036-9748(75)90476-7",
+				"or":  "H. Fujita and T. Mori, Scr. Metall., 9, No. 6: 631 (1975).",
+				"tr":  "H. Fujita and T. Mori, Scr. Metall., 9, No. 6: 631 (1975)."
+			},
+			{
+				"doi": "10.1080/01418610208240003",
+				"or":  "M. Niewczas and G. Saada, Philos. Mag., 82: 167 (2002).",
+				"tr":  "M. Niewczas and G. Saada, Philos. Mag., 82: 167 (2002)."
+			},
+			{
+				"doi": "10.1016/0079-6425(94)00007-7",
+				"or":  "J. W. Christian and S. Mahajan, Prog. Mater. Sci., 39: 157 (1995).",
+				"tr":  "J. W. Christian and S. Mahajan, Prog. Mater. Sci., 39: 157 (1995)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2009.12.013",
+				"or":  "J. Wang, N. Li, O. Anderoglu, X. Zhang, A. Misra, J. Y. Huang, and J. P. Hirth, Acta Mater., 58: 2262 (2010).",
+				"tr":  "J. Wang, N. Li, O. Anderoglu, X. Zhang, A. Misra, J. Y. Huang, and J. P. Hirth, Acta Mater., 58: 2262 (2010)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2008.10.00",
+				"or":  "Y. Zhang, N. R. Tao, and K. Lu, Scr. Mater., 60: 211 (2009).",
+				"tr":  "Y. Zhang, N. R. Tao, and K. Lu, Scr. Mater., 60: 211 (2009)."
+			},
+			{
+				"doi": "10.1016/j.msea.2013.04.075",
+				"or":  "Y. Cao, Y. B. Wang, Z. B. Chen, X. Z. Liao, M. Kawasaki, S. P. Ringer, T. G. Langdon, and Y. T. Zhu, Mater Sci. Eng. A, 578: 110 (2013).",
+				"tr":  "Y. Cao, Y. B. Wang, Z. B. Chen, X. Z. Liao, M. Kawasaki, S. P. Ringer, T. G. Langdon, and Y. T. Zhu, Mater Sci. Eng. A, 578: 110 (2013)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2012.02.026",
+				"or":  "S. Ni, Y. B. Wang, X. Z. Liao, R. B. Figueiredo, H. Q. Li, S. P. Ringer, T. G. Langdon, and Y. T. Zhu, Acta Mater., 60: 3181 (2012).",
+				"tr":  "S. Ni, Y. B. Wang, X. Z. Liao, R. B. Figueiredo, H. Q. Li, S. P. Ringer, T. G. Langdon, and Y. T. Zhu, Acta Mater., 60: 3181 (2012)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2012.01.027",
+				"or":  "A. M. Hodge, T. A. Furnish, C. J. Shute, Y. Liao, X. Huang, C. S. Hong, Y. T. Zhu, T. W. Barbee, and J. R. Weertman, Scr. Mater., 66: 872 (2012).",
+				"tr":  "A. M. Hodge, T. A. Furnish, C. J. Shute, Y. Liao, X. Huang, C. S. Hong, Y. T. Zhu, T. W. Barbee, and J. R. Weertman, Scr. Mater., 66: 872 (2012)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2011.04.002",
+				"or":  "C. J. Shute, B. D. Myers, S. Xie, S. Y. Li, T. W. Barbee, A. M. Hodge, and J. R. Weertman, Acta Mater., 59: 4569 (2011).",
+				"tr":  "C. J. Shute, B. D. Myers, S. Xie, S. Y. Li, T. W. Barbee, A. M. Hodge, and J. R. Weertman, Acta Mater., 59: 4569 (2011)."
+			},
+			{
+				"doi": "10.1016/j.msea.2010.10.072",
+				"or":  "Y. Wei, Mater. Sci. Eng., 528: 1558 (2011).",
+				"tr":  "Y. Wei, Mater. Sci. Eng., 528: 1558 (2011)."
+			},
+			{
+				"doi": "10.1016/j.ijplas.2009.11.003",
+				"or":  "O. Anderoglu, A. Misra, J. Wang, R. G. Hoagland, J. P. Hirth, and X. Zhang, Int. J. Plasticity, 26: 875 (2010).",
+				"tr":  "O. Anderoglu, A. Misra, J. Wang, R. G. Hoagland, J. P. Hirth, and X. Zhang, Int. J. Plasticity, 26: 875 (2010)."
+			},
+			{
+				"doi": "10.1007/978-1-84882-454-6_19",
+				"or":  "R. Z. Valiev, Annales de Chimie, Science des Materiaux, 21, No. 6: 369 (1996).",
+				"tr":  "R. Z. Valiev, Annales de Chimie, Science des Materiaux, 21, No. 6: 369 (1996)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(01)01288-6",
+				"or":  "M. Furukawa, Z. Horita, M. Nemoto, and T. G. Langdon, Mater. Sci. Eng. A, 324: 82 (2002).",
+				"tr":  "M. Furukawa, Z. Horita, M. Nemoto, and T. G. Langdon, Mater. Sci. Eng. A, 324: 82 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Vorhauer, R. Pippan, M. J. Zehetbauer, and R. Z. Valiev, Conf. Nanomaterials by Severe Plastic Deformation: Fundamentals–Processing–Application (Vienna: 2002), р. 684.",
+				"tr":  "A. Vorhauer, R. Pippan, M. J. Zehetbauer, and R. Z. Valiev, Conf. Nanomaterials by Severe Plastic Deformation: Fundamentals–Processing–Application (Vienna: 2002), р. 684."
+			},
+			{
+				"doi": "10.1016/j.actamat.2008.06.036",
+				"or":  "C. Xu, Z. Horita, and T. G. Langdon, Acta Mater., 56: 5168 (2008).",
+				"tr":  "C. Xu, Z. Horita, and T. G. Langdon, Acta Mater., 56: 5168 (2008)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2013.08.018",
+				"or":  "T. G. Langdon, Acta Mater., 61: 7035 (2013).",
+				"tr":  "T. G. Langdon, Acta Mater., 61: 7035 (2013)."
+			},
+			{
+				"doi": "10.1007/978-94-011-4062-1_7",
+				"or":  "G. Salishchev, R. Imayev, V. Imayev, N. Gabdullin, M. Shagiev, A. Kuznetsov, O. N. Senkov, and F. H. Froes, Investigations and Applications of Severe Plastic Deformation. NATO Science Series (Series 3. High Technology) (Eds. T. C. Lowe and R. Z. Valiev), Vol 80 (Dordrecht: Springer: 2000), p. 49. https://doi.org/10.1007/978-94-011-4062-1_7",
+				"tr":  "G. Salishchev, R. Imayev, V. Imayev, N. Gabdullin, M. Shagiev, A. Kuznetsov, O. N. Senkov, and F. H. Froes, Investigations and Applications of Severe Plastic Deformation. NATO Science Series (Series 3. High Technology) (Eds. T. C. Lowe and R. Z. Valiev), Vol 80 (Dordrecht: Springer: 2000), p. 49."
+			},
+			{
+				"doi": "",
+				"or":  "R. I. Kuznetsov, V. I. Bykov, V. P. Chernyshev, V. P. Pilyugin, N. A. Efremov, and A. V. Pasheev, Plasticheskaya deformatsiya tverdykh tel pod davleniem: monografiya [Plastic deformation of solids under pressure: monograph] (Sverdlovsk: IFMURO Akademii nauk SSSR: 1985) (in Russian).",
+				"tr":  "R. I. Kuznetsov, V. I. Bykov, V. P. Chernyshev, V. P. Pilyugin, N. A. Efremov, and A. V. Pasheev, Plasticheskaya deformatsiya tverdykh tel pod davleniem: monografiya [Plastic deformation of solids under pressure: monograph] (Sverdlovsk: IFMURO Akademii nauk SSSR: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "D. I. Tupitsa, V. P. Pilyugin, R. I. Kuznetsov, G. G. Taluts, and V. A. Teplov, Fis. Met. Metalloved., 61, No.2: 325 (1986) (in Russian).",
+				"tr":  "D. I. Tupitsa, V. P. Pilyugin, R. I. Kuznetsov, G. G. Taluts, and V. A. Teplov, Fis. Met. Metalloved., 61, No.2: 325 (1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "N. A. Smirnova, V. I. Levit, V. I. Pilyugin, R. I. Kuznetsov, L. S. Davydova, and V. A. Sazonov, Fiz. Met. Metalloved., 61: 1170 (1986) (in Russian).",
+				"tr":  "N. A. Smirnova, V. I. Levit, V. I. Pilyugin, R. I. Kuznetsov, L. S. Davydova, and V. A. Sazonov, Fiz. Met. Metalloved., 61: 1170 (1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "N. A. Smirnova, V. I. Levit, V. P. Pilyugin, R. I. Kuznetsov, and M. V. Degtyarev, Fiz. Met. Metalloved., 62: 566 (1986) (in Russian).",
+				"tr":  "N. A. Smirnova, V. I. Levit, V. P. Pilyugin, R. I. Kuznetsov, and M. V. Degtyarev, Fiz. Met. Metalloved., 62: 566 (1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Teplov, V. P. Pilyugin, R. I. Kuznetsov, D. I. Tupitsa, V. A. Shabashov, and V. M. Gundyrev, Fiz. Met. Metalloved., 64, No.1: 93 (1987) (in Russian).",
+				"tr":  "V. A. Teplov, V. P. Pilyugin, R. I. Kuznetsov, D. I. Tupitsa, V. A. Shabashov, and V. M. Gundyrev, Fiz. Met. Metalloved., 64, No.1: 93 (1987) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2016.07.149",
+				"or":  "A. P. Zhilyaev, G. V. Nurislamova, B. K. Kim, M. D. Bar, J. A. Szpunar, and T. G. Langdon, Acta Mater., 51: 753 ( 2003).",
+				"tr":  "A. P. Zhilyaev, G. V. Nurislamova, B. K. Kim, M. D. Bar, J. A. Szpunar, and T. G. Langdon, Acta Mater., 51: 753 ( 2003)."
+			},
+			{
+				"doi": "10.1016/S1359-6462(01)00955-1",
+				"or":  "A. P. Zhilyaev, S. Lee, G. V. Nurislamova, R. Z. Valiev, and T. G. Langdon, Scr. Mater., 44: 2753 (2001).",
+				"tr":  "A. P. Zhilyaev, S. Lee, G. V. Nurislamova, R. Z. Valiev, and T. G. Langdon, Scr. Mater., 44: 2753 (2001)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(96)00156-5",
+				"or":  "R. Z. Valiev, Yu. V. Ivanisenko, E. F. Rouch and B. Boudelet, Acta Mater., 44: 4705 (1996).",
+				"tr":  "R. Z. Valiev, Yu. V. Ivanisenko, E. F. Rouch and B. Boudelet, Acta Mater., 44: 4705 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "M. L. Bernshteyn, Struktura deformirovannykh metallov [Structure of the deformed metals] (Moscow: Metallurgiya: 1977) (in Russian).",
+				"tr":  "M. L. Bernshteyn, Struktura deformirovannykh metallov [Structure of the deformed metals] (Moscow: Metallurgiya: 1977) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2004.04.025",
+				"or":  "A. Vorhauer and R. Pippan, Scr. Mater., 51: 921 (2004).",
+				"tr":  "A. Vorhauer and R. Pippan, Scr. Mater., 51: 921 (2004)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2004.09.043",
+				"or":  "T. Hebesberger, H. P. Stewe, A. Vorhauer, F. Wetscher, and R. Pippan, Acta Mater., 53: 393 (2005).",
+				"tr":  "T. Hebesberger, H. P. Stewe, A. Vorhauer, F. Wetscher, and R. Pippan, Acta Mater., 53: 393 (2005)."
+			},
+			{
+				"doi": "10.1002/adem.200600133",
+				"or":  "R. Pippan, F. Wetscher, M. Hafok, A. Vorhauer, and I. Sabirov, Adv. Eng. Mater., 8: 1046 (2006).",
+				"tr":  "R. Pippan, F. Wetscher, M. Hafok, A. Vorhauer, and I. Sabirov, Adv. Eng. Mater., 8: 1046 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Pavlov, O. V. Antonov, A. P. Adakhovskiy, A. A. Kuranov, V. M. Alyab’ev, and A. I. Deryagin, Fiz. Met. Metalloved., 58: 177 (1984) (in Russian).",
+				"tr":  "V. A. Pavlov, O. V. Antonov, A. P. Adakhovskiy, A. A. Kuranov, V. M. Alyab’ev, and A. I. Deryagin, Fiz. Met. Metalloved., 58: 177 (1984) (in Russian)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/DDF.280-281.29",
+				"or":  "V. A. Tatarenko, S. M. Bokoch, V. M. Nadutov, T. M. Radchenko, and Y. B. Park, Defect Diffus. Forum, 280–281: 29 (2008).",
+				"tr":  "V. A. Tatarenko, S. M. Bokoch, V. M. Nadutov, T. M. Radchenko, and Y. B. Park, Defect Diffus. Forum, 280–281: 29 (2008)."
+			},
+			{
+				"doi": "10.1016/S1359-6462(03)00478-0",
+				"or":  "Y. Ivanisenko, R. K. Wunderlich, R. Z. Valiev, and H. J. Fecht, Scr. Mater., 49: 947 (2003).",
+				"tr":  "Y. Ivanisenko, R. K. Wunderlich, R. Z. Valiev, and H. J. Fecht, Scr. Mater., 49: 947 (2003)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(03)00419-1",
+				"or":  "Y. Ivanisenko, W. Lojkowski, R. Z. Valiev, and H. J. Fecht, Acta Mater., 51, No. 18: 5555 (2003).",
+				"tr":  "Y. Ivanisenko, W. Lojkowski, R. Z. Valiev, and H. J. Fecht, Acta Mater., 51, No. 18: 5555 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Vorhauer, S. Kleber, and R. Pippan, Microstructure of Austenitic and Ferritic Steels Produced by Severe Plastic Deformation and Subsequent Annealing (Charlotte: Ultrafine Grained Materials III, TMS: 2004).",
+				"tr":  "A. Vorhauer, S. Kleber, and R. Pippan, Microstructure of Austenitic and Ferritic Steels Produced by Severe Plastic Deformation and Subsequent Annealing (Charlotte: Ultrafine Grained Materials III, TMS: 2004)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Zakirova, R. G. Zaripova, and V. I. Semenov, Vestnik UGATU, 11, No. 29: 123 (2008) (in Russian).",
+				"tr":  "A. A. Zakirova, R. G. Zaripova, and V. I. Semenov, Vestnik UGATU, 11, No. 29: 123 (2008) (in Russian)."
+			},
+			{
+				"doi": "10.1002/adem.200600133",
+				"or":  "R. Pippan, F. Wetscher, M. Hafok, A. Vorhauer, and I. Sabirov, Adv. Eng. Mater., 8: (2006).",
+				"tr":  "R. Pippan, F. Wetscher, M. Hafok, A. Vorhauer, and I. Sabirov, Adv. Eng. Mater., 8: (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Pavlov, O. V. Antonov, A. P. Adakhovskiy, A. A. Kuranov, V. M. Alyab’ev, and A. I. Deryagin, Fiz. Met. Metalloved., 58: 177 (1984) (in Russian).",
+				"tr":  "V. A. Pavlov, O. V. Antonov, A. P. Adakhovskiy, A. A. Kuranov, V. M. Alyab’ev, and A. I. Deryagin, Fiz. Met. Metalloved., 58: 177 (1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Y. Ivanisenko, R. Z. Valiev, W. Lojkowski, A. Grob, and H. J. Fecht, Nanostructure Formation and Carbides Dissolution in Rail Steel Deformed by High Pressure Torsion (Seattle: Ultrafine Grained Materials II, TMS: 2002).",
+				"tr":  "Y. Ivanisenko, R. Z. Valiev, W. Lojkowski, A. Grob, and H. J. Fecht, Nanostructure Formation and Carbides Dissolution in Rail Steel Deformed by High Pressure Torsion (Seattle: Ultrafine Grained Materials II, TMS: 2002)."
+			},
+			{
+				"doi": "10.1016/S1359-6462(03)00478-0",
+				"or":  "Y. Y. Ivanisenko, R. K. Wunderlich, R. Z. Valiev, and H. J. Fecht, Scr. Mater., 49: 947 (2003).",
+				"tr":  "Y. Y. Ivanisenko, R. K. Wunderlich, R. Z. Valiev, and H. J. Fecht, Scr. Mater., 49: 947 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Z. Valiev, Nanostrukturirovanie materialov intensivnoy plasticheskoy deformatsiey dlya dostizheniya perspektivnykh svoystv [Nanostructuring of the materials by intensive plastic deformation to achieve promising properties] (Magnitogorsk: Dom Pechati: 2006), Vol. 1, No. 4, p. 215 (in Russian).",
+				"tr":  "R. Z. Valiev, Nanostrukturirovanie materialov intensivnoy plasticheskoy deformatsiey dlya dostizheniya perspektivnykh svoystv [Nanostructuring of the materials by intensive plastic deformation to achieve promising properties] (Magnitogorsk: Dom Pechati: 2006), Vol. 1, No. 4, p. 215 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Rollet, F. J. Humphreys, G. S. Rohrer, and M. Hatherly, Recrystallization and Related Annealing Phenomena, 2nd Edition (Oxford: Pergamon: 2004).",
+				"tr":  "A. Rollet, F. J. Humphreys, G. S. Rohrer, and M. Hatherly, Recrystallization and Related Annealing Phenomena, 2nd Edition (Oxford: Pergamon: 2004)."
+			},
+			{
+				"doi": "10.1007/978-3-642-15263-4",
+				"or":  "Nanotribology and Nanomechanics II. Nanotribology, Biomimetics, and Industrial Applications (Ed. B. Bhushan), (Berlin, Heidelberg: Springer: 2011).",
+				"tr":  "Nanotribology and Nanomechanics II. Nanotribology, Biomimetics, and Industrial Applications (Ed. B. Bhushan), (Berlin, Heidelberg: Springer: 2011)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Ts. Zayats, D. O. Panov, and M. G. Zakirova, Metallovedenie i Termicheskaya Obrabotka Metallov, No. 10: 18 (2008) (in Russian).",
+				"tr":  "L. Ts. Zayats, D. O. Panov, and M. G. Zakirova, Metallovedenie i Termicheskaya Obrabotka Metallov, No. 10: 18 (2008) (in Russian)."
+			},
+			{
+				"doi": "10.1007/s11041-009-9091-2",
+				"or":  "L. T. Zayats, D. O. Panov, and M. G. Zakirova, Met. Sci. Heat Treat., 50, Nos. 9–10: 473 (2008).",
+				"tr":  "L. T. Zayats, D. O. Panov, and M. G. Zakirova, Met. Sci. Heat Treat., 50, Nos. 9–10: 473 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "R. I. Kuznetsov, V. I. Bykov, V. P. Chernyshev, V. P. Pilyugin, N. A. Yefremov, and A. V. Pasheev, Plasticheskaya deformaciya tverdyh tel pod davleniem [Plastic deformation of solids under pressure] (Sverdlovsk: IFM URO AS USSR: 1985) (in Russian).",
+				"tr":  "R. I. Kuznetsov, V. I. Bykov, V. P. Chernyshev, V. P. Pilyugin, N. A. Yefremov, and A. V. Pasheev, Plasticheskaya deformaciya tverdyh tel pod davleniem [Plastic deformation of solids under pressure] (Sverdlovsk: IFM URO AS USSR: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. A. Krokhmal’ and G. N. Tolmacheva, Fizicheskaya Inzheneriya Poverkhnosti, 9, No. 4: 350 (2011) (in Russian).",
+				"tr":  "S. A. Krokhmal’ and G. N. Tolmacheva, Fizicheskaya Inzheneriya Poverkhnosti, 9, No. 4: 350 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "ISO 14577-1:2002. Metallic materials – Instrumented indentation test for hardness and materials parameters – Part 1: Test method.",
+				"tr":  "ISO 14577-1:2002. Metallic materials – Instrumented indentation test for hardness and materials parameters – Part 1: Test method."
+			},
+			{
+				"doi": "",
+				"or":  "S. A. Firstov and T. G. Rogul’, Dopovіdі NAN Ukrainy, No. 4: 110 (2007) (in Russian).",
+				"tr":  "S. A. Firstov and T. G. Rogul’, Dopovіdі NAN Ukrainy, No. 4: 110 (2007) (in Russian)."
+			},
+			{
+				"doi": "10.1088/0022-3727/41/7/074013",
+				"or":  "Yu. V. Milman, J. Physcis D: Appl. Phys., 41: 074013 (2008).",
+				"tr":  "Yu. V. Milman, J. Physcis D: Appl. Phys., 41: 074013 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "State Standard 01.01.1983. Shkurka shlifoval'naya bumazhnaya. Tekhnicheskie usloviya: ГОСТ 6456-82 [Sanding paper Technical conditions: ГОСТ 6456-82] (Moscow: Izdatelєstvo standartov: 1990), p. 12 (in Russian).",
+				"tr":  "State Standard 01.01.1983. Shkurka shlifoval'naya bumazhnaya. Tekhnicheskie usloviya: ГОСТ 6456-82 [Sanding paper Technical conditions: ГОСТ 6456-82] (Moscow: Izdatelєstvo standartov: 1990), p. 12 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "State Standard 01.01.1977. Izmerenie mikrotverdosti vdavlivaniem almaznykh nakonechnikov. ГОСТ 9450-76 [Measurement of microhardness by indentation of diamond tips. ГОСТ 9450-76] (Moscow: Izdatelєstvo standartov: 1993), р. 34 (in Russian).",
+				"tr":  "State Standard 01.01.1977. Izmerenie mikrotverdosti vdavlivaniem almaznykh nakonechnikov. ГОСТ 9450-76 [Measurement of microhardness by indentation of diamond tips. ГОСТ 9450-76] (Moscow: Izdatelєstvo standartov: 1993), р. 34 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. M. Eskina and V. P. Morozov, Rentgenograficheskiy fazovyy analiz: uchebno-metodicheskoe posobie [X-ray phase analysis: a teaching workbook] (Kazan: Kazan State University: 2010) (in Russian).",
+				"tr":  "G. M. Eskina and V. P. Morozov, Rentgenograficheskiy fazovyy analiz: uchebno-metodicheskoe posobie [X-ray phase analysis: a teaching workbook] (Kazan: Kazan State University: 2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ya. S. Umanskiy, Yu. S. Skakov, A. N. Ivanov, and L. N. Rastorguev, Kristallografiya, rentgenografiya i elektronnaya mikroskopiya [Crystallography, x-ray and electron microscopy] (Moscow: Metallurgiya: 1982) (in Russian).",
+				"tr":  "Ya. S. Umanskiy, Yu. S. Skakov, A. N. Ivanov, and L. N. Rastorguev, Kristallografiya, rentgenografiya i elektronnaya mikroskopiya [Crystallography, x-ray and electron microscopy] (Moscow: Metallurgiya: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "B. E. Warren, X-Ray Diffraction (New York: Dover Publ. Inc.:1990).",
+				"tr":  "B. E. Warren, X-Ray Diffraction (New York: Dover Publ. Inc.:1990)."
+			},
+			{
+				"doi": "10.1007/978-0-387-09579-0",
+				"or":  "V. K. Pecharsky and P. Y. Zavalij, Fundamentals of Powder Diffraction and Structural Characterization of Material (Boston, MA: Springer: 2009).",
+				"tr":  "V. K. Pecharsky and P. Y. Zavalij, Fundamentals of Powder Diffraction and Structural Characterization of Material (Boston, MA: Springer: 2009)."
+			},
+			{
+				"doi": "10.1016/S0966-9795(03)00174-2",
+				"or":  "V. A. Tatarenko and T. M. Radchenko, Intermetallics, 11, Nos. 11–12: 1319 (2003).",
+				"tr":  "V. A. Tatarenko and T. M. Radchenko, Intermetallics, 11, Nos. 11–12: 1319 (2003)."
+			},
+			{
+				"doi": "10.1063/1.1702234",
+				"or":  "B. E. Warren and B. L. Averbach, J. Appl. Phys., 23: 497 (1952).",
+				"tr":  "B. E. Warren and B. L. Averbach, J. Appl. Phys., 23: 497 (1952)."
+			},
+			{
+				"doi": "",
+				"or":  "Ya. S. Umanskiy, Rentgenografiya metallov [Metal Radiography] (Moscow: Metallurgiya: 1967) (in Russian).",
+				"tr":  "Ya. S. Umanskiy, Rentgenografiya metallov [Metal Radiography] (Moscow: Metallurgiya: 1967) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.1699713",
+				"or":  "B. L. Averbach and B. E. Warren, J. Appl. Phys., 21: 55 (1950).",
+				"tr":  "B. L. Averbach and B. E. Warren, J. Appl. Phys., 21: 55 (1950)."
+			},
+			{
+				"doi": "10.1107/S0021889884010943",
+				"or":  "R. K. Nandi, H. K. Kuo, W. Schlosberg, G. Wissler, and J. B. Cohen, J. Appl. Crystallogr., 17: 22 (1984).",
+				"tr":  "R. K. Nandi, H. K. Kuo, W. Schlosberg, G. Wissler, and J. B. Cohen, J. Appl. Crystallogr., 17: 22 (1984)."
+			},
+			{
+				"doi": "10.1107/S0021889883010481",
+				"or":  "W. H. Schlosberg and J. B. Cohen, J. Appl. Crystallogr., 16: 304 (1983).",
+				"tr":  "W. H. Schlosberg and J. B. Cohen, J. Appl. Crystallogr., 16: 304 (1983)."
+			},
+			{
+				"doi": "10.1007/BF00482725",
+				"or":  "R. Delhez, Th. H. de Keijser, and E. J. Mittemeijer, Z. Anal. Chem., 312, No. 1: 1 (1982).",
+				"tr":  "R. Delhez, Th. H. de Keijser, and E. J. Mittemeijer, Z. Anal. Chem., 312, No. 1: 1 (1982)."
+			},
+			{
+				"doi": "10.1107/S0021889878012844",
+				"or":  "J. I. Langford and A. J. C. Wilson, J. Appl. Crystallogr., 11: 102 (1978).",
+				"tr":  "J. I. Langford and A. J. C. Wilson, J. Appl. Crystallogr., 11: 102 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Z. Kutsova, V. F. Balakin, G. P. Stetsenko, and T. V. Kotova, Metaloznavstvo ta Termіchna Obrobka Metalіv, 1: 41 (2017) (in Russian).",
+				"tr":  "V. Z. Kutsova, V. F. Balakin, G. P. Stetsenko, and T. V. Kotova, Metaloznavstvo ta Termіchna Obrobka Metalіv, 1: 41 (2017) (in Russian)."
+			},
+			{
+				"doi": "10.1107/S0021889883010481",
+				"or":  "W. H. Schlosberg and J. B. Cohen, J. Appl. Crystallogr., 16: 304 (1983).",
+				"tr":  "W. H. Schlosberg and J. B. Cohen, J. Appl. Crystallogr., 16: 304 (1983)."
+			},
+			{
+				"doi": "10.1088/0022-3735/11/7/015",
+				"or":  "R. Delhez, Th. H de Keijser, and E. J. Mittemeijer, J. Physics E: Sci. Instrum., 11, No. 7: 649 (1978).",
+				"tr":  "R. Delhez, Th. H de Keijser, and E. J. Mittemeijer, J. Physics E: Sci. Instrum., 11, No. 7: 649 (1978)."
+			},
+			{
+				"doi": "10.1107/S0021889878012844",
+				"or":  "J. I. Langford and A. J. C. Wilson, J. Appl. Crystallogr., 11: 102 (1978).",
+				"tr":  "J. I. Langford and A. J. C. Wilson, J. Appl. Crystallogr., 11: 102 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Z. Kutsova, T. V. Kotova, and G. P. Ploshenko, Іnnovatsіyniy potentsіal svіtovoi nauky – XXІ storіchchya (Zaporіzhzhya: 2013), vol. 2, p. 66 (in Russian).",
+				"tr":  "V. Z. Kutsova, T. V. Kotova, and G. P. Ploshenko, Іnnovatsіyniy potentsіal svіtovoi nauky – XXІ storіchchya (Zaporіzhzhya: 2013), vol. 2, p. 66 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Z. Kutsova, T. V. Kotova, and G. P. Ploshenko, Metalurgіina ta Gіrnychorudna Promyslovіst’, No. 3: 75 (2014) (in Russian).",
+				"tr":  "V. Z. Kutsova, T. V. Kotova, and G. P. Ploshenko, Metalurgіina ta Gіrnychorudna Promyslovіst’, No. 3: 75 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. A. Geller, Materialovedenie. Metody analiza, laboratornye raboty i zadachi [Materials Science. Analysis methods, laboratory work and problems] (Moscow: Metallurgiya: 1984) (in Russian).",
+				"tr":  "Yu. A. Geller, Materialovedenie. Metody analiza, laboratornye raboty i zadachi [Materials Science. Analysis methods, laboratory work and problems] (Moscow: Metallurgiya: 1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. L. Pilyushenko, B. B. Vinokur, and S. E. Kondratyuk, Spravochnik po prakticheskomu metallovedeniyu [Handbook on practical metal science] (Kiev: Tekhnіka: 1984) (in Russian).",
+				"tr":  "V. L. Pilyushenko, B. B. Vinokur, and S. E. Kondratyuk, Spravochnik po prakticheskomu metallovedeniyu [Handbook on practical metal science] (Kiev: Tekhnіka: 1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. K. Barziy, Stal’, No. 11: 1013 (1959) (in Russian).",
+				"tr":  "V. K. Barziy, Stal’, No. 11: 1013 (1959) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "State Standard 2000.01.01. Prokat tonkolistovoy iz uglerodistoy stali kachestvennoy i obyknovennogo kachestva obshchego naznacheniya. Tekhnicheskie usloviya: ГОСТ 16523-97. [Rolled sheets of carbon steel of high quality and ordinary quality of general purpose. Technical conditions: ГОСТ 16523-97] (Moscow: Izdatel’stvo standartov: 1997) (in Russian).",
+				"tr":  "State Standard 2000.01.01. Prokat tonkolistovoy iz uglerodistoy stali kachestvennoy i obyknovennogo kachestva obshchego naznacheniya. Tekhnicheskie usloviya: ГОСТ 16523-97. [Rolled sheets of carbon steel of high quality and ordinary quality of general purpose. Technical conditions: ГОСТ 16523-97] (Moscow: Izdatel’stvo standartov: 1997) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. M. Lakhtin and V. P. Leont’eva, Materialovedenie: uchebnik dlya vuzov [Materials science: a textbook for high schools] (Moscow: Mashinostroenie: 1990) (in Russian).",
+				"tr":  "Yu. M. Lakhtin and V. P. Leont’eva, Materialovedenie: uchebnik dlya vuzov [Materials science: a textbook for high schools] (Moscow: Mashinostroenie: 1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Z. Kutsova, G. P. Ploshenko, T. V. Kotova, G. Diya, and A. Kawalek, Naukovі vіstі. Suchasnі problemy metalurgіi, No. 18: 21(2015) (in Russian).",
+				"tr":  "V. Z. Kutsova, G. P. Ploshenko, T. V. Kotova, G. Diya, and A. Kawalek, Naukovі vіstі. Suchasnі problemy metalurgіi, No. 18: 21(2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "State Standard Stal’ 31.10.1968. Metallograficheskiy metod otsenki mikrostruktury listov i lenty. ГОСТ 5640-68. [Steel. Metallographic method for evaluation of sheet and tape microstructure. ГОСТ 5640-68] (Moscow: Izdatel’stvo standartov: 1988) (in Russian).",
+				"tr":  "State Standard Stal’ 31.10.1968. Metallograficheskiy metod otsenki mikrostruktury listov i lenty. ГОСТ 5640-68. [Steel. Metallographic method for evaluation of sheet and tape microstructure. ГОСТ 5640-68] (Moscow: Izdatel’stvo standartov: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. V. Rzhevskaya, Materialovedenie: uchebnik dlya vuzov [Materials Science: a textbook for high schools] (Moscow: Logos: 2006) (in Russian).",
+				"tr":  "S. V. Rzhevskaya, Materialovedenie: uchebnik dlya vuzov [Materials Science: a textbook for high schools] (Moscow: Logos: 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "I. Yu. Litovchenko, A. N. Tyumentsev, N. V. Shevchenko, and A. V. Korznikov, Fiz. Met. Metalloved., 112, No. 4: 436 (2011) (in Russian).",
+				"tr":  "I. Yu. Litovchenko, A. N. Tyumentsev, N. V. Shevchenko, and A. V. Korznikov, Fiz. Met. Metalloved., 112, No. 4: 436 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "HSLA Steels: Processing, Properties and Applications (Ed. G. Tither) (Warrendale, PA: TMS: 1992).",
+				"tr":  "HSLA Steels: Processing, Properties and Applications (Ed. G. Tither) (Warrendale, PA: TMS: 1992)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Deloach and R. Dinale, Welding and Weld Automation in Shipbuilding (Warrendale, PA: TMS: 1996).",
+				"tr":  "J. Deloach and R. Dinale, Welding and Weld Automation in Shipbuilding (Warrendale, PA: TMS: 1996)."
+			},
+			{
+				"doi": "",
+				"or":  "V. N. Rybin, Problemy Materialovedeniya, 29, No. 1: 11 (2002) (in Russian).",
+				"tr":  "V. N. Rybin, Problemy Materialovedeniya, 29, No. 1: 11 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Rybin, Bol’shie plasticheskie deformatsii i razrushenie metallov [Large plastic deformation and destruction of metals] (Moscow: Metallurgiya: 1986) (in Russian).",
+				"tr":  "V. V. Rybin, Bol’shie plasticheskie deformatsii i razrushenie metallov [Large plastic deformation and destruction of metals] (Moscow: Metallurgiya: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. A. Kunitsyn, A. P. Budanov, and V. L. Kornilov, Metallurg, No. 1: 57 (2007) (in Russian).",
+				"tr":  "G. A. Kunitsyn, A. P. Budanov, and V. L. Kornilov, Metallurg, No. 1: 57 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Titov, Natsiona’naya Metallurgiya, No. 5: 84 (2004) (in Russian).",
+				"tr":  "V. Titov, Natsiona’naya Metallurgiya, No. 5: 84 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Dedek, Polosovaya stal’ dlya glubokoi vytiazhki [Deep drawn strip steel] (Moscow: Metallurgiya: 1970) (in Russian).",
+				"tr":  "V. Dedek, Polosovaya stal’ dlya glubokoi vytiazhki [Deep drawn strip steel] (Moscow: Metallurgiya: 1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Kosevich, V. M. Ivlev, L. S. Palatnik, and A. I. Fedorenko, Struktura mezhkristallitnykh i mezhfaznykh granits [Structure of intercrystalline and interphase boundaries] (Moscow: Metallurgiya: 1980) (in Russian).",
+				"tr":  "V. M. Kosevich, V. M. Ivlev, L. S. Palatnik, and A. I. Fedorenko, Struktura mezhkristallitnykh i mezhfaznykh granits [Structure of intercrystalline and interphase boundaries] (Moscow: Metallurgiya: 1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ch. V. Kopetskiy, A. N. Orlov, and L. K. Fionova, Granitsy zeren v chistykh materialakh [Grain boundaries in pure materials] (Moscow: Nauka: 1987) (in Russian).",
+				"tr":  "Ch. V. Kopetskiy, A. N. Orlov, and L. K. Fionova, Granitsy zeren v chistykh materialakh [Grain boundaries in pure materials] (Moscow: Nauka: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. V. Grabskiy, Struktura granits zeren v metallakh [The structure of the grain boundaries in metals] (Moscow: Metallurgiya: 1972) (in Russian).",
+				"tr":  "M. V. Grabskiy, Struktura granits zeren v metallakh [The structure of the grain boundaries in metals] (Moscow: Metallurgiya: 1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Yu. Mironov, V. N. Danilenko, and M. M. Myshlyaev, Fiz. Tverd. Tela, 47: 1217 (2005) (in Russian).",
+				"tr":  "S. Yu. Mironov, V. N. Danilenko, and M. M. Myshlyaev, Fiz. Tverd. Tela, 47: 1217 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Z. Kutsova, O. Yu. Putnokі, T. V. Kotova, V. G. Іvanchenko, and G. P. Ploshenko, Novini Nauky Pridnіprov’ya, No. 2: 189 (2012) (in Ukrainian).",
+				"tr":  "V. Z. Kutsova, O. Yu. Putnokі, T. V. Kotova, V. G. Іvanchenko, and G. P. Ploshenko, Novini Nauky Pridnіprov’ya, No. 2: 189 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. N. Gridnev, V. G. Gavrilyuk, and Yu. Ya. Meshkov, Prochnost’ i plastichnost’ kholodnodeformirovannoy stali [Strength and ductility of cold-rolled steel] (Kiev: Naukova dumka: 1974) (in Russian).",
+				"tr":  "V. N. Gridnev, V. G. Gavrilyuk, and Yu. Ya. Meshkov, Prochnost’ i plastichnost’ kholodnodeformirovannoy stali [Strength and ductility of cold-rolled steel] (Kiev: Naukova dumka: 1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Astanin, Fiz. Met. Metalloved., 79, No. 3: 166 (1995) (in Russian).",
+				"tr":  "V. V. Astanin, Fiz. Met. Metalloved., 79, No. 3: 166 (1995) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. Ya. Meshkov and T. N. Serditova, Razrushenie deformirovannoy stali [Destruction of deformed steel] (Kyiv: Naukova dumka: 1989) (in Russian).",
+				"tr":  "Yu. Ya. Meshkov and T. N. Serditova, Razrushenie deformirovannoy stali [Destruction of deformed steel] (Kyiv: Naukova dumka: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. A. Meshkov and G. A. Pakharenko, Struktura metalla i khrupkost’ stal’nykh izdeliy [Metal structure and brittleness of steel products] (Kyiv: Naukova dumka: 1985) (in Russian).",
+				"tr":  "Yu. A. Meshkov and G. A. Pakharenko, Struktura metalla i khrupkost’ stal’nykh izdeliy [Metal structure and brittleness of steel products] (Kyiv: Naukova dumka: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Skudnov, Predel’nye plasticheskie deformatsii metallov [Ultimate plastic strains of metals] (Moscоw: Metallurgiya: 1988) (in Russian).",
+				"tr":  "V. A. Skudnov, Predel’nye plasticheskie deformatsii metallov [Ultimate plastic strains of metals] (Moscоw: Metallurgiya: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. Projdak, V. Kutsova, T. Kotova, G. Stetsenko, H. Dyja, and A. Kawalek, New technologies and achievements in metallurgy, material engineering, production engineering and physics. A collective monograph. Series: Monografie, No. 68: 247 (2017) (in Russian).",
+				"tr":  "Yu. Projdak, V. Kutsova, T. Kotova, G. Stetsenko, H. Dyja, and A. Kawalek, New technologies and achievements in metallurgy, material engineering, production engineering and physics. A collective monograph. Series: Monografie, No. 68: 247 (2017) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. P. Efimenko, Stal’, No. 3: 35 (2001) (in Russian).",
+				"tr":  "S. P. Efimenko, Stal’, No. 3: 35 (2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. V. Kostina, A. V. Dymov, and V. M. Blinov, Metallovedenie i Termicheskaya Obrabotka Metallov, No. 1: 1 (2002) (in Russian).",
+				"tr":  "M. V. Kostina, A. V. Dymov, and V. M. Blinov, Metallovedenie i Termicheskaya Obrabotka Metallov, No. 1: 1 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Geshelin and A. F. Osipov, Metallurgicheskaya i gornorudnaya promyshlennost’, No. 5: 41 (2000) (in Russian).",
+				"tr":  "V. G. Geshelin and A. F. Osipov, Metallurgicheskaya i gornorudnaya promyshlennost’, No. 5: 41 (2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. N. Kaverina, E. P. Pechkovskiy, G. F. Sarzhan, and S. A. Firstov, Metallofiz. Noveishie Tekhnol., 24, No. 2: 251 (2002) (in Russian).",
+				"tr":  "S. N. Kaverina, E. P. Pechkovskiy, G. F. Sarzhan, and S. A. Firstov, Metallofiz. Noveishie Tekhnol., 24, No. 2: 251 (2002) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(96)00194-2",
+				"or":  "R. S. Mishra, T. R. Bieler, and A. K. Mukherjee, Acta Mater., 45, No. 2: 561 (1997).",
+				"tr":  "R. S. Mishra, T. R. Bieler, and A. K. Mukherjee, Acta Mater., 45, No. 2: 561 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "N. N. Malinin, Prikladnaya teoriya plastichnosti i polzuchesti [Applied theory of plasticity and creep] (Moscow: Mashinostroenie: 1975) (in Russian).",
+				"tr":  "N. N. Malinin, Prikladnaya teoriya plastichnosti i polzuchesti [Applied theory of plasticity and creep] (Moscow: Mashinostroenie: 1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. E. Aleksandrov and E. A. Lyamina, Metally, No. 2: 94 (2002) (in Russian).",
+				"tr":  "S. E. Aleksandrov and E. A. Lyamina, Metally, No. 2: 94 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "I. L. Yakovleva, D. A. Mirzaev, and V. M. Schastlivtsev, Fazovye i Strukturnye Prevrashcheniya v Stalyakh, 1: 116 (2000) (in Russian).",
+				"tr":  "I. L. Yakovleva, D. A. Mirzaev, and V. M. Schastlivtsev, Fazovye i Strukturnye Prevrashcheniya v Stalyakh, 1: 116 (2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Schastlivtsev, D. A. Mirzaev, and I. L. Yakovleva, Perlit v uglerodistykh stalyakh [Perlite in carbon steels] (Ekaterinburg: UrO RAN: 2006) (in Russian).",
+				"tr":  "V. M. Schastlivtsev, D. A. Mirzaev, and I. L. Yakovleva, Perlit v uglerodistykh stalyakh [Perlite in carbon steels] (Ekaterinburg: UrO RAN: 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Z. Kutsova, T. V Kotova, G. P. Ploshenko, and Z. Stadomski, Metallurgy. 2013: New Technologies and Achievements: A Collective Monograph, 2, No. 31: 65 (2013) (in Russian).",
+				"tr":  "V. Z. Kutsova, T. V Kotova, G. P. Ploshenko, and Z. Stadomski, Metallurgy. 2013: New Technologies and Achievements: A Collective Monograph, 2, No. 31: 65 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "O. N. Shtekhno, B. N. Fogel’, and G. V. Levchenko, Stal’, No. 10: 62 (2003) (in Russian).",
+				"tr":  "O. N. Shtekhno, B. N. Fogel’, and G. V. Levchenko, Stal’, No. 10: 62 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. V. Levchenko, A. M. Nesterenko, A. V. Yankovskiy, and S. A. Vorobey, Teoriya i Praktika Metallurgii, Nos. 1–2: 85 (2005) (in Russian).",
+				"tr":  "G. V. Levchenko, A. M. Nesterenko, A. V. Yankovskiy, and S. A. Vorobey, Teoriya i Praktika Metallurgii, Nos. 1–2: 85 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Belevitin, V. F. Obesnyuk, and E. R. Logunova, Metally, No. 1: 26 (2003) (in Russian).",
+				"tr":  "A. Belevitin, V. F. Obesnyuk, and E. R. Logunova, Metally, No. 1: 26 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "B. S. Bokshteyn, Ch. V. Kopetskiy, and L. S. Shvindlerman, Termodinamika i kinetika granits zeren v metallakh [Thermodynamics and kinetics of grain boundaries in metals] (Moscоw: Metallurgiya: 1986) (in Russian).",
+				"tr":  "B. S. Bokshteyn, Ch. V. Kopetskiy, and L. S. Shvindlerman, Termodinamika i kinetika granits zeren v metallakh [Thermodynamics and kinetics of grain boundaries in metals] (Moscоw: Metallurgiya: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ch. V. Kopetskiy, A. N Orlov, and L. K Fionova, Granitsy zeren v chistykh materialakh [Grain boundaries in pure materials] (Moscow: Nauka: 1987) (in Russian).",
+				"tr":  "Ch. V. Kopetskiy, A. N Orlov, and L. K Fionova, Granitsy zeren v chistykh materialakh [Grain boundaries in pure materials] (Moscow: Nauka: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "I. P. Kudryavtsev, Tekstury v metallakh i splavakh [Textures in metals and alloys] (Moscow: Metallurgiya: 1965) (in Russian).",
+				"tr":  "I. P. Kudryavtsev, Tekstury v metallakh i splavakh [Textures in metals and alloys] (Moscow: Metallurgiya: 1965) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I Bol’shakov, G. D. Sukhomlin, and D. V. Laukhin, Theoretical Foundation of Civil Engineering: Polish–Ukrainian–Lithuaninan Transactions, 15: 73 (2007) (in Russian).",
+				"tr":  "V. I Bol’shakov, G. D. Sukhomlin, and D. V. Laukhin, Theoretical Foundation of Civil Engineering: Polish–Ukrainian–Lithuaninan Transactions, 15: 73 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ya. D. Vishnyakov, A. A. Babareko, S. A. Vladimirov, and I. V. Egiz, Teoriya obrazovaniya tekstur v metallakh [The theory of formation of textures in metals] (Moscow: Nauka: 1979) (in Russian).",
+				"tr":  "Ya. D. Vishnyakov, A. A. Babareko, S. A. Vladimirov, and I. V. Egiz, Teoriya obrazovaniya tekstur v metallakh [The theory of formation of textures in metals] (Moscow: Nauka: 1979) (in Russian)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.584-586.623",
+				"or":  "S. V. Dobatkin, P. D. Odessky, and S. V. Shagalina, Mat. Sci. Forum, 584–586: 623 (2008).",
+				"tr":  "S. V. Dobatkin, P. D. Odessky, and S. V. Shagalina, Mat. Sci. Forum, 584–586: 623 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Glezer and L. S. Metlov, Fiz. Tverd. Tela, 6: 1090 (2010) (in Russian).",
+				"tr":  "A. M. Glezer and L. S. Metlov, Fiz. Tverd. Tela, 6: 1090 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. A. Firstov, V. F. Gorban’, E. P. Pechkovskiy, and N. A. Mameka, Sbornik Dokladov Khar’kovskoi Nanotekhnologicheskoi Assamblei, 1: 52 (2007) (in Russian).",
+				"tr":  "S. A. Firstov, V. F. Gorban’, E. P. Pechkovskiy, and N. A. Mameka, Sbornik Dokladov Khar’kovskoi Nanotekhnologicheskoi Assamblei, 1: 52 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Randle and O. Engler, Introduction to Texture Analysis: Macrotexture, Microtexture and Orientation Mapping (London: CRC Press: 2000).",
+				"tr":  "V. Randle and O. Engler, Introduction to Texture Analysis: Macrotexture, Microtexture and Orientation Mapping (London: CRC Press: 2000)."
+			},
+			{
+				"doi": "",
+				"or":  "V. F. Gorban’, E. P. Pechkovskiy, and S. A. Firstov, Metallofiz. Noveishie Tekhnol., 28, No. 1: 67 (2006) (in Russian).",
+				"tr":  "V. F. Gorban’, E. P. Pechkovskiy, and S. A. Firstov, Metallofiz. Noveishie Tekhnol., 28, No. 1: 67 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. F. Gorban’, E. P. Pechkovskiy, and S. A. Firstov, Elektronnaya Mikroskopiya i Prochnost’ Materialov, 15: 89 (2008) (in Russian).",
+				"tr":  "V. F. Gorban’, E. P. Pechkovskiy, and S. A. Firstov, Elektronnaya Mikroskopiya i Prochnost’ Materialov, 15: 89 (2008) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.121873",
+				"or":  "Cheng Yang-Tse and Cheng Che-Min, Appl. Phys. Lett., 73, No. 5: (1998).",
+				"tr":  "Cheng Yang-Tse and Cheng Che-Min, Appl. Phys. Lett., 73, No. 5: (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "B. A. Galanov and O. N. Grigor’ev, Elektronnaya Mikroskopiya i Prochnost’ Materialov, No. 13: 4 (2006) (in Russian).",
+				"tr":  "B. A. Galanov and O. N. Grigor’ev, Elektronnaya Mikroskopiya i Prochnost’ Materialov, No. 13: 4 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. L. Trunov, V. S. Bilanich, and S. N. Dub, ZhTF, 77, No. 10: (2007) (in Russian).",
+				"tr":  "M. L. Trunov, V. S. Bilanich, and S. N. Dub, ZhTF, 77, No. 10: (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. N. Dub, O. N. Grigoryev, and O. V. Sobol, Functional Materials, 13, No. 1: 105 (2006).",
+				"tr":  "S. N. Dub, O. N. Grigoryev, and O. V. Sobol, Functional Materials, 13, No. 1: 105 (2006)."
+			},
+			{
+				"doi": "10.1016/S0040-6090(02)00942-2",
+				"or":  "D. B. Shtansky, S. A. Kulinich, and E. A. Levashov, Thin Solid Films, 420: 330 (2002).",
+				"tr":  "D. B. Shtansky, S. A. Kulinich, and E. A. Levashov, Thin Solid Films, 420: 330 (2002)."
+			},
+			{
+				"doi": "10.1007/978-1-4684-5967-8_23",
+				"or":  "C. J. McHargue, Thin Solid Films, 162: 363 (1988).",
+				"tr":  "C. J. McHargue, Thin Solid Films, 162: 363 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "O. N. Grigor’ev, Poroshkovaya Metallurgiya, 1: 74 (1982) (in Russian).",
+				"tr":  "O. N. Grigor’ev, Poroshkovaya Metallurgiya, 1: 74 (1982) (in Russian)."
+			},
+			{
+				"doi": "10.1002/crat.2170190321",
+				"or":  "V. I. Trefilov, Yu. V. Milman, and I. V. Gridneva, Crys. Res. Technol., 19, No. 3: 413 (1984).",
+				"tr":  "V. I. Trefilov, Yu. V. Milman, and I. V. Gridneva, Crys. Res. Technol., 19, No. 3: 413 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "O. B. Perevalova and A. V. Panin, Proc. Symp. ‘Environments with structural and magnetic ordering’ (Rostov-na-Donu, September 4–8, 2011), р. 112 (in Russian).",
+				"tr":  "O. B. Perevalova and A. V. Panin, Proc. Symp. ‘Environments with structural and magnetic ordering’ (Rostov-na-Donu, September 4–8, 2011), р. 112 (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.19.03.271",
+				"or":  "Yu. V. Milman, S. I. Chugunova, I. V. Goncharova, and А. А. Golubenko, Usp. Fiz. Met., 19, No. 3: 271 (2018).",
+				"tr":  "Yu. V. Milman, S. I. Chugunova, I. V. Goncharova, and А. А. Golubenko, Usp. Fiz. Met., 19, No. 3: 271 (2018)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. V. Mil’man, S. I. Chugunova, and I. V. Goncharova, Issledovanie mekhanicheskogo povedeniya maloplastichnykh materialov metodom indentirovaniya [The investigation of the mechanical behaviour of low-plastic materials] (Tomsk: Izdatel’stvo NTL: 2006) (in Russian).",
+				"tr":  "Yu. V. Mil’man, S. I. Chugunova, and I. V. Goncharova, Issledovanie mekhanicheskogo povedeniya maloplastichnykh materialov metodom indentirovaniya [The investigation of the mechanical behaviour of low-plastic materials] (Tomsk: Izdatel’stvo NTL: 2006) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.18.03.265",
+				"or":  "Yu. V. Milman and I. V. Goncharova, Usp. Fiz. Met., 18, No. 3: 265 (2017) (in Russian).",
+				"tr":  "Yu. V. Milman and I. V. Goncharova, Usp. Fiz. Met., 18, No. 3: 265 (2017) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. N. Orlov and V. R. Regel’, Plastichnost’. Fizicheskiy entsiklopedicheskiy slovar’ [The plasticity. Physical Thesaurus] (Moscow: Sovetskaya entsiklopediya: 1965) (in Russian).",
+				"tr":  "A. N. Orlov and V. R. Regel’, Plastichnost’. Fizicheskiy entsiklopedicheskiy slovar’ [The plasticity. Physical Thesaurus] (Moscow: Sovetskaya entsiklopediya: 1965) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. I. Yurkova, Yu. V. Mil’man, and A. V. Byakova, Deformatsiya i Razrushenie Materialov, 2: 2 (2009) (in Russian).",
+				"tr":  "A. I. Yurkova, Yu. V. Mil’man, and A. V. Byakova, Deformatsiya i Razrushenie Materialov, 2: 2 (2009) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0956-7151(93)90122-9",
+				"or":  "Yu. V. Milman, B. A. Galanov, and S. I. Chugunova, Acta Met. Mater., 41, No. 9: 2523 (1993).",
+				"tr":  "Yu. V. Milman, B. A. Galanov, and S. I. Chugunova, Acta Met. Mater., 41, No. 9: 2523 (1993)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/SSP.94.55",
+				"or":  "Yu. V. Milman, W. Lojkowski, S. I. Chugunova, D. V. Lotsko, I. V. Gridneva, and A. A. Golubenko, Solid State Phenom., 94: 55 (2003).",
+				"tr":  "Yu. V. Milman, W. Lojkowski, S. I. Chugunova, D. V. Lotsko, I. V. Gridneva, and A. A. Golubenko, Solid State Phenom., 94: 55 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Z. Kutsova and G. P. Stetsenko, Metaloznavstvo ta Termіchna Obrobka Metalіv, 2: 55 (2016) (in Russian).",
+				"tr":  "V. Z. Kutsova and G. P. Stetsenko, Metaloznavstvo ta Termіchna Obrobka Metalіv, 2: 55 (2016) (in Russian)."
+			}
+		]
+	}
+}
