@@ -1,0 +1,194 @@
+{
+	"_id":    "UFM.20.02.285",
+	"year":   2019,
+	"volume": 20,
+	"issue":  2,
+	"pages":  [285,309],
+	"type":   1,
+	"lang":   "en",
+	"date":   ["26.02.2019", "18.04.2019"],
+	"PACS":   " ",
+	"title":   {
+		"ua": "Мікроструктура та властивості матеріалів на основі титану, перспективних для протибалістичного захисту",
+		"en": "Microstructure and Properties of Titanium-Based Materials Promising for Antiballistic Protection",
+		"ru": "Микроструктура и свойства материалов на основе титана, перспективных для противобаллистической защиты"
+	},
+	"abstract": {
+		"ua": "Титанові матеріали, які поєднують високу міцність і твердість поверхні при достатніх пластичних характеристиках основного металу, є перспективними для використання в різних галузях техніки, зокрема, в якості бронеелементів у військово-промисловому комплексі. Одержати вищевказану комбінацію властивостей можливо, створюючи матеріали, які складаються з декількох шарів, що відрізняються за своїми фізико-механічними характеристиками. В роботі досліджено особливості мікроструктури, механічних характеристик і балістичної стійкости таких матеріалів, створених за двома підходами. Першим є стандартний підхід, що поєднує виготовлення та гарячу деформацію зливків з наступним поверхневим швидкісним термічним обробленням сплавів ВТ6 (Ті–6Al–4V) та T110, що створює в них ґрадієнтні структурні стани, зі зміною механічних характеристик по глибині матеріалу. Іншим є порошковий підхід для створення структур, які поєднують шари сплаву Ti–6Al–4V і композитів на його основі, зміцнених частинками ТiB або ТіС. Проведено балістичні випробування одержаних матеріалів різними типами набоїв, що відрізняються кінетичною енергією, твердістю осердя та наявністю запалювальної суміші; досліджено особливості проникнення уражальних елементів, залежно від структурного стану матеріалу. Доведено, що матеріали з ґрадієнтною та шаруватою структурами мають незаперечні переваги за захисними протибалістичними характеристиками, порівняно з однорідними титановими сплавами тієї ж товщини.",
+		"en": "Titanium-based materials, which combine high strength and hardness of surface layer along with sufficient ductile characteristics of the matrix metal, are very promising for various applications, particularly, as armoured components in military-industrial complex. Above-mentioned combination of properties can be achieved by means of the creation of multilayer structures, which consist of layers possessing different physical and mechanical properties. In the present study, microstructure peculiarities, mechanical and antiballistic protection properties of the layered Ti-based materials are investigated. Two different ways were used for fabrication of such the layered structures. The first one is a conventional metallurgical (ingot-wrought) method followed by the surface rapid heat treatment of the Ті–6Al–4V and T110 alloys for fabrication of graded structures with different mechanical properties over the material depth. The second one is an elemental powder metallurgy method for fabrication of the structures combining layers of the Ti–6Al–4V alloy and composites based on it and hardened with TiC or TiB particles. Ballistic tests of the obtained materials are carried out for different types of projectiles with different kinetic energy and hardness of the core; features of the penetration of the hitting elements are performed depending on the material structural state. It is proved that materials with graded and layered structures demonstrate undeniable advantages in the antiballistic protection characteristics as compared with homogeneous alloys of the same thickness.",
+		"ru": "Титановые материалы, которые совмещают высокую прочность и твёрдость поверхности при достаточных пластических характеристиках основного металла, являются перспективными для использования в различных областях техники, в частности, как бронеэлементы в военно-промышленном комплексе. Достичь такой комбинации свойств возможно, создавая материалы, состоящие из нескольких слоёв, которые отличаются по своим физико-механическим характеристикам. В работе исследованы особенности микроструктуры и механических характеристик таких материалов, созданных двумя путями. Первым является стандартный металлургический подход с последующей поверхностной скоростной термической обработкой поверхности сплавов ВТ6 (Ті–6Al–4V) и T110, который формирует в них градиентные структурные состояния, с изменением механических свойств по глубине материала. Второй — порошковый подход для создания структур, объединяющих слои сплава Ti–6Al–4V и композитов на его основе, упрочнённых частицами TiB или TiC. Проведены баллистические испытания полученных материалов разными типами поражающих элементов, которые отличаются кинетической энергией и твёрдостью сердечника; исследованы особенности проникновения поражающих элементов в структуры разных типов. Доказано, что материалы с градиентной и слоистой структурами имеют преимущество по защитным противобаллистическим характеристикам в сравнении с однородными титановыми сплавами той же толщины."
+	},
+	"keywords": {
+		"ua": "титанові сплави, шарувата та ґрадієнтна мікроструктури, механічні характеристики, балістичні випробування",
+		"en": "titanium alloys, layered and graded microstructures, mechanical characteristics, ballistic tests",
+		"ru": "титановые сплавы, слоистая и градиентная микроструктуры, механические характеристики, баллистические испытания"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. М. Івасишин", "en": "О. М. Іvasishin", "ru": "О. М. Ивасишин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "П. Є. Марковський", "en": "P. E. Markovsky", "ru": "П. Е. Марковский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Д. Г. Саввакін", "en": "D. G. Savvakin", "ru": "Д. Г. Саввакин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. О. Стасюк", "en": "O. О. Stasiuk", "ru": "А. А. Стасюк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. А. Голуб", "en": "V. A. Golub", "ru": "В. А. Голуб"},
+			"OID": [256]
+		},
+		{
+			"AID": {"ua": "В. І. Мірненко", "en": "V. І. Mirnenko", "ru": "В. И. Мирненко"},
+			"OID": [256]
+		},
+		{
+			"AID": {"ua": "С. Г. Сєдов", "en": "S. H. Sedov", "ru": "С. Г. Седов"},
+			"OID": [256]
+		},
+		{
+			"AID": {"ua": "В. А. Курбан", "en": "V. А. Kurban", "ru": "В. А. Курбан"},
+			"OID": [256]
+		},
+		{
+			"AID": {"ua": "С. Л. Антонюк", "en": "S. L. Antonyuk", "ru": "С. Л. Антонюк"},
+			"OID": [183]
+		}
+	],
+	"references": {
+		"count": 25,
+		"list":  [
+			{
+				"doi": "10.1007/978-3-540-73036-1",
+				"or":  "G. Luetjering and J. C. Williams, Titanium (Berlin–Heidelberg: Springer: 2007).",
+				"tr":  "G. Luetjering and J. C. Williams, Titanium (Berlin–Heidelberg: Springer: 2007)."
+			},
+			{
+				"doi": "10.1007/978-3-642-80587-5",
+				"or":  "U. Zwicker, Titan und Titanlegierungen (Berlin–Heidelberg: Springer: 1974) (in German).",
+				"tr":  "U. Zwicker, Titan und Titanlegierungen (Berlin–Heidelberg: Springer: 1974) (in German)."
+			},
+			{
+				"doi": "10.1361/105994905X75457",
+				"or":  "J. Fanning, J. Mater. Eng. Perform., 14, Iss. 6: 686 (2005).",
+				"tr":  "J. Fanning, J. Mater. Eng. Perform., 14, Iss. 6: 686 (2005)."
+			},
+			{
+				"doi": "10.1007/s11837-001-0144-2",
+				"or":  "J. S. Montgomery and M. G. Y. Wells, JOM, 53, Iss. 4: 29 (2001).",
+				"tr":  "J. S. Montgomery and M. G. Y. Wells, JOM, 53, Iss. 4: 29 (2001)."
+			},
+			{
+				"doi": "10.1016/j.ijimpeng.2015.06.017",
+				"or":  "C. Zheng, F. Wang, and X. Cheng, Int. J. Impact Eng., 85: 161 (2015).",
+				"tr":  "C. Zheng, F. Wang, and X. Cheng, Int. J. Impact Eng., 85: 161 (2015)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(97)00778-8",
+				"or":  "G. Lutjering, Mater. Sci. Eng. А, 243, Iss. 1–2: 32 (1998).",
+				"tr":  "G. Lutjering, Mater. Sci. Eng. А, 243, Iss. 1–2: 32 (1998)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2009.10.015",
+				"or":  "P. E. Markovsky and S. L. Semiatin, J. Mater. Process. Technol., 210, Iss. 3: 518 (2010).",
+				"tr":  "P. E. Markovsky and S. L. Semiatin, J. Mater. Process. Technol., 210, Iss. 3: 518 (2010)."
+			},
+			{
+				"doi": "10.1016/j.msea.2010.12.002",
+				"or":  "P. E. Markovsky and S. L. Semiatin, Mater. Sci. Eng. A, 528, Iss. 7–8: 3079 (2011).",
+				"tr":  "P. E. Markovsky and S. L. Semiatin, Mater. Sci. Eng. A, 528, Iss. 7–8: 3079 (2011)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/KEM.436.185",
+				"or":  "P. E. Markovsky, Key Eng. Mater., 436: 185 (2010).",
+				"tr":  "P. E. Markovsky, Key Eng. Mater., 436: 185 (2010)."
+			},
+			{
+				"doi": "10.15407/sem2018.01.02",
+				"or":  "S. V. Akhonin, P. E. Markovsky, V. А. Berezos, O. O. Stasyuk, and А. Yu. Severin, Sovrem. Elektrometall., No. 1: 9 (2018) (in Russian).",
+				"tr":  "S. V. Akhonin, P. E. Markovsky, V. А. Berezos, O. O. Stasyuk, and А. Yu. Severin, Sovrem. Elektrometall., No. 1: 9 (2018) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.19.03.309",
+				"or":  "O. M. Ivasishin, S. V. Akhonin, D. G. Savvakin, V. A. Berezos, V. I. Bondarchuk, O. O. Stasyuk, and P. E. Markovsky, Usp. Fiz. Met., 19, Iss. 3: 309 (2018).",
+				"tr":  "O. M. Ivasishin, S. V. Akhonin, D. G. Savvakin, V. A. Berezos, V. I. Bondarchuk, O. O. Stasyuk, and P. E. Markovsky, Usp. Fiz. Met., 19, Iss. 3: 309 (2018)."
+			},
+			{
+				"doi": "",
+				"or":  "O. M. Ivasishin, D. G. Savvakin, and M. M. Gumenyak, Metallofiz. Noveishie Tekhnol., 33, Iss. 7: 899 (2011).",
+				"tr":  "O. M. Ivasishin, D. G. Savvakin, and M. M. Gumenyak, Metallofiz. Noveishie Tekhnol., 33, Iss. 7: 899 (2011)."
+			},
+			{
+				"doi": "10.15407/scin1.02.044",
+				"or":  "O. M. Ivasishin, D. G. Savvakin, K. A. Bondareva, V. S. Moxson, and V. A. Duz, Nauka Innov., 1, No. 2: 45 (2005).",
+				"tr":  "O. M. Ivasishin, D. G. Savvakin, K. A. Bondareva, V. S. Moxson, and V. A. Duz, Nauka Innov., 1, No. 2: 45 (2005)."
+			},
+			{
+				"doi": "10.1007/BF03222998",
+				"or":  "O. M. Ivasishin and P. E. Markovsky, JOM, 48, Iss. 7: 48 (1996).",
+				"tr":  "O. M. Ivasishin and P. E. Markovsky, JOM, 48, Iss. 7: 48 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "P. E. Markovsky and M. Ikeda, Mater. Trans., 46, No. 7: 1515 (2005).",
+				"tr":  "P. E. Markovsky and M. Ikeda, Mater. Trans., 46, No. 7: 1515 (2005)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2007.03.070",
+				"or":  "O. M. Ivasishin, P. E. Markovsky, Yu. V. Matviychuk, S. L. Semiatin, C. H. Ward, and S. Fox, J. Alloys Compd., 457, Iss. 1–2: (296) 2008.",
+				"tr":  "O. M. Ivasishin, P. E. Markovsky, Yu. V. Matviychuk, S. L. Semiatin, C. H. Ward, and S. Fox, J. Alloys Compd., 457, Iss. 1–2: (296) 2008."
+			},
+			{
+				"doi": "",
+				"or":  "T. L. Jones, Ballistic Performance of Titanium Alloys: Ti–6Al–4V Versus Russian Titanium (Army Research Laboratory Report ARL-CR-0533: 2004).",
+				"tr":  "T. L. Jones, Ballistic Performance of Titanium Alloys: Ti–6Al–4V Versus Russian Titanium (Army Research Laboratory Report ARL-CR-0533: 2004)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Fanning, Proc. 11th World Conference on Titanium) (June 3–7, 2007, Kyoto, Japan) (Kyoto: The Japan Institute of Metals: 2007), p. 487.",
+				"tr":  "J. Fanning, Proc. 11th World Conference on Titanium) (June 3–7, 2007, Kyoto, Japan) (Kyoto: The Japan Institute of Metals: 2007), p. 487."
+			},
+			{
+				"doi": "10.15407/sem2018.03.08",
+				"or":  "O. M. Ivasishin, P. E. Markovsky, D. G. Savvakin, V. I. Bondarchuk, A A. Stasyuk, and S. V. Prikhodko, Sovrem Elektrometall., No. 3: 52 (2018).",
+				"tr":  "O. M. Ivasishin, P. E. Markovsky, D. G. Savvakin, V. I. Bondarchuk, A A. Stasyuk, and S. V. Prikhodko, Sovrem Elektrometall., No. 3: 52 (2018)."
+			},
+			{
+				"doi": "",
+				"or":  "D. G. Savvakin, S. V. Prikhodko, M. V. Matviychuk, and O. M. Ivasishin, Presentation at International Titanium Association ITA-2017 Conference (8–11 October 2017, Miami, USA).",
+				"tr":  "D. G. Savvakin, S. V. Prikhodko, M. V. Matviychuk, and O. M. Ivasishin, Presentation at International Titanium Association ITA-2017 Conference (8–11 October 2017, Miami, USA)."
+			},
+			{
+				"doi": "10.1002/(SICI)1527-2648(200003)2:3%3c85::AID-ADEM85%3e3.0.CO;2-U",
+				"or":  "T. M. Godfrey, P.S. Goodwin, and C. M. Ward-Close, Adv. Eng. Mat., 2, Iss. 3: 85 (2000).",
+				"tr":  "T. M. Godfrey, P.S. Goodwin, and C. M. Ward-Close, Adv. Eng. Mat., 2, Iss. 3: 85 (2000)."
+			},
+			{
+				"doi": "10.1017/S1431927618011571",
+				"or":  "S. V. Prikhodko, D. G. Savvakin, P. E. Markovsky, O. O. Stasiuk, M. Norouzi Rad, C. Choi, and O. M. Ivasishin, Microsc. Microanal, 24, Suppl. 1: 2218 (2018).",
+				"tr":  "S. V. Prikhodko, D. G. Savvakin, P. E. Markovsky, O. O. Stasiuk, M. Norouzi Rad, C. Choi, and O. M. Ivasishin, Microsc. Microanal, 24, Suppl. 1: 2218 (2018)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.941.1384",
+				"or":  "S. Prikhodko, D. G. Savvakin, O. O. Stasyuk, P. E. Markovsky, and O. M. Ivasishin, Material Science Forum, 941: 1384 (2018).",
+				"tr":  "S. Prikhodko, D. G. Savvakin, O. O. Stasyuk, P. E. Markovsky, and O. M. Ivasishin, Material Science Forum, 941: 1384 (2018)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2019.02.006",
+				"or":  "O. M. Ivasishin, P. E. Markovsky, D. G. Savvakin, O. O. Stasyuk, S. D. Sitzman, M. Norouzi Rad, and S. Prikhodko, J. Mater. Process. Technol., 269: 172 (2019).",
+				"tr":  "O. M. Ivasishin, P. E. Markovsky, D. G. Savvakin, O. O. Stasyuk, S. D. Sitzman, M. Norouzi Rad, and S. Prikhodko, J. Mater. Process. Technol., 269: 172 (2019)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.941.839",
+				"or":  "P. E. Markovsky, Material Science Forum, 941: 839 (2018).",
+				"tr":  "P. E. Markovsky, Material Science Forum, 941: 839 (2018)."
+			}
+		]
+	}
+}

@@ -1,0 +1,470 @@
+{
+	"_id":    "UFM.20.02.310",
+	"year":   2019,
+	"volume": 20,
+	"issue":  2,
+	"pages":  [310,346],
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["07.02.2019", "25.04.2019"],
+	"PACS":   " ",
+	"title":   {
+		"ua": "Електрохімічна корозія стоматологічних сплавів",
+		"en": "Electrochemical Corrosion of Dental Alloys",
+		"ru": "Электрохимическая коррозия стоматологических сплавов"
+	},
+	"abstract": {
+		"ua": "У сучасній стоматології широко використовуються металеві матеріали, кількість яких постійно збільшується. До недоліків таких матеріалів відносяться їхні електрохімічна та корозійна активності у порожнині рота. Електрохімічну деґрадацію стоматологічних сплавів може бути спричинено низкою чинників, таких як хімічний склад, мікроструктура, спосіб виготовлення, а також оброблення поверхні. У даному огляді представлено метали та сплави, що застосовуються в сучасній стоматологічній ортопедії, розглянуто вплив леґувальних домішок і захисних покриттів, а також модифікації структури та хімічного стану поверхні на її корозійні властивості. Правильно обране леґування металів уможливлює не лише підвищити деякі корозійно-механічні характеристики, а й, як наслідок, запобігти виникненню патологічних проявів у порожнині рота. Різні види високоенергетичних оброблянь поверхні приводять до специфічних змін фізико-хімічної будови найтоншого поверхневого шару. Особливу увагу приділено методам інтенсивної пластичної деформації та лазерного оброблення поверхні стоматологічних сплавів. Показано, що поліпшення корозійних властивостей стоматологічних металевих сплавів у результаті ультразвукового ударного оброблення відбувається завдяки наноструктуруванню поверхні та формування поверхневого шару з високими пасивувальними властивостями. Лазерне опромінення також підвищує корозійну стійкість стоматологічних сплавів у аґресивних середовищах і приводить до істотного пониження величини потенціалу корозії і, тим самим, мінімізує неґативний вплив металів сплаву на організм людини. Проте слід зазначити, що роботи, спрямовані на поліпшення фізико-хімічних властивостей поверхні стоматологічних сплавів за допомогою лазерного й ультразвукового ударного оброблянь, наразі знаходяться на початковій стадії свого розвитку та ще не набули практичного застосування у стоматології.",
+		"en": "In the state-of-the-art dentistry, the metal materials are widely used, and their number is constantly increases. The disadvantages of such materials include their electrochemical and corrosive activities in the oral cavity. A number of factors, such as chemical composition, microstructure, fabrication method, and surface treatment, can cause the electrochemical degradation of dental alloys. This review deals with alloys used in contemporary dental orthopaedics, concerns the effect of alloying impurities and protective coatings as well as modifying the structure and chemical state of the surface on its corrosion properties. Properly chosen alloying of metals allows not only increasing some of the corrosion-mechanical characteristics, but also, as a result, to prevent the occurrence of pathological manifestations in the oral cavity. Different types of high-energy surface treatments lead to specific changes in the physicochemical structure of the thinnest surface layer. A special attention concerns the methods of severe plastic deformation and laser treatment of the dental alloy surfaces. As shown, the improvement of the corrosion properties of dental metal alloys as a result of ultrasonic impact treatment occurs due to the nanostructuring of the surface and the formation of a surface layer with high-passivating properties. Laser irradiation also increases the corrosion resistance of dental alloys in the corrosive medium and results to a significant decrease in the value of the corrosion potential, thereby minimizing the negative effect of the metals of the alloy on the human organism. However, we have to note that the works aimed to improve the physicochemical properties of the dental-alloys’ surface via both the laser treatment and the ultrasonic impact processing are currently at the initial stage of their development and has not yet received practical application in the dentistry.",
+		"ru": "В современной стоматологии широко используются металлические материалы, количество которых постоянно увеличивается. К недостаткам таких материалов относятся их электрохимическая и коррозионная активности в полости рта. Электрохимическая деградация стоматологических сплавов может быть вызвана рядом факторов, таких как химический состав, микроструктура, способ изготовления, а также обработка поверхности. В данном обзоре представлены металлы и сплавы, применяемые в современной стоматологической ортопедии, рассмотрено влияние легирующих примесей и защитных покрытий, а также модификации структуры и химического состояния поверхности на её коррозионные свойства. Правильно выбранное легирование металлов позволяет не только повысить некоторые коррозионно-механические характеристики, но и, как следствие, предотвратить возникновение патологических проявлений в полости рта. Различные виды высокоэнергетических обработок поверхности приводят к специфическим изменениям физико-химического строения тончайшего поверхностного слоя. В обзоре особое внимание уделено методам интенсивной пластической деформации и лазерной обработки поверхности стоматологических сплавов. Показано, что улучшение коррозионных свойств стоматологических металлических сплавов в результате ультразвуковой ударной обработки происходит благодаря наноструктурированию поверхности и формированию поверхностного слоя с высокими пассивирующими свойствами. Лазерное облучение также повышает коррозионную стойкость стоматологических сплавов в агрессивных средах и приводит к существенному снижению величины потенциала коррозии и, тем самым, минимизирует негативное влияние металлов сплава на организм человека. Однако следует отметить, что работы, направленные на улучшение физико-химических свойств поверхности стоматологических сплавов с помощью лазерной и ультразвуковой ударной обработок, находятся на начальной стадии своего развития и ещё не получили практического применения в стоматологии."
+	},
+	"keywords": {
+		"ua": "електрохімічна корозія, поверхня, металеві стоматологічні сплави, ультразвукове ударне оброблення, лазерне оброблення, йонна імплантація",
+		"en": "electrochemical corrosion, surface, metal dental alloys, ultrasonic impact treatment, laser treatment, ion implantation",
+		"ru": "электрохимическая коррозия, поверхность, металлические стоматологические сплавы, ультразвуковая ударная обработка, лазерная обработка, ионная имплантация"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. О. Васильєв", "en": "M. O. Vasylyev", "ru": "М. А. Васильев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "І. М. Макеєва", "en": "I. M. Makeeva", "ru": "И. Н. Макеева"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "П. О. Гурін", "en": "P. O. Gurin", "ru": "П. А. Гурин"},
+			"OID": [241]
+		}
+	],
+	"references": {
+		"count": 85,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Ю. Пучков, М. Орлов, С. Березина, Теория коррозии и методы защиты металлов (Москва: МГТУ им. Баумана: 2014).",
+				"tr":  "Yu. Puchkov, M. Orlov, and S. Berezina, Teoriya Korrozii i Metody Zashchity Metallov [Theory of Corrosion and Methods of Protection of Metals] (Moscow: Bauman Moscow State Tech. University: 2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, В. И. Беда, П. А. Гурин, Физиологический отклик на состояние поверхности металлических дентальных имплантатов (Львов: ГалДент: 2010).",
+				"tr":  "M. A. Vasiliev, V. I. Beda, and P. А. Gurin, Fiziologicheskiy Otklik na Sostoyanie Poverkhnosti Metallicheskikh Dental’nykh Implantov [Physiological Response to the Surface Condition of Metal Dental Implants] (Lvov: GalDent: 2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Онищенко, Непереносність сплавів металів зубних протезів (клініко-лабораторні дослідження) (Автореф. дис. докт. мед. наук) (Київ: Національний медичний університет ім. О. О. Богомольця: 1995).",
+				"tr":  "V. S. Onyshchenko, Neperenosnist’ Splaviv Mataliv Zubnykh Proteziv (Kliniko-Laboratorni Doslidzhennia) [Intolerance of Metal Alloys of Dentures (Clinical and Laboratory Investigations)] (Thesis of Disser. for Dr. Med. Sci.) (Kyiv: O. O. Bogomolets National Medical University: 1995) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Воложин, А. А. Бабахин, Л. В. Дубова, Д. А. Сорокин, Стоматология, № 5: 57 (2004).",
+				"tr":  "А. I. Volozhin, А. А. Babakhin, L. V. Dubova, D. А. Sorokin, Stomatologiya, No. 5: 57 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Назаров, Л. Г. Спиридонов, Стоматология, № 2: 60 (2004).",
+				"tr":  "G. I. Nazarov and L. G. Spiridonov, Stomatologiya, No. 2: 60 (2004) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.msec.2015.09.004",
+				"or":  "Yu. N. Petrov, G. I. Prokopenko, B. N. Mordyuk, M. A. Vasylyev, S. M. Voloshko, V. S. Skorodzievski, and V. S. Filatova, Mater. Sci. Eng. C, 58: 1024 (2016).",
+				"tr":  "Yu. N. Petrov, G. I. Prokopenko, B. N. Mordyuk, M. A. Vasylyev, S. M. Voloshko, V. S. Skorodzievski, and V. S. Filatova, Mater. Sci. Eng. C, 58: 1024 (2016)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2017.03.004",
+				"or":  "S. P. Chenakin, V. S. Filatova, I. N. Makeeva, and M. A. Vasylyev, Appl. Surf. Sci., 408: 11 (2017).",
+				"tr":  "S. P. Chenakin, V. S. Filatova, I. N. Makeeva, and M. A. Vasylyev, Appl. Surf. Sci., 408: 11 (2017)."
+			},
+			{
+				"doi": "10.15407/ufm.11.02.209",
+				"or":  "М. А. Васильев, М. М. Нищенко, П. А. Гурин, Успехи физ. мет., 11: 209 (2010).",
+				"tr":  "M. O. Vasyliev, M. M. Nyshchenko, and P. O. Gurin, Usp. Fiz. Met., 11, No. 2: 209 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "W. A. Uriciuc, H. Vermeșan, A. B. Bosca, and A. Ilea, Curr. Trends Biomed. Eng. Biosci., 14, Iss. 2: 555882 (2018).",
+				"tr":  "W. A. Uriciuc, H. Vermeșan, A. B. Bosca, and A. Ilea, Curr. Trends Biomed. Eng. Biosci., 14, Iss. 2: 555882 (2018)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Capelo, L. Proença, J. C. S. Fernandes, and I. T. E. Fonseca, Int. J. Electrochem. Sci., 9: 593 (2014).",
+				"tr":  "S. Capelo, L. Proença, J. C. S. Fernandes, and I. T. E. Fonseca, Int. J. Electrochem. Sci., 9: 593 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Renita, S. Rajendran, and A. Chattree, Ind. J. Advanc. Chem. Sci., 4, Iss. 4: 478 (2016).",
+				"tr":  "D. Renita, S. Rajendran, and A. Chattree, Ind. J. Advanc. Chem. Sci., 4, Iss. 4: 478 (2016)."
+			},
+			{
+				"doi": "10.5277/ABB-00600-2016-04",
+				"or":  "D. Rylska, G. Sokołowski, J. Sokołowski, and M. Łukomska-Szymańska, Acta Bioeng. Biomech., 19, Iss. 2: (2017).",
+				"tr":  "D. Rylska, G. Sokołowski, J. Sokołowski, and M. Łukomska-Szymańska, Acta Bioeng. Biomech., 19, Iss. 2: (2017)."
+			},
+			{
+				"doi": "10.20964/2018.01.08",
+				"or":  "L. Porojan, C. E. Savencu, L. V. Costea, M. L. Dan, and S. D. Porojan, Int. J. Electrochem. Sci., 13: 410 (2018).",
+				"tr":  "L. Porojan, C. E. Savencu, L. V. Costea, M. L. Dan, and S. D. Porojan, Int. J. Electrochem. Sci., 13: 410 (2018)."
+			},
+			{
+				"doi": "10.5301/jabfm.5000383",
+				"or":  "S. Mercieca, M. C. Conti, J. Buhagiar, and J. Camilleri, J. Appl. Biomater. Funct., 16, Iss. 1: 47 (2018).",
+				"tr":  "S. Mercieca, M. C. Conti, J. Buhagiar, and J. Camilleri, J. Appl. Biomater. Funct., 16, Iss. 1: 47 (2018)."
+			},
+			{
+				"doi": "10.21767/2576-392X.100021",
+				"or":  "E. Kretz, P. Berthod, and T. Schweitzer, J. Dent. Craniofac. Res., 3, Iss. 1: 5 (2018).",
+				"tr":  "E. Kretz, P. Berthod, and T. Schweitzer, J. Dent. Craniofac. Res., 3, Iss. 1: 5 (2018)."
+			},
+			{
+				"doi": "10.1016/j.jmbbm.2015.12.039",
+				"or":  "F. Ren, W. Zhu, and K. Chu, J. Mech. Behav. Biomed. Mater., 60: 139 (2016).",
+				"tr":  "F. Ren, W. Zhu, and K. Chu, J. Mech. Behav. Biomed. Mater., 60: 139 (2016)."
+			},
+			{
+				"doi": "10.1016/j.jmbbm.2015.12.039",
+				"or":  "C. E. Savencu, L. V. Costea, M. L. Dan, and L. Porojan, Int. J. Electrochem. Sci., 13: 3588 (2018).",
+				"tr":  "C. E. Savencu, L. V. Costea, M. L. Dan, and L. Porojan, Int. J. Electrochem. Sci., 13: 3588 (2018)."
+			},
+			{
+				"doi": "10.1002/maco.201810147",
+				"or":  "D. Ionita, F. Golgovici, A. Mazare, M. Badulescu, I. Demetrescu, and G.-R. Pandelea-Dobrovicescu, Mater. Corros., 69, Iss. 10: 1403 (2018).",
+				"tr":  "D. Ionita, F. Golgovici, A. Mazare, M. Badulescu, I. Demetrescu, and G.-R. Pandelea-Dobrovicescu, Mater. Corros., 69, Iss. 10: 1403 (2018)."
+			},
+			{
+				"doi": "",
+				"or":  "W. A. Uriciuc, H. Vermeșan, A. B. Boșca, and A. Ilea, Curr. Trends Biomed. Eng. Biosci., 14, Iss. 2: 555882 (2018).",
+				"tr":  "W. A. Uriciuc, H. Vermeșan, A. B. Boșca, and A. Ilea, Curr. Trends Biomed. Eng. Biosci., 14, Iss. 2: 555882 (2018)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2018.09.027",
+				"or":  "W. Zai, M. H. Wong, and H. C. Man, Appl. Surf. Sci., 464: 404 (2019).",
+				"tr":  "W. Zai, M. H. Wong, and H. C. Man, Appl. Surf. Sci., 464: 404 (2019)."
+			},
+			{
+				"doi": "10.1039/C6RA26727K",
+				"or":  "P. Ming, S. Shao, J. Qiu, Y. Yu, J. Chen, J. Yang, W. Zhu, M. Li, and C. Tang, RSC Adv., 7: 5843 (2017).",
+				"tr":  "P. Ming, S. Shao, J. Qiu, Y. Yu, J. Chen, J. Yang, W. Zhu, M. Li, and C. Tang, RSC Adv., 7: 5843 (2017)."
+			},
+			{
+				"doi": "10.1111/eos.12267",
+				"or":  "J. Nierlich, S. N. Papageorgiou, and C. Bourauel, Eur. J. Oral Sci., 124, Iss. 3: 287 (2016).",
+				"tr":  "J. Nierlich, S. N. Papageorgiou, and C. Bourauel, Eur. J. Oral Sci., 124, Iss. 3: 287 (2016)."
+			},
+			{
+				"doi": "10.1590/S0103-64402012000200009",
+				"or":  "R. Galo, R. F. Ribeiro, R. C. S. Rodrigues, L. A. Rocha, and M. G. Chiarello de Mattos, Braz. Dent. J., 23, No. 2: 141 (2012).",
+				"tr":  "R. Galo, R. F. Ribeiro, R. C. S. Rodrigues, L. A. Rocha, and M. G. Chiarello de Mattos, Braz. Dent. J., 23, No. 2: 141 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, В. С. Филатова, П. А. Гурин, Журнал функциональных материалов, 1, № 2: 42 (2007).",
+				"tr":  "М. А. Vasiliev, V. S. Filatova, and P. A. Gurin, Zhurnal Funktsionalnykh Materialov, 1, No. 2: 42 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. О. Васильєв, В. С. Філатова, П. О. Гурін, Л. Ф. Яценко, Літопис травматології та ортопедії, №№ 1–2 (29–30): 243 (2014).",
+				"tr":  "М. О. Vasylyev, V. S. Filatova, P. O. Gurin, and L. F. Yatsenko, Litopys Travmatologii ta Ortopedii, Nos. 1–2 (29–30): 243 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "10.4236/msa.2012.33025",
+				"or":  "T. Yavuz, A. Acar, S. Akman, and A. N. Ozturk, Mater. Sci. Appl., 3: 163 (2012).",
+				"tr":  "T. Yavuz, A. Acar, S. Akman, and A. N. Ozturk, Mater. Sci. Appl., 3: 163 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "В. І. Біда, П. О. Гурин, М. О. Васильєв, В. С. Філатова, Зб. наук. праць співробіт. НМАПО ім. П. Л. Шупика, 21, № 2: 87 (2012).",
+				"tr":  "V. І. Bida, P. О. Gurin, М. О. Vasylyev, and V. S. Filatova, Zbirnyk Naukovykh Prats’ Spivrobitnykiv NМАPО іm. P. L. Shupyka, 21, No. 2: 87 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.jmbbm.2015.12.045",
+				"or":  "P. Mengucci, G. Barucca, A. Gatto, E. Bassoli, L. Denti, F. Fiori, E. Girardin, P. Bastianoni, B. Rutkowski, and A. Czyrska-Filemonowicz, J. Mech. Behav. Biomed. Mater., 60: 106 (2016).",
+				"tr":  "P. Mengucci, G. Barucca, A. Gatto, E. Bassoli, L. Denti, F. Fiori, E. Girardin, P. Bastianoni, B. Rutkowski, and A. Czyrska-Filemonowicz, J. Mech. Behav. Biomed. Mater., 60: 106 (2016)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.12.049",
+				"or":  "B. N. Mordyuk, G. I. Prokopenko, M. O. Vasiliev, and M. O. Iefimov, Mater. Sci. Eng. A, 458: 253 (2007).",
+				"tr":  "B. N. Mordyuk, G. I. Prokopenko, M. O. Vasiliev, and M. O. Iefimov, Mater. Sci. Eng. A, 458: 253 (2007)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.04.024",
+				"or":  "X. P. Jiang, X. Y. Wang, J. X. Li, D. Y. Li, C.-S. Man, M. J. Shepard, and T. Zhai, Mater. Sci. Eng. A, 429, Iss. 1–2: 30 (2006).",
+				"tr":  "X. P. Jiang, X. Y. Wang, J. X. Li, D. Y. Li, C.-S. Man, M. J. Shepard, and T. Zhai, Mater. Sci. Eng. A, 429, Iss. 1–2: 30 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Металлы. Справочник (Ред. Майкл Л. Бауччио) (Ред. русского изд. Ю. П. Солнцев) (С.-Петербург: 1998).",
+				"tr":  "Metals. Reference Book (Ed. Michael Bauccio) (Ohio: ASM International: 1993)."
+			},
+			{
+				"doi": "10.1016/j.dental.2006.06.011",
+				"or":  "C. M. Wylie, R. M. Shelton, G. J. P. Fleming, and A. J. Davenport, Dent. Mater., 23, Iss. 6: 714 (2007).",
+				"tr":  "C. M. Wylie, R. M. Shelton, G. J. P. Fleming, and A. J. Davenport, Dent. Mater., 23, Iss. 6: 714 (2007)."
+			},
+			{
+				"doi": "10.1016/j.msec.2013.11.014",
+				"or":  "W. C. Chen, F. Y. Teng, and C. C. Hung, Mater. Sci. Eng. C, 35: 231 (2014).",
+				"tr":  "W. C. Chen, F. Y. Teng, and C. C. Hung, Mater. Sci. Eng. C, 35: 231 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "E. J. Evans and I. T. Thomas, Biomaterials, 7, 1: 25 (1986).",
+				"tr":  "E. J. Evans and I. T. Thomas, Biomaterials, 7, 1: 25 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Трезубов, М. З. Штейнгарт, Л. М. Мишнев, Ортопедическая стоматология: прикладное материаловедение (С.-Петербург: СпецЛит: 2001).",
+				"tr":  "V. N. Trezubov, М. Z. Shteingart, and L. М. Mishnev, Ortopedicheskaya Stomatologiya: Prikladnoe Materialovedenie [Prosthetic Dentistry: Applied Materials Science] (St. Petersburg: SpetsLit: 2001) (in Russian)."
+			},
+			{
+				"doi": "10.1007/s12666-010-0030-0",
+				"or":  "A. Vadiradj and M. Kamaradj, Trans. Ind. Inst. Met., 63, Iss. 2–3: 217 (2010).",
+				"tr":  "A. Vadiradj and M. Kamaradj, Trans. Ind. Inst. Met., 63, Iss. 2–3: 217 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Muller and E. Valentine-Thon, Neuroendocr. Lett., 27: 31 (2006).",
+				"tr":  "K. Muller and E. Valentine-Thon, Neuroendocr. Lett., 27: 31 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Ильин, Б. А. Колачев, И. С. Полькин, Титановые сплавы. Состав, структура, свойства (справочник) (Москва: ВИЛС-МАТИ: 2009).",
+				"tr":  "А. А. Il’yin, B. А. Kolachev, and I. S. Pol’kin, Titanovye Splavy. Sostav, Struktura, Svoistva (Spravochnik) [Titanium Alloys. Composition, Structure, Properties (Reference Book)] (Moscow: VILS-MATI: 2009) (in Russian)."
+			},
+			{
+				"doi": "10.1023/B:BIEN.0000035726.31175.f8",
+				"or":  "K. M. Sherepo and I. A. Red’ko, Biomed. Eng., 38, Iss. 2: 77 (2004).",
+				"tr":  "K. M. Sherepo and I. A. Red’ko, Biomed. Eng., 38, Iss. 2: 77 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "K. M. Sherepo, A. B. Parfenov, and I. S. Zusmanovich, Med. Tekh., 5: 14 (1992).",
+				"tr":  "K. M. Sherepo, A. B. Parfenov, and I. S. Zusmanovich, Med. Tekh., 5: 14 (1992)."
+			},
+			{
+				"doi": "10.1016/j.mser.2014.10.001",
+				"or":  "Q. Chen and G. A. Thouas, Mater. Sci. Eng. R, 87: 1 (2015).",
+				"tr":  "Q. Chen and G. A. Thouas, Mater. Sci. Eng. R, 87: 1 (2015)."
+			},
+			{
+				"doi": "10.1016/j.biomaterials.2004.01.021",
+				"or":  "E. Eisenbarth, D. Velten, M. Müller, R. Thull, and J. Breme, Biomaterials, 25, No 26: 5705 (2004).",
+				"tr":  "E. Eisenbarth, D. Velten, M. Müller, R. Thull, and J. Breme, Biomaterials, 25, No. 26: 5705 (2004)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(97)00808-3",
+				"or":  "D. Kuroda, M. Niinomi, M. Morinaga, Y. Kato, and T. Yashiro, Mater. Sci. Eng. A, 43, Iss. 1–2: 244 (1998).",
+				"tr":  "D. Kuroda, M. Niinomi, M. Morinaga, Y. Kato, and T. Yashiro, Mater. Sci. Eng. A, 43, Iss. 1–2: 244 (1998)."
+			},
+			{
+				"doi": "10.1016/j.corsci.2015.10.007",
+				"or":  "S. L. Zelinka, S. V. Glass, Ch. R. Boardmana, and D. Derome, Corros. Sci., 102: 178 (2016).",
+				"tr":  "S. L. Zelinka, S. V. Glass, Ch. R. Boardmana, and D. Derome, Corros. Sci., 102: 178 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Р. Ілик, В. С. Онищенко, Новини стоматології, 1: 16 (1999).",
+				"tr":  "R. R. Ilyk and V. S. Onyshchenko, Novyny Stomatologii, 1: 16 (1999) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Диаграммы состояния двойных металлических систем. Справочник (Ред. Н. П. Лякишев) (Москва: Машиностроение: 1997).",
+				"tr":  "Diagrammy Sostoyaniya Dvoinykh Metallicheskikh Sistem. Spravochnik [State Diagrams for Binary Metal Systems. Reference Book] (Ed. N. P. Liakishev) (Moscow: Mashinostroenie: 1997) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Кубашевский, Б. Гопкино, Окисление металлов и сплавов (Москва: Металлургия: 1965).",
+				"tr":  "О. Kubashevskiy and B. Gopkino, Okislenie Metallov i Splavov [Oxidation of Metals and Alloys] (Moscow: Metallurgiya: 1965) (in Russian)."
+			},
+			{
+				"doi": "10.1179/mtlr.1964.9.1.473",
+				"or":  "Окисление металлов. Том ІІ (Ред. Ж. Бернар) (Москва: Металлургия: 1960) (пер. с англ.).",
+				"tr":  "J. Bernard, Metallurgical Rev., 9, Iss. 1: 473 (1964)."
+			},
+			{
+				"doi": "",
+				"or":  "Жаропрочные сплавы (Ред. Ч. Симс, В. Хагель) (Москва: Металлургия: 1976) (пер. с англ.).",
+				"tr":  "The Superalloys (Eds. Ch. T. Sims and W. C. Hagel) (New York: Wiley-Interscience: 1972)."
+			},
+			{
+				"doi": "10.5006/0010-9312-33.2.56",
+				"or":  "G. N. Irving, J. Stringer, and D. P. Whittle, Corrosion, 33, No. 2: 56 (1977).",
+				"tr":  "G. N. Irving, J. Stringer, and D. P. Whittle, Corrosion, 33, No. 2: 56 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Ф. Данилина В. Н. Наумова, А. В. Жидовигов, Литье в ортопедической стоматологии (Волгоград: Волг.ГМУ:2011).",
+				"tr":  "Т. F. Danilina, V. N. Naumova, and А. V. Zhidovigov, Lit’ye v Ortopedicheskoi Stomatologii [Casting in Orthopedic Dentistry] (Volgograd: Volg. State Med. Univ.:2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Омельчук, Розробка та клініко-експериментальне обґрунтування нових кобальт-хромових сплавів «Пластокрист» і «Керадент» в ортопедичній стоматології (Автореф. дис. докт. мед. наук) (Київ: Національний медичний університет ім. О. О. Богомольця: 1997).",
+				"tr":  "M. А. Omelchuk, Rozrobka ta Kliniko-Ehksperymental’ne Obgruntuvannia Novykh Kobalt-Khromovykh Splaviv ‘Plastokryst’ i ‘Keradent’ v Ortopedychniy Stomatologii [Development and Clinical and Experimental Substantiation of New Cobalt–Chrome Alloys ‘Plastocrist’ and ‘Keradent’ in Orthopedic Stomatology] (Thesis of Disser. for Dr. Med. Sci.) (Kyiv: O. O. Bogomolets National Medical University: 1997) (in Ukrainian)."
+			},
+			{
+				"doi": "10.5006/0010-9312-24.5.127",
+				"or":  "M. A. De Cresente and N. S. Bornsteine, Corrosion, 24, No. 5: 127 (1968).",
+				"tr":  "M. A. De Cresente and N. S. Bornsteine, Corrosion, 24, No. 5: 127 (1968)."
+			},
+			{
+				"doi": "10.1016/S1003-6326(10)60124-0",
+				"or":  "L. Xu, S. Xiao, J. Tian, Y. Chen, and Y. Huang, Trans. Nonferr. Met. Soc. China, 19, Suppl. 3: s639 (2009).",
+				"tr":  "L. Xu, S. Xiao, J. Tian, Y. Chen, and Y. Huang, Trans. Nonferr. Met. Soc. China, 19, Suppl. 3: s639 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Ильин, С. В. Скворцова, А. М. Момонов, В. Н. Карпов, О. А. Поляков, Металлы, 3: 97 (2002).",
+				"tr":  "А. А. Il’yin, S. V. Skvortsova, А. М. Momonov, V. N. Karpov, and О. А. Poliakov, Metally, 3: 97 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Kudrman, J. Fousek, V. Březina, R. Míková, and J. Veselý, Kovove Mater., 45, 4: 199 (2007).",
+				"tr":  "J. Kudrman, J. Fousek, V. Březina, R. Míková, and J. Veselý, Kovove Mater., 45, 4: 199 (2007)."
+			},
+			{
+				"doi": "10.1016/S0109-5641(02)00027-1",
+				"or":  "M. Kikuchi, Y. Takada, S. Kiyosu, M. Yoda, M. Woldu, Z. Cai, O. Okuno, and T. Okabe, Dent. Mater., 19, Iss. 3: 174 (2003).",
+				"tr":  "M. Kikuchi, Y. Takada, S. Kiyosu, M. Yoda, M. Woldu, Z. Cai, O. Okuno, and T. Okabe, Dent. Mater., 19, Iss. 3: 174 (2003)."
+			},
+			{
+				"doi": "10.1016/S0142-9612(99)00114-3",
+				"or":  "W. F. Ho, C. P. Ju, J. H. Chern Lin, Biomaterials, 20, Iss. 22.: 2115 (1999).",
+				"tr":  "W. F. Ho, C. P. Ju, and J. H. Chern Lin, Biomaterials, 20, Iss. 22.: 2115 (1999)."
+			},
+			{
+				"doi": "10.1504/IJNBM.2007.016517",
+				"or":  "M. Balazic, J. Kopac, M. J. Jackson, and W. Ahmed, Int. J. Nano Biomater., 1, No. 1: 3 (2007).",
+				"tr":  "M. Balazic, J. Kopac, M. J. Jackson, and W. Ahmed, Int. J. Nano Biomater., 1, No. 1: 3 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. Н. Василенко, Клинико-лабораторная методика изготовления зубных протезов с нитрид-титановым покрытием и их медико-биологическое исследование (Автореф. дис. канд. мед. наук) (Киев: Киевский медицинский институт им. А. А. Богомольца: 1989).",
+				"tr":  "Eh. N. Vasilenko, Kliniko-Laboratornaya Metodika Izgotovleniya Zubnykh Protezov s Nitrid-Titanovym Pokrytiem i Ikh Mediko-Biologicheskoe Issledovanie [Clinical and Laboratory Methods for the Manufacture of Dental Prostheses with Nitride–Titanium Coating and Their Medical and Biological Investigation] (Thesis of Disser. for Cand. Med. Sci.) (Kiev: A. A. Bogomolets Kiev Medical Institute: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. С. Котов, А. В. Гуськов, Российский стоматологический журнал, 18, № 6: 43 (2014).",
+				"tr":  "K. S. Kotov and А. V. Gus’kov, Rossiyskiy Stmatologicheskiy Zhurnal, 18, No. 6: 43 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. П. Старченко, Влияние зубных протезов с нитрид-титановым покрытием на морфо-функциональное состояние полости рта и верхнего отрезка желудочно-кишечного тракта (Автореф. дис. канд. мед. наук) (Краснодар: Кубанская государственная медицинская академия: 1996).",
+				"tr":  "Т. P. Starchenko, Vliyanie Zubnykh Protezov s Nitrid-Titanovym Pokrytiem na Morfo-Funktsional’noe sostoyanie Polosti Rta i Verkhnego Otrezka Zheludochno-Kishechnogo Trakta [The Effect of Dentures with Nitride–Titanium Coating on the Morpho-Functional State of the Oral Cavity and the Upper Segment of the Gastrointestinal Tract] (Thesis of Disser. for Cand. Med. Sci.) (Krasnodar: Kuban’ State Medical Academy: 1996) (in Russian)."
+			},
+			{
+				"doi": "10.1002/1097-4636(20010305)54:3%3c412::AID-JBM150%3e3.3.CO;2-G",
+				"or":  "S. K. Yen and S. W. Hsu, J. Biomed. Mater. Res., 54, Iss. 3: 412 (2001).",
+				"tr":  "S. K. Yen and S. W. Hsu, J. Biomed. Mater. Res., 54, Iss. 3: 412 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Яковин, З. Р. Ожоган, О. С. Литвин, А. А. Корчовий, Укр. стомат. альманах, № 6: 65 (2012).",
+				"tr":  "О. М. Yakovyn, Z. R. Ozhogan, О. S. Lytvyn, and А. А. Korchovyy, Ukr. Stomat. Almanakh, No. 6: 65 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.matlet.2005.02.010",
+				"or":  "L. E. Amato, D. A. Lopez, P. G. Galliano, and S. M. Ceré, Mater. Lett., 59, Iss.16: 2026 (2005).",
+				"tr":  "L. E. Amato, D. A. Lopez, P. G. Galliano, and S. M. Ceré, Mater. Lett., 59, Iss.16: 2026 (2005)."
+			},
+			{
+				"doi": "10.1016/j.msea.2003.10.261",
+				"or":  "K. Lu and J. Lu, Mater. Sci. Eng. A, 375–377: 38 (2004).",
+				"tr":  "K. Lu and J. Lu, Mater. Sci. Eng. A, 375–377: 38 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Юркова, А. В. Белоцкий, Ю. В. Мильман, А. В. Бякова, Наносистеми, наноматеріали, нанотехнології, 2, № 2: 633 (2004).",
+				"tr":  "А. I. Yurkova, А. V. Belotskiy, Yu. V. Milman, and А. V. Byakova, Nanosistemi, Nanomateriali, Nanotehnologii, 2, No. 2: 633 (2004) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.05.03.345",
+				"or":  "М. А. Васильев, Г. И. Прокопенко, В. С. Филатова, Успехи физ. мет., 5, № 3: 345 (2004).",
+				"tr":  "M. O. Vasiliev, G. I. Prokopenko, and V. S. Filatova, Usp. Fiz. Met., 5, No. 3: 345 (2004) (in Russian)."
+			},
+			{
+				"doi": "10.2209/tdcpublication.41.49",
+				"or":  "T. Kaneko, M. Hattorl, K. Hasegawa, M. Yoshinari, E. Kawada, and Y. Oda, Bull. Tokyo Dent. Coll., 41, Iss. 2: 49 (2000).",
+				"tr":  "T. Kaneko, M. Hattorl, K. Hasegawa, M. Yoshinari, E. Kawada, and Y. Oda, Bull. Tokyo Dent. Coll., 41, Iss. 2: 49 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Онищенко, М. О. Васильєв, В. С. Філатова, П. О. Гурин, І. Ю. Савчук, Металлофиз. новейшие технол., 28, № 4: 312 (2006).",
+				"tr":  "V. S. Onishchenko, М. О. Vasylyev, V. S. Filatova, P. О. Gurin, and І. Yu. savchuk, Metallofiz. Noveishie Tekhnol., 28, No. 4: 312 (2006) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. I. Прокопенко, М. О. Васильєв, Б. М. Мордюк, Г. І. Кузьміч, О. Ф. Луговський, В. І. Чорний, Ультразвуковий пристрій для зміцнення та наноструктуризації поверхні металів: Патент України 9175. MKI В24 В1/04, В24 В39/00. (Бюл. № 9) (2005).",
+				"tr":  "G. I. Prokopenko, M. O. Vasylyev, B. M. Mordyuk, G. I. Kuz’mich, O. F. Lugovskyy, and V. I. Chornyy, Ultrazvukovyy Prystriy dlya Znitsnennya ta Nanostrukturyzatsii Poverkhni Metaliv [Ultrasonic Device for Strengthening and Nanostructuring of Metal Surfaces]: Patent of Ukraine 9175. MKI В24 В1/04, В24 В39/00. (Bull. No. 9) (2005)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2015.10.041",
+				"or":  "M. A. Vasylyev, S. P. Chenakin, and L. F. Yatsenko, Acta Mater., 103: 761 (2016).",
+				"tr":  "M. A. Vasylyev, S. P. Chenakin, and L. F. Yatsenko, Acta Mater., 103: 761 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. И. Хрипта, Б. Н. Мордюк, Г. И. Прокопенко, О. П. Карасевская, И. А. Скиба, Тезисы 49-ой Междунар. конф. «Актуальные проблемы прочности АПП–2010» (14–18 июня 2010 г., Киев) (Киев: 2010), с. 51.",
+				"tr":  "N. I. Khripta, B. N. Mordyuk, G. I. Prokopenko, О. P. Karasevskaya, and I. А. Skiba, Abstracts of 49th Int. Conf. ‘Actual Problems of Strength APS–2010’ (14–18 June, 2010, Kyiv) (Kyiv: 2010), p. 51."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2012.08.063",
+				"or":  "B. N. Mordyuk, O. P. Karasevskaya, G. I. Prokopenko, and N. I. Khripta, Surf. Coat. Technol., 210: 54 (2012).",
+				"tr":  "B. N. Mordyuk, O. P. Karasevskaya, G. I. Prokopenko, and N. I. Khripta, Surf. Coat. Technol., 210: 54 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Хетагуров, И. Ю. Лебеденко, З. С. Есенова, Российский стоматологический журнал, № 1: 9 (2004).",
+				"tr":  "V. F. Khetagurov, I. Yu. Lebedenko, and Z. S. Esenova, Rossiiskiy Stomatologicheskiy Zhurnal, No. 1: 9 (2004) (in Russian)."
+			},
+			{
+				"doi": "10.1023/A:1018607219482",
+				"or":  "M. Kaminski, J. Baszkiewicz, J. Kozubowski, A. Bednarska, A. Barcz, G. Gawlik, and J. Jagielski, J. Mater. Sci., 32, Iss. 14: 3727 (1997).",
+				"tr":  "M. Kaminski, J. Baszkiewicz, J. Kozubowski, A. Bednarska, A. Barcz, G. Gawlik, and J. Jagielski, J. Mater. Sci., 32, Iss. 14: 3727 (1997)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2015.04.054",
+				"or":  "Z. Guo, X. Pang, Y. Yan, K. Gao, A. A. Volinsky, and T.-Y. Zhang, Appl. Surf. Sci., 347: 23 (2015).",
+				"tr":  "Z. Guo, X. Pang, Y. Yan, K. Gao, A. A. Volinsky, and T.-Y. Zhang, Appl. Surf. Sci., 347: 23 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Онищенко, П. А. Гурин, М. А. Васильев, М. М. Нищенко, А. И. Сенкевич, Ортопедическая стоматология, № 1: 119 (2004).",
+				"tr":  "V. S. Onishchenko, P. A. Gurin, M. А. Vasiliev, M. M. Nishchenko, and A. I. Senkevich, Ortopedicheskaya Stomatologiya, No. 1: 119 (2004) (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF00058962",
+				"or":  "R. A. Silva, M. A. Barbosa, R. Vilar, O. Conde, M. Da Cunha Belo, and I. Sutherland, J. Mater. Sci.: Mater. Med., 5, Iss. 6–7: 353 (1994).",
+				"tr":  "R. A. Silva, M. A. Barbosa, R. Vilar, O. Conde, M. Da Cunha Belo, and I. Sutherland, J. Mater. Sci.: Mater. Med., 5, Iss. 6–7: 353 (1994)."
+			},
+			{
+				"doi": "10.1557/JMR.2003.0311",
+				"or":  "E. Gyorgy, A. Perez del Pino, P. Serra, and J. L. Morenza, J. Mater. Res., 18, Iss. 9: 2228 (2003).",
+				"tr":  "E. Gyorgy, A. Perez del Pino, P. Serra, and J. L. Morenza, J. Mater. Res., 18, Iss. 9: 2228 (2003)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(02)00477-X",
+				"or":  "Z. Sun, I. Annergren, D. Pan, and T. A. Mai, Mater. Sci. Eng. A, 345, Iss. 1–2: 293 (2003).",
+				"tr":  "Z. Sun, I. Annergren, D. Pan, and T. A. Mai, Mater. Sci. Eng. A, 345, Iss. 1–2: 293 (2003)."
+			},
+			{
+				"doi": "10.1016/S0167-577X(01)00395-0",
+				"or":  "T. M. Yue, J. K. Yu, Z. Mei, and H. C. Man, Mat. Letters, 52, Iss. 3: 206 (2002).",
+				"tr":  "T. M. Yue, J. K. Yu, Z. Mei, and H. C. Man, Mat. Letters, 52, Iss. 3: 206 (2002)."
+			},
+			{
+				"doi": "10.1016/j.biomaterials.2005.07.041",
+				"or":  "D. A. Hollandera, M. von Waltera, T. Wirtzb, R. Sellei, B. Schmidt-Rohlfing, O. Paar, and H. J. Erli, Biomaterials, 27, Iss. 7: 955 (2006).",
+				"tr":  "D. A. Hollandera, M. von Waltera, T. Wirtzb, R. Sellei, B. Schmidt-Rohlfing, O. Paar, and H. J. Erli, Biomaterials, 27, Iss. 7: 955 (2006)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2004.08.011",
+				"or":  "Y. S. Tain, C. Z. Chen, S. T. Li, and Q. H. Huo, Appl. Surf. Sci., 242, Iss. 1–2: 177 (2005).",
+				"tr":  "Y. S. Tain, C. Z. Chen, S. T. Li, and Q. H. Huo, Appl. Surf. Sci., 242, Iss. 1–2: 177 (2005)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2007.04.084",
+				"or":  "M. E. Khosroshahi, M. Mahmoodi, and J. Tavakoli, Appl. Surf. Sci., 253, Iss 21: 8772 (2007).",
+				"tr":  "M. E. Khosroshahi, M. Mahmoodi, and J. Tavakoli, Appl. Surf. Sci., 253, Iss 21: 8772 (2007)."
+			}
+		]
+	}
+}
